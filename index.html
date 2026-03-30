@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<html lang="en" prefix="og: https://ogp.me/ns#">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=5">
+<title>Chronicle of Convergence — Top 5 Breakthrough Science and Technology News, Daily Update</title>
+<meta name="description" content="Curated top 5 breakthrough scientific discoveries across AI, Robotics, Biotech, Space Tech, Energy &amp; Neuroscience — updated every 4 hours by AI.">
+<meta name="keywords" content="science news, AI breakthroughs, robotics, biotech, space tech, energy, neuroscience, daily science, breakthrough discoveries">
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
+<meta name="author" content="Chronicle of Convergence">
+<link rel="canonical" href="https://chronicleofconvergence.com/">
+<!-- Open Graph -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Chronicle of Convergence">
+<meta property="og:title" content="Chronicle of Convergence — Top 5 Breakthrough Science News">
+<meta property="og:description" content="Curated top 5 breakthrough scientific discoveries across AI, Robotics, Biotech, Space Tech, Energy &amp; Neuroscience — updated every 4 hours.">
+<meta property="og:url" content="https://chronicleofconvergence.com/">
+<meta property="og:image" content="https://chronicleofconvergence.com/img/CoC_logo_Blk.png">
+<meta property="og:locale" content="en_US">
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Chronicle of Convergence">
+<meta name="twitter:description" content="Top 5 breakthrough science news across AI, Robotics, Biotech, Space, Energy & Neuroscience.">
+<meta name="twitter:image" content="https://chronicleofconvergence.com/img/CoC_logo_Blk.png">
+<!-- JSON-LD Structured Data -->
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","name":"Chronicle of Convergence","url":"https://chronicleofconvergence.com/","description":"Curated top 5 breakthrough scientific discoveries across AI, Robotics, Biotech, Space Tech, Energy and Neuroscience, updated every 4 hours.","publisher":{"@type":"Organization","name":"Chronicle of Convergence","logo":{"@type":"ImageObject","url":"https://chronicleofconvergence.com/img/CoC_logo_wh.png"}}}
+</script>
+<!-- Preload fonts -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Outfit:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#060609;--bg-card:#0e0e14;--bg-hover:#15151e;--text:#eae8e3;--text-dim:#7a7a88;--border:#1e1e2a;
+  --ai:#00e5ff;--robotics:#ff2d87;--biotech:#39ff14;--space:#b388ff;--energy:#ffd600;--neuro:#ff6e40;
+  --glow-ai:rgba(0,229,255,.12);--glow-robotics:rgba(255,45,135,.12);--glow-biotech:rgba(57,255,20,.12);
+  --glow-space:rgba(179,136,255,.12);--glow-energy:rgba(255,214,0,.12);--glow-neuro:rgba(255,110,64,.12);
+  --font-serif:'Instrument Serif',Georgia,serif;
+  --font-sans:'Outfit',system-ui,sans-serif;
+  --font-mono:'JetBrains Mono',monospace;
+}
+*,*::before,*::after{margin:0;padding:0;box-sizing:border-box}
+html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
+body{background:var(--bg);color:var(--text);font-family:var(--font-sans);line-height:1.6;-webkit-font-smoothing:antialiased;overflow-x:hidden}
+::selection{background:var(--ai);color:var(--bg)}
+a{color:inherit;text-decoration:none}
+img{max-width:100%;height:auto}
+
+/* ══ AMBIENT BACKGROUND PARTICLES ══ */
+.ambient{position:fixed;inset:0;pointer-events:none;z-index:0;overflow:hidden}
+.ambient .orb{position:absolute;border-radius:50%;filter:blur(80px);opacity:.04;animation:orbFloat 20s ease-in-out infinite}
+.ambient .orb:nth-child(1){width:500px;height:500px;background:var(--ai);top:-10%;left:-5%;animation-delay:0s}
+.ambient .orb:nth-child(2){width:400px;height:400px;background:var(--robotics);bottom:-8%;right:-5%;animation-delay:-7s}
+.ambient .orb:nth-child(3){width:350px;height:350px;background:var(--space);top:40%;right:20%;animation-delay:-14s}
+@keyframes orbFloat{0%,100%{transform:translate(0,0) scale(1)}25%{transform:translate(30px,-40px) scale(1.05)}50%{transform:translate(-20px,30px) scale(.95)}75%{transform:translate(40px,20px) scale(1.02)}}
+
+/* ══ GRAIN OVERLAY ══ */
+body::after{content:'';position:fixed;inset:0;background:url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.8' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='.03'/%3E%3C/svg%3E");pointer-events:none;z-index:9998}
+
+/* ══ CONTENT LAYER ══ */
+.content-layer{position:relative;z-index:1}
+
+/* ══ HEADER ══ */
+header{position:relative;padding:2.5rem 1.5rem 2rem;text-align:center;border-bottom:1px solid var(--border);overflow:hidden}
+header::before{content:'';position:absolute;top:-40%;left:50%;transform:translateX(-50%);width:700px;height:700px;background:radial-gradient(circle,var(--glow-ai) 0%,transparent 65%);pointer-events:none;animation:headerGlow 8s ease-in-out infinite alternate}
+@keyframes headerGlow{0%{opacity:.6;transform:translateX(-50%) scale(1)}100%{opacity:1;transform:translateX(-50%) scale(1.1)}}
+
+.logo-wrap{margin-bottom:1rem;display:inline-block;position:relative}
+.logo-wrap img{height:clamp(48px,8vw,80px);width:auto;filter:drop-shadow(0 0 30px rgba(0,229,255,.08))}
+.logo-wrap::after{content:'';position:absolute;bottom:-6px;left:10%;right:10%;height:1px;background:linear-gradient(90deg,transparent,var(--ai),transparent);animation:logoLine 3s ease-in-out infinite alternate;opacity:.5}
+@keyframes logoLine{0%{opacity:.3;left:20%;right:20%}100%{opacity:.6;left:5%;right:5%}}
+
+.tagline{font-family:var(--font-mono);font-size:clamp(.6rem,.9vw,.72rem);letter-spacing:.25em;text-transform:uppercase;color:var(--text-dim);margin-bottom:1.2rem}
+.date-bar{display:inline-flex;align-items:center;gap:.8rem;padding:.4rem 1.2rem;border:1px solid var(--border);border-radius:100px;font-family:var(--font-mono);font-size:clamp(.58rem,.8vw,.68rem);color:var(--text-dim)}
+.date-bar .sep{opacity:.25}
+.live-dot{width:6px;height:6px;border-radius:50%;background:var(--ai);display:inline-block;animation:livePulse 2s ease-in-out infinite}
+@keyframes livePulse{0%,100%{box-shadow:0 0 0 0 rgba(0,229,255,.4)}50%{box-shadow:0 0 0 6px rgba(0,229,255,0)}}
+
+/* ══ CATEGORY NAV ══ */
+nav.cats{display:flex;justify-content:center;flex-wrap:wrap;gap:.4rem;padding:1.2rem 1rem;border-bottom:1px solid var(--border);position:sticky;top:0;z-index:100;background:rgba(6,6,9,.85);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px)}
+.cat-pill{padding:.28rem .8rem;border:1px solid var(--border);border-radius:100px;font-family:var(--font-mono);font-size:clamp(.55rem,.7vw,.62rem);letter-spacing:.1em;text-transform:uppercase;cursor:pointer;transition:all .25s;background:transparent;color:var(--text-dim)}
+.cat-pill:hover,.cat-pill.active{color:var(--bg);border-color:transparent}
+.cat-pill[data-cat=all]:hover,.cat-pill[data-cat=all].active{background:var(--text)}
+.cat-pill[data-cat=ai]:hover,.cat-pill[data-cat=ai].active{background:var(--ai)}
+.cat-pill[data-cat=robotics]:hover,.cat-pill[data-cat=robotics].active{background:var(--robotics)}
+.cat-pill[data-cat=biotech]:hover,.cat-pill[data-cat=biotech].active{background:var(--biotech)}
+.cat-pill[data-cat=space]:hover,.cat-pill[data-cat=space].active{background:var(--space)}
+.cat-pill[data-cat=energy]:hover,.cat-pill[data-cat=energy].active{background:var(--energy)}
+.cat-pill[data-cat=neuroscience]:hover,.cat-pill[data-cat=neuroscience].active{background:var(--neuro)}
+
+/* ══ SECTION LABELS ══ */
+.sec-label{max-width:960px;margin:0 auto;padding:2.5rem 1.5rem 0;display:flex;align-items:center;gap:1rem}
+.sec-label h2{font-family:var(--font-serif);font-size:1.5rem;font-weight:400;font-style:italic;white-space:nowrap}
+.sec-label .line{flex:1;height:1px;background:linear-gradient(90deg,var(--border),transparent)}
+.badge-live{font-family:var(--font-mono);font-size:.5rem;letter-spacing:.15em;text-transform:uppercase;padding:.2rem .6rem;border-radius:4px;background:var(--ai);color:var(--bg);font-weight:600}
+.badge-archive{font-family:var(--font-mono);font-size:.5rem;letter-spacing:.15em;text-transform:uppercase;color:var(--text-dim)}
+.batch-ts{max-width:960px;margin:0 auto;padding:1.5rem 1.5rem .3rem;display:flex;align-items:center;gap:1rem}
+.batch-ts .ts{font-family:var(--font-mono);font-size:.6rem;color:var(--text-dim);white-space:nowrap}
+.batch-ts .line{flex:1;height:1px;background:var(--border)}
+
+/* ══ TIMELINE ══ */
+.tl{max-width:960px;margin:0 auto;padding:1.5rem 1.5rem 3rem;position:relative}
+.tl::before{content:'';position:absolute;left:50%;top:0;bottom:0;width:1px;background:linear-gradient(to bottom,transparent,var(--border) 3%,var(--border) 97%,transparent)}
+
+.tl-item{position:relative;width:calc(50% - 36px);margin-bottom:2.2rem;opacity:0;transform:translateY(20px);transition:opacity .5s,transform .5s}
+.tl-item.vis{opacity:1;transform:none}
+.tl-item:nth-child(odd){margin-left:0;text-align:right}
+.tl-item:nth-child(even){margin-left:auto;text-align:left}
+
+/* Node */
+.tl-item::before{content:'';position:absolute;top:22px;width:10px;height:10px;border-radius:50%;border:2px solid var(--border);background:var(--bg);z-index:2;transition:all .3s}
+.tl-item:nth-child(odd)::before{right:-42px}
+.tl-item:nth-child(even)::before{left:-42px}
+.tl-item::after{content:'';position:absolute;top:26px;width:26px;height:1px;background:var(--border)}
+.tl-item:nth-child(odd)::after{right:-32px}
+.tl-item:nth-child(even)::after{left:-32px}
+
+/* Category colors */
+.tl-item[data-cat=ai]::before{border-color:var(--ai)}.tl-item[data-cat=ai]:hover::before{background:var(--ai);box-shadow:0 0 14px var(--ai)}
+.tl-item[data-cat=robotics]::before{border-color:var(--robotics)}.tl-item[data-cat=robotics]:hover::before{background:var(--robotics);box-shadow:0 0 14px var(--robotics)}
+.tl-item[data-cat=biotech]::before{border-color:var(--biotech)}.tl-item[data-cat=biotech]:hover::before{background:var(--biotech);box-shadow:0 0 14px var(--biotech)}
+.tl-item[data-cat=space]::before{border-color:var(--space)}.tl-item[data-cat=space]:hover::before{background:var(--space);box-shadow:0 0 14px var(--space)}
+.tl-item[data-cat=energy]::before{border-color:var(--energy)}.tl-item[data-cat=energy]:hover::before{background:var(--energy);box-shadow:0 0 14px var(--energy)}
+.tl-item[data-cat=neuroscience]::before{border-color:var(--neuro)}.tl-item[data-cat=neuroscience]:hover::before{background:var(--neuro);box-shadow:0 0 14px var(--neuro)}
+
+.card{display:block;background:var(--bg-card);border:1px solid var(--border);border-radius:14px;overflow:hidden;transition:all .35s}
+.card:hover{background:var(--bg-hover);border-color:#2a2a3a;transform:translateY(-3px);box-shadow:0 20px 50px rgba(0,0,0,.5)}
+.card-img{position:relative;width:100%;padding-top:56.25%;overflow:hidden;background:var(--bg)}
+.card-img img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;transition:transform .5s}
+.card:hover .card-img img{transform:scale(1.04)}
+.card-img .overlay{position:absolute;inset:0;background:linear-gradient(to top,rgba(6,6,9,.75) 0%,transparent 50%)}
+.card-body{padding:1rem 1.2rem 1rem}
+.card-meta{display:flex;align-items:center;gap:.5rem;margin-bottom:.4rem;flex-wrap:wrap;justify-content:flex-start}
+.tl-item:nth-child(odd) .card-meta{justify-content:flex-end}
+.cat-tag{font-family:var(--font-mono);font-size:.5rem;font-weight:600;letter-spacing:.12em;text-transform:uppercase;padding:.18rem .5rem;border-radius:3px;color:var(--bg)}
+.cat-tag.ai{background:var(--ai)}.cat-tag.robotics{background:var(--robotics)}.cat-tag.biotech{background:var(--biotech)}.cat-tag.space{background:var(--space)}.cat-tag.energy{background:var(--energy)}.cat-tag.neuroscience{background:var(--neuro)}
+.card-time{font-family:var(--font-mono);font-size:.55rem;color:var(--text-dim)}
+.card-title{font-family:var(--font-serif);font-size:clamp(1rem,1.6vw,1.2rem);font-weight:400;line-height:1.35;margin-bottom:.25rem;color:var(--text)}
+.card-summary{font-size:.72rem;color:var(--text-dim);line-height:1.5;margin-bottom:.4rem;font-weight:300}
+.card-source{font-family:var(--font-mono);font-size:.52rem;letter-spacing:.1em;text-transform:uppercase;color:var(--text-dim);display:inline-flex;align-items:center;gap:.3rem}
+.card-source .arrow{transition:transform .3s}
+.card:hover .card-source .arrow{transform:translateX(3px)}
+.rank-num{font-family:var(--font-serif);font-size:3rem;font-weight:400;font-style:italic;line-height:1;color:rgba(30,30,42,.8);position:absolute;top:-6px;transition:color .3s}
+.tl-item:nth-child(odd) .rank-num{left:0}
+.tl-item:nth-child(even) .rank-num{right:0}
+
+/* ══ SHARE BAR ══ */
+.share-bar{display:flex;gap:4px;margin-top:.6rem;flex-wrap:wrap;justify-content:flex-start}
+.tl-item:nth-child(odd) .share-bar{justify-content:flex-end}
+.share-btn{width:26px;height:26px;border-radius:50%;border:1px solid var(--border);background:transparent;color:var(--text-dim);font-size:.55rem;display:inline-flex;align-items:center;justify-content:center;cursor:pointer;transition:all .2s;text-decoration:none;line-height:1}
+.share-btn:hover{background:var(--bg-hover);border-color:var(--text-dim);color:var(--text)}
+.share-btn svg{width:12px;height:12px;fill:currentColor}
+
+/* ══ EMPTY / LOADING ══ */
+.empty{text-align:center;padding:5rem 2rem;color:var(--text-dim)}
+.empty .icon{font-size:2.5rem;margin-bottom:.8rem;opacity:.2}
+.empty p{font-family:var(--font-mono);font-size:.7rem;letter-spacing:.08em}
+
+/* ══ LOAD MORE ══ */
+.load-wrap{text-align:center;padding:2rem}
+.load-btn{padding:.5rem 1.8rem;border:1px solid var(--border);border-radius:100px;background:transparent;color:var(--text-dim);font-family:var(--font-mono);font-size:.65rem;cursor:pointer;transition:all .3s;letter-spacing:.08em}
+.load-btn:hover{border-color:var(--ai);color:var(--ai)}
+.end-mark{text-align:center;padding:1.5rem;font-family:var(--font-mono);font-size:.6rem;color:var(--text-dim);opacity:.4}
+
+/* ══ FOOTER ══ */
+footer{text-align:center;padding:2rem 1rem;border-top:1px solid var(--border);font-family:var(--font-mono);font-size:.58rem;color:var(--text-dim);letter-spacing:.08em}
+footer a{color:var(--ai);transition:opacity .2s}
+footer a:hover{opacity:.7}
+
+/* ══ RESPONSIVE ══ */
+@media(max-width:768px){
+  .tl::before{left:16px}
+  .tl-item,.tl-item:nth-child(odd),.tl-item:nth-child(even){width:calc(100% - 42px);margin-left:42px;text-align:left}
+  .tl-item::before,.tl-item:nth-child(odd)::before,.tl-item:nth-child(even)::before{left:-30px;right:auto}
+  .tl-item::after,.tl-item:nth-child(odd)::after,.tl-item:nth-child(even)::after{left:-20px;right:auto}
+  .tl-item:nth-child(odd) .card-meta,.tl-item:nth-child(odd) .share-bar{justify-content:flex-start}
+  .rank-num{position:static;font-size:1.6rem;margin-bottom:.15rem}
+  nav.cats{gap:.3rem;padding:.8rem .6rem}
+}
+
+/* ══ SHIMMER ANIMATION ON CARDS ══ */
+.card::before{content:'';position:absolute;top:0;left:-100%;width:60%;height:100%;background:linear-gradient(90deg,transparent,rgba(255,255,255,.02),transparent);z-index:1;transition:none;pointer-events:none}
+.card:hover::before{animation:cardShimmer .8s ease forwards}
+@keyframes cardShimmer{to{left:150%}}
+
+/* ══ PRINT ══ */
+@media print{.ambient,body::after,nav.cats,.share-bar,.load-wrap,.end-mark{display:none}body{background:#fff;color:#000}.card{border:1px solid #ccc}}
+</style>
+</head>
+<body>
+<div class="ambient" aria-hidden="true"><div class="orb"></div><div class="orb"></div><div class="orb"></div></div>
+
+<div class="content-layer">
+<header role="banner">
+  <div class="logo-wrap">
+    <img src="img/CoC_logo_wh.png" alt="Chronicle of Convergence" width="400" height="100" loading="eager">
+  </div>
+  <p class="tagline">Top Scientific Breakthrough &bull; Convergence of The Future</p>
+  <div class="date-bar">
+    <span class="live-dot" aria-label="Live"></span>
+    <span id="curDate"></span>
+    <span class="sep">|</span>
+    <span>A.I. · Robotics · Biotech · Space · Energy · Neuro</span>
+  </div>
+</header>
+
+<nav class="cats" id="catNav" role="navigation" aria-label="Category filter">
+  <button class="cat-pill active" data-cat="all">All</button>
+  <button class="cat-pill" data-cat="ai">AI</button>
+  <button class="cat-pill" data-cat="robotics">Robotics</button>
+  <button class="cat-pill" data-cat="biotech">Biotech</button>
+  <button class="cat-pill" data-cat="space">Space Tech</button>
+  <button class="cat-pill" data-cat="energy">Energy</button>
+  <button class="cat-pill" data-cat="neuroscience">Neuroscience</button>
+</nav>
+
+<main role="main">
+  <div id="liveArea"></div>
+  <div id="archArea"></div>
+  <div class="load-wrap" id="loadWrap" style="display:none"><button class="load-btn" id="loadBtn" onclick="loadMore()">Load more from the archive ↓</button></div>
+  <div class="end-mark" id="endMark" style="display:none">— End of Archive —</div>
+</main>
+
+<footer role="contentinfo" class="bg-black/60 border-t border-white/10 py-10 text-white/40 text-sm">
+    <div class="max-w-screen-2xl mx-auto px-8">
+        <div class="flex flex-col md:flex-row justify-between items-center gap-y-3 text-center md:text-left">
+            
+            <!-- Dynamic copyright line (exactly as you requested) -->
+            <div>
+               &copy; 2019–<span id="yr"></span>
+                <span id="yr"></span> chronicleofconvergence.com 
+                <span class="text-white/70">a WeMake, Corp. Company</span>
+            </div>
+            
+            <!-- Optional small branding (keeps the minimalist elegance) -->
+            <div class="text-xs font-mono opacity-50 flex items-center gap-x-4">
+                <span>All Rights Reserved</span>
+            </div>
+            
+        </div>
+    </div>
+    <script>
+    // Auto-update copyright year (2019–CURRENT YEAR)
+    function updateCopyrightYear() {
+        const yearSpan = document.getElementById('yr');
+        if (yearSpan) {
+            const currentYear = new Date().getFullYear();
+            yearSpan.textContent = `${currentYear}`;
+        }
+    }
+    
+    // Run when page loads
+    window.addEventListener('load', updateCopyrightYear);
+</script>
+</footer>
+</div>
+
+<script>
+/* ════════ DATA ════════ */
+const EMBEDDED_DATA=[{batchId:"demo_2026-03-30T09-00",scannedAt:new Date().toISOString(),items:[
+{id:"d1",rank:1,title:"DeepMind\u2019s Gemini 3 Achieves Human-Level Scientific Reasoning Across All Disciplines",category:"ai",summary:"Google DeepMind\u2019s Gemini 3 matched expert-level performance on every major scientific benchmark.",image:"https://images.unsplash.com/photo-1677442136019-21780ecad995?w=720&q=80",source:"Nature",sourceUrl:"https://nature.com"},
+{id:"d2",rank:2,title:"Boston Dynamics Unveils Atlas Gen-3 with Fully Autonomous Tool Manipulation",category:"robotics",summary:"The third-generation Atlas demonstrated autonomous use of 200+ tools without prior programming.",image:"https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=720&q=80",source:"IEEE Spectrum",sourceUrl:"https://spectrum.ieee.org"},
+{id:"d3",rank:3,title:"CRISPR 3.0 Base-Editing Cures Sickle Cell in 98% of Patients in Landmark Trial",category:"biotech",summary:"A 5,000-patient trial demonstrated near-complete cure rates using next-gen base editors.",image:"https://images.unsplash.com/photo-1579154204601-01588f351e67?w=720&q=80",source:"The Lancet",sourceUrl:"https://thelancet.com"},
+{id:"d4",rank:4,title:"Perovskite-Silicon Tandem Solar Cell Shatters 36% Efficiency in Field Tests",category:"energy",summary:"An international team achieved record 36.2% conversion efficiency in real outdoor conditions.",image:"https://images.unsplash.com/photo-1509391366360-2e959784a276?w=720&q=80",source:"Science",sourceUrl:"https://science.org"},
+{id:"d5",rank:5,title:"Non-Invasive BCI Reads Full Sentences from Brain Activity at 97% Accuracy",category:"neuroscience",summary:"A wearable 256-electrode headset decoded complex linguistic thought without surgery.",image:"https://images.unsplash.com/photo-1559757175-5700dde675bc?w=720&q=80",source:"Cell",sourceUrl:"https://cell.com"}
+]}];
+
+const H24=864e5,ARCH_PG=3;
+let allB=[],aCat='all',aPage=0;
+
+/* ════════ INIT ════════ */
+(function(){
+  const now=new Date();
+  document.getElementById('curDate').textContent=now.toLocaleDateString('en-US',{weekday:'long',year:'numeric',month:'long',day:'numeric'});
+  document.getElementById('yr').textContent=now.getFullYear();
+  let d;try{d=JSON.parse(localStorage.getItem('coc_news_data'))}catch(e){}
+  if(!d||!d.length)d=EMBEDDED_DATA;
+  allB=d.sort((a,b)=>new Date(b.scannedAt)-new Date(a.scannedAt));
+  render();
+  document.getElementById('catNav').addEventListener('click',e=>{
+    const p=e.target.closest('.cat-pill');if(!p)return;
+    document.querySelectorAll('.cat-pill').forEach(x=>x.classList.remove('active'));
+    p.classList.add('active');aCat=p.dataset.cat;aPage=0;render();
+  });
+  setupObs();
+})();
+
+function render(){
+  const now=Date.now();
+  const live=allB.filter(b=>(now-new Date(b.scannedAt).getTime())<H24);
+  const arch=allB.filter(b=>(now-new Date(b.scannedAt).getTime())>=H24);
+  renderLive(live);aPage=0;document.getElementById('archArea').innerHTML='';renderArch(arch);
+}
+
+function renderLive(bs){
+  const c=document.getElementById('liveArea');
+  const items=bs.flatMap(b=>filterB(b));
+  if(!items.length){c.innerHTML=`<div class="sec-label"><h2>Today</h2><span class="line"></span><span class="badge-live">LIVE</span></div><div class="empty"><div class="icon">\u25C7</div><p>No live breakthroughs yet.</p></div>`;return}
+  let h='';
+  for(const b of bs){const bi=filterB(b);if(!bi.length)continue;const dt=new Date(b.scannedAt);const t=dt.toLocaleTimeString('en-US',{hour:'2-digit',minute:'2-digit'});
+  h+=`<div class="sec-label"><h2>Today</h2><span class="line"></span><span class="badge-live">LIVE \u00B7 ${t}</span></div><section class="tl" role="list">${bi.map((it,i)=>cardH(it,i)).join('')}</section>`}
+  c.innerHTML=h;setupObs();
+}
+
+function renderArch(abs){
+  if(!abs.length){document.getElementById('loadWrap').style.display='none';if(!aPage)document.getElementById('endMark').style.display='none';return}
+  const s=aPage*ARCH_PG,page=abs.slice(s,s+ARCH_PG),more=(s+ARCH_PG)<abs.length;
+  if(!page.length){document.getElementById('loadWrap').style.display='none';document.getElementById('endMark').style.display='block';return}
+  const c=document.getElementById('archArea');
+  if(!aPage&&page.length)c.innerHTML+=`<div class="sec-label"><h2>Archive</h2><span class="line"></span><span class="badge-archive">PAST BREAKTHROUGHS</span></div>`;
+  for(const b of page){const bi=filterB(b);if(!bi.length)continue;const dt=new Date(b.scannedAt);const ds=dt.toLocaleDateString('en-US',{weekday:'short',month:'short',day:'numeric',year:'numeric'});const ts=dt.toLocaleTimeString('en-US',{hour:'2-digit',minute:'2-digit'});
+  c.innerHTML+=`<div class="batch-ts"><span class="ts">${ds} \u00B7 ${ts}</span><span class="line"></span></div><section class="tl" role="list">${bi.map((it,i)=>cardH(it,i)).join('')}</section>`}
+  document.getElementById('loadWrap').style.display=more?'block':'none';
+  document.getElementById('endMark').style.display=more?'none':'block';
+  aPage++;setupObs();
+}
+
+function loadMore(){const arch=allB.filter(b=>(Date.now()-new Date(b.scannedAt).getTime())>=H24);renderArch(arch)}
+
+/* ════════ CARD HTML ════════ */
+function cardH(it,i){
+  const t=it._bt?new Date(it._bt).toLocaleTimeString('en-US',{hour:'2-digit',minute:'2-digit'}):'';
+  const shareUrl=encodeURIComponent(it.sourceUrl||'');
+  const shareTitle=encodeURIComponent(it.title||'');
+  const shareTxt=encodeURIComponent((it.title||'')+' — via Chronicle of Convergence');
+  return`<article class="tl-item" data-cat="${it.category}" style="transition-delay:${i*.06}s" role="listitem">
+  <span class="rank-num" aria-hidden="true">${String(it.rank).padStart(2,'0')}</span>
+  <a href="${it.sourceUrl}" target="_blank" rel="noopener" class="card" aria-label="${it.title}">
+    <div class="card-img"><img src="${it.image}" alt="" loading="lazy" onerror="this.style.display='none'"><div class="overlay"></div></div>
+    <div class="card-body">
+      <div class="card-meta"><span class="cat-tag ${it.category}">${fCat(it.category)}</span>${t?`<span class="card-time">${t}</span>`:''}</div>
+      <h3 class="card-title">${it.title}</h3>${it.summary?`<p class="card-summary">${it.summary}</p>`:''}
+      <span class="card-source">${it.source} <span class="arrow">\u2192</span></span>
+    </div>
+  </a>
+  <div class="share-bar" aria-label="Share this article">
+    <a class="share-btn" href="https://twitter.com/intent/tweet?url=${shareUrl}&text=${shareTitle}" target="_blank" rel="noopener" title="X / Twitter"><svg viewBox="0 0 24 24"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg></a>
+    <a class="share-btn" href="https://www.facebook.com/sharer/sharer.php?u=${shareUrl}" target="_blank" rel="noopener" title="Facebook"><svg viewBox="0 0 24 24"><path d="M9.198 21.5h4v-8.01h3.604l.396-3.98h-4V7.5a1 1 0 011-1h3v-4h-3a5 5 0 00-5 5v2.01h-2l-.396 3.98h2.396z"/></svg></a>
+    <a class="share-btn" href="https://www.linkedin.com/sharing/share-offsite/?url=${shareUrl}" target="_blank" rel="noopener" title="LinkedIn"><svg viewBox="0 0 24 24"><path d="M6.94 5a2 2 0 11-4 0 2 2 0 014 0zM3.5 8.5h3v12h-3zm5.5 0h3v1.7s1.2-2 3.8-2c2.4 0 4.2 1.5 4.2 4.8v7.5h-3v-6.8c0-1.8-.7-2.7-2-2.7s-2.5 1.2-2.5 3v6.5h-3.5z"/></svg></a>
+    <a class="share-btn" href="https://www.reddit.com/submit?url=${shareUrl}&title=${shareTitle}" target="_blank" rel="noopener" title="Reddit"><svg viewBox="0 0 24 24"><path d="M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10zm6.67-10a1.46 1.46 0 00-2.47-1 7.12 7.12 0 00-3.85-1.23l.65-3.13 2.18.45a1 1 0 101.16-.18l-2.44-.5a.5.5 0 00-.56.34l-.72 3.47a7.14 7.14 0 00-3.9 1.23 1.46 1.46 0 10-1.6 2.39 2.73 2.73 0 000 .46c0 2.24 2.61 4.06 5.83 4.06s5.83-1.82 5.83-4.06a2.73 2.73 0 000-.46 1.45 1.45 0 00.83-1.31zM9.5 13a1 1 0 100 2 1 1 0 000-2zm5 0a1 1 0 100 2 1 1 0 000-2zm-4.33 3.44s.84.84 1.83.84 1.83-.84 1.83-.84"/></svg></a>
+    <a class="share-btn" href="https://www.tiktok.com/" target="_blank" rel="noopener" title="TikTok"><svg viewBox="0 0 24 24"><path d="M16.6 5.82s.51.49 0 0A4.278 4.278 0 0015.54 3h-3.09v12.4a2.592 2.592 0 01-2.59 2.5c-1.42 0-2.6-1.16-2.6-2.6 0-1.72 1.66-3.01 3.37-2.48V9.66c-3.45-.46-6.47 2.22-6.47 5.64 0 3.33 2.76 5.7 5.69 5.7 3.14 0 5.69-2.55 5.69-5.7V9.01a7.35 7.35 0 004.3 1.38V7.3s-1.88.09-3.24-1.48z"/></svg></a>
+    <a class="share-btn" href="mailto:?subject=${shareTitle}&body=${shareTxt}%20${shareUrl}" title="Email"><svg viewBox="0 0 24 24"><path d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" fill="none" stroke="currentColor" stroke-width="2"/></svg></a>
+    <a class="share-btn" href="sms:?body=${shareTxt}%20${shareUrl}" title="SMS"><svg viewBox="0 0 24 24"><path d="M21 15a2 2 0 01-2 2H7l-4 4V5a2 2 0 012-2h14a2 2 0 012 2z" fill="none" stroke="currentColor" stroke-width="2"/></svg></a>
+  </div>
+</article>`}
+
+function filterB(b){let it=(b.items||[]).map(x=>({...x,_bt:b.scannedAt}));if(aCat!=='all')it=it.filter(x=>x.category===aCat);return it.sort((a,b)=>a.rank-b.rank)}
+function fCat(c){return{ai:'AI',robotics:'Robotics',biotech:'Biotech',space:'Space Tech',energy:'Energy',neuroscience:'Neuroscience'}[c]||c}
+
+/* ════════ SCROLL REVEAL ════════ */
+function setupObs(){const o=new IntersectionObserver(es=>{es.forEach(e=>{if(e.isIntersecting){e.target.classList.add('vis');o.unobserve(e.target)}})},{threshold:.12});document.querySelectorAll('.tl-item:not(.vis)').forEach(el=>o.observe(el))}
+
+/* ════════ INFINITE SCROLL ════════ */
+window.addEventListener('scroll',()=>{const w=document.getElementById('loadWrap');if(w.style.display==='none')return;if(w.getBoundingClientRect().top<window.innerHeight+300)loadMore()})
+</script>
+</body>
+</html>
