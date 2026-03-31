@@ -1,0 +1,74 @@
+name: Auto-Scan News
+on:
+  schedule:
+    - cron: '0 */4 * * *'   # Every 4 hours
+  workflow_dispatch:          # Manual trigger
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Scan for news
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          # Call Anthropic API with web search
+          RESPONSE=$(curl -s https://api.anthropic.com/v1/messages \
+            -H "Content-Type: application/json" \
+            -H "x-api-key: $ANTHROPIC_API_KEY" \
+            -H "anthropic-version: 2023-06-01" \
+            -d '{
+              "model": "claude-sonnet-4-20250514",
+              "max_tokens": 4000,
+              "tools": [{"type":"web_search_20250305","name":"web_search","max_uses":12}],
+              "system": "You are a science news curator. Find top 5 breakthrough science news from the last 24 hours. Return ONLY a JSON array of objects with: rank, title, category (ai|robotics|biotech|space|energy|neuroscience), summary, source, sourceUrl, image.",
+              "messages": [{"role":"user","content":"Search for today'\''s top 5 breakthrough science news."}]
+            }')
+
+          # Extract and save the new batch
+          node -e "
+            const data = JSON.parse(process.argv[1]);
+            const text = data.content.filter(b=>b.type==='text').map(b=>b.text).join('');
+            const clean = text.replace(/\`\`\`json/g,'').replace(/\`\`\`/g,'').trim();
+            const match = clean.match(/\[[\s\S]*\]/);
+            if (!match) { console.error('No JSON found'); process.exit(1); }
+            const items = JSON.parse(match[0]).slice(0,5);
+            const batch = {
+              batchId: 'auto_' + new Date().toISOString().replace(/[:.]/g,'-').slice(0,16),
+              scannedAt: new Date().toISOString(),
+              items: items.map((it,i) => ({
+                id: 'auto_'+Date.now()+'_'+(i+1),
+                rank: it.rank||(i+1), title: it.title||'',
+                category: it.category||'ai', summary: it.summary||'',
+                image: it.image||'', source: it.source||'', sourceUrl: it.sourceUrl||'#'
+              }))
+            };
+
+            // Read existing data from index.html
+            const fs = require('fs');
+            let html = fs.readFileSync('index.html','utf8');
+            const dataMatch = html.match(/const EMBEDDED_DATA = (\[[\s\S]*?\]);/);
+            let existing = [];
+            if (dataMatch) { try { existing = eval(dataMatch[1]); } catch(e){} }
+            existing.unshift(batch);
+            // Keep last 30 days of batches
+            const cutoff = Date.now() - 30*86400000;
+            existing = existing.filter(b => new Date(b.scannedAt).getTime() > cutoff);
+
+            html = html.replace(
+              /const EMBEDDED_DATA = \[[\s\S]*?\];/,
+              'const EMBEDDED_DATA = ' + JSON.stringify(existing, null, 2) + ';'
+            );
+            fs.writeFileSync('index.html', html);
+            console.log('Updated with ' + items.length + ' items');
+          " "$RESPONSE"
+
+      - name: Commit & push
+        run: |
+          git config user.name "Chronicle Bot"
+          git config user.email "bot@chronicleofconvergence.com"
+          git add index.html
+          git diff --cached --quiet || git commit -m "Auto-scan: $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
