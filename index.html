@@ -258,13 +258,64 @@ footer a:hover{opacity:.7}
 
 <script>
 /* ════════ DATA ════════ */
-const EMBEDDED_DATA=[{batchId:"demo_2026-03-30T09-00",scannedAt:new Date().toISOString(),items:[
-{id:"d1",rank:1,title:"DeepMind\u2019s Gemini 3 Achieves Human-Level Scientific Reasoning Across All Disciplines",category:"ai",summary:"Google DeepMind\u2019s Gemini 3 matched expert-level performance on every major scientific benchmark.",image:"https://images.unsplash.com/photo-1677442136019-21780ecad995?w=720&q=80",source:"Nature",sourceUrl:"https://nature.com"},
-{id:"d2",rank:2,title:"Boston Dynamics Unveils Atlas Gen-3 with Fully Autonomous Tool Manipulation",category:"robotics",summary:"The third-generation Atlas demonstrated autonomous use of 200+ tools without prior programming.",image:"https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=720&q=80",source:"IEEE Spectrum",sourceUrl:"https://spectrum.ieee.org"},
-{id:"d3",rank:3,title:"CRISPR 3.0 Base-Editing Cures Sickle Cell in 98% of Patients in Landmark Trial",category:"biotech",summary:"A 5,000-patient trial demonstrated near-complete cure rates using next-gen base editors.",image:"https://images.unsplash.com/photo-1579154204601-01588f351e67?w=720&q=80",source:"The Lancet",sourceUrl:"https://thelancet.com"},
-{id:"d4",rank:4,title:"Perovskite-Silicon Tandem Solar Cell Shatters 36% Efficiency in Field Tests",category:"energy",summary:"An international team achieved record 36.2% conversion efficiency in real outdoor conditions.",image:"https://images.unsplash.com/photo-1509391366360-2e959784a276?w=720&q=80",source:"Science",sourceUrl:"https://science.org"},
-{id:"d5",rank:5,title:"Non-Invasive BCI Reads Full Sentences from Brain Activity at 97% Accuracy",category:"neuroscience",summary:"A wearable 256-electrode headset decoded complex linguistic thought without surgery.",image:"https://images.unsplash.com/photo-1559757175-5700dde675bc?w=720&q=80",source:"Cell",sourceUrl:"https://cell.com"}
-]}];
+[
+  {
+    "batchId": "batch_2026-03-31T00-44",
+    "scannedAt": "2026-03-31T00:44:30.582Z",
+    "items": [
+      {
+        "id": "batch_2026-03-31T00-44_1",
+        "rank": 1,
+        "title": "Webb Telescope Spots Mysterious Explosion That Defies Known Physics",
+        "category": "space",
+        "summary": "<cite index=\"12-27,12-28\">GRB 250702B, detected by NASA's James Webb Space Telescope and a global network of observatories, is a bizarre cosmic explosion that refuses to play by the rules and is leaving scientists scrambling for answers.</cite>",
+        "image": "https://www.sciencedaily.com/images/1920/grb-250702b.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/"
+      },
+      {
+        "id": "batch_2026-03-31T00-44_2",
+        "rank": 2,
+        "title": "Scientists Finally Found Hidden Critical Point in Supercooled Water",
+        "category": "energy",
+        "summary": "<cite index=\"12-2,12-3,12-5,12-6\">Scientists have finally found a hidden 'critical point' in supercooled water that explains why it behaves so strangely, where two different liquid forms of water merge, triggering powerful fluctuations that affect water even at normal temperatures.</cite>",
+        "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=720&q=80",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/news/top/science/"
+      },
+      {
+        "id": "batch_2026-03-31T00-44_3",
+        "rank": 3,
+        "title": "Philippine Teams Master 3D Sensor Fusion for Autonomous Robotics",
+        "category": "robotics",
+        "summary": "<cite index=\"23-6\">By synchronizing 3D LiDAR point clouds with 2D RGB video feeds, specialized Philippine teams provide the centimeter-level ground truth and temporal consistency required for autonomous robots to navigate complex, unstructured human environments with 99.9% reliability.</cite>",
+        "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=720&q=80",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/03/30/image-annotation-outsourcing-services-philippines-the-3d-sensor-fusion-frontier/100233/"
+      },
+      {
+        "id": "batch_2026-03-31T00-44_4",
+        "rank": 4,
+        "title": "Solar Cells Achieve Impossible 130% Efficiency Through Singlet Fission",
+        "category": "energy",
+        "summary": "<cite index=\"11-25,11-26,11-27\">A new solar breakthrough may overcome a long-standing efficiency barrier using a 'spin-flip' metal complex to capture and multiply energy from sunlight through singlet fission, reaching about 130% efficiency with more energy carriers produced than photons absorbed.</cite>",
+        "image": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?w=720&q=80",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/"
+      },
+      {
+        "id": "batch_2026-03-31T00-44_5",
+        "rank": 5,
+        "title": "Quasars Shut Down Star Formation in Distant Galaxies",
+        "category": "space",
+        "summary": "<cite index=\"12-30,12-31\">Scientists found that quasars emit radiation strong enough to shut down star formation in nearby galaxies millions of light-years away, a blazing supermassive black hole influencing far more than its own galaxy.</cite>",
+        "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2021/01/011321_lg_cold_quasar_feat.jpg",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/news/top/science/"
+      }
+    ]
+  }
+]
 
 const H24=864e5,ARCH_PG=3;
 let allB=[],aCat='all',aPage=0;
