@@ -114,8 +114,9 @@ jobs:
           // Read index.html
           let html = fs.readFileSync('index.html', 'utf8');
 
-          // Match: const EMBEDDED_DATA = [...];
-          const regex = /const\s+EMBEDDED_DATA\s*=\s*\[[\s\S]*?\];/;
+          // FIX: Use greedy match (not lazy *?) so ]; inside JSON strings doesn't
+          // prematurely end the match and corrupt the embedded data block.
+          const regex = /const\s+EMBEDDED_DATA\s*=\s*\[[\s\S]*\];/;
           const found = html.match(regex);
 
           if (!found) {
@@ -131,7 +132,7 @@ jobs:
               .replace(/;$/, '');
             existing = JSON.parse(arrStr);
           } catch (e) {
-            console.warn('Could not parse existing data, starting fresh');
+            console.warn('Could not parse existing data, starting fresh:', e.message);
             existing = [];
           }
 
@@ -142,9 +143,9 @@ jobs:
           const cutoff = Date.now() - 30 * 24 * 60 * 60 * 1000;
           existing = existing.filter(b => new Date(b.scannedAt).getTime() > cutoff);
 
-          // Replace in HTML
+          // Replace in HTML — use a function replacer to avoid $ interpretation issues
           const replacement = 'const EMBEDDED_DATA = ' + JSON.stringify(existing, null, 2) + ';';
-          html = html.replace(regex, replacement);
+          html = html.replace(regex, () => replacement);
 
           fs.writeFileSync('index.html', html);
           console.log('Updated index.html: ' + batch.items.length + ' new items, ' + existing.length + ' total batches');
