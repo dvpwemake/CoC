@@ -8,12 +8,15 @@ on:
 permissions:
   contents: write
 
+env:
+  ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: 'true'
+
 jobs:
   scan:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v4
 
       - name: Build API request
         run: |
@@ -33,6 +36,10 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
+          if [ -z "${ANTHROPIC_API_KEY}" ]; then
+            echo "::error::ANTHROPIC_API_KEY secret is not set. Add it in Settings > Secrets > Actions."
+            exit 1
+          fi
           HTTP_CODE=$(curl -s -w "%{http_code}" -o /tmp/response.json \
             https://api.anthropic.com/v1/messages \
             -H "Content-Type: application/json" \
@@ -41,7 +48,7 @@ jobs:
             -d @/tmp/request.json)
           echo "API returned HTTP ${HTTP_CODE}"
           if [ "${HTTP_CODE}" != "200" ]; then
-            echo "Error response:"
+            echo "::error::Anthropic API returned HTTP ${HTTP_CODE}"
             cat /tmp/response.json
             exit 1
           fi
