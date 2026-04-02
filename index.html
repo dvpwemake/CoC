@@ -685,6 +685,29 @@ function renderArch(abs){
 function loadMore(){const arch=allB.filter(b=>(Date.now()-new Date(b.scannedAt).getTime())>=H24);renderArch(arch)}
 
 /* ════════ CARD HTML ════════ */
+  const _seenImgUrls = new Set();
+  const _CAT_GRADIENTS = {
+    ai:          ['135deg,#0ff2fe,#4facfe','135deg,#00b4db,#0083b0','135deg,#43e7ff,#007cf0'],
+    robotics:    ['135deg,#ff2d87,#ff6a3d','135deg,#f953c6,#b91d73','135deg,#fc4a1a,#f7b733'],
+    biotech:     ['135deg,#39ff14,#00b09b','135deg,#56ab2f,#a8e063','135deg,#11998e,#38ef7d'],
+    space:       ['135deg,#b388ff,#7c4dff','135deg,#6a3093,#a044ff','135deg,#834d9b,#d04ed6'],
+    'space tech':['135deg,#b388ff,#7c4dff','135deg,#6a3093,#a044ff','135deg,#834d9b,#d04ed6'],
+    energy:      ['135deg,#ffd600,#ff6f00','135deg,#f7971e,#ffd200','135deg,#f46b45,#eea849'],
+    neuroscience:['135deg,#ff6e40,#ff1744','135deg,#eb3349,#f45c43','135deg,#ff512f,#dd2476'],
+  };
+  function resolveCardImg(it, bi, i) {
+    const url = (it.image || '').trim();
+    const m = url.match(/photo-([a-zA-Z0-9_-]+)/);
+    const key = m ? m[1] : url;
+    const pool = _CAT_GRADIENTS[(it.category || '').toLowerCase()] || ['135deg,#1a1a2e,#16213e'];
+    const grad = pool[(bi * 10 + i) % pool.length];
+    if (url && key && !_seenImgUrls.has(key)) {
+      _seenImgUrls.add(key);
+      return `<img src="${url}" alt="" loading="lazy" onerror="this.parentNode.style.background='linear-gradient(${grad})';this.style.display='none'">`;
+    }
+    return `<span style="display:block;width:100%;height:100%;position:absolute;inset:0;background:linear-gradient(${grad});border-radius:inherit;" aria-hidden="true"></span>`;
+  }
+
 function cardH(it,i){
   const t=it._bt?new Date(it._bt).toLocaleTimeString('en-US',{hour:'2-digit',minute:'2-digit'}):'';
   const shareUrl=encodeURIComponent(it.sourceUrl||'');
@@ -693,7 +716,7 @@ function cardH(it,i){
   return`<article class="tl-item" data-cat="${it.category}" style="transition-delay:${i*.06}s" role="listitem">
   <span class="rank-num" aria-hidden="true">${String(it.rank).padStart(2,'0')}</span>
   <a href="${it.sourceUrl}" target="_blank" rel="noopener" class="card" aria-label="${it.title}">
-    <div class="card-img"><img src="${it.image}" alt="" loading="lazy" onerror="this.style.display='none'"><div class="overlay"></div></div>
+    <div class="card-img">${resolveCardImg(it,0,i)}<div class="overlay"></div></div>
     <div class="card-body">
       <div class="card-meta"><span class="cat-tag ${it.category}">${fCat(it.category)}</span>${t?`<span class="card-time">${t}</span>`:''}</div>
       <h3 class="card-title">${it.title}</h3>${it.summary?`<p class="card-summary">${it.summary}</p>`:''}
