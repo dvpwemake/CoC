@@ -633,26 +633,50 @@ const EMBEDDED_DATA = [
 ];
 
   const _seenImgUrls = new Set();
-  const _CAT_GRADIENTS = {
-    ai:          ['135deg,#0ff2fe,#4facfe','135deg,#00b4db,#0083b0','135deg,#43e7ff,#007cf0'],
-    robotics:    ['135deg,#ff2d87,#ff6a3d','135deg,#f953c6,#b91d73','135deg,#fc4a1a,#f7b733'],
-    biotech:     ['135deg,#39ff14,#00b09b','135deg,#56ab2f,#a8e063','135deg,#11998e,#38ef7d'],
-    space:       ['135deg,#b388ff,#7c4dff','135deg,#6a3093,#a044ff','135deg,#834d9b,#d04ed6'],
-    'space tech':['135deg,#b388ff,#7c4dff','135deg,#6a3093,#a044ff','135deg,#834d9b,#d04ed6'],
-    energy:      ['135deg,#ffd600,#ff6f00','135deg,#f7971e,#ffd200','135deg,#f46b45,#eea849'],
-    neuroscience:['135deg,#ff6e40,#ff1744','135deg,#eb3349,#f45c43','135deg,#ff512f,#dd2476'],
+  const _CAT_PHOTO_POOLS = {
+    ai:          ['1677442135703-1787eea5ce01','1620712943543-bcc4688e7485','1712238822576-ef218e15b0ee','1706853596857-bf4fd8e1fba5','1544197150881-1a8c91f1c4da','1551288049-bebda4e38f71','1677756119517-756a188d2d94','1675557009483-9b3d97ec5d89'],
+    robotics:    ['1485827404703-89b55fcc595e','1561346745-f08d886cb1c6','1635070041078-e363dbe005cb','1590859808308-3d2d9c515b1a','1531746790731-6c087fecd65a','1617791160589-a2b5efc88cca','1589254065878-42c9f2a5e17c'],
+    biotech:     ['1532187643603-ba119ca4109e','1576086213369-97a306d36557','1559757148-5c350d0d3c56','1582719471137-c3967ffb1c42','1530026405186-ed1f139313f3','1576671082814-2d2e4a8e9a1e','1628771065518-0d82f1938462'],
+    space:       ['1446776811953-b23d57bd21aa','1614730321146-b6fa6a46bcb4','1462331940025-496dfbfc7564','1608178398319-48f814d0750c','1419242902214-272b3f66ee7a','1451188502541-13943edb8063','1444703686981-a3abbc4d4fe3'],
+    'space tech':['1446776811953-b23d57bd21aa','1614730321146-b6fa6a46bcb4','1462331940025-496dfbfc7564','1608178398319-48f814d0750c','1419242902214-272b3f66ee7a','1451188502541-13943edb8063','1444703686981-a3abbc4d4fe3'],
+    energy:      ['1466611653911-95081537e5b7','1509391366360-2e959784a276','1548337138-e87d889cc369','1497440001374-f26997328c1e','1532601224476-15c79f2f7a51','1473341304170-971dccb5ac1e','1541336032125-07915c6172f0'],
+    neuroscience:['1559757175-0eb30cd8c063','1507003211169-0a1dd7228f2d','1582562124811-c09040d0a901','1593508512255-86ab42a8e620','1518152006812-edab29b069ac','1564510614-a4c2d17eb4b2','1453847668862-487637052f8a'],
   };
+  const _DEFAULT_POOL = ['1518770491739-6da8c1015c6b','1581091226825-a6a2a5aee158','1451187580459-43490279c0fa','1484557985045-edf25e08da73','1470229722913-7c0e2dbbafd3'];
+  const _GRAD_ERR = {
+    ai:'135deg,#0ff2fe,#4facfe',robotics:'135deg,#ff2d87,#ff6a3d',
+    biotech:'135deg,#39ff14,#00b09b',space:'135deg,#b388ff,#7c4dff',
+    'space tech':'135deg,#b388ff,#7c4dff',energy:'135deg,#ffd600,#ff6f00',
+    neuroscience:'135deg,#ff6e40,#ff1744',
+  };
+
+  // Returns an <img> for unique photos, or picks an unused pool photo for duplicates.
+  // Gradient is only used as last-resort onerror, never as primary content.
   function resolveCardImg(it, bi, i) {
     const url = (it.image || '').trim();
+    const cat = (it.category || '').toLowerCase();
+    const pool = _CAT_PHOTO_POOLS[cat] || _DEFAULT_POOL;
+    const grad = _GRAD_ERR[cat] || '135deg,#1a1a2e,#16213e';
+    const onerr = "this.parentNode.style.background='linear-gradient(" + grad + ")';this.style.display='none'";
+
     const m = url.match(/photo-([a-zA-Z0-9_-]+)/);
     const key = m ? m[1] : url;
-    const pool = _CAT_GRADIENTS[(it.category || '').toLowerCase()] || ['135deg,#1a1a2e,#16213e'];
-    const grad = pool[(bi * 10 + i) % pool.length];
+
     if (url && key && !_seenImgUrls.has(key)) {
       _seenImgUrls.add(key);
-      return `<img src="${url}" alt="" loading="lazy" onerror="this.parentNode.style.background='linear-gradient(${grad})';this.style.display='none'">`;
+      return '<img src="' + url + '" alt="" loading="lazy" onerror="' + onerr + '">';
     }
-    return `<span style="display:block;width:100%;height:100%;position:absolute;inset:0;background:linear-gradient(${grad});border-radius:inherit;" aria-hidden="true"></span>`;
+
+    // Duplicate or missing — pick the first unused pool photo for this category
+    const unused = pool.find(id => !_seenImgUrls.has(id));
+    if (unused) {
+      _seenImgUrls.add(unused);
+      const sub = 'https://images.unsplash.com/photo-' + unused + '?w=720&q=80';
+      return '<img src="' + sub + '" alt="" loading="lazy" onerror="' + onerr + '">';
+    }
+
+    // All pool photos used — gradient last resort only
+    return '<span style="display:block;width:100%;height:100%;position:absolute;inset:0;background:linear-gradient(' + grad + ');border-radius:inherit;" aria-hidden="true"></span>';
   }
 
 const H24=864e5,ARCH_PG=3;
