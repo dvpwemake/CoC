@@ -351,40 +351,24 @@ const EMBEDDED_DATA = [
     ]
   }
 ];
+
+  const _seenImgUrls = new Set();
   const _GRAD_ERR = {
     ai:'135deg,#0ff2fe,#4facfe',robotics:'135deg,#ff2d87,#ff6a3d',
     biotech:'135deg,#39ff14,#00b09b',space:'135deg,#b388ff,#7c4dff',
     'space tech':'135deg,#b388ff,#7c4dff',energy:'135deg,#ffd600,#ff6f00',
     neuroscience:'135deg,#ff6e40,#ff1744',
   };
-
-  // Returns an <img> for unique photos, or picks an unused pool photo for duplicates.
-  // Gradient is only used as last-resort onerror, never as primary content.
-  function resolveCardImg(it, bi, i) {
-    const url = (it.image || '').trim();
-    const cat = (it.category || '').toLowerCase();
-    const pool = _CAT_PHOTO_POOLS[cat] || _DEFAULT_POOL;
-    const grad = _GRAD_ERR[cat] || '135deg,#1a1a2e,#16213e';
-    const onerr = "this.parentNode.style.background='linear-gradient(" + grad + ")';this.style.display='none'";
-
-    const m = url.match(/photo-([a-zA-Z0-9_-]+)/);
-    const key = m ? m[1] : url;
-
-    if (url && key && !_seenImgUrls.has(key)) {
-      _seenImgUrls.add(key);
-      return '<img src="' + url + '" alt="" loading="lazy" onerror="' + onerr + '">';
-    }
-
-    // Duplicate or missing — pick the first unused pool photo for this category
-    const unused = pool.find(id => !_seenImgUrls.has(id));
-    if (unused) {
-      _seenImgUrls.add(unused);
-      const sub = 'https://images.unsplash.com/photo-' + unused + '?w=720&q=80';
-      return '<img src="' + sub + '" alt="" loading="lazy" onerror="' + onerr + '">';
-    }
-
-    // All pool photos used — gradient last resort only
-    return '<span style="display:block;width:100%;height:100%;position:absolute;inset:0;background:linear-gradient(' + grad + ');border-radius:inherit;" aria-hidden="true"></span>';
+  function resolveCardImg(it,bi,i){
+    const url=(it.image||'').trim();
+    const cat=(it.category||'').toLowerCase();
+    const grad=_GRAD_ERR[cat]||'135deg,#1a1a2e,#16213e';
+    const onerr="this.parentNode.style.background='linear-gradient("+grad+")';this.style.display='none'";
+    const m=url.match(/photo-([a-zA-Z0-9_-]+)/);
+    const key=m?m[1]:url;
+    if(url&&key&&!_seenImgUrls.has(key)){_seenImgUrls.add(key);return'<img src="'+url+'" alt="" loading="lazy" onerror="'+onerr+'">';}
+    const seed=encodeURIComponent(it.id||(cat+'_'+bi+'_'+i));
+    return'<img src="https://picsum.photos/seed/'+seed+'/720/400" alt="" loading="lazy" onerror="'+onerr+'">';
   }
 
 const H24=864e5,ARCH_PG=3;
