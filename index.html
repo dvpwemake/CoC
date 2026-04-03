@@ -787,13 +787,13 @@ function render(){_seenImgUrls.clear();
   const now=Date.now();
   const todayET=new Date(now).toLocaleDateString('en-US',{timeZone:'America/New_York'});const live=allB.filter(b=>new Date(b.scannedAt).toLocaleDateString('en-US',{timeZone:'America/New_York'})===todayET);
   const arch=allB.filter(b=>new Date(b.scannedAt).toLocaleDateString('en-US',{timeZone:'America/New_York'})!==todayET);
-  renderLive(live);aPage=0;document.getElementById('archArea').innerHTML='';renderArch(arch);
+  const liveDisplay=live.length?live:[allB[0]].filter(Boolean);renderLive(liveDisplay);aPage=0;document.getElementById('archArea').innerHTML='';renderArch(arch);
 }
 
 function renderLive(bs){
   const c=document.getElementById('liveArea');
   const items=bs.flatMap(b=>filterB(b));
-  if(!items.length){c.innerHTML=`<div class="sec-label"><h2>Today</h2><span class="line"></span><span class="badge-live">LIVE</span></div><div class="empty"><div class="icon">\u25C7</div><p>No live breakthroughs yet.</p></div>`;return}
+  
   let h='';
   for(const b of bs){const bi=filterB(b);if(!bi.length)continue;const dt=new Date(b.scannedAt);const t=dt.toLocaleTimeString('en-US',{hour:'2-digit',minute:'2-digit'});
   h+=`<div class="sec-label"><h2>Today</h2><span class="line"></span><span class="badge-live">LIVE \u00B7 ${t}</span></div><section class="tl" role="list">${bi.map((it,i)=>cardH(it,i)).join('')}</section>`}
