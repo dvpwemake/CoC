@@ -2,7 +2,9 @@ name: Auto-Scan News
 
 on:
   schedule:
-    - cron: '0 */4 * * *'
+    - cron: '8 12 * * *'
+    - cron: '8 16 * * *'
+    - cron: '8 21 * * *'
   workflow_dispatch:
 
 permissions:
@@ -18,17 +20,39 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Determine scan mode
+        run: |
+          DOW=$(date -u '+%u')
+          if [ "$DOW" = "2" ]; then
+            echo "SCAN_MODE=tuesday" >> $GITHUB_ENV
+            echo "Tuesday: comprehensive global media coverage"
+          else
+            echo "SCAN_MODE=standard" >> $GITHUB_ENV
+          fi
+
       - name: Build API request
         run: |
           TODAY=$(date -u '+%B %d, %Y')
-          HOUR=$(date -u '+%H')
+
+          STANDARD='You are a science news curator. Today is '"$TODAY"'. Search for the TOP 5 most significant BREAKTHROUGH news from the LAST 24 HOURS across: AI, Robotics, Biotech, Space Tech, Energy, Neuroscience. Each must be REAL and verifiable. Cover at least 3 categories. RULES: 1. No HTML. Plain text only. 2. Unique Unsplash photo per article: https://images.unsplash.com/photo-PHOTO_ID?w=720&q=80 3. NEVER repeat a photo ID. 4. Photo IDs by category — AI: 1677442135703-1787eea5ce01, 1620712943543-bcc4688e7485, 1712238822576-ef218e15b0ee, 1706853596857-bf4fd8e1fba5, 1544197150881-1a8c91f1c4da, 1551288049-bebda4e38f71, 1677756119517-756a188d2d94, 1675557009483-9b3d97ec5d89 | Robotics: 1485827404703-89b55fcc595e, 1561346745-f08d886cb1c6, 1635070041078-e363dbe005cb, 1590859808308-3d2d9c515b1a, 1531746790731-6c087fecd65a | Biotech: 1532187643603-ba119ca4109e, 1576086213369-97a306d36557, 1559757148-5c350d0d3c56, 1582719471137-c3967ffb1c42, 1530026405186-ed1f139313f3 | Space: 1446776811953-b23d57bd21aa, 1614730321146-b6fa6a46bcb4, 1462331940025-496dfbfc7564, 1608178398319-48f814d0750c, 1419242902214-272b3f66ee7a | Energy: 1466611653911-95081537e5b7, 1509391366360-2e959784a276, 1548337138-e87d889cc369, 1497440001374-f26997328c1e, 1473341304170-971dccb5ac1e | Neuroscience: 1559757175-0eb30cd8c063, 1507003211169-0a1dd7228f2d, 1582562124811-c09040d0a901, 1593508512255-86ab42a8e620, 1518152006812-edab29b069ac. Respond ONLY with raw JSON array. Format: [{"rank":1,"title":"Headline","category":"ai","summary":"Plain text.","source":"Name","sourceUrl":"https://url","image":"https://images.unsplash.com/photo-UNIQUE_ID?w=720&q=80"}]'
+
+          TUESDAY='You are an elite science news curator. Today is '"$TODAY"' (Tuesday — comprehensive global coverage). Search ALL major scientific journals and global media for the TOP 5 most significant BREAKTHROUGH news from the LAST 24 HOURS covering the convergence of civilizations, intelligences, and beings across: AI, Robotics, Biotech, Space Tech, Energy, Neuroscience, Quantum Computing, Materials Science, and Human-AI-Biology convergence. Draw from: Nature, Science, Cell, MIT Technology Review, IEEE Spectrum, Scientific American, arXiv, TechCrunch, Wired, Reuters Science, BBC Science, Nikkei Asia Tech, SCMP Tech, Le Monde Science, and global regional outlets. Prioritize cross-domain breakthroughs. RULES: 1. No HTML. Plain text only. 2. Unique Unsplash photo per article: https://images.unsplash.com/photo-PHOTO_ID?w=720&q=80 3. NEVER repeat a photo ID. 4. Photo IDs — AI: 1677442135703-1787eea5ce01, 1620712943543-bcc4688e7485, 1712238822576-ef218e15b0ee, 1706853596857-bf4fd8e1fba5, 1544197150881-1a8c91f1c4da, 1551288049-bebda4e38f71, 1677756119517-756a188d2d94, 1675557009483-9b3d97ec5d89 | Robotics: 1485827404703-89b55fcc595e, 1561346745-f08d886cb1c6, 1635070041078-e363dbe005cb, 1590859808308-3d2d9c515b1a | Biotech: 1532187643603-ba119ca4109e, 1576086213369-97a306d36557, 1559757148-5c350d0d3c56, 1582719471137-c3967ffb1c42 | Space: 1446776811953-b23d57bd21aa, 1614730321146-b6fa6a46bcb4, 1462331940025-496dfbfc7564, 1608178398319-48f814d0750c | Energy: 1466611653911-95081537e5b7, 1509391366360-2e959784a276, 1548337138-e87d889cc369, 1497440001374-f26997328c1e | Neuroscience: 1559757175-0eb30cd8c063, 1507003211169-0a1dd7228f2d, 1582562124811-c09040d0a901, 1593508512255-86ab42a8e620. Respond ONLY with raw JSON array. Format: [{"rank":1,"title":"Headline","category":"ai","summary":"Plain text.","source":"Name","sourceUrl":"https://url","image":"https://images.unsplash.com/photo-UNIQUE_ID?w=720&q=80"}]'
+
+          if [ "$SCAN_MODE" = "tuesday" ]; then
+            SYS="$TUESDAY"
+            USR="Search broadly for today's ($TODAY) top 5 breakthroughs in the convergence of civilizations, intelligences, and beings. Return JSON array. Every article must use a UNIQUE Unsplash photo ID."
+          else
+            SYS="$STANDARD"
+            USR="Search for today's ($TODAY) top 5 breakthrough science news across AI, Robotics, Biotech, Space Tech, Energy, Neuroscience. Return JSON array. Each article must have a UNIQUE Unsplash photo ID."
+          fi
+
           cat > /tmp/request.json <<ENDJSON
           {
             "model": "claude-sonnet-4-20250514",
             "max_tokens": 4000,
             "tools": [{"type": "web_search_20250305", "name": "web_search", "max_uses": 12}],
-            "system": "You are a science news curator. Today is ${TODAY}. Search the web for the TOP 5 most significant BREAKTHROUGH scientific news from the LAST 24 HOURS across: AI, Robotics, Biotech, Space Tech, Energy, Neuroscience. Each must be REAL and verifiable. Cover at least 3 different categories.\n\nIMPORTANT RULES:\n1. Do NOT include any HTML tags, citation tags, or markup in your response. Summaries must be plain text only.\n2. For the image field, pick a UNIQUE Unsplash photo that visually matches each article. Use the format: https://images.unsplash.com/photo-PHOTO_ID?w=720&q=80\n3. CRITICAL: Every article MUST have a DIFFERENT photo ID. Never repeat a photo ID within one response.\n4. Use these curated photo IDs by category (pick the best match, but NEVER use the same ID twice):\n   AI: 1677442135703-1787eea5ce01, 1620712943543-bcc4688e7485, 1712238822576-ef218e15b0ee, 1706853596857-bf4fd8e1fba5, 1544197150881-1a8c91f1c4da, 1551288049-bebda4e38f71, 1677756119517-756a188d2d94, 1675557009483-9b3d97ec5d89\n   Robotics: 1485827404703-89b55fcc595e, 1561346745-f08d886cb1c6, 1635070041078-e363dbe005cb, 1590859808308-3d2d9c515b1a, 1531746790731-6c087fecd65a, 1617791160589-a2b5efc88cca, 1589254065878-42c9f2a5e17c\n   Biotech: 1532187643603-ba119ca4109e, 1576086213369-97a306d36557, 1559757148-5c350d0d3c56, 1582719471137-c3967ffb1c42, 1530026405186-ed1f139313f3, 1576671082814-2d2e4a8e9a1e, 1628771065518-0d82f1938462\n   Space: 1446776811953-b23d57bd21aa, 1614730321146-b6fa6a46bcb4, 1462331940025-496dfbfc7564, 1608178398319-48f814d0750c, 1419242902214-272b3f66ee7a, 1451188502541-13943edb8063, 1444703686981-a3abbc4d4fe3\n   Energy: 1466611653911-95081537e5b7, 1509391366360-2e959784a276, 1548337138-e87d889cc369, 1497440001374-f26997328c1e, 1532601224476-15c79f2f7a51, 1473341304170-971dccb5ac1e, 1541336032125-07915c6172f0\n   Neuroscience: 1559757175-0eb30cd8c063, 1507003211169-0a1dd7228f2d, 1582562124811-c09040d0a901, 1593508512255-86ab42a8e620, 1518152006812-edab29b069ac, 1564510614-a4c2d17eb4b2, 1453847668862-487637052f8a\n5. You may also use any other relevant Unsplash photo ID you know, as long as it is unique within this response.\n\nRespond with ONLY a raw JSON array. No markdown fences. No backticks. No explanation.\nFormat: [{\"rank\":1,\"title\":\"Headline\",\"category\":\"ai\",\"summary\":\"Plain text summary.\",\"source\":\"Name\",\"sourceUrl\":\"https://url\",\"image\":\"https://images.unsplash.com/photo-UNIQUE_ID?w=720&q=80\"}]",
-            "messages": [{"role": "user", "content": "Search for today's (${TODAY}) top 5 breakthrough science news across AI, Robotics, Biotech, Space Tech, Energy, and Neuroscience. Return as JSON array. Each article must have a UNIQUE Unsplash photo ID — no two articles may share the same photo ID."}]
+            "system": "$SYS",
+            "messages": [{"role": "user", "content": "$USR"}]
           }
           ENDJSON
 
@@ -53,81 +77,31 @@ jobs:
         run: |
           cat > /tmp/update.js << 'ENDSCRIPT'
           const fs = require('fs');
-
-          // ── Curated fallback photo pools per category (used if Claude produces dupes)
-          const PHOTO_POOLS = {
-            ai:           ['1677442135703-1787eea5ce01','1620712943543-bcc4688e7485','1712238822576-ef218e15b0ee','1706853596857-bf4fd8e1fba5','1544197150881-1a8c91f1c4da','1551288049-bebda4e38f71','1677756119517-756a188d2d94','1675557009483-9b3d97ec5d89'],
-            robotics:     ['1485827404703-89b55fcc595e','1561346745-f08d886cb1c6','1635070041078-e363dbe005cb','1590859808308-3d2d9c515b1a','1531746790731-6c087fecd65a','1617791160589-a2b5efc88cca','1589254065878-42c9f2a5e17c'],
-            biotech:      ['1532187643603-ba119ca4109e','1576086213369-97a306d36557','1559757148-5c350d0d3c56','1582719471137-c3967ffb1c42','1530026405186-ed1f139313f3','1576671082814-2d2e4a8e9a1e','1628771065518-0d82f1938462'],
-            space:        ['1446776811953-b23d57bd21aa','1614730321146-b6fa6a46bcb4','1462331940025-496dfbfc7564','1608178398319-48f814d0750c','1419242902214-272b3f66ee7a','1451188502541-13943edb8063','1444703686981-a3abbc4d4fe3'],
-          'space tech': ['1446776811953-b23d57bd21aa','1614730321146-b6fa6a46bcb4','1462331940025-496dfbfc7564','1608178398319-48f814d0750c','1419242902214-272b3f66ee7a','1451188502541-13943edb8063','1444703686981-a3abbc4d4fe3'],
-            energy:       ['1466611653911-95081537e5b7','1509391366360-2e959784a276','1548337138-e87d889cc369','1497440001374-f26997328c1e','1532601224476-15c79f2f7a51','1473341304170-971dccb5ac1e','1541336032125-07915c6172f0'],
-            neuroscience: ['1559757175-0eb30cd8c063','1507003211169-0a1dd7228f2d','1582562124811-c09040d0a901','1593508512255-86ab42a8e620','1518152006812-edab29b069ac','1564510614-a4c2d17eb4b2','1453847668862-487637052f8a'],
-          };
-          const DEFAULT_POOL = ['1518770491739-6da8c1015c6b','1581091226825-a6a2a5aee158','1451187580459-43490279c0fa','1484557985045-edf25e08da73','1470229722913-7c0e2dbbafd3'];
-
-          function extractPhotoId(url) {
-            if (!url) return null;
-            const m = url.match(/photo-([a-zA-Z0-9_-]+)/);
-            return m ? m[1] : null;
-          }
-
-          function makeUrl(id) {
-            return 'https://images.unsplash.com/photo-' + id + '?w=720&q=80';
-          }
-
-          function pickUnused(pool, usedIds) {
-            const available = pool.filter(id => !usedIds.has(id));
-            if (available.length > 0) return available[Math.floor(Math.random() * available.length)];
-            const base = pool[Math.floor(Math.random() * pool.length)];
-            const w = 680 + Math.floor(Math.random() * 80);
-            return base + '?w=' + w + '&q=80&fit=crop';
-          }
-
-          function deduplicateImages(items) {
-            const usedIds = new Set();
-            return items.map(it => {
-              const cat = (it.category || 'ai').toLowerCase();
-              const pool = PHOTO_POOLS[cat] || DEFAULT_POOL;
-              const currentId = extractPhotoId(it.image);
-              if (currentId && !usedIds.has(currentId)) {
-                usedIds.add(currentId);
-                return it;
-              }
-              const newId = pickUnused(pool, usedIds);
-              usedIds.add(typeof newId === 'string' && newId.includes('?') ? newId.split('?')[0] : newId);
-              const newUrl = newId.includes('?') ? 'https://images.unsplash.com/photo-' + newId : makeUrl(newId);
-              console.log('  [dedup] ' + it.title.substring(0, 50) + ' → replaced with ' + newUrl);
-              return Object.assign({}, it, { image: newUrl });
-            });
-          }
-
-          function stripHtml(str) {
-            return (str || '').replace(/<[^>]*>/g,'').replace(/&amp;/g,'&').replace(/&lt;/g,'<').replace(/&gt;/g,'>').replace(/&quot;/g,'"').replace(/&#39;/g,"'").trim();
-          }
-
-          const data = JSON.parse(fs.readFileSync('/tmp/response.json','utf8'));
-          let rawText = '';
-          if (data.content) for (const b of data.content) if (b.type==='text') rawText+=b.text;
-          const cleaned = rawText.replace(/```json|```/g,'').trim();
-          const s = cleaned.indexOf('['), e = cleaned.lastIndexOf(']');
-          if (s<0||e<0){console.error('No JSON array',rawText.slice(0,300));process.exit(1);}
-          let items;
-          try{items=JSON.parse(cleaned.slice(s,e+1));}catch(err){console.error('Parse fail',err.message);process.exit(1);}
-          if(!Array.isArray(items)||!items.length){console.error('Empty items');process.exit(1);}
-          const deduped = deduplicateImages(items);
-          let html = fs.readFileSync('index.html','utf8');
-          const bid = 'b'+Date.now();
-          const batch = {id:bid,scannedAt:new Date().toISOString(),items:deduped.map((it,i)=>({id:bid+'_'+(i+1),rank:it.rank||(i+1),title:stripHtml(it.title).slice(0,150),category:it.category||'ai',summary:stripHtml(it.summary),source:stripHtml(it.source||''),sourceUrl:it.sourceUrl||'#',image:it.image||''}))};
-          const rx = /const\s+EMBEDDED_DATA\s*=\s*\[[\s\S]*\];/;
-          const mx = html.match(rx);
-          let existing=[];
-          if(mx)try{existing=JSON.parse(mx[0].replace(/^const\s+EMBEDDED_DATA\s*=\s*/,'').replace(/;$/,''));}catch(_e){}
-          existing.unshift(batch);
-          if(existing.length>30)existing=existing.slice(0,30);
-          html=html.replace(rx,()=>'const EMBEDDED_DATA = '+JSON.stringify(existing,null,2)+';');
+          const POOLS = {ai:['1677442135703-1787eea5ce01','1620712943543-bcc4688e7485','1712238822576-ef218e15b0ee','1706853596857-bf4fd8e1fba5','1544197150881-1a8c91f1c4da','1551288049-bebda4e38f71'],robotics:['1485827404703-89b55fcc595e','1561346745-f08d886cb1c6','1635070041078-e363dbe005cb','1590859808308-3d2d9c515b1a'],biotech:['1532187643603-ba119ca4109e','1576086213369-97a306d36557','1559757148-5c350d0d3c56','1582719471137-c3967ffb1c42'],space:['1446776811953-b23d57bd21aa','1614730321146-b6fa6a46bcb4','1462331940025-496dfbfc7564'],energy:['1466611653911-95081537e5b7','1509391366360-2e959784a276','1548337138-e87d889cc369'],neuroscience:['1559757175-0eb30cd8c063','1507003211169-0a1dd7228f2d','1582562124811-c09040d0a901'],'space tech':['1446776811953-b23d57bd21aa','1614730321146-b6fa6a46bcb4']};
+          const DEF=['1518770491739-6da8c1015c6b','1581091226825-a6a2a5aee158','1451187580459-43490279c0fa'];
+          function eid(u){if(!u)return null;const m=u.match(/photo-([a-zA-Z0-9_-]+)/);return m?m[1]:null;}
+          function mkUrl(id){return'https://images.unsplash.com/photo-'+id+'?w=720&q=80';}
+          function pick(pool,used){const a=pool.filter(id=>!used.has(id));return a.length?a[Math.floor(Math.random()*a.length)]:pool[0];}
+          function dedup(items){const used=new Set();return items.map(it=>{const cat=(it.category||'ai').toLowerCase();const pool=POOLS[cat]||DEF;const id=eid(it.image);if(id&&!used.has(id)){used.add(id);return it;}const newId=pick(pool,used);used.add(newId);console.log('  [dedup] '+it.title.slice(0,50));return Object.assign({},it,{image:mkUrl(newId)});});}
+          function strip(s){return(s||'').replace(/<[^>]*>/g,'').replace(/&amp;/g,'&').replace(/&lt;/g,'<').replace(/&gt;/g,'>').replace(/&quot;/g,'"').replace(/&#39;/g,"'").trim();}
+          const data=JSON.parse(fs.readFileSync('/tmp/response.json','utf8'));
+          let raw='';if(data.content)for(const b of data.content)if(b.type==='text')raw+=b.text;
+          const clean=raw.replace(/```json|```/g,'').trim();
+          const s=clean.indexOf('['),e=clean.lastIndexOf(']');
+          if(s<0||e<0){console.error('No JSON array');process.exit(1);}
+          let items;try{items=JSON.parse(clean.slice(s,e+1));}catch(err){console.error('Parse:',err.message);process.exit(1);}
+          if(!Array.isArray(items)||!items.length){console.error('Empty');process.exit(1);}
+          const deduped=dedup(items);
+          let html=fs.readFileSync('index.html','utf8');
+          const bid='b'+Date.now();
+          const batch={id:bid,scannedAt:new Date().toISOString(),items:deduped.map((it,i)=>({id:bid+'_'+(i+1),rank:it.rank||(i+1),title:strip(it.title).slice(0,150),category:it.category||'ai',summary:strip(it.summary),source:strip(it.source||''),sourceUrl:it.sourceUrl||'#',image:it.image||''}))};
+          const rx=/const\s+EMBEDDED_DATA\s*=\s*\[[\s\S]*?\];/;
+          const mx=html.match(rx);let ex=[];
+          if(mx)try{ex=JSON.parse(mx[0].replace(/^const\s+EMBEDDED_DATA\s*=\s*/,'').replace(/;$/,''));}catch(_e){}
+          ex.unshift(batch);if(ex.length>30)ex=ex.slice(0,30);
+          html=html.replace(rx,()=>'const EMBEDDED_DATA = '+JSON.stringify(ex,null,2)+';');
           fs.writeFileSync('index.html',html);
-          console.log('Done: '+batch.items.length+' items in '+existing.length+' batches');
+          console.log('Done: '+batch.items.length+' items, '+ex.length+' batches');
           batch.items.forEach(it=>console.log(' #'+it.rank+' ['+it.category+'] '+it.title.slice(0,60)));
           ENDSCRIPT
 
