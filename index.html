@@ -2,9 +2,10 @@
 <html lang="en" prefix="og: https://ogp.me/ns#">
 <head>
 <meta charset="UTF-8">
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ccircle cx='50' cy='50' r='48' fill='%230A0A0F' stroke='%2300E5FF' stroke-width='4'/%3E%3Ccircle cx='50' cy='50' r='9' fill='%2300E5FF'/%3E%3Cellipse cx='50' cy='50' rx='40' ry='14' fill='none' stroke='%2300E5FF' stroke-width='3'/%3E%3Cellipse cx='50' cy='50' rx='40' ry='14' fill='none' stroke='%2300E5FF' stroke-width='3' transform='rotate(60 50 50)'/%3E%3Cellipse cx='50' cy='50' rx='40' ry='14' fill='none' stroke='%2300E5FF' stroke-width='3' transform='rotate(120 50 50)'/%3E%3C/svg%3E">
 <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=5">
-<title>Chronicle of Convergence — Top 5 Breakthrough Science and Technology News, Daily Update</title>
-<meta name="description" content="Curated top 5 breakthrough scientific discoveries across AI, Robotics, Biotech, Space Tech, Energy &amp; Neuroscience — updated every 4 hours by AI.">
+<title>Chronicle of Convergence — Latest Science & Technology on the Convergence of Civilizations, Intelligences, and Beings</title>
+<meta name="description" content="Latest science and technology advancement on the convergence of civilizations, intelligences, and beings — curated daily by AI.">
 <meta name="keywords" content="science news, AI breakthroughs, robotics, biotech, space tech, energy, neuroscience, daily science, breakthrough discoveries">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="author" content="Chronicle of Convergence">
@@ -13,7 +14,7 @@
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Chronicle of Convergence">
 <meta property="og:title" content="Chronicle of Convergence — Top 5 Breakthrough Science News">
-<meta property="og:description" content="Curated top 5 breakthrough scientific discoveries across AI, Robotics, Biotech, Space Tech, Energy &amp; Neuroscience — updated every 4 hours.">
+<meta property="og:description" content="Latest science and technology advancement on the convergence of civilizations, intelligences, and beings — curated daily by AI.">
 <meta property="og:url" content="https://chronicleofconvergence.com/">
 <meta property="og:image" content="https://chronicleofconvergence.com/img/CoC_logo_Blk.png">
 <meta property="og:locale" content="en_US">
@@ -287,7 +288,7 @@ footer .company{opacity:.5}
 
 <footer role="contentinfo">
   <div>&copy; 2019–<span id="copyrightYear"></span> chronicleofconvergence.com <span class="company">· a WeMake, Corp. Company</span></div>
-  <div style="margin-top:.3rem">All Rights Reserved &nbsp;·&nbsp; <a href="editor.html" rel="nofollow">Editor</a></div>
+  <div style="margin-top:.3rem">All Rights Reserved &nbsp;·&nbsp; </div>
 </footer>
 </div>
 
@@ -781,10 +782,10 @@ let allB=[],aCat='all',aPage=0;
   setupObs();
 })();
 
-function render(){
+function render(){_seenImgUrls.clear();
   const now=Date.now();
-  const live=allB.filter(b=>(now-new Date(b.scannedAt).getTime())<H24);
-  const arch=allB.filter(b=>(now-new Date(b.scannedAt).getTime())>=H24);
+  const todayET=now.toLocaleDateString('en-US',{timeZone:'America/New_York'});const live=allB.filter(b=>new Date(b.scannedAt).toLocaleDateString('en-US',{timeZone:'America/New_York'})===todayET);
+  const arch=allB.filter(b=>new Date(b.scannedAt).toLocaleDateString('en-US',{timeZone:'America/New_York'})!==todayET);
   renderLive(live);aPage=0;document.getElementById('archArea').innerHTML='';renderArch(arch);
 }
 
