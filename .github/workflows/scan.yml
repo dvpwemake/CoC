@@ -20,41 +20,58 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Determine scan mode
+      - name: Write build script
         run: |
-          DOW=$(date -u '+%u')
-          if [ "$DOW" = "2" ]; then
-            echo "SCAN_MODE=tuesday" >> $GITHUB_ENV
-            echo "Tuesday: comprehensive global media coverage"
-          else
-            echo "SCAN_MODE=standard" >> $GITHUB_ENV
-          fi
+          cat > /tmp/build.js << 'ENDBUILD'
+          const fs = require('fs');
+          const today = process.env.TODAY;
+          const dow = process.env.DOW;
+          const isTuesday = dow === '2';
+
+          const photoIds = {
+            ai: '1677442135703-1787eea5ce01, 1620712943543-bcc4688e7485, 1712238822576-ef218e15b0ee, 1706853596857-bf4fd8e1fba5, 1544197150881-1a8c91f1c4da, 1551288049-bebda4e38f71',
+            robotics: '1485827404703-89b55fcc595e, 1561346745-f08d886cb1c6, 1635070041078-e363dbe005cb, 1590859808308-3d2d9c515b1a, 1531746790731-6c087fecd65a',
+            biotech: '1532187643603-ba119ca4109e, 1576086213369-97a306d36557, 1559757148-5c350d0d3c56, 1582719471137-c3967ffb1c42, 1530026405186-ed1f139313f3',
+            space: '1446776811953-b23d57bd21aa, 1614730321146-b6fa6a46bcb4, 1462331940025-496dfbfc7564, 1608178398319-48f814d0750c, 1419242902214-272b3f66ee7a',
+            energy: '1466611653911-95081537e5b7, 1509391366360-2e959784a276, 1548337138-e87d889cc369, 1497440001374-f26997328c1e, 1473341304170-971dccb5ac1e',
+            neuroscience: '1559757175-0eb30cd8c063, 1507003211169-0a1dd7228f2d, 1582562124811-c09040d0a901, 1593508512255-86ab42a8e620, 1518152006812-edab29b069ac',
+          };
+          const photoRule = 'Photo IDs by category (NEVER reuse within one response): ' + Object.entries(photoIds).map(([k,v]) => k + ': ' + v).join(' | ');
+
+          const rules = [
+            'No HTML tags or markup. Plain text summaries only.',
+            'Each article must have a UNIQUE Unsplash photo: https://images.unsplash.com/photo-PHOTO_ID?w=720&q=80',
+            'CRITICAL: Never repeat a photo ID within one response.',
+            photoRule,
+            'Respond ONLY with a raw JSON array. No markdown, no backticks, no explanation.',
+            'Format: [{"rank":1,"title":"Headline","category":"ai","summary":"Plain text.","source":"Name","sourceUrl":"https://url","image":"https://images.unsplash.com/photo-UNIQUE_ID?w=720&q=80"}]',
+          ].join('\n');
+
+          const stdSys = 'You are a science news curator. Today is ' + today + '. Search for the TOP 5 most significant BREAKTHROUGH scientific news from the LAST 24 HOURS across: AI, Robotics, Biotech, Space Tech, Energy, Neuroscience. Each must be REAL and verifiable. Cover at least 3 different categories.\n\n' + rules;
+
+          const tueSys = 'You are an elite science and technology news curator. Today is ' + today + ' (Tuesday: comprehensive global coverage day). Search ALL major scientific journals and global media for the TOP 5 most significant BREAKTHROUGH news from the LAST 24 HOURS covering the convergence of civilizations, intelligences, and beings across: AI, Robotics, Biotech, Space Tech, Energy, Neuroscience, Quantum Computing, Materials Science, and Human-AI-Biology convergence. Sources: Nature, Science, Cell, MIT Technology Review, IEEE Spectrum, Scientific American, arXiv, TechCrunch, Wired, Reuters Science, BBC Science, Nikkei Asia Tech, SCMP Tech, Le Monde Science, and global outlets. Prioritize cross-domain breakthroughs.\n\n' + rules;
+
+          const system = isTuesday ? tueSys : stdSys;
+          const userMsg = isTuesday
+            ? 'Today is ' + today + ' (Tuesday). Search broadly for the top 5 most significant breakthroughs in the convergence of civilizations, intelligences, and beings. Return as JSON array. Every article must have a UNIQUE Unsplash photo ID.'
+            : 'Search for today (' + today + ') top 5 breakthrough science news across AI, Robotics, Biotech, Space Tech, Energy, Neuroscience. Return as JSON array. Each article must have a UNIQUE Unsplash photo ID.';
+
+          const payload = {
+            model: 'claude-sonnet-4-20250514',
+            max_tokens: 4000,
+            tools: [{type: 'web_search_20250305', name: 'web_search', max_uses: 12}],
+            system,
+            messages: [{role: 'user', content: userMsg}]
+          };
+          fs.writeFileSync('/tmp/request.json', JSON.stringify(payload));
+          console.log('Built request.json — mode: ' + (isTuesday ? 'TUESDAY' : 'standard') + ' — system length: ' + system.length);
+          ENDBUILD
 
       - name: Build API request
         run: |
           TODAY=$(date -u '+%B %d, %Y')
-
-          STANDARD='You are a science news curator. Today is '"$TODAY"'. Search for the TOP 5 most significant BREAKTHROUGH news from the LAST 24 HOURS across: AI, Robotics, Biotech, Space Tech, Energy, Neuroscience. Each must be REAL and verifiable. Cover at least 3 categories. RULES: 1. No HTML. Plain text only. 2. Unique Unsplash photo per article: https://images.unsplash.com/photo-PHOTO_ID?w=720&q=80 3. NEVER repeat a photo ID. 4. Photo IDs by category — AI: 1677442135703-1787eea5ce01, 1620712943543-bcc4688e7485, 1712238822576-ef218e15b0ee, 1706853596857-bf4fd8e1fba5, 1544197150881-1a8c91f1c4da, 1551288049-bebda4e38f71, 1677756119517-756a188d2d94, 1675557009483-9b3d97ec5d89 | Robotics: 1485827404703-89b55fcc595e, 1561346745-f08d886cb1c6, 1635070041078-e363dbe005cb, 1590859808308-3d2d9c515b1a, 1531746790731-6c087fecd65a | Biotech: 1532187643603-ba119ca4109e, 1576086213369-97a306d36557, 1559757148-5c350d0d3c56, 1582719471137-c3967ffb1c42, 1530026405186-ed1f139313f3 | Space: 1446776811953-b23d57bd21aa, 1614730321146-b6fa6a46bcb4, 1462331940025-496dfbfc7564, 1608178398319-48f814d0750c, 1419242902214-272b3f66ee7a | Energy: 1466611653911-95081537e5b7, 1509391366360-2e959784a276, 1548337138-e87d889cc369, 1497440001374-f26997328c1e, 1473341304170-971dccb5ac1e | Neuroscience: 1559757175-0eb30cd8c063, 1507003211169-0a1dd7228f2d, 1582562124811-c09040d0a901, 1593508512255-86ab42a8e620, 1518152006812-edab29b069ac. Respond ONLY with raw JSON array. Format: [{"rank":1,"title":"Headline","category":"ai","summary":"Plain text.","source":"Name","sourceUrl":"https://url","image":"https://images.unsplash.com/photo-UNIQUE_ID?w=720&q=80"}]'
-
-          TUESDAY='You are an elite science news curator. Today is '"$TODAY"' (Tuesday — comprehensive global coverage). Search ALL major scientific journals and global media for the TOP 5 most significant BREAKTHROUGH news from the LAST 24 HOURS covering the convergence of civilizations, intelligences, and beings across: AI, Robotics, Biotech, Space Tech, Energy, Neuroscience, Quantum Computing, Materials Science, and Human-AI-Biology convergence. Draw from: Nature, Science, Cell, MIT Technology Review, IEEE Spectrum, Scientific American, arXiv, TechCrunch, Wired, Reuters Science, BBC Science, Nikkei Asia Tech, SCMP Tech, Le Monde Science, and global regional outlets. Prioritize cross-domain breakthroughs. RULES: 1. No HTML. Plain text only. 2. Unique Unsplash photo per article: https://images.unsplash.com/photo-PHOTO_ID?w=720&q=80 3. NEVER repeat a photo ID. 4. Photo IDs — AI: 1677442135703-1787eea5ce01, 1620712943543-bcc4688e7485, 1712238822576-ef218e15b0ee, 1706853596857-bf4fd8e1fba5, 1544197150881-1a8c91f1c4da, 1551288049-bebda4e38f71, 1677756119517-756a188d2d94, 1675557009483-9b3d97ec5d89 | Robotics: 1485827404703-89b55fcc595e, 1561346745-f08d886cb1c6, 1635070041078-e363dbe005cb, 1590859808308-3d2d9c515b1a | Biotech: 1532187643603-ba119ca4109e, 1576086213369-97a306d36557, 1559757148-5c350d0d3c56, 1582719471137-c3967ffb1c42 | Space: 1446776811953-b23d57bd21aa, 1614730321146-b6fa6a46bcb4, 1462331940025-496dfbfc7564, 1608178398319-48f814d0750c | Energy: 1466611653911-95081537e5b7, 1509391366360-2e959784a276, 1548337138-e87d889cc369, 1497440001374-f26997328c1e | Neuroscience: 1559757175-0eb30cd8c063, 1507003211169-0a1dd7228f2d, 1582562124811-c09040d0a901, 1593508512255-86ab42a8e620. Respond ONLY with raw JSON array. Format: [{"rank":1,"title":"Headline","category":"ai","summary":"Plain text.","source":"Name","sourceUrl":"https://url","image":"https://images.unsplash.com/photo-UNIQUE_ID?w=720&q=80"}]'
-
-          if [ "$SCAN_MODE" = "tuesday" ]; then
-            SYS="$TUESDAY"
-            USR="Search broadly for today's ($TODAY) top 5 breakthroughs in the convergence of civilizations, intelligences, and beings. Return JSON array. Every article must use a UNIQUE Unsplash photo ID."
-          else
-            SYS="$STANDARD"
-            USR="Search for today's ($TODAY) top 5 breakthrough science news across AI, Robotics, Biotech, Space Tech, Energy, Neuroscience. Return JSON array. Each article must have a UNIQUE Unsplash photo ID."
-          fi
-
-          cat > /tmp/request.json <<ENDJSON
-          {
-            "model": "claude-sonnet-4-20250514",
-            "max_tokens": 4000,
-            "tools": [{"type": "web_search_20250305", "name": "web_search", "max_uses": 12}],
-            "system": "$SYS",
-            "messages": [{"role": "user", "content": "$USR"}]
-          }
-          ENDJSON
+          DOW=$(date -u '+%u')
+          TODAY="$TODAY" DOW="$DOW" node /tmp/build.js
 
       - name: Call Anthropic API
         env:
@@ -77,7 +94,15 @@ jobs:
         run: |
           cat > /tmp/update.js << 'ENDSCRIPT'
           const fs = require('fs');
-          const POOLS = {ai:['1677442135703-1787eea5ce01','1620712943543-bcc4688e7485','1712238822576-ef218e15b0ee','1706853596857-bf4fd8e1fba5','1544197150881-1a8c91f1c4da','1551288049-bebda4e38f71'],robotics:['1485827404703-89b55fcc595e','1561346745-f08d886cb1c6','1635070041078-e363dbe005cb','1590859808308-3d2d9c515b1a'],biotech:['1532187643603-ba119ca4109e','1576086213369-97a306d36557','1559757148-5c350d0d3c56','1582719471137-c3967ffb1c42'],space:['1446776811953-b23d57bd21aa','1614730321146-b6fa6a46bcb4','1462331940025-496dfbfc7564'],energy:['1466611653911-95081537e5b7','1509391366360-2e959784a276','1548337138-e87d889cc369'],neuroscience:['1559757175-0eb30cd8c063','1507003211169-0a1dd7228f2d','1582562124811-c09040d0a901'],'space tech':['1446776811953-b23d57bd21aa','1614730321146-b6fa6a46bcb4']};
+          const POOLS = {
+            ai:['1677442135703-1787eea5ce01','1620712943543-bcc4688e7485','1712238822576-ef218e15b0ee','1706853596857-bf4fd8e1fba5','1544197150881-1a8c91f1c4da','1551288049-bebda4e38f71'],
+            robotics:['1485827404703-89b55fcc595e','1561346745-f08d886cb1c6','1635070041078-e363dbe005cb','1590859808308-3d2d9c515b1a'],
+            biotech:['1532187643603-ba119ca4109e','1576086213369-97a306d36557','1559757148-5c350d0d3c56','1582719471137-c3967ffb1c42'],
+            space:['1446776811953-b23d57bd21aa','1614730321146-b6fa6a46bcb4','1462331940025-496dfbfc7564'],
+            'space tech':['1446776811953-b23d57bd21aa','1614730321146-b6fa6a46bcb4'],
+            energy:['1466611653911-95081537e5b7','1509391366360-2e959784a276','1548337138-e87d889cc369'],
+            neuroscience:['1559757175-0eb30cd8c063','1507003211169-0a1dd7228f2d','1582562124811-c09040d0a901'],
+          };
           const DEF=['1518770491739-6da8c1015c6b','1581091226825-a6a2a5aee158','1451187580459-43490279c0fa'];
           function eid(u){if(!u)return null;const m=u.match(/photo-([a-zA-Z0-9_-]+)/);return m?m[1]:null;}
           function mkUrl(id){return'https://images.unsplash.com/photo-'+id+'?w=720&q=80';}
@@ -88,9 +113,9 @@ jobs:
           let raw='';if(data.content)for(const b of data.content)if(b.type==='text')raw+=b.text;
           const clean=raw.replace(/```json|```/g,'').trim();
           const s=clean.indexOf('['),e=clean.lastIndexOf(']');
-          if(s<0||e<0){console.error('No JSON array');process.exit(1);}
-          let items;try{items=JSON.parse(clean.slice(s,e+1));}catch(err){console.error('Parse:',err.message);process.exit(1);}
-          if(!Array.isArray(items)||!items.length){console.error('Empty');process.exit(1);}
+          if(s<0||e<0){console.error('No JSON array in response');console.error(raw.slice(0,300));process.exit(1);}
+          let items;try{items=JSON.parse(clean.slice(s,e+1));}catch(err){console.error('Parse fail:',err.message);process.exit(1);}
+          if(!Array.isArray(items)||!items.length){console.error('Empty items');process.exit(1);}
           const deduped=dedup(items);
           let html=fs.readFileSync('index.html','utf8');
           const bid='b'+Date.now();
@@ -101,7 +126,7 @@ jobs:
           ex.unshift(batch);if(ex.length>30)ex=ex.slice(0,30);
           html=html.replace(rx,()=>'const EMBEDDED_DATA = '+JSON.stringify(ex,null,2)+';');
           fs.writeFileSync('index.html',html);
-          console.log('Done: '+batch.items.length+' items, '+ex.length+' batches');
+          console.log('Done: '+batch.items.length+' items, '+ex.length+' batches total');
           batch.items.forEach(it=>console.log(' #'+it.rank+' ['+it.category+'] '+it.title.slice(0,60)));
           ENDSCRIPT
 
