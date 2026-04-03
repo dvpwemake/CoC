@@ -784,7 +784,7 @@ let allB=[],aCat='all',aPage=0;
 
 function render(){_seenImgUrls.clear();
   const now=Date.now();
-  const todayET=now.toLocaleDateString('en-US',{timeZone:'America/New_York'});const live=allB.filter(b=>new Date(b.scannedAt).toLocaleDateString('en-US',{timeZone:'America/New_York'})===todayET);
+  const todayET=new Date(now).toLocaleDateString('en-US',{timeZone:'America/New_York'});const live=allB.filter(b=>new Date(b.scannedAt).toLocaleDateString('en-US',{timeZone:'America/New_York'})===todayET);
   const arch=allB.filter(b=>new Date(b.scannedAt).toLocaleDateString('en-US',{timeZone:'America/New_York'})!==todayET);
   renderLive(live);aPage=0;document.getElementById('archArea').innerHTML='';renderArch(arch);
 }
