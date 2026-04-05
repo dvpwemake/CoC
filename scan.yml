@@ -2,7 +2,6 @@ name: Science News Auto-Scan
 
 on:
   schedule:
-    # Runs daily at 06:00 UTC
     - cron: '0 6 * * *'
   workflow_dispatch:
     inputs:
@@ -33,7 +32,7 @@ jobs:
       - name: Run RSS & HTTP scraper
         env:
           MAX_ITEMS: ${{ github.event.inputs.max_items_per_source || '10' }}
-        run: python scripts/rss_scanner.py
+        run: python rss_scanner.py
 
       - name: Commit updated news data
         run: |
