@@ -1,0 +1,902 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>科学资讯编辑器</title>
+<style>
+/* ── Reset & Base ── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+:root {
+  --bg:        #0f1117;
+  --surface:   #1a1d27;
+  --surface2:  #22263a;
+  --border:    #2e3350;
+  --accent:    #5b7fff;
+  --accent2:   #a78bfa;
+  --green:     #34d399;
+  --red:       #f87171;
+  --yellow:    #fbbf24;
+  --text:      #e2e8f0;
+  --muted:     #64748b;
+  --radius:    10px;
+  --font:      'Inter', system-ui, sans-serif;
+}
+body { font-family: var(--font); background: var(--bg); color: var(--text); min-height: 100vh; }
+
+/* ── Layout ── */
+.app { display: grid; grid-template-columns: 260px 1fr; grid-template-rows: 56px 1fr; height: 100vh; }
+.topbar { grid-column: 1/-1; background: var(--surface); border-bottom: 1px solid var(--border);
+  display: flex; align-items: center; padding: 0 20px; gap: 16px; z-index: 10; }
+.sidebar { background: var(--surface); border-right: 1px solid var(--border); overflow-y: auto; padding: 16px 0; }
+.main    { overflow-y: auto; padding: 24px; }
+
+/* ── Topbar ── */
+.logo { font-size: 17px; font-weight: 700; background: linear-gradient(90deg,var(--accent),var(--accent2)); -webkit-background-clip:text; -webkit-text-fill-color:transparent; }
+.topbar-spacer { flex: 1; }
+.badge { font-size: 11px; padding: 2px 8px; border-radius: 20px; background: var(--surface2); border: 1px solid var(--border); color: var(--muted); }
+.badge.live { border-color: var(--green); color: var(--green); }
+
+/* ── Sidebar Nav ── */
+.nav-section { padding: 6px 12px 4px; font-size: 10px; text-transform: uppercase; letter-spacing: .1em; color: var(--muted); }
+.nav-item { display: flex; align-items: center; gap: 10px; padding: 9px 16px; cursor: pointer; font-size: 13.5px;
+  color: var(--muted); transition: all .15s; border-left: 3px solid transparent; }
+.nav-item:hover { color: var(--text); background: var(--surface2); }
+.nav-item.active { color: var(--accent); background: #1e244a; border-left-color: var(--accent); }
+.nav-item .icon { width: 16px; text-align: center; }
+
+/* ── Cards ── */
+.card { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 20px; margin-bottom: 20px; }
+.card-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 16px; }
+.card-title { font-size: 14px; font-weight: 600; display: flex; align-items: center; gap: 8px; }
+
+/* ── Buttons ── */
+.btn { display: inline-flex; align-items: center; gap: 6px; padding: 7px 14px; border-radius: 7px; font-size: 13px;
+  font-weight: 500; cursor: pointer; border: none; transition: all .15s; }
+.btn-primary { background: var(--accent); color: #fff; }
+.btn-primary:hover { background: #4a6ef5; }
+.btn-ghost  { background: transparent; color: var(--muted); border: 1px solid var(--border); }
+.btn-ghost:hover  { color: var(--text); border-color: var(--accent); }
+.btn-danger { background: transparent; color: var(--red); border: 1px solid #3f1e1e; }
+.btn-danger:hover { background: #2a1515; }
+.btn-ai { background: linear-gradient(135deg, #6366f1, #8b5cf6); color: #fff; font-weight: 600; }
+.btn-ai:hover { background: linear-gradient(135deg, #5254cc, #7c3aed); box-shadow: 0 0 16px #6366f180; }
+.btn-sm { padding: 4px 10px; font-size: 12px; }
+.btn:disabled { opacity: .4; cursor: not-allowed; }
+
+/* ── Source Table ── */
+.source-table { width: 100%; border-collapse: collapse; }
+.source-table th { font-size: 11px; text-transform: uppercase; letter-spacing: .05em; color: var(--muted);
+  padding: 8px 10px; text-align: left; border-bottom: 1px solid var(--border); }
+.source-table td { padding: 10px; font-size: 13px; border-bottom: 1px solid #1e2235; vertical-align: middle; }
+.source-table tr:last-child td { border-bottom: none; }
+.source-table tr:hover td { background: var(--surface2); }
+.status-dot { width: 8px; height: 8px; border-radius: 50%; display: inline-block; }
+.status-dot.ok     { background: var(--green); }
+.status-dot.error  { background: var(--red); }
+.status-dot.unknown{ background: var(--muted); }
+
+/* ── Category Badge ── */
+.cat { font-size: 11px; padding: 2px 8px; border-radius: 20px; font-weight: 500; }
+.cat-multi  { background: #1e3a5f; color: #60a5fa; }
+.cat-tech   { background: #2d1b69; color: #a78bfa; }
+.cat-space  { background: #1a2e4a; color: #38bdf8; }
+.cat-med    { background: #1e3a2f; color: #4ade80; }
+.cat-climate{ background: #2a2810; color: #fbbf24; }
+.cat-bio    { background: #2d1a3a; color: #e879f9; }
+.cat-eng    { background: #1e2a3a; color: #94a3b8; }
+.cat-phys   { background: #1a2040; color: #818cf8; }
+
+/* ── Toggle ── */
+.toggle { position: relative; width: 36px; height: 20px; }
+.toggle input { opacity: 0; width: 0; height: 0; }
+.toggle-slider { position: absolute; inset: 0; background: #374151; border-radius: 20px; cursor: pointer; transition: .2s; }
+.toggle-slider:before { content:''; position:absolute; width:14px; height:14px; left:3px; top:3px; background:#fff; border-radius:50%; transition:.2s; }
+input:checked + .toggle-slider { background: var(--accent); }
+input:checked + .toggle-slider:before { transform: translateX(16px); }
+
+/* ── Input ── */
+.input { background: var(--surface2); border: 1px solid var(--border); border-radius: 7px; padding: 8px 12px;
+  color: var(--text); font-size: 13px; width: 100%; outline: none; transition: border .15s; }
+.input:focus { border-color: var(--accent); }
+.input-row { display: grid; grid-template-columns: 1fr 1fr 140px auto; gap: 10px; align-items: end; margin-bottom: 12px; }
+label.field-label { display: block; font-size: 11px; color: var(--muted); margin-bottom: 5px; }
+
+/* ── AI Optimizer Panel ── */
+.ai-panel { background: linear-gradient(135deg, #1a1d35, #1e1b35); border: 1px solid #3d3775; border-radius: var(--radius); padding: 20px; margin-bottom: 20px; }
+.ai-panel-header { display: flex; align-items: center; gap: 10px; margin-bottom: 14px; }
+.ai-panel-title { font-size: 15px; font-weight: 700; background: linear-gradient(90deg,#818cf8,#c084fc); -webkit-background-clip:text;-webkit-text-fill-color:transparent; }
+.ai-options { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin-bottom: 14px; }
+.ai-option { background: var(--surface2); border: 1px solid var(--border); border-radius: 8px; padding: 12px;
+  cursor: pointer; transition: all .15s; }
+.ai-option:hover, .ai-option.selected { border-color: var(--accent2); background: #1e1a40; }
+.ai-option-label { font-size: 12px; font-weight: 600; color: var(--text); margin-bottom: 4px; }
+.ai-option-desc  { font-size: 11px; color: var(--muted); }
+.api-key-row { display: flex; gap: 10px; align-items: center; }
+.api-key-row .input { font-family: monospace; }
+
+/* ── Log ── */
+.log-box { background: #0a0c14; border: 1px solid var(--border); border-radius: 8px; padding: 14px;
+  font-family: monospace; font-size: 12px; max-height: 220px; overflow-y: auto; color: #94a3b8; }
+.log-entry { padding: 2px 0; }
+.log-entry.ok     { color: var(--green); }
+.log-entry.error  { color: var(--red); }
+.log-entry.info   { color: var(--accent); }
+.log-entry.warn   { color: var(--yellow); }
+
+/* ── Stats row ── */
+.stats-row { display: grid; grid-template-columns: repeat(4,1fr); gap: 14px; margin-bottom: 20px; }
+.stat-card { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 14px; }
+.stat-val { font-size: 26px; font-weight: 700; color: var(--accent); }
+.stat-label { font-size: 12px; color: var(--muted); margin-top: 2px; }
+
+/* ── Progress ── */
+.progress-bar { height: 4px; background: var(--surface2); border-radius: 4px; overflow: hidden; margin-top: 6px; }
+.progress-fill { height: 100%; background: linear-gradient(90deg,var(--accent),var(--accent2)); border-radius: 4px; transition: width .3s; }
+
+/* ── Modal ── */
+.modal-overlay { position: fixed; inset: 0; background: #00000099; z-index: 100; display: none; align-items: center; justify-content: center; }
+.modal-overlay.open { display: flex; }
+.modal { background: var(--surface); border: 1px solid var(--border); border-radius: 14px; width: 520px; max-width: 95vw; padding: 24px; }
+.modal-header { font-size: 15px; font-weight: 700; margin-bottom: 16px; display: flex; justify-content: space-between; align-items: center; }
+.modal-close { cursor: pointer; color: var(--muted); font-size: 18px; }
+.modal-close:hover { color: var(--text); }
+
+/* ── Export area ── */
+.export-box { background: #0a0c14; border: 1px solid var(--border); border-radius: 8px; padding: 14px; font-family: monospace; font-size: 11.5px;
+  color: #94a3b8; max-height: 300px; overflow-y: auto; white-space: pre; }
+
+/* ── Pages ── */
+.page { display: none; }
+.page.active { display: block; }
+
+/* ── Toast ── */
+.toast { position: fixed; bottom: 24px; right: 24px; background: var(--surface); border: 1px solid var(--border);
+  border-radius: 10px; padding: 12px 18px; font-size: 13px; z-index: 200; opacity: 0; transform: translateY(10px);
+  transition: all .25s; pointer-events: none; }
+.toast.show { opacity: 1; transform: none; }
+.toast.ok    { border-color: var(--green); color: var(--green); }
+.toast.error { border-color: var(--red);   color: var(--red); }
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 6px; } ::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: var(--border); border-radius: 4px; }
+</style>
+</head>
+<body>
+
+<!-- Toast -->
+<div class="toast" id="toast"></div>
+
+<!-- Add Source Modal -->
+<div class="modal-overlay" id="addModal">
+  <div class="modal">
+    <div class="modal-header">
+      添加新 RSS 源
+      <span class="modal-close" onclick="closeModal('addModal')">✕</span>
+    </div>
+    <div class="input-row" style="grid-template-columns:1fr 1fr">
+      <div><label class="field-label">源名称</label><input class="input" id="new-name" placeholder="e.g. Quanta Magazine"></div>
+      <div>
+        <label class="field-label">分类</label>
+        <select class="input" id="new-cat">
+          <option>Multidisciplinary</option><option>Technology</option><option>Space</option>
+          <option>Medicine</option><option>Climate</option><option>Biology</option>
+          <option>Physics & Tech</option><option>Engineering</option>
+        </select>
+      </div>
+    </div>
+    <div style="margin-bottom:14px"><label class="field-label">RSS / Feed URL</label><input class="input" id="new-url" placeholder="https://..."></div>
+    <div style="display:flex;gap:10px;justify-content:flex-end">
+      <button class="btn btn-ghost" onclick="closeModal('addModal')">取消</button>
+      <button class="btn btn-primary" onclick="confirmAddSource()">✓ 添加</button>
+    </div>
+  </div>
+</div>
+
+<!-- Export Modal -->
+<div class="modal-overlay" id="exportModal">
+  <div class="modal" style="width:680px">
+    <div class="modal-header">
+      导出 scan.yml 数据源配置
+      <span class="modal-close" onclick="closeModal('exportModal')">✕</span>
+    </div>
+    <p style="font-size:13px;color:var(--muted);margin-bottom:14px">将以下 Python 列表替换 <code>scripts/rss_scanner.py</code> 中的 <code>RSS_SOURCES</code> 变量：</p>
+    <div class="export-box" id="exportBox"></div>
+    <div style="display:flex;gap:10px;justify-content:flex-end;margin-top:14px">
+      <button class="btn btn-ghost" onclick="copyExport()">📋 复制</button>
+      <button class="btn btn-primary" onclick="downloadExport()">⬇ 下载 rss_sources.py</button>
+    </div>
+  </div>
+</div>
+
+<!-- App -->
+<div class="app">
+  <!-- Topbar -->
+  <div class="topbar">
+    <div class="logo">⚗ SciEditor</div>
+    <span class="badge live">● RSS 模式 · 无 API 依赖</span>
+    <div class="topbar-spacer"></div>
+    <span class="badge" id="articleCount">— 篇文章</span>
+    <span class="badge" id="lastScan">上次扫描: —</span>
+  </div>
+
+  <!-- Sidebar -->
+  <div class="sidebar">
+    <div class="nav-section">工作区</div>
+    <div class="nav-item active" onclick="switchPage('rss')">
+      <span class="icon">📡</span> RSS 媒体库
+    </div>
+    <div class="nav-item" onclick="switchPage('articles')">
+      <span class="icon">📰</span> 文章列表
+    </div>
+    <div class="nav-section" style="margin-top:12px">工具</div>
+    <div class="nav-item" onclick="switchPage('optimizer')">
+      <span class="icon">🤖</span> AI Optimizer
+    </div>
+    <div class="nav-item" onclick="switchPage('export')">
+      <span class="icon">📤</span> 导出配置
+    </div>
+    <div class="nav-section" style="margin-top:12px">系统</div>
+    <div class="nav-item" onclick="switchPage('log')">
+      <span class="icon">🗒</span> 扫描日志
+    </div>
+  </div>
+
+  <!-- Main Content -->
+  <div class="main">
+
+    <!-- ── Page: RSS Media Library ── -->
+    <div class="page active" id="page-rss">
+      <div class="stats-row">
+        <div class="stat-card"><div class="stat-val" id="stat-total">0</div><div class="stat-label">已注册数据源</div></div>
+        <div class="stat-card"><div class="stat-val" id="stat-active">0</div><div class="stat-label">活跃源</div></div>
+        <div class="stat-card"><div class="stat-val" id="stat-cats">0</div><div class="stat-label">覆盖分类</div></div>
+        <div class="stat-card"><div class="stat-val" id="stat-errors">0</div><div class="stat-label">失效链接</div></div>
+      </div>
+
+      <div class="card">
+        <div class="card-header">
+          <div class="card-title">📡 RSS 数据源管理</div>
+          <div style="display:flex;gap:8px">
+            <button class="btn btn-ghost btn-sm" onclick="quickTest()">🔍 快速检测</button>
+            <button class="btn btn-primary btn-sm" onclick="openModal('addModal')">＋ 添加源</button>
+          </div>
+        </div>
+
+        <!-- Filters -->
+        <div style="display:flex;gap:8px;margin-bottom:14px;flex-wrap:wrap">
+          <button class="btn btn-ghost btn-sm cat-filter active" data-cat="all" onclick="filterSources('all',this)">全部</button>
+          <button class="btn btn-ghost btn-sm cat-filter" data-cat="Multidisciplinary" onclick="filterSources('Multidisciplinary',this)">综合</button>
+          <button class="btn btn-ghost btn-sm cat-filter" data-cat="Technology" onclick="filterSources('Technology',this)">技术</button>
+          <button class="btn btn-ghost btn-sm cat-filter" data-cat="Space" onclick="filterSources('Space',this)">空间</button>
+          <button class="btn btn-ghost btn-sm cat-filter" data-cat="Medicine" onclick="filterSources('Medicine',this)">医学</button>
+          <button class="btn btn-ghost btn-sm cat-filter" data-cat="Climate" onclick="filterSources('Climate',this)">气候</button>
+          <button class="btn btn-ghost btn-sm cat-filter" data-cat="Biology" onclick="filterSources('Biology',this)">生物</button>
+        </div>
+
+        <table class="source-table" id="sourceTable">
+          <thead>
+            <tr>
+              <th>状态</th><th>源名称</th><th>分类</th><th>RSS URL</th><th>启用</th><th>操作</th>
+            </tr>
+          </thead>
+          <tbody id="sourceBody"></tbody>
+        </table>
+      </div>
+    </div>
+
+    <!-- ── Page: AI Optimizer ── -->
+    <div class="page" id="page-optimizer">
+      <div class="ai-panel">
+        <div class="ai-panel-header">
+          <span style="font-size:22px">🤖</span>
+          <div>
+            <div class="ai-panel-title">AI Optimizer — 智能媒体库优化</div>
+            <div style="font-size:12px;color:var(--muted)">使用你自己的 Claude API Key，自动检测、清洗、扩充 RSS 数据源</div>
+          </div>
+        </div>
+
+        <!-- API Key -->
+        <div style="margin-bottom:14px">
+          <label class="field-label">Claude API Key（仅存于本地浏览器，不上传服务器）</label>
+          <div class="api-key-row">
+            <input class="input" type="password" id="apiKeyInput" placeholder="sk-ant-api03-..." style="font-family:monospace">
+            <button class="btn btn-ghost btn-sm" onclick="toggleKeyVisibility()">👁</button>
+            <button class="btn btn-ghost btn-sm" onclick="saveApiKey()">保存</button>
+          </div>
+        </div>
+
+        <!-- AI Task Options -->
+        <div style="font-size:12px;color:var(--muted);margin-bottom:8px">选择 AI 执行的任务：</div>
+        <div class="ai-options">
+          <div class="ai-option selected" id="opt-validate" onclick="toggleAiOpt(this)">
+            <div class="ai-option-label">🔗 验证失效链接</div>
+            <div class="ai-option-desc">检测所有 RSS URL 可访问性，标记并剔除失效源</div>
+          </div>
+          <div class="ai-option selected" id="opt-discover" onclick="toggleAiOpt(this)">
+            <div class="ai-option-label">🔭 发现新前沿媒体</div>
+            <div class="ai-option-desc">搜寻当前未收录的权威科学媒体并推荐 RSS 链接</div>
+          </div>
+          <div class="ai-option selected" id="opt-categorize" onclick="toggleAiOpt(this)">
+            <div class="ai-option-label">🏷 自动补全分类</div>
+            <div class="ai-option-desc">AI 智能归类并补充未分类源的 category 字段</div>
+          </div>
+        </div>
+
+        <!-- Max new sources -->
+        <div style="display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-bottom:14px">
+          <div>
+            <label class="field-label">最多推荐新源数量</label>
+            <input class="input" type="number" id="maxNewSources" value="10" min="1" max="50">
+          </div>
+          <div>
+            <label class="field-label">语言偏好</label>
+            <select class="input" id="langPref">
+              <option value="en">英文优先</option>
+              <option value="zh">中文优先</option>
+              <option value="both">中英双语</option>
+            </select>
+          </div>
+        </div>
+
+        <div style="display:flex;gap:10px;align-items:center">
+          <button class="btn btn-ai" id="runAiBtn" onclick="runAiOptimizer()">
+            ✦ AI Optimize — 立即运行
+          </button>
+          <button class="btn btn-ghost btn-sm" onclick="applyAiResults()" id="applyBtn" disabled>
+            ✓ 应用结果到媒体库
+          </button>
+          <button class="btn btn-ghost btn-sm" onclick="exportAiResults()" id="exportAiBtn" disabled>
+            📤 导出到 scan.yml
+          </button>
+        </div>
+      </div>
+
+      <!-- Progress & Log -->
+      <div class="card">
+        <div class="card-header">
+          <div class="card-title">执行日志</div>
+          <button class="btn btn-ghost btn-sm" onclick="clearAiLog()">清除</button>
+        </div>
+        <div class="progress-bar" id="aiProgressBar"><div class="progress-fill" id="aiProgressFill" style="width:0%"></div></div>
+        <div style="height:10px"></div>
+        <div class="log-box" id="aiLog"><div class="log-entry info">等待执行…</div></div>
+      </div>
+
+      <!-- AI Results Preview -->
+      <div class="card" id="aiResultCard" style="display:none">
+        <div class="card-header">
+          <div class="card-title">🔭 AI 推荐新源预览</div>
+          <span style="font-size:12px;color:var(--muted)" id="aiResultCount"></span>
+        </div>
+        <table class="source-table" id="aiResultTable">
+          <thead><tr><th>选择</th><th>源名称</th><th>分类</th><th>RSS URL</th><th>AI 评分</th><th>说明</th></tr></thead>
+          <tbody id="aiResultBody"></tbody>
+        </table>
+      </div>
+    </div>
+
+    <!-- ── Page: Articles ── -->
+    <div class="page" id="page-articles">
+      <div class="card">
+        <div class="card-header">
+          <div class="card-title">📰 最新文章</div>
+          <button class="btn btn-ghost btn-sm" onclick="loadArticles()">🔄 刷新</button>
+        </div>
+        <div id="articleList" style="font-size:13px;color:var(--muted);text-align:center;padding:40px">
+          加载 data/news_feed.json 中…
+        </div>
+      </div>
+    </div>
+
+    <!-- ── Page: Export ── -->
+    <div class="page" id="page-export">
+      <div class="card">
+        <div class="card-header">
+          <div class="card-title">📤 导出配置</div>
+        </div>
+        <p style="font-size:13px;color:var(--muted);margin-bottom:16px">
+          将当前媒体库配置导出为 Python 列表，直接替换 <code>scripts/rss_scanner.py</code> 中的 <code>RSS_SOURCES</code>，无需 Claude API。
+        </p>
+        <div style="display:flex;gap:10px;margin-bottom:14px">
+          <button class="btn btn-primary" onclick="generateExport()">生成导出预览</button>
+          <button class="btn btn-ghost" onclick="downloadExport()">⬇ 下载 .py 文件</button>
+          <button class="btn btn-ghost" onclick="downloadYml()">⬇ 下载 scan.yml</button>
+        </div>
+        <div class="export-box" id="mainExportBox" style="min-height:200px">点击「生成导出预览」查看内容…</div>
+      </div>
+    </div>
+
+    <!-- ── Page: Log ── -->
+    <div class="page" id="page-log">
+      <div class="card">
+        <div class="card-header">
+          <div class="card-title">🗒 扫描日志</div>
+          <button class="btn btn-ghost btn-sm" onclick="loadScanLog()">🔄 刷新</button>
+        </div>
+        <div class="log-box" id="scanLogBox" style="max-height:500px">加载日志中…</div>
+      </div>
+    </div>
+
+  </div><!-- /main -->
+</div><!-- /app -->
+
+<script>
+// ─────────────────────────────────────────────────────
+//  DATA: Default RSS Sources (mirrored from rss_scanner.py)
+// ─────────────────────────────────────────────────────
+let RSS_SOURCES = [
+  // Core Science
+  {name:"Nature News",          url:"https://www.nature.com/nature.rss",                        category:"Multidisciplinary", enabled:true, status:"unknown"},
+  {name:"Science Magazine",     url:"https://www.science.org/rss/news_current.xml",              category:"Multidisciplinary", enabled:true, status:"unknown"},
+  {name:"ScienceDaily",         url:"https://www.sciencedaily.com/rss/all.xml",                  category:"Multidisciplinary", enabled:true, status:"unknown"},
+  {name:"Phys.org",             url:"https://phys.org/rss-feed/",                                category:"Physics & Tech",    enabled:true, status:"unknown"},
+  {name:"New Scientist",        url:"https://www.newscientist.com/feed/home/",                   category:"Multidisciplinary", enabled:true, status:"unknown"},
+  {name:"Scientific American",  url:"https://www.scientificamerican.com/platform/syndication/rss/",category:"Multidisciplinary",enabled:true, status:"unknown"},
+  // Technology & AI
+  {name:"MIT Technology Review",url:"https://www.technologyreview.com/feed/",                   category:"Technology",        enabled:true, status:"unknown"},
+  {name:"Wired Science",        url:"https://www.wired.com/feed/category/science/latest/rss/",   category:"Technology",        enabled:true, status:"unknown"},
+  {name:"Ars Technica Science", url:"https://feeds.arstechnica.com/arstechnica/science",         category:"Technology",        enabled:true, status:"unknown"},
+  {name:"IEEE Spectrum",        url:"https://spectrum.ieee.org/rss",                             category:"Engineering",       enabled:true, status:"unknown"},
+  {name:"The Verge Science",    url:"https://www.theverge.com/rss/science/index.xml",            category:"Technology",        enabled:true, status:"unknown"},
+  // Space & Astronomy
+  {name:"NASA News",            url:"https://www.nasa.gov/rss/dyn/breaking_news.rss",            category:"Space",             enabled:true, status:"unknown"},
+  {name:"Space.com",            url:"https://www.space.com/feeds/all",                           category:"Space",             enabled:true, status:"unknown"},
+  {name:"ESA News",             url:"https://www.esa.int/rssfeed/Our_Activities/Space_Science",  category:"Space",             enabled:true, status:"unknown"},
+  // Biology & Medicine
+  {name:"NIH News",             url:"https://www.nih.gov/rss/news.xml",                          category:"Medicine",          enabled:true, status:"unknown"},
+  {name:"EurekAlert!",          url:"https://www.eurekalert.org/rss.xml",                        category:"Multidisciplinary", enabled:true, status:"unknown"},
+  {name:"MedicalXpress",        url:"https://medicalxpress.com/rss-feed/",                       category:"Medicine",          enabled:true, status:"unknown"},
+  {name:"Cell Press",           url:"https://www.cell.com/rss/home",                             category:"Biology",           enabled:true, status:"unknown"},
+  // Climate
+  {name:"Carbon Brief",         url:"https://www.carbonbrief.org/feed",                          category:"Climate",           enabled:true, status:"unknown"},
+  {name:"Climate Home News",    url:"https://www.climatechangenews.com/feed/",                   category:"Climate",           enabled:true, status:"unknown"},
+  {name:"Inside Climate News",  url:"https://insideclimatenews.org/feed/",                       category:"Climate",           enabled:true, status:"unknown"},
+];
+
+let aiSuggestedSources = [];  // Holds AI Optimizer results
+let currentFilter = 'all';
+let apiKey = localStorage.getItem('editor_api_key') || '';
+
+// ─────────────────────────────────────────────────────
+//  INIT
+// ─────────────────────────────────────────────────────
+document.addEventListener('DOMContentLoaded', () => {
+  if (apiKey) document.getElementById('apiKeyInput').value = apiKey;
+  renderSourceTable();
+  updateStats();
+  loadArticles();
+  loadScanLog();
+});
+
+// ─────────────────────────────────────────────────────
+//  NAVIGATION
+// ─────────────────────────────────────────────────────
+function switchPage(id) {
+  document.querySelectorAll('.page').forEach(p => p.classList.remove('active'));
+  document.querySelectorAll('.nav-item').forEach(n => n.classList.remove('active'));
+  document.getElementById('page-' + id).classList.add('active');
+  event.currentTarget.classList.add('active');
+  if (id === 'export') generateExport();
+}
+
+// ─────────────────────────────────────────────────────
+//  SOURCE TABLE
+// ─────────────────────────────────────────────────────
+const CAT_CLASS = {
+  "Multidisciplinary":"cat-multi","Technology":"cat-tech","Space":"cat-space",
+  "Medicine":"cat-med","Climate":"cat-climate","Biology":"cat-bio",
+  "Physics & Tech":"cat-phys","Engineering":"cat-eng"
+};
+
+function renderSourceTable() {
+  const tbody = document.getElementById('sourceBody');
+  const filtered = currentFilter === 'all' ? RSS_SOURCES : RSS_SOURCES.filter(s => s.category === currentFilter);
+  tbody.innerHTML = filtered.map((s, i) => {
+    const realIdx = RSS_SOURCES.indexOf(s);
+    const catCls = CAT_CLASS[s.category] || 'cat-multi';
+    const dotCls = s.status === 'ok' ? 'ok' : s.status === 'error' ? 'error' : 'unknown';
+    const shortUrl = s.url.replace(/^https?:\/\//, '').substring(0, 48) + (s.url.length > 60 ? '…' : '');
+    return `<tr>
+      <td><span class="status-dot ${dotCls}" title="${s.status}"></span></td>
+      <td style="font-weight:500">${s.name}</td>
+      <td><span class="cat ${catCls}">${s.category}</span></td>
+      <td style="color:var(--muted);font-size:12px;font-family:monospace" title="${s.url}">${shortUrl}</td>
+      <td>
+        <label class="toggle"><input type="checkbox" ${s.enabled?'checked':''} onchange="toggleSource(${realIdx},this.checked)"><span class="toggle-slider"></span></label>
+      </td>
+      <td>
+        <button class="btn btn-ghost btn-sm" onclick="testSource(${realIdx})" style="margin-right:4px">🔍</button>
+        <button class="btn btn-danger btn-sm" onclick="removeSource(${realIdx})">🗑</button>
+      </td>
+    </tr>`;
+  }).join('');
+  updateStats();
+}
+
+function updateStats() {
+  document.getElementById('stat-total').textContent  = RSS_SOURCES.length;
+  document.getElementById('stat-active').textContent = RSS_SOURCES.filter(s=>s.enabled).length;
+  document.getElementById('stat-cats').textContent   = [...new Set(RSS_SOURCES.map(s=>s.category))].length;
+  document.getElementById('stat-errors').textContent = RSS_SOURCES.filter(s=>s.status==='error').length;
+  document.getElementById('articleCount').textContent = RSS_SOURCES.length + ' 个源已注册';
+}
+
+function filterSources(cat, el) {
+  currentFilter = cat;
+  document.querySelectorAll('.cat-filter').forEach(b => b.classList.remove('active'));
+  el.classList.add('active');
+  renderSourceTable();
+}
+
+function toggleSource(idx, val) {
+  RSS_SOURCES[idx].enabled = val;
+  updateStats();
+}
+
+function removeSource(idx) {
+  if (!confirm(`删除「${RSS_SOURCES[idx].name}」？`)) return;
+  RSS_SOURCES.splice(idx, 1);
+  renderSourceTable();
+  showToast('已删除', 'ok');
+}
+
+async function testSource(idx) {
+  const s = RSS_SOURCES[idx];
+  showToast(`测试 ${s.name}…`, 'info');
+  // Browser can't directly HEAD cross-origin; use a no-cors ping
+  try {
+    const resp = await fetch(s.url, { method:'HEAD', mode:'no-cors', signal: AbortSignal.timeout(8000) });
+    RSS_SOURCES[idx].status = 'ok';
+  } catch(e) {
+    RSS_SOURCES[idx].status = 'error';
+  }
+  renderSourceTable();
+}
+
+async function quickTest() {
+  showToast('开始批量检测…', 'info');
+  for (let i = 0; i < RSS_SOURCES.length; i++) {
+    try {
+      await fetch(RSS_SOURCES[i].url, { method:'HEAD', mode:'no-cors', signal: AbortSignal.timeout(6000) });
+      RSS_SOURCES[i].status = 'ok';
+    } catch(e) {
+      RSS_SOURCES[i].status = 'error';
+    }
+  }
+  renderSourceTable();
+  showToast('检测完成', 'ok');
+}
+
+// ─────────────────────────────────────────────────────
+//  ADD SOURCE MODAL
+// ─────────────────────────────────────────────────────
+function openModal(id)  { document.getElementById(id).classList.add('open'); }
+function closeModal(id) { document.getElementById(id).classList.remove('open'); }
+
+function confirmAddSource() {
+  const name = document.getElementById('new-name').value.trim();
+  const url  = document.getElementById('new-url').value.trim();
+  const cat  = document.getElementById('new-cat').value;
+  if (!name || !url) { showToast('请填写名称和 URL', 'error'); return; }
+  RSS_SOURCES.push({ name, url, category:cat, enabled:true, status:'unknown' });
+  renderSourceTable();
+  closeModal('addModal');
+  showToast('已添加 ' + name, 'ok');
+  document.getElementById('new-name').value = '';
+  document.getElementById('new-url').value  = '';
+}
+
+// ─────────────────────────────────────────────────────
+//  AI OPTIMIZER
+// ─────────────────────────────────────────────────────
+function toggleKeyVisibility() {
+  const inp = document.getElementById('apiKeyInput');
+  inp.type = inp.type === 'password' ? 'text' : 'password';
+}
+function saveApiKey() {
+  apiKey = document.getElementById('apiKeyInput').value.trim();
+  localStorage.setItem('editor_api_key', apiKey);
+  showToast('API Key 已保存到本地', 'ok');
+}
+
+function toggleAiOpt(el) { el.classList.toggle('selected'); }
+
+function aiLog(msg, type='info') {
+  const box = document.getElementById('aiLog');
+  const div = document.createElement('div');
+  div.className = 'log-entry ' + type;
+  div.textContent = `[${new Date().toLocaleTimeString()}] ${msg}`;
+  box.appendChild(div);
+  box.scrollTop = box.scrollHeight;
+}
+function clearAiLog() { document.getElementById('aiLog').innerHTML = ''; }
+
+function setProgress(pct) {
+  document.getElementById('aiProgressFill').style.width = pct + '%';
+}
+
+async function runAiOptimizer() {
+  const key = document.getElementById('apiKeyInput').value.trim() || apiKey;
+  if (!key) { showToast('请先输入 Claude API Key', 'error'); return; }
+
+  const doValidate   = document.getElementById('opt-validate').classList.contains('selected');
+  const doDiscover   = document.getElementById('opt-discover').classList.contains('selected');
+  const doCategorize = document.getElementById('opt-categorize').classList.contains('selected');
+  const maxNew       = parseInt(document.getElementById('maxNewSources').value) || 10;
+  const lang         = document.getElementById('langPref').value;
+
+  const btn = document.getElementById('runAiBtn');
+  btn.disabled = true;
+  btn.textContent = '⏳ 运行中…';
+  clearAiLog();
+  setProgress(5);
+
+  aiLog('启动 AI Optimizer…', 'info');
+  aiLog(`任务：验证链接=${doValidate}, 发现新源=${doDiscover}, 自动分类=${doCategorize}`, 'info');
+
+  // Build prompt
+  const sourceList = RSS_SOURCES.map((s,i) => `${i+1}. ${s.name} | ${s.category} | ${s.url}`).join('\n');
+
+  let tasks = [];
+  if (doValidate)   tasks.push('检测下方列表中每条 RSS URL 是否可能失效（根据域名可信度与 URL 格式判断），列出疑似失效的源编号与原因。');
+  if (doDiscover)   tasks.push(`推荐最多 ${maxNew} 个尚未在列表中的权威科学媒体 RSS 源（语言偏好：${lang}），包含：名称、分类（从 Multidisciplinary/Technology/Space/Medicine/Climate/Biology/Physics & Tech/Engineering 中选）、完整 RSS URL。`);
+  if (doCategorize) tasks.push('检查列表中分类不准确的源，给出修正建议。');
+
+  const prompt = `你是一名科学资讯编辑助理，专注于全球权威科学媒体 RSS 聚合。
+
+当前 RSS 数据源列表（共 ${RSS_SOURCES.length} 条）：
+${sourceList}
+
+请完成以下任务：
+${tasks.map((t,i)=>`${i+1}. ${t}`).join('\n')}
+
+请严格以 JSON 格式回复，结构如下：
+{
+  "invalid_sources": [{"index": 1, "name": "...", "reason": "..."}],
+  "new_sources": [
+    {"name": "...", "category": "...", "url": "...", "score": 9, "reason": "..."}
+  ],
+  "recategorize": [{"index": 1, "name": "...", "current": "...", "suggested": "...", "reason": "..."}]
+}`;
+
+  setProgress(20);
+  aiLog('调用 Claude API…', 'info');
+
+  try {
+    const resp = await fetch('https://api.anthropic.com/v1/messages', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'x-api-key': key,
+        'anthropic-version': '2023-06-01',
+        'anthropic-dangerous-direct-browser-access': 'true',
+      },
+      body: JSON.stringify({
+        model: 'claude-sonnet-4-20250514',
+        max_tokens: 2000,
+        messages: [{ role:'user', content: prompt }]
+      })
+    });
+
+    setProgress(70);
+
+    if (!resp.ok) {
+      const err = await resp.json();
+      throw new Error(err.error?.message || resp.statusText);
+    }
+
+    const data = await resp.json();
+    const text = data.content.map(b => b.text||'').join('');
+    const clean = text.replace(/```json|```/g,'').trim();
+
+    setProgress(85);
+    aiLog('收到 AI 响应，解析结果…', 'info');
+
+    let result;
+    try { result = JSON.parse(clean); }
+    catch(e) { throw new Error('JSON 解析失败: ' + e.message); }
+
+    // Process invalid sources
+    if (result.invalid_sources?.length) {
+      aiLog(`发现 ${result.invalid_sources.length} 个疑似失效源：`, 'warn');
+      result.invalid_sources.forEach(s => {
+        aiLog(`  ✗ #${s.index} ${s.name}: ${s.reason}`, 'error');
+        if (RSS_SOURCES[s.index-1]) RSS_SOURCES[s.index-1].status = 'error';
+      });
+      renderSourceTable();
+    } else {
+      aiLog('所有链接检测通过 ✓', 'ok');
+    }
+
+    // Process recategorize
+    if (result.recategorize?.length) {
+      aiLog(`${result.recategorize.length} 条分类建议：`, 'warn');
+      result.recategorize.forEach(r => {
+        aiLog(`  ↻ #${r.index} ${r.name}: ${r.current} → ${r.suggested} (${r.reason})`, 'warn');
+      });
+    }
+
+    // Show new sources
+    if (result.new_sources?.length) {
+      aiSuggestedSources = result.new_sources;
+      aiLog(`推荐 ${result.new_sources.length} 个新源：`, 'ok');
+      result.new_sources.forEach(s => aiLog(`  + ${s.name} [${s.category}] — ${s.url}`, 'ok'));
+      renderAiResults(result.new_sources);
+      document.getElementById('applyBtn').disabled   = false;
+      document.getElementById('exportAiBtn').disabled = false;
+    }
+
+    setProgress(100);
+    aiLog('✓ AI Optimizer 完成', 'ok');
+    showToast('AI 优化完成', 'ok');
+
+  } catch(e) {
+    aiLog('✗ 错误: ' + e.message, 'error');
+    showToast('调用失败: ' + e.message, 'error');
+    setProgress(0);
+  }
+
+  btn.disabled = false;
+  btn.textContent = '✦ AI Optimize — 立即运行';
+}
+
+function renderAiResults(sources) {
+  const card = document.getElementById('aiResultCard');
+  const tbody = document.getElementById('aiResultBody');
+  document.getElementById('aiResultCount').textContent = sources.length + ' 个推荐源';
+  tbody.innerHTML = sources.map((s,i) => {
+    const catCls = CAT_CLASS[s.category] || 'cat-multi';
+    const stars = '★'.repeat(Math.min(s.score||8,10));
+    return `<tr>
+      <td><input type="checkbox" class="ai-check" data-idx="${i}" checked style="width:16px;height:16px;cursor:pointer"></td>
+      <td style="font-weight:500">${s.name}</td>
+      <td><span class="cat ${catCls}">${s.category}</span></td>
+      <td style="font-family:monospace;font-size:11px;color:var(--muted)">${s.url}</td>
+      <td style="color:var(--yellow);font-size:13px">${stars} ${s.score||8}/10</td>
+      <td style="font-size:12px;color:var(--muted)">${s.reason||''}</td>
+    </tr>`;
+  }).join('');
+  card.style.display = 'block';
+}
+
+function applyAiResults() {
+  const checks = document.querySelectorAll('.ai-check:checked');
+  let added = 0;
+  checks.forEach(cb => {
+    const src = aiSuggestedSources[parseInt(cb.dataset.idx)];
+    const exists = RSS_SOURCES.some(s => s.url === src.url);
+    if (!exists) {
+      RSS_SOURCES.push({ name:src.name, url:src.url, category:src.category, enabled:true, status:'unknown' });
+      added++;
+    }
+  });
+  renderSourceTable();
+  showToast(`已添加 ${added} 个新源到媒体库`, 'ok');
+  aiLog(`✓ 已应用 ${added} 个新源到媒体库`, 'ok');
+}
+
+function exportAiResults() {
+  openModal('exportModal');
+  document.getElementById('exportBox').textContent = buildPythonExport();
+}
+
+// ─────────────────────────────────────────────────────
+//  EXPORT
+// ─────────────────────────────────────────────────────
+function buildPythonExport() {
+  const lines = RSS_SOURCES.filter(s=>s.enabled).map(s =>
+    `    {"name": ${JSON.stringify(s.name)}, "url": ${JSON.stringify(s.url)}, "category": ${JSON.stringify(s.category)}},`
+  ).join('\n');
+  return `# Auto-generated by SciEditor — ${new Date().toISOString()}\nRSS_SOURCES = [\n${lines}\n]`;
+}
+
+function generateExport() {
+  document.getElementById('mainExportBox').textContent = buildPythonExport();
+}
+
+function copyExport() {
+  const box = document.getElementById('exportBox');
+  navigator.clipboard.writeText(box.textContent).then(() => showToast('已复制到剪贴板', 'ok'));
+}
+
+function downloadExport() {
+  const blob = new Blob([buildPythonExport()], {type:'text/plain'});
+  const a = Object.assign(document.createElement('a'), {href:URL.createObjectURL(blob), download:'rss_sources.py'});
+  a.click();
+}
+
+function downloadYml() {
+  const yml = `name: Science News Auto-Scan
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+    inputs:
+      max_items_per_source:
+        description: 'Max items to fetch per RSS source'
+        required: false
+        default: '10'
+permissions:
+  contents: write
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install feedparser requests beautifulsoup4 lxml
+      - name: Run RSS scraper
+        env:
+          MAX_ITEMS: \${{ github.event.inputs.max_items_per_source || '10' }}
+        run: python scripts/rss_scanner.py
+      - name: Commit results
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/news_feed.json data/scan_log.json
+          git diff --cached --quiet || git commit -m "chore: auto-scan [$(date -u '+%Y-%m-%d')]"
+          git push
+`;
+  const blob = new Blob([yml], {type:'text/yaml'});
+  const a = Object.assign(document.createElement('a'), {href:URL.createObjectURL(blob), download:'scan.yml'});
+  a.click();
+}
+
+// ─────────────────────────────────────────────────────
+//  ARTICLES & LOG
+// ─────────────────────────────────────────────────────
+async function loadArticles() {
+  const box = document.getElementById('articleList');
+  box.textContent = '加载中…';
+  try {
+    const resp = await fetch('data/news_feed.json?' + Date.now());
+    const data = await resp.json();
+    document.getElementById('articleCount').textContent = data.total + ' 篇文章';
+    document.getElementById('lastScan').textContent = '上次扫描: ' + (data.generated_at||'—').replace('T',' ').substring(0,16);
+    box.innerHTML = data.articles.slice(0,50).map(a => `
+      <div style="padding:12px 0;border-bottom:1px solid var(--border)">
+        <div style="display:flex;align-items:center;gap:8px;margin-bottom:4px">
+          <span class="cat ${CAT_CLASS[a.category]||'cat-multi'}">${a.category}</span>
+          <span style="font-size:11px;color:var(--muted)">${a.source}</span>
+          <span style="font-size:11px;color:var(--muted);margin-left:auto">${(a.date||'').substring(0,10)}</span>
+        </div>
+        <a href="${a.url}" target="_blank" style="color:var(--text);text-decoration:none;font-weight:500;font-size:14px">${a.title}</a>
+        <div style="font-size:12px;color:var(--muted);margin-top:4px">${a.summary.substring(0,160)}…</div>
+      </div>`).join('');
+  } catch(e) {
+    box.textContent = '暂无文章数据。请先运行 GitHub Actions 扫描，或检查 data/news_feed.json 是否存在。';
+  }
+}
+
+async function loadScanLog() {
+  const box = document.getElementById('scanLogBox');
+  try {
+    const resp = await fetch('data/scan_log.json?' + Date.now());
+    const log  = await resp.json();
+    box.innerHTML = `<div class="log-entry info">扫描时间: ${log.scanned_at}</div>
+<div class="log-entry ok">成功获取: ${log.total_fetched} 篇文章 / ${log.sources_tried} 个源</div>
+<div class="log-entry">────────────────────────</div>` +
+log.results.map(r => `<div class="log-entry ${r.status==='ok'?'ok':'error'}">${r.status==='ok'?'✓':'✗'} ${r.name}: ${r.fetched} 篇 (${r.category})</div>`).join('');
+  } catch(e) {
+    box.textContent = '暂无日志数据。运行 GitHub Actions 后会自动生成 data/scan_log.json。';
+  }
+}
+
+// ─────────────────────────────────────────────────────
+//  TOAST
+// ─────────────────────────────────────────────────────
+let toastTimer;
+function showToast(msg, type='info') {
+  const t = document.getElementById('toast');
+  t.textContent = msg;
+  t.className = 'toast show ' + type;
+  clearTimeout(toastTimer);
+  toastTimer = setTimeout(() => t.classList.remove('show'), 3000);
+}
+</script>
+</body>
+</html>
