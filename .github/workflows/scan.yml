@@ -94,73 +94,59 @@ jobs:
         run: |
           pip install requests beautifulsoup4 lxml -q 2>/dev/null
           python3 << 'PYEOF'
-import json, re, sys
-import requests
-
-HEADERS = {'User-Agent': 'Mozilla/5.0 (compatible; ScienceBot/2.0; +https://chronicleofconvergence.com)'}
-TIMEOUT = 10
-
-def get_og_image(url):
-    if not url or url == '#':
-        return ''
-    try:
-        r = requests.get(url, headers=HEADERS, timeout=TIMEOUT, stream=True)
-        chunk = r.raw.read(16000).decode('utf-8', errors='ignore')
-        patterns = [
-            r'<meta[^>]+property=["\'\']og:image["\'\'][^>]+content=["\'\']([^"\'\'>]+)',
-            r'<meta[^>]+content=["\'\']([^"\'\'>]+)["\'\'][^>]+property=["\'\']og:image',
-            r'<meta[^>]+name=["\'\']twitter:image["\'\'][^>]+content=["\'\']([^"\'\'>]+)',
-            r'<meta[^>]+content=["\'\']([^"\'\'>]+)["\'\'][^>]+name=["\'\']twitter:image',
-        ]
-        for pat in patterns:
-            m = re.search(pat, chunk, re.IGNORECASE)
-            if m:
-                img = m.group(1).strip()
-                if img.startswith('http'):
-                    return img
-    except Exception as e:
-        print(f'  Error fetching {url[:60]}: {e}')
-    return ''
-
-with open('/tmp/response.json') as f:
-    response = json.load(f)
-
-articles = []
-for block in response.get('content', []):
-    if block.get('type') == 'text':
-        text = block['text']
-        s = text.rfind('[')
-        e = text.rfind(']') + 1
-        if s >= 0 and e > s:
-            try:
-                articles = json.loads(text[s:e])
-                print(f'Parsed {len(articles)} articles')
-                break
-            except:
-                pass
-
-seen = set()
-images = {}
-for art in articles:
-    rank = str(art.get('rank', len(images)+1))
-    url = art.get('sourceUrl', '')
-    print(f'[{rank}] {str(art.get("title",""))[:50]}')
-    img = get_og_image(url)
-    if img and img not in seen:
-        images[rank] = img
-        seen.add(img)
-        print(f'      -> {img[:70]}')
-    else:
-        images[rank] = ''
-        print(f'      -> ({"duplicate" if img else "not found"})')
-
-with open('/tmp/images.json', 'w') as f:
-    json.dump(images, f)
-
-found = sum(1 for v in images.values() if v)
-print(f'Done: {found}/{len(articles)} real og:images saved')
-PYEOF
-
+          import json
+          import requests
+          from bs4 import BeautifulSoup
+          HEADERS = {'User-Agent': 'Mozilla/5.0 (compatible; ScienceBot/2.0)'}
+          TIMEOUT = 10
+          def get_og_image(url):
+              if not url or url == '#':
+                  return ''
+              try:
+                  resp = requests.get(url, headers=HEADERS, timeout=TIMEOUT, stream=True)
+                  chunk = resp.raw.read(16000).decode('utf-8', errors='ignore')
+                  soup = BeautifulSoup(chunk, 'html.parser')
+                  for attr in [{'property': 'og:image'}, {'name': 'twitter:image'}, {'name': 'og:image'}]:
+                      tag = soup.find('meta', attr)
+                      if tag and tag.get('content', '').startswith('http'):
+                          return tag['content']
+              except Exception as ex:
+                  print('  ERR ' + str(ex)[:60])
+              return ''
+          with open('/tmp/response.json') as f:
+              response = json.load(f)
+          articles = []
+          for block in response.get('content', []):
+              if block.get('type') == 'text':
+                  text = block['text']
+                  s = text.rfind('[')
+                  e = text.rfind(']') + 1
+                  if s >= 0 and e > s:
+                      try:
+                          articles = json.loads(text[s:e])
+                          print('Parsed ' + str(len(articles)) + ' articles')
+                          break
+                      except:
+                          pass
+          seen = set()
+          images = {}
+          for art in articles:
+              rank = str(art.get('rank', len(images) + 1))
+              url = art.get('sourceUrl', '')
+              print('[' + rank + '] ' + str(art.get('title', ''))[:48])
+              img = get_og_image(url)
+              if img and img not in seen:
+                  images[rank] = img
+                  seen.add(img)
+                  print('  -> ' + img[:68])
+              else:
+                  images[rank] = ''
+                  print('  -> skip (' + ('dup' if img else 'none') + ')')
+          with open('/tmp/images.json', 'w') as f:
+              json.dump(images, f)
+          found = sum(1 for v in images.values() if v)
+          print('Done: ' + str(found) + '/' + str(len(images)) + ' real images saved')
+          PYEOF
       - name: Write update script
         run: |
           cat > /tmp/update.js << 'ENDSCRIPT'
