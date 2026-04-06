@@ -28,22 +28,14 @@ jobs:
           const dow = process.env.DOW;
           const isTuesday = dow === '2';
 
-          const photoIds = {
-            ai: '1677442135703-1787eea5ce01, 1620712943543-bcc4688e7485, 1712238822576-ef218e15b0ee, 1706853596857-bf4fd8e1fba5, 1544197150881-1a8c91f1c4da, 1551288049-bebda4e38f71',
-            robotics: '1485827404703-89b55fcc595e, 1561346745-f08d886cb1c6, 1635070041078-e363dbe005cb, 1590859808308-3d2d9c515b1a, 1531746790731-6c087fecd65a',
-            biotech: '1532187643603-ba119ca4109e, 1576086213369-97a306d36557, 1559757148-5c350d0d3c56, 1582719471137-c3967ffb1c42, 1530026405186-ed1f139313f3',
-            space: '1446776811953-b23d57bd21aa, 1614730321146-b6fa6a46bcb4, 1462331940025-496dfbfc7564, 1608178398319-48f814d0750c, 1419242902214-272b3f66ee7a',
-            energy: '1466611653911-95081537e5b7, 1509391366360-2e959784a276, 1548337138-e87d889cc369, 1497440001374-f26997328c1e, 1473341304170-971dccb5ac1e',
-            neuroscience: '1559757175-0eb30cd8c063, 1507003211169-0a1dd7228f2d, 1582562124811-c09040d0a901, 1593508512255-86ab42a8e620, 1518152006812-edab29b069ac',
-          };
+
           const photoRule = 'Photo IDs by category (NEVER reuse within one response): ' + Object.entries(photoIds).map(([k,v]) => k + ': ' + v).join(' | ');
 
           const rules = [
             'No HTML tags or markup. Plain text summaries only.',
-            'Each article must have a UNIQUE Unsplash photo: https://images.unsplash.com/photo-PHOTO_ID?w=720&q=80',
-            'CRITICAL: Never repeat a photo ID within one response.',
-            photoRule,
-            'Respond ONLY with a raw JSON array. No markdown, no backticks, no explanation.',
+            'For "image": use the REAL featured image URL directly from the article page. Search the article URL and find the og:image meta tag. Use that exact URL. Never use stock photos.',
+                        'CRITICAL: Never repeat a photo ID within one response.',
+                        'Respond ONLY with a raw JSON array. No markdown, no backticks, no explanation.',
             'Format: [{"rank":1,"title":"Headline","category":"ai","summary":"Plain text.","source":"Name","sourceUrl":"https://url","image":"https://images.unsplash.com/photo-UNIQUE_ID?w=720&q=80"}]',
           ].join('\n');
 
@@ -53,8 +45,8 @@ jobs:
 
           const system = isTuesday ? tueSys : stdSys;
           const userMsg = isTuesday
-            ? 'Today is ' + today + ' (Tuesday). Search broadly for the top 5 most significant breakthroughs in the convergence of civilizations, intelligences, and beings. Return as JSON array. Every article must have a UNIQUE Unsplash photo ID.'
-            : 'Search for today (' + today + ') top 5 breakthrough science news across AI, Robotics, Biotech, Space Tech, Energy, Neuroscience. Return as JSON array. Each article must have a UNIQUE Unsplash photo ID.';
+            ? 'Today is ' + today + ' (Tuesday). Search broadly for the top 5 most significant breakthroughs in the convergence of civilizations, intelligences, and beings. Return as JSON array. For each article include the real og:image URL from the article page.'
+            : 'Search for today (' + today + ') top 5 breakthrough science news across AI, Robotics, Biotech, Space Tech, Energy, Neuroscience. Return as JSON array. For each article find the real og:image URL from the article page HTML.';
 
           const payload = {
             model: 'claude-sonnet-4-20250514',
@@ -151,21 +143,7 @@ jobs:
         run: |
           cat > /tmp/update.js << 'ENDSCRIPT'
           const fs = require('fs');
-          const POOLS = {
-            ai:['1677442135703-1787eea5ce01','1620712943543-bcc4688e7485','1712238822576-ef218e15b0ee','1706853596857-bf4fd8e1fba5','1544197150881-1a8c91f1c4da','1551288049-bebda4e38f71'],
-            robotics:['1485827404703-89b55fcc595e','1561346745-f08d886cb1c6','1635070041078-e363dbe005cb','1590859808308-3d2d9c515b1a'],
-            biotech:['1532187643603-ba119ca4109e','1576086213369-97a306d36557','1559757148-5c350d0d3c56','1582719471137-c3967ffb1c42'],
-            space:['1446776811953-b23d57bd21aa','1614730321146-b6fa6a46bcb4','1462331940025-496dfbfc7564'],
-            'space tech':['1446776811953-b23d57bd21aa','1614730321146-b6fa6a46bcb4'],
-            energy:['1466611653911-95081537e5b7','1509391366360-2e959784a276','1548337138-e87d889cc369'],
-            neuroscience:['1559757175-0eb30cd8c063','1507003211169-0a1dd7228f2d','1582562124811-c09040d0a901'],
-          };
-          const realImages=JSON.parse(fs.readFileSync('/tmp/images.json','utf8'));
-          const DEF=['1518770491739-6da8c1015c6b','1581091226825-a6a2a5aee158','1451187580459-43490279c0fa'];
-          function eid(u){if(!u)return null;const m=u.match(/photo-([a-zA-Z0-9_-]+)/);return m?m[1]:null;}
-          function mkUrl(id){return'https://images.unsplash.com/photo-'+id+'?w=720&q=80';}
-          function pick(pool,used){const a=pool.filter(id=>!used.has(id));return a.length?a[Math.floor(Math.random()*a.length)]:pool[0];}
-          function dedup(items){const used=new Set();return items.map(it=>{const cat=(it.category||'ai').toLowerCase();const pool=POOLS[cat]||DEF;const id=eid(it.image);if(id&&!used.has(id)){used.add(id);return it;}const newId=pick(pool,used);used.add(newId);console.log('  [dedup] '+it.title.slice(0,50));return Object.assign({},it,{image:mkUrl(newId)});});}
+          const realImages=JSON.parse(require('fs').readFileSync('/tmp/images.json','utf8'));
           function strip(s){return(s||'').replace(/<[^>]*>/g,'').replace(/&amp;/g,'&').replace(/&lt;/g,'<').replace(/&gt;/g,'>').replace(/&quot;/g,'"').replace(/&#39;/g,"'").trim();}
           const data=JSON.parse(fs.readFileSync('/tmp/response.json','utf8'));
           let raw='';if(data.content)for(const b of data.content)if(b.type==='text')raw+=b.text;
@@ -174,10 +152,10 @@ jobs:
           if(s<0||e<0){console.error('No JSON array in response');console.error(raw.slice(0,300));process.exit(1);}
           let items;try{items=JSON.parse(clean.slice(s,e+1));}catch(err){console.error('Parse fail:',err.message);process.exit(1);}
           if(!Array.isArray(items)||!items.length){console.error('Empty items');process.exit(1);}
-          const deduped=dedup(items);
+                    const deduped = items;
           let html=fs.readFileSync('index.html','utf8');
           const bid='b'+Date.now();
-          const batch={id:bid,scannedAt:new Date().toISOString(),items:deduped.map((it,i)=>({id:bid+'_'+(i+1),rank:it.rank||(i+1),title:strip(it.title).slice(0,150),category:it.category||'ai',summary:strip(it.summary),source:strip(it.source||''),sourceUrl:it.sourceUrl||'#',image:realImages[String(it.rank||(i+1))]||it.image||''}))};
+          const batch={id:bid,scannedAt:new Date().toISOString(),items:deduped.map((it,i)=>({id:bid+'_'+(i+1),rank:it.rank||(i+1),title:strip(it.title).slice(0,150),category:it.category||'ai',summary:strip(it.summary),source:strip(it.source||''),sourceUrl:it.sourceUrl||'#',image:realImages[String(it.rank||(i+1))]||''}))};
           const rx=/const\s+EMBEDDED_DATA\s*=\s*\[[\s\S]*?\];/;
           const mx=html.match(rx);let ex=[];
           if(mx)try{ex=JSON.parse(mx[0].replace(/^const\s+EMBEDDED_DATA\s*=\s*/,'').replace(/;$/,''));}catch(_e){}
