@@ -80,12 +80,47 @@ def fetch_rss(source: dict) -> list[dict]:
 
             link = entry.get("link", "")
             uid  = hashlib.md5(link.encode()).hexdigest()[:12]
+            
+            # Extract image
+            image = ""
+            if "media_content" in entry and entry.media_content:
+                image = entry.media_content[0].get("url", "")
+            elif "media_thumbnail" in entry and entry.media_thumbnail:
+                image = entry.media_thumbnail[0].get("url", "")
+            elif "links" in entry:
+                for ln in entry.links:
+                    if ln.get("type", "").startswith("image/"):
+                        image = ln.get("href", "")
+                        break
+            
+            # fallback to extracting from summary
+            if not image and hasattr(entry, "summary"):
+                soup_img = BeautifulSoup(entry.summary, "lxml").find("img")
+                if soup_img and soup_img.get("src"):
+                    image = soup_img["src"]
+
+            # fallback to default image by category
+            if not image:
+                cat = source["category"].lower()
+                if "space" in cat:
+                    image = "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=500"
+                elif "tech" in cat or "ai" in cat or "comput" in cat:
+                    image = "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=500"
+                elif "bio" in cat or "med" in cat:
+                    image = "https://images.unsplash.com/photo-1532187643603-eb1104e6063d?w=500"
+                elif "climate" in cat or "energ" in cat:
+                    image = "https://images.unsplash.com/photo-1466611653911-95081537e5b7?w=500"
+                elif "phys" in cat or "eng" in cat or "robot" in cat:
+                    image = "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=500"
+                else:
+                    image = "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=500"
 
             items.append({
                 "id":       uid,
                 "title":    entry.get("title", "").strip(),
                 "url":      link,
                 "summary":  summary,
+                "image":    image,
                 "source":   source["name"],
                 "category": source["category"],
                 "date":     pub_date,
@@ -97,10 +132,13 @@ def fetch_rss(source: dict) -> list[dict]:
 
 def deduplicate(articles: list[dict]) -> list[dict]:
     seen_urls = set()
+    seen_titles = set()
     unique = []
     for a in articles:
-        if a["url"] not in seen_urls:
+        norm_title = a.get("title", "").lower().strip()
+        if a["url"] not in seen_urls and norm_title not in seen_titles:
             seen_urls.add(a["url"])
+            seen_titles.add(norm_title)
             unique.append(a)
     return unique
 
@@ -126,9 +164,6 @@ def main():
         print(f"    {len(items)} items fetched")
 
     all_articles = deduplicate(all_articles)
-    # Sort newest first
-    all_articles.sort(key=lambda x: x.get("date", ""), reverse=True)
-
     # Load existing feed and merge (keep last 500 items)
     existing = []
     if os.path.exists(OUTPUT_FILE):
@@ -138,8 +173,11 @@ def main():
             except Exception:
                 pass
 
-    existing_urls = {a["url"] for a in all_articles}
-    merged = all_articles + [a for a in existing if a["url"] not in existing_urls]
+    # Merge fresh articles with existing, ensuring we deduplicate the entire list based on title & url
+    merged = all_articles + existing
+    merged = deduplicate(merged)
+    # Sort newest first
+    merged.sort(key=lambda x: x.get("date", ""), reverse=True)
     merged = merged[:500]
 
     output = {
