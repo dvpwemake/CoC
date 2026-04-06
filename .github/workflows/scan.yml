@@ -29,7 +29,6 @@ jobs:
           const isTuesday = dow === '2';
 
 
-          const photoRule = 'Photo IDs by category (NEVER reuse within one response): ' + Object.entries(photoIds).map(([k,v]) => k + ': ' + v).join(' | ');
 
           const rules = [
             'No HTML tags or markup. Plain text summaries only.',
