@@ -1534,29 +1534,70 @@ const EMBEDDED_DATA = [
     'space tech':'135deg,#b388ff,#7c4dff',energy:'135deg,#ffd600,#ff6f00',
     neuroscience:'135deg,#ff6e40,#ff1744',
   };
-  /* Category fallback photos — used when an article has no image URL */
-  const _CAT_IMGS = {
-    ai:'https://images.unsplash.com/photo-1677442136019-21780ecad995?w=720&q=80',
-    robotics:'https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=720&q=80',
-    biotech:'https://images.unsplash.com/photo-1532187643603-eb1104e6063d?w=720&q=80',
-    space:'https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=720&q=80',
-    'space tech':'https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=720&q=80',
-    energy:'https://images.unsplash.com/photo-1466611653911-95081537e5b7?w=720&q=80',
-    neuroscience:'https://images.unsplash.com/photo-1559757175-0eb30cd8c063?w=720&q=80',
+  /* Category fallback photo pools — used when an article has no image URL.
+     Title hash picks a deterministic image from the pool so different
+     articles in the same category show different photos. */
+  const _CAT_IMG_POOLS = {
+    ai:[
+      'https://images.unsplash.com/photo-1677442136019-21780ecad995?w=720&q=80',
+      'https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=720&q=80',
+      'https://images.unsplash.com/photo-1509228468518-180dd4864904?w=720&q=80',
+      'https://images.unsplash.com/photo-1676299081847-824916de030a?w=720&q=80',
+    ],
+    robotics:[
+      'https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=720&q=80',
+      'https://images.unsplash.com/photo-1561144257-e32e8506040e?w=720&q=80',
+      'https://images.unsplash.com/photo-1589254065878-42efea3c7d64?w=720&q=80',
+    ],
+    biotech:[
+      'https://images.unsplash.com/photo-1532187643603-eb1104e6063d?w=720&q=80',
+      'https://images.unsplash.com/photo-1576086213369-97a306d36557?w=720&q=80',
+      'https://images.unsplash.com/photo-1607619056574-7b8d3ee536b2?w=720&q=80',
+    ],
+    space:[
+      'https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=720&q=80',
+      'https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=720&q=80',
+      'https://images.unsplash.com/photo-1516339901601-2e1b62dc0c45?w=720&q=80',
+      'https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?w=720&q=80',
+    ],
+    'space tech':[
+      'https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=720&q=80',
+      'https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=720&q=80',
+      'https://images.unsplash.com/photo-1516339901601-2e1b62dc0c45?w=720&q=80',
+      'https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?w=720&q=80',
+    ],
+    energy:[
+      'https://images.unsplash.com/photo-1466611653911-95081537e5b7?w=720&q=80',
+      'https://images.unsplash.com/photo-1509391366360-2e959784a276?w=720&q=80',
+      'https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=720&q=80',
+      'https://images.unsplash.com/photo-1548337138-e87d889cc369?w=720&q=80',
+    ],
+    neuroscience:[
+      'https://images.unsplash.com/photo-1559757175-0eb30cd8c063?w=720&q=80',
+      'https://images.unsplash.com/photo-1582719471384-894fbb16e074?w=720&q=80',
+      'https://images.unsplash.com/photo-1530026186672-2cd00ffc50fe?w=720&q=80',
+    ],
   };
-  const _DEFAULT_IMG='https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=720&q=80';
+  const _DEFAULT_IMG_POOL=[
+    'https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=720&q=80',
+    'https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=720&q=80',
+    'https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=720&q=80',
+  ];
+  function _hashStr(s){let h=0;for(let i=0;i<s.length;i++){h=(Math.imul(31,h)+s.charCodeAt(i))|0}return Math.abs(h);}
   function resolveCardImg(it,bi,i){
   const url=(it.image||'').trim();
   const cat=(it.category||'').toLowerCase();
   const grad=_GRAD_ERR[cat]||'135deg,#1a1a2e,#16213e';
   const onerr="this.onerror=null;this.parentNode.style.background='linear-gradient("+grad+")';this.remove()";
-  /* Use article image if valid, otherwise fall back to a category photo */
-  const src=(url&&url.startsWith('http'))?url:(_CAT_IMGS[cat]||_DEFAULT_IMG);
+  if(url&&url.startsWith('http')){return '<img src="'+url+'" alt="" loading="lazy" onerror="'+onerr+'">';}
+  /* No article image — pick deterministically from the category pool via title hash */
+  const pool=_CAT_IMG_POOLS[cat]||_DEFAULT_IMG_POOL;
+  const src=pool[_hashStr(it.title||'')%pool.length];
   return '<img src="'+src+'" alt="" loading="lazy" onerror="'+onerr+'">';
 }
 
 const H24=864e5,ARCH_PG=3;
-let allB=[],aCat='all',aPage=0;
+let allB=[],aCat='all',aPage=0,seenTitles=new Set();
 
 /* ════════ INIT ════════ */
 (function(){
@@ -1576,6 +1617,7 @@ let allB=[],aCat='all',aPage=0;
 })();
 
 function render(){
+  seenTitles=new Set();
   const now=Date.now();
   const todayET=new Date(now).toLocaleDateString('en-US',{timeZone:'America/New_York'});const live=allB.filter(b=>new Date(b.scannedAt).toLocaleDateString('en-US',{timeZone:'America/New_York'})===todayET);
   const arch=allB.filter(b=>new Date(b.scannedAt).toLocaleDateString('en-US',{timeZone:'America/New_York'})!==todayET);
@@ -1634,7 +1676,7 @@ function cardH(it,i){
   </div>
 </article>`}
 
-function filterB(b){let it=(b.items||[]).map(x=>({...x,_bt:b.scannedAt}));if(aCat!=='all')it=it.filter(x=>x.category===aCat);return it.sort((a,b)=>a.rank-b.rank)}
+function filterB(b){let it=(b.items||[]).map(x=>({...x,_bt:b.scannedAt}));if(aCat!=='all')it=it.filter(x=>x.category===aCat);it=it.filter(x=>{const k=(x.title||'').trim().toLowerCase().replace(/\s+/g,' ');if(seenTitles.has(k))return false;seenTitles.add(k);return true;});return it.sort((a,b)=>a.rank-b.rank)}
 function fCat(c){return{ai:'AI',robotics:'Robotics',biotech:'Biotech',space:'Space Tech',energy:'Energy',neuroscience:'Neuroscience'}[c]||c}
 
 /* ════════ SCROLL REVEAL ════════ */
