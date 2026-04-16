@@ -86,24 +86,161 @@ jobs:
           pip install requests beautifulsoup4 lxml -q 2>/dev/null
           python3 << 'PYEOF'
           import json
+          import time
           import requests
           from bs4 import BeautifulSoup
-          HEADERS = {'User-Agent': 'Mozilla/5.0 (compatible; ScienceBot/2.0)'}
-          TIMEOUT = 10
-          def get_og_image(url):
+          from urllib.parse import urljoin, urlparse
+
+          # Real browser User-Agent — many news sites block bot UAs
+          HEADERS = {
+              'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+              'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
+              'Accept-Language': 'en-US,en;q=0.9',
+              'Accept-Encoding': 'gzip, deflate, br',
+              'Sec-Fetch-Dest': 'document',
+              'Sec-Fetch-Mode': 'navigate',
+              'Sec-Fetch-Site': 'none',
+              'Upgrade-Insecure-Requests': '1',
+          }
+          TIMEOUT = 15
+          MAX_BYTES = 300_000  # read up to 300KB — some sites have bloated <head>
+          SKIP_PATTERNS = ('logo', 'icon', 'pixel', 'avatar', 'spacer', '1x1', 'tracking')
+
+          def normalize_url(img, base):
+              """Resolve relative, protocol-relative, or absolute URLs against base."""
+              if not img:
+                  return ''
+              img = img.strip().replace('&amp;', '&')
+              if img.startswith(('http://', 'https://')):
+                  return img
+              if img.startswith('//'):
+                  return 'https:' + img
+              if img.startswith('/'):
+                  p = urlparse(base)
+                  return f'{p.scheme}://{p.netloc}{img}'
+              return urljoin(base, img)
+
+          def extract_from_jsonld(soup, base):
+              """Pull image URL from JSON-LD structured data (schema.org)."""
+              for script in soup.find_all('script', type='application/ld+json'):
+                  try:
+                      data = json.loads(script.string or script.get_text() or '{}')
+                  except Exception:
+                      continue
+                  items = data if isinstance(data, list) else [data]
+                  for item in items:
+                      if not isinstance(item, dict):
+                          continue
+                      # Flatten @graph arrays
+                      candidates = item.get('@graph', []) if isinstance(item.get('@graph'), list) else [item]
+                      for c in candidates:
+                          if not isinstance(c, dict):
+                              continue
+                          img = c.get('image') or c.get('thumbnailUrl') or c.get('primaryImageOfPage')
+                          if isinstance(img, str):
+                              u = normalize_url(img, base)
+                              if u.startswith('http'):
+                                  return u
+                          elif isinstance(img, dict):
+                              u = img.get('url') or img.get('contentUrl') or img.get('@id')
+                              if u:
+                                  u = normalize_url(u, base)
+                                  if u.startswith('http'):
+                                      return u
+                          elif isinstance(img, list) and img:
+                              first = img[0]
+                              if isinstance(first, str):
+                                  u = normalize_url(first, base)
+                                  if u.startswith('http'):
+                                      return u
+                              elif isinstance(first, dict):
+                                  u = first.get('url') or first.get('contentUrl') or first.get('@id')
+                                  if u:
+                                      u = normalize_url(u, base)
+                                      if u.startswith('http'):
+                                          return u
+              return ''
+
+          def extract_image(html, base):
+              """Priority: og:image → twitter:image → link image_src → JSON-LD → first content <img>."""
+              soup = BeautifulSoup(html, 'html.parser')
+
+              # 1. Meta tags (og/twitter variants)
+              for sel in [
+                  {'property': 'og:image:secure_url'},
+                  {'property': 'og:image:url'},
+                  {'property': 'og:image'},
+                  {'name':     'og:image'},
+                  {'name':     'twitter:image:src'},
+                  {'name':     'twitter:image'},
+                  {'property': 'twitter:image'},
+              ]:
+                  tag = soup.find('meta', sel)
+                  if tag and tag.get('content'):
+                      u = normalize_url(tag['content'], base)
+                      if u.startswith('http'):
+                          return u
+
+              # 2. link rel="image_src"
+              link = soup.find('link', rel='image_src')
+              if link and link.get('href'):
+                  u = normalize_url(link['href'], base)
+                  if u.startswith('http'):
+                      return u
+
+              # 3. JSON-LD structured data
+              u = extract_from_jsonld(soup, base)
+              if u:
+                  return u
+
+              # 4. First reasonably-sized content <img>
+              for img in soup.find_all('img', limit=25):
+                  src = (img.get('src') or img.get('data-src')
+                         or img.get('data-lazy-src') or img.get('data-original') or '')
+                  if not src:
+                      continue
+                  low = src.lower()
+                  if any(p in low for p in SKIP_PATTERNS):
+                      continue
+                  # Require plausible dimensions if declared
+                  try:
+                      w = int(str(img.get('width', '0')).replace('px', '').split('%')[0] or '0')
+                      h = int(str(img.get('height', '0')).replace('px', '').split('%')[0] or '0')
+                      if (w and w < 200) or (h and h < 100):
+                          continue
+                  except ValueError:
+                      pass
+                  u = normalize_url(src, base)
+                  if u.startswith('http'):
+                      return u
+
+              return ''
+
+          def get_og_image(url, retries=2):
               if not url or url == '#':
                   return ''
-              try:
-                  resp = requests.get(url, headers=HEADERS, timeout=TIMEOUT, stream=True)
-                  chunk = resp.raw.read(16000).decode('utf-8', errors='ignore')
-                  soup = BeautifulSoup(chunk, 'html.parser')
-                  for attr in [{'property': 'og:image'}, {'name': 'twitter:image'}, {'name': 'og:image'}]:
-                      tag = soup.find('meta', attr)
-                      if tag and tag.get('content', '').startswith('http'):
-                          return tag['content']
-              except Exception as ex:
-                  print('  ERR ' + str(ex)[:60])
+              for attempt in range(retries):
+                  try:
+                      resp = requests.get(url, headers=HEADERS, timeout=TIMEOUT,
+                                          allow_redirects=True)
+                      if resp.status_code != 200:
+                          if attempt < retries - 1:
+                              time.sleep(0.8)
+                              continue
+                          print('  HTTP ' + str(resp.status_code))
+                          return ''
+                      # .text auto-handles gzip/brotli/charset
+                      html = resp.text[:MAX_BYTES]
+                      final = str(resp.url)  # follow redirects for relative URL base
+                      return extract_image(html, final)
+                  except Exception as ex:
+                      if attempt < retries - 1:
+                          time.sleep(0.8)
+                          continue
+                      print('  ERR ' + str(ex)[:80])
               return ''
+
+          # ── Load API response ──
           with open('/tmp/response.json') as f:
               response = json.load(f)
           articles = []
@@ -117,8 +254,10 @@ jobs:
                           articles = json.loads(text[s:e])
                           print('Parsed ' + str(len(articles)) + ' articles')
                           break
-                      except:
+                      except Exception:
                           pass
+
+          # ── Fetch og:images (dedup within batch) ──
           seen = set()
           images = {}
           for art in articles:
@@ -129,15 +268,17 @@ jobs:
               if img and img not in seen:
                   images[rank] = img
                   seen.add(img)
-                  print('  -> ' + img[:68])
+                  print('  -> ' + img[:80])
               else:
                   images[rank] = ''
                   print('  -> skip (' + ('dup' if img else 'none') + ')')
+
           with open('/tmp/images.json', 'w') as f:
               json.dump(images, f)
           found = sum(1 for v in images.values() if v)
           print('Done: ' + str(found) + '/' + str(len(images)) + ' real images saved')
           PYEOF
+
       - name: Write update script
         run: |
           cat > /tmp/update.js << 'ENDSCRIPT'
