@@ -1,0 +1,47 @@
+{
+  "maxAgeHours": 336,
+  "pickCount": 5,
+  "skipTitlePatterns": ["sponsored", "advertisement", "partner content", "white paper", "webinar replay"],
+  "categories": {
+    "ai": {
+      "feeds": [
+        { "name": "MIT Technology Review", "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed/" },
+        { "name": "ScienceDaily", "url": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml" }
+      ]
+    },
+    "robotics": {
+      "feeds": [
+        { "name": "IEEE Spectrum", "url": "https://spectrum.ieee.org/feeds/topic/robotics.rss" },
+        { "name": "Robotics & Automation News", "url": "https://roboticsandautomationnews.com/feed/" },
+        { "name": "ScienceDaily", "url": "https://www.sciencedaily.com/rss/computers_math/robotics.xml" }
+      ]
+    },
+    "biotech": {
+      "feeds": [
+        { "name": "STAT News", "url": "https://www.statnews.com/feed/" },
+        { "name": "Fierce Biotech", "url": "https://www.fiercebiotech.com/rss/xml" },
+        { "name": "Nature", "url": "https://www.nature.com/nature.rss" }
+      ]
+    },
+    "space": {
+      "feeds": [
+        { "name": "NASA", "url": "https://www.nasa.gov/rss/dyn/breaking_news.rss" },
+        { "name": "SpaceNews", "url": "https://spacenews.com/feed/" },
+        { "name": "ScienceDaily", "url": "https://www.sciencedaily.com/rss/space_time/astronomy.xml" }
+      ]
+    },
+    "energy": {
+      "feeds": [
+        { "name": "Canary Media", "url": "https://www.canarymedia.com/rss" },
+        { "name": "ScienceDaily", "url": "https://www.sciencedaily.com/rss/matter_energy/solar_energy.xml" },
+        { "name": "ScienceDaily", "url": "https://www.sciencedaily.com/rss/matter_energy/technology.xml" }
+      ]
+    },
+    "neuroscience": {
+      "feeds": [
+        { "name": "Neuroscience News", "url": "https://neurosciencenews.com/feed/" },
+        { "name": "ScienceDaily", "url": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml" }
+      ]
+    }
+  }
+}

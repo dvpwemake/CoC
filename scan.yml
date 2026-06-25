@@ -1,0 +1,3 @@
+# GitHub Actions workflow lives at .github/workflows/scan.yml
+# Run locally: node scripts/scan-crawler.js
+# Dry run:     node scripts/scan-crawler.js --dry-run
