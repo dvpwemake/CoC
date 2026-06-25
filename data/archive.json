@@ -1,1 +1,58 @@
-[{"batchId":"test"}]
+[
+  {
+    "batchId": "auto_2026-06-25T07-30",
+    "scannedAt": "2026-06-25T07:30:30.711Z",
+    "items": [
+      {
+        "id": "auto_2026-06-25T07-30_1",
+        "rank": 1,
+        "title": "A Turquoise Tint for the Black Sea",
+        "category": "space",
+        "summary": "Phytoplankton added a milky blue hue to the waters of the Black Sea and nearby waterways in spring and summer 2026.",
+        "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/a-turquoise-tint-for-the-black-sea/ISS074-E-619520_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "source": "NASA",
+        "sourceUrl": "https://science.nasa.gov/earth/earth-observatory/a-turquoise-tint-for-the-black-sea/"
+      },
+      {
+        "id": "auto_2026-06-25T07-30_2",
+        "rank": 2,
+        "title": "Pop Music Echoes a Growing Culture of Vices",
+        "category": "neuroscience",
+        "summary": "An extensive computational analysis of over 380,000 songs spanning 1960 to 2023 has revealed that popular music lyrics have become increasingly negative, showcasing a steady historical decline in language related to…",
+        "image": "https://neurosciencenews.com/files/2026/06/music-morality-psychology-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/music-lyrics-vices-cultural-barometer-30956/"
+      },
+      {
+        "id": "auto_2026-06-25T07-30_3",
+        "rank": 3,
+        "title": "STAT+: Eli Lilly dives into hair loss treatments with investment in AI startup Absci",
+        "category": "biotech",
+        "summary": "Eli Lilly is investing in a small startup developing a medication to spur hair growth, and potentially also treat endometriosis.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/06/AdobeStock_175910024-1024x576.jpeg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/06/24/eli-lilly-absci-hair-loss-treatments/?utm_campaign=rss"
+      },
+      {
+        "id": "auto_2026-06-25T07-30_4",
+        "rank": 4,
+        "title": "Base Power brings cheap batteries to residents in power-starved PJM",
+        "category": "energy",
+        "summary": "PJM Interconnection, which serves 67 million people across 13 states from the mid-Atlantic to the Midwest, has become a poster child for how not to keep up with soaring energy demand. Startup Base Power is taking a…",
+        "image": "https://img.canarymedia.com/content/uploads/Chicago-skyline-with-Chicago-sign_GettyImages-2277954000-1.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=e26ffebd840a7ad1989546c9b657992c",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/batteries/base-power-cheap-batteries-pjm"
+      },
+      {
+        "id": "auto_2026-06-25T07-30_5",
+        "rank": 5,
+        "title": "The emergence of the web data infrastructure layer for AI",
+        "category": "ai",
+        "summary": "AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstructured, which…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/iStock-1714934690.jpg?resize=1200,600",
+        "source": "MIT Technology Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/"
+      }
+    ]
+  }
+]
