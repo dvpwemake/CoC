@@ -6,41 +6,73 @@
     "ai": {
       "feeds": [
         { "name": "MIT Technology Review", "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed/" },
+        { "name": "IEEE Spectrum", "url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss" },
+        { "name": "MIT News", "url": "https://news.mit.edu/topic/mitartificial-intelligence2-rss.xml" },
+        { "name": "VentureBeat AI", "url": "https://venturebeat.com/category/ai/feed/" },
+        { "name": "The Verge AI", "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml" },
+        { "name": "TechCrunch AI", "url": "https://techcrunch.com/category/artificial-intelligence/feed/" },
+        { "name": "Ars Technica", "url": "https://feeds.arstechnica.com/arstechnica/technology-lab" },
         { "name": "ScienceDaily", "url": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml" }
       ]
     },
     "robotics": {
       "feeds": [
         { "name": "IEEE Spectrum", "url": "https://spectrum.ieee.org/feeds/topic/robotics.rss" },
+        { "name": "The Robot Report", "url": "https://www.therobotreport.com/feed/" },
         { "name": "Robotics & Automation News", "url": "https://roboticsandautomationnews.com/feed/" },
-        { "name": "ScienceDaily", "url": "https://www.sciencedaily.com/rss/computers_math/robotics.xml" }
+        { "name": "New Atlas Robotics", "url": "https://newatlas.com/robotics/index.rss" },
+        { "name": "ScienceDaily", "url": "https://www.sciencedaily.com/rss/computers_math/robotics.xml" },
+        { "name": "Engadget", "url": "https://www.engadget.com/rss.xml" },
+        { "name": "ScienceAlert", "url": "https://www.sciencealert.com/feed" },
+        { "name": "Science", "url": "https://www.science.org/rss/news_current.xml" }
       ]
     },
     "biotech": {
       "feeds": [
         { "name": "STAT News", "url": "https://www.statnews.com/feed/" },
         { "name": "Fierce Biotech", "url": "https://www.fiercebiotech.com/rss/xml" },
-        { "name": "Nature", "url": "https://www.nature.com/nature.rss" }
+        { "name": "Nature", "url": "https://www.nature.com/nature.rss" },
+        { "name": "GEN", "url": "https://www.genengnews.com/feed/" },
+        { "name": "BioPharma Dive", "url": "https://www.biopharmadive.com/feeds/news/" },
+        { "name": "Nature Biotechnology", "url": "https://www.nature.com/nbt.rss" },
+        { "name": "Science", "url": "https://www.science.org/rss/news_current.xml" },
+        { "name": "ScienceAlert Health", "url": "https://www.sciencealert.com/health/feed" }
       ]
     },
     "space": {
       "feeds": [
         { "name": "NASA", "url": "https://www.nasa.gov/rss/dyn/breaking_news.rss" },
         { "name": "SpaceNews", "url": "https://spacenews.com/feed/" },
-        { "name": "ScienceDaily", "url": "https://www.sciencedaily.com/rss/space_time/astronomy.xml" }
+        { "name": "ESA", "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News" },
+        { "name": "Space.com", "url": "https://www.space.com/feeds/all" },
+        { "name": "Universe Today", "url": "https://www.universetoday.com/feed/" },
+        { "name": "ScienceDaily", "url": "https://www.sciencedaily.com/rss/space_time/astronomy.xml" },
+        { "name": "ScienceAlert Space", "url": "https://www.sciencealert.com/space/feed" },
+        { "name": "Science", "url": "https://www.science.org/rss/news_current.xml" }
       ]
     },
     "energy": {
       "feeds": [
         { "name": "Canary Media", "url": "https://www.canarymedia.com/rss" },
-        { "name": "ScienceDaily", "url": "https://www.sciencedaily.com/rss/matter_energy/solar_energy.xml" },
-        { "name": "ScienceDaily", "url": "https://www.sciencedaily.com/rss/matter_energy/technology.xml" }
+        { "name": "CleanTechnica", "url": "https://cleantechnica.com/feed/" },
+        { "name": "Renewable Energy World", "url": "https://www.renewableenergyworld.com/feed/" },
+        { "name": "Utility Dive", "url": "https://www.utilitydive.com/feeds/news/" },
+        { "name": "Energy Storage News", "url": "https://www.energy-storage.news/feed/" },
+        { "name": "PV Magazine", "url": "https://www.pv-magazine.com/feed/" },
+        { "name": "ScienceDaily Solar", "url": "https://www.sciencedaily.com/rss/matter_energy/solar_energy.xml" },
+        { "name": "ScienceDaily Energy Tech", "url": "https://www.sciencedaily.com/rss/matter_energy/technology.xml" }
       ]
     },
     "neuroscience": {
       "feeds": [
         { "name": "Neuroscience News", "url": "https://neurosciencenews.com/feed/" },
-        { "name": "ScienceDaily", "url": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml" }
+        { "name": "Nature Neuroscience", "url": "https://www.nature.com/neuro.rss" },
+        { "name": "ScienceDaily Neuroscience", "url": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml" },
+        { "name": "ScienceDaily Psychology", "url": "https://www.sciencedaily.com/rss/mind_brain/psychology.xml" },
+        { "name": "PsyPost", "url": "https://www.psypost.org/feed/" },
+        { "name": "Frontiers in Neuroscience", "url": "https://www.frontiersin.org/journals/neuroscience/rss" },
+        { "name": "ScienceAlert Health", "url": "https://www.sciencealert.com/health/feed" },
+        { "name": "Science", "url": "https://www.science.org/rss/news_current.xml" }
       ]
     }
   }

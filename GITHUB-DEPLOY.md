@@ -18,14 +18,14 @@ Step-by-step guide to deploy **chronicleofconvergence.com** on GitHub Pages and 
 
 ### News sources (crawler)
 
-| Category | Primary | Fallbacks |
-|----------|---------|-----------|
-| AI | MIT Technology Review | ScienceDaily |
-| Robotics | IEEE Spectrum | Robotics & Automation News, ScienceDaily |
-| Biotech | STAT News | Fierce Biotech, Nature |
-| Space | NASA | SpaceNews, ScienceDaily |
-| Energy | Canary Media | ScienceDaily (solar + tech) |
-| Neuroscience | Neuroscience News | ScienceDaily |
+| Category | Primary | Fallbacks (7 more per category) |
+|----------|---------|--------------------------------|
+| AI | MIT Technology Review | IEEE Spectrum, MIT News, VentureBeat, The Verge, TechCrunch, Ars Technica, ScienceDaily |
+| Robotics | IEEE Spectrum | The Robot Report, Robotics & Automation News, New Atlas, ScienceDaily, Engadget, ScienceAlert, Science |
+| Biotech | STAT News | Fierce Biotech, Nature, GEN, BioPharma Dive, Nature Biotech, Science, ScienceAlert Health |
+| Space | NASA | SpaceNews, ESA, Space.com, Universe Today, ScienceDaily, ScienceAlert Space, Science |
+| Energy | Canary Media | CleanTechnica, Renewable Energy World, Utility Dive, Energy Storage News, PV Magazine, ScienceDaily |
+| Neuroscience | Neuroscience News | Nature Neuroscience, ScienceDaily, PsyPost, Frontiers, ScienceAlert Health, Science |
 
 ---
 
