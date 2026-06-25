@@ -145,7 +145,7 @@ GitHub may add a `CNAME` file to the repo — pull that change locally:
 git pull
 ```
 
-#### 5b. DNS at your registrar
+#### 5b. DNS at your registrar (GoDaddy: `domaincontrol.com`)
 
 | Type | Name | Value |
 |------|------|-------|
@@ -153,9 +153,21 @@ git pull
 | A | `@` | `185.199.109.153` |
 | A | `@` | `185.199.110.153` |
 | A | `@` | `185.199.111.153` |
+| AAAA | `@` | `2606:50c0:8000::153` |
+| AAAA | `@` | `2606:50c0:8001::153` |
+| AAAA | `@` | `2606:50c0:8002::153` |
+| AAAA | `@` | `2606:50c0:8003::153` |
 | CNAME | `www` | `dvpwemake.github.io` |
 
 > **Important:** The `www` CNAME must point to `dvpwemake.github.io`, **not** to your apex domain. Pointing `www` at the apex (e.g. `chronicleofconvergence.com`) prevents GitHub from issuing HTTPS certificates and blocks **Enforce HTTPS**.
+
+Verify DNS before enabling HTTPS:
+
+```bash
+dig +short CNAME www.chronicleofconvergence.com
+# Expected: dvpwemake.github.io.
+# Wrong (blocks Enforce HTTPS): chronicleofconvergence.com.
+```
 
 DNS propagation: typically 5–30 minutes (up to 48 hours). After DNS is correct, remove and re-add the custom domain in **Settings → Pages** if **Enforce HTTPS** stays unavailable for up to an hour.
 
@@ -325,6 +337,8 @@ Edit `scripts/sources.json`:
 | Old news in browser | Clear `localStorage` key `coc_news_data`, or hard-refresh |
 | No articles found | Check Actions log; a feed may be temporarily down — crawler uses fallbacks |
 | Card images missing | Crawler fetches `og:image` from article pages; check source URL in editor |
+| **Enforce HTTPS unavailable** | `www` CNAME is pointing at the apex domain instead of `dvpwemake.github.io`. At GoDaddy → DNS → edit `www` CNAME to `dvpwemake.github.io`, wait for propagation, then in GitHub **Settings → Pages** click **Remove** on the custom domain, re-enter `chronicleofconvergence.com`, click **Save**, wait up to 1 hour, then enable **Enforce HTTPS** |
+| `www` shows certificate error | Same fix as above — apex HTTPS can work while `www` still serves a `*.github.io` cert if `www` CNAME targets the apex |
 
 ---
 
