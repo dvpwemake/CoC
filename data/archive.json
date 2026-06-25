@@ -1,57 +1,57 @@
 [
   {
-    "batchId": "auto_2026-06-25T13-54",
-    "scannedAt": "2026-06-25T13:54:13.015Z",
+    "batchId": "auto_2026-06-25T17-59",
+    "scannedAt": "2026-06-25T17:59:32.605Z",
     "items": [
       {
-        "id": "auto_2026-06-25T13-54_1",
+        "id": "auto_2026-06-25T17-59_1",
         "rank": 1,
-        "title": "STAT+: FDA's breakthrough pipeline fills up with generative AI devices",
-        "category": "biotech",
-        "summary": "In this edition of STAT Health Tech: FDA drops enforcement against Whoop, more AI devices get FDA 'breakthrough' label, and more.",
-        "image": "https://www.statnews.com/wp-content/uploads/2025/10/AdobeStock_1421404177-1024x576.jpeg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/06/25/fda-breakthrough-generative-ai-devices-health-tech/?utm_campaign=rss"
-      },
-      {
-        "id": "auto_2026-06-25T13-54_2",
-        "rank": 2,
-        "title": "Hyundai’s new steel mill sparks hopes and fears in Louisiana",
-        "category": "energy",
-        "summary": "On a drizzly March day last year at the White House, President Donald J. Trump stood behind a podium to make a “beautiful announcement.” Hyundai, the Korean industrial giant, was investing nearly $6 billion in a new…",
-        "image": "https://img.canarymedia.com/content/uploads/IMG_5359.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=3e5fec01e767ee4062195ba46d08bcb7",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/green-steel/hyundai-new-steel-mill-louisiana"
-      },
-      {
-        "id": "auto_2026-06-25T13-54_3",
-        "rank": 3,
-        "title": "A Turquoise Tint for the Black Sea",
-        "category": "space",
-        "summary": "Phytoplankton added a milky blue hue to the waters of the Black Sea and nearby waterways in spring and summer 2026.",
-        "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/a-turquoise-tint-for-the-black-sea/ISS074-E-619520_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-        "source": "NASA",
-        "sourceUrl": "https://science.nasa.gov/earth/earth-observatory/a-turquoise-tint-for-the-black-sea/"
-      },
-      {
-        "id": "auto_2026-06-25T13-54_4",
-        "rank": 4,
-        "title": "Pop Music Echoes a Growing Culture of Vices",
+        "title": "New Brain Map Reveals Deep Roots of Vertebrate Intelligence",
         "category": "neuroscience",
-        "summary": "An extensive computational analysis of over 380,000 songs spanning 1960 to 2023 has revealed that popular music lyrics have become increasingly negative, showcasing a steady historical decline in language related to…",
-        "image": "https://neurosciencenews.com/files/2026/06/music-morality-psychology-neuroscience-1155x770.jpg",
+        "summary": "A spatial single-cell brain atlas of the jawless lamprey reveals that the common ancestor of all vertebrates possessed a highly complex molecular brain architecture 450 million years ago, showcasing ancestral…",
+        "image": "https://neurosciencenews.com/files/2026/06/brain-mapping-lampry-intelligence-neurosceince-1155x770.jpg",
         "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/music-lyrics-vices-cultural-barometer-30956/"
+        "sourceUrl": "https://neurosciencenews.com/brain-atlas-vertebrate-evolution-30949/"
       },
       {
-        "id": "auto_2026-06-25T13-54_5",
+        "id": "auto_2026-06-25T17-59_2",
+        "rank": 2,
+        "title": "STAT+: Cassidy proposes bill to rein in 340B drug discount program",
+        "category": "biotech",
+        "summary": "Placing new limits on the 340B drug discount program would be a fresh challenge for hospitals as they confront funding cuts.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/06/GettyImages-2283153403-1-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/06/25/cassidy-bill-rein-in-340b-drug-discount-program/?utm_campaign=rss"
+      },
+      {
+        "id": "auto_2026-06-25T17-59_3",
+        "rank": 3,
+        "title": "Small satellite operators confront a bottleneck to space access",
+        "category": "space",
+        "summary": "For years, small satellite manufacturers have built their business plans around the idea that SpaceX could launch their payload to space. Through its Falcon 9 Transporter and Bandwagon rideshare missions, […] The post…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/f9-transporter15.jpeg?fit=1024%2C682&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/small-satellite-operators-confront-a-bottleneck-to-space-access/"
+      },
+      {
+        "id": "auto_2026-06-25T17-59_4",
+        "rank": 4,
+        "title": "Massachusetts Senate preserves energy-efficiency funding in new bill",
+        "category": "energy",
+        "summary": "The Massachusetts Senate on Wednesday unveiled its long-awaited energy legislation, a wide-ranging bill that touches on dozens of topics from plug-in solar to renewable energy procurement. Sponsors say the measures…",
+        "image": "https://img.canarymedia.com/content/uploads/Massachusetts-statehouse-golden-dome_GettyImages-2264475594.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=45304341fb72fc57b59e14b5dfd36bbb",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/energy-efficiency/massachusetts-senate-preserves-energy-efficiency-funding"
+      },
+      {
+        "id": "auto_2026-06-25T17-59_5",
         "rank": 5,
-        "title": "The emergence of the web data infrastructure layer for AI",
+        "title": "Repositioning retail for the AI era",
         "category": "ai",
-        "summary": "AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstructured, which…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/iStock-1714934690.jpg?resize=1200,600",
+        "summary": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/MITTRIInfosysMacys-social-1200px.png?resize=1200,600",
         "source": "MIT Technology Review",
-        "sourceUrl": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/"
+        "sourceUrl": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/"
       }
     ]
   },
