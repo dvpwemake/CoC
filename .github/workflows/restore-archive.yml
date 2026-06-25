@@ -1,0 +1,20 @@
+name: Restore Archive
+on:
+  workflow_dispatch:
+jobs:
+  restore:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v5
+      - name: Merge archive parts
+        run: |
+          node -e "const fs=require('fs');let all=[];for(let i=0;i<4;i++)all=all.concat(JSON.parse(fs.readFileSync('data/archive_part'+i+'.json','utf8')));fs.writeFileSync('data/archive.json',JSON.stringify(all,null,2));console.log('batches',all.length);"
+      - name: Commit
+        run: |
+          git config user.name "wemake"
+          git config user.email "dvp@wemake.cloud"
+          git add data/archive.json
+          git commit -m "Restore news archive (35 batches, 175 articles)" || echo nochange
+          git push
