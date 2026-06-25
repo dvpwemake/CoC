@@ -283,6 +283,8 @@ jobs:
         run: |
           cat > /tmp/update.js << 'ENDSCRIPT'
           const fs = require('fs');
+          const path = require('path');
+          const ARCHIVE_PATH = 'data/archive.json';
           const realImages=JSON.parse(require('fs').readFileSync('/tmp/images.json','utf8'));
           function strip(s){return(s||'').replace(/<[^>]*>/g,'').replace(/&amp;/g,'&').replace(/&lt;/g,'<').replace(/&gt;/g,'>').replace(/&quot;/g,'"').replace(/&#39;/g,"'").trim();}
           const data=JSON.parse(fs.readFileSync('/tmp/response.json','utf8'));
@@ -292,17 +294,27 @@ jobs:
           if(s<0||e<0){console.error('No JSON array in response');console.error(raw.slice(0,300));process.exit(1);}
           let items;try{items=JSON.parse(clean.slice(s,e+1));}catch(err){console.error('Parse fail:',err.message);process.exit(1);}
           if(!Array.isArray(items)||!items.length){console.error('Empty items');process.exit(1);}
-                    const deduped = items;
-          let html=fs.readFileSync('index.html','utf8');
+          const deduped = items;
           const bid='b'+Date.now();
-          const batch={id:bid,scannedAt:new Date().toISOString(),items:deduped.map((it,i)=>({id:bid+'_'+(i+1),rank:it.rank||(i+1),title:strip(it.title).slice(0,150),category:it.category||'ai',summary:strip(it.summary),source:strip(it.source||''),sourceUrl:it.sourceUrl||'#',image:realImages[String(it.rank||(i+1))]||''}))};
+          const batch={batchId:bid,scannedAt:new Date().toISOString(),items:deduped.map((it,i)=>({id:bid+'_'+(i+1),rank:it.rank||(i+1),title:strip(it.title).slice(0,150),category:it.category||'ai',summary:strip(it.summary),source:strip(it.source||''),sourceUrl:it.sourceUrl||'#',image:realImages[String(it.rank||(i+1))]||''}))};
+          let existing=[];
+          if(fs.existsSync(ARCHIVE_PATH)){try{existing=JSON.parse(fs.readFileSync(ARCHIVE_PATH,'utf8'));}catch(_e){}}
+          if(!existing.length){
+            let html=fs.readFileSync('index.html','utf8');
+            const rx=/const\s+EMBEDDED_DATA\s*=\s*\[[\s\S]*?\];/;
+            const mx=html.match(rx);
+            if(mx)try{existing=JSON.parse(mx[0].replace(/^const\s+EMBEDDED_DATA\s*=\s*/,'').replace(/;$/,''));}catch(_e){}
+          }
+          existing.unshift(batch);
+          const cutoff=Date.now()-30*24*60*60*1000;
+          existing=existing.filter(b=>new Date(b.scannedAt).getTime()>cutoff);
+          fs.mkdirSync(path.dirname(ARCHIVE_PATH),{recursive:true});
+          fs.writeFileSync(ARCHIVE_PATH,JSON.stringify(existing,null,2));
+          let html=fs.readFileSync('index.html','utf8');
           const rx=/const\s+EMBEDDED_DATA\s*=\s*\[[\s\S]*?\];/;
-          const mx=html.match(rx);let ex=[];
-          if(mx)try{ex=JSON.parse(mx[0].replace(/^const\s+EMBEDDED_DATA\s*=\s*/,'').replace(/;$/,''));}catch(_e){}
-          ex.unshift(batch);if(ex.length>30)ex=ex.slice(0,30);
-          html=html.replace(rx,()=>'const EMBEDDED_DATA = '+JSON.stringify(ex,null,2)+';');
+          html=html.replace(rx,()=>'const EMBEDDED_DATA = '+JSON.stringify([existing[0]],null,2)+';');
           fs.writeFileSync('index.html',html);
-          console.log('Done: '+batch.items.length+' items, '+ex.length+' batches total');
+          console.log('Done: '+batch.items.length+' items, '+existing.length+' batches in archive');
           batch.items.forEach(it=>console.log(' #'+it.rank+' ['+it.category+'] '+it.title.slice(0,60)));
           ENDSCRIPT
 
@@ -313,7 +325,7 @@ jobs:
         run: |
           git config user.name "Chronicle Bot"
           git config user.email "bot@chronicleofconvergence.com"
-          git add index.html
+          git add index.html data/archive.json
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
