@@ -1,1 +1,18 @@
-__LOAD_FROM__/Users/kingofthehill/Documents/Repo/CoC/data/archive.json__
+[
+  {
+    "batchId": "auto_2026-06-25T07-30",
+    "scannedAt": "2026-06-25T07:30:30.711Z",
+    "items": [
+      {
+        "id": "auto_2026-06-25T07-30_1",
+        "rank": 1,
+        "title": "A Turquoise Tint for the Black Sea",
+        "category": "space",
+        "summary": "Phytoplankton added a milky blue hue to the waters of the Black Sea and nearby waterways in spring and summer 2026.",
+        "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/a-turquoise-tint-for-the-black-sea/ISS074-E-619520_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "source": "NASA",
+        "sourceUrl": "https://science.nasa.gov/earth/earth-observatory/a-turquoise-tint-for-the-black-sea/"
+      }
+    ]
+  }
+]
