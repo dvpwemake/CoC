@@ -8,13 +8,15 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v5
-      - name: Merge archive parts
+      - name: Restore archive from known-good commit
         run: |
-          node -e "const fs=require('fs');let all=[];for(let i=0;i<4;i++)all=all.concat(JSON.parse(fs.readFileSync('data/archive_part'+i+'.json','utf8')));fs.writeFileSync('data/archive.json',JSON.stringify(all,null,2));console.log('batches',all.length);"
+          git fetch origin c0fda7bdd448ab208cd4daf01f6d0ba095ab8141
+          git show c0fda7bdd448ab208cd4daf01f6d0ba095ab8141:data/archive.json > data/archive.json
+          node -e "const d=JSON.parse(require('fs').readFileSync('data/archive.json','utf8'));console.log('batches',d.length,'articles',d.reduce((a,b)=>a+b.items.length,0));"
       - name: Commit
         run: |
           git config user.name "wemake"
           git config user.email "dvp@wemake.cloud"
           git add data/archive.json
-          git commit -m "Restore news archive (35 batches, 175 articles)" || echo nochange
+          git commit -m "Restore news archive from c0fda7b (33 batches)" || echo nochange
           git push
