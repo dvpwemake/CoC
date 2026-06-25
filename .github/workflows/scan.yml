@@ -11,14 +11,18 @@ permissions:
   contents: write
 
 env:
-  ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: 'true'
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: 'true'
 
 jobs:
   scan:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
 
       - name: Write build script
         run: |
@@ -65,9 +69,15 @@ jobs:
           TODAY="$TODAY" DOW="$DOW" node /tmp/build.js
 
       - name: Call Anthropic API
+        id: anthropic
+        continue-on-error: true
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
+          if [ -z "$ANTHROPIC_API_KEY" ]; then
+            echo "ANTHROPIC_API_KEY not set — will use RSS fallback"
+            exit 1
+          fi
           HTTP_CODE=$(curl -s -o /tmp/response.json -w "%{http_code}" \
             https://api.anthropic.com/v1/messages \
             -H "x-api-key: $ANTHROPIC_API_KEY" \
@@ -76,12 +86,18 @@ jobs:
             -H "content-type: application/json" \
             -d @/tmp/request.json)
           if [ "$HTTP_CODE" != "200" ]; then
-            echo "API error: HTTP $HTTP_CODE"
+            echo "API error: HTTP $HTTP_CODE — will use RSS fallback"
             cat /tmp/response.json
             exit 1
           fi
+          echo "Anthropic API succeeded"
+
+      - name: Fallback RSS crawl
+        if: steps.anthropic.outcome == 'failure'
+        run: node scripts/scan-crawler.js
 
       - name: Fetch article og:images
+        if: steps.anthropic.outcome == 'success'
         run: |
           pip install requests beautifulsoup4 lxml -q 2>/dev/null
           python3 << 'PYEOF'
@@ -280,6 +296,7 @@ jobs:
           PYEOF
 
       - name: Write update script
+        if: steps.anthropic.outcome == 'success'
         run: |
           cat > /tmp/update.js << 'ENDSCRIPT'
           const fs = require('fs');
@@ -319,6 +336,7 @@ jobs:
           ENDSCRIPT
 
       - name: Run update script
+        if: steps.anthropic.outcome == 'success'
         run: node /tmp/update.js
 
       - name: Commit and push
