@@ -29,7 +29,7 @@ jobs:
         run: |
           git config user.name "Chronicle Bot"
           git config user.email "bot@chronicleofconvergence.com"
-          git add index.html data/archive.json
+          git add index.html data/archive.json data/archive_part*.json
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else

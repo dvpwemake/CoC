@@ -1,6 +1,8 @@
 name: Restore Archive
+
 on:
   workflow_dispatch:
+
 jobs:
   restore:
     runs-on: ubuntu-latest
@@ -8,15 +10,20 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v5
-      - name: Restore archive from known-good commit
-        run: |
-          git fetch origin c0fda7bdd448ab208cd4daf01f6d0ba095ab8141
-          git show c0fda7bdd448ab208cd4daf01f6d0ba095ab8141:data/archive.json > data/archive.json
-          node -e "const d=JSON.parse(require('fs').readFileSync('data/archive.json','utf8'));console.log('batches',d.length,'articles',d.reduce((a,b)=>a+b.items.length,0));"
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+
+      - name: Restore and split archive
+        run: node scripts/restore-archive.js
+
       - name: Commit
         run: |
-          git config user.name "wemake"
-          git config user.email "dvp@wemake.cloud"
-          git add data/archive.json
-          git commit -m "Restore news archive from c0fda7b (33 batches)" || echo nochange
+          git config user.name "Chronicle Bot"
+          git config user.email "bot@chronicleofconvergence.com"
+          git add data/archive.json data/archive_part*.json index.html
+          git commit -m "Restore news archive ($(node -e "const d=JSON.parse(require('fs').readFileSync('data/archive.json'));console.log(d.length+' batches, '+d.reduce((a,b)=>a+b.items.length,0)+' articles')"))" || echo nochange
           git push
