@@ -93,6 +93,10 @@ function loadArchive(root) {
   return [];
 }
 
+function dayKey(scannedAt) {
+  return String(scannedAt || '').slice(0, 10);
+}
+
 function dedupeBatches(batches) {
   const seen = new Set();
   return batches
@@ -106,10 +110,23 @@ function dedupeBatches(batches) {
     });
 }
 
+/** Keep only the latest batch per calendar day (replaces earlier same-day scans). */
+function dedupeSameDayBatches(batches) {
+  const byDay = new Map();
+  for (const batch of dedupeBatches(batches)) {
+    const key = dayKey(batch.scannedAt);
+    const prev = byDay.get(key);
+    if (!prev || new Date(batch.scannedAt) > new Date(prev.scannedAt)) {
+      byDay.set(key, batch);
+    }
+  }
+  return [...byDay.values()].sort((a, b) => new Date(b.scannedAt) - new Date(a.scannedAt));
+}
+
 function saveArchive(root, batches) {
   const dataDir = path.join(root, 'data');
   fs.mkdirSync(dataDir, { recursive: true });
-  const normalized = dedupeBatches(batches);
+  const normalized = dedupeSameDayBatches(batches);
   fs.writeFileSync(path.join(dataDir, 'archive.json'), JSON.stringify(normalized, null, 2));
 
   const chunkSize = Math.ceil(normalized.length / 4) || 1;
@@ -127,5 +144,7 @@ module.exports = {
   loadArchive,
   loadArchiveParts,
   saveArchive,
-  dedupeBatches
+  dedupeBatches,
+  dedupeSameDayBatches,
+  dayKey
 };

@@ -51,6 +51,8 @@ async function main() {
   };
 
   let existing = loadArchive(ROOT);
+  const today = batch.scannedAt.slice(0, 10);
+  existing = existing.filter((b) => b.scannedAt.slice(0, 10) !== today);
   existing.unshift(batch);
 
   const cutoff = Date.now() - 30 * 24 * 60 * 60 * 1000;

@@ -75,6 +75,13 @@ header::before{content:'';position:absolute;top:-40%;left:50%;transform:translat
 
 .tagline{font-family:var(--font-mono);font-size:.56rem;letter-spacing:.15em;text-transform:uppercase;color:var(--text-dim);margin-bottom:.7rem}
 
+.header-actions{display:flex;align-items:center;justify-content:center;gap:.5rem;margin-top:.75rem;flex-wrap:wrap}
+.contact-btn,.editor-link{display:inline-flex;align-items:center;gap:.35rem;padding:.42rem .9rem;border-radius:100px;font-family:var(--font-mono);font-size:.56rem;letter-spacing:.06em;text-transform:uppercase;transition:all .25s;-webkit-tap-highlight-color:transparent}
+.contact-btn{background:var(--ai);color:var(--bg);border:1px solid var(--ai);font-weight:600}
+.contact-btn:hover,.contact-btn:active{filter:brightness(1.08);transform:translateY(-1px);box-shadow:0 6px 20px rgba(0,229,255,.2)}
+.editor-link{border:1px solid var(--border);color:var(--text-dim)}
+.editor-link:hover,.editor-link:active{border-color:var(--text-dim);color:var(--text)}
+
 .date-bar{display:inline-flex;align-items:center;gap:.4rem;padding:.3rem .7rem;border:1px solid var(--border);border-radius:100px;font-family:var(--font-mono);font-size:.54rem;color:var(--text-dim);flex-wrap:wrap;justify-content:center;max-width:100%}
 .date-bar .sep{opacity:.25}
 .date-bar .cats-hint{display:none}
@@ -84,7 +91,7 @@ header::before{content:'';position:absolute;top:-40%;left:50%;transform:translat
 /* ═══ CATEGORY NAV (mobile: horizontal scroll) ═══ */
 nav.cats{display:flex;justify-content:flex-start;overflow-x:auto;-webkit-overflow-scrolling:touch;gap:.3rem;padding:.7rem .7rem;border-bottom:1px solid var(--border);position:sticky;top:0;z-index:100;background:rgba(6,6,9,.92);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);scrollbar-width:none}
 nav.cats::-webkit-scrollbar{display:none}
-.cat-pill{padding:.32rem .65rem;border:1px solid var(--border);border-radius:100px;font-family:var(--font-mono);font-size:.56rem;letter-spacing:.05em;text-transform:uppercase;cursor:pointer;transition:all .25s;background:transparent;color:var(--text-dim);white-space:nowrap;flex-shrink:0;-webkit-tap-highlight-color:transparent;appearance:none;-webkit-appearance:none}
+.cat-pill{padding:.38rem .72rem;border:1px solid var(--border);border-radius:100px;font-family:var(--font-mono);font-size:.56rem;letter-spacing:.05em;text-transform:uppercase;cursor:pointer;transition:all .25s;background:transparent;color:var(--text-dim);white-space:nowrap;flex-shrink:0;-webkit-tap-highlight-color:transparent;appearance:none;-webkit-appearance:none;min-height:34px}
 .cat-pill:hover,.cat-pill.active{color:var(--bg);border-color:transparent}
 .cat-pill[data-cat=all]:hover,.cat-pill[data-cat=all].active{background:var(--text)}
 .cat-pill[data-cat=ai]:hover,.cat-pill[data-cat=ai].active{background:var(--ai)}
@@ -133,9 +140,11 @@ nav.cats::-webkit-scrollbar{display:none}
 .card{display:block;background:var(--bg-card);border:1px solid var(--border);border-radius:12px;overflow:hidden;transition:all .3s;position:relative}
 .card:hover{background:var(--bg-hover);border-color:#2a2a3a;transform:translateY(-2px);box-shadow:0 12px 36px rgba(0,0,0,.45)}
 .card-img{position:relative;width:100%;padding-top:56.25%;overflow:hidden;background:var(--bg)}
-.card-img img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;transition:transform .5s,opacity .35s;opacity:1;z-index:1}
-.card:hover .card-img img{transform:scale(1.03)}
-.card-img .img-fallback{position:absolute;inset:0;z-index:0;opacity:0;transition:opacity .35s}
+.card-img img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;transition:transform .5s,opacity .35s;opacity:0;z-index:1}
+.card-img.has-img img{opacity:1}
+.card:hover .card-img.has-img img{transform:scale(1.03)}
+.card-img .img-fallback{position:absolute;inset:0;z-index:0;opacity:1;transition:opacity .35s}
+.card-img.has-img .img-fallback{opacity:0;pointer-events:none}
 .card-img.no-img .img-fallback{opacity:1}
 .card-img.no-img img{display:none}
 .card-img[data-cat=ai] .img-fallback{background:linear-gradient(135deg,rgba(0,229,255,.22) 0%,var(--bg-card) 70%)}
@@ -145,13 +154,13 @@ nav.cats::-webkit-scrollbar{display:none}
 .card-img[data-cat=energy] .img-fallback{background:linear-gradient(135deg,rgba(255,214,0,.2) 0%,var(--bg-card) 70%)}
 .card-img[data-cat=neuroscience] .img-fallback{background:linear-gradient(135deg,rgba(255,110,64,.22) 0%,var(--bg-card) 70%)}
 .card-img .overlay{position:absolute;inset:0;z-index:2;pointer-events:none;background:linear-gradient(to top,rgba(6,6,9,.55) 0%,transparent 45%)}
-.card-body{padding:.85rem .9rem}
+.card-body{padding:.95rem 1rem}
 .card-meta{display:flex;align-items:center;gap:.4rem;margin-bottom:.3rem;flex-wrap:wrap}
 .cat-tag{font-family:var(--font-mono);font-size:.5rem;font-weight:600;letter-spacing:.08em;text-transform:uppercase;padding:.15rem .4rem;border-radius:3px;color:var(--bg)}
 .cat-tag.ai{background:var(--ai)}.cat-tag.robotics{background:var(--robotics)}.cat-tag.biotech{background:var(--biotech)}.cat-tag.space{background:var(--space)}.cat-tag.energy{background:var(--energy)}.cat-tag.neuroscience{background:var(--neuro)}
 .card-time{font-family:var(--font-mono);font-size:.5rem;color:var(--text-dim)}
 .card-title{font-family:var(--font-serif);font-size:1.05rem;font-weight:400;line-height:1.35;margin-bottom:.2rem;color:var(--text)}
-.card-summary{font-size:.74rem;color:var(--text-dim);line-height:1.55;margin-bottom:.3rem;font-weight:300}
+.card-summary{font-size:.76rem;color:var(--text-dim);line-height:1.6;margin-bottom:.45rem;font-weight:300;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
 .card-source{font-family:var(--font-mono);font-size:.48rem;letter-spacing:.06em;text-transform:uppercase;color:var(--text-dim);display:inline-flex;align-items:center;gap:.25rem}
 .card-source .arrow{transition:transform .3s}
 .card:hover .card-source .arrow{transform:translateX(3px)}
@@ -169,6 +178,10 @@ nav.cats::-webkit-scrollbar{display:none}
 .card::before{content:'';position:absolute;top:0;left:-100%;width:60%;height:100%;background:linear-gradient(90deg,transparent,rgba(255,255,255,.015),transparent);z-index:1;pointer-events:none}
 .card:hover::before{animation:shimmer .8s ease forwards}
 @keyframes shimmer{to{left:150%}}
+
+/* Today intro */
+.today-intro{max-width:960px;margin:0 auto;padding:.5rem 1rem 0;font-size:.72rem;color:var(--text-dim);line-height:1.5}
+.today-intro strong{color:var(--text);font-weight:500}
 
 /* Empty state */
 .empty{text-align:center;padding:3rem 1.2rem;color:var(--text-dim)}
@@ -277,6 +290,10 @@ footer .company{opacity:.5}
     <span class="sep cats-hint">|</span>
     <span class="cats-hint">A.I. · Robotics · Biotech · Space · Energy · Neuro</span>
   </div>
+  <div class="header-actions">
+    <a class="contact-btn" href="mailto:contact@chronicleofconvergence.com" aria-label="Contact Chronicle of Convergence">✉ Contact</a>
+    <a class="editor-link" href="editor.html" rel="nofollow">Editor</a>
+  </div>
 </header>
 
 <nav class="cats" id="catNav" role="navigation" aria-label="Category filter">
@@ -298,7 +315,7 @@ footer .company{opacity:.5}
 
 <footer role="contentinfo">
   <div>&copy; 2019–<span id="copyrightYear"></span> chronicleofconvergence.com <span class="company">· a WeMake, Corp. Company</span></div>
-  <div style="margin-top:.3rem">All Rights Reserved &nbsp;·&nbsp; <a href="editor.html" rel="nofollow">Editor</a></div>
+  <div style="margin-top:.3rem">All Rights Reserved &nbsp;·&nbsp; <a href="mailto:contact@chronicleofconvergence.com">Contact</a> &nbsp;·&nbsp; <a href="editor.html" rel="nofollow">Editor</a></div>
 </footer>
 </div>
 
@@ -395,6 +412,12 @@ async function resolveBatchImages(batches){
   }
   await Promise.all(jobs);
 }
+function imgLoaded(img){
+  const wrap=img.closest('.card-img');
+  if(!wrap)return;
+  wrap.classList.add('has-img');
+  wrap.classList.remove('no-img');
+}
 function imgFail(img){
   const wrap=img.closest('.card-img');
   const raw=img.dataset.raw||img.src;
@@ -403,7 +426,19 @@ function imgFail(img){
     img.src=proxyImg(raw);
     return;
   }
+  wrap.classList.remove('has-img');
   wrap.classList.add('no-img');
+}
+function normUrl(url){
+  try{return new URL(url).href.replace(/\/$/,'')}catch(e){return String(url||'').trim()}
+}
+function dedupeItems(items){
+  const seen=new Set();
+  return items.filter(it=>{
+    const key=normUrl(it.sourceUrl)||it.id||it.title;
+    if(!key||seen.has(key))return false;
+    seen.add(key);return true;
+  });
 }
 
 /* ════════ INIT ════════ */
@@ -411,13 +446,11 @@ function imgFail(img){
   const now=new Date();
   document.getElementById('curDate').textContent=now.toLocaleDateString('en-US',{weekday:'long',year:'numeric',month:'long',day:'numeric'});
   document.getElementById('copyrightYear').textContent=now.getFullYear();
-  let d;try{d=JSON.parse(localStorage.getItem('coc_news_data'))}catch(e){}
-  if(!d||!d.length){
-    try{
-      const ar=await fetch("data/archive.json",{cache:"no-cache"});
-      if(ar.ok)d=await ar.json();
-    }catch(e){}
-  }
+  let d;
+  try{
+    const ar=await fetch("data/archive.json",{cache:"no-cache"});
+    if(ar.ok)d=await ar.json();
+  }catch(e){}
   if(!d||!d.length){
     try{
       const parts=await Promise.all([0,1,2,3].map(i=>fetch("data/archive_part"+i+".json",{cache:"no-cache"}).then(r=>r.ok?r.json():[]).catch(()=>[])));
@@ -426,7 +459,7 @@ function imgFail(img){
     }catch(e){}
   }
   if(!d||!d.length)d=EMBEDDED_DATA;
-  allB=d.sort((a,b)=>new Date(b.scannedAt)-new Date(a.scannedAt));
+  allB=dedupeDays(d.sort((a,b)=>new Date(b.scannedAt)-new Date(a.scannedAt)));
   await resolveBatchImages(allB);
   render();
   document.getElementById('catNav').addEventListener('click',e=>{
@@ -437,21 +470,36 @@ function imgFail(img){
   setupObs();
 })();
 
+function dayKey(ts){return String(ts||'').slice(0,10)}
+function dedupeDays(batches){
+  const byDay=new Map();
+  for(const b of batches){
+    const k=dayKey(b.scannedAt);
+    const prev=byDay.get(k);
+    if(!prev||new Date(b.scannedAt)>new Date(prev.scannedAt))byDay.set(k,b);
+  }
+  return [...byDay.values()].sort((a,b)=>new Date(b.scannedAt)-new Date(a.scannedAt));
+}
 function render(){
   const now=Date.now();
-  const live=allB.filter(b=>(now-new Date(b.scannedAt).getTime())<H24);
-  const arch=allB.filter(b=>(now-new Date(b.scannedAt).getTime())>=H24);
+  const latest=allB[0];
+  const isLive=latest&&(now-new Date(latest.scannedAt).getTime())<H24;
+  const live=isLive?[latest]:[];
+  const arch=isLive?allB.slice(1):allB;
   renderLive(live);aPage=0;document.getElementById('archArea').innerHTML='';renderArch(arch);
 }
 
 function renderLive(bs){
   const c=document.getElementById('liveArea');
-  const items=bs.flatMap(b=>filterB(b));
-  if(!items.length){c.innerHTML=`<div class="sec-label"><h2>Today</h2><span class="line"></span><span class="badge-live">LIVE</span></div><div class="empty"><div class="icon">\u25C7</div><p>No live breakthroughs yet.</p></div>`;return}
-  let h='';
-  for(const b of bs){const bi=filterB(b);if(!bi.length)continue;const dt=new Date(b.scannedAt);const t=dt.toLocaleTimeString('en-US',{hour:'2-digit',minute:'2-digit'});
-  h+=`<div class="sec-label"><h2>Today</h2><span class="line"></span><span class="badge-live">LIVE \u00B7 ${t}</span></div><section class="tl" role="list">${bi.map((it,i)=>cardH(it,i)).join('')}</section>`}
-  c.innerHTML=h;setupObs();
+  if(!bs.length){c.innerHTML=`<div class="sec-label"><h2>Today</h2><span class="line"></span><span class="badge-live">LIVE</span></div><div class="empty"><div class="icon">\u25C7</div><p>No live breakthroughs yet. Check back after the next scan.</p></div>`;return}
+  const b=bs[0];
+  const bi=dedupeItems(filterB(b));
+  if(!bi.length){c.innerHTML=`<div class="sec-label"><h2>Today</h2><span class="line"></span><span class="badge-live">LIVE</span></div><div class="empty"><div class="icon">\u25C7</div><p>No stories match this filter.</p></div>`;return}
+  const dt=new Date(b.scannedAt);
+  const t=dt.toLocaleTimeString('en-US',{hour:'2-digit',minute:'2-digit'});
+  const updated=dt.toLocaleString('en-US',{month:'short',day:'numeric',hour:'2-digit',minute:'2-digit'});
+  c.innerHTML=`<div class="sec-label"><h2>Today</h2><span class="line"></span><span class="badge-live">LIVE \u00B7 ${t}</span></div><p class="today-intro">Latest scan at <strong>${updated}</strong> — top 5 breakthroughs across AI, Robotics, Biotech, Space, Energy, and Neuroscience. Earlier scans from today are in the archive below.</p><section class="tl" role="list">${bi.map((it,i)=>cardH(it,i)).join('')}</section>`;
+  setupObs();
 }
 
 function renderArch(abs){
@@ -460,14 +508,19 @@ function renderArch(abs){
   if(!page.length){document.getElementById('loadWrap').style.display='none';document.getElementById('endMark').style.display='block';return}
   const c=document.getElementById('archArea');
   if(!aPage&&page.length)c.innerHTML+=`<div class="sec-label"><h2>Archive</h2><span class="line"></span><span class="badge-archive">PAST BREAKTHROUGHS</span></div>`;
-  for(const b of page){const bi=filterB(b);if(!bi.length)continue;const dt=new Date(b.scannedAt);const ds=dt.toLocaleDateString('en-US',{weekday:'short',month:'short',day:'numeric',year:'numeric'});const ts=dt.toLocaleTimeString('en-US',{hour:'2-digit',minute:'2-digit'});
+  for(const b of page){const bi=dedupeItems(filterB(b));if(!bi.length)continue;const dt=new Date(b.scannedAt);const ds=dt.toLocaleDateString('en-US',{weekday:'short',month:'short',day:'numeric',year:'numeric'});const ts=dt.toLocaleTimeString('en-US',{hour:'2-digit',minute:'2-digit'});
   c.innerHTML+=`<div class="batch-ts"><span class="ts">${ds} \u00B7 ${ts}</span><span class="line"></span></div><section class="tl" role="list">${bi.map((it,i)=>cardH(it,i)).join('')}</section>`}
   document.getElementById('loadWrap').style.display=more?'block':'none';
   document.getElementById('endMark').style.display=more?'none':'block';
   aPage++;setupObs();
 }
 
-function loadMore(){const arch=allB.filter(b=>(Date.now()-new Date(b.scannedAt).getTime())>=H24);renderArch(arch)}
+function loadMore(){
+  const now=Date.now();
+  const latest=allB[0];
+  const isLive=latest&&(now-new Date(latest.scannedAt).getTime())<H24;
+  renderArch(isLive?allB.slice(1):allB);
+}
 
 /* ════════ CARD HTML ════════ */
 function cardH(it,i){
@@ -476,7 +529,7 @@ function cardH(it,i){
   const shareTitle=encodeURIComponent(it.title||'');
   const shareTxt=encodeURIComponent((it.title||'')+' — via Chronicle of Convergence');
   const img=it.image&&!needsImageFix(it.image)?it.image:'';
-  const imgTag=img?`<img src="${esc(img)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" data-raw="${esc(img)}" onerror="imgFail(this)">`:'';
+  const imgTag=img?`<img src="${esc(img)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" data-raw="${esc(img)}" onload="imgLoaded(this)" onerror="imgFail(this)">`:'';
   const noImg=img?'':' no-img';
   return`<article class="tl-item" data-cat="${it.category}" style="transition-delay:${i*.06}s" role="listitem">
   <span class="rank-num" aria-hidden="true">${String(it.rank).padStart(2,'0')}</span>
