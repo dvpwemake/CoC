@@ -1,5 +1,117 @@
 [
   {
+    "scannedAt": "2026-06-04T22:41:56.656Z",
+    "items": [
+      {
+        "id": "b1780612916656_1",
+        "rank": 1,
+        "title": "Scientists Discover Quantum Effect That Could Eliminate Batteries",
+        "category": "quantum physics",
+        "summary": "Researchers at Queensland University of Technology have discovered how microscopic imperfections and atomic vibrations can control a powerful quantum effect in advanced materials. The nonlinear Hall effect can turn alternating electrical signals directly into usable current without traditional components, potentially enabling battery-free electronics powered by ambient energy. The effect direction reverses with temperature changes, allowing scientists to tune device performance.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260603023917.htm",
+        "image": "https://www.sciencedaily.com/images/1920/abstract-energy-mysterious-quantum-effect.webp"
+      },
+      {
+        "id": "b1780612916656_2",
+        "rank": 2,
+        "title": "University of Birmingham Breakthrough Turns Waste Heat Into Clean Hydrogen",
+        "category": "energy",
+        "summary": "Researchers have developed a perovskite-based catalyst that splits water into hydrogen at much lower temperatures than existing technologies. The breakthrough reduces operating temperatures by 500°C, enabling hydrogen production at 150-500°C with catalyst regeneration at 700-1000°C. This allows industrial waste heat from steel, cement, and glass production to power local hydrogen generation, potentially making clean fuel cheaper and more accessible.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260601025345.htm",
+        "image": "https://www.sciencedaily.com/images/1920/green-energy-hydrogen-pipelines-wind-turbines.webp"
+      },
+      {
+        "id": "b1780612916656_3",
+        "rank": 3,
+        "title": "New Light-Powered Chip Could Accelerate AI and Quantum Computing",
+        "category": "ai",
+        "summary": "Scientists at Monash University have created a tiny chip that can generate, steer, and read light-based information all in one device. The breakthrough uses atomically thin materials and nanoscale structures to control the valley degree of freedom in light, enabling new ways to encode information. The valleytronic chip operates at room temperature and could drive future breakthroughs in faster computing, lower energy consumption, and quantum technologies.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260601025343.htm",
+        "image": "https://www.sciencedaily.com/images/1920/photonic-valleytronic-chip-for-information-processing.webp"
+      },
+      {
+        "id": "b1780612916656_4",
+        "rank": 4,
+        "title": "NASA's X-59 Prepares for First Supersonic Flight to Break Sound Barrier Quietly",
+        "category": "space tech",
+        "summary": "NASA's X-59 quiet supersonic aircraft is set to break the sound barrier for the first time in early June 2026. The experimental jet is designed to replace thunderous sonic booms with a much quieter thump, potentially enabling supersonic passenger travel over populated areas. The aircraft will reach speeds over 630 mph at 43,000 feet, with eventual targets of Mach 1.6 at 60,000 feet. Success could lead to overturning the 50-year ban on supersonic flight over land.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260601025338.htm",
+        "image": "https://www.sciencedaily.com/images/1920/nasa-x-59-flying-over-land-and-water.webp"
+      },
+      {
+        "id": "b1780612916656_5",
+        "rank": 5,
+        "title": "Texas Scientists Reverse Brain Aging with Simple Nasal Spray",
+        "category": "neuroscience",
+        "summary": "Researchers at Texas A&M have developed a nasal spray using extracellular vesicles that appears to reverse brain aging by reducing inflammation and restoring cellular energy systems. After just two doses, memory and cognitive function improved for months in preclinical studies. The therapy targets neuroinflammation in the brain's memory center and has already received a U.S. patent, offering new hope for treating dementia and age-related cognitive decline.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/05/260526022018.htm",
+        "image": "https://www.sciencedaily.com/images/1920/human-thought-brain-boost-intellectual-power.webp"
+      }
+    ],
+    "batchId": "b1780612916656"
+  },
+  {
+    "scannedAt": "2026-06-04T18:29:04.320Z",
+    "items": [
+      {
+        "id": "b1780597744320_1",
+        "rank": 1,
+        "title": "Scientists Finally Crack an 'Undruggable' Pancreatic Cancer Target and Nearly Double Survival",
+        "category": "biotech",
+        "summary": "A breakthrough drug called daraxonrasib has shown unprecedented results against pancreatic cancer, nearly doubling survival time from 6.7 to 13.2 months in metastatic patients. The drug targets the previously 'undruggable' KRAS mutation found in over 90% of pancreatic cancers by attaching to cyclophilin A protein. Phase 3 trial results presented at ASCO 2026 showed the drug reduced death risk by 60% compared to chemotherapy, marking the most significant advance in pancreatic cancer treatment history.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260604044247.htm",
+        "image": "https://www.sciencedaily.com/images/1920/bright-glowing-cancer-cell-destruction.webp"
+      },
+      {
+        "id": "b1780597744320_2",
+        "rank": 2,
+        "title": "ChatGPT Gets Revolutionary 'Dreaming' Memory System for Better Personalization",
+        "category": "ai",
+        "summary": "OpenAI launched a major upgrade to ChatGPT's memory capabilities called 'Dreaming' that automatically synthesizes information from conversation history to create persistent, personalized context. The system overcomes previous limitations of static saved memories by continuously updating user context as time passes, enabling ChatGPT to provide more relevant recommendations and maintain preferences across conversations. The breakthrough makes AI assistants significantly more helpful by remembering user details, preferences, and constraints without explicit prompting.",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/index/chatgpt-memory-dreaming/",
+        "image": "https://images.ctfassets.net/kftzwdyauwt9/41T8ZOansyDZGCqmwOkuOY/3cdeb6ab147c08fa9b313b677fb5318e/16x9_SEO__1_.png?w=1600&h=900&fit=fill"
+      },
+      {
+        "id": "b1780597744320_3",
+        "rank": 3,
+        "title": "Scientists Discover Master Biological Clock Controlling Growth and Development",
+        "category": "neuroscience",
+        "summary": "Researchers at Cold Spring Harbor Laboratory discovered a master genetic clock made of proteins MYRF-1 and LIN-42 that acts as the primary timekeeper for biological development. The clock orchestrates crucial bursts of gene activity throughout growth stages in worms, ensuring each developmental phase begins precisely when needed and lasts the appropriate duration. When disrupted, development completely stops, providing new insights into growth-related disorders and how biological timing controls life processes.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260604044236.htm",
+        "image": "https://www.sciencedaily.com/images/1920/developmental-clock-graphic.webp"
+      },
+      {
+        "id": "b1780597744320_4",
+        "rank": 4,
+        "title": "Microsoft's Majorana 2 Quantum Chip Achieves 1000x Reliability Breakthrough",
+        "category": "ai",
+        "summary": "Microsoft unveiled Majorana 2, a next-generation quantum computing chip featuring qubits that are 1,000 times more reliable than previous versions, with qubit lifetimes averaging 20 seconds versus milliseconds. The topological quantum chip was developed using AI-assisted design through Microsoft's Discovery platform and could enable practical quantum computers by 2029. However, the announcement has drawn skepticism from physics experts who question the validity of Microsoft's topological qubit claims without peer review.",
+        "source": "Microsoft",
+        "sourceUrl": "https://news.microsoft.com/source/features/innovation/majorana-2-microsoft-discovery-agentic-ai/",
+        "image": "https://news.microsoft.com/source/wp-content/uploads/2026/06/Majorana-2-web-size_4_1200.jpg"
+      },
+      {
+        "id": "b1780597744320_5",
+        "rank": 5,
+        "title": "Solar Desalination Breakthrough Produces Fresh Water Without Toxic Brine Waste",
+        "category": "energy",
+        "summary": "University of Rochester scientists developed a revolutionary solar desalination system using laser-textured metal panels that converts seawater to drinking water while eliminating harmful brine discharge. The system automatically moves salt deposits to passive zones, preventing clogging while recovering nearly 100% of salts as valuable solids including lithium for batteries. Successfully tested with water from three oceans, the breakthrough could transform water production by solving the environmental problems of traditional desalination plants.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/05/260530053418.htm",
+        "image": "https://www.sciencedaily.com/images/1920/solar-desalination-device-with-laser-etched-superwicking.webp"
+      }
+    ],
+    "batchId": "b1780597744320"
+  },
+  {
     "scannedAt": "2026-06-04T15:38:14.892Z",
     "items": [
       {
@@ -15,9 +127,9 @@
       {
         "id": "b1780587494891_2",
         "rank": 2,
-        "title": "Game-Changing Hydrogen Production: New Catalyst Cuts Energy Requirements by 500\u00b0C",
+        "title": "Game-Changing Hydrogen Production: New Catalyst Cuts Energy Requirements by 500°C",
         "category": "Energy",
-        "summary": "Researchers at the University of Birmingham have developed a revolutionary perovskite-based catalyst that splits water into hydrogen at temperatures 500\u00b0C lower than existing technologies. The breakthrough could make clean hydrogen production far cheaper and enable industrial waste heat from steel, cement, and chemical plants to be converted into valuable hydrogen fuel. Published in the International Journal of Hydrogen Energy, this advance could dramatically accelerate the global transition to clean energy.",
+        "summary": "Researchers at the University of Birmingham have developed a revolutionary perovskite-based catalyst that splits water into hydrogen at temperatures 500°C lower than existing technologies. The breakthrough could make clean hydrogen production far cheaper and enable industrial waste heat from steel, cement, and chemical plants to be converted into valuable hydrogen fuel. Published in the International Journal of Hydrogen Energy, this advance could dramatically accelerate the global transition to clean energy.",
         "source": "ScienceDaily",
         "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260601025345.htm",
         "image": "https://www.sciencedaily.com/images/1920/green-energy-hydrogen-pipelines-wind-turbines.webp"
@@ -261,7 +373,7 @@
         "rank": 4,
         "title": "NASA Roman Space Telescope Poised to Discover 100,000 Exoplanets in Revolutionary Search",
         "category": "space",
-        "summary": "NASA's Roman Space Telescope is set to revolutionize alien world detection by discovering approximately 100,000 exoplanets\u2014surpassing all previous missions combined. The advanced space observatory will use cutting-edge detection methods to peer deep into space, potentially identifying Earth-like worlds and expanding humanity's understanding of planetary formation and habitability across the cosmos.",
+        "summary": "NASA's Roman Space Telescope is set to revolutionize alien world detection by discovering approximately 100,000 exoplanets—surpassing all previous missions combined. The advanced space observatory will use cutting-edge detection methods to peer deep into space, potentially identifying Earth-like worlds and expanding humanity's understanding of planetary formation and habitability across the cosmos.",
         "source": "ScienceDaily",
         "sourceUrl": "https://www.sciencedaily.com/news/space_time/space_exploration/",
         "image": "https://www.sciencedaily.com/images/scidaily-icon.png"

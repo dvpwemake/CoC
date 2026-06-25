@@ -1,5 +1,117 @@
 [
   {
+    "batchId": "auto_2026-06-25T09-15",
+    "scannedAt": "2026-06-25T09:15:19.504Z",
+    "items": [
+      {
+        "id": "auto_2026-06-25T09-15_1",
+        "rank": 1,
+        "title": "STAT+: Facing a brutal run, battered vaccine makers still see cause for hope",
+        "category": "biotech",
+        "summary": "It's an unusual time to be in the vaccine business. But in the view of those gathered at the BIO conference this week, it’s not altogether a bleak one.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/06/AdobeStock_376575094-1024x576.jpeg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/06/25/vaccine-industry-dark-period-causes-for-hope/?utm_campaign=rss"
+      },
+      {
+        "id": "auto_2026-06-25T09-15_2",
+        "rank": 2,
+        "title": "Hyundai’s new steel mill sparks hopes and fears in Louisiana",
+        "category": "energy",
+        "summary": "On a drizzly March day last year at the White House, President Donald J. Trump stood behind a podium to make a “beautiful announcement.” Hyundai, the Korean industrial giant, was investing nearly $6 billion in a new…",
+        "image": "https://img.canarymedia.com/content/uploads/IMG_5359.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=3e5fec01e767ee4062195ba46d08bcb7",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/green-steel/hyundai-new-steel-mill-louisiana"
+      },
+      {
+        "id": "auto_2026-06-25T09-15_3",
+        "rank": 3,
+        "title": "A Turquoise Tint for the Black Sea",
+        "category": "space",
+        "summary": "Phytoplankton added a milky blue hue to the waters of the Black Sea and nearby waterways in spring and summer 2026.",
+        "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/a-turquoise-tint-for-the-black-sea/ISS074-E-619520_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "source": "NASA",
+        "sourceUrl": "https://science.nasa.gov/earth/earth-observatory/a-turquoise-tint-for-the-black-sea/"
+      },
+      {
+        "id": "auto_2026-06-25T09-15_4",
+        "rank": 4,
+        "title": "Pop Music Echoes a Growing Culture of Vices",
+        "category": "neuroscience",
+        "summary": "An extensive computational analysis of over 380,000 songs spanning 1960 to 2023 has revealed that popular music lyrics have become increasingly negative, showcasing a steady historical decline in language related to…",
+        "image": "https://neurosciencenews.com/files/2026/06/music-morality-psychology-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/music-lyrics-vices-cultural-barometer-30956/"
+      },
+      {
+        "id": "auto_2026-06-25T09-15_5",
+        "rank": 5,
+        "title": "The emergence of the web data infrastructure layer for AI",
+        "category": "ai",
+        "summary": "AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstructured, which…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/iStock-1714934690.jpg?resize=1200,600",
+        "source": "MIT Technology Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/"
+      }
+    ]
+  },
+  {
+    "batchId": "auto_2026-06-25T09-00",
+    "scannedAt": "2026-06-25T09:00:33.972Z",
+    "items": [
+      {
+        "id": "auto_2026-06-25T09-00_1",
+        "rank": 1,
+        "title": "STAT+: Facing a brutal run, battered vaccine makers still see cause for hope",
+        "category": "biotech",
+        "summary": "It's an unusual time to be in the vaccine business. But in the view of those gathered at the BIO conference this week, it’s not altogether a bleak one.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/06/AdobeStock_376575094-1024x576.jpeg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/06/25/vaccine-industry-dark-period-causes-for-hope/?utm_campaign=rss"
+      },
+      {
+        "id": "auto_2026-06-25T09-00_2",
+        "rank": 2,
+        "title": "Hyundai’s new steel mill sparks hopes and fears in Louisiana",
+        "category": "energy",
+        "summary": "On a drizzly March day last year at the White House, President Donald J. Trump stood behind a podium to make a “beautiful announcement.” Hyundai, the Korean industrial giant, was investing nearly $6 billion in a new…",
+        "image": "https://img.canarymedia.com/content/uploads/IMG_5359.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=3e5fec01e767ee4062195ba46d08bcb7",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/green-steel/hyundai-new-steel-mill-louisiana"
+      },
+      {
+        "id": "auto_2026-06-25T09-00_3",
+        "rank": 3,
+        "title": "A Turquoise Tint for the Black Sea",
+        "category": "space",
+        "summary": "Phytoplankton added a milky blue hue to the waters of the Black Sea and nearby waterways in spring and summer 2026.",
+        "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/a-turquoise-tint-for-the-black-sea/ISS074-E-619520_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "source": "NASA",
+        "sourceUrl": "https://science.nasa.gov/earth/earth-observatory/a-turquoise-tint-for-the-black-sea/"
+      },
+      {
+        "id": "auto_2026-06-25T09-00_4",
+        "rank": 4,
+        "title": "Pop Music Echoes a Growing Culture of Vices",
+        "category": "neuroscience",
+        "summary": "An extensive computational analysis of over 380,000 songs spanning 1960 to 2023 has revealed that popular music lyrics have become increasingly negative, showcasing a steady historical decline in language related to…",
+        "image": "https://neurosciencenews.com/files/2026/06/music-morality-psychology-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/music-lyrics-vices-cultural-barometer-30956/"
+      },
+      {
+        "id": "auto_2026-06-25T09-00_5",
+        "rank": 5,
+        "title": "The emergence of the web data infrastructure layer for AI",
+        "category": "ai",
+        "summary": "AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstructured, which…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/iStock-1714934690.jpg?resize=1200,600",
+        "source": "MIT Technology Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-06-25T07-30",
     "scannedAt": "2026-06-25T07:30:30.711Z",
     "items": [
@@ -18,7 +130,7 @@
         "rank": 2,
         "title": "Pop Music Echoes a Growing Culture of Vices",
         "category": "neuroscience",
-        "summary": "An extensive computational analysis of over 380,000 songs spanning 1960 to 2023 has revealed that popular music lyrics have become increasingly negative, showcasing a steady historical decline in language related to\u2026",
+        "summary": "An extensive computational analysis of over 380,000 songs spanning 1960 to 2023 has revealed that popular music lyrics have become increasingly negative, showcasing a steady historical decline in language related to…",
         "image": "https://neurosciencenews.com/files/2026/06/music-morality-psychology-neuroscience-1155x770.jpg",
         "source": "Neuroscience News",
         "sourceUrl": "https://neurosciencenews.com/music-lyrics-vices-cultural-barometer-30956/"
@@ -38,7 +150,7 @@
         "rank": 4,
         "title": "Base Power brings cheap batteries to residents in power-starved PJM",
         "category": "energy",
-        "summary": "PJM Interconnection, which serves 67 million people across 13 states from the mid-Atlantic to the Midwest, has become a poster child for how not to keep up with soaring energy demand. Startup Base Power is taking a\u2026",
+        "summary": "PJM Interconnection, which serves 67 million people across 13 states from the mid-Atlantic to the Midwest, has become a poster child for how not to keep up with soaring energy demand. Startup Base Power is taking a…",
         "image": "https://img.canarymedia.com/content/uploads/Chicago-skyline-with-Chicago-sign_GettyImages-2277954000-1.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=e26ffebd840a7ad1989546c9b657992c",
         "source": "Canary Media",
         "sourceUrl": "https://www.canarymedia.com/articles/batteries/base-power-cheap-batteries-pjm"
@@ -48,7 +160,7 @@
         "rank": 5,
         "title": "The emergence of the web data infrastructure layer for AI",
         "category": "ai",
-        "summary": "AI is booming. New use cases are emerging each day. To capitalize on the technology\u2019s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstructured, which\u2026",
+        "summary": "AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstructured, which…",
         "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/iStock-1714934690.jpg?resize=1200,600",
         "source": "MIT Technology Review",
         "sourceUrl": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/"
@@ -74,7 +186,7 @@
         "rank": 2,
         "title": "Pop Music Echoes a Growing Culture of Vices",
         "category": "neuroscience",
-        "summary": "An extensive computational analysis of over 380,000 songs spanning 1960 to 2023 has revealed that popular music lyrics have become increasingly negative, showcasing a steady historical decline in language related to\u2026",
+        "summary": "An extensive computational analysis of over 380,000 songs spanning 1960 to 2023 has revealed that popular music lyrics have become increasingly negative, showcasing a steady historical decline in language related to…",
         "image": "https://neurosciencenews.com/files/2026/06/music-morality-psychology-neuroscience-1155x770.jpg",
         "source": "Neuroscience News",
         "sourceUrl": "https://neurosciencenews.com/music-lyrics-vices-cultural-barometer-30956/"
@@ -94,7 +206,7 @@
         "rank": 4,
         "title": "Base Power brings cheap batteries to residents in power-starved PJM",
         "category": "energy",
-        "summary": "PJM Interconnection, which serves 67 million people across 13 states from the mid-Atlantic to the Midwest, has become a poster child for how not to keep up with soaring energy demand. Startup Base Power is taking a\u2026",
+        "summary": "PJM Interconnection, which serves 67 million people across 13 states from the mid-Atlantic to the Midwest, has become a poster child for how not to keep up with soaring energy demand. Startup Base Power is taking a…",
         "image": "https://img.canarymedia.com/content/uploads/Chicago-skyline-with-Chicago-sign_GettyImages-2277954000-1.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=e26ffebd840a7ad1989546c9b657992c",
         "source": "Canary Media",
         "sourceUrl": "https://www.canarymedia.com/articles/batteries/base-power-cheap-batteries-pjm"
@@ -104,7 +216,7 @@
         "rank": 5,
         "title": "The emergence of the web data infrastructure layer for AI",
         "category": "ai",
-        "summary": "AI is booming. New use cases are emerging each day. To capitalize on the technology\u2019s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstructured, which\u2026",
+        "summary": "AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstructured, which…",
         "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/iStock-1714934690.jpg?resize=1200,600",
         "source": "MIT Technology Review",
         "sourceUrl": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/"
@@ -130,7 +242,7 @@
         "rank": 2,
         "title": "Pop Music Echoes a Growing Culture of Vices",
         "category": "neuroscience",
-        "summary": "An extensive computational analysis of over 380,000 songs spanning 1960 to 2023 has revealed that popular music lyrics have become increasingly negative, showcasing a steady historical decline in language related to\u2026",
+        "summary": "An extensive computational analysis of over 380,000 songs spanning 1960 to 2023 has revealed that popular music lyrics have become increasingly negative, showcasing a steady historical decline in language related to…",
         "image": "https://neurosciencenews.com/files/2026/06/music-morality-psychology-neuroscience-1155x770.jpg",
         "source": "Neuroscience News",
         "sourceUrl": "https://neurosciencenews.com/music-lyrics-vices-cultural-barometer-30956/"
@@ -150,7 +262,7 @@
         "rank": 4,
         "title": "Base Power brings cheap batteries to residents in power-starved PJM",
         "category": "energy",
-        "summary": "PJM Interconnection, which serves 67 million people across 13 states from the mid-Atlantic to the Midwest, has become a poster child for how not to keep up with soaring energy demand. Startup Base Power is taking a\u2026",
+        "summary": "PJM Interconnection, which serves 67 million people across 13 states from the mid-Atlantic to the Midwest, has become a poster child for how not to keep up with soaring energy demand. Startup Base Power is taking a…",
         "image": "https://img.canarymedia.com/content/uploads/Chicago-skyline-with-Chicago-sign_GettyImages-2277954000-1.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=e26ffebd840a7ad1989546c9b657992c",
         "source": "Canary Media",
         "sourceUrl": "https://www.canarymedia.com/articles/batteries/base-power-cheap-batteries-pjm"
@@ -160,7 +272,7 @@
         "rank": 5,
         "title": "The emergence of the web data infrastructure layer for AI",
         "category": "ai",
-        "summary": "AI is booming. New use cases are emerging each day. To capitalize on the technology\u2019s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstructured, which\u2026",
+        "summary": "AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstructured, which…",
         "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/iStock-1714934690.jpg?resize=1200,600",
         "source": "MIT Technology Review",
         "sourceUrl": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/"
@@ -390,117 +502,5 @@
       }
     ],
     "batchId": "b1781194727790"
-  },
-  {
-    "scannedAt": "2026-06-10T22:55:32.976Z",
-    "items": [
-      {
-        "id": "b1781132132976_1",
-        "rank": 1,
-        "title": "Nanoscale Gold Metamaterials Supercharge Heat Transfer by 400%",
-        "category": "energy",
-        "summary": "Scientists used nanoscale gold metamaterials to supercharge heat transfer across tiny gaps, achieving up to four times more energy flow than similar conventional systems. The breakthrough could lead to better chip cooling, more efficient energy technologies, and a new era of precision heat management for data centers and electronics.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com",
-        "image": "https://www.sciencedaily.com/images/scidaily-icon.png"
-      },
-      {
-        "id": "b1781132132976_2",
-        "rank": 2,
-        "title": "Tufts AI System Cuts Energy Consumption by 100x While Boosting Performance",
-        "category": "ai",
-        "summary": "Researchers at Tufts University developed a neuro-symbolic AI system that combines neural networks with human-like symbolic reasoning, slashing energy consumption by up to 100 times compared to conventional approaches while dramatically improving performance. In robotic task tests using the Tower of Hanoi puzzle, the hybrid system achieved a 95% success rate versus 34% for standard models and trained in just 34 minutes versus more than a day and a half for traditional systems.",
-        "source": "Crescendo AI",
-        "sourceUrl": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
-        "image": "https://cdn.prod.website-files.com/67166bf779ba8852260f7d1f/694a731a76c9d6876ddf8a8f_latest-ai-news-and-updates.png"
-      },
-      {
-        "id": "b1781132132976_3",
-        "rank": 3,
-        "title": "Scientists Discover New Alzheimer's Target and Experimental Drug",
-        "category": "neuroscience",
-        "summary": "Researchers have identified a new Alzheimer's target and created an experimental compound that blocks a damaging process inside brain cells. In mice, the treatment slowed nerve cell loss, reduced Alzheimer's-related changes, and even appeared to reverse some symptoms in preclinical trials.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com",
-        "image": "https://www.sciencedaily.com/images/scidaily-icon.png"
-      },
-      {
-        "id": "b1781132132976_4",
-        "rank": 4,
-        "title": "Breakthrough Hydrogen Production Method Uses Waste Heat",
-        "category": "energy",
-        "summary": "A breakthrough hydrogen-production method could make clean fuel far cheaper and easier to generate. Researchers at the University of Birmingham developed a perovskite-based catalyst that splits water into hydrogen at much lower temperatures than existing technologies, potentially allowing factories, steel plants, cement works, and renewable energy sites to turn waste heat into valuable hydrogen fuel.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com",
-        "image": "https://www.sciencedaily.com/images/scidaily-icon.png"
-      },
-      {
-        "id": "b1781132132976_5",
-        "rank": 5,
-        "title": "First Computer-Designed Vaccine Enters Human Clinical Trials",
-        "category": "biotech",
-        "summary": "Researchers at the University of Cambridge and DIOSynVax report the first human clinical trial of a vaccine whose active component was designed entirely by computer simulations. This represents a major milestone in computational drug design and could accelerate vaccine development for future pandemics.",
-        "source": "Wikipedia - 2026 in Science",
-        "sourceUrl": "https://en.wikipedia.org/wiki/2026_in_science",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Artemis_2_Crew_Portrait.jpg/960px-Artemis_2_Crew_Portrait.jpg"
-      }
-    ],
-    "batchId": "b1781132132976"
-  },
-  {
-    "scannedAt": "2026-06-10T18:40:54.500Z",
-    "items": [
-      {
-        "id": "b1781116854500_1",
-        "rank": 1,
-        "title": "Venus Aerospace Selected as 2026 Technology Pioneer for Revolutionary Rocket Engine",
-        "category": "space",
-        "summary": "Venus Aerospace has been selected for the World Economic Forum's 2026 Technology Pioneers cohort for their rotating detonation rocket engine (RDRE) technology. The RDRE replaces traditional combustion with controlled detonation to burn fuel more efficiently, offering breakthrough capabilities for defense, space missions, and future high-speed flight applications.",
-        "source": "PR Newswire",
-        "sourceUrl": "https://www.prnewswire.com/news-releases/venus-aerospace-selected-as-a-2026-technology-pioneer-by-the-world-economic-forum-302795923.html",
-        "image": "https://mmx.prnewswire.com/media/MS1389807/Venus_Aerospace_logo_NEW.jpg?id=OA2694872&p=facebook"
-      },
-      {
-        "id": "b1781116854500_2",
-        "rank": 2,
-        "title": "MIT Develops Chip Cooling Technology Using AI While Studying Fake News Detection",
-        "category": "ai",
-        "summary": "MIT researchers have founded Ferveret, a company that reduces energy and water required to cool AI chips, addressing a critical infrastructure need. Additionally, a Media Lab study reveals that AI assistance can make people worse at detecting fake news, similar to how GPS has weakened navigation skills.",
-        "source": "MIT News",
-        "sourceUrl": "https://news.mit.edu/topic/artificial-intelligence2",
-        "image": "https://news.mit.edu/themes/mit/src/img/placeholder/placeholder--frontpage--featured-news.jpg"
-      },
-      {
-        "id": "b1781116854500_3",
-        "rank": 3,
-        "title": "Revolutionary Hydrogen Production Method Converts Waste Heat to Clean Fuel",
-        "category": "energy",
-        "summary": "Researchers at the University of Birmingham developed a perovskite-based catalyst that splits water into hydrogen at much lower temperatures than existing technologies. This breakthrough could allow factories, steel plants, cement works, and renewable energy sites to turn waste heat into valuable hydrogen fuel.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260601025345.htm",
-        "image": "https://www.sciencedaily.com/images/1920/green-energy-hydrogen-pipelines-wind-turbines.webp"
-      },
-      {
-        "id": "b1781116854500_4",
-        "rank": 4,
-        "title": "Figure AI Achieves Major Robotics Production Milestone at 1 Robot Per Hour",
-        "category": "robotics",
-        "summary": "Figure AI has achieved a major production milestone with its BotQ factory now producing Figure 03 humanoid robots at 1 robot per hour, while Boston Dynamics' electric Atlas begins initial deployments to Hyundai and DeepMind partners.",
-        "source": "Humanoid Press",
-        "sourceUrl": "https://www.humanoid.press/",
-        "image": "https://www.humanoid.press/gallery_gen/c042cb32c60c76b72b25c8f8cf975ac8_fit.jpg"
-      },
-      {
-        "id": "b1781116854500_5",
-        "rank": 5,
-        "title": "First Participant Treated in Landmark Cellular Reprogramming Trial for Aging",
-        "category": "biotech",
-        "summary": "The first participant has been treated in a landmark clinical trial of cellular reprogramming, which aims to rejuvenate aging cells. This represents a significant milestone in anti-aging biotechnology research.",
-        "source": "Nature",
-        "sourceUrl": "https://www.nature.com/news",
-        "image": "https://media.nature.com/w768/magazine-assets/d41586-026-01819-8/d41586-026-01819-8_52516030.jpg"
-      }
-    ],
-    "batchId": "b1781116854500"
   }
 ]

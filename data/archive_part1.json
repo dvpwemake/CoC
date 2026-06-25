@@ -1,5 +1,117 @@
 [
   {
+    "scannedAt": "2026-06-10T22:55:32.976Z",
+    "items": [
+      {
+        "id": "b1781132132976_1",
+        "rank": 1,
+        "title": "Nanoscale Gold Metamaterials Supercharge Heat Transfer by 400%",
+        "category": "energy",
+        "summary": "Scientists used nanoscale gold metamaterials to supercharge heat transfer across tiny gaps, achieving up to four times more energy flow than similar conventional systems. The breakthrough could lead to better chip cooling, more efficient energy technologies, and a new era of precision heat management for data centers and electronics.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com",
+        "image": "https://www.sciencedaily.com/images/scidaily-icon.png"
+      },
+      {
+        "id": "b1781132132976_2",
+        "rank": 2,
+        "title": "Tufts AI System Cuts Energy Consumption by 100x While Boosting Performance",
+        "category": "ai",
+        "summary": "Researchers at Tufts University developed a neuro-symbolic AI system that combines neural networks with human-like symbolic reasoning, slashing energy consumption by up to 100 times compared to conventional approaches while dramatically improving performance. In robotic task tests using the Tower of Hanoi puzzle, the hybrid system achieved a 95% success rate versus 34% for standard models and trained in just 34 minutes versus more than a day and a half for traditional systems.",
+        "source": "Crescendo AI",
+        "sourceUrl": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+        "image": "https://cdn.prod.website-files.com/67166bf779ba8852260f7d1f/694a731a76c9d6876ddf8a8f_latest-ai-news-and-updates.png"
+      },
+      {
+        "id": "b1781132132976_3",
+        "rank": 3,
+        "title": "Scientists Discover New Alzheimer's Target and Experimental Drug",
+        "category": "neuroscience",
+        "summary": "Researchers have identified a new Alzheimer's target and created an experimental compound that blocks a damaging process inside brain cells. In mice, the treatment slowed nerve cell loss, reduced Alzheimer's-related changes, and even appeared to reverse some symptoms in preclinical trials.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com",
+        "image": "https://www.sciencedaily.com/images/scidaily-icon.png"
+      },
+      {
+        "id": "b1781132132976_4",
+        "rank": 4,
+        "title": "Breakthrough Hydrogen Production Method Uses Waste Heat",
+        "category": "energy",
+        "summary": "A breakthrough hydrogen-production method could make clean fuel far cheaper and easier to generate. Researchers at the University of Birmingham developed a perovskite-based catalyst that splits water into hydrogen at much lower temperatures than existing technologies, potentially allowing factories, steel plants, cement works, and renewable energy sites to turn waste heat into valuable hydrogen fuel.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com",
+        "image": "https://www.sciencedaily.com/images/scidaily-icon.png"
+      },
+      {
+        "id": "b1781132132976_5",
+        "rank": 5,
+        "title": "First Computer-Designed Vaccine Enters Human Clinical Trials",
+        "category": "biotech",
+        "summary": "Researchers at the University of Cambridge and DIOSynVax report the first human clinical trial of a vaccine whose active component was designed entirely by computer simulations. This represents a major milestone in computational drug design and could accelerate vaccine development for future pandemics.",
+        "source": "Wikipedia - 2026 in Science",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2026_in_science",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Artemis_2_Crew_Portrait.jpg/960px-Artemis_2_Crew_Portrait.jpg"
+      }
+    ],
+    "batchId": "b1781132132976"
+  },
+  {
+    "scannedAt": "2026-06-10T18:40:54.500Z",
+    "items": [
+      {
+        "id": "b1781116854500_1",
+        "rank": 1,
+        "title": "Venus Aerospace Selected as 2026 Technology Pioneer for Revolutionary Rocket Engine",
+        "category": "space",
+        "summary": "Venus Aerospace has been selected for the World Economic Forum's 2026 Technology Pioneers cohort for their rotating detonation rocket engine (RDRE) technology. The RDRE replaces traditional combustion with controlled detonation to burn fuel more efficiently, offering breakthrough capabilities for defense, space missions, and future high-speed flight applications.",
+        "source": "PR Newswire",
+        "sourceUrl": "https://www.prnewswire.com/news-releases/venus-aerospace-selected-as-a-2026-technology-pioneer-by-the-world-economic-forum-302795923.html",
+        "image": "https://mmx.prnewswire.com/media/MS1389807/Venus_Aerospace_logo_NEW.jpg?id=OA2694872&p=facebook"
+      },
+      {
+        "id": "b1781116854500_2",
+        "rank": 2,
+        "title": "MIT Develops Chip Cooling Technology Using AI While Studying Fake News Detection",
+        "category": "ai",
+        "summary": "MIT researchers have founded Ferveret, a company that reduces energy and water required to cool AI chips, addressing a critical infrastructure need. Additionally, a Media Lab study reveals that AI assistance can make people worse at detecting fake news, similar to how GPS has weakened navigation skills.",
+        "source": "MIT News",
+        "sourceUrl": "https://news.mit.edu/topic/artificial-intelligence2",
+        "image": "https://news.mit.edu/themes/mit/src/img/placeholder/placeholder--frontpage--featured-news.jpg"
+      },
+      {
+        "id": "b1781116854500_3",
+        "rank": 3,
+        "title": "Revolutionary Hydrogen Production Method Converts Waste Heat to Clean Fuel",
+        "category": "energy",
+        "summary": "Researchers at the University of Birmingham developed a perovskite-based catalyst that splits water into hydrogen at much lower temperatures than existing technologies. This breakthrough could allow factories, steel plants, cement works, and renewable energy sites to turn waste heat into valuable hydrogen fuel.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260601025345.htm",
+        "image": "https://www.sciencedaily.com/images/1920/green-energy-hydrogen-pipelines-wind-turbines.webp"
+      },
+      {
+        "id": "b1781116854500_4",
+        "rank": 4,
+        "title": "Figure AI Achieves Major Robotics Production Milestone at 1 Robot Per Hour",
+        "category": "robotics",
+        "summary": "Figure AI has achieved a major production milestone with its BotQ factory now producing Figure 03 humanoid robots at 1 robot per hour, while Boston Dynamics' electric Atlas begins initial deployments to Hyundai and DeepMind partners.",
+        "source": "Humanoid Press",
+        "sourceUrl": "https://www.humanoid.press/",
+        "image": "https://www.humanoid.press/gallery_gen/c042cb32c60c76b72b25c8f8cf975ac8_fit.jpg"
+      },
+      {
+        "id": "b1781116854500_5",
+        "rank": 5,
+        "title": "First Participant Treated in Landmark Cellular Reprogramming Trial for Aging",
+        "category": "biotech",
+        "summary": "The first participant has been treated in a landmark clinical trial of cellular reprogramming, which aims to rejuvenate aging cells. This represents a significant milestone in anti-aging biotechnology research.",
+        "source": "Nature",
+        "sourceUrl": "https://www.nature.com/news",
+        "image": "https://media.nature.com/w768/magazine-assets/d41586-026-01819-8/d41586-026-01819-8_52516030.jpg"
+      }
+    ],
+    "batchId": "b1781116854500"
+  },
+  {
     "scannedAt": "2026-06-10T16:02:47.858Z",
     "items": [
       {
@@ -83,7 +195,7 @@
         "rank": 3,
         "title": "QuiX Quantum Installs Real-Time Photonic Control at 150-Nanosecond Speed",
         "category": "quantum",
-        "summary": "QuiX Quantum has installed its Feed-Forward Control Unit (FFCU), a module that enables real-time adaptive operations within its photonic quantum computing stack by automating hardware reconfigurations at a deterministic 150-nanosecond latency. Combining a dual-FPGA processing bus with a 32\u00d732 input/output routing matrix, the system converts single-photon detector inputs into instant phase modifications before the target photon can travel 30 meters. This breakthrough establishes the ultra-fast feedback loops required to scale measurement-based photonic quantum computers for integration with classical high-performance computing networks.",
+        "summary": "QuiX Quantum has installed its Feed-Forward Control Unit (FFCU), a module that enables real-time adaptive operations within its photonic quantum computing stack by automating hardware reconfigurations at a deterministic 150-nanosecond latency. Combining a dual-FPGA processing bus with a 32×32 input/output routing matrix, the system converts single-photon detector inputs into instant phase modifications before the target photon can travel 30 meters. This breakthrough establishes the ultra-fast feedback loops required to scale measurement-based photonic quantum computers for integration with classical high-performance computing networks.",
         "source": "Quantum Computing Report",
         "sourceUrl": "https://quantumcomputingreport.com/news/",
         "image": "https://quantumcomputingreport.com/wp-content/uploads/2022/12/QCR-by-GQI-Original-on-Transparent-20.png"
@@ -251,7 +363,7 @@
         "rank": 3,
         "title": "Breakthrough Hydrogen Production Method Turns Waste Heat Into Clean Fuel",
         "category": "energy",
-        "summary": "University of Birmingham researchers developed a revolutionary perovskite-based catalyst that splits water into hydrogen at temperatures between 150-500\u00b0C, dramatically lower than existing technologies. This breakthrough could enable factories, steel plants, and renewable energy sites to convert waste heat into valuable hydrogen fuel, potentially transforming clean energy production economics.",
+        "summary": "University of Birmingham researchers developed a revolutionary perovskite-based catalyst that splits water into hydrogen at temperatures between 150-500°C, dramatically lower than existing technologies. This breakthrough could enable factories, steel plants, and renewable energy sites to convert waste heat into valuable hydrogen fuel, potentially transforming clean energy production economics.",
         "source": "ScienceDaily",
         "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260601025345.htm",
         "image": "https://www.sciencedaily.com/images/1920/green-energy-hydrogen-pipelines-wind-turbines.webp"
@@ -390,117 +502,5 @@
       }
     ],
     "batchId": "b1780935307358"
-  },
-  {
-    "scannedAt": "2026-06-07T22:15:37.402Z",
-    "items": [
-      {
-        "id": "b1780870537401_1",
-        "rank": 1,
-        "title": "NASA's X-59 Jet Breaks Sound Barrier for First Time, Reaching Mach 1.1",
-        "category": "space tech",
-        "summary": "NASA's X-59 quiet supersonic research aircraft exceeded the speed of sound for the first time on June 5, 2026, reaching a top speed of 713 mph and a maximum altitude of 43,400 feet. The X-59, part of NASA's Quesst program, is designed to generate mild thumps rather than loud sonic booms, with plans to eventually fly over U.S. communities to gather data on how people perceive its quiet noise. The X-59 team plans to send the aircraft on its first \"mission conditions\" flight in a few days, aiming to reach a top speed of Mach 1.4 and an altitude of about 55,000 feet to help establish new data-driven noise standards for supersonic commercial flight over land.",
-        "source": "Space.com",
-        "sourceUrl": "https://www.nasa.gov/aeronautics/x-59-first-supersonic-flight/",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/06/x59-first-supersonic-flight-m-1-077-clean-high.jpg"
-      },
-      {
-        "id": "b1780870537401_2",
-        "rank": 2,
-        "title": "Scientists Create Revolutionary Light-Powered Chip for Ultra-Fast AI and Quantum Computing",
-        "category": "ai",
-        "summary": "Scientists have created a tiny chip that can generate, steer, and read light-based information all in one device, marking a major leap toward ultra-fast, energy-efficient computing. The breakthrough uses atomically thin materials and nanoscale structures to control a unique quantum property of light called the \"valley\" degree of freedom, allowing information to be encoded in new ways. One of the technology's most important advantages is that it operates at room temperature. Many quantum systems require extremely cold environments, making them more difficult and expensive to use in real-world applications.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260601025343.htm",
-        "image": "https://www.sciencedaily.com/images/1920/photonic-valleytronic-chip-for-information-processing.webp"
-      },
-      {
-        "id": "b1780870537401_3",
-        "rank": 3,
-        "title": "Breakthrough Hydrogen Production Method Turns Waste Heat Into Clean Fuel",
-        "category": "energy",
-        "summary": "A breakthrough hydrogen-production method could make clean fuel far cheaper and easier to generate. Researchers at the University of Birmingham developed a perovskite-based catalyst that splits water into hydrogen at much lower temperatures than existing technologies, potentially allowing factories, steel plants, cement works, and renewable energy sites to turn waste heat into valuable hydrogen. This breakthrough could revolutionize clean energy production by making hydrogen fuel generation more accessible and cost-effective for industrial applications.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260601025345.htm",
-        "image": "https://www.sciencedaily.com/images/1920/green-energy-hydrogen-pipelines-wind-turbines.webp"
-      },
-      {
-        "id": "b1780870537401_4",
-        "rank": 4,
-        "title": "Brain Scans Reveal Two Distinct Biological Subtypes of Autism for Precision Medicine",
-        "category": "neuroscience",
-        "summary": "According to the researchers, this is the first large-scale effort to systematically connect patterns seen in human brain imaging (via fMRI) with their underlying biological causes using mouse models. By linking specific brain connectivity patterns to distinct molecular processes, the work provides a foundation for future precision medicine strategies in autism. Their findings, published in Nature Neuroscience, led to the identification of two distinct autism subtypes characterized by distinct connectivity patterns. By evaluating over 1,900 human brain scans alongside 20 distinct mouse models, investigators successfully isolated a \"hypoconnectivity\" subtype tied to altered synaptic pathways and a \"hyperconnectivity\" subtype driven by immune-related systems.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260602021634.htm",
-        "image": "https://www.sciencedaily.com/images/1920/brain-scan-color-black-and-white.webp"
-      },
-      {
-        "id": "b1780870537401_5",
-        "rank": 5,
-        "title": "Microsoft Unveils AI-Designed Quantum Chip 1000x More Reliable, Targets 2029 for Commercial Systems",
-        "category": "ai",
-        "summary": "Microsoft unveils Majorana 2, its next-generation topological quantum chip developed with the help of Microsoft Discovery's agentic AI. Majorana 2's new features include a new materials stack enabling a 1,000-fold improvement in reliability over the prior generation of qubits, with a mean qubit lifetime of 20 seconds and instances lasting as long as one minute. Microsoft now expects to achieve a scalable quantum computer by 2029, cutting its original timeline in half. Microsoft's new chip, however, adopts a fundamentally different approach by using lead-based materials. Microsoft says its researchers developed specialized techniques that allowed them to overcome those obstacles and create a stable manufacturing process capable of utilizing the material effectively. Executives described the breakthrough as one of the most significant engineering achievements in the program's history and a crucial step toward scaling the technology for practical use.",
-        "source": "Microsoft News",
-        "sourceUrl": "https://news.microsoft.com/source/features/innovation/majorana-2-microsoft-discovery-agentic-ai/",
-        "image": "https://news.microsoft.com/source/wp-content/uploads/2026/06/Majorana-2-web-size_4_1200.jpg"
-      }
-    ],
-    "batchId": "b1780870537401"
-  },
-  {
-    "scannedAt": "2026-06-07T17:39:34.842Z",
-    "items": [
-      {
-        "id": "b1780853974841_1",
-        "rank": 1,
-        "title": "Scientists Finally Complete Schr\u00f6dinger's 100-Year-Old Color Theory",
-        "category": "neuroscience",
-        "summary": "Los Alamos researchers have solved a century-old mystery about human color perception by finally completing Erwin Schr\u00f6dinger's incomplete theory of color vision. Using advanced geometry, they built a mathematical definition of color perception based on hue, saturation, and lightness, showing that the qualities we perceive in colors are intrinsic to the mathematics of color space itself. This breakthrough could lead to more precise color technologies and enhanced data visualizations.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260606015140.htm",
-        "image": "https://www.sciencedaily.com/images/1920/color-perception-experiment.webp"
-      },
-      {
-        "id": "b1780853974841_2",
-        "rank": 2,
-        "title": "Ancient Chinese Medicine Could Transform Hair Loss Treatment",
-        "category": "biotech",
-        "summary": "A traditional Chinese medicinal root, Polygonum multiflorum, used for over a thousand years is attracting new scientific attention for its potential to combat androgenetic alopecia. Studies suggest this herb can block harmful hormones, activate hair-growth signals, protect follicles, and boost blood flow to the scalp. Researchers say the herb's effects align remarkably well with both ancient descriptions and modern hair biology, potentially offering a natural multi-pronged approach to treating the world's most common type of hair loss.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260606015144.htm",
-        "image": "https://www.sciencedaily.com/images/1920/baldness-hair-regrowth-before-after.webp"
-      },
-      {
-        "id": "b1780853974841_3",
-        "rank": 3,
-        "title": "AI-Designed Universal Coronavirus Vaccine Passes First Human Trial",
-        "category": "biotech",
-        "summary": "University of Cambridge scientists have successfully completed the first human clinical trial of a vaccine whose key component was designed entirely by artificial intelligence. The pEVAC-PS vaccine showed safety and generated immune responses against multiple coronaviruses, including SARS-CoV-2, SARS, and related bat viruses with pandemic potential. This needle-free vaccine represents a paradigm shift from reactive to proactive pandemic preparedness, potentially protecting against entire viral families rather than individual strains.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260605023357.htm",
-        "image": "https://www.sciencedaily.com/images/1920/clinical-trial-volunteer-receiving-new-universal-vaccine.webp"
-      },
-      {
-        "id": "b1780853974841_4",
-        "rank": 4,
-        "title": "ChatGPT Surpasses 1 Billion Monthly Active Users",
-        "category": "ai",
-        "summary": "OpenAI's ChatGPT has reportedly crossed the symbolic milestone of one billion monthly active users, confirming the massive global adoption of AI assistants. This growth highlights the increasingly important role of artificial intelligence in both personal and professional daily life, marking a pivotal moment in the mainstream acceptance of conversational AI technology. The achievement represents one of the fastest user adoption rates in technology history.",
-        "source": "Medium",
-        "sourceUrl": "https://medium.com/@davidakpovi/ai-news-week-of-june-1-to-june-7-2026-7957940c805a",
-        "image": "https://miro.medium.com/v2/resize:fit:1024/1*UwJOZm1uIIZHVEC0qn_sjw.png"
-      },
-      {
-        "id": "b1780853974841_5",
-        "rank": 5,
-        "title": "Orbit Fab Launches Revolutionary Satellite Refueling System",
-        "category": "space tech",
-        "summary": "Orbit Fab and Astroscale successfully launched a satellite refueling system in geostationary orbit, deploying a small 'fuel truck' that can refuel military satellites, refuel itself from an orbital fuel storage facility, and proceed to service multiple objects. This breakthrough in orbital refueling technology paves the way for continuously maneuverable satellites that can dodge threats and change orbits as needed, while making long-distance space expeditions more economically viable by eliminating the need to launch extra fuel from Earth.",
-        "source": "Universe Magazine",
-        "sourceUrl": "https://universemagazine.com/en/top-7-space-technologies-of-2026-that-could-change-the-future/",
-        "image": "https://universemagazine.com/wp-content/uploads/2026/01/ust_top7_technologies_2026.jpg"
-      }
-    ],
-    "batchId": "b1780853974841"
   }
 ]
