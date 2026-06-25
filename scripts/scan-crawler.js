@@ -7,6 +7,7 @@ const CocCrawler = require('./crawler-lib.js');
 
 const ROOT = path.resolve(__dirname, '..');
 const INDEX_PATH = path.join(ROOT, 'index.html');
+const ARCHIVE_PATH = path.join(ROOT, 'data', 'archive.json');
 const SOURCES_PATH = path.join(__dirname, 'sources.json');
 
 async function main() {
@@ -45,30 +46,46 @@ async function main() {
     }))
   };
 
-  let html = fs.readFileSync(INDEX_PATH, 'utf8');
-  const regex = /const\s+EMBEDDED_DATA\s*=\s*\[[\s\S]*\];/;
-  const found = html.match(regex);
-  if (!found) {
-    console.error('Could not find EMBEDDED_DATA in index.html');
-    process.exit(1);
+  let existing = [];
+  if (fs.existsSync(ARCHIVE_PATH)) {
+    try {
+      existing = JSON.parse(fs.readFileSync(ARCHIVE_PATH, 'utf8'));
+    } catch (e) {
+      console.warn('Could not parse archive.json, starting fresh:', e.message);
+    }
   }
 
-  let existing = [];
-  try {
-    const arrStr = found[0].replace(/^const\s+EMBEDDED_DATA\s*=\s*/, '').replace(/;$/, '');
-    existing = JSON.parse(arrStr);
-  } catch (e) {
-    console.warn('Could not parse existing data, starting fresh:', e.message);
+  if (!existing.length) {
+    const html = fs.readFileSync(INDEX_PATH, 'utf8');
+    const regex = /const\s+EMBEDDED_DATA\s*=\s*\[[\s\S]*?\];/m;
+    const found = html.match(regex);
+    if (found) {
+      try {
+        const arrStr = found[0].replace(/^const\s+EMBEDDED_DATA\s*=\s*/, '').replace(/;$/, '');
+        existing = JSON.parse(arrStr);
+      } catch (e) {
+        console.warn('Could not parse EMBEDDED_DATA fallback:', e.message);
+      }
+    }
   }
 
   existing.unshift(batch);
   const cutoff = Date.now() - 30 * 24 * 60 * 60 * 1000;
   existing = existing.filter((b) => new Date(b.scannedAt).getTime() > cutoff);
 
-  const replacement = 'const EMBEDDED_DATA = ' + JSON.stringify(existing, null, 2) + ';';
-  html = html.replace(regex, () => replacement);
+  fs.mkdirSync(path.dirname(ARCHIVE_PATH), { recursive: true });
+  fs.writeFileSync(ARCHIVE_PATH, JSON.stringify(existing, null, 2));
+
+  let html = fs.readFileSync(INDEX_PATH, 'utf8');
+  const regex = /const\s+EMBEDDED_DATA\s*=\s*\[[\s\S]*?\];/m;
+  const fallback = 'const EMBEDDED_DATA = ' + JSON.stringify([existing[0]], null, 2) + ';';
+  if (!html.match(regex)) {
+    console.error('Could not find EMBEDDED_DATA in index.html');
+    process.exit(1);
+  }
+  html = html.replace(regex, () => fallback);
   fs.writeFileSync(INDEX_PATH, html);
-  console.log(`Updated index.html — ${batch.items.length} new items, ${existing.length} total batches`);
+  console.log(`Updated archive — ${batch.items.length} new items, ${existing.length} total batches`);
 }
 
 main().catch((e) => {
