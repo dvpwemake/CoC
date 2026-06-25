@@ -1,1 +1,338 @@
-[]
+[
+  {
+    "scannedAt": "2026-06-04T15:38:14.892Z",
+    "items": [
+      {
+        "id": "b1780587494891_1",
+        "rank": 1,
+        "title": "Revolutionary Photonic Chip Breakthrough: Scientists Create Light-Powered Quantum Computing Device",
+        "category": "AI/Quantum Computing",
+        "summary": "Scientists at Monash University have created the first integrated photonic valleytronic chip that can generate, steer, and read light-based information all in one device. The breakthrough uses atomically thin materials and nanoscale structures to control a unique quantum property of light called the 'valley degree of freedom,' allowing information to be encoded in entirely new ways. This marks a major leap toward ultra-fast, energy-efficient computing and quantum technologies, solving a key bottleneck that has limited the field for years.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260601025343.htm",
+        "image": "https://www.sciencedaily.com/images/1920/photonic-valleytronic-chip-for-information-processing.webp"
+      },
+      {
+        "id": "b1780587494891_2",
+        "rank": 2,
+        "title": "Game-Changing Hydrogen Production: New Catalyst Cuts Energy Requirements by 500\u00b0C",
+        "category": "Energy",
+        "summary": "Researchers at the University of Birmingham have developed a revolutionary perovskite-based catalyst that splits water into hydrogen at temperatures 500\u00b0C lower than existing technologies. The breakthrough could make clean hydrogen production far cheaper and enable industrial waste heat from steel, cement, and chemical plants to be converted into valuable hydrogen fuel. Published in the International Journal of Hydrogen Energy, this advance could dramatically accelerate the global transition to clean energy.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260601025345.htm",
+        "image": "https://www.sciencedaily.com/images/1920/green-energy-hydrogen-pipelines-wind-turbines.webp"
+      },
+      {
+        "id": "b1780587494891_3",
+        "rank": 3,
+        "title": "Historic Supersonic Flight: NASA's X-59 Prepares to Break Sound Barrier Silently",
+        "category": "Space/Aerospace",
+        "summary": "NASA's revolutionary X-59 quiet supersonic aircraft is set to break the sound barrier for the first time in early June 2026, potentially transforming commercial aviation. The experimental aircraft is designed to replace thunderous sonic booms with a much quieter 'thump,' using its unique needle-like design and specialized engineering. After 14 successful test flights reaching Mach 0.95 at 43,000 feet, the X-59 will attempt to fly at Mach 1.4 (925 mph) at 55,000 feet, marking a pivotal moment for supersonic passenger travel over land.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260601025338.htm",
+        "image": "https://www.sciencedaily.com/images/1920/nasa-x-59-flying-over-land-and-water.webp"
+      },
+      {
+        "id": "b1780587494891_4",
+        "rank": 4,
+        "title": "Quantum Computing Milestone: Xanadu's Borealis Achieves Public Quantum Advantage",
+        "category": "Quantum Computing",
+        "summary": "Xanadu Quantum Technologies has launched public cloud access to its Borealis photonic quantum computer, becoming the first system to demonstrate quantum computational advantage while being publicly accessible. Borealis uses 216 squeezed-state qubits and can perform complex sampling tasks in 36 microseconds that would take classical supercomputers 9,000 years. This marks the first time a quantum-advantage-capable machine has been made available to the public through the cloud, representing a major step toward fault-tolerant quantum data centers.",
+        "source": "Quantum Computing Report",
+        "sourceUrl": "https://quantumcomputingreport.com/xanadu-launches-public-cloud-access-to-borealis-photonic-processor-to-demonstrate-quantum-computational-advantage/",
+        "image": "https://quantumcomputingreport.com/wp-content/uploads/2026/06/image-8.png"
+      },
+      {
+        "id": "b1780587494891_5",
+        "rank": 5,
+        "title": "Brain Aging Breakthrough: Nasal Spray Reverses Cognitive Decline in Groundbreaking Study",
+        "category": "Neuroscience",
+        "summary": "Researchers at Texas A&M University have developed a nasal spray that appears to reverse brain aging by calming inflammation and restoring brain energy systems. Using extracellular vesicles derived from neural stem cells, the treatment restored memory, reduced chronic inflammation, and improved brain cell function after just two doses, with effects lasting for months. Published in the Journal of Extracellular Vesicles, this breakthrough could lead to new therapies for Alzheimer's disease, dementia, and age-related cognitive decline.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/05/260526022018.htm",
+        "image": "https://www.sciencedaily.com/images/1920/human-thought-brain-boost-intellectual-power.webp"
+      }
+    ],
+    "batchId": "b1780587494891"
+  },
+  {
+    "scannedAt": "2026-06-03T23:09:59.050Z",
+    "items": [
+      {
+        "id": "b1780528199050_1",
+        "rank": 1,
+        "title": "Scientists Reverse Turbulence Energy Flow, Upending 80-Year-Old Theory",
+        "category": "energy",
+        "summary": "Researchers at University of Pittsburgh discovered how to reverse the direction of energy flow in turbulence, challenging Kolmogorov's 1941 theory that has stood for over 80 years. Using tensor geometry, they showed that energy can flow from smaller to larger scales in controlled conditions. This breakthrough could revolutionize ocean current control, medical microfluidics, and climate modeling by providing new ways to manipulate how energy moves through chaotic fluid systems.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260602021655.htm",
+        "image": "https://www.sciencedaily.com/images/1920/ocean-whirlpool-water-turbulence.webp"
+      },
+      {
+        "id": "b1780528199050_2",
+        "rank": 2,
+        "title": "Scientists Reverse Anxiety by Fixing Tiny Brain Circuit in Amygdala",
+        "category": "neuroscience",
+        "summary": "Researchers identified a specific group of amygdala neurons that play a central role in anxiety and social behavior. By restoring normal activity in the Grik4 gene pathway between basolateral and centrolateral amygdala regions, scientists completely reversed anxiety-related and social deficit behaviors in mice. This discovery reveals a promising new therapeutic target for treating anxiety disorders and represents a major breakthrough in understanding the brain's anxiety circuits.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260603015356.htm",
+        "image": "https://www.sciencedaily.com/images/1920/head-brain-waves-neural-activity-signals.webp"
+      },
+      {
+        "id": "b1780528199050_3",
+        "rank": 3,
+        "title": "Nuclear Fireball Simulation Reveals Surprising Fallout Formation Secrets",
+        "category": "space tech",
+        "summary": "Scientists at Lawrence Livermore National Laboratory recreated part of a nuclear fireball's intense environment to study how radioactive fallout forms. Their plasma flow reactor experiments revealed that thermal history dramatically alters how volatile elements like cesium are incorporated into particles. The breakthrough provides crucial data for nuclear forensics, safety assessments, and could improve models used for national security and emergency response planning.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260603023104.htm",
+        "image": "https://www.sciencedaily.com/images/1920/llnl-plasma-flow-reactor.webp"
+      },
+      {
+        "id": "b1780528199050_4",
+        "rank": 4,
+        "title": "New Diabetes Pill Burns Fat Through Muscle Metabolism Without Appetite Loss",
+        "category": "biotech",
+        "summary": "Scientists developed an experimental oral diabetes and obesity treatment that works completely differently from GLP-1 drugs like Ozempic. Instead of reducing appetite, it activates metabolism in skeletal muscle, helping lower blood sugar and increase fat burning while preserving muscle mass. Early clinical trials show the treatment is safe and well-tolerated, offering hope for patients who experience muscle loss and appetite suppression with current medications.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260603015541.htm",
+        "image": "https://www.sciencedaily.com/images/1920/losing-fat-gaining-muscle.webp"
+      },
+      {
+        "id": "b1780528199050_5",
+        "rank": 5,
+        "title": "Revolutionary Light-Powered Chip Could Accelerate AI and Quantum Computing",
+        "category": "ai",
+        "summary": "Scientists at Monash University created the first fully integrated chip that can generate, steer, and read light-based information all in one device. The breakthrough uses atomically thin materials and nanoscale structures to control the 'valley degree of freedom' quantum property of light, enabling ultra-fast, energy-efficient computing. This valleytronics advancement marks a major leap toward photonic processors that could dramatically reduce AI's energy consumption while boosting performance.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260601025343.htm",
+        "image": "https://www.sciencedaily.com/images/1920/photonic-valleytronic-chip-for-information-processing.webp"
+      }
+    ],
+    "batchId": "b1780528199050"
+  },
+  {
+    "scannedAt": "2026-06-03T19:57:57.470Z",
+    "items": [
+      {
+        "id": "b1780516677470_1",
+        "rank": 1,
+        "title": "Scientists Reverse Anxiety by Fixing a Tiny Brain Circuit",
+        "category": "neuroscience",
+        "summary": "A newly identified group of amygdala neurons appears to play a central role in anxiety and social behavior. Restoring normal activity in this tiny brain circuit reversed anxiety and social deficits in mice, revealing a promising new target for future treatments. The research led by Juan Lerma's team at the Institute for Neurosciences shows that rebalancing specific neural circuits can effectively treat anxiety disorders.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260603015356.htm",
+        "image": "https://www.sciencedaily.com/images/1920/head-brain-waves-neural-activity-signals.webp"
+      },
+      {
+        "id": "b1780516677470_2",
+        "rank": 2,
+        "title": "New Discovery Upends an 80-Year-Old Theory of Turbulence",
+        "category": "energy",
+        "summary": "Researchers discovered a way to reverse the direction of energy flow in turbulence, challenging a theory that has stood for more than 80 years. The finding could open new possibilities for controlling ocean currents, improving medical technologies, and enhancing climate forecasting. This breakthrough fundamentally changes our understanding of how energy moves through fluid systems.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260602021655.htm",
+        "image": "https://www.sciencedaily.com/images/1920/ocean-whirlpool-water-turbulence.webp"
+      },
+      {
+        "id": "b1780516677470_3",
+        "rank": 3,
+        "title": "Microsoft Unveils AI-Designed Quantum Chip, Targets 2029 Commercial Launch",
+        "category": "ai",
+        "summary": "Microsoft unveiled its new Majorana 2 quantum computing chip redesigned with AI assistance, featuring entirely new materials including lead instead of aluminum. The AI-driven design resulted in a 1,000-fold improvement in performance. Microsoft now believes it will have commercially useful quantum machines by 2029, putting it in direct competition with IBM and Google.",
+        "source": "BNN Bloomberg",
+        "sourceUrl": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/06/02/microsoft-reveals-new-quantum-chip-made-with-ai-says-it-will-have-systems-by-2029/",
+        "image": "https://www.bnnbloomberg.ca/resizer/v2/KHEOWZSQCTTIY56U4OVT2QWCTU.jpg?smart=true&auth=0a281a23f2487d8edce46ed6d08c57e005e8de0deaa1c17785d1dc3999497772&width=1200&height=630"
+      },
+      {
+        "id": "b1780516677470_4",
+        "rank": 4,
+        "title": "South Korea's KSTAR Reactor Achieves 102-Second Fusion Milestone",
+        "category": "energy",
+        "summary": "South Korea's KSTAR tokamak reactor held superheated plasma at 100 million degrees Celsius for a sustained 102 seconds in February 2026, shattering its own previous record of 48 seconds. This represents the most significant milestone in controlled nuclear fusion since the National Ignition Facility's historic achievement, bringing grid-scale fusion power closer to reality before 2045.",
+        "source": "Verodate",
+        "sourceUrl": "https://verodate.ca/blog/nuclear-fusion-energy-breakthrough-2026-progress",
+        "image": "https://www.sciencedaily.com/images/1920/bessy-ii-superconducting-tes-array-x-ray-spectrometer.webp"
+      },
+      {
+        "id": "b1780516677470_5",
+        "rank": 5,
+        "title": "Light-Powered Chip Could Revolutionize AI and Quantum Computing",
+        "category": "ai",
+        "summary": "Scientists at Monash University created a tiny chip that can generate, steer, and read light-based information all in one device, marking a major leap toward ultra-fast, energy-efficient computing. The breakthrough uses atomically thin materials and nanoscale structures to control a unique quantum property of light called the 'valley' degree of freedom, operating at room temperature unlike many quantum systems.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260601025343.htm",
+        "image": "https://www.sciencedaily.com/images/1920/photonic-valleytronic-chip-for-information-processing.webp"
+      }
+    ],
+    "batchId": "b1780516677470"
+  },
+  {
+    "scannedAt": "2026-06-03T17:10:07.307Z",
+    "items": [
+      {
+        "id": "b1780506607306_1",
+        "rank": 1,
+        "title": "Muon Space Unveils Starship-Class Satellite Platform for Orbital Data Centers",
+        "category": "space",
+        "summary": "Muon Space announced a breakthrough Starship-class satellite platform designed specifically for the emerging orbital data center market. The Condor-Ultra platform offers 20 kilowatts of baseline power and 18+ square meters of payload area, with Starlink Mini Lasers for inter-satellite data relay. The platform can scale to 100 kilowatts and features native Starship stackability for deployments of hundreds to thousands of satellites, with first launch planned for 2028.",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/muon-space-unveils-starship-class-satellite-platform-for-orbital-data-centers/",
+        "image": "https://spacenews.com/wp-content/uploads/2026/06/Condor-Ultra-image.jpg"
+      },
+      {
+        "id": "b1780506607306_2",
+        "rank": 2,
+        "title": "Xense Robotics Showcases Tactile Intelligence Breakthrough at ICRA 2026",
+        "category": "robotics",
+        "summary": "At the ICRA 2026 conference in Vienna, Xense Robotics demonstrated a major breakthrough in tactile intelligence with their VTLA model-driven dual-arm long-horizon compliant manipulation system. The company showcased autonomous carton-forming operations and debuted the TacCap-Gripper tactile data acquisition device, proving that tactile intelligence enables robots to truly touch and autonomously interact with the physical world beyond visual perception alone.",
+        "source": "PR Newswire",
+        "sourceUrl": "https://www.prnewswire.com/news-releases/touch-ignites-physical-intelligence-xense-robotics-showcases-the-real-ability-of-tactile-intelligence-at-icra-2026-302790324.html",
+        "image": "https://mma.prnewswire.com/media/2994206/Xense_Robotics.jpg?p=facebook"
+      },
+      {
+        "id": "b1780506607306_3",
+        "rank": 3,
+        "title": "New Light-Powered Chip Could Accelerate AI and Quantum Computing",
+        "category": "ai",
+        "summary": "Scientists have created a revolutionary tiny chip that can generate, steer, and read light-based information all in one device, marking a major leap toward ultra-fast, energy-efficient computing. The breakthrough uses atomically thin materials and nanoscale engineering to enable optical computing that could dramatically accelerate AI processing and quantum computing applications while consuming far less energy than traditional electronic systems.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/",
+        "image": "https://www.sciencedaily.com/images/scidaily-icon.png"
+      },
+      {
+        "id": "b1780506607306_4",
+        "rank": 4,
+        "title": "HSE Scientists Help Deliver World-First Hydrogen-Powered Jet Engine Test",
+        "category": "energy",
+        "summary": "HSE scientists contributed to a world-first achievement in aviation by helping deliver a hydrogen-powered jet engine test at full take-off power with Rolls-Royce. This breakthrough represents a major advancement in net zero aviation technology, demonstrating that hydrogen can power commercial aircraft engines at the power levels required for takeoff, bringing sustainable aviation significantly closer to reality.",
+        "source": "Fuel Cells Works",
+        "sourceUrl": "https://fuelcellsworks.com/2026/06/01/energy-innovation/hse-science-team-helps-power-world-first-hydrogen-aviation-breakthrough",
+        "image": "https://s3.us-east-1.amazonaws.com/s3.ai.fuelcellsworks.com/hse-science-team-helps-power-world-first-hydrogen-aviation-breakthrough-2026-06-01T09%3A29%3A50-05%3A00-image.webp"
+      },
+      {
+        "id": "b1780506607306_5",
+        "rank": 5,
+        "title": "Scientists Discover Explosive 'Ruptoblasts' That Kill Cancer Cells in Minutes",
+        "category": "biotech",
+        "summary": "Researchers have discovered a new type of cell called 'ruptoblasts' in flatworms that can detonate and release compounds that kill nearby cells within minutes. This breakthrough discovery, published in Nature, reveals a previously unknown cellular mechanism that could potentially be harnessed for targeted cancer therapy, as the ruptoblasts can selectively destroy harmful cells while leaving healthy tissue intact.",
+        "source": "Nature",
+        "sourceUrl": "https://www.nature.com/news",
+        "image": "https://media.nature.com/w768/magazine-assets/d41586-026-01788-y/d41586-026-01788-y_52500772.jpg"
+      }
+    ],
+    "batchId": "b1780506607306"
+  },
+  {
+    "scannedAt": "2026-06-02T23:07:01.549Z",
+    "items": [
+      {
+        "id": "b1780441621549_1",
+        "rank": 1,
+        "title": "Microsoft Unveils AI-Designed Quantum Chip with Majorana Breakthrough, Targets 2029 Commercial Systems",
+        "category": "quantum",
+        "summary": "Microsoft revealed a revolutionary quantum computing chip redesigned with AI assistance, achieving a 1000-fold performance improvement in Majorana qubit technology. The breakthrough involves using lead-based materials in specialized manufacturing processes, marking a critical milestone toward commercially viable quantum computers by 2029, directly competing with IBM and Google in the quantum race.",
+        "source": "Reuters",
+        "sourceUrl": "https://finance.yahoo.com/news/microsoft-reveals-quantum-chip-made-181651197.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/282C82C5822A92E9D2A6D73EE6D6B739CFD79624518EC456E9401ADD38B4C385/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F0cdfb5ffc5348ecbe711d4edd436209a"
+      },
+      {
+        "id": "b1780441621549_2",
+        "rank": 2,
+        "title": "Monash University Creates First Complete Light-Based Computing Chip Using Valleytronics",
+        "category": "ai",
+        "summary": "Scientists achieved a major breakthrough in photonic computing by creating the first complete on-chip system that generates, routes, and reads light-based information using quantum valley properties. The room-temperature device uses atomically thin materials and could revolutionize AI computing efficiency while reducing energy consumption by replacing electronic processes with ultra-fast optical computations.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260601025343.htm",
+        "image": "https://www.sciencedaily.com/images/1920/photonic-valleytronic-chip-for-information-processing.webp"
+      },
+      {
+        "id": "b1780441621549_3",
+        "rank": 3,
+        "title": "Stanford Develops Room-Temperature Quantum Device Using Twisted Light for Entanglement",
+        "category": "quantum",
+        "summary": "Researchers overcame one of quantum technology's biggest hurdles by creating a quantum device that operates at room temperature, using twisted light to entangle photons and electrons. This breakthrough could enable smaller, cheaper quantum systems with applications in secure communications, future AI computing, and quantum networks without requiring extreme cooling.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/",
+        "image": "https://www.sciencedaily.com/images/scidaily-icon.png"
+      },
+      {
+        "id": "b1780441621549_4",
+        "rank": 4,
+        "title": "NASA Roman Space Telescope Poised to Discover 100,000 Exoplanets in Revolutionary Search",
+        "category": "space",
+        "summary": "NASA's Roman Space Telescope is set to revolutionize alien world detection by discovering approximately 100,000 exoplanets\u2014surpassing all previous missions combined. The advanced space observatory will use cutting-edge detection methods to peer deep into space, potentially identifying Earth-like worlds and expanding humanity's understanding of planetary formation and habitability across the cosmos.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/news/space_time/space_exploration/",
+        "image": "https://www.sciencedaily.com/images/scidaily-icon.png"
+      },
+      {
+        "id": "b1780441621549_5",
+        "rank": 5,
+        "title": "Scientists Reverse Brain Aging with Innovative Nasal Spray Treatment",
+        "category": "biotech",
+        "summary": "Texas A&M researchers developed a groundbreaking nasal spray that appears to reverse brain aging by calming inflammation and restoring energy systems. After just two doses, memory and cognitive function improved for months, raising hopes for treating neurodegenerative diseases. This represents a major convergence of neuroscience and biotechnology in developing non-invasive brain rejuvenation therapies.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/",
+        "image": "https://www.sciencedaily.com/images/scidaily-icon.png"
+      }
+    ],
+    "batchId": "b1780441621549"
+  },
+  {
+    "scannedAt": "2026-06-02T19:52:15.259Z",
+    "items": [
+      {
+        "id": "b1780429935259_1",
+        "rank": 1,
+        "title": "Microsoft Unveils AI-Designed Quantum Chip with 1000x Performance Breakthrough",
+        "category": "quantum-ai",
+        "summary": "Microsoft announced its revolutionary Majorana 2 quantum computing chip, redesigned using AI tools for materials science. The breakthrough achieved a 1000-fold improvement in performance by solving how to use lead-based superconducting materials without degradation during manufacturing. This convergence of AI and quantum computing brings commercial quantum systems to 2029, potentially cracking problems in medicine, chemistry, and cybersecurity that would take conventional computers millennia.",
+        "source": "BNN Bloomberg",
+        "sourceUrl": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/06/02/microsoft-reveals-new-quantum-chip-made-with-ai-says-it-will-have-systems-by-2029/",
+        "image": "https://www.bnnbloomberg.ca/resizer/v2/KHEOWZSQCTTIY56U4OVT2QWCTU.jpg?smart=true&auth=0a281a23f2487d8edce46ed6d08c57e005e8de0deaa1c17785d1dc3999497772&width=1200&height=630"
+      },
+      {
+        "id": "b1780429935259_2",
+        "rank": 2,
+        "title": "NVIDIA Launches Cosmos 3: First Open Physical AI Foundation Model for Robotic Intelligence",
+        "category": "ai-robotics",
+        "summary": "NVIDIA released Cosmos 3, the world's first fully open omnimodel with native vision reasoning and multimodal generation across text, image, video, ambient sound and action. Built on breakthrough mixture-of-transformers architecture, it enables robots, autonomous vehicles and AI agents to perceive, reason, plan and act in the physical world. The model represents the convergence of AI reasoning with physical reality, launching the Cosmos Coalition with leading AI labs to advance open world models.",
+        "source": "NVIDIA",
+        "sourceUrl": "https://www.globenewswire.com/news-release/2026/06/01/3303987/0/en/NVIDIA-Launches-Cosmos-3-the-Open-Frontier-Foundation-Model-for-Physical-AI.html",
+        "image": "https://ml.globenewswire.com/Resource/Download/03777613-6abd-429d-9bc8-04a680e087d4"
+      },
+      {
+        "id": "b1780429935259_3",
+        "rank": 3,
+        "title": "China's Artificial Sun Breaks Fusion Density Barrier in Historic Quantum Leap",
+        "category": "fusion-energy",
+        "summary": "China's EAST reactor achieved the density-free regime breakthrough, maintaining plasma stability at extreme densities previously thought impossible. Using AI-controlled millisecond-precision plasma management, researchers overcame a 70-year density barrier that has blocked commercial fusion. This represents convergence of AI control systems with fusion physics, offering a practical pathway toward unlimited clean energy and bringing fusion ignition significantly closer to reality.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/01/260101160855.htm",
+        "image": "https://www.sciencedaily.com/images/1920/nuclear-fusion-reactor.webp"
+      },
+      {
+        "id": "b1780429935259_4",
+        "rank": 4,
+        "title": "IBM Commits $10 Billion for World's First Fault-Tolerant Quantum Computer by 2029",
+        "category": "quantum-computing",
+        "summary": "IBM announced a five-year $10 billion investment to build the world's first large-scale, fault-tolerant quantum computer by 2029. The initiative includes the first dedicated quantum wafer foundry in the U.S. through the new Anderon venture. With quantum advantage demonstrations expected in 2026 and real workloads already running on 90+ quantum systems globally, this marks the transition from quantum experimentation to practical quantum-powered civilization infrastructure.",
+        "source": "IBM",
+        "sourceUrl": "https://newsroom.ibm.com/2026-06-02-ibm-commits-more-than-10-billion-to-quantum-computing,-funding-its-roadmap-from-todays-leading-systems-to-the-worlds-first-fault-tolerant-quantum-computers",
+        "image": "https://newsroom.ibm.com/image/IBM_Quantum_System_Two_social.v2.jpg"
+      },
+      {
+        "id": "b1780429935259_5",
+        "rank": 5,
+        "title": "Stanford's Room-Temperature Quantum Device Uses Twisted Light for Photon-Electron Entanglement",
+        "category": "quantum-photonics",
+        "summary": "Stanford researchers created a nanoscale optical device that operates at room temperature while linking quantum properties of light and electrons using twisted photons. This breakthrough overcomes the extreme cooling requirements that have limited quantum technology deployment, paving the way for smaller, cheaper quantum systems with applications in secure communications, AI computing platforms, and human-quantum interfaces. The convergence of room-temperature quantum effects with photonic manipulation represents a major step toward ubiquitous quantum technologies.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/05/260528074028.htm",
+        "image": "https://www.sciencedaily.com/images/1920/stanford-quantum-signaling-breakthrough.webp"
+      }
+    ],
+    "batchId": "b1780429935259"
+  }
+]

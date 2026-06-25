@@ -418,6 +418,13 @@ function imgFail(img){
       if(ar.ok)d=await ar.json();
     }catch(e){}
   }
+  if(!d||!d.length){
+    try{
+      const parts=await Promise.all([0,1,2,3].map(i=>fetch("data/archive_part"+i+".json",{cache:"no-cache"}).then(r=>r.ok?r.json():[]).catch(()=>[])));
+      const merged=parts.flat().filter(b=>b&&b.batchId);
+      if(merged.length)d=merged;
+    }catch(e){}
+  }
   if(!d||!d.length)d=EMBEDDED_DATA;
   allB=d.sort((a,b)=>new Date(b.scannedAt)-new Date(a.scannedAt));
   await resolveBatchImages(allB);
