@@ -1,6 +1,62 @@
 [
   {
     "batchId": "auto_2026-06-25T08-45",
+    "scannedAt": "2026-06-25T08:45:45.768Z",
+    "items": [
+      {
+        "id": "auto_2026-06-25T08-45_1",
+        "rank": 1,
+        "title": "STAT+: Facing a brutal run, battered vaccine makers still see cause for hope",
+        "category": "biotech",
+        "summary": "It's an unusual time to be in the vaccine business. But in the view of those gathered at the BIO conference this week, it’s not altogether a bleak one.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/06/AdobeStock_376575094-1024x576.jpeg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/06/25/vaccine-industry-dark-period-causes-for-hope/?utm_campaign=rss"
+      },
+      {
+        "id": "auto_2026-06-25T08-45_2",
+        "rank": 2,
+        "title": "Hyundai’s new steel mill sparks hopes and fears in Louisiana",
+        "category": "energy",
+        "summary": "On a drizzly March day last year at the White House, President Donald J. Trump stood behind a podium to make a “beautiful announcement.” Hyundai, the Korean industrial giant, was investing nearly $6 billion in a new…",
+        "image": "https://img.canarymedia.com/content/uploads/IMG_5359.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=3e5fec01e767ee4062195ba46d08bcb7",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/green-steel/hyundai-new-steel-mill-louisiana"
+      },
+      {
+        "id": "auto_2026-06-25T08-45_3",
+        "rank": 3,
+        "title": "A Turquoise Tint for the Black Sea",
+        "category": "space",
+        "summary": "Phytoplankton added a milky blue hue to the waters of the Black Sea and nearby waterways in spring and summer 2026.",
+        "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/a-turquoise-tint-for-the-black-sea/ISS074-E-619520_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "source": "NASA",
+        "sourceUrl": "https://science.nasa.gov/earth/earth-observatory/a-turquoise-tint-for-the-black-sea/"
+      },
+      {
+        "id": "auto_2026-06-25T08-45_4",
+        "rank": 4,
+        "title": "Pop Music Echoes a Growing Culture of Vices",
+        "category": "neuroscience",
+        "summary": "An extensive computational analysis of over 380,000 songs spanning 1960 to 2023 has revealed that popular music lyrics have become increasingly negative, showcasing a steady historical decline in language related to…",
+        "image": "https://neurosciencenews.com/files/2026/06/music-morality-psychology-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/music-lyrics-vices-cultural-barometer-30956/"
+      },
+      {
+        "id": "auto_2026-06-25T08-45_5",
+        "rank": 5,
+        "title": "The emergence of the web data infrastructure layer for AI",
+        "category": "ai",
+        "summary": "AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstructured, which…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/iStock-1714934690.jpg?resize=1200,600",
+        "source": "MIT Technology Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/"
+      }
+    ]
+  },
+  {
+    "batchId": "auto_2026-06-25T08-45",
     "scannedAt": "2026-06-25T08:45:35.727Z",
     "items": [
       {
