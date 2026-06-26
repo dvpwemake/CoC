@@ -1,21 +1,41 @@
 [
   {
-    "batchId": "auto_2026-06-26T17-26",
-    "scannedAt": "2026-06-26T17:26:50.301Z",
+    "batchId": "auto_2026-06-26T21-10",
+    "scannedAt": "2026-06-26T21:10:46.383Z",
     "items": [
       {
-        "id": "auto_2026-06-26T17-26_1",
+        "id": "auto_2026-06-26T21-10_1",
         "rank": 1,
-        "title": "Breastfeeding Linked to Reduced ADHD Symptoms",
-        "category": "neuroscience",
-        "summary": "Researchers demonstrated that exclusive breastfeeding up to six months of age is associated with a clear, independent reduction in childhood ADHD symptoms at ages three, five, and eight, even after adjusting for genetic…",
-        "image": "https://neurosciencenews.com/files/2026/06/adhd-breastfeeding-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/breastfeeding-duration-adhd-symptoms-30960/"
+        "title": "NASA Announces Winners for 2026 Human Lander Challenge",
+        "category": "space",
+        "summary": "NASA has announced the top student-developed solutions for environmental control and life support systems in future crewed lunar landers from participants in the 2026 Human Lander Challenge. The announcement marks the…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/06/ceb-6192.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-announces-winners-for-2026-human-lander-challenge/"
       },
       {
-        "id": "auto_2026-06-26T17-26_2",
+        "id": "auto_2026-06-26T21-10_2",
         "rank": 2,
+        "title": "Dual Brain-Machine Interfaces Unlock Bionic Hand Kinesthesia",
+        "category": "neuroscience",
+        "summary": "A new study combining data from two distinct brain-machine interfaces has revealed that the human brain processes artificial movement sensations as coordinated, subconscious hand synergies rather than isolated muscle…",
+        "image": "https://neurosciencenews.com/files/2026/06/bionic-arm-movement-bmi-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/prosthetic-kinesthesia-brain-machine-interface-30954/"
+      },
+      {
+        "id": "auto_2026-06-26T21-10_3",
+        "rank": 3,
+        "title": "These states are the best for EV buyers and drivers",
+        "category": "energy",
+        "summary": "America’s EV industry has suffered a series of bad breaks over the last year and a half. The end of federal tax credits for electric vehicles sent sales of new EVs off a cliff last fall. A nationwide buildout of…",
+        "image": "https://img.canarymedia.com/content/uploads/GettyImages-2269134706.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=7598837099e3c9f365da521da01718f1",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/electric-vehicles/these-states-are-the-best-for-ev-buyers-and-drivers"
+      },
+      {
+        "id": "auto_2026-06-26T21-10_4",
+        "rank": 4,
         "title": "BIO 2026: AI, federal policy impacts, and general vibes",
         "category": "biotech",
         "summary": "What were the vibes like at BIO 2026? STAT reporters take you inside the annual industry conference on the latest episode of STATus Report.",
@@ -24,34 +44,14 @@
         "sourceUrl": "https://www.statnews.com/2026/06/26/bio-2026-san-diego-key-takeaways-status-report-alex-hogan/?utm_campaign=rss"
       },
       {
-        "id": "auto_2026-06-26T17-26_3",
-        "rank": 3,
-        "title": "NASA Identifies More Than 40 Space Technologies for Collaboration",
-        "category": "space",
-        "summary": "NASA selected 41 proposals from 37 companies to advance technologies in support of the agency’s goals to establish a long-term presence on the Moon and enable human exploration of Mars. These American companies, picked…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
-        "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/news-release/nasa-identifies-more-than-40-space-technologies-for-collaboration/"
-      },
-      {
-        "id": "auto_2026-06-26T17-26_4",
-        "rank": 4,
-        "title": "Washington coal plant produces no power but plenty of costs. Who pays?",
-        "category": "energy",
-        "summary": "This story was originally published by Washington State Standard . Electric utilities across the Pacific Northwest are fuming that their customers might be saddled with the costs of a coal-burning power plant that isn’t…",
-        "image": "https://img.canarymedia.com/content/uploads/TransAlta-Centralia-coal-plant-2048x1536.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=9202eee397e4c069a6300a07dde709c7",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/fossil-fuels/washington-coal-plant-produces-no-power"
-      },
-      {
-        "id": "auto_2026-06-26T17-26_5",
+        "id": "auto_2026-06-26T21-10_5",
         "rank": 5,
-        "title": "Repositioning retail for the AI era",
-        "category": "ai",
-        "summary": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/MITTRIInfosysMacys-social-1200px.png?resize=1200,600",
-        "source": "MIT Technology Review",
-        "sourceUrl": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/"
+        "title": "Video Friday: Give Robots a Hand",
+        "category": "robotics",
+        "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us…",
+        "image": "https://spectrum.ieee.org/media-library/three-fingered-robotic-gripper-arm-crawls-upright-on-a-white-table.gif?id=67036633&width=980",
+        "source": "IEEE Spectrum",
+        "sourceUrl": "https://spectrum.ieee.org/video-friday-robot-grippers"
       }
     ]
   },
