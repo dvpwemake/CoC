@@ -1,11 +1,21 @@
 [
   {
-    "batchId": "auto_2026-06-26T01-57",
-    "scannedAt": "2026-06-26T01:57:04.390Z",
+    "batchId": "auto_2026-06-26T07-39",
+    "scannedAt": "2026-06-26T07:39:59.836Z",
     "items": [
       {
-        "id": "auto_2026-06-26T01-57_1",
+        "id": "auto_2026-06-26T07-39_1",
         "rank": 1,
+        "title": "Rocket Lab wins NASA award for three Electron launches",
+        "category": "space",
+        "summary": "NASA has selected Rocket Lab to launch a pair of science missions on three Electron rockets in 2027. The post Rocket Lab wins NASA award for three Electron launches appeared first on SpaceNews .",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/55131288256_209cf1df3a_k.jpg?fit=1024%2C683&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/rocket-lab-wins-nasa-award-for-three-electron-launches/"
+      },
+      {
+        "id": "auto_2026-06-26T07-39_2",
+        "rank": 2,
         "title": "Long-Term Iron Accumulation Strips Neurons of Disease Resilience",
         "category": "neuroscience",
         "summary": "Researchers defined \"chronoferroptosis,\" a progressive, time-dependent iron accumulation pathway that systematically depletes antioxidant defenses and strips aging neurons of their resilience against neurodegenerative…",
@@ -14,17 +24,7 @@
         "sourceUrl": "https://neurosciencenews.com/chronoferroptosis-iron-neuron-resilience-30956/"
       },
       {
-        "id": "auto_2026-06-26T01-57_2",
-        "rank": 2,
-        "title": "Expedition 73 Crew Reflects on Science, Teamwork, and Life in Orbit",
-        "category": "space",
-        "summary": "On June 16, astronauts and cosmonauts gathered at Space Center Houston to share stories from their missions aboard the International Space Station and recognize the teamwork and people on the ground that made their…",
-        "image": "https://www.youtube.com/embed/BaDkHjfsOh8",
-        "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/centers-and-facilities/johnson/expedition-73-crew-reflects-on-science-teamwork-and-life-in-orbit/"
-      },
-      {
-        "id": "auto_2026-06-26T01-57_3",
+        "id": "auto_2026-06-26T07-39_3",
         "rank": 3,
         "title": "New ACIP charter broadens criteria for members, calls for review of alternatives to vaccines",
         "category": "biotech",
@@ -34,7 +34,7 @@
         "sourceUrl": "https://www.statnews.com/2026/06/25/acip-charter-responsibilities-rfk-jr/?utm_campaign=rss"
       },
       {
-        "id": "auto_2026-06-26T01-57_4",
+        "id": "auto_2026-06-26T07-39_4",
         "rank": 4,
         "title": "Massachusetts Senate preserves energy-efficiency funding in new bill",
         "category": "energy",
@@ -44,7 +44,7 @@
         "sourceUrl": "https://www.canarymedia.com/articles/energy-efficiency/massachusetts-senate-preserves-energy-efficiency-funding"
       },
       {
-        "id": "auto_2026-06-26T01-57_5",
+        "id": "auto_2026-06-26T07-39_5",
         "rank": 5,
         "title": "Repositioning retail for the AI era",
         "category": "ai",
