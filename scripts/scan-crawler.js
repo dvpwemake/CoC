@@ -7,6 +7,7 @@ const CocCrawler = require('./crawler-lib.js');
 const {
   loadArchive,
   replaceEmbeddedData,
+  replaceJsonLdNews,
   saveArchive
 } = require('./archive-utils.js');
 
@@ -62,6 +63,7 @@ async function main() {
 
   let html = fs.readFileSync(INDEX_PATH, 'utf8');
   html = replaceEmbeddedData(html, [saved[0]]);
+  html = replaceJsonLdNews(html, saved[0]);
   fs.writeFileSync(INDEX_PATH, html);
 
   console.log(`Updated archive — ${batch.items.length} new items, ${saved.length} total batches`);

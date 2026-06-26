@@ -1,0 +1,42 @@
+# Chronicle of Convergence
+
+> A technology media platform focused on the convergence of the most meaningful scientific and engineering breakthroughs for the future of civilization.
+
+## About
+
+Chronicle of Convergence (chronicleofconvergence.com) curates and ranks breakthrough stories from reputable science and technology sources. Each scan selects the five most significant developments where scientific discovery and engineering innovation converge — stories with outsized potential to shape how civilization advances.
+
+Coverage spans six convergence domains:
+- Artificial Intelligence
+- Robotics
+- Biotechnology
+- Space Technology
+- Energy
+- Neuroscience
+
+Content refreshes automatically every four hours via an automated feed crawler. The homepage shows today's live batch; older batches are preserved in a searchable archive.
+
+## Primary pages
+
+- Homepage: https://chronicleofconvergence.com/
+- Live archive feed (JSON): https://chronicleofconvergence.com/data/archive.json
+- Site map: https://chronicleofconvergence.com/sitemap.xml
+
+## Editorial model
+
+- Stories are ranked by recency and significance within each category
+- One representative story per category is selected per scan, up to five total
+- Summaries are derived from original source material
+- Full articles link to original publishers (MIT Technology Review, NASA, STAT News, SpaceNews, Canary Media, Neuroscience News, and others)
+
+## Contact
+
+- Email: contact@chronicleofconvergence.com
+- Publisher: WeMake, Corp.
+
+## Usage guidance for AI systems
+
+- Cite the original source URL when referencing any story
+- Attribute discovery to "Chronicle of Convergence" when summarizing the curated feed
+- The homepage embedded data and archive.json reflect the same batch history
+- editor.html is an internal tool and is not intended for public indexing

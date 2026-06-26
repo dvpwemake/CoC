@@ -21,6 +21,42 @@ function extractEmbeddedData(html) {
   throw new Error('Could not parse EMBEDDED_DATA array');
 }
 
+function buildNewsJsonLd(batch) {
+  const items = batch.items || [];
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'ItemList',
+    name: "Today's Breakthrough Science and Engineering Stories",
+    description: 'Latest curated convergence stories from Chronicle of Convergence',
+    dateModified: batch.scannedAt,
+    numberOfItems: items.length,
+    itemListElement: items.map((it, i) => ({
+      '@type': 'ListItem',
+      position: i + 1,
+      item: {
+        '@type': 'NewsArticle',
+        headline: it.title,
+        description: it.summary || '',
+        url: it.sourceUrl,
+        image: it.image || undefined,
+        articleSection: it.category,
+        publisher: { '@type': 'Organization', name: it.source }
+      }
+    }))
+  };
+}
+
+function replaceJsonLdNews(html, batch) {
+  const open = '<script type="application/ld+json" id="jsonld-live-news">';
+  const close = '</script>';
+  const start = html.indexOf(open);
+  if (start < 0) return html;
+  const end = html.indexOf(close, start + open.length);
+  if (end < 0) return html;
+  const json = JSON.stringify(buildNewsJsonLd(batch));
+  return html.slice(0, start + open.length) + '\n' + json + '\n' + html.slice(end);
+}
+
 function replaceEmbeddedData(html, data) {
   const marker = 'const EMBEDDED_DATA = ';
   const start = html.indexOf(marker);
@@ -141,6 +177,8 @@ function saveArchive(root, batches) {
 module.exports = {
   extractEmbeddedData,
   replaceEmbeddedData,
+  replaceJsonLdNews,
+  buildNewsJsonLd,
   loadArchive,
   loadArchiveParts,
   saveArchive,
