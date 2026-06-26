@@ -1,20 +1,20 @@
 [
   {
-    "batchId": "auto_2026-06-26T10-40",
-    "scannedAt": "2026-06-26T10:40:40.650Z",
+    "batchId": "auto_2026-06-26T13-53",
+    "scannedAt": "2026-06-26T13:53:28.424Z",
     "items": [
       {
-        "id": "auto_2026-06-26T10-40_1",
+        "id": "auto_2026-06-26T13-53_1",
         "rank": 1,
-        "title": "What is pulmonary hypertension and why would a new GLP-1 help?",
+        "title": "STAT+: Embryo editing advances reignite ethical debates",
         "category": "biotech",
-        "summary": "A report about unusual access to an experimental obesity drug has raised interest in the condition pulmonary hypertension.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/06/AdobeStock_502400445-1024x576.jpeg",
+        "summary": "Cassidy targets 340B, Eli Lilly's mysterious retatrutide patient, and more biotech news from The Readout",
+        "image": "https://www.statnews.com/wp-content/uploads/2022/10/GettyImages-73453618-1024x576.jpg",
         "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/06/26/what-is-pulmonary-hypertension-and-would-glp-1-help/?utm_campaign=rss"
+        "sourceUrl": "https://www.statnews.com/2026/06/26/biotech-news-embryo-editing-advances-reignite-ethics-debates/?utm_campaign=rss"
       },
       {
-        "id": "auto_2026-06-26T10-40_2",
+        "id": "auto_2026-06-26T13-53_2",
         "rank": 2,
         "title": "Washington coal plant produces no power but plenty of costs. Who pays?",
         "category": "energy",
@@ -24,7 +24,7 @@
         "sourceUrl": "https://www.canarymedia.com/articles/fossil-fuels/washington-coal-plant-produces-no-power"
       },
       {
-        "id": "auto_2026-06-26T10-40_3",
+        "id": "auto_2026-06-26T13-53_3",
         "rank": 3,
         "title": "The Battle for Sullivan’s Island",
         "category": "space",
@@ -34,7 +34,7 @@
         "sourceUrl": "https://science.nasa.gov/earth/earth-observatory/the-battle-for-sullivans-island/"
       },
       {
-        "id": "auto_2026-06-26T10-40_4",
+        "id": "auto_2026-06-26T13-53_4",
         "rank": 4,
         "title": "Long-Term Iron Accumulation Strips Neurons of Disease Resilience",
         "category": "neuroscience",
@@ -44,7 +44,7 @@
         "sourceUrl": "https://neurosciencenews.com/chronoferroptosis-iron-neuron-resilience-30956/"
       },
       {
-        "id": "auto_2026-06-26T10-40_5",
+        "id": "auto_2026-06-26T13-53_5",
         "rank": 5,
         "title": "Repositioning retail for the AI era",
         "category": "ai",
