@@ -1,21 +1,41 @@
 [
   {
-    "batchId": "auto_2026-06-26T13-53",
-    "scannedAt": "2026-06-26T13:53:28.424Z",
+    "batchId": "auto_2026-06-26T17-26",
+    "scannedAt": "2026-06-26T17:26:50.301Z",
     "items": [
       {
-        "id": "auto_2026-06-26T13-53_1",
+        "id": "auto_2026-06-26T17-26_1",
         "rank": 1,
-        "title": "STAT+: Embryo editing advances reignite ethical debates",
-        "category": "biotech",
-        "summary": "Cassidy targets 340B, Eli Lilly's mysterious retatrutide patient, and more biotech news from The Readout",
-        "image": "https://www.statnews.com/wp-content/uploads/2022/10/GettyImages-73453618-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/06/26/biotech-news-embryo-editing-advances-reignite-ethics-debates/?utm_campaign=rss"
+        "title": "Breastfeeding Linked to Reduced ADHD Symptoms",
+        "category": "neuroscience",
+        "summary": "Researchers demonstrated that exclusive breastfeeding up to six months of age is associated with a clear, independent reduction in childhood ADHD symptoms at ages three, five, and eight, even after adjusting for genetic…",
+        "image": "https://neurosciencenews.com/files/2026/06/adhd-breastfeeding-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/breastfeeding-duration-adhd-symptoms-30960/"
       },
       {
-        "id": "auto_2026-06-26T13-53_2",
+        "id": "auto_2026-06-26T17-26_2",
         "rank": 2,
+        "title": "BIO 2026: AI, federal policy impacts, and general vibes",
+        "category": "biotech",
+        "summary": "What were the vibes like at BIO 2026? STAT reporters take you inside the annual industry conference on the latest episode of STATus Report.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/06/SR_41_STILL-2-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/06/26/bio-2026-san-diego-key-takeaways-status-report-alex-hogan/?utm_campaign=rss"
+      },
+      {
+        "id": "auto_2026-06-26T17-26_3",
+        "rank": 3,
+        "title": "NASA Identifies More Than 40 Space Technologies for Collaboration",
+        "category": "space",
+        "summary": "NASA selected 41 proposals from 37 companies to advance technologies in support of the agency’s goals to establish a long-term presence on the Moon and enable human exploration of Mars. These American companies, picked…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/news-release/nasa-identifies-more-than-40-space-technologies-for-collaboration/"
+      },
+      {
+        "id": "auto_2026-06-26T17-26_4",
+        "rank": 4,
         "title": "Washington coal plant produces no power but plenty of costs. Who pays?",
         "category": "energy",
         "summary": "This story was originally published by Washington State Standard . Electric utilities across the Pacific Northwest are fuming that their customers might be saddled with the costs of a coal-burning power plant that isn’t…",
@@ -24,27 +44,7 @@
         "sourceUrl": "https://www.canarymedia.com/articles/fossil-fuels/washington-coal-plant-produces-no-power"
       },
       {
-        "id": "auto_2026-06-26T13-53_3",
-        "rank": 3,
-        "title": "The Battle for Sullivan’s Island",
-        "category": "space",
-        "summary": "Marshy, sandy terrain and an impassable inlet helped colonial forces repel British forces during a pivotal battle on the barrier island near Charleston, South Carolina, on June 28, 1776.",
-        "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/the-battle-for-sullivan",
-        "source": "NASA",
-        "sourceUrl": "https://science.nasa.gov/earth/earth-observatory/the-battle-for-sullivans-island/"
-      },
-      {
-        "id": "auto_2026-06-26T13-53_4",
-        "rank": 4,
-        "title": "Long-Term Iron Accumulation Strips Neurons of Disease Resilience",
-        "category": "neuroscience",
-        "summary": "Researchers defined \"chronoferroptosis,\" a progressive, time-dependent iron accumulation pathway that systematically depletes antioxidant defenses and strips aging neurons of their resilience against neurodegenerative…",
-        "image": "https://neurosciencenews.com/files/2026/06/brain-iron-ferroptosis-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/chronoferroptosis-iron-neuron-resilience-30956/"
-      },
-      {
-        "id": "auto_2026-06-26T13-53_5",
+        "id": "auto_2026-06-26T17-26_5",
         "rank": 5,
         "title": "Repositioning retail for the AI era",
         "category": "ai",
