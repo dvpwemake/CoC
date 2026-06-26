@@ -1,5 +1,61 @@
 [
   {
+    "batchId": "auto_2026-06-26T01-57",
+    "scannedAt": "2026-06-26T01:57:04.390Z",
+    "items": [
+      {
+        "id": "auto_2026-06-26T01-57_1",
+        "rank": 1,
+        "title": "Long-Term Iron Accumulation Strips Neurons of Disease Resilience",
+        "category": "neuroscience",
+        "summary": "Researchers defined \"chronoferroptosis,\" a progressive, time-dependent iron accumulation pathway that systematically depletes antioxidant defenses and strips aging neurons of their resilience against neurodegenerative…",
+        "image": "https://neurosciencenews.com/files/2026/06/brain-iron-ferroptosis-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/chronoferroptosis-iron-neuron-resilience-30956/"
+      },
+      {
+        "id": "auto_2026-06-26T01-57_2",
+        "rank": 2,
+        "title": "Expedition 73 Crew Reflects on Science, Teamwork, and Life in Orbit",
+        "category": "space",
+        "summary": "On June 16, astronauts and cosmonauts gathered at Space Center Houston to share stories from their missions aboard the International Space Station and recognize the teamwork and people on the ground that made their…",
+        "image": "https://www.youtube.com/embed/BaDkHjfsOh8",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/centers-and-facilities/johnson/expedition-73-crew-reflects-on-science-teamwork-and-life-in-orbit/"
+      },
+      {
+        "id": "auto_2026-06-26T01-57_3",
+        "rank": 3,
+        "title": "New ACIP charter broadens criteria for members, calls for review of alternatives to vaccines",
+        "category": "biotech",
+        "summary": "A new charter for the panel that advises the CDC on vaccine use substantially refocuses the responsibilities of the committee, downplaying its role in recommending the use of new vaccines.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/06/GettyImages-2249461848-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/06/25/acip-charter-responsibilities-rfk-jr/?utm_campaign=rss"
+      },
+      {
+        "id": "auto_2026-06-26T01-57_4",
+        "rank": 4,
+        "title": "Massachusetts Senate preserves energy-efficiency funding in new bill",
+        "category": "energy",
+        "summary": "The Massachusetts Senate on Wednesday unveiled its long-awaited energy legislation, a wide-ranging bill that touches on dozens of topics from plug-in solar to renewable energy procurement. Sponsors say the measures…",
+        "image": "https://img.canarymedia.com/content/uploads/Massachusetts-statehouse-golden-dome_GettyImages-2264475594.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=45304341fb72fc57b59e14b5dfd36bbb",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/energy-efficiency/massachusetts-senate-preserves-energy-efficiency-funding"
+      },
+      {
+        "id": "auto_2026-06-26T01-57_5",
+        "rank": 5,
+        "title": "Repositioning retail for the AI era",
+        "category": "ai",
+        "summary": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/MITTRIInfosysMacys-social-1200px.png?resize=1200,600",
+        "source": "MIT Technology Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-06-25T21-19",
     "scannedAt": "2026-06-25T21:19:33.819Z",
     "items": [
