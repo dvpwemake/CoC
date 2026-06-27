@@ -1,20 +1,20 @@
 [
   {
-    "batchId": "auto_2026-06-27T06-44",
-    "scannedAt": "2026-06-27T06:44:45.938Z",
+    "batchId": "auto_2026-06-27T09-53",
+    "scannedAt": "2026-06-27T09:53:42.958Z",
     "items": [
       {
-        "id": "auto_2026-06-27T06-44_1",
+        "id": "auto_2026-06-27T09-53_1",
         "rank": 1,
-        "title": "NASA Announces Winners for 2026 Human Lander Challenge",
+        "title": "Rocket Lab launches 10th Synspective satellite",
         "category": "space",
-        "summary": "NASA has announced the top student-developed solutions for environmental control and life support systems in future crewed lunar landers from participants in the 2026 Human Lander Challenge. The announcement marks the…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/06/ceb-6192.jpg",
-        "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-announces-winners-for-2026-human-lander-challenge/"
+        "summary": "Rocket Lab launched a radar-imaging satellite for Japanese company Synspective on June 26, a flight delayed by a responsive space mission. The post Rocket Lab launches 10th Synspective satellite appeared first on…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/electron-strix10.jpeg?fit=1024%2C556&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/rocket-lab-launches-10th-synspective-satellite/"
       },
       {
-        "id": "auto_2026-06-27T06-44_2",
+        "id": "auto_2026-06-27T09-53_2",
         "rank": 2,
         "title": "Dual Brain-Machine Interfaces Unlock Bionic Hand Kinesthesia",
         "category": "neuroscience",
@@ -24,7 +24,7 @@
         "sourceUrl": "https://neurosciencenews.com/prosthetic-kinesthesia-brain-machine-interface-30954/"
       },
       {
-        "id": "auto_2026-06-27T06-44_3",
+        "id": "auto_2026-06-27T09-53_3",
         "rank": 3,
         "title": "These states are the best for EV buyers and drivers",
         "category": "energy",
@@ -34,7 +34,7 @@
         "sourceUrl": "https://www.canarymedia.com/articles/electric-vehicles/these-states-are-the-best-for-ev-buyers-and-drivers"
       },
       {
-        "id": "auto_2026-06-27T06-44_4",
+        "id": "auto_2026-06-27T09-53_4",
         "rank": 4,
         "title": "BIO 2026: AI, federal policy impacts, and general vibes",
         "category": "biotech",
@@ -44,7 +44,7 @@
         "sourceUrl": "https://www.statnews.com/2026/06/26/bio-2026-san-diego-key-takeaways-status-report-alex-hogan/?utm_campaign=rss"
       },
       {
-        "id": "auto_2026-06-27T06-44_5",
+        "id": "auto_2026-06-27T09-53_5",
         "rank": 5,
         "title": "Video Friday: Give Robots a Hand",
         "category": "robotics",
