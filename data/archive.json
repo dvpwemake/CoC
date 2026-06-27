@@ -1,10 +1,10 @@
 [
   {
-    "batchId": "auto_2026-06-27T16-52",
-    "scannedAt": "2026-06-27T16:52:33.456Z",
+    "batchId": "auto_2026-06-27T20-45",
+    "scannedAt": "2026-06-27T20:45:56.064Z",
     "items": [
       {
-        "id": "auto_2026-06-27T16-52_1",
+        "id": "auto_2026-06-27T20-45_1",
         "rank": 1,
         "title": "Hearing Aids Linked to 23% Lower Dementia Risk in Epilepsy",
         "category": "neuroscience",
@@ -14,7 +14,7 @@
         "sourceUrl": "https://neurosciencenews.com/hearing-aids-epilepsy-dementia-30956/"
       },
       {
-        "id": "auto_2026-06-27T16-52_2",
+        "id": "auto_2026-06-27T20-45_2",
         "rank": 2,
         "title": "Opinion: Supreme Court ruling on Roundup points to a confusing difference between the law and science",
         "category": "biotech",
@@ -24,7 +24,7 @@
         "sourceUrl": "https://www.statnews.com/2026/06/27/roundup-glyphosate-cancer-monsanto-v-durnell-supreme-court/?utm_campaign=rss"
       },
       {
-        "id": "auto_2026-06-27T16-52_3",
+        "id": "auto_2026-06-27T20-45_3",
         "rank": 3,
         "title": "NASA Announces Winners for 2026 Human Lander Challenge",
         "category": "space",
@@ -34,7 +34,7 @@
         "sourceUrl": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-announces-winners-for-2026-human-lander-challenge/"
       },
       {
-        "id": "auto_2026-06-27T16-52_4",
+        "id": "auto_2026-06-27T20-45_4",
         "rank": 4,
         "title": "These states are the best for EV buyers and drivers",
         "category": "energy",
@@ -44,7 +44,7 @@
         "sourceUrl": "https://www.canarymedia.com/articles/electric-vehicles/these-states-are-the-best-for-ev-buyers-and-drivers"
       },
       {
-        "id": "auto_2026-06-27T16-52_5",
+        "id": "auto_2026-06-27T20-45_5",
         "rank": 5,
         "title": "Video Friday: Give Robots a Hand",
         "category": "robotics",
