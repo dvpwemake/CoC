@@ -1,5 +1,61 @@
 [
   {
+    "scannedAt": "2026-06-03T23:09:59.050Z",
+    "items": [
+      {
+        "id": "b1780528199050_1",
+        "rank": 1,
+        "title": "Scientists Reverse Turbulence Energy Flow, Upending 80-Year-Old Theory",
+        "category": "energy",
+        "summary": "Researchers at University of Pittsburgh discovered how to reverse the direction of energy flow in turbulence, challenging Kolmogorov's 1941 theory that has stood for over 80 years. Using tensor geometry, they showed that energy can flow from smaller to larger scales in controlled conditions. This breakthrough could revolutionize ocean current control, medical microfluidics, and climate modeling by providing new ways to manipulate how energy moves through chaotic fluid systems.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260602021655.htm",
+        "image": "https://www.sciencedaily.com/images/1920/ocean-whirlpool-water-turbulence.webp"
+      },
+      {
+        "id": "b1780528199050_2",
+        "rank": 2,
+        "title": "Scientists Reverse Anxiety by Fixing Tiny Brain Circuit in Amygdala",
+        "category": "neuroscience",
+        "summary": "Researchers identified a specific group of amygdala neurons that play a central role in anxiety and social behavior. By restoring normal activity in the Grik4 gene pathway between basolateral and centrolateral amygdala regions, scientists completely reversed anxiety-related and social deficit behaviors in mice. This discovery reveals a promising new therapeutic target for treating anxiety disorders and represents a major breakthrough in understanding the brain's anxiety circuits.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260603015356.htm",
+        "image": "https://www.sciencedaily.com/images/1920/head-brain-waves-neural-activity-signals.webp"
+      },
+      {
+        "id": "b1780528199050_3",
+        "rank": 3,
+        "title": "Nuclear Fireball Simulation Reveals Surprising Fallout Formation Secrets",
+        "category": "space tech",
+        "summary": "Scientists at Lawrence Livermore National Laboratory recreated part of a nuclear fireball's intense environment to study how radioactive fallout forms. Their plasma flow reactor experiments revealed that thermal history dramatically alters how volatile elements like cesium are incorporated into particles. The breakthrough provides crucial data for nuclear forensics, safety assessments, and could improve models used for national security and emergency response planning.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260603023104.htm",
+        "image": "https://www.sciencedaily.com/images/1920/llnl-plasma-flow-reactor.webp"
+      },
+      {
+        "id": "b1780528199050_4",
+        "rank": 4,
+        "title": "New Diabetes Pill Burns Fat Through Muscle Metabolism Without Appetite Loss",
+        "category": "biotech",
+        "summary": "Scientists developed an experimental oral diabetes and obesity treatment that works completely differently from GLP-1 drugs like Ozempic. Instead of reducing appetite, it activates metabolism in skeletal muscle, helping lower blood sugar and increase fat burning while preserving muscle mass. Early clinical trials show the treatment is safe and well-tolerated, offering hope for patients who experience muscle loss and appetite suppression with current medications.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260603015541.htm",
+        "image": "https://www.sciencedaily.com/images/1920/losing-fat-gaining-muscle.webp"
+      },
+      {
+        "id": "b1780528199050_5",
+        "rank": 5,
+        "title": "Revolutionary Light-Powered Chip Could Accelerate AI and Quantum Computing",
+        "category": "ai",
+        "summary": "Scientists at Monash University created the first fully integrated chip that can generate, steer, and read light-based information all in one device. The breakthrough uses atomically thin materials and nanoscale structures to control the 'valley degree of freedom' quantum property of light, enabling ultra-fast, energy-efficient computing. This valleytronics advancement marks a major leap toward photonic processors that could dramatically reduce AI's energy consumption while boosting performance.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260601025343.htm",
+        "image": "https://www.sciencedaily.com/images/1920/photonic-valleytronic-chip-for-information-processing.webp"
+      }
+    ],
+    "batchId": "b1780528199050"
+  },
+  {
     "scannedAt": "2026-06-02T23:07:01.549Z",
     "items": [
       {

@@ -1,5 +1,61 @@
 [
   {
+    "scannedAt": "2026-06-07T22:15:37.402Z",
+    "items": [
+      {
+        "id": "b1780870537401_1",
+        "rank": 1,
+        "title": "NASA's X-59 Jet Breaks Sound Barrier for First Time, Reaching Mach 1.1",
+        "category": "space tech",
+        "summary": "NASA's X-59 quiet supersonic research aircraft exceeded the speed of sound for the first time on June 5, 2026, reaching a top speed of 713 mph and a maximum altitude of 43,400 feet. The X-59, part of NASA's Quesst program, is designed to generate mild thumps rather than loud sonic booms, with plans to eventually fly over U.S. communities to gather data on how people perceive its quiet noise. The X-59 team plans to send the aircraft on its first \"mission conditions\" flight in a few days, aiming to reach a top speed of Mach 1.4 and an altitude of about 55,000 feet to help establish new data-driven noise standards for supersonic commercial flight over land.",
+        "source": "Space.com",
+        "sourceUrl": "https://www.nasa.gov/aeronautics/x-59-first-supersonic-flight/",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/06/x59-first-supersonic-flight-m-1-077-clean-high.jpg"
+      },
+      {
+        "id": "b1780870537401_2",
+        "rank": 2,
+        "title": "Scientists Create Revolutionary Light-Powered Chip for Ultra-Fast AI and Quantum Computing",
+        "category": "ai",
+        "summary": "Scientists have created a tiny chip that can generate, steer, and read light-based information all in one device, marking a major leap toward ultra-fast, energy-efficient computing. The breakthrough uses atomically thin materials and nanoscale structures to control a unique quantum property of light called the \"valley\" degree of freedom, allowing information to be encoded in new ways. One of the technology's most important advantages is that it operates at room temperature. Many quantum systems require extremely cold environments, making them more difficult and expensive to use in real-world applications.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260601025343.htm",
+        "image": "https://www.sciencedaily.com/images/1920/photonic-valleytronic-chip-for-information-processing.webp"
+      },
+      {
+        "id": "b1780870537401_3",
+        "rank": 3,
+        "title": "Breakthrough Hydrogen Production Method Turns Waste Heat Into Clean Fuel",
+        "category": "energy",
+        "summary": "A breakthrough hydrogen-production method could make clean fuel far cheaper and easier to generate. Researchers at the University of Birmingham developed a perovskite-based catalyst that splits water into hydrogen at much lower temperatures than existing technologies, potentially allowing factories, steel plants, cement works, and renewable energy sites to turn waste heat into valuable hydrogen. This breakthrough could revolutionize clean energy production by making hydrogen fuel generation more accessible and cost-effective for industrial applications.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260601025345.htm",
+        "image": "https://www.sciencedaily.com/images/1920/green-energy-hydrogen-pipelines-wind-turbines.webp"
+      },
+      {
+        "id": "b1780870537401_4",
+        "rank": 4,
+        "title": "Brain Scans Reveal Two Distinct Biological Subtypes of Autism for Precision Medicine",
+        "category": "neuroscience",
+        "summary": "According to the researchers, this is the first large-scale effort to systematically connect patterns seen in human brain imaging (via fMRI) with their underlying biological causes using mouse models. By linking specific brain connectivity patterns to distinct molecular processes, the work provides a foundation for future precision medicine strategies in autism. Their findings, published in Nature Neuroscience, led to the identification of two distinct autism subtypes characterized by distinct connectivity patterns. By evaluating over 1,900 human brain scans alongside 20 distinct mouse models, investigators successfully isolated a \"hypoconnectivity\" subtype tied to altered synaptic pathways and a \"hyperconnectivity\" subtype driven by immune-related systems.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260602021634.htm",
+        "image": "https://www.sciencedaily.com/images/1920/brain-scan-color-black-and-white.webp"
+      },
+      {
+        "id": "b1780870537401_5",
+        "rank": 5,
+        "title": "Microsoft Unveils AI-Designed Quantum Chip 1000x More Reliable, Targets 2029 for Commercial Systems",
+        "category": "ai",
+        "summary": "Microsoft unveils Majorana 2, its next-generation topological quantum chip developed with the help of Microsoft Discovery's agentic AI. Majorana 2's new features include a new materials stack enabling a 1,000-fold improvement in reliability over the prior generation of qubits, with a mean qubit lifetime of 20 seconds and instances lasting as long as one minute. Microsoft now expects to achieve a scalable quantum computer by 2029, cutting its original timeline in half. Microsoft's new chip, however, adopts a fundamentally different approach by using lead-based materials. Microsoft says its researchers developed specialized techniques that allowed them to overcome those obstacles and create a stable manufacturing process capable of utilizing the material effectively. Executives described the breakthrough as one of the most significant engineering achievements in the program's history and a crucial step toward scaling the technology for practical use.",
+        "source": "Microsoft News",
+        "sourceUrl": "https://news.microsoft.com/source/features/innovation/majorana-2-microsoft-discovery-agentic-ai/",
+        "image": "https://news.microsoft.com/source/wp-content/uploads/2026/06/Majorana-2-web-size_4_1200.jpg"
+      }
+    ],
+    "batchId": "b1780870537401"
+  },
+  {
     "scannedAt": "2026-06-06T22:13:55.811Z",
     "items": [
       {
@@ -166,61 +222,5 @@
       }
     ],
     "batchId": "b1780612916656"
-  },
-  {
-    "scannedAt": "2026-06-03T23:09:59.050Z",
-    "items": [
-      {
-        "id": "b1780528199050_1",
-        "rank": 1,
-        "title": "Scientists Reverse Turbulence Energy Flow, Upending 80-Year-Old Theory",
-        "category": "energy",
-        "summary": "Researchers at University of Pittsburgh discovered how to reverse the direction of energy flow in turbulence, challenging Kolmogorov's 1941 theory that has stood for over 80 years. Using tensor geometry, they showed that energy can flow from smaller to larger scales in controlled conditions. This breakthrough could revolutionize ocean current control, medical microfluidics, and climate modeling by providing new ways to manipulate how energy moves through chaotic fluid systems.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260602021655.htm",
-        "image": "https://www.sciencedaily.com/images/1920/ocean-whirlpool-water-turbulence.webp"
-      },
-      {
-        "id": "b1780528199050_2",
-        "rank": 2,
-        "title": "Scientists Reverse Anxiety by Fixing Tiny Brain Circuit in Amygdala",
-        "category": "neuroscience",
-        "summary": "Researchers identified a specific group of amygdala neurons that play a central role in anxiety and social behavior. By restoring normal activity in the Grik4 gene pathway between basolateral and centrolateral amygdala regions, scientists completely reversed anxiety-related and social deficit behaviors in mice. This discovery reveals a promising new therapeutic target for treating anxiety disorders and represents a major breakthrough in understanding the brain's anxiety circuits.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260603015356.htm",
-        "image": "https://www.sciencedaily.com/images/1920/head-brain-waves-neural-activity-signals.webp"
-      },
-      {
-        "id": "b1780528199050_3",
-        "rank": 3,
-        "title": "Nuclear Fireball Simulation Reveals Surprising Fallout Formation Secrets",
-        "category": "space tech",
-        "summary": "Scientists at Lawrence Livermore National Laboratory recreated part of a nuclear fireball's intense environment to study how radioactive fallout forms. Their plasma flow reactor experiments revealed that thermal history dramatically alters how volatile elements like cesium are incorporated into particles. The breakthrough provides crucial data for nuclear forensics, safety assessments, and could improve models used for national security and emergency response planning.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260603023104.htm",
-        "image": "https://www.sciencedaily.com/images/1920/llnl-plasma-flow-reactor.webp"
-      },
-      {
-        "id": "b1780528199050_4",
-        "rank": 4,
-        "title": "New Diabetes Pill Burns Fat Through Muscle Metabolism Without Appetite Loss",
-        "category": "biotech",
-        "summary": "Scientists developed an experimental oral diabetes and obesity treatment that works completely differently from GLP-1 drugs like Ozempic. Instead of reducing appetite, it activates metabolism in skeletal muscle, helping lower blood sugar and increase fat burning while preserving muscle mass. Early clinical trials show the treatment is safe and well-tolerated, offering hope for patients who experience muscle loss and appetite suppression with current medications.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260603015541.htm",
-        "image": "https://www.sciencedaily.com/images/1920/losing-fat-gaining-muscle.webp"
-      },
-      {
-        "id": "b1780528199050_5",
-        "rank": 5,
-        "title": "Revolutionary Light-Powered Chip Could Accelerate AI and Quantum Computing",
-        "category": "ai",
-        "summary": "Scientists at Monash University created the first fully integrated chip that can generate, steer, and read light-based information all in one device. The breakthrough uses atomically thin materials and nanoscale structures to control the 'valley degree of freedom' quantum property of light, enabling ultra-fast, energy-efficient computing. This valleytronics advancement marks a major leap toward photonic processors that could dramatically reduce AI's energy consumption while boosting performance.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260601025343.htm",
-        "image": "https://www.sciencedaily.com/images/1920/photonic-valleytronic-chip-for-information-processing.webp"
-      }
-    ],
-    "batchId": "b1780528199050"
   }
 ]
