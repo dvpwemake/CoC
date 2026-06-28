@@ -1,5 +1,61 @@
 [
   {
+    "batchId": "auto_2026-06-28T02-00",
+    "scannedAt": "2026-06-28T02:00:32.975Z",
+    "items": [
+      {
+        "id": "auto_2026-06-28T02-00_1",
+        "rank": 1,
+        "title": "Hearing Aids Linked to 23% Lower Dementia Risk in Epilepsy",
+        "category": "neuroscience",
+        "summary": "Hearing aid use is associated with a 23% lower risk of dementia exclusively in adults with both epilepsy and hearing loss, likely due to the critical preservation of depleted cognitive reserve.",
+        "image": "https://neurosciencenews.com/files/2026/06/hearing-aid-dementia-epilepsy-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/hearing-aids-epilepsy-dementia-30956/"
+      },
+      {
+        "id": "auto_2026-06-28T02-00_2",
+        "rank": 2,
+        "title": "Opinion: Supreme Court ruling on Roundup points to a confusing difference between the law and science",
+        "category": "biotech",
+        "summary": "The Supreme Court’s ruling on Roundup shows science and law use the same word — causation — while asking different questions, writes epidemiologist.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/06/GettyImages-2283306424-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/06/27/roundup-glyphosate-cancer-monsanto-v-durnell-supreme-court/?utm_campaign=rss"
+      },
+      {
+        "id": "auto_2026-06-28T02-00_3",
+        "rank": 3,
+        "title": "Rocket Lab launches 10th Synspective satellite",
+        "category": "space",
+        "summary": "Rocket Lab launched a radar-imaging satellite for Japanese company Synspective on June 26, a flight delayed by a responsive space mission. The post Rocket Lab launches 10th Synspective satellite appeared first on…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/electron-strix10.jpeg?fit=1024%2C556&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/rocket-lab-launches-10th-synspective-satellite/"
+      },
+      {
+        "id": "auto_2026-06-28T02-00_4",
+        "rank": 4,
+        "title": "These states are the best for EV buyers and drivers",
+        "category": "energy",
+        "summary": "America’s EV industry has suffered a series of bad breaks over the last year and a half. The end of federal tax credits for electric vehicles sent sales of new EVs off a cliff last fall. A nationwide buildout of…",
+        "image": "https://img.canarymedia.com/content/uploads/GettyImages-2269134706.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=7598837099e3c9f365da521da01718f1",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/electric-vehicles/these-states-are-the-best-for-ev-buyers-and-drivers"
+      },
+      {
+        "id": "auto_2026-06-28T02-00_5",
+        "rank": 5,
+        "title": "Video Friday: Give Robots a Hand",
+        "category": "robotics",
+        "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us…",
+        "image": "https://spectrum.ieee.org/media-library/three-fingered-robotic-gripper-arm-crawls-upright-on-a-white-table.gif?id=67036633&width=980",
+        "source": "IEEE Spectrum",
+        "sourceUrl": "https://spectrum.ieee.org/video-friday-robot-grippers"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-06-27T20-45",
     "scannedAt": "2026-06-27T20:45:56.064Z",
     "items": [
@@ -166,61 +222,5 @@
         "sourceUrl": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/"
       }
     ]
-  },
-  {
-    "scannedAt": "2026-06-12T18:19:32.258Z",
-    "items": [
-      {
-        "id": "b1781288372258_1",
-        "rank": 1,
-        "title": "Stanford Scientists Regrow Lost Cartilage and Reverse Arthritis in Major Breakthrough",
-        "category": "biotech",
-        "summary": "Stanford Medicine researchers achieved a groundbreaking treatment that blocks an aging-related protein, successfully restoring lost cartilage in old mice and helping prevent arthritis after knee injuries. Human cartilage samples showed similar signs of regeneration, raising hopes for future drugs that could replace joint surgery. The therapy dramatically improved movement and joint function by targeting the 15-PGDH protein linked to aging.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260612021604.htm",
-        "image": "https://www.sciencedaily.com/images/1920/3d-knee-joint-inflammation-osteoarthritis.webp"
-      },
-      {
-        "id": "b1781288372258_2",
-        "rank": 2,
-        "title": "Prometheus AI Company Raises $12 Billion for Artificial General Engineers",
-        "category": "ai",
-        "summary": "Biotech AI startup Prometheus secured a massive $12 billion funding round to develop artificial general engineers that can automate complex engineering tasks in drug discovery and biotechnology. The company aims to create AI systems capable of independent scientific reasoning and experimental design, potentially revolutionizing pharmaceutical research and development timelines.",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/06/12/biotech-news-prometheus-raises-12-billion-for-artificial-engineers/",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/04/AdobeStock_573445441-1024x576.jpeg"
-      },
-      {
-        "id": "b1781288372258_3",
-        "rank": 3,
-        "title": "Giant Underground Neutrino Detector Achieves Precision Breakthrough in China",
-        "category": "neuroscience",
-        "summary": "The massive JUNO neutrino observatory deep beneath the ground in China delivered its first major scientific breakthrough, achieving one of the most precise measurements yet of how elusive neutrino particles behave. This advancement brings scientists closer to cracking fundamental mysteries about neutrinos and could revolutionize our understanding of particle physics and the universe.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/",
-        "image": "https://www.sciencedaily.com/images/scidaily-icon.png"
-      },
-      {
-        "id": "b1781288372258_4",
-        "rank": 4,
-        "title": "NASA Announces Artemis III Crew for Critical Moon Mission Testing",
-        "category": "space tech",
-        "summary": "NASA revealed the four-astronaut crew selected for the crucial Artemis III mission, designed to test rendezvous and docking procedures with lunar landers in Earth orbit next year. The mission represents a critical milestone before sending astronauts back to the Moon for landing in 2028, involving both SpaceX Starship and Blue Origin's Blue Moon Mark 2 landers.",
-        "source": "Spaceflight Now",
-        "sourceUrl": "https://www.nasa.gov/missions/artemis/artemis-iii/",
-        "image": "https://www.nasa.gov/wp-content/uploads/2022/11/52508358665_efb8a65d31_o.jpg"
-      },
-      {
-        "id": "b1781288372258_5",
-        "rank": 5,
-        "title": "Brain-Inspired Chip Functions Near Absolute Zero for Quantum Computing",
-        "category": "energy",
-        "summary": "Scientists at the University of Hong Kong created a remarkable brain-inspired chip that can function just above absolute zero temperature, representing one of the coldest operational environments ever achieved. This breakthrough could transform quantum computing by enabling ultra-efficient processing in cryogenic conditions, potentially solving major energy challenges in quantum systems.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/",
-        "image": "https://www.sciencedaily.com/images/scidaily-icon.png"
-      }
-    ],
-    "batchId": "b1781288372258"
   }
 ]
