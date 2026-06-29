@@ -1,21 +1,41 @@
 [
   {
-    "batchId": "auto_2026-06-29T15-22",
-    "scannedAt": "2026-06-29T15:22:44.753Z",
+    "batchId": "auto_2026-06-29T18-01",
+    "scannedAt": "2026-06-29T18:01:25.648Z",
     "items": [
       {
-        "id": "auto_2026-06-29T15-22_1",
+        "id": "auto_2026-06-29T18-01_1",
         "rank": 1,
-        "title": "NextSTEP-3 A: Lunar Enabling Technology",
-        "category": "space",
-        "summary": "NASA issued a draft BAA under NextSTEP‑3, Appendix A, on June xx, 2026, to advance concepts that accelerate the technological readiness of critical systems for lunar surface and cislunar architecture.&#160; This…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/06/lunar-enabling-infrastructure-06292026.png",
-        "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/directorates/stmd/nextstep-3-a-lunar-enabling-technology/"
+        "title": "Adolescent Social Isolation Permanently Blunts Adult Empathy",
+        "category": "neuroscience",
+        "summary": "A brief two-week period of social isolation during adolescence permanently destroys an animal's adult capacity to sense emotional distress in peers and perform consolation grooming. This socio-emotional blindness…",
+        "image": "https://neurosciencenews.com/files/2026/06/social-isolation-adult-empathy-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/adolescent-isolation-erases-adult-empathy-30958/"
       },
       {
-        "id": "auto_2026-06-29T15-22_2",
+        "id": "auto_2026-06-29T18-01_2",
         "rank": 2,
+        "title": "5 takeaways from STAT’s investigation into micro hospital operator Nutex Health",
+        "category": "biotech",
+        "summary": "Read the takeaways from STAT's investigation into Nutex, which used the No Surprises Act to fuel a stunning financial turnaround.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/06/Robert_STAT_Selects_022-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/06/29/nutex-health-investigation-takeaways-stat-news-no-surprises-act/?utm_campaign=rss"
+      },
+      {
+        "id": "auto_2026-06-29T18-01_3",
+        "rank": 3,
+        "title": "ESA to seek lunar mapping capability for Argonaut lander",
+        "category": "space",
+        "summary": "MILAN — The European Space Agency will rely on external lunar topographic data during the design phase of its Argonaut lunar lander, and possibly for its first mission, while working […] The post ESA to seek lunar…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/Artist_s_view_of_the_Argonaut_lunar_lander-scaled.jpg?fit=1024%2C625&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/esa-to-seek-lunar-mapping-capability-for-argonaut-lander/"
+      },
+      {
+        "id": "auto_2026-06-29T18-01_4",
+        "rank": 4,
         "title": "Agent confidence on the technical frontier",
         "category": "ai",
         "summary": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mounts, executives and…",
@@ -24,34 +44,14 @@
         "sourceUrl": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/"
       },
       {
-        "id": "auto_2026-06-29T15-22_3",
-        "rank": 3,
-        "title": "STAT+: Talawar bets bispecific approach can shake up eczema market",
-        "category": "biotech",
-        "summary": "Moderna still bullish on mRNA, Ipsen's acquisition of Kartos, and more biotech news from The Readout",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/02/AdobeStock_569992414-1024x576.jpeg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/06/29/biotech-news-talawar-bets-bispecific-approach-for-eczema/?utm_campaign=rss"
-      },
-      {
-        "id": "auto_2026-06-29T15-22_4",
-        "rank": 4,
+        "id": "auto_2026-06-29T18-01_5",
+        "rank": 5,
         "title": "A year after US Steel was sold, communities push for clean investment",
         "category": "energy",
         "summary": "A year ago this month, Japan’s Nippon Steel acquired U.S. Steel, promising to plow $14 billion into America’s legendary but long-declining steel industry. The hard-fought deal was controversial and highly politicized .…",
         "image": "https://img.canarymedia.com/content/uploads/Gary-Works-rooftop-view.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=04a83af6341e3db8a87833029e1c8b3f",
         "source": "Canary Media",
         "sourceUrl": "https://www.canarymedia.com/articles/green-steel/year-after-us-steel-sold"
-      },
-      {
-        "id": "auto_2026-06-29T15-22_5",
-        "rank": 5,
-        "title": "Hearing Aids Linked to 23% Lower Dementia Risk in Epilepsy",
-        "category": "neuroscience",
-        "summary": "Hearing aid use is associated with a 23% lower risk of dementia exclusively in adults with both epilepsy and hearing loss, likely due to the critical preservation of depleted cognitive reserve.",
-        "image": "https://neurosciencenews.com/files/2026/06/hearing-aid-dementia-epilepsy-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/hearing-aids-epilepsy-dementia-30956/"
       }
     ]
   },
