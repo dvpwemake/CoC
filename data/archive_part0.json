@@ -1,5 +1,61 @@
 [
   {
+    "batchId": "auto_2026-06-29T02-01",
+    "scannedAt": "2026-06-29T02:01:46.743Z",
+    "items": [
+      {
+        "id": "auto_2026-06-29T02-01_1",
+        "rank": 1,
+        "title": "Hearing Aids Linked to 23% Lower Dementia Risk in Epilepsy",
+        "category": "neuroscience",
+        "summary": "Hearing aid use is associated with a 23% lower risk of dementia exclusively in adults with both epilepsy and hearing loss, likely due to the critical preservation of depleted cognitive reserve.",
+        "image": "https://neurosciencenews.com/files/2026/06/hearing-aid-dementia-epilepsy-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/hearing-aids-epilepsy-dementia-30956/"
+      },
+      {
+        "id": "auto_2026-06-29T02-01_2",
+        "rank": 2,
+        "title": "Opinion: Supreme Court ruling on Roundup points to a confusing difference between the law and science",
+        "category": "biotech",
+        "summary": "The Supreme Court’s ruling on Roundup shows science and law use the same word — causation — while asking different questions, writes epidemiologist.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/06/GettyImages-2283306424-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/06/27/roundup-glyphosate-cancer-monsanto-v-durnell-supreme-court/?utm_campaign=rss"
+      },
+      {
+        "id": "auto_2026-06-29T02-01_3",
+        "rank": 3,
+        "title": "NASA Announces Winners for 2026 Human Lander Challenge",
+        "category": "space",
+        "summary": "NASA has announced the top student-developed solutions for environmental control and life support systems in future crewed lunar landers from participants in the 2026 Human Lander Challenge. The announcement marks the…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/06/ceb-6192.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-announces-winners-for-2026-human-lander-challenge/"
+      },
+      {
+        "id": "auto_2026-06-29T02-01_4",
+        "rank": 4,
+        "title": "These states are the best for EV buyers and drivers",
+        "category": "energy",
+        "summary": "America’s EV industry has suffered a series of bad breaks over the last year and a half. The end of federal tax credits for electric vehicles sent sales of new EVs off a cliff last fall. A nationwide buildout of…",
+        "image": "https://img.canarymedia.com/content/uploads/GettyImages-2269134706.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=7598837099e3c9f365da521da01718f1",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/electric-vehicles/these-states-are-the-best-for-ev-buyers-and-drivers"
+      },
+      {
+        "id": "auto_2026-06-29T02-01_5",
+        "rank": 5,
+        "title": "Video Friday: Give Robots a Hand",
+        "category": "robotics",
+        "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us…",
+        "image": "https://spectrum.ieee.org/media-library/three-fingered-robotic-gripper-arm-crawls-upright-on-a-white-table.gif?id=67036633&width=980",
+        "source": "IEEE Spectrum",
+        "sourceUrl": "https://spectrum.ieee.org/video-friday-robot-grippers"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-06-28T20-48",
     "scannedAt": "2026-06-28T20:48:02.864Z",
     "items": [
@@ -164,62 +220,6 @@
         "image": "https://spectrum.ieee.org/media-library/three-fingered-robotic-gripper-arm-crawls-upright-on-a-white-table.gif?id=67036633&width=980",
         "source": "IEEE Spectrum",
         "sourceUrl": "https://spectrum.ieee.org/video-friday-robot-grippers"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-06-25T21-19",
-    "scannedAt": "2026-06-25T21:19:33.819Z",
-    "items": [
-      {
-        "id": "auto_2026-06-25T21-19_1",
-        "rank": 1,
-        "title": "NASA, US Small Business Administration to Announce Partnership",
-        "category": "space",
-        "summary": "NASA and the U.S. Small Business Administration will sign a memorandum of agreement during a ceremony at 1 p.m. EDT, Monday, June 29, at NASA Headquarters in Washington. The agreement will create a new interagency…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
-        "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/news-release/nasa-us-small-business-administration-to-announce-partnership/"
-      },
-      {
-        "id": "auto_2026-06-25T21-19_2",
-        "rank": 2,
-        "title": "Canine Cognitive Decline Alters Gait",
-        "category": "neuroscience",
-        "summary": "Researchers established that canine cognitive decline is directly associated with a shortened stride length in dogs' front limbs. Because thoracic limbs require heavy cortical control for balance and spatial awareness,…",
-        "image": "https://neurosciencenews.com/files/2026/06/canine-gait-cognitive-decline-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/dog-dementia-gait-stride-length-30955/"
-      },
-      {
-        "id": "auto_2026-06-25T21-19_3",
-        "rank": 3,
-        "title": "New ACIP charter broadens criteria for members, calls for review of alternatives to vaccines",
-        "category": "biotech",
-        "summary": "A new charter for the panel that advises the CDC on vaccine use substantially refocuses the responsibilities of the committee, downplaying its role in recommending the use of new vaccines.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/06/GettyImages-2249461848-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/06/25/acip-charter-responsibilities-rfk-jr/?utm_campaign=rss"
-      },
-      {
-        "id": "auto_2026-06-25T21-19_4",
-        "rank": 4,
-        "title": "Massachusetts Senate preserves energy-efficiency funding in new bill",
-        "category": "energy",
-        "summary": "The Massachusetts Senate on Wednesday unveiled its long-awaited energy legislation, a wide-ranging bill that touches on dozens of topics from plug-in solar to renewable energy procurement. Sponsors say the measures…",
-        "image": "https://img.canarymedia.com/content/uploads/Massachusetts-statehouse-golden-dome_GettyImages-2264475594.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=45304341fb72fc57b59e14b5dfd36bbb",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/energy-efficiency/massachusetts-senate-preserves-energy-efficiency-funding"
-      },
-      {
-        "id": "auto_2026-06-25T21-19_5",
-        "rank": 5,
-        "title": "Repositioning retail for the AI era",
-        "category": "ai",
-        "summary": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/MITTRIInfosysMacys-social-1200px.png?resize=1200,600",
-        "source": "MIT Technology Review",
-        "sourceUrl": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/"
       }
     ]
   }
