@@ -1,21 +1,41 @@
 [
   {
-    "batchId": "auto_2026-06-29T08-46",
-    "scannedAt": "2026-06-29T08:46:29.966Z",
+    "batchId": "auto_2026-06-29T15-22",
+    "scannedAt": "2026-06-29T15:22:44.753Z",
     "items": [
       {
-        "id": "auto_2026-06-29T08-46_1",
+        "id": "auto_2026-06-29T15-22_1",
         "rank": 1,
-        "title": "STAT+: Moderna co-founder Kenneth Chien on the future of mRNA — and Moderna",
-        "category": "biotech",
-        "summary": "In a Q&#38;A, Kenneth Chien, no longer with Moderna, predicts the company's mRNA cancer vaccine will be transformative for biotech.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/06/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_ryanModerna5biz-2-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/06/29/moderna-founder-kenneth-chien-on-cancer-vaccine-and-mrna-future/?utm_campaign=rss"
+        "title": "NextSTEP-3 A: Lunar Enabling Technology",
+        "category": "space",
+        "summary": "NASA issued a draft BAA under NextSTEP‑3, Appendix A, on June xx, 2026, to advance concepts that accelerate the technological readiness of critical systems for lunar surface and cislunar architecture.&#160; This…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/06/lunar-enabling-infrastructure-06292026.png",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/directorates/stmd/nextstep-3-a-lunar-enabling-technology/"
       },
       {
-        "id": "auto_2026-06-29T08-46_2",
+        "id": "auto_2026-06-29T15-22_2",
         "rank": 2,
+        "title": "Agent confidence on the technical frontier",
+        "category": "ai",
+        "summary": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mounts, executives and…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/Microsoft-Social-Card.png?resize=1200,600",
+        "source": "MIT Technology Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/"
+      },
+      {
+        "id": "auto_2026-06-29T15-22_3",
+        "rank": 3,
+        "title": "STAT+: Talawar bets bispecific approach can shake up eczema market",
+        "category": "biotech",
+        "summary": "Moderna still bullish on mRNA, Ipsen's acquisition of Kartos, and more biotech news from The Readout",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/02/AdobeStock_569992414-1024x576.jpeg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/06/29/biotech-news-talawar-bets-bispecific-approach-for-eczema/?utm_campaign=rss"
+      },
+      {
+        "id": "auto_2026-06-29T15-22_4",
+        "rank": 4,
         "title": "A year after US Steel was sold, communities push for clean investment",
         "category": "energy",
         "summary": "A year ago this month, Japan’s Nippon Steel acquired U.S. Steel, promising to plow $14 billion into America’s legendary but long-declining steel industry. The hard-fought deal was controversial and highly politicized .…",
@@ -24,34 +44,14 @@
         "sourceUrl": "https://www.canarymedia.com/articles/green-steel/year-after-us-steel-sold"
       },
       {
-        "id": "auto_2026-06-29T08-46_3",
-        "rank": 3,
+        "id": "auto_2026-06-29T15-22_5",
+        "rank": 5,
         "title": "Hearing Aids Linked to 23% Lower Dementia Risk in Epilepsy",
         "category": "neuroscience",
         "summary": "Hearing aid use is associated with a 23% lower risk of dementia exclusively in adults with both epilepsy and hearing loss, likely due to the critical preservation of depleted cognitive reserve.",
         "image": "https://neurosciencenews.com/files/2026/06/hearing-aid-dementia-epilepsy-neuroscience-1155x770.jpg",
         "source": "Neuroscience News",
         "sourceUrl": "https://neurosciencenews.com/hearing-aids-epilepsy-dementia-30956/"
-      },
-      {
-        "id": "auto_2026-06-29T08-46_4",
-        "rank": 4,
-        "title": "Rocket Lab launches 10th Synspective satellite",
-        "category": "space",
-        "summary": "Rocket Lab launched a radar-imaging satellite for Japanese company Synspective on June 26, a flight delayed by a responsive space mission. The post Rocket Lab launches 10th Synspective satellite appeared first on…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/electron-strix10.jpeg?fit=1024%2C556&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/rocket-lab-launches-10th-synspective-satellite/"
-      },
-      {
-        "id": "auto_2026-06-29T08-46_5",
-        "rank": 5,
-        "title": "Video Friday: Give Robots a Hand",
-        "category": "robotics",
-        "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us…",
-        "image": "https://spectrum.ieee.org/media-library/three-fingered-robotic-gripper-arm-crawls-upright-on-a-white-table.gif?id=67036633&width=980",
-        "source": "IEEE Spectrum",
-        "sourceUrl": "https://spectrum.ieee.org/video-friday-robot-grippers"
       }
     ]
   },
