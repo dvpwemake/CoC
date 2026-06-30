@@ -1,30 +1,30 @@
 [
   {
-    "batchId": "auto_2026-06-30T01-55",
-    "scannedAt": "2026-06-30T01:55:53.941Z",
+    "batchId": "auto_2026-06-30T07-40",
+    "scannedAt": "2026-06-30T07:40:01.072Z",
     "items": [
       {
-        "id": "auto_2026-06-30T01-55_1",
+        "id": "auto_2026-06-30T07-40_1",
         "rank": 1,
-        "title": "Study argues bigger launch vehicles may not always be better",
-        "category": "space",
-        "summary": "As SpaceX and others pursue the development of very large launch vehicles, a new study suggests that there may be such a thing as a rocket that is too large. The post Study argues bigger launch vehicles may not always…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/newglenn9x4.jpeg?fit=1024%2C646&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/study-argues-bigger-launch-vehicles-may-not-always-be-better/"
-      },
-      {
-        "id": "auto_2026-06-30T01-55_2",
-        "rank": 2,
-        "title": "STAT+: FDA’s top gene therapy regulator is leaving his role",
+        "title": "STAT+: Abivax seeks to ease safety concerns with new data, boosting shares",
         "category": "biotech",
-        "summary": "The departure of Vijay Kumar follows a broader leadership shakeup at the FDA.",
-        "image": "https://www.statnews.com/wp-content/uploads/2023/02/AP22353823659091-1024x576.jpg",
+        "summary": "Safety concerns tied to Abivax's experimental bowel disease drug tanked company shares just weeks ago. But a new analysis sent them climbing.",
+        "image": "https://www.statnews.com/wp-content/uploads/2024/05/Moderate_chronic_active_ulcerative_colitis_high_mag-1024x576.jpg",
         "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/06/29/vijay-kumar-exits-fda-office-of-therapeutic-products/?utm_campaign=rss"
+        "sourceUrl": "https://www.statnews.com/2026/06/30/abivax-obefazimod-ulcerative-colitis-maintenance-trial-safety-data/?utm_campaign=rss"
       },
       {
-        "id": "auto_2026-06-30T01-55_3",
+        "id": "auto_2026-06-30T07-40_2",
+        "rank": 2,
+        "title": "Northwest Earth and Space Science Pathways Project Celebrates Student Innovation Through ROADS from Earth to Venus National Challenge",
+        "category": "space",
+        "summary": "The Northwest Earth and Space Science Pathways (NESSP) project recently concluded its 2025–2026 ROADS (Rover Observation And Discoveries in Space) from Earth to Venus National Challenge, a NASA Science Activation…",
+        "image": "https://assets.science.nasa.gov/content/dam/science/cds/learn/science-activation-stories/2026/NESSP_e2v_photo_5-Darci_Snowden.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "source": "NASA",
+        "sourceUrl": "https://science.nasa.gov/learning-resources/science-activation/northwest-earth-and-space-science-pathways-project-celebrates-student-innovation-through-roads-from-earth-to-venus-national-challenge/"
+      },
+      {
+        "id": "auto_2026-06-30T07-40_3",
         "rank": 3,
         "title": "Viral Infection Found to Trigger Parkinson's Brain Damage",
         "category": "neuroscience",
@@ -34,7 +34,7 @@
         "sourceUrl": "https://neurosciencenews.com/viral-infection-model-parkinsons-disease-30964/"
       },
       {
-        "id": "auto_2026-06-30T01-55_4",
+        "id": "auto_2026-06-30T07-40_4",
         "rank": 4,
         "title": "AI agents are not your \"coworkers\"",
         "category": "ai",
@@ -44,7 +44,7 @@
         "sourceUrl": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/"
       },
       {
-        "id": "auto_2026-06-30T01-55_5",
+        "id": "auto_2026-06-30T07-40_5",
         "rank": 5,
         "title": "A year after US Steel was sold, communities push for clean investment",
         "category": "energy",
