@@ -1,31 +1,41 @@
 [
   {
-    "batchId": "auto_2026-06-30T10-45",
-    "scannedAt": "2026-06-30T10:45:54.987Z",
+    "batchId": "auto_2026-06-30T13-47",
+    "scannedAt": "2026-06-30T13:47:41.721Z",
     "items": [
       {
-        "id": "auto_2026-06-30T10-45_1",
+        "id": "auto_2026-06-30T13-47_1",
         "rank": 1,
-        "title": "Ames Science Stars of the Month July 2026",
-        "category": "space",
-        "summary": "NASA Ames Science Stars of the Month: July 2026 The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Sungshin Choi, Yi-Chun Chen, Emma Yates, Eduardo Bendek. Their…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/06/slide1.jpeg",
-        "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/general/ames-stars-of-the-month-july-2026/"
-      },
-      {
-        "id": "auto_2026-06-30T10-45_2",
-        "rank": 2,
-        "title": "Opinion: Short-sighted new student loan caps elevate chiropractic care over critical health care professions",
+        "title": "STAT+: Investors double down on Bain-backed startup",
         "category": "biotech",
-        "summary": "“This administrative logic is hopelessly out of touch with the empirical reality of American health care,” writes David S. Shapiro.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/06/GettyImages-813943998-1024x576.jpg",
+        "summary": "FDA's top gene therapy regulator steps down, Trump's plan to lower GLP-1 prices, and more biotech news",
+        "image": "https://www.statnews.com/wp-content/uploads/2023/04/AdobeStock_407048578-e1782826693724-1024x576.jpeg",
         "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/06/30/graduate-student-loan-caps-health-care-nursing-chiropractors/?utm_campaign=rss"
+        "sourceUrl": "https://www.statnews.com/2026/06/30/biotech-news-investors-double-down-on-bain-backed-capital/?utm_campaign=rss"
       },
       {
-        "id": "auto_2026-06-30T10-45_3",
+        "id": "auto_2026-06-30T13-47_2",
+        "rank": 2,
+        "title": "Vast names Isakowitz as a senior adviser",
+        "category": "space",
+        "summary": "Commercial space station developer Vast named the former president and chief executive of The Aerospace Corp. as an adviser while the company awaits the next phase of a NASA program. The post Vast names Isakowitz as a…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/haven1-integration.jpeg?fit=1024%2C683&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/vast-names-isakowitz-as-a-senior-adviser/"
+      },
+      {
+        "id": "auto_2026-06-30T13-47_3",
         "rank": 3,
+        "title": "Agriculture is ready for AI, but its data isn't",
+        "category": "ai",
+        "summary": "Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the groundwork.&#160; The use cases are promising, especially for an…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/Reltio-iStock-2279127589.jpg?resize=1200,600",
+        "source": "MIT Technology Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/"
+      },
+      {
+        "id": "auto_2026-06-30T13-47_4",
+        "rank": 4,
         "title": "Vermont is boosting new homes that can cut energy use in half",
         "category": "energy",
         "summary": "Vermont just got its biggest delivery of superefficient manufactured homes — the latest example of how a pioneering state program can lower energy bills for residents of this type of affordable housing. The…",
@@ -34,24 +44,14 @@
         "sourceUrl": "https://www.canarymedia.com/articles/energy-efficiency/vermont-cut-utility-bills-manufactured-homes"
       },
       {
-        "id": "auto_2026-06-30T10-45_4",
-        "rank": 4,
+        "id": "auto_2026-06-30T13-47_5",
+        "rank": 5,
         "title": "Viral Infection Found to Trigger Parkinson's Brain Damage",
         "category": "neuroscience",
         "summary": "A new study demonstrates that a non-toxic viral infection via TMEV triggers the exact dopaminergic neuron destruction and progressive gait degradation seen in human Parkinson's disease, establishing a vital new animal…",
         "image": "https://neurosciencenews.com/files/2026/06/viral-parkinsons-brain-neuroscienec-1155x770.jpg",
         "source": "Neuroscience News",
         "sourceUrl": "https://neurosciencenews.com/viral-infection-model-parkinsons-disease-30964/"
-      },
-      {
-        "id": "auto_2026-06-30T10-45_5",
-        "rank": 5,
-        "title": "AI agents are not your \"coworkers\"",
-        "category": "ai",
-        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine coming in to work to learn that a new underling will report to you. The…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/260625_AIAgents.jpg?resize=1200,600",
-        "source": "MIT Technology Review",
-        "sourceUrl": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/"
       }
     ]
   },
