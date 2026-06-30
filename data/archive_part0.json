@@ -1,40 +1,40 @@
 [
   {
-    "batchId": "auto_2026-06-30T17-44",
-    "scannedAt": "2026-06-30T17:44:21.014Z",
+    "batchId": "auto_2026-06-30T21-20",
+    "scannedAt": "2026-06-30T21:20:34.158Z",
     "items": [
       {
-        "id": "auto_2026-06-30T17-44_1",
+        "id": "auto_2026-06-30T21-20_1",
         "rank": 1,
-        "title": "Mice Use Strategic Infotaxis to Overcome Poor Vision",
+        "title": "Does Melatonin Help Reduce Chronic Pain?",
         "category": "neuroscience",
-        "summary": "Mice utilize visual infotaxis, moving strategically to maximize information gain, to identify partially occluded objects inside a custom virtual reality arena. This active sensing behavior scales continuously with…",
-        "image": "https://neurosciencenews.com/files/2026/06/mice-vision-neuroscience-1155x770.jpg",
+        "summary": "Melatonin can reduce chronic musculoskeletal pain by 9 to 10 points on a 100-point scale. This therapeutic relief matches the efficacy of opioids and NSAIDs while bypassing their severe risks of organ toxicity and…",
+        "image": "https://neurosciencenews.com/files/2026/06/melotonin-pain-neuroscience-1155x770.jpg",
         "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/visual-infotaxis-active-sensing-30966/"
+        "sourceUrl": "https://neurosciencenews.com/melatonin-chronic-pain-management-30973/"
       },
       {
-        "id": "auto_2026-06-30T17-44_2",
+        "id": "auto_2026-06-30T21-20_2",
         "rank": 2,
-        "title": "STAT+: Anthropic releases Claude Science, a product aimed at researchers, the pharma industry",
-        "category": "biotech",
-        "summary": "Anthropic released Claude Science, an application that optimizes its large language model for scientists and, especially, those doing research at pharma companies.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/06/GettyImages-2280225436-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/06/30/anthropic-release-claude-science-ceo-dario-amodei/?utm_campaign=rss"
-      },
-      {
-        "id": "auto_2026-06-30T17-44_3",
-        "rank": 3,
-        "title": "Vast names Isakowitz as a senior adviser",
+        "title": "NASA’s Chandra Reveals ‘Red, White, Blue’ Universe for US 250th",
         "category": "space",
-        "summary": "Commercial space station developer Vast named the former president and chief executive of The Aerospace Corp. as an adviser while the company awaits the next phase of a NASA program. The post Vast names Isakowitz as a…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/haven1-integration.jpeg?fit=1024%2C683&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/vast-names-isakowitz-as-a-senior-adviser/"
+        "summary": "In celebration of the 250th birthday of the United States, NASA has unveiled four cosmic images from its Chandra X-ray Observatory rendered in red, white, and blue that represent the wonders of the universe the agency…",
+        "image": "https://assets.science.nasa.gov/content/dam/science/missions/chandra/2026/250th_ngc3603.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "source": "NASA",
+        "sourceUrl": "https://science.nasa.gov/missions/chandra/nasas-chandra-reveals-red-white-blue-universe-for-us-250th/"
       },
       {
-        "id": "auto_2026-06-30T17-44_4",
+        "id": "auto_2026-06-30T21-20_3",
+        "rank": 3,
+        "title": "Republican Tom Kean Jr. reveals depression diagnosis after his four-month absence from Congress",
+        "category": "biotech",
+        "summary": "Depression, the New Jersey congressman said, “is physical, it is emotional, and until you experience it yourself, it is difficult to fully understand how powerful this illness can be.”",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/06/AP26181659823884-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/06/30/republican-tom-kean-jr-reveals-depression-after-absence-from-congress/?utm_campaign=rss"
+      },
+      {
+        "id": "auto_2026-06-30T21-20_4",
         "rank": 4,
         "title": "Agriculture is ready for AI, but its data isn't",
         "category": "ai",
@@ -44,7 +44,7 @@
         "sourceUrl": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/"
       },
       {
-        "id": "auto_2026-06-30T17-44_5",
+        "id": "auto_2026-06-30T21-20_5",
         "rank": 5,
         "title": "Vermont is boosting new homes that can cut energy use in half",
         "category": "energy",
