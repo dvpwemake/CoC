@@ -1,5 +1,61 @@
 [
   {
+    "batchId": "auto_2026-07-01T02-01",
+    "scannedAt": "2026-07-01T02:01:23.850Z",
+    "items": [
+      {
+        "id": "auto_2026-07-01T02-01_1",
+        "rank": 1,
+        "title": "NASA awards nearly $600 million in lunar lander missions",
+        "category": "space",
+        "summary": "NASA selected three companies to fly four lunar lander missions worth nearly $600 million as part of its lunar base ambitions, as it weighs also launching a spare Mars rover. The post NASA awards nearly $600 million in…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/landers-june2026.jpeg?fit=1024%2C576&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/nasa-awards-nearly-600-million-in-lunar-lander-missions/"
+      },
+      {
+        "id": "auto_2026-07-01T02-01_2",
+        "rank": 2,
+        "title": "STAT+: AI company Anthropic announces it will begin developing drugs of its own",
+        "category": "biotech",
+        "summary": "AI giant Anthropic has already become a dominant player in technology and a household name for everyday users of artificial intelligence. Can it make drugs too?",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/06/STAT-Summit-West-01665-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/06/30/anthropic-ai-drug-development/?utm_campaign=rss"
+      },
+      {
+        "id": "auto_2026-07-01T02-01_3",
+        "rank": 3,
+        "title": "Hand Dominance Is Driven by Practice, Not Birth",
+        "category": "neuroscience",
+        "summary": "The skill gap between our dominant and non-dominant hands is not innate, but rather an emergent consequence of a lifetime of asymmetrical practice that manifests exclusively during tool use.",
+        "image": "https://neurosciencenews.com/files/2026/06/hand-dominance-tool-use-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/tool-use-handedness-emergent-dominance-30969/"
+      },
+      {
+        "id": "auto_2026-07-01T02-01_4",
+        "rank": 4,
+        "title": "Claude Science is Anthropic’s newest flagship product",
+        "category": "ai",
+        "summary": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/claude-science3a.jpg?resize=1200,600",
+        "source": "MIT Technology Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/"
+      },
+      {
+        "id": "auto_2026-07-01T02-01_5",
+        "rank": 5,
+        "title": "Vermont is boosting new homes that can cut energy use in half",
+        "category": "energy",
+        "summary": "Vermont just got its biggest delivery of superefficient manufactured homes — the latest example of how a pioneering state program can lower energy bills for residents of this type of affordable housing. The…",
+        "image": "https://img.canarymedia.com/content/uploads/evt-advanced-manufactured-homes-0020-6000x4000.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=f3f3fff23338d0c5ef5d20fba24646e0",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/energy-efficiency/vermont-cut-utility-bills-manufactured-homes"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-06-30T21-20",
     "scannedAt": "2026-06-30T21:20:34.158Z",
     "items": [
@@ -213,62 +269,6 @@
       },
       {
         "id": "auto_2026-06-27T20-45_5",
-        "rank": 5,
-        "title": "Video Friday: Give Robots a Hand",
-        "category": "robotics",
-        "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us…",
-        "image": "https://spectrum.ieee.org/media-library/three-fingered-robotic-gripper-arm-crawls-upright-on-a-white-table.gif?id=67036633&width=980",
-        "source": "IEEE Spectrum",
-        "sourceUrl": "https://spectrum.ieee.org/video-friday-robot-grippers"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-06-26T21-10",
-    "scannedAt": "2026-06-26T21:10:46.383Z",
-    "items": [
-      {
-        "id": "auto_2026-06-26T21-10_1",
-        "rank": 1,
-        "title": "NASA Announces Winners for 2026 Human Lander Challenge",
-        "category": "space",
-        "summary": "NASA has announced the top student-developed solutions for environmental control and life support systems in future crewed lunar landers from participants in the 2026 Human Lander Challenge. The announcement marks the…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/06/ceb-6192.jpg",
-        "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-announces-winners-for-2026-human-lander-challenge/"
-      },
-      {
-        "id": "auto_2026-06-26T21-10_2",
-        "rank": 2,
-        "title": "Dual Brain-Machine Interfaces Unlock Bionic Hand Kinesthesia",
-        "category": "neuroscience",
-        "summary": "A new study combining data from two distinct brain-machine interfaces has revealed that the human brain processes artificial movement sensations as coordinated, subconscious hand synergies rather than isolated muscle…",
-        "image": "https://neurosciencenews.com/files/2026/06/bionic-arm-movement-bmi-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/prosthetic-kinesthesia-brain-machine-interface-30954/"
-      },
-      {
-        "id": "auto_2026-06-26T21-10_3",
-        "rank": 3,
-        "title": "These states are the best for EV buyers and drivers",
-        "category": "energy",
-        "summary": "America’s EV industry has suffered a series of bad breaks over the last year and a half. The end of federal tax credits for electric vehicles sent sales of new EVs off a cliff last fall. A nationwide buildout of…",
-        "image": "https://img.canarymedia.com/content/uploads/GettyImages-2269134706.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=7598837099e3c9f365da521da01718f1",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/electric-vehicles/these-states-are-the-best-for-ev-buyers-and-drivers"
-      },
-      {
-        "id": "auto_2026-06-26T21-10_4",
-        "rank": 4,
-        "title": "BIO 2026: AI, federal policy impacts, and general vibes",
-        "category": "biotech",
-        "summary": "What were the vibes like at BIO 2026? STAT reporters take you inside the annual industry conference on the latest episode of STATus Report.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/06/SR_41_STILL-2-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/06/26/bio-2026-san-diego-key-takeaways-status-report-alex-hogan/?utm_campaign=rss"
-      },
-      {
-        "id": "auto_2026-06-26T21-10_5",
         "rank": 5,
         "title": "Video Friday: Give Robots a Hand",
         "category": "robotics",

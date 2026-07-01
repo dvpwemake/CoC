@@ -1,5 +1,61 @@
 [
   {
+    "batchId": "auto_2026-07-01T02-01",
+    "scannedAt": "2026-07-01T02:01:23.850Z",
+    "items": [
+      {
+        "id": "auto_2026-07-01T02-01_1",
+        "rank": 1,
+        "title": "NASA awards nearly $600 million in lunar lander missions",
+        "category": "space",
+        "summary": "NASA selected three companies to fly four lunar lander missions worth nearly $600 million as part of its lunar base ambitions, as it weighs also launching a spare Mars rover. The post NASA awards nearly $600 million in…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/landers-june2026.jpeg?fit=1024%2C576&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/nasa-awards-nearly-600-million-in-lunar-lander-missions/"
+      },
+      {
+        "id": "auto_2026-07-01T02-01_2",
+        "rank": 2,
+        "title": "STAT+: AI company Anthropic announces it will begin developing drugs of its own",
+        "category": "biotech",
+        "summary": "AI giant Anthropic has already become a dominant player in technology and a household name for everyday users of artificial intelligence. Can it make drugs too?",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/06/STAT-Summit-West-01665-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/06/30/anthropic-ai-drug-development/?utm_campaign=rss"
+      },
+      {
+        "id": "auto_2026-07-01T02-01_3",
+        "rank": 3,
+        "title": "Hand Dominance Is Driven by Practice, Not Birth",
+        "category": "neuroscience",
+        "summary": "The skill gap between our dominant and non-dominant hands is not innate, but rather an emergent consequence of a lifetime of asymmetrical practice that manifests exclusively during tool use.",
+        "image": "https://neurosciencenews.com/files/2026/06/hand-dominance-tool-use-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/tool-use-handedness-emergent-dominance-30969/"
+      },
+      {
+        "id": "auto_2026-07-01T02-01_4",
+        "rank": 4,
+        "title": "Claude Science is Anthropic’s newest flagship product",
+        "category": "ai",
+        "summary": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/claude-science3a.jpg?resize=1200,600",
+        "source": "MIT Technology Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/"
+      },
+      {
+        "id": "auto_2026-07-01T02-01_5",
+        "rank": 5,
+        "title": "Vermont is boosting new homes that can cut energy use in half",
+        "category": "energy",
+        "summary": "Vermont just got its biggest delivery of superefficient manufactured homes — the latest example of how a pioneering state program can lower energy bills for residents of this type of affordable housing. The…",
+        "image": "https://img.canarymedia.com/content/uploads/evt-advanced-manufactured-homes-0020-6000x4000.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=f3f3fff23338d0c5ef5d20fba24646e0",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/energy-efficiency/vermont-cut-utility-bills-manufactured-homes"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-06-30T21-20",
     "scannedAt": "2026-06-30T21:20:34.158Z",
     "items": [
