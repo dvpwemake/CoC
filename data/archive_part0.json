@@ -1,21 +1,11 @@
 [
   {
-    "batchId": "auto_2026-07-01T02-01",
-    "scannedAt": "2026-07-01T02:01:23.850Z",
+    "batchId": "auto_2026-07-01T08-00",
+    "scannedAt": "2026-07-01T08:00:18.990Z",
     "items": [
       {
-        "id": "auto_2026-07-01T02-01_1",
+        "id": "auto_2026-07-01T08-00_1",
         "rank": 1,
-        "title": "NASA awards nearly $600 million in lunar lander missions",
-        "category": "space",
-        "summary": "NASA selected three companies to fly four lunar lander missions worth nearly $600 million as part of its lunar base ambitions, as it weighs also launching a spare Mars rover. The post NASA awards nearly $600 million in…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/landers-june2026.jpeg?fit=1024%2C576&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/nasa-awards-nearly-600-million-in-lunar-lander-missions/"
-      },
-      {
-        "id": "auto_2026-07-01T02-01_2",
-        "rank": 2,
         "title": "STAT+: AI company Anthropic announces it will begin developing drugs of its own",
         "category": "biotech",
         "summary": "AI giant Anthropic has already become a dominant player in technology and a household name for everyday users of artificial intelligence. Can it make drugs too?",
@@ -24,8 +14,8 @@
         "sourceUrl": "https://www.statnews.com/2026/06/30/anthropic-ai-drug-development/?utm_campaign=rss"
       },
       {
-        "id": "auto_2026-07-01T02-01_3",
-        "rank": 3,
+        "id": "auto_2026-07-01T08-00_2",
+        "rank": 2,
         "title": "Hand Dominance Is Driven by Practice, Not Birth",
         "category": "neuroscience",
         "summary": "The skill gap between our dominant and non-dominant hands is not innate, but rather an emergent consequence of a lifetime of asymmetrical practice that manifests exclusively during tool use.",
@@ -34,8 +24,8 @@
         "sourceUrl": "https://neurosciencenews.com/tool-use-handedness-emergent-dominance-30969/"
       },
       {
-        "id": "auto_2026-07-01T02-01_4",
-        "rank": 4,
+        "id": "auto_2026-07-01T08-00_3",
+        "rank": 3,
         "title": "Claude Science is Anthropic’s newest flagship product",
         "category": "ai",
         "summary": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code…",
@@ -44,7 +34,17 @@
         "sourceUrl": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/"
       },
       {
-        "id": "auto_2026-07-01T02-01_5",
+        "id": "auto_2026-07-01T08-00_4",
+        "rank": 4,
+        "title": "NASA’s Chandra Reveals ‘Red, White, Blue’ Universe for US 250th",
+        "category": "space",
+        "summary": "In celebration of the 250th birthday of the United States, NASA has unveiled four cosmic images from its Chandra X-ray Observatory rendered in red, white, and blue that represent the wonders of the universe the agency…",
+        "image": "https://assets.science.nasa.gov/content/dam/science/missions/chandra/2026/250th_ngc3603.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "source": "NASA",
+        "sourceUrl": "https://science.nasa.gov/missions/chandra/nasas-chandra-reveals-red-white-blue-universe-for-us-250th/"
+      },
+      {
+        "id": "auto_2026-07-01T08-00_5",
         "rank": 5,
         "title": "Vermont is boosting new homes that can cut energy use in half",
         "category": "energy",
