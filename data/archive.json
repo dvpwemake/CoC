@@ -1,57 +1,57 @@
 [
   {
-    "batchId": "auto_2026-07-02T13-23",
-    "scannedAt": "2026-07-02T13:23:17.038Z",
+    "batchId": "auto_2026-07-02T17-22",
+    "scannedAt": "2026-07-02T17:22:27.131Z",
     "items": [
       {
-        "id": "auto_2026-07-02T13-23_1",
+        "id": "auto_2026-07-02T17-22_1",
         "rank": 1,
-        "title": "STAT+: U.S. judge blocks Colorado's first-of-its-kind price cap on an Amgen drug",
-        "category": "biotech",
-        "summary": "A federal judge blocked a Colorado state panel from placing a cap on the price of Enbrel, a blockbuster drug sold by Amgen",
-        "image": "https://www.statnews.com/wp-content/uploads/2016/05/Amgen-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/pharmalot/2026/07/02/judge-blocks-colorado-price-cap-on-amgen-enbrel/?utm_campaign=rss"
-      },
-      {
-        "id": "auto_2026-07-02T13-23_2",
-        "rank": 2,
-        "title": "Teaching AI to run with the turbines",
-        "category": "ai",
-        "summary": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In industries where…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/Andrew-Melouney.png?resize=1200,600",
-        "source": "MIT Technology Review",
-        "sourceUrl": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/"
-      },
-      {
-        "id": "auto_2026-07-02T13-23_3",
-        "rank": 3,
-        "title": "Electric trucks look a lot more appealing when gas prices are sky-high",
-        "category": "energy",
-        "summary": "Electric cargo trucks have been getting more cost-competitive for years. But the fuel price spike triggered by the Iran war has made it clear just how much cheaper it can be to move freight with trucks that run on…",
-        "image": "https://img.canarymedia.com/content/uploads/Workhorse-van-driving-past-office-building.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=4d641ea5b411a79f45985822fdcaaa5c",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/electric-vehicles/electric-trucks-look-a-lot-more-appealing-when-gas-prices-are-sky-high"
-      },
-      {
-        "id": "auto_2026-07-02T13-23_4",
-        "rank": 4,
-        "title": "What’s Up: July 2026 Skywatching Tips from NASA",
-        "category": "space",
-        "summary": "A predawn Moon-and-planets meetup, a returning comet, a great chance to see the Milky Way, and Saturn’s rings at a new angle. Skywatching Highlights Transcript An early morning hangout with the Moon and planets, a comet…",
-        "image": "https://assets.science.nasa.gov/content/dam/science/cds/ciencia/ciencias-terrestres/2026/Milky%20Way_Bill%20Dunford.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
-        "source": "NASA",
-        "sourceUrl": "https://science.nasa.gov/solar-system/whats-up-july-2026-skywatching-tips-from-nasa/"
-      },
-      {
-        "id": "auto_2026-07-02T13-23_5",
-        "rank": 5,
-        "title": "Study Supports and Expands the Primate Brain Lag Hypothesis",
+        "title": "AI Writing Strips Mystery and Complexity From Stories",
         "category": "neuroscience",
-        "summary": "A new study utilizes molecular genetic timelines to validate the \"brain lag\" hypothesis, proving that primate body growth preceded brain expansion. The analysis expands the theory by demonstrating that hominin brains…",
-        "image": "https://neurosciencenews.com/files/2026/07/brain-lag-evolutionary-neuroscience-1155x770.jpg",
+        "summary": "A new study introducing the CASPER framework reveals that AI writing models consistently strip away narrative mystery, relying on safe archetypes and tidy resolutions, proving that scaling up model sizes fails to…",
+        "image": "https://neurosciencenews.com/files/2026/07/ai-writing-creativity-neurosceince-1155x770.jpg",
         "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/brain-lag-evolutionary-30977/"
+        "sourceUrl": "https://neurosciencenews.com/ai-writing-mystery-complexity-creativity-30978/"
+      },
+      {
+        "id": "auto_2026-07-02T17-22_2",
+        "rank": 2,
+        "title": "STAT+: What does DeGette’s loss mean for pharma?",
+        "category": "biotech",
+        "summary": "Colorado Democratic Rep. Diana DeGette, who lost her primary, was knowledgeable about biopharma, if not always a friend to the industry.",
+        "image": "https://www.statnews.com/wp-content/uploads/2024/06/AP22175559740733-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/07/02/degette-loses-to-kiros-pharma-presidential-fitness-test-dc-diagnosis/?utm_campaign=rss"
+      },
+      {
+        "id": "auto_2026-07-02T17-22_3",
+        "rank": 3,
+        "title": "Achieving operational excellence with AI",
+        "category": "ai",
+        "summary": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, sprawling operations. Lean Six Sigma…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/MITTR2026_TP2_1200SocialCover.png?resize=1200,600",
+        "source": "MIT Technology Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/"
+      },
+      {
+        "id": "auto_2026-07-02T17-22_4",
+        "rank": 4,
+        "title": "Major energy-affordability bill passes Massachusetts Senate",
+        "category": "energy",
+        "summary": "The Massachusetts Senate yesterday passed a sweeping energy-affordability bill that aims to save residents $14 billion over 10 years in a state that has some of the country’s highest utility costs. The legislation…",
+        "image": "https://img.canarymedia.com/content/uploads/GettyImages-2191570203.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=bd3d05ce226c2943ceabe2e64ef1265d",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/policy-regulation/massachusetts-senate-passes-energy-affordability-bill"
+      },
+      {
+        "id": "auto_2026-07-02T17-22_5",
+        "rank": 5,
+        "title": "Making satellite communications more resilient",
+        "category": "space",
+        "summary": "In this episode of Space Minds, Mike Gruss talks with Kymeta’s Ryan Stevenson. They discuss the benefits and challenges of multi-orbit and multi-band connectivity in a single terminal. About Space […] The post Making…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/space-minds-podcast-kymeta-2000-1500.jpg?fit=1024%2C768&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/making-satellite-communications-more-resilient/"
       }
     ]
   },
