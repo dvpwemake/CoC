@@ -1,21 +1,11 @@
 [
   {
-    "batchId": "auto_2026-07-02T01-55",
-    "scannedAt": "2026-07-02T01:55:16.803Z",
+    "batchId": "auto_2026-07-02T06-57",
+    "scannedAt": "2026-07-02T06:57:28.665Z",
     "items": [
       {
-        "id": "auto_2026-07-02T01-55_1",
+        "id": "auto_2026-07-02T06-57_1",
         "rank": 1,
-        "title": "What’s Up: July 2026 Skywatching Tips from NASA",
-        "category": "space",
-        "summary": "A predawn Moon-and-planets meetup, a returning comet, a great chance to see the Milky Way, and Saturn’s rings at a new angle. Skywatching Highlights Transcript An early morning hangout with the Moon and planets, a comet…",
-        "image": "https://assets.science.nasa.gov/content/dam/science/cds/ciencia/ciencias-terrestres/2026/Milky%20Way_Bill%20Dunford.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
-        "source": "NASA",
-        "sourceUrl": "https://science.nasa.gov/solar-system/whats-up-july-2026-skywatching-tips-from-nasa/"
-      },
-      {
-        "id": "auto_2026-07-02T01-55_2",
-        "rank": 2,
         "title": "Study Supports and Expands the Primate Brain Lag Hypothesis",
         "category": "neuroscience",
         "summary": "A new study utilizes molecular genetic timelines to validate the \"brain lag\" hypothesis, proving that primate body growth preceded brain expansion. The analysis expands the theory by demonstrating that hominin brains…",
@@ -24,8 +14,8 @@
         "sourceUrl": "https://neurosciencenews.com/brain-lag-evolutionary-30977/"
       },
       {
-        "id": "auto_2026-07-02T01-55_3",
-        "rank": 3,
+        "id": "auto_2026-07-02T06-57_2",
+        "rank": 2,
         "title": "Statins and blood pressure drugs changing health risks of obesity, study suggests",
         "category": "biotech",
         "summary": "New research shows obesity patients over 40 are managing blood pressure and cholesterol as well as healthy-weight peers, but younger adults remain at risk.",
@@ -34,7 +24,17 @@
         "sourceUrl": "https://www.statnews.com/2026/07/01/lancet-obesity-blood-pressure-cholesterol-study/?utm_campaign=rss"
       },
       {
-        "id": "auto_2026-07-02T01-55_4",
+        "id": "auto_2026-07-02T06-57_3",
+        "rank": 3,
+        "title": "Report links Starliner problems to overconfidence and unrealistic schedules",
+        "category": "space",
+        "summary": "A new report links the long-running technical problems with Boeing’s CST-100 Starliner commercial crew vehicle to a combination of overconfidence, unrealistic schedules and NASA’s lack of insight into the vehicle. The…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/02/53988402529_bec93e5a26_k.jpg?fit=1024%2C683&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/report-links-starliner-problems-to-overconfidence-and-unrealistic-schedules/"
+      },
+      {
+        "id": "auto_2026-07-02T06-57_4",
         "rank": 4,
         "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
         "category": "ai",
@@ -44,7 +44,7 @@
         "sourceUrl": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/"
       },
       {
-        "id": "auto_2026-07-02T01-55_5",
+        "id": "auto_2026-07-02T06-57_5",
         "rank": 5,
         "title": "Martha’s Vineyard solar array will cut bills for low-income islanders",
         "category": "energy",
