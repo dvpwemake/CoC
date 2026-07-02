@@ -1,5 +1,61 @@
 [
   {
+    "scannedAt": "2026-06-10T22:55:32.976Z",
+    "items": [
+      {
+        "id": "b1781132132976_1",
+        "rank": 1,
+        "title": "Nanoscale Gold Metamaterials Supercharge Heat Transfer by 400%",
+        "category": "energy",
+        "summary": "Scientists used nanoscale gold metamaterials to supercharge heat transfer across tiny gaps, achieving up to four times more energy flow than similar conventional systems. The breakthrough could lead to better chip cooling, more efficient energy technologies, and a new era of precision heat management for data centers and electronics.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com",
+        "image": "https://www.sciencedaily.com/images/scidaily-icon.png"
+      },
+      {
+        "id": "b1781132132976_2",
+        "rank": 2,
+        "title": "Tufts AI System Cuts Energy Consumption by 100x While Boosting Performance",
+        "category": "ai",
+        "summary": "Researchers at Tufts University developed a neuro-symbolic AI system that combines neural networks with human-like symbolic reasoning, slashing energy consumption by up to 100 times compared to conventional approaches while dramatically improving performance. In robotic task tests using the Tower of Hanoi puzzle, the hybrid system achieved a 95% success rate versus 34% for standard models and trained in just 34 minutes versus more than a day and a half for traditional systems.",
+        "source": "Crescendo AI",
+        "sourceUrl": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+        "image": "https://cdn.prod.website-files.com/67166bf779ba8852260f7d1f/694a731a76c9d6876ddf8a8f_latest-ai-news-and-updates.png"
+      },
+      {
+        "id": "b1781132132976_3",
+        "rank": 3,
+        "title": "Scientists Discover New Alzheimer's Target and Experimental Drug",
+        "category": "neuroscience",
+        "summary": "Researchers have identified a new Alzheimer's target and created an experimental compound that blocks a damaging process inside brain cells. In mice, the treatment slowed nerve cell loss, reduced Alzheimer's-related changes, and even appeared to reverse some symptoms in preclinical trials.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com",
+        "image": "https://www.sciencedaily.com/images/scidaily-icon.png"
+      },
+      {
+        "id": "b1781132132976_4",
+        "rank": 4,
+        "title": "Breakthrough Hydrogen Production Method Uses Waste Heat",
+        "category": "energy",
+        "summary": "A breakthrough hydrogen-production method could make clean fuel far cheaper and easier to generate. Researchers at the University of Birmingham developed a perovskite-based catalyst that splits water into hydrogen at much lower temperatures than existing technologies, potentially allowing factories, steel plants, cement works, and renewable energy sites to turn waste heat into valuable hydrogen fuel.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com",
+        "image": "https://www.sciencedaily.com/images/scidaily-icon.png"
+      },
+      {
+        "id": "b1781132132976_5",
+        "rank": 5,
+        "title": "First Computer-Designed Vaccine Enters Human Clinical Trials",
+        "category": "biotech",
+        "summary": "Researchers at the University of Cambridge and DIOSynVax report the first human clinical trial of a vaccine whose active component was designed entirely by computer simulations. This represents a major milestone in computational drug design and could accelerate vaccine development for future pandemics.",
+        "source": "Wikipedia - 2026 in Science",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2026_in_science",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Artemis_2_Crew_Portrait.jpg/960px-Artemis_2_Crew_Portrait.jpg"
+      }
+    ],
+    "batchId": "b1781132132976"
+  },
+  {
     "scannedAt": "2026-06-09T22:45:14.405Z",
     "items": [
       {
@@ -222,61 +278,5 @@
       }
     ],
     "batchId": "b1780784035810"
-  },
-  {
-    "scannedAt": "2026-06-05T22:22:55.371Z",
-    "items": [
-      {
-        "id": "b1780698175371_1",
-        "rank": 1,
-        "title": "AI-Designed Universal Coronavirus Vaccine Passes First Human Trial",
-        "category": "biotech",
-        "summary": "Scientists at the University of Cambridge have successfully tested an AI-designed universal coronavirus vaccine in humans for the first time, finding it to be safe and well tolerated. The vaccine generated immune responses against multiple coronaviruses, including SARS-CoV-2, SARS, and related bat viruses with pandemic potential. By targeting features shared across an entire virus family, it aims to provide protection even as viruses evolve, administered needle-free through a micro fluid jet delivery system.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260605023357.htm",
-        "image": "https://www.sciencedaily.com/images/1920/clinical-trial-volunteer-receiving-new-universal-vaccine.webp"
-      },
-      {
-        "id": "b1780698175371_2",
-        "rank": 2,
-        "title": "Giant Fire Tornadoes Could Clean Up Oil Spills with 95% Efficiency",
-        "category": "energy",
-        "summary": "Texas A&M University researchers have demonstrated that controlled fire whirls can clean up oil spills faster and more cleanly than traditional burning methods. The spinning flames consumed up to 95% of the oil while cutting soot emissions by 40%, potentially revolutionizing marine oil spill response. This breakthrough could help prevent spills from reaching sensitive marine habitats while dramatically reducing environmental pollution from cleanup operations.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260605023420.htm",
-        "image": "https://www.sciencedaily.com/images/1920/fire-tornado-oil-spill.webp"
-      },
-      {
-        "id": "b1780698175371_3",
-        "rank": 3,
-        "title": "Hidden Supermassive Black Hole Pairs May Finally Have Visible Signal",
-        "category": "space",
-        "summary": "Scientists from the University of Oxford and Max Planck Institute have proposed a groundbreaking method for finding tightly bound supermassive black hole pairs by searching for stars that flash repeatedly as their light is magnified by the black holes' gravity. The timing and brightness of these gravitational lensing bursts could provide a unique fingerprint of black holes slowly spiraling toward future collisions, solving one of astronomy's most challenging detection problems.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260605023418.htm",
-        "image": "https://www.sciencedaily.com/images/1920/gravitationally-lensed-starlight-by-supermassive-black-hole-binary.webp"
-      },
-      {
-        "id": "b1780698175371_4",
-        "rank": 4,
-        "title": "Quantum Complexity Discovered in Common Metal Cobalt",
-        "category": "ai",
-        "summary": "Scientists have uncovered unexpected quantum complexity inside cobalt, a metal long thought to be fully understood. Advanced measurements revealed a dense network of topological electronic states that remain robust at room temperature. These quantum states could enable new applications in quantum computing and spintronics, potentially transforming how we build quantum devices that operate without extreme cooling requirements.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260605023355.htm",
-        "image": "https://www.sciencedaily.com/images/1920/visualization-of-gas-flows-around-binary-protostar-system.webp"
-      },
-      {
-        "id": "b1780698175371_5",
-        "rank": 5,
-        "title": "Largest Collagen Study Reveals What Actually Works for Skin Health",
-        "category": "biotech",
-        "summary": "The most comprehensive collagen study ever conducted, analyzing nearly 8,000 participants, found clear evidence that collagen supplements improve skin health and ease osteoarthritis symptoms, especially when taken consistently over longer periods. Researchers also found modest benefits for muscle and tendon health. However, the study challenges claims about athletic performance enhancement, showing little effect on recovery or post-workout soreness, providing definitive guidance on collagen supplementation efficacy.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260604044302.htm",
-        "image": "https://www.sciencedaily.com/images/1920/smiling-woman-taking-collagen-supplement-pill.webp"
-      }
-    ],
-    "batchId": "b1780698175371"
   }
 ]
