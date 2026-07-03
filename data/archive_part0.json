@@ -1,11 +1,21 @@
 [
   {
-    "batchId": "auto_2026-07-03T06-52",
-    "scannedAt": "2026-07-03T06:52:09.583Z",
+    "batchId": "auto_2026-07-03T10-23",
+    "scannedAt": "2026-07-03T10:23:04.377Z",
     "items": [
       {
-        "id": "auto_2026-07-03T06-52_1",
+        "id": "auto_2026-07-03T10-23_1",
         "rank": 1,
+        "title": "Data centers use more power in the US than in any other country",
+        "category": "energy",
+        "summary": "This article is part of our ​“Chart of the Week” series . Data centers use more electricity in the U.S. than in any other country — China included. In 2025, nearly 40% of all power demand from data centers came from…",
+        "image": "https://img.canarymedia.com/content/uploads/COTW-Data-centers.png?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=80&w=1200&s=6ab88e95914464011c02c651929f39c5",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/data-centers/data-centers-use-more-power-in-the-us-than-anywhere-else"
+      },
+      {
+        "id": "auto_2026-07-03T10-23_2",
+        "rank": 2,
         "title": "Social Media Recalibrates How the Brain Values Mental Effort",
         "category": "neuroscience",
         "summary": "Digital media does not destroy raw cognitive capacity, but rather recalibrates our value-based decision systems. By saturating the mind with effortless, instant algorithmic rewards, digital platforms subjectively…",
@@ -14,8 +24,8 @@
         "sourceUrl": "https://neurosciencenews.com/effort-recalibration-digital-media-cognition-30985/"
       },
       {
-        "id": "auto_2026-07-03T06-52_2",
-        "rank": 2,
+        "id": "auto_2026-07-03T10-23_3",
+        "rank": 3,
         "title": "STAT+: Medicare takes another swing at 340B cuts to hospitals",
         "category": "biotech",
         "summary": "Reducing Medicare payments for 340B drugs is the latest proposal focused on the hotly debated drug discount program.",
@@ -24,27 +34,17 @@
         "sourceUrl": "https://www.statnews.com/2026/07/02/medicare-hospital-payment-340b-drugs-cut/?utm_campaign=rss"
       },
       {
-        "id": "auto_2026-07-03T06-52_3",
-        "rank": 3,
-        "title": "NASA’s Artemis II Breaks Agency Streaming Record",
-        "category": "space",
-        "summary": "NASA’s live coverage of the Artemis II mission mission&#160;drew unprecedented&#160;public&#160;interest&#160;– including&#160;more than&#160;149.4&#160;million views&#160;of&#160;the launch, lunar flyby,…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/04/55193772552-b8cfb47b7e-o.jpg",
-        "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/general/nasas-artemis-ii-breaks-agency-streaming-record/"
-      },
-      {
-        "id": "auto_2026-07-03T06-52_4",
+        "id": "auto_2026-07-03T10-23_4",
         "rank": 4,
-        "title": "Trump's ‘big, beautiful’ law was supposed to kill clean energy. It didn't.",
-        "category": "energy",
-        "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter. Sign up to get it every Friday. One year ago, President Donald Trump got his Fourth-of-July wish. Republicans rammed a massive tax and…",
-        "image": "https://img.canarymedia.com/content/uploads/GettyImages-2222880692.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=1d94a7e45d1cfc35364ef105103ba083",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/clean-energy/trumps-big-beautiful-law-was-supposed-to-kill-clean-energy-it-didnt"
+        "title": "Perovskite solar panel startup Verde Technologies shifts focus to space",
+        "category": "space",
+        "summary": "Verde Technologies is turning to space to commercialize perovskite-based solar panels, shifting its initial focus away from rooftops in a bet that the thin-film material can help power orbital data centers and other…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/RTR-perovskite-manufaturing-scaled.jpeg?fit=1024%2C768&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/perovskite-solar-panel-startup-verde-technologies-shifts-focus-to-space/"
       },
       {
-        "id": "auto_2026-07-03T06-52_5",
+        "id": "auto_2026-07-03T10-23_5",
         "rank": 5,
         "title": "Achieving operational excellence with AI",
         "category": "ai",
