@@ -1,5 +1,61 @@
 [
   {
+    "scannedAt": "2026-06-11T22:54:37.365Z",
+    "items": [
+      {
+        "id": "b1781218477364_1",
+        "rank": 1,
+        "title": "Scientists Discover Hidden Cause of Aging Cells That Can Be Reversed",
+        "category": "biotech",
+        "summary": "Researchers discovered that declining levels of phosphatidylcholine may be a major cause of age-related mitochondrial dysfunction and loss of cellular energy. Remarkably, boosting this nutrient restored more youthful mitochondrial performance in aging organisms, suggesting some aspects of aging can be slowed or reversed. This breakthrough from the Leibniz Institute on Aging offers hope for developing treatments to slow cellular aging processes.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260610003119.htm",
+        "image": "https://www.sciencedaily.com/images/1920/glowing-mitochondria-cell-biology.webp"
+      },
+      {
+        "id": "b1781218477364_2",
+        "rank": 2,
+        "title": "Battery-Free Device Turns Sunlight Into Fuel Using Self-Regulating System",
+        "category": "energy",
+        "summary": "Scientists have developed an artificial photosynthesis system that essentially regulates itself, eliminating the need for batteries used in many current designs. The key innovation is an electrolyzer that automatically adapts to changing sunlight by altering its electrical properties as it heats up. This keeps solar fuel production more stable while reducing cost and complexity. The system produces formic acid from carbon dioxide and water.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260611024601.htm",
+        "image": "https://www.sciencedaily.com/images/1920/artificial-photosynthesis-electrochemical-fuel-production-system.webp"
+      },
+      {
+        "id": "b1781218477364_3",
+        "rank": 3,
+        "title": "Revolutionary AI Cuts Robot Energy Use by 100x While Boosting Accuracy",
+        "category": "ai",
+        "summary": "Researchers at Tufts University developed a neuro-symbolic AI system that combines neural networks with human-like symbolic reasoning, slashing energy consumption by up to 100 times compared to conventional approaches while dramatically improving performance. In robotic task tests using the Tower of Hanoi puzzle, the hybrid system achieved a 95% success rate versus 34% for standard models and trained in just 34 minutes versus more than a day and a half for traditional systems.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/04/260405003952.htm",
+        "image": "https://www.sciencedaily.com/images/1920/server-facility-at-sandia-national-laboratory.webp"
+      },
+      {
+        "id": "b1781218477364_4",
+        "rank": 4,
+        "title": "NASA's Next-Gen AI Space Chip Could Let Spacecraft Think for Themselves",
+        "category": "space tech",
+        "summary": "NASA is testing a next-generation space computer chip that could give spacecraft the ability to operate far more independently in deep space. With onboard artificial intelligence, spacecraft could respond to unexpected situations in real time when communication delays make human control impractical. The chip could also help deep space missions process, store, and transmit massive amounts of scientific data back to Earth more efficiently. The radiation-hardened processor shows performance levels hundreds of times beyond current spaceflight technology.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
+        "image": "https://www.sciencedaily.com/images/1920/nasa-high-performance-spaceflight-computing-processor.webp"
+      },
+      {
+        "id": "b1781218477364_5",
+        "rank": 5,
+        "title": "Scientists Reverse Anxiety by Fixing Tiny Brain Circuit in Breakthrough Study",
+        "category": "neuroscience",
+        "summary": "A newly identified group of amygdala neurons appears to play a central role in anxiety and social behavior. Restoring normal activity in this tiny brain circuit reversed anxiety and social deficits in mice, revealing a promising new target for treating anxiety disorders. The research offers hope for developing more targeted treatments for anxiety and social behavioral disorders by focusing on specific neural circuits rather than broad brain regions.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260603001847.htm",
+        "image": "https://www.sciencedaily.com/images/1920/brain-scan-color-black-and-white.webp"
+      }
+    ],
+    "batchId": "b1781218477364"
+  },
+  {
     "scannedAt": "2026-06-10T22:55:32.976Z",
     "items": [
       {
@@ -222,61 +278,5 @@
       }
     ],
     "batchId": "b1780870537401"
-  },
-  {
-    "scannedAt": "2026-06-06T22:13:55.811Z",
-    "items": [
-      {
-        "id": "b1780784035810_1",
-        "rank": 1,
-        "title": "GLP-1 Weight-Loss Drugs Linked to 30% Lower Breast Cancer Risk in Major Study",
-        "category": "biotech",
-        "summary": "A large study found that women taking GLP-1 drugs, the medication class behind Ozempic, Wegovy, Mounjaro, and Zepbound, were about 30% less likely to develop breast cancer. New research involving more than 110,000 women found that those taking GLP-1 drugs were significantly less likely to develop breast cancer, with researchers reporting that women using GLP-1 medications had roughly a 30% lower likelihood of developing breast cancer compared with women who were not taking the drugs.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260605023400.htm",
-        "image": "https://www.sciencedaily.com/images/1920/hand-holding-glp-1-semaglutide-ozempic-pen-close-up.webp"
-      },
-      {
-        "id": "b1780784035810_2",
-        "rank": 2,
-        "title": "NASA's X-59 Jet Breaks Sound Barrier for First Time, Reaches Mach 1.1",
-        "category": "space tech",
-        "summary": "NASA's X-59 quiet supersonic research aircraft exceeded the speed of sound for the first time on June 5, 2026, reaching a top speed of about Mach 1.1. The X-59, the centerpiece of NASA's Quesst (Quiet Supersonic Technology) program, is designed to generate mild thumps rather than clapping booms.",
-        "source": "Space.com",
-        "sourceUrl": "https://www.space.com/technology/aerospace/going-supersonic-nasas-x-59-jet-breaks-sound-barrier-for-the-1st-time",
-        "image": "https://cdn.mos.cms.futurecdn.net/wCYN3G8NXUGxytBGf5bC9E-2560-80.jpg"
-      },
-      {
-        "id": "b1780784035810_3",
-        "rank": 3,
-        "title": "AI-Designed Universal Coronavirus Vaccine Passes First Human Trial",
-        "category": "ai",
-        "summary": "Scientists have successfully tested an AI-designed universal coronavirus vaccine in humans for the first time, finding it to be safe and well tolerated. The vaccine generated immune responses against multiple coronaviruses, including SARS-CoV-2, SARS, and related bat viruses with pandemic potential. By targeting features shared across an entire virus family, it aims to provide protection even as viruses evolve.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260605023357.htm",
-        "image": "https://www.sciencedaily.com/images/1920/clinical-trial-volunteer-receiving-new-universal-vaccine.webp"
-      },
-      {
-        "id": "b1780784035810_4",
-        "rank": 4,
-        "title": "NASA Successfully Demonstrates Spacecraft Multi-Network Communication Capability",
-        "category": "space tech",
-        "summary": "NASA's PExT terminal has shown that spacecraft can seamlessly communicate through multiple government and commercial networks, a major step beyond traditional single-network systems. The mission is now expanding to test new capabilities that could revolutionize space communications.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com",
-        "image": "https://www.sciencedaily.com/images/scidaily-icon.png"
-      },
-      {
-        "id": "b1780784035810_5",
-        "rank": 5,
-        "title": "Scientists Discover New Brain Circuit That Controls Anxiety and Social Behavior",
-        "category": "neuroscience",
-        "summary": "A newly identified group of amygdala neurons appears to play a central role in anxiety and social behavior. Restoring normal activity in this tiny brain circuit reversed anxiety and social deficits in mice, revealing a promising new therapeutic target.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/news/mind_brain/neuroscience/",
-        "image": "https://www.sciencedaily.com/images/scidaily-icon.png"
-      }
-    ],
-    "batchId": "b1780784035810"
   }
 ]

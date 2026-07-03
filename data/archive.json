@@ -1,5 +1,61 @@
 [
   {
+    "batchId": "auto_2026-07-03T01-25",
+    "scannedAt": "2026-07-03T01:25:20.750Z",
+    "items": [
+      {
+        "id": "auto_2026-07-03T01-25_1",
+        "rank": 1,
+        "title": "Social Media Recalibrates How the Brain Values Mental Effort",
+        "category": "neuroscience",
+        "summary": "Digital media does not destroy raw cognitive capacity, but rather recalibrates our value-based decision systems. By saturating the mind with effortless, instant algorithmic rewards, digital platforms subjectively…",
+        "image": "https://neurosciencenews.com/files/2026/07/social-media-cognition-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/effort-recalibration-digital-media-cognition-30985/"
+      },
+      {
+        "id": "auto_2026-07-03T01-25_2",
+        "rank": 2,
+        "title": "STAT+: Medicare takes another swing at 340B cuts to hospitals",
+        "category": "biotech",
+        "summary": "Reducing Medicare payments for 340B drugs is the latest proposal focused on the hotly debated drug discount program.",
+        "image": "https://www.statnews.com/wp-content/uploads/2023/08/AdobeStock_385917483-1024x576.jpeg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/07/02/medicare-hospital-payment-340b-drugs-cut/?utm_campaign=rss"
+      },
+      {
+        "id": "auto_2026-07-03T01-25_3",
+        "rank": 3,
+        "title": "NASA’s Artemis II Breaks Agency Streaming Record",
+        "category": "space",
+        "summary": "NASA’s live coverage of the Artemis II mission mission&#160;drew unprecedented&#160;public&#160;interest&#160;– including&#160;more than&#160;149.4&#160;million views&#160;of&#160;the launch, lunar flyby,…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/04/55193772552-b8cfb47b7e-o.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/general/nasas-artemis-ii-breaks-agency-streaming-record/"
+      },
+      {
+        "id": "auto_2026-07-03T01-25_4",
+        "rank": 4,
+        "title": "Trump's ‘big, beautiful’ law was supposed to kill clean energy. It didn't.",
+        "category": "energy",
+        "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter. Sign up to get it every Friday. One year ago, President Donald Trump got his Fourth-of-July wish. Republicans rammed a massive tax and…",
+        "image": "https://img.canarymedia.com/content/uploads/GettyImages-2222880692.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=1d94a7e45d1cfc35364ef105103ba083",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/clean-energy/trumps-big-beautiful-law-was-supposed-to-kill-clean-energy-it-didnt"
+      },
+      {
+        "id": "auto_2026-07-03T01-25_5",
+        "rank": 5,
+        "title": "Achieving operational excellence with AI",
+        "category": "ai",
+        "summary": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, sprawling operations. Lean Six Sigma…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/MITTR2026_TP2_1200SocialCover.png?resize=1200,600",
+        "source": "MIT Technology Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-07-02T20-48",
     "scannedAt": "2026-07-02T20:48:30.541Z",
     "items": [
@@ -1006,61 +1062,5 @@
       }
     ],
     "batchId": "b1780528199050"
-  },
-  {
-    "scannedAt": "2026-06-02T23:07:01.549Z",
-    "items": [
-      {
-        "id": "b1780441621549_1",
-        "rank": 1,
-        "title": "Microsoft Unveils AI-Designed Quantum Chip with Majorana Breakthrough, Targets 2029 Commercial Systems",
-        "category": "quantum",
-        "summary": "Microsoft revealed a revolutionary quantum computing chip redesigned with AI assistance, achieving a 1000-fold performance improvement in Majorana qubit technology. The breakthrough involves using lead-based materials in specialized manufacturing processes, marking a critical milestone toward commercially viable quantum computers by 2029, directly competing with IBM and Google in the quantum race.",
-        "source": "Reuters",
-        "sourceUrl": "https://finance.yahoo.com/news/microsoft-reveals-quantum-chip-made-181651197.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/282C82C5822A92E9D2A6D73EE6D6B739CFD79624518EC456E9401ADD38B4C385/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F0cdfb5ffc5348ecbe711d4edd436209a"
-      },
-      {
-        "id": "b1780441621549_2",
-        "rank": 2,
-        "title": "Monash University Creates First Complete Light-Based Computing Chip Using Valleytronics",
-        "category": "ai",
-        "summary": "Scientists achieved a major breakthrough in photonic computing by creating the first complete on-chip system that generates, routes, and reads light-based information using quantum valley properties. The room-temperature device uses atomically thin materials and could revolutionize AI computing efficiency while reducing energy consumption by replacing electronic processes with ultra-fast optical computations.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260601025343.htm",
-        "image": "https://www.sciencedaily.com/images/1920/photonic-valleytronic-chip-for-information-processing.webp"
-      },
-      {
-        "id": "b1780441621549_3",
-        "rank": 3,
-        "title": "Stanford Develops Room-Temperature Quantum Device Using Twisted Light for Entanglement",
-        "category": "quantum",
-        "summary": "Researchers overcame one of quantum technology's biggest hurdles by creating a quantum device that operates at room temperature, using twisted light to entangle photons and electrons. This breakthrough could enable smaller, cheaper quantum systems with applications in secure communications, future AI computing, and quantum networks without requiring extreme cooling.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/",
-        "image": "https://www.sciencedaily.com/images/scidaily-icon.png"
-      },
-      {
-        "id": "b1780441621549_4",
-        "rank": 4,
-        "title": "NASA Roman Space Telescope Poised to Discover 100,000 Exoplanets in Revolutionary Search",
-        "category": "space",
-        "summary": "NASA's Roman Space Telescope is set to revolutionize alien world detection by discovering approximately 100,000 exoplanets—surpassing all previous missions combined. The advanced space observatory will use cutting-edge detection methods to peer deep into space, potentially identifying Earth-like worlds and expanding humanity's understanding of planetary formation and habitability across the cosmos.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/news/space_time/space_exploration/",
-        "image": "https://www.sciencedaily.com/images/scidaily-icon.png"
-      },
-      {
-        "id": "b1780441621549_5",
-        "rank": 5,
-        "title": "Scientists Reverse Brain Aging with Innovative Nasal Spray Treatment",
-        "category": "biotech",
-        "summary": "Texas A&M researchers developed a groundbreaking nasal spray that appears to reverse brain aging by calming inflammation and restoring energy systems. After just two doses, memory and cognitive function improved for months, raising hopes for treating neurodegenerative diseases. This represents a major convergence of neuroscience and biotechnology in developing non-invasive brain rejuvenation therapies.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/",
-        "image": "https://www.sciencedaily.com/images/scidaily-icon.png"
-      }
-    ],
-    "batchId": "b1780441621549"
   }
 ]
