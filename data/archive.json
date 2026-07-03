@@ -1,11 +1,21 @@
 [
   {
-    "batchId": "auto_2026-07-03T17-07",
-    "scannedAt": "2026-07-03T17:07:43.626Z",
+    "batchId": "auto_2026-07-03T20-49",
+    "scannedAt": "2026-07-03T20:49:06.343Z",
     "items": [
       {
-        "id": "auto_2026-07-03T17-07_1",
+        "id": "auto_2026-07-03T20-49_1",
         "rank": 1,
+        "title": "Zero-Computational Path to High-Resolution Robotic Touch",
+        "category": "neuroscience",
+        "summary": "A new study introduces a soft robotic sensing skin made from mechanochromic materials. The polymer automatically converts mechanical strain into distinct structural color fields, allowing a low-cost camera to map…",
+        "image": "https://neurosciencenews.com/files/2026/07/robotic-touch-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/mechanochromic-skin-robotic-tactile-30990/"
+      },
+      {
+        "id": "auto_2026-07-03T20-49_2",
+        "rank": 2,
         "title": "Video Friday: An Earthbound Mars Rover for the Moon",
         "category": "robotics",
         "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us…",
@@ -14,8 +24,8 @@
         "sourceUrl": "https://spectrum.ieee.org/video-friday-nasa-lunar-rover"
       },
       {
-        "id": "auto_2026-07-03T17-07_2",
-        "rank": 2,
+        "id": "auto_2026-07-03T20-49_3",
+        "rank": 3,
         "title": "Chinese satellite manufacturer Hongqing raises $191 million",
         "category": "space",
         "summary": "HELSINKI — Hongqing Technology, the satellite manufacturing affiliate of launch firm Landspace, has secured one of the largest single raises for a Chinese commercial satellite maker. The funding round, announced […] The…",
@@ -24,8 +34,8 @@
         "sourceUrl": "https://spacenews.com/chinese-satellite-manufacturer-hongqing-raises-191-million/"
       },
       {
-        "id": "auto_2026-07-03T17-07_3",
-        "rank": 3,
+        "id": "auto_2026-07-03T20-49_4",
+        "rank": 4,
         "title": "Data centers use more power in the US than in any other country",
         "category": "energy",
         "summary": "This article is part of our ​“Chart of the Week” series . Data centers use more electricity in the U.S. than in any other country — China included. In 2025, nearly 40% of all power demand from data centers came from…",
@@ -34,17 +44,7 @@
         "sourceUrl": "https://www.canarymedia.com/articles/data-centers/data-centers-use-more-power-in-the-us-than-anywhere-else"
       },
       {
-        "id": "auto_2026-07-03T17-07_4",
-        "rank": 4,
-        "title": "Social Media Recalibrates How the Brain Values Mental Effort",
-        "category": "neuroscience",
-        "summary": "Digital media does not destroy raw cognitive capacity, but rather recalibrates our value-based decision systems. By saturating the mind with effortless, instant algorithmic rewards, digital platforms subjectively…",
-        "image": "https://neurosciencenews.com/files/2026/07/social-media-cognition-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/effort-recalibration-digital-media-cognition-30985/"
-      },
-      {
-        "id": "auto_2026-07-03T17-07_5",
+        "id": "auto_2026-07-03T20-49_5",
         "rank": 5,
         "title": "STAT+: Medicare takes another swing at 340B cuts to hospitals",
         "category": "biotech",
