@@ -1,11 +1,21 @@
 [
   {
-    "batchId": "auto_2026-07-03T10-23",
-    "scannedAt": "2026-07-03T10:23:04.377Z",
+    "batchId": "auto_2026-07-03T13-25",
+    "scannedAt": "2026-07-03T13:25:44.689Z",
     "items": [
       {
-        "id": "auto_2026-07-03T10-23_1",
+        "id": "auto_2026-07-03T13-25_1",
         "rank": 1,
+        "title": "NASA’s Hubble Spots Star-Spangled Cosmic Scene",
+        "category": "space",
+        "summary": "More than 500,000 stars blaze red, white, and blue in this NASA Hubble image of the globular cluster Messier 3 (M3).",
+        "image": "https://assets.science.nasa.gov/content/dam/science/missions/hubble/stars/globular-clusters/Hubble_M3_July4_%20final.tif/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "source": "NASA",
+        "sourceUrl": "https://science.nasa.gov/missions/hubble/nasas-hubble-spots-star-spangled-cosmic-scene/"
+      },
+      {
+        "id": "auto_2026-07-03T13-25_2",
+        "rank": 2,
         "title": "Data centers use more power in the US than in any other country",
         "category": "energy",
         "summary": "This article is part of our ​“Chart of the Week” series . Data centers use more electricity in the U.S. than in any other country — China included. In 2025, nearly 40% of all power demand from data centers came from…",
@@ -14,8 +24,8 @@
         "sourceUrl": "https://www.canarymedia.com/articles/data-centers/data-centers-use-more-power-in-the-us-than-anywhere-else"
       },
       {
-        "id": "auto_2026-07-03T10-23_2",
-        "rank": 2,
+        "id": "auto_2026-07-03T13-25_3",
+        "rank": 3,
         "title": "Social Media Recalibrates How the Brain Values Mental Effort",
         "category": "neuroscience",
         "summary": "Digital media does not destroy raw cognitive capacity, but rather recalibrates our value-based decision systems. By saturating the mind with effortless, instant algorithmic rewards, digital platforms subjectively…",
@@ -24,8 +34,8 @@
         "sourceUrl": "https://neurosciencenews.com/effort-recalibration-digital-media-cognition-30985/"
       },
       {
-        "id": "auto_2026-07-03T10-23_3",
-        "rank": 3,
+        "id": "auto_2026-07-03T13-25_4",
+        "rank": 4,
         "title": "STAT+: Medicare takes another swing at 340B cuts to hospitals",
         "category": "biotech",
         "summary": "Reducing Medicare payments for 340B drugs is the latest proposal focused on the hotly debated drug discount program.",
@@ -34,17 +44,7 @@
         "sourceUrl": "https://www.statnews.com/2026/07/02/medicare-hospital-payment-340b-drugs-cut/?utm_campaign=rss"
       },
       {
-        "id": "auto_2026-07-03T10-23_4",
-        "rank": 4,
-        "title": "Perovskite solar panel startup Verde Technologies shifts focus to space",
-        "category": "space",
-        "summary": "Verde Technologies is turning to space to commercialize perovskite-based solar panels, shifting its initial focus away from rooftops in a bet that the thin-film material can help power orbital data centers and other…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/RTR-perovskite-manufaturing-scaled.jpeg?fit=1024%2C768&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/perovskite-solar-panel-startup-verde-technologies-shifts-focus-to-space/"
-      },
-      {
-        "id": "auto_2026-07-03T10-23_5",
+        "id": "auto_2026-07-03T13-25_5",
         "rank": 5,
         "title": "Achieving operational excellence with AI",
         "category": "ai",
