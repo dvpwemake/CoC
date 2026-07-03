@@ -1,10 +1,10 @@
 [
   {
-    "batchId": "auto_2026-07-03T01-25",
-    "scannedAt": "2026-07-03T01:25:20.750Z",
+    "batchId": "auto_2026-07-03T06-52",
+    "scannedAt": "2026-07-03T06:52:09.583Z",
     "items": [
       {
-        "id": "auto_2026-07-03T01-25_1",
+        "id": "auto_2026-07-03T06-52_1",
         "rank": 1,
         "title": "Social Media Recalibrates How the Brain Values Mental Effort",
         "category": "neuroscience",
@@ -14,7 +14,7 @@
         "sourceUrl": "https://neurosciencenews.com/effort-recalibration-digital-media-cognition-30985/"
       },
       {
-        "id": "auto_2026-07-03T01-25_2",
+        "id": "auto_2026-07-03T06-52_2",
         "rank": 2,
         "title": "STAT+: Medicare takes another swing at 340B cuts to hospitals",
         "category": "biotech",
@@ -24,7 +24,7 @@
         "sourceUrl": "https://www.statnews.com/2026/07/02/medicare-hospital-payment-340b-drugs-cut/?utm_campaign=rss"
       },
       {
-        "id": "auto_2026-07-03T01-25_3",
+        "id": "auto_2026-07-03T06-52_3",
         "rank": 3,
         "title": "NASA’s Artemis II Breaks Agency Streaming Record",
         "category": "space",
@@ -34,7 +34,7 @@
         "sourceUrl": "https://www.nasa.gov/general/nasas-artemis-ii-breaks-agency-streaming-record/"
       },
       {
-        "id": "auto_2026-07-03T01-25_4",
+        "id": "auto_2026-07-03T06-52_4",
         "rank": 4,
         "title": "Trump's ‘big, beautiful’ law was supposed to kill clean energy. It didn't.",
         "category": "energy",
@@ -44,7 +44,7 @@
         "sourceUrl": "https://www.canarymedia.com/articles/clean-energy/trumps-big-beautiful-law-was-supposed-to-kill-clean-energy-it-didnt"
       },
       {
-        "id": "auto_2026-07-03T01-25_5",
+        "id": "auto_2026-07-03T06-52_5",
         "rank": 5,
         "title": "Achieving operational excellence with AI",
         "category": "ai",
