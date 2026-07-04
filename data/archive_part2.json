@@ -1,5 +1,61 @@
 [
   {
+    "scannedAt": "2026-06-12T18:19:32.258Z",
+    "items": [
+      {
+        "id": "b1781288372258_1",
+        "rank": 1,
+        "title": "Stanford Scientists Regrow Lost Cartilage and Reverse Arthritis in Major Breakthrough",
+        "category": "biotech",
+        "summary": "Stanford Medicine researchers achieved a groundbreaking treatment that blocks an aging-related protein, successfully restoring lost cartilage in old mice and helping prevent arthritis after knee injuries. Human cartilage samples showed similar signs of regeneration, raising hopes for future drugs that could replace joint surgery. The therapy dramatically improved movement and joint function by targeting the 15-PGDH protein linked to aging.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260612021604.htm",
+        "image": "https://www.sciencedaily.com/images/1920/3d-knee-joint-inflammation-osteoarthritis.webp"
+      },
+      {
+        "id": "b1781288372258_2",
+        "rank": 2,
+        "title": "Prometheus AI Company Raises $12 Billion for Artificial General Engineers",
+        "category": "ai",
+        "summary": "Biotech AI startup Prometheus secured a massive $12 billion funding round to develop artificial general engineers that can automate complex engineering tasks in drug discovery and biotechnology. The company aims to create AI systems capable of independent scientific reasoning and experimental design, potentially revolutionizing pharmaceutical research and development timelines.",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/06/12/biotech-news-prometheus-raises-12-billion-for-artificial-engineers/",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/04/AdobeStock_573445441-1024x576.jpeg"
+      },
+      {
+        "id": "b1781288372258_3",
+        "rank": 3,
+        "title": "Giant Underground Neutrino Detector Achieves Precision Breakthrough in China",
+        "category": "neuroscience",
+        "summary": "The massive JUNO neutrino observatory deep beneath the ground in China delivered its first major scientific breakthrough, achieving one of the most precise measurements yet of how elusive neutrino particles behave. This advancement brings scientists closer to cracking fundamental mysteries about neutrinos and could revolutionize our understanding of particle physics and the universe.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/",
+        "image": "https://www.sciencedaily.com/images/scidaily-icon.png"
+      },
+      {
+        "id": "b1781288372258_4",
+        "rank": 4,
+        "title": "NASA Announces Artemis III Crew for Critical Moon Mission Testing",
+        "category": "space tech",
+        "summary": "NASA revealed the four-astronaut crew selected for the crucial Artemis III mission, designed to test rendezvous and docking procedures with lunar landers in Earth orbit next year. The mission represents a critical milestone before sending astronauts back to the Moon for landing in 2028, involving both SpaceX Starship and Blue Origin's Blue Moon Mark 2 landers.",
+        "source": "Spaceflight Now",
+        "sourceUrl": "https://www.nasa.gov/missions/artemis/artemis-iii/",
+        "image": "https://www.nasa.gov/wp-content/uploads/2022/11/52508358665_efb8a65d31_o.jpg"
+      },
+      {
+        "id": "b1781288372258_5",
+        "rank": 5,
+        "title": "Brain-Inspired Chip Functions Near Absolute Zero for Quantum Computing",
+        "category": "energy",
+        "summary": "Scientists at the University of Hong Kong created a remarkable brain-inspired chip that can function just above absolute zero temperature, representing one of the coldest operational environments ever achieved. This breakthrough could transform quantum computing by enabling ultra-efficient processing in cryogenic conditions, potentially solving major energy challenges in quantum systems.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/",
+        "image": "https://www.sciencedaily.com/images/scidaily-icon.png"
+      }
+    ],
+    "batchId": "b1781288372258"
+  },
+  {
     "scannedAt": "2026-06-11T22:54:37.365Z",
     "items": [
       {
@@ -222,61 +278,5 @@
       }
     ],
     "batchId": "b1780958719218"
-  },
-  {
-    "scannedAt": "2026-06-07T22:15:37.402Z",
-    "items": [
-      {
-        "id": "b1780870537401_1",
-        "rank": 1,
-        "title": "NASA's X-59 Jet Breaks Sound Barrier for First Time, Reaching Mach 1.1",
-        "category": "space tech",
-        "summary": "NASA's X-59 quiet supersonic research aircraft exceeded the speed of sound for the first time on June 5, 2026, reaching a top speed of 713 mph and a maximum altitude of 43,400 feet. The X-59, part of NASA's Quesst program, is designed to generate mild thumps rather than loud sonic booms, with plans to eventually fly over U.S. communities to gather data on how people perceive its quiet noise. The X-59 team plans to send the aircraft on its first \"mission conditions\" flight in a few days, aiming to reach a top speed of Mach 1.4 and an altitude of about 55,000 feet to help establish new data-driven noise standards for supersonic commercial flight over land.",
-        "source": "Space.com",
-        "sourceUrl": "https://www.nasa.gov/aeronautics/x-59-first-supersonic-flight/",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/06/x59-first-supersonic-flight-m-1-077-clean-high.jpg"
-      },
-      {
-        "id": "b1780870537401_2",
-        "rank": 2,
-        "title": "Scientists Create Revolutionary Light-Powered Chip for Ultra-Fast AI and Quantum Computing",
-        "category": "ai",
-        "summary": "Scientists have created a tiny chip that can generate, steer, and read light-based information all in one device, marking a major leap toward ultra-fast, energy-efficient computing. The breakthrough uses atomically thin materials and nanoscale structures to control a unique quantum property of light called the \"valley\" degree of freedom, allowing information to be encoded in new ways. One of the technology's most important advantages is that it operates at room temperature. Many quantum systems require extremely cold environments, making them more difficult and expensive to use in real-world applications.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260601025343.htm",
-        "image": "https://www.sciencedaily.com/images/1920/photonic-valleytronic-chip-for-information-processing.webp"
-      },
-      {
-        "id": "b1780870537401_3",
-        "rank": 3,
-        "title": "Breakthrough Hydrogen Production Method Turns Waste Heat Into Clean Fuel",
-        "category": "energy",
-        "summary": "A breakthrough hydrogen-production method could make clean fuel far cheaper and easier to generate. Researchers at the University of Birmingham developed a perovskite-based catalyst that splits water into hydrogen at much lower temperatures than existing technologies, potentially allowing factories, steel plants, cement works, and renewable energy sites to turn waste heat into valuable hydrogen. This breakthrough could revolutionize clean energy production by making hydrogen fuel generation more accessible and cost-effective for industrial applications.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260601025345.htm",
-        "image": "https://www.sciencedaily.com/images/1920/green-energy-hydrogen-pipelines-wind-turbines.webp"
-      },
-      {
-        "id": "b1780870537401_4",
-        "rank": 4,
-        "title": "Brain Scans Reveal Two Distinct Biological Subtypes of Autism for Precision Medicine",
-        "category": "neuroscience",
-        "summary": "According to the researchers, this is the first large-scale effort to systematically connect patterns seen in human brain imaging (via fMRI) with their underlying biological causes using mouse models. By linking specific brain connectivity patterns to distinct molecular processes, the work provides a foundation for future precision medicine strategies in autism. Their findings, published in Nature Neuroscience, led to the identification of two distinct autism subtypes characterized by distinct connectivity patterns. By evaluating over 1,900 human brain scans alongside 20 distinct mouse models, investigators successfully isolated a \"hypoconnectivity\" subtype tied to altered synaptic pathways and a \"hyperconnectivity\" subtype driven by immune-related systems.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260602021634.htm",
-        "image": "https://www.sciencedaily.com/images/1920/brain-scan-color-black-and-white.webp"
-      },
-      {
-        "id": "b1780870537401_5",
-        "rank": 5,
-        "title": "Microsoft Unveils AI-Designed Quantum Chip 1000x More Reliable, Targets 2029 for Commercial Systems",
-        "category": "ai",
-        "summary": "Microsoft unveils Majorana 2, its next-generation topological quantum chip developed with the help of Microsoft Discovery's agentic AI. Majorana 2's new features include a new materials stack enabling a 1,000-fold improvement in reliability over the prior generation of qubits, with a mean qubit lifetime of 20 seconds and instances lasting as long as one minute. Microsoft now expects to achieve a scalable quantum computer by 2029, cutting its original timeline in half. Microsoft's new chip, however, adopts a fundamentally different approach by using lead-based materials. Microsoft says its researchers developed specialized techniques that allowed them to overcome those obstacles and create a stable manufacturing process capable of utilizing the material effectively. Executives described the breakthrough as one of the most significant engineering achievements in the program's history and a crucial step toward scaling the technology for practical use.",
-        "source": "Microsoft News",
-        "sourceUrl": "https://news.microsoft.com/source/features/innovation/majorana-2-microsoft-discovery-agentic-ai/",
-        "image": "https://news.microsoft.com/source/wp-content/uploads/2026/06/Majorana-2-web-size_4_1200.jpg"
-      }
-    ],
-    "batchId": "b1780870537401"
   }
 ]

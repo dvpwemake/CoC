@@ -1,5 +1,61 @@
 [
   {
+    "batchId": "auto_2026-07-04T01-24",
+    "scannedAt": "2026-07-04T01:24:52.071Z",
+    "items": [
+      {
+        "id": "auto_2026-07-04T01-24_1",
+        "rank": 1,
+        "title": "LLMs and Math Combine to Map Human Decision-Making",
+        "category": "neuroscience",
+        "summary": "A new research framework that combines large language models (LLMs) with choice mathematics to evaluate human decision-making. By deploying LLMs to automatically interpret and code thousands of free-text participant…",
+        "image": "https://neurosciencenews.com/files/2026/07/llm-math-decision-making-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/llm-cognitive-mapping-decision-making-30992/"
+      },
+      {
+        "id": "auto_2026-07-04T01-24_2",
+        "rank": 2,
+        "title": "Pegasus launches Swift reboost mission",
+        "category": "space",
+        "summary": "A Pegasus XL launched a mission to reboost a NASA astrophysics spacecraft on what may be the final flight of that rocket. The post Pegasus launches Swift reboost mission appeared first on SpaceNews .",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/pegasus-swift.jpeg?fit=1024%2C683&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/pegasus-launches-swift-reboost-mission/"
+      },
+      {
+        "id": "auto_2026-07-04T01-24_3",
+        "rank": 3,
+        "title": "Video Friday: An Earthbound Mars Rover for the Moon",
+        "category": "robotics",
+        "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us…",
+        "image": "https://spectrum.ieee.org/media-library/mars-style-rover-prototype-on-rugged-ground-under-a-clear-sky-with-the-moon-visible.png?id=67083121&width=980",
+        "source": "IEEE Spectrum",
+        "sourceUrl": "https://spectrum.ieee.org/video-friday-nasa-lunar-rover"
+      },
+      {
+        "id": "auto_2026-07-04T01-24_4",
+        "rank": 4,
+        "title": "Data centers use more power in the US than in any other country",
+        "category": "energy",
+        "summary": "This article is part of our ​“Chart of the Week” series . Data centers use more electricity in the U.S. than in any other country — China included. In 2025, nearly 40% of all power demand from data centers came from…",
+        "image": "https://img.canarymedia.com/content/uploads/COTW-Data-centers.png?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=80&w=1200&s=6ab88e95914464011c02c651929f39c5",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/data-centers/data-centers-use-more-power-in-the-us-than-anywhere-else"
+      },
+      {
+        "id": "auto_2026-07-04T01-24_5",
+        "rank": 5,
+        "title": "STAT+: Medicare takes another swing at 340B cuts to hospitals",
+        "category": "biotech",
+        "summary": "Reducing Medicare payments for 340B drugs is the latest proposal focused on the hotly debated drug discount program.",
+        "image": "https://www.statnews.com/wp-content/uploads/2023/08/AdobeStock_385917483-1024x576.jpeg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/07/02/medicare-hospital-payment-340b-drugs-cut/?utm_campaign=rss"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-07-03T20-49",
     "scannedAt": "2026-07-03T20:49:06.343Z",
     "items": [
@@ -1006,61 +1062,5 @@
       }
     ],
     "batchId": "b1780612916656"
-  },
-  {
-    "scannedAt": "2026-06-03T23:09:59.050Z",
-    "items": [
-      {
-        "id": "b1780528199050_1",
-        "rank": 1,
-        "title": "Scientists Reverse Turbulence Energy Flow, Upending 80-Year-Old Theory",
-        "category": "energy",
-        "summary": "Researchers at University of Pittsburgh discovered how to reverse the direction of energy flow in turbulence, challenging Kolmogorov's 1941 theory that has stood for over 80 years. Using tensor geometry, they showed that energy can flow from smaller to larger scales in controlled conditions. This breakthrough could revolutionize ocean current control, medical microfluidics, and climate modeling by providing new ways to manipulate how energy moves through chaotic fluid systems.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260602021655.htm",
-        "image": "https://www.sciencedaily.com/images/1920/ocean-whirlpool-water-turbulence.webp"
-      },
-      {
-        "id": "b1780528199050_2",
-        "rank": 2,
-        "title": "Scientists Reverse Anxiety by Fixing Tiny Brain Circuit in Amygdala",
-        "category": "neuroscience",
-        "summary": "Researchers identified a specific group of amygdala neurons that play a central role in anxiety and social behavior. By restoring normal activity in the Grik4 gene pathway between basolateral and centrolateral amygdala regions, scientists completely reversed anxiety-related and social deficit behaviors in mice. This discovery reveals a promising new therapeutic target for treating anxiety disorders and represents a major breakthrough in understanding the brain's anxiety circuits.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260603015356.htm",
-        "image": "https://www.sciencedaily.com/images/1920/head-brain-waves-neural-activity-signals.webp"
-      },
-      {
-        "id": "b1780528199050_3",
-        "rank": 3,
-        "title": "Nuclear Fireball Simulation Reveals Surprising Fallout Formation Secrets",
-        "category": "space tech",
-        "summary": "Scientists at Lawrence Livermore National Laboratory recreated part of a nuclear fireball's intense environment to study how radioactive fallout forms. Their plasma flow reactor experiments revealed that thermal history dramatically alters how volatile elements like cesium are incorporated into particles. The breakthrough provides crucial data for nuclear forensics, safety assessments, and could improve models used for national security and emergency response planning.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260603023104.htm",
-        "image": "https://www.sciencedaily.com/images/1920/llnl-plasma-flow-reactor.webp"
-      },
-      {
-        "id": "b1780528199050_4",
-        "rank": 4,
-        "title": "New Diabetes Pill Burns Fat Through Muscle Metabolism Without Appetite Loss",
-        "category": "biotech",
-        "summary": "Scientists developed an experimental oral diabetes and obesity treatment that works completely differently from GLP-1 drugs like Ozempic. Instead of reducing appetite, it activates metabolism in skeletal muscle, helping lower blood sugar and increase fat burning while preserving muscle mass. Early clinical trials show the treatment is safe and well-tolerated, offering hope for patients who experience muscle loss and appetite suppression with current medications.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260603015541.htm",
-        "image": "https://www.sciencedaily.com/images/1920/losing-fat-gaining-muscle.webp"
-      },
-      {
-        "id": "b1780528199050_5",
-        "rank": 5,
-        "title": "Revolutionary Light-Powered Chip Could Accelerate AI and Quantum Computing",
-        "category": "ai",
-        "summary": "Scientists at Monash University created the first fully integrated chip that can generate, steer, and read light-based information all in one device. The breakthrough uses atomically thin materials and nanoscale structures to control the 'valley degree of freedom' quantum property of light, enabling ultra-fast, energy-efficient computing. This valleytronics advancement marks a major leap toward photonic processors that could dramatically reduce AI's energy consumption while boosting performance.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260601025343.htm",
-        "image": "https://www.sciencedaily.com/images/1920/photonic-valleytronic-chip-for-information-processing.webp"
-      }
-    ],
-    "batchId": "b1780528199050"
   }
 ]
