@@ -1,10 +1,10 @@
 [
   {
-    "batchId": "auto_2026-07-04T01-24",
-    "scannedAt": "2026-07-04T01:24:52.071Z",
+    "batchId": "auto_2026-07-04T06-37",
+    "scannedAt": "2026-07-04T06:37:51.485Z",
     "items": [
       {
-        "id": "auto_2026-07-04T01-24_1",
+        "id": "auto_2026-07-04T06-37_1",
         "rank": 1,
         "title": "LLMs and Math Combine to Map Human Decision-Making",
         "category": "neuroscience",
@@ -14,7 +14,7 @@
         "sourceUrl": "https://neurosciencenews.com/llm-cognitive-mapping-decision-making-30992/"
       },
       {
-        "id": "auto_2026-07-04T01-24_2",
+        "id": "auto_2026-07-04T06-37_2",
         "rank": 2,
         "title": "Pegasus launches Swift reboost mission",
         "category": "space",
@@ -24,7 +24,7 @@
         "sourceUrl": "https://spacenews.com/pegasus-launches-swift-reboost-mission/"
       },
       {
-        "id": "auto_2026-07-04T01-24_3",
+        "id": "auto_2026-07-04T06-37_3",
         "rank": 3,
         "title": "Video Friday: An Earthbound Mars Rover for the Moon",
         "category": "robotics",
@@ -34,7 +34,7 @@
         "sourceUrl": "https://spectrum.ieee.org/video-friday-nasa-lunar-rover"
       },
       {
-        "id": "auto_2026-07-04T01-24_4",
+        "id": "auto_2026-07-04T06-37_4",
         "rank": 4,
         "title": "Data centers use more power in the US than in any other country",
         "category": "energy",
@@ -44,7 +44,7 @@
         "sourceUrl": "https://www.canarymedia.com/articles/data-centers/data-centers-use-more-power-in-the-us-than-anywhere-else"
       },
       {
-        "id": "auto_2026-07-04T01-24_5",
+        "id": "auto_2026-07-04T06-37_5",
         "rank": 5,
         "title": "STAT+: Medicare takes another swing at 340B cuts to hospitals",
         "category": "biotech",
