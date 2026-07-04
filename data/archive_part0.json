@@ -1,11 +1,21 @@
 [
   {
-    "batchId": "auto_2026-07-04T09-56",
-    "scannedAt": "2026-07-04T09:56:36.437Z",
+    "batchId": "auto_2026-07-04T12-52",
+    "scannedAt": "2026-07-04T12:52:25.254Z",
     "items": [
       {
-        "id": "auto_2026-07-04T09-56_1",
+        "id": "auto_2026-07-04T12-52_1",
         "rank": 1,
+        "title": "GAO flags satellite costs, launch risks in Space Force portfolio",
+        "category": "space",
+        "summary": "Watchdog cites growing costs for missile-warning satellites, digital engineering gaps and workforce reductions that could slow national security launches The post GAO flags satellite costs, launch risks in Space Force…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2022/07/FYsxAiQVQAE6yUJ.jpg?fit=800%2C467&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/gao-flags-satellite-costs-launch-risks-in-space-force-portfolio/"
+      },
+      {
+        "id": "auto_2026-07-04T12-52_2",
+        "rank": 2,
         "title": "LLMs and Math Combine to Map Human Decision-Making",
         "category": "neuroscience",
         "summary": "A new research framework that combines large language models (LLMs) with choice mathematics to evaluate human decision-making. By deploying LLMs to automatically interpret and code thousands of free-text participant…",
@@ -14,17 +24,7 @@
         "sourceUrl": "https://neurosciencenews.com/llm-cognitive-mapping-decision-making-30992/"
       },
       {
-        "id": "auto_2026-07-04T09-56_2",
-        "rank": 2,
-        "title": "Pegasus launches Swift reboost mission",
-        "category": "space",
-        "summary": "A Pegasus XL launched a mission to reboost a NASA astrophysics spacecraft on what may be the final flight of that rocket. The post Pegasus launches Swift reboost mission appeared first on SpaceNews .",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/pegasus-swift.jpeg?fit=1024%2C683&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/pegasus-launches-swift-reboost-mission/"
-      },
-      {
-        "id": "auto_2026-07-04T09-56_3",
+        "id": "auto_2026-07-04T12-52_3",
         "rank": 3,
         "title": "Video Friday: An Earthbound Mars Rover for the Moon",
         "category": "robotics",
@@ -34,7 +34,7 @@
         "sourceUrl": "https://spectrum.ieee.org/video-friday-nasa-lunar-rover"
       },
       {
-        "id": "auto_2026-07-04T09-56_4",
+        "id": "auto_2026-07-04T12-52_4",
         "rank": 4,
         "title": "Data centers use more power in the US than in any other country",
         "category": "energy",
@@ -44,7 +44,7 @@
         "sourceUrl": "https://www.canarymedia.com/articles/data-centers/data-centers-use-more-power-in-the-us-than-anywhere-else"
       },
       {
-        "id": "auto_2026-07-04T09-56_5",
+        "id": "auto_2026-07-04T12-52_5",
         "rank": 5,
         "title": "STAT+: Medicare takes another swing at 340B cuts to hospitals",
         "category": "biotech",
