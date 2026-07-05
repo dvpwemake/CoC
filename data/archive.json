@@ -1,11 +1,21 @@
 [
   {
-    "batchId": "auto_2026-07-05T16-50",
-    "scannedAt": "2026-07-05T16:50:35.399Z",
+    "batchId": "auto_2026-07-05T20-43",
+    "scannedAt": "2026-07-05T20:43:42.103Z",
     "items": [
       {
-        "id": "auto_2026-07-05T16-50_1",
+        "id": "auto_2026-07-05T20-43_1",
         "rank": 1,
+        "title": "Psychedelic Trips Can Halt Political Hate",
+        "category": "neuroscience",
+        "summary": "The collective cultural mood surrounding a psychedelic experience shapes its psychological aftermath. Participants whose most intense trips occurred on the Fourth of July reported a long-term decrease in support for…",
+        "image": "https://neurosciencenews.com/files/2026/07/psychedelic-political-violence-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/psychedelics-cultural-political-psychology-30993/"
+      },
+      {
+        "id": "auto_2026-07-05T20-43_2",
+        "rank": 2,
         "title": "NASA’s Hubble Spies Stellar Sparkler for July 4th",
         "category": "space",
         "summary": "Red, white, and blue stars glitter like a sparkler being waved on a dark night in this new image from NASA’s Hubble Space Telescope.",
@@ -14,17 +24,7 @@
         "sourceUrl": "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-stellar-sparkler-for-july-4th/"
       },
       {
-        "id": "auto_2026-07-05T16-50_2",
-        "rank": 2,
-        "title": "LLMs and Math Combine to Map Human Decision-Making",
-        "category": "neuroscience",
-        "summary": "A new research framework that combines large language models (LLMs) with choice mathematics to evaluate human decision-making. By deploying LLMs to automatically interpret and code thousands of free-text participant…",
-        "image": "https://neurosciencenews.com/files/2026/07/llm-math-decision-making-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/llm-cognitive-mapping-decision-making-30992/"
-      },
-      {
-        "id": "auto_2026-07-05T16-50_3",
+        "id": "auto_2026-07-05T20-43_3",
         "rank": 3,
         "title": "Video Friday: An Earthbound Mars Rover for the Moon",
         "category": "robotics",
@@ -34,7 +34,7 @@
         "sourceUrl": "https://spectrum.ieee.org/video-friday-nasa-lunar-rover"
       },
       {
-        "id": "auto_2026-07-05T16-50_4",
+        "id": "auto_2026-07-05T20-43_4",
         "rank": 4,
         "title": "Data centers use more power in the US than in any other country",
         "category": "energy",
@@ -44,7 +44,7 @@
         "sourceUrl": "https://www.canarymedia.com/articles/data-centers/data-centers-use-more-power-in-the-us-than-anywhere-else"
       },
       {
-        "id": "auto_2026-07-05T16-50_5",
+        "id": "auto_2026-07-05T20-43_5",
         "rank": 5,
         "title": "STAT+: Medicare takes another swing at 340B cuts to hospitals",
         "category": "biotech",
