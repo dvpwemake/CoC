@@ -1,10 +1,10 @@
 [
   {
-    "batchId": "auto_2026-07-05T01-30",
-    "scannedAt": "2026-07-05T01:30:39.087Z",
+    "batchId": "auto_2026-07-05T06-57",
+    "scannedAt": "2026-07-05T06:57:32.827Z",
     "items": [
       {
-        "id": "auto_2026-07-05T01-30_1",
+        "id": "auto_2026-07-05T06-57_1",
         "rank": 1,
         "title": "NASA’s Hubble Spies Stellar Sparkler for July 4th",
         "category": "space",
@@ -14,7 +14,7 @@
         "sourceUrl": "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-stellar-sparkler-for-july-4th/"
       },
       {
-        "id": "auto_2026-07-05T01-30_2",
+        "id": "auto_2026-07-05T06-57_2",
         "rank": 2,
         "title": "LLMs and Math Combine to Map Human Decision-Making",
         "category": "neuroscience",
@@ -24,7 +24,7 @@
         "sourceUrl": "https://neurosciencenews.com/llm-cognitive-mapping-decision-making-30992/"
       },
       {
-        "id": "auto_2026-07-05T01-30_3",
+        "id": "auto_2026-07-05T06-57_3",
         "rank": 3,
         "title": "Video Friday: An Earthbound Mars Rover for the Moon",
         "category": "robotics",
@@ -34,7 +34,7 @@
         "sourceUrl": "https://spectrum.ieee.org/video-friday-nasa-lunar-rover"
       },
       {
-        "id": "auto_2026-07-05T01-30_4",
+        "id": "auto_2026-07-05T06-57_4",
         "rank": 4,
         "title": "Data centers use more power in the US than in any other country",
         "category": "energy",
@@ -44,7 +44,7 @@
         "sourceUrl": "https://www.canarymedia.com/articles/data-centers/data-centers-use-more-power-in-the-us-than-anywhere-else"
       },
       {
-        "id": "auto_2026-07-05T01-30_5",
+        "id": "auto_2026-07-05T06-57_5",
         "rank": 5,
         "title": "STAT+: Medicare takes another swing at 340B cuts to hospitals",
         "category": "biotech",
