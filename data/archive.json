@@ -1,20 +1,20 @@
 [
   {
-    "batchId": "auto_2026-07-05T12-59",
-    "scannedAt": "2026-07-05T12:59:28.040Z",
+    "batchId": "auto_2026-07-05T16-50",
+    "scannedAt": "2026-07-05T16:50:35.399Z",
     "items": [
       {
-        "id": "auto_2026-07-05T12-59_1",
+        "id": "auto_2026-07-05T16-50_1",
         "rank": 1,
-        "title": "GAO flags satellite costs, launch risks in Space Force portfolio",
+        "title": "NASA’s Hubble Spies Stellar Sparkler for July 4th",
         "category": "space",
-        "summary": "Watchdog cites growing costs for missile-warning satellites, digital engineering gaps and workforce reductions that could slow national security launches The post GAO flags satellite costs, launch risks in Space Force…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2022/07/FYsxAiQVQAE6yUJ.jpg?fit=800%2C467&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/gao-flags-satellite-costs-launch-risks-in-space-force-portfolio/"
+        "summary": "Red, white, and blue stars glitter like a sparkler being waved on a dark night in this new image from NASA’s Hubble Space Telescope.",
+        "image": "https://assets.science.nasa.gov/content/dam/science/missions/hubble/stars/globular-clusters/Hubble_NGC6426_3_July4_FINAL2.tif/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "source": "NASA",
+        "sourceUrl": "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-stellar-sparkler-for-july-4th/"
       },
       {
-        "id": "auto_2026-07-05T12-59_2",
+        "id": "auto_2026-07-05T16-50_2",
         "rank": 2,
         "title": "LLMs and Math Combine to Map Human Decision-Making",
         "category": "neuroscience",
@@ -24,7 +24,7 @@
         "sourceUrl": "https://neurosciencenews.com/llm-cognitive-mapping-decision-making-30992/"
       },
       {
-        "id": "auto_2026-07-05T12-59_3",
+        "id": "auto_2026-07-05T16-50_3",
         "rank": 3,
         "title": "Video Friday: An Earthbound Mars Rover for the Moon",
         "category": "robotics",
@@ -34,7 +34,7 @@
         "sourceUrl": "https://spectrum.ieee.org/video-friday-nasa-lunar-rover"
       },
       {
-        "id": "auto_2026-07-05T12-59_4",
+        "id": "auto_2026-07-05T16-50_4",
         "rank": 4,
         "title": "Data centers use more power in the US than in any other country",
         "category": "energy",
@@ -44,7 +44,7 @@
         "sourceUrl": "https://www.canarymedia.com/articles/data-centers/data-centers-use-more-power-in-the-us-than-anywhere-else"
       },
       {
-        "id": "auto_2026-07-05T12-59_5",
+        "id": "auto_2026-07-05T16-50_5",
         "rank": 5,
         "title": "STAT+: Medicare takes another swing at 340B cuts to hospitals",
         "category": "biotech",
