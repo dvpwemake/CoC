@@ -1,5 +1,61 @@
 [
   {
+    "batchId": "auto_2026-07-05T01-30",
+    "scannedAt": "2026-07-05T01:30:39.087Z",
+    "items": [
+      {
+        "id": "auto_2026-07-05T01-30_1",
+        "rank": 1,
+        "title": "NASA’s Hubble Spies Stellar Sparkler for July 4th",
+        "category": "space",
+        "summary": "Red, white, and blue stars glitter like a sparkler being waved on a dark night in this new image from NASA’s Hubble Space Telescope.",
+        "image": "https://assets.science.nasa.gov/content/dam/science/missions/hubble/stars/globular-clusters/Hubble_NGC6426_3_July4_FINAL2.tif/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "source": "NASA",
+        "sourceUrl": "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-stellar-sparkler-for-july-4th/"
+      },
+      {
+        "id": "auto_2026-07-05T01-30_2",
+        "rank": 2,
+        "title": "LLMs and Math Combine to Map Human Decision-Making",
+        "category": "neuroscience",
+        "summary": "A new research framework that combines large language models (LLMs) with choice mathematics to evaluate human decision-making. By deploying LLMs to automatically interpret and code thousands of free-text participant…",
+        "image": "https://neurosciencenews.com/files/2026/07/llm-math-decision-making-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/llm-cognitive-mapping-decision-making-30992/"
+      },
+      {
+        "id": "auto_2026-07-05T01-30_3",
+        "rank": 3,
+        "title": "Video Friday: An Earthbound Mars Rover for the Moon",
+        "category": "robotics",
+        "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us…",
+        "image": "https://spectrum.ieee.org/media-library/mars-style-rover-prototype-on-rugged-ground-under-a-clear-sky-with-the-moon-visible.png?id=67083121&width=980",
+        "source": "IEEE Spectrum",
+        "sourceUrl": "https://spectrum.ieee.org/video-friday-nasa-lunar-rover"
+      },
+      {
+        "id": "auto_2026-07-05T01-30_4",
+        "rank": 4,
+        "title": "Data centers use more power in the US than in any other country",
+        "category": "energy",
+        "summary": "This article is part of our ​“Chart of the Week” series . Data centers use more electricity in the U.S. than in any other country — China included. In 2025, nearly 40% of all power demand from data centers came from…",
+        "image": "https://img.canarymedia.com/content/uploads/COTW-Data-centers.png?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=80&w=1200&s=6ab88e95914464011c02c651929f39c5",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/data-centers/data-centers-use-more-power-in-the-us-than-anywhere-else"
+      },
+      {
+        "id": "auto_2026-07-05T01-30_5",
+        "rank": 5,
+        "title": "STAT+: Medicare takes another swing at 340B cuts to hospitals",
+        "category": "biotech",
+        "summary": "Reducing Medicare payments for 340B drugs is the latest proposal focused on the hotly debated drug discount program.",
+        "image": "https://www.statnews.com/wp-content/uploads/2023/08/AdobeStock_385917483-1024x576.jpeg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/07/02/medicare-hospital-payment-340b-drugs-cut/?utm_campaign=rss"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-07-04T20-40",
     "scannedAt": "2026-07-04T20:40:21.296Z",
     "items": [
@@ -1006,61 +1062,5 @@
       }
     ],
     "batchId": "b1780698175371"
-  },
-  {
-    "scannedAt": "2026-06-04T22:41:56.656Z",
-    "items": [
-      {
-        "id": "b1780612916656_1",
-        "rank": 1,
-        "title": "Scientists Discover Quantum Effect That Could Eliminate Batteries",
-        "category": "quantum physics",
-        "summary": "Researchers at Queensland University of Technology have discovered how microscopic imperfections and atomic vibrations can control a powerful quantum effect in advanced materials. The nonlinear Hall effect can turn alternating electrical signals directly into usable current without traditional components, potentially enabling battery-free electronics powered by ambient energy. The effect direction reverses with temperature changes, allowing scientists to tune device performance.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260603023917.htm",
-        "image": "https://www.sciencedaily.com/images/1920/abstract-energy-mysterious-quantum-effect.webp"
-      },
-      {
-        "id": "b1780612916656_2",
-        "rank": 2,
-        "title": "University of Birmingham Breakthrough Turns Waste Heat Into Clean Hydrogen",
-        "category": "energy",
-        "summary": "Researchers have developed a perovskite-based catalyst that splits water into hydrogen at much lower temperatures than existing technologies. The breakthrough reduces operating temperatures by 500°C, enabling hydrogen production at 150-500°C with catalyst regeneration at 700-1000°C. This allows industrial waste heat from steel, cement, and glass production to power local hydrogen generation, potentially making clean fuel cheaper and more accessible.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260601025345.htm",
-        "image": "https://www.sciencedaily.com/images/1920/green-energy-hydrogen-pipelines-wind-turbines.webp"
-      },
-      {
-        "id": "b1780612916656_3",
-        "rank": 3,
-        "title": "New Light-Powered Chip Could Accelerate AI and Quantum Computing",
-        "category": "ai",
-        "summary": "Scientists at Monash University have created a tiny chip that can generate, steer, and read light-based information all in one device. The breakthrough uses atomically thin materials and nanoscale structures to control the valley degree of freedom in light, enabling new ways to encode information. The valleytronic chip operates at room temperature and could drive future breakthroughs in faster computing, lower energy consumption, and quantum technologies.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260601025343.htm",
-        "image": "https://www.sciencedaily.com/images/1920/photonic-valleytronic-chip-for-information-processing.webp"
-      },
-      {
-        "id": "b1780612916656_4",
-        "rank": 4,
-        "title": "NASA's X-59 Prepares for First Supersonic Flight to Break Sound Barrier Quietly",
-        "category": "space tech",
-        "summary": "NASA's X-59 quiet supersonic aircraft is set to break the sound barrier for the first time in early June 2026. The experimental jet is designed to replace thunderous sonic booms with a much quieter thump, potentially enabling supersonic passenger travel over populated areas. The aircraft will reach speeds over 630 mph at 43,000 feet, with eventual targets of Mach 1.6 at 60,000 feet. Success could lead to overturning the 50-year ban on supersonic flight over land.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260601025338.htm",
-        "image": "https://www.sciencedaily.com/images/1920/nasa-x-59-flying-over-land-and-water.webp"
-      },
-      {
-        "id": "b1780612916656_5",
-        "rank": 5,
-        "title": "Texas Scientists Reverse Brain Aging with Simple Nasal Spray",
-        "category": "neuroscience",
-        "summary": "Researchers at Texas A&M have developed a nasal spray using extracellular vesicles that appears to reverse brain aging by reducing inflammation and restoring cellular energy systems. After just two doses, memory and cognitive function improved for months in preclinical studies. The therapy targets neuroinflammation in the brain's memory center and has already received a U.S. patent, offering new hope for treating dementia and age-related cognitive decline.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/05/260526022018.htm",
-        "image": "https://www.sciencedaily.com/images/1920/human-thought-brain-boost-intellectual-power.webp"
-      }
-    ],
-    "batchId": "b1780612916656"
   }
 ]

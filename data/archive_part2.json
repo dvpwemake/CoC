@@ -1,5 +1,61 @@
 [
   {
+    "batchId": "auto_2026-06-25T21-19",
+    "scannedAt": "2026-06-25T21:19:33.819Z",
+    "items": [
+      {
+        "id": "auto_2026-06-25T21-19_1",
+        "rank": 1,
+        "title": "NASA, US Small Business Administration to Announce Partnership",
+        "category": "space",
+        "summary": "NASA and the U.S. Small Business Administration will sign a memorandum of agreement during a ceremony at 1 p.m. EDT, Monday, June 29, at NASA Headquarters in Washington. The agreement will create a new interagency…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/news-release/nasa-us-small-business-administration-to-announce-partnership/"
+      },
+      {
+        "id": "auto_2026-06-25T21-19_2",
+        "rank": 2,
+        "title": "Canine Cognitive Decline Alters Gait",
+        "category": "neuroscience",
+        "summary": "Researchers established that canine cognitive decline is directly associated with a shortened stride length in dogs' front limbs. Because thoracic limbs require heavy cortical control for balance and spatial awareness,…",
+        "image": "https://neurosciencenews.com/files/2026/06/canine-gait-cognitive-decline-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/dog-dementia-gait-stride-length-30955/"
+      },
+      {
+        "id": "auto_2026-06-25T21-19_3",
+        "rank": 3,
+        "title": "New ACIP charter broadens criteria for members, calls for review of alternatives to vaccines",
+        "category": "biotech",
+        "summary": "A new charter for the panel that advises the CDC on vaccine use substantially refocuses the responsibilities of the committee, downplaying its role in recommending the use of new vaccines.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/06/GettyImages-2249461848-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/06/25/acip-charter-responsibilities-rfk-jr/?utm_campaign=rss"
+      },
+      {
+        "id": "auto_2026-06-25T21-19_4",
+        "rank": 4,
+        "title": "Massachusetts Senate preserves energy-efficiency funding in new bill",
+        "category": "energy",
+        "summary": "The Massachusetts Senate on Wednesday unveiled its long-awaited energy legislation, a wide-ranging bill that touches on dozens of topics from plug-in solar to renewable energy procurement. Sponsors say the measures…",
+        "image": "https://img.canarymedia.com/content/uploads/Massachusetts-statehouse-golden-dome_GettyImages-2264475594.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=45304341fb72fc57b59e14b5dfd36bbb",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/energy-efficiency/massachusetts-senate-preserves-energy-efficiency-funding"
+      },
+      {
+        "id": "auto_2026-06-25T21-19_5",
+        "rank": 5,
+        "title": "Repositioning retail for the AI era",
+        "category": "ai",
+        "summary": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/MITTRIInfosysMacys-social-1200px.png?resize=1200,600",
+        "source": "MIT Technology Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/"
+      }
+    ]
+  },
+  {
     "scannedAt": "2026-06-12T18:19:32.258Z",
     "items": [
       {
@@ -222,61 +278,5 @@
       }
     ],
     "batchId": "b1781045114405"
-  },
-  {
-    "scannedAt": "2026-06-08T22:45:19.218Z",
-    "items": [
-      {
-        "id": "b1780958719218_1",
-        "rank": 1,
-        "title": "Apple's Revolutionary WWDC 2026: Gemini-Powered Siri and Multi-AI iOS 27 System",
-        "category": "ai",
-        "summary": "Apple CEO Tim Cook's final keynote unveiled a completely rebuilt Siri powered by a custom 1.2-trillion-parameter Google Gemini model, iOS 27 with multi-AI extensions system allowing Claude on iPhone for the first time, and comprehensive AI integration across all Apple platforms. The announcement represents a fundamental shift in Apple's AI strategy and marks the largest consumer AI deployment in history.",
-        "source": "BuildFastWithAI",
-        "sourceUrl": "https://www.buildfastwithai.com/blogs/ai-news-today-june-8-2026",
-        "image": "https://oukdqujzonxvqhiefdsv.supabase.co/storage/v1/object/public/blogs/b5f45e55-886b-4de9-89ed-1155c3dacd3b.png"
-      },
-      {
-        "id": "b1780958719218_2",
-        "rank": 2,
-        "title": "NASA's X-59 Supersonic Jet Breaks Sound Barrier for First Time",
-        "category": "space tech",
-        "summary": "NASA's experimental X-59 aircraft successfully broke the sound barrier for the first time on June 5, 2026, reaching Mach 1.1 and paving the way for commercial supersonic flight. The aircraft is designed to replace thunderous sonic booms with quieter sonic thumps, potentially revolutionizing air travel and marking a major milestone in aviation technology.",
-        "source": "Space.com",
-        "sourceUrl": "https://www.nasa.gov/aeronautics/x-59-first-supersonic-flight/",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/06/x59-first-supersonic-flight-m-1-077-clean-high.jpg"
-      },
-      {
-        "id": "b1780958719218_3",
-        "rank": 3,
-        "title": "Breakthrough Hydrogen Production Method Turns Waste Heat Into Clean Fuel",
-        "category": "energy",
-        "summary": "University of Birmingham researchers developed a revolutionary perovskite-based catalyst that splits water into hydrogen at temperatures between 150-500°C, dramatically lower than existing technologies. This breakthrough could enable factories, steel plants, and renewable energy sites to convert waste heat into valuable hydrogen fuel, potentially transforming clean energy production economics.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260601025345.htm",
-        "image": "https://www.sciencedaily.com/images/1920/green-energy-hydrogen-pipelines-wind-turbines.webp"
-      },
-      {
-        "id": "b1780958719218_4",
-        "rank": 4,
-        "title": "Scientists Identify Two Distinct Autism Subtypes Through Brain Connectivity Patterns",
-        "category": "neuroscience",
-        "summary": "Researchers from Italian Institute of Technology and Child Mind Institute discovered that autism includes at least two biologically distinct subtypes, each marked by different brain communication patterns. Using brain scans from nearly 1,000 people with autism, the study provides the first large-scale effort to connect human brain imaging patterns with underlying biological causes, opening pathways for precision medicine in autism treatment.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260602021634.htm",
-        "image": "https://www.sciencedaily.com/images/1920/brain-scan-color-black-and-white.webp"
-      },
-      {
-        "id": "b1780958719218_5",
-        "rank": 5,
-        "title": "Advanced In Vivo CAR-T Cell Therapy Shows Promise for Cancer Treatment",
-        "category": "biotech",
-        "summary": "New in vivo CAR-T cell therapy approaches are revolutionizing cancer treatment by generating therapeutic T cells directly inside patients' bodies rather than requiring complex external manufacturing. Early human trials demonstrate dramatically improved scalability, lower costs, and faster treatment times, moving from weeks-long processes to single infusions while potentially avoiding treatment-related exhaustion.",
-        "source": "Atlantis Bioscience",
-        "sourceUrl": "https://www.atlantisbioscience.com/blog/2026-biotech-outlook-10-breakthrough-trends-scientists-need-to-watch/",
-        "image": "https://www.atlantisbioscience.com/wp-content/uploads/2025/11/2026-Biotech-Outlook.webp"
-      }
-    ],
-    "batchId": "b1780958719218"
   }
 ]

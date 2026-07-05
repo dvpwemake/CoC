@@ -1,5 +1,61 @@
 [
   {
+    "batchId": "auto_2026-06-30T21-20",
+    "scannedAt": "2026-06-30T21:20:34.158Z",
+    "items": [
+      {
+        "id": "auto_2026-06-30T21-20_1",
+        "rank": 1,
+        "title": "Does Melatonin Help Reduce Chronic Pain?",
+        "category": "neuroscience",
+        "summary": "Melatonin can reduce chronic musculoskeletal pain by 9 to 10 points on a 100-point scale. This therapeutic relief matches the efficacy of opioids and NSAIDs while bypassing their severe risks of organ toxicity and…",
+        "image": "https://neurosciencenews.com/files/2026/06/melotonin-pain-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/melatonin-chronic-pain-management-30973/"
+      },
+      {
+        "id": "auto_2026-06-30T21-20_2",
+        "rank": 2,
+        "title": "NASA’s Chandra Reveals ‘Red, White, Blue’ Universe for US 250th",
+        "category": "space",
+        "summary": "In celebration of the 250th birthday of the United States, NASA has unveiled four cosmic images from its Chandra X-ray Observatory rendered in red, white, and blue that represent the wonders of the universe the agency…",
+        "image": "https://assets.science.nasa.gov/content/dam/science/missions/chandra/2026/250th_ngc3603.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "source": "NASA",
+        "sourceUrl": "https://science.nasa.gov/missions/chandra/nasas-chandra-reveals-red-white-blue-universe-for-us-250th/"
+      },
+      {
+        "id": "auto_2026-06-30T21-20_3",
+        "rank": 3,
+        "title": "Republican Tom Kean Jr. reveals depression diagnosis after his four-month absence from Congress",
+        "category": "biotech",
+        "summary": "Depression, the New Jersey congressman said, “is physical, it is emotional, and until you experience it yourself, it is difficult to fully understand how powerful this illness can be.”",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/06/AP26181659823884-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/06/30/republican-tom-kean-jr-reveals-depression-after-absence-from-congress/?utm_campaign=rss"
+      },
+      {
+        "id": "auto_2026-06-30T21-20_4",
+        "rank": 4,
+        "title": "Agriculture is ready for AI, but its data isn't",
+        "category": "ai",
+        "summary": "Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the groundwork.&#160; The use cases are promising, especially for an…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/Reltio-iStock-2279127589.jpg?resize=1200,600",
+        "source": "MIT Technology Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/"
+      },
+      {
+        "id": "auto_2026-06-30T21-20_5",
+        "rank": 5,
+        "title": "Vermont is boosting new homes that can cut energy use in half",
+        "category": "energy",
+        "summary": "Vermont just got its biggest delivery of superefficient manufactured homes — the latest example of how a pioneering state program can lower energy bills for residents of this type of affordable housing. The…",
+        "image": "https://img.canarymedia.com/content/uploads/evt-advanced-manufactured-homes-0020-6000x4000.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=f3f3fff23338d0c5ef5d20fba24646e0",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/energy-efficiency/vermont-cut-utility-bills-manufactured-homes"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-06-29T21-14",
     "scannedAt": "2026-06-29T21:14:46.695Z",
     "items": [
@@ -220,62 +276,6 @@
         "image": "https://spectrum.ieee.org/media-library/three-fingered-robotic-gripper-arm-crawls-upright-on-a-white-table.gif?id=67036633&width=980",
         "source": "IEEE Spectrum",
         "sourceUrl": "https://spectrum.ieee.org/video-friday-robot-grippers"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-06-25T21-19",
-    "scannedAt": "2026-06-25T21:19:33.819Z",
-    "items": [
-      {
-        "id": "auto_2026-06-25T21-19_1",
-        "rank": 1,
-        "title": "NASA, US Small Business Administration to Announce Partnership",
-        "category": "space",
-        "summary": "NASA and the U.S. Small Business Administration will sign a memorandum of agreement during a ceremony at 1 p.m. EDT, Monday, June 29, at NASA Headquarters in Washington. The agreement will create a new interagency…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
-        "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/news-release/nasa-us-small-business-administration-to-announce-partnership/"
-      },
-      {
-        "id": "auto_2026-06-25T21-19_2",
-        "rank": 2,
-        "title": "Canine Cognitive Decline Alters Gait",
-        "category": "neuroscience",
-        "summary": "Researchers established that canine cognitive decline is directly associated with a shortened stride length in dogs' front limbs. Because thoracic limbs require heavy cortical control for balance and spatial awareness,…",
-        "image": "https://neurosciencenews.com/files/2026/06/canine-gait-cognitive-decline-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/dog-dementia-gait-stride-length-30955/"
-      },
-      {
-        "id": "auto_2026-06-25T21-19_3",
-        "rank": 3,
-        "title": "New ACIP charter broadens criteria for members, calls for review of alternatives to vaccines",
-        "category": "biotech",
-        "summary": "A new charter for the panel that advises the CDC on vaccine use substantially refocuses the responsibilities of the committee, downplaying its role in recommending the use of new vaccines.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/06/GettyImages-2249461848-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/06/25/acip-charter-responsibilities-rfk-jr/?utm_campaign=rss"
-      },
-      {
-        "id": "auto_2026-06-25T21-19_4",
-        "rank": 4,
-        "title": "Massachusetts Senate preserves energy-efficiency funding in new bill",
-        "category": "energy",
-        "summary": "The Massachusetts Senate on Wednesday unveiled its long-awaited energy legislation, a wide-ranging bill that touches on dozens of topics from plug-in solar to renewable energy procurement. Sponsors say the measures…",
-        "image": "https://img.canarymedia.com/content/uploads/Massachusetts-statehouse-golden-dome_GettyImages-2264475594.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=45304341fb72fc57b59e14b5dfd36bbb",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/energy-efficiency/massachusetts-senate-preserves-energy-efficiency-funding"
-      },
-      {
-        "id": "auto_2026-06-25T21-19_5",
-        "rank": 5,
-        "title": "Repositioning retail for the AI era",
-        "category": "ai",
-        "summary": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/MITTRIInfosysMacys-social-1200px.png?resize=1200,600",
-        "source": "MIT Technology Review",
-        "sourceUrl": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/"
       }
     ]
   }
