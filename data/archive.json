@@ -1,5 +1,61 @@
 [
   {
+    "batchId": "auto_2026-07-06T01-44",
+    "scannedAt": "2026-07-06T01:44:10.242Z",
+    "items": [
+      {
+        "id": "auto_2026-07-06T01-44_1",
+        "rank": 1,
+        "title": "Psychedelic Trips Can Halt Political Hate",
+        "category": "neuroscience",
+        "summary": "The collective cultural mood surrounding a psychedelic experience shapes its psychological aftermath. Participants whose most intense trips occurred on the Fourth of July reported a long-term decrease in support for…",
+        "image": "https://neurosciencenews.com/files/2026/07/psychedelic-political-violence-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/psychedelics-cultural-political-psychology-30993/"
+      },
+      {
+        "id": "auto_2026-07-06T01-44_2",
+        "rank": 2,
+        "title": "NASA’s Hubble Spies Stellar Sparkler for July 4th",
+        "category": "space",
+        "summary": "Red, white, and blue stars glitter like a sparkler being waved on a dark night in this new image from NASA’s Hubble Space Telescope.",
+        "image": "https://assets.science.nasa.gov/content/dam/science/missions/hubble/stars/globular-clusters/Hubble_NGC6426_3_July4_FINAL2.tif/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "source": "NASA",
+        "sourceUrl": "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-stellar-sparkler-for-july-4th/"
+      },
+      {
+        "id": "auto_2026-07-06T01-44_3",
+        "rank": 3,
+        "title": "Video Friday: An Earthbound Mars Rover for the Moon",
+        "category": "robotics",
+        "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us…",
+        "image": "https://spectrum.ieee.org/media-library/mars-style-rover-prototype-on-rugged-ground-under-a-clear-sky-with-the-moon-visible.png?id=67083121&width=980",
+        "source": "IEEE Spectrum",
+        "sourceUrl": "https://spectrum.ieee.org/video-friday-nasa-lunar-rover"
+      },
+      {
+        "id": "auto_2026-07-06T01-44_4",
+        "rank": 4,
+        "title": "Data centers use more power in the US than in any other country",
+        "category": "energy",
+        "summary": "This article is part of our ​“Chart of the Week” series . Data centers use more electricity in the U.S. than in any other country — China included. In 2025, nearly 40% of all power demand from data centers came from…",
+        "image": "https://img.canarymedia.com/content/uploads/COTW-Data-centers.png?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=80&w=1200&s=6ab88e95914464011c02c651929f39c5",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/data-centers/data-centers-use-more-power-in-the-us-than-anywhere-else"
+      },
+      {
+        "id": "auto_2026-07-06T01-44_5",
+        "rank": 5,
+        "title": "STAT+: Medicare takes another swing at 340B cuts to hospitals",
+        "category": "biotech",
+        "summary": "Reducing Medicare payments for 340B drugs is the latest proposal focused on the hotly debated drug discount program.",
+        "image": "https://www.statnews.com/wp-content/uploads/2023/08/AdobeStock_385917483-1024x576.jpeg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/07/02/medicare-hospital-payment-340b-drugs-cut/?utm_campaign=rss"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-07-05T20-43",
     "scannedAt": "2026-07-05T20:43:42.103Z",
     "items": [
@@ -1006,61 +1062,5 @@
       }
     ],
     "batchId": "b1780784035810"
-  },
-  {
-    "scannedAt": "2026-06-05T22:22:55.371Z",
-    "items": [
-      {
-        "id": "b1780698175371_1",
-        "rank": 1,
-        "title": "AI-Designed Universal Coronavirus Vaccine Passes First Human Trial",
-        "category": "biotech",
-        "summary": "Scientists at the University of Cambridge have successfully tested an AI-designed universal coronavirus vaccine in humans for the first time, finding it to be safe and well tolerated. The vaccine generated immune responses against multiple coronaviruses, including SARS-CoV-2, SARS, and related bat viruses with pandemic potential. By targeting features shared across an entire virus family, it aims to provide protection even as viruses evolve, administered needle-free through a micro fluid jet delivery system.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260605023357.htm",
-        "image": "https://www.sciencedaily.com/images/1920/clinical-trial-volunteer-receiving-new-universal-vaccine.webp"
-      },
-      {
-        "id": "b1780698175371_2",
-        "rank": 2,
-        "title": "Giant Fire Tornadoes Could Clean Up Oil Spills with 95% Efficiency",
-        "category": "energy",
-        "summary": "Texas A&M University researchers have demonstrated that controlled fire whirls can clean up oil spills faster and more cleanly than traditional burning methods. The spinning flames consumed up to 95% of the oil while cutting soot emissions by 40%, potentially revolutionizing marine oil spill response. This breakthrough could help prevent spills from reaching sensitive marine habitats while dramatically reducing environmental pollution from cleanup operations.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260605023420.htm",
-        "image": "https://www.sciencedaily.com/images/1920/fire-tornado-oil-spill.webp"
-      },
-      {
-        "id": "b1780698175371_3",
-        "rank": 3,
-        "title": "Hidden Supermassive Black Hole Pairs May Finally Have Visible Signal",
-        "category": "space",
-        "summary": "Scientists from the University of Oxford and Max Planck Institute have proposed a groundbreaking method for finding tightly bound supermassive black hole pairs by searching for stars that flash repeatedly as their light is magnified by the black holes' gravity. The timing and brightness of these gravitational lensing bursts could provide a unique fingerprint of black holes slowly spiraling toward future collisions, solving one of astronomy's most challenging detection problems.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260605023418.htm",
-        "image": "https://www.sciencedaily.com/images/1920/gravitationally-lensed-starlight-by-supermassive-black-hole-binary.webp"
-      },
-      {
-        "id": "b1780698175371_4",
-        "rank": 4,
-        "title": "Quantum Complexity Discovered in Common Metal Cobalt",
-        "category": "ai",
-        "summary": "Scientists have uncovered unexpected quantum complexity inside cobalt, a metal long thought to be fully understood. Advanced measurements revealed a dense network of topological electronic states that remain robust at room temperature. These quantum states could enable new applications in quantum computing and spintronics, potentially transforming how we build quantum devices that operate without extreme cooling requirements.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260605023355.htm",
-        "image": "https://www.sciencedaily.com/images/1920/visualization-of-gas-flows-around-binary-protostar-system.webp"
-      },
-      {
-        "id": "b1780698175371_5",
-        "rank": 5,
-        "title": "Largest Collagen Study Reveals What Actually Works for Skin Health",
-        "category": "biotech",
-        "summary": "The most comprehensive collagen study ever conducted, analyzing nearly 8,000 participants, found clear evidence that collagen supplements improve skin health and ease osteoarthritis symptoms, especially when taken consistently over longer periods. Researchers also found modest benefits for muscle and tendon health. However, the study challenges claims about athletic performance enhancement, showing little effect on recovery or post-workout soreness, providing definitive guidance on collagen supplementation efficacy.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260604044302.htm",
-        "image": "https://www.sciencedaily.com/images/1920/smiling-woman-taking-collagen-supplement-pill.webp"
-      }
-    ],
-    "batchId": "b1780698175371"
   }
 ]
