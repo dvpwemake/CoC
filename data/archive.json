@@ -1,31 +1,41 @@
 [
   {
-    "batchId": "auto_2026-07-06T14-48",
-    "scannedAt": "2026-07-06T14:48:12.916Z",
+    "batchId": "auto_2026-07-06T18-01",
+    "scannedAt": "2026-07-06T18:01:53.820Z",
     "items": [
       {
-        "id": "auto_2026-07-06T14-48_1",
+        "id": "auto_2026-07-06T18-01_1",
         "rank": 1,
-        "title": "STAT+: Four major biotech updates to catch up on",
-        "category": "biotech",
-        "summary": "Anthropic CEO talks drug discovery, Medicare proposes steep 340B drug payment cuts, and more biotech news",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/06/GettyImages-2280225436-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/07/06/biotech-news-anthropic-ceo-dario-amodei-tempers-expectations/?utm_campaign=rss"
+        "title": "The Brain Prioritizes Spite Over Friendship",
+        "category": "neuroscience",
+        "summary": "A new study demonstrates that the human brain constructs multidimensional social maps from narrative experiences using rivalries as primary anchors.",
+        "image": "https://neurosciencenews.com/files/2026/07/social-rivalry-neuroscience-1155x749.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/brain-maps-social-rivalries-30997/"
       },
       {
-        "id": "auto_2026-07-06T14-48_2",
+        "id": "auto_2026-07-06T18-01_2",
         "rank": 2,
-        "title": "The term ‘dual-use' is misleading and dangerous",
+        "title": "NASA Seeks Industry Input on Second Phase of Commercial Space Stations",
         "category": "space",
-        "summary": "There is only technology. How it is employed is a question of intent, context and political will, not of the technology itself. A precision optical payload captures imagery whether the […] The post The term ‘dual-use'…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2022/06/United-Kingdom.jpg?fit=1024%2C618&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/the-term-dual-use-is-misleading-and-dangerous/"
+        "summary": "On Monday, NASA released a draft Request for Proposals (RFP) seeking feedback from American companies on the next phase of its commercial space stations strategy, aimed at ensuring a seamless transition of activities in…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/06/nasa-meatball-11-black-background.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/humans-in-space/commercial-space/nasa-seeks-industry-input-on-second-phase-of-commercial-space-stations/"
       },
       {
-        "id": "auto_2026-07-06T14-48_3",
+        "id": "auto_2026-07-06T18-01_3",
         "rank": 3,
+        "title": "STAT+: Online GLP-1 prescriptions are often fast, easy — and low on clinical oversight",
+        "category": "biotech",
+        "summary": "A new secret-shopper study found that GLP-1 prescriptions from telehealth sites aren't often backed by appropriate clinical care.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/07/jamastudy-2-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/07/06/glp-1-telehealth-prescriptions-jama-yale-secret-shopper-study/?utm_campaign=rss"
+      },
+      {
+        "id": "auto_2026-07-06T18-01_4",
+        "rank": 4,
         "title": "Duke Energy proposes special rules for data centers in North Carolina",
         "category": "energy",
         "summary": "For months, clean energy and consumer advocates in North Carolina have pressed Duke Energy to follow the national trend and create special rules and prices for data centers. The state’s predominant utility insisted such…",
@@ -34,24 +44,14 @@
         "sourceUrl": "https://www.canarymedia.com/articles/data-centers/duke-energy-proposes-special-rules-for-data-centers-in-north-carolina"
       },
       {
-        "id": "auto_2026-07-06T14-48_4",
-        "rank": 4,
-        "title": "Psychedelic Trips Can Halt Political Hate",
-        "category": "neuroscience",
-        "summary": "The collective cultural mood surrounding a psychedelic experience shapes its psychological aftermath. Participants whose most intense trips occurred on the Fourth of July reported a long-term decrease in support for…",
-        "image": "https://neurosciencenews.com/files/2026/07/psychedelic-political-violence-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/psychedelics-cultural-political-psychology-30993/"
-      },
-      {
-        "id": "auto_2026-07-06T14-48_5",
+        "id": "auto_2026-07-06T18-01_5",
         "rank": 5,
-        "title": "Video Friday: An Earthbound Mars Rover for the Moon",
+        "title": "Japan Pioneered Humanoid Robots—Can It Now Catch China?",
         "category": "robotics",
-        "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us…",
-        "image": "https://spectrum.ieee.org/media-library/mars-style-rover-prototype-on-rugged-ground-under-a-clear-sky-with-the-moon-visible.png?id=67083121&width=980",
+        "summary": "“In the future, the relationship between humans and robots will deepen, and the distinction between them will probably disappear.” This prediction, from one of the attendees at the recent Humanoids Summit in Tokyo ,…",
+        "image": "https://spectrum.ieee.org/media-library/a-middle-aged-asian-man-seated-next-to-an-uncanny-humanoid-robot-dressed-in-identical-glasses-hair-and-clothing.jpg?id=67080305&width=980",
         "source": "IEEE Spectrum",
-        "sourceUrl": "https://spectrum.ieee.org/video-friday-nasa-lunar-rover"
+        "sourceUrl": "https://spectrum.ieee.org/humanoid-robots-japan"
       }
     ]
   },
