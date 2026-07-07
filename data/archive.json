@@ -1,5 +1,61 @@
 [
   {
+    "batchId": "auto_2026-07-07T01-42",
+    "scannedAt": "2026-07-07T01:42:07.038Z",
+    "items": [
+      {
+        "id": "auto_2026-07-07T01-42_1",
+        "rank": 1,
+        "title": "STAT+: Vertex acquires Crinetics Pharmaceuticals for $10 billion as biotech M&#038;A booms",
+        "category": "biotech",
+        "summary": "Vertex Pharmaceuticals will spend $10 billion to acquire Crinetics Pharmaceuticals and its drug for a rare endocrine disorder, the companies said.",
+        "image": "https://www.statnews.com/wp-content/uploads/2024/07/AP20023802262338-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/07/06/vertex-acquires-crinetics-pharmaceuticals/?utm_campaign=rss"
+      },
+      {
+        "id": "auto_2026-07-07T01-42_2",
+        "rank": 2,
+        "title": "Blue Origin continues work on lunar landers during recovery from New Glenn explosion",
+        "category": "space",
+        "summary": "Blue Origin is continuing to develop its Blue Moon lunar landers, with seven vehicles in production, while recovering from the New Glenn pad explosion more than a month ago. The post Blue Origin continues work on lunar…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/mk2alpha.jpeg?fit=1024%2C720&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/blue-origin-continues-work-on-lunar-landers-during-recovery-from-new-glenn-explosion/"
+      },
+      {
+        "id": "auto_2026-07-07T01-42_3",
+        "rank": 3,
+        "title": "Mediterranean Diet Boosts Psychological Well-Being Over Age 50",
+        "category": "neuroscience",
+        "summary": "A new study demonstrates that adherence to a Mediterranean diet significantly boosts positive psychological well-being (autonomy, purpose, and self-realization) in people over 50. The research proved this protective…",
+        "image": "https://neurosciencenews.com/files/2026/07/med-diet-wellbeing-aging-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/mediterranean-diet-psychological-well-being-31003/"
+      },
+      {
+        "id": "auto_2026-07-07T01-42_4",
+        "rank": 4,
+        "title": "Your family's $300 stake in OpenAI",
+        "category": "ai",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/openai-money.jpg?resize=1200,600",
+        "source": "MIT Technology Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/"
+      },
+      {
+        "id": "auto_2026-07-07T01-42_5",
+        "rank": 5,
+        "title": "Duke Energy proposes special rules for data centers in North Carolina",
+        "category": "energy",
+        "summary": "For months, clean energy and consumer advocates in North Carolina have pressed Duke Energy to follow the national trend and create special rules and prices for data centers. The state’s predominant utility insisted such…",
+        "image": "https://img.canarymedia.com/content/uploads/GettyImages-1235716373-copy.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=e38c5f8952dedbee4f8ce130af32bf5e",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/data-centers/duke-energy-proposes-special-rules-for-data-centers-in-north-carolina"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-07-06T21-16",
     "scannedAt": "2026-07-06T21:16:53.423Z",
     "items": [
@@ -1006,61 +1062,5 @@
       }
     ],
     "batchId": "b1780870537401"
-  },
-  {
-    "scannedAt": "2026-06-06T22:13:55.811Z",
-    "items": [
-      {
-        "id": "b1780784035810_1",
-        "rank": 1,
-        "title": "GLP-1 Weight-Loss Drugs Linked to 30% Lower Breast Cancer Risk in Major Study",
-        "category": "biotech",
-        "summary": "A large study found that women taking GLP-1 drugs, the medication class behind Ozempic, Wegovy, Mounjaro, and Zepbound, were about 30% less likely to develop breast cancer. New research involving more than 110,000 women found that those taking GLP-1 drugs were significantly less likely to develop breast cancer, with researchers reporting that women using GLP-1 medications had roughly a 30% lower likelihood of developing breast cancer compared with women who were not taking the drugs.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260605023400.htm",
-        "image": "https://www.sciencedaily.com/images/1920/hand-holding-glp-1-semaglutide-ozempic-pen-close-up.webp"
-      },
-      {
-        "id": "b1780784035810_2",
-        "rank": 2,
-        "title": "NASA's X-59 Jet Breaks Sound Barrier for First Time, Reaches Mach 1.1",
-        "category": "space tech",
-        "summary": "NASA's X-59 quiet supersonic research aircraft exceeded the speed of sound for the first time on June 5, 2026, reaching a top speed of about Mach 1.1. The X-59, the centerpiece of NASA's Quesst (Quiet Supersonic Technology) program, is designed to generate mild thumps rather than clapping booms.",
-        "source": "Space.com",
-        "sourceUrl": "https://www.space.com/technology/aerospace/going-supersonic-nasas-x-59-jet-breaks-sound-barrier-for-the-1st-time",
-        "image": "https://cdn.mos.cms.futurecdn.net/wCYN3G8NXUGxytBGf5bC9E-2560-80.jpg"
-      },
-      {
-        "id": "b1780784035810_3",
-        "rank": 3,
-        "title": "AI-Designed Universal Coronavirus Vaccine Passes First Human Trial",
-        "category": "ai",
-        "summary": "Scientists have successfully tested an AI-designed universal coronavirus vaccine in humans for the first time, finding it to be safe and well tolerated. The vaccine generated immune responses against multiple coronaviruses, including SARS-CoV-2, SARS, and related bat viruses with pandemic potential. By targeting features shared across an entire virus family, it aims to provide protection even as viruses evolve.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260605023357.htm",
-        "image": "https://www.sciencedaily.com/images/1920/clinical-trial-volunteer-receiving-new-universal-vaccine.webp"
-      },
-      {
-        "id": "b1780784035810_4",
-        "rank": 4,
-        "title": "NASA Successfully Demonstrates Spacecraft Multi-Network Communication Capability",
-        "category": "space tech",
-        "summary": "NASA's PExT terminal has shown that spacecraft can seamlessly communicate through multiple government and commercial networks, a major step beyond traditional single-network systems. The mission is now expanding to test new capabilities that could revolutionize space communications.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com",
-        "image": "https://www.sciencedaily.com/images/scidaily-icon.png"
-      },
-      {
-        "id": "b1780784035810_5",
-        "rank": 5,
-        "title": "Scientists Discover New Brain Circuit That Controls Anxiety and Social Behavior",
-        "category": "neuroscience",
-        "summary": "A newly identified group of amygdala neurons appears to play a central role in anxiety and social behavior. Restoring normal activity in this tiny brain circuit reversed anxiety and social deficits in mice, revealing a promising new therapeutic target.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/news/mind_brain/neuroscience/",
-        "image": "https://www.sciencedaily.com/images/scidaily-icon.png"
-      }
-    ],
-    "batchId": "b1780784035810"
   }
 ]
