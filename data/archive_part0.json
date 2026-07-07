@@ -1,21 +1,41 @@
 [
   {
-    "batchId": "auto_2026-07-07T13-58",
-    "scannedAt": "2026-07-07T13:58:17.222Z",
+    "batchId": "auto_2026-07-07T17-48",
+    "scannedAt": "2026-07-07T17:48:22.022Z",
     "items": [
       {
-        "id": "auto_2026-07-07T13-58_1",
+        "id": "auto_2026-07-07T17-48_1",
         "rank": 1,
-        "title": "STAT+: &#8216;Secret shopper' study probes GLP-1 telehealth sites",
+        "title": "STAT+: FDA approves Vera Therapeutics kidney disease treatment",
         "category": "biotech",
-        "summary": "In this edition of STAT Health Tech: A 'secret shopper' study of telehealth sites prescribing GLP-1s, news about Epic, Anthropic, and brain implants.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/02/AdobeStock_1666420778-1024x576.jpeg",
+        "summary": "The FDA approved a new medicine from the biotech company Vera Therapeutics for patients with a type of chronic autoimmune kidney disease.",
+        "image": "https://www.statnews.com/wp-content/uploads/2022/12/AdobeStock_61891029-1024x576.jpeg",
         "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/07/07/secret-shopper-study-glp-1-telehealth-sites-health-tech/?utm_campaign=rss"
+        "sourceUrl": "https://www.statnews.com/2026/07/07/vera-therapeutics-kidney-disease-treatment-approval/?utm_campaign=rss"
       },
       {
-        "id": "auto_2026-07-07T13-58_2",
+        "id": "auto_2026-07-07T17-48_2",
         "rank": 2,
+        "title": "Single Cocaine Exposure Leaves a Long-Lasting Genetic Scar",
+        "category": "neuroscience",
+        "summary": "A new study reveals that a single exposure to cocaine induces long-lasting structural changes within dopaminergic neurons in the midbrain's ventral tegmental area.",
+        "image": "https://neurosciencenews.com/files/2026/07/cocaine-genetics-neurosceince-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/cocaine-exposure-dopamine-genetics-31008/"
+      },
+      {
+        "id": "auto_2026-07-07T17-48_3",
+        "rank": 3,
+        "title": "Artemis II Crew and Apollo 14 Moon Tree",
+        "category": "space",
+        "summary": "In this photograph, the Artemis II crew participates in the dedication of the Apollo 14 Moon tree at the Lunar Receiving Park at NASA's Johnson Space Center on June 25, 2026. This tree is a second-generation Apollo Moon…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/07/jsc2026e396761orig.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/image-article/artemis-ii-crew-and-apollo-14-moon-tree/"
+      },
+      {
+        "id": "auto_2026-07-07T17-48_4",
+        "rank": 4,
         "title": "The foundational elements of AI architecture that IT leaders need to scale",
         "category": "ai",
         "summary": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces risk, leaving IT…",
@@ -24,34 +44,14 @@
         "sourceUrl": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/"
       },
       {
-        "id": "auto_2026-07-07T13-58_3",
-        "rank": 3,
+        "id": "auto_2026-07-07T17-48_5",
+        "rank": 5,
         "title": "Trump admin could undermine energy efficiency with dubious new analysis",
         "category": "energy",
         "summary": "Energy-efficiency standards can make it more expensive to construct new buildings, but they save money for residents in the long run. In a new analysis, the Trump administration ignored the second half of that equation…",
         "image": "https://img.canarymedia.com/content/uploads/Insulation-in-modular-home-construction_GettyImages-2245398447.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=9255a5f689750238a33ab6bb8a13b29e",
         "source": "Canary Media",
         "sourceUrl": "https://www.canarymedia.com/articles/energy-efficiency/trump-admin-energy-efficiency-analysis"
-      },
-      {
-        "id": "auto_2026-07-07T13-58_4",
-        "rank": 4,
-        "title": "The World Cup From 250 Miles Up",
-        "category": "space",
-        "summary": "Over the years, astronauts aboard the International Space Station have photographed several of the cities hosting the 2026 FIFA World Cup.",
-        "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/an-orbital-view-of-world-cup-stadiums/ISS067-E-202213_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-        "source": "NASA",
-        "sourceUrl": "https://science.nasa.gov/earth/earth-observatory/the-world-cup-from-250-miles-up/"
-      },
-      {
-        "id": "auto_2026-07-07T13-58_5",
-        "rank": 5,
-        "title": "Mediterranean Diet Boosts Psychological Well-Being Over Age 50",
-        "category": "neuroscience",
-        "summary": "A new study demonstrates that adherence to a Mediterranean diet significantly boosts positive psychological well-being (autonomy, purpose, and self-realization) in people over 50. The research proved this protective…",
-        "image": "https://neurosciencenews.com/files/2026/07/med-diet-wellbeing-aging-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/mediterranean-diet-psychological-well-being-31003/"
       }
     ]
   },
