@@ -1,11 +1,21 @@
 [
   {
-    "batchId": "auto_2026-07-07T01-42",
-    "scannedAt": "2026-07-07T01:42:07.038Z",
+    "batchId": "auto_2026-07-07T07-25",
+    "scannedAt": "2026-07-07T07:25:09.456Z",
     "items": [
       {
-        "id": "auto_2026-07-07T01-42_1",
+        "id": "auto_2026-07-07T07-25_1",
         "rank": 1,
+        "title": "The World Cup From 250 Miles Up",
+        "category": "space",
+        "summary": "Over the years, astronauts aboard the International Space Station have photographed several of the cities hosting the 2026 FIFA World Cup.",
+        "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/an-orbital-view-of-world-cup-stadiums/ISS067-E-202213_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "source": "NASA",
+        "sourceUrl": "https://science.nasa.gov/earth/earth-observatory/the-world-cup-from-250-miles-up/"
+      },
+      {
+        "id": "auto_2026-07-07T07-25_2",
+        "rank": 2,
         "title": "STAT+: Vertex acquires Crinetics Pharmaceuticals for $10 billion as biotech M&#038;A booms",
         "category": "biotech",
         "summary": "Vertex Pharmaceuticals will spend $10 billion to acquire Crinetics Pharmaceuticals and its drug for a rare endocrine disorder, the companies said.",
@@ -14,17 +24,7 @@
         "sourceUrl": "https://www.statnews.com/2026/07/06/vertex-acquires-crinetics-pharmaceuticals/?utm_campaign=rss"
       },
       {
-        "id": "auto_2026-07-07T01-42_2",
-        "rank": 2,
-        "title": "Blue Origin continues work on lunar landers during recovery from New Glenn explosion",
-        "category": "space",
-        "summary": "Blue Origin is continuing to develop its Blue Moon lunar landers, with seven vehicles in production, while recovering from the New Glenn pad explosion more than a month ago. The post Blue Origin continues work on lunar…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/mk2alpha.jpeg?fit=1024%2C720&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/blue-origin-continues-work-on-lunar-landers-during-recovery-from-new-glenn-explosion/"
-      },
-      {
-        "id": "auto_2026-07-07T01-42_3",
+        "id": "auto_2026-07-07T07-25_3",
         "rank": 3,
         "title": "Mediterranean Diet Boosts Psychological Well-Being Over Age 50",
         "category": "neuroscience",
@@ -34,7 +34,7 @@
         "sourceUrl": "https://neurosciencenews.com/mediterranean-diet-psychological-well-being-31003/"
       },
       {
-        "id": "auto_2026-07-07T01-42_4",
+        "id": "auto_2026-07-07T07-25_4",
         "rank": 4,
         "title": "Your family's $300 stake in OpenAI",
         "category": "ai",
@@ -44,7 +44,7 @@
         "sourceUrl": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/"
       },
       {
-        "id": "auto_2026-07-07T01-42_5",
+        "id": "auto_2026-07-07T07-25_5",
         "rank": 5,
         "title": "Duke Energy proposes special rules for data centers in North Carolina",
         "category": "energy",
