@@ -1,21 +1,31 @@
 [
   {
-    "batchId": "auto_2026-07-07T10-41",
-    "scannedAt": "2026-07-07T10:41:48.112Z",
+    "batchId": "auto_2026-07-07T13-58",
+    "scannedAt": "2026-07-07T13:58:17.222Z",
     "items": [
       {
-        "id": "auto_2026-07-07T10-41_1",
+        "id": "auto_2026-07-07T13-58_1",
         "rank": 1,
-        "title": "5 takeaways from STAT’s series on the soaring cost of health insurance",
+        "title": "STAT+: &#8216;Secret shopper' study probes GLP-1 telehealth sites",
         "category": "biotech",
-        "summary": "Read the 5 key takeaways from STAT's series \"Out of Pocket, Out of Reach,\" an examination of workplace health insurance.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/07/oop-oor-takeaways-1-1024x576.jpg",
+        "summary": "In this edition of STAT Health Tech: A 'secret shopper' study of telehealth sites prescribing GLP-1s, news about Epic, Anthropic, and brain implants.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/02/AdobeStock_1666420778-1024x576.jpeg",
         "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/07/07/why-health-insurance-costs-so-much-out-of-pocket-series-key-takeaways/?utm_campaign=rss"
+        "sourceUrl": "https://www.statnews.com/2026/07/07/secret-shopper-study-glp-1-telehealth-sites-health-tech/?utm_campaign=rss"
       },
       {
-        "id": "auto_2026-07-07T10-41_2",
+        "id": "auto_2026-07-07T13-58_2",
         "rank": 2,
+        "title": "The foundational elements of AI architecture that IT leaders need to scale",
+        "category": "ai",
+        "summary": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces risk, leaving IT…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/iStock-2216481617_7fbe0d.jpg?resize=1200,600",
+        "source": "MIT Technology Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/"
+      },
+      {
+        "id": "auto_2026-07-07T13-58_3",
+        "rank": 3,
         "title": "Trump admin could undermine energy efficiency with dubious new analysis",
         "category": "energy",
         "summary": "Energy-efficiency standards can make it more expensive to construct new buildings, but they save money for residents in the long run. In a new analysis, the Trump administration ignored the second half of that equation…",
@@ -24,8 +34,8 @@
         "sourceUrl": "https://www.canarymedia.com/articles/energy-efficiency/trump-admin-energy-efficiency-analysis"
       },
       {
-        "id": "auto_2026-07-07T10-41_3",
-        "rank": 3,
+        "id": "auto_2026-07-07T13-58_4",
+        "rank": 4,
         "title": "The World Cup From 250 Miles Up",
         "category": "space",
         "summary": "Over the years, astronauts aboard the International Space Station have photographed several of the cities hosting the 2026 FIFA World Cup.",
@@ -34,24 +44,14 @@
         "sourceUrl": "https://science.nasa.gov/earth/earth-observatory/the-world-cup-from-250-miles-up/"
       },
       {
-        "id": "auto_2026-07-07T10-41_4",
-        "rank": 4,
+        "id": "auto_2026-07-07T13-58_5",
+        "rank": 5,
         "title": "Mediterranean Diet Boosts Psychological Well-Being Over Age 50",
         "category": "neuroscience",
         "summary": "A new study demonstrates that adherence to a Mediterranean diet significantly boosts positive psychological well-being (autonomy, purpose, and self-realization) in people over 50. The research proved this protective…",
         "image": "https://neurosciencenews.com/files/2026/07/med-diet-wellbeing-aging-neuroscience-1155x770.jpg",
         "source": "Neuroscience News",
         "sourceUrl": "https://neurosciencenews.com/mediterranean-diet-psychological-well-being-31003/"
-      },
-      {
-        "id": "auto_2026-07-07T10-41_5",
-        "rank": 5,
-        "title": "Your family's $300 stake in OpenAI",
-        "category": "ai",
-        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/openai-money.jpg?resize=1200,600",
-        "source": "MIT Technology Review",
-        "sourceUrl": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/"
       }
     ]
   },
