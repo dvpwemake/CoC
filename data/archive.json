@@ -1,21 +1,31 @@
 [
   {
-    "batchId": "auto_2026-07-08T13-20",
-    "scannedAt": "2026-07-08T13:20:23.030Z",
+    "batchId": "auto_2026-07-08T17-14",
+    "scannedAt": "2026-07-08T17:14:24.172Z",
     "items": [
       {
-        "id": "auto_2026-07-08T13-20_1",
+        "id": "auto_2026-07-08T17-14_1",
         "rank": 1,
-        "title": "STAT+: Pharmalittle: We’re reading about a Vera kidney drug approval, a U.K. Enhertu pricing deal, and more",
+        "title": "STAT+: In private meeting, Trump officials push to onshore generic drugmaking",
         "category": "biotech",
-        "summary": "The FDA approved a kidney disease drug from Vera Therapeutics called Trutakna, to treat IgA nephropathy",
-        "image": "https://www.statnews.com/wp-content/uploads/2015/11/PHARMALOT_LITTLE-copy-1024x576.jpg",
+        "summary": "Marco Rubio, RFK Jr., and Chris Klomp are urging industry leaders to make more medicines in the U.S.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/07/GettyImages-2282803939-1024x576.jpg",
         "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/pharmalot/2026/07/08/fda-approves-vera-kidney-drug-uk-enhertu-pricing-deal/?utm_campaign=rss"
+        "sourceUrl": "https://www.statnews.com/2026/07/08/trump-officials-want-to-make-generic-medicines-in-the-us/?utm_campaign=rss"
       },
       {
-        "id": "auto_2026-07-08T13-20_2",
+        "id": "auto_2026-07-08T17-14_2",
         "rank": 2,
+        "title": "Hubble Captures Star-Studded Cluster",
+        "category": "space",
+        "summary": "This image from NASA’s&#160;Hubble Space Telescope showcases&#160;Messier 3&#160;(M3), one of the Milky Way galaxy’s most massive globular clusters, or spherical collections of gravitationally bound stars.&#160;Globular…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/07/hubble-m3-july4-final.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/image-article/hubble-captures-star-studded-cluster/"
+      },
+      {
+        "id": "auto_2026-07-08T17-14_3",
+        "rank": 3,
         "title": "Southern California clean-heat rule survives key legal challenge",
         "category": "energy",
         "summary": "Southern California’s landmark rule to slash emissions from industrial heating sources just notched a major victory in court. The region has some of the worst air quality in the U.S., and the gas-fueled boilers and…",
@@ -24,17 +34,7 @@
         "sourceUrl": "https://www.canarymedia.com/articles/electrification/southern-california-clean-heat-rule-survives"
       },
       {
-        "id": "auto_2026-07-08T13-20_3",
-        "rank": 3,
-        "title": "Cottonwood Fire Chars Utah",
-        "category": "space",
-        "summary": "The blaze burned more than 150 square miles and swept through parts of a ski resort.",
-        "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/cottonwood-fire-chars-utah/utcottonwoodfire_oli_20260629_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-        "source": "NASA",
-        "sourceUrl": "https://science.nasa.gov/earth/earth-observatory/cottonwood-fire-chars-utah/"
-      },
-      {
-        "id": "auto_2026-07-08T13-20_4",
+        "id": "auto_2026-07-08T17-14_4",
         "rank": 4,
         "title": "IEEE Honors Robotics Pioneer Toshio Fukuda",
         "category": "robotics",
@@ -44,7 +44,7 @@
         "sourceUrl": "https://spectrum.ieee.org/ieee-honors-toshio-fukuda"
       },
       {
-        "id": "auto_2026-07-08T13-20_5",
+        "id": "auto_2026-07-08T17-14_5",
         "rank": 5,
         "title": "Childhood Trauma Negatively Impacts Adult Relationships",
         "category": "neuroscience",
