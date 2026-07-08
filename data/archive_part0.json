@@ -1,5 +1,61 @@
 [
   {
+    "batchId": "auto_2026-07-08T01-16",
+    "scannedAt": "2026-07-08T01:16:25.479Z",
+    "items": [
+      {
+        "id": "auto_2026-07-08T01-16_1",
+        "rank": 1,
+        "title": "D-Orbit signs launch-services contract with ArkEdge Space",
+        "category": "space",
+        "summary": "SAN FRANCISCO – Italian space logistics specialist D-Orbit will provide a series of launches aboard its ION Satellite Carrier for Japanese startup ArkEdge Space, under a contract announced July 8 […] The post D-Orbit…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/rsz_render_of_gea_-_d-orbits_in-orbit_servicing_vehicle-1.jpg?fit=879%2C494&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/d-orbit-signs-launch-services-contract-with-arkedge-space/"
+      },
+      {
+        "id": "auto_2026-07-08T01-16_2",
+        "rank": 2,
+        "title": "Childhood Trauma Negatively Impacts Adult Relationships",
+        "category": "neuroscience",
+        "summary": "A new study demonstrates that adverse childhood experiences impair adult romantic relationship quality by disrupting daily communication and conflict management.",
+        "image": "https://neurosciencenews.com/files/2026/07/relationships-child-trauma-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/childhood-trauma-adult-relationship-31014/"
+      },
+      {
+        "id": "auto_2026-07-08T01-16_3",
+        "rank": 3,
+        "title": "Quaise Energy raises $134M to fuel superhot geothermal ambitions",
+        "category": "energy",
+        "summary": "Startup Quaise Energy has raised $134 million to advance its first superhot geothermal power plant in central Oregon. On Tuesday, the Houston-based company announced the first tranche of its Series B financing round,…",
+        "image": "https://img.canarymedia.com/content/uploads/QUAISE0-00-43-08.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=708c5436eef1c33f18a9c60e57544b02",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/geothermal/quaise-energy-raises-134m"
+      },
+      {
+        "id": "auto_2026-07-08T01-16_4",
+        "rank": 4,
+        "title": "STAT+: FDA approves Vera Therapeutics kidney disease treatment",
+        "category": "biotech",
+        "summary": "The FDA approved a new medicine from the biotech company Vera Therapeutics for patients with a type of chronic autoimmune kidney disease.",
+        "image": "https://www.statnews.com/wp-content/uploads/2022/12/AdobeStock_61891029-1024x576.jpeg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/07/07/vera-therapeutics-kidney-disease-treatment-approval/?utm_campaign=rss"
+      },
+      {
+        "id": "auto_2026-07-08T01-16_5",
+        "rank": 5,
+        "title": "The foundational elements of AI architecture that IT leaders need to scale",
+        "category": "ai",
+        "summary": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces risk, leaving IT…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/iStock-2216481617_7fbe0d.jpg?resize=1200,600",
+        "source": "MIT Technology Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-07-07T21-11",
     "scannedAt": "2026-07-07T21:11:48.248Z",
     "items": [
@@ -213,62 +269,6 @@
       },
       {
         "id": "auto_2026-07-04T20-40_5",
-        "rank": 5,
-        "title": "STAT+: Medicare takes another swing at 340B cuts to hospitals",
-        "category": "biotech",
-        "summary": "Reducing Medicare payments for 340B drugs is the latest proposal focused on the hotly debated drug discount program.",
-        "image": "https://www.statnews.com/wp-content/uploads/2023/08/AdobeStock_385917483-1024x576.jpeg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/07/02/medicare-hospital-payment-340b-drugs-cut/?utm_campaign=rss"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-07-03T20-49",
-    "scannedAt": "2026-07-03T20:49:06.343Z",
-    "items": [
-      {
-        "id": "auto_2026-07-03T20-49_1",
-        "rank": 1,
-        "title": "Zero-Computational Path to High-Resolution Robotic Touch",
-        "category": "neuroscience",
-        "summary": "A new study introduces a soft robotic sensing skin made from mechanochromic materials. The polymer automatically converts mechanical strain into distinct structural color fields, allowing a low-cost camera to map…",
-        "image": "https://neurosciencenews.com/files/2026/07/robotic-touch-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/mechanochromic-skin-robotic-tactile-30990/"
-      },
-      {
-        "id": "auto_2026-07-03T20-49_2",
-        "rank": 2,
-        "title": "Video Friday: An Earthbound Mars Rover for the Moon",
-        "category": "robotics",
-        "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us…",
-        "image": "https://spectrum.ieee.org/media-library/mars-style-rover-prototype-on-rugged-ground-under-a-clear-sky-with-the-moon-visible.png?id=67083121&width=980",
-        "source": "IEEE Spectrum",
-        "sourceUrl": "https://spectrum.ieee.org/video-friday-nasa-lunar-rover"
-      },
-      {
-        "id": "auto_2026-07-03T20-49_3",
-        "rank": 3,
-        "title": "Chinese satellite manufacturer Hongqing raises $191 million",
-        "category": "space",
-        "summary": "HELSINKI — Hongqing Technology, the satellite manufacturing affiliate of launch firm Landspace, has secured one of the largest single raises for a Chinese commercial satellite maker. The funding round, announced […] The…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/Zhuque-2E-Spacesail-DTC-ChinaMobile02-9june2026-landspace.jpg?fit=1024%2C576&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/chinese-satellite-manufacturer-hongqing-raises-191-million/"
-      },
-      {
-        "id": "auto_2026-07-03T20-49_4",
-        "rank": 4,
-        "title": "Data centers use more power in the US than in any other country",
-        "category": "energy",
-        "summary": "This article is part of our ​“Chart of the Week” series . Data centers use more electricity in the U.S. than in any other country — China included. In 2025, nearly 40% of all power demand from data centers came from…",
-        "image": "https://img.canarymedia.com/content/uploads/COTW-Data-centers.png?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=80&w=1200&s=6ab88e95914464011c02c651929f39c5",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/data-centers/data-centers-use-more-power-in-the-us-than-anywhere-else"
-      },
-      {
-        "id": "auto_2026-07-03T20-49_5",
         "rank": 5,
         "title": "STAT+: Medicare takes another swing at 340B cuts to hospitals",
         "category": "biotech",
