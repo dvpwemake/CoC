@@ -1,20 +1,20 @@
 [
   {
-    "batchId": "auto_2026-07-08T10-02",
-    "scannedAt": "2026-07-08T10:02:22.533Z",
+    "batchId": "auto_2026-07-08T13-20",
+    "scannedAt": "2026-07-08T13:20:23.030Z",
     "items": [
       {
-        "id": "auto_2026-07-08T10-02_1",
+        "id": "auto_2026-07-08T13-20_1",
         "rank": 1,
-        "title": "STAT+: Trump administration pursues more durable changes to science policy after setbacks in court",
+        "title": "STAT+: Pharmalittle: We’re reading about a Vera kidney drug approval, a U.K. Enhertu pricing deal, and more",
         "category": "biotech",
-        "summary": "The White House has proposed sweeping changes to the bedrock regulation undergirding all federal contracts, empowering the executive branch to direct research, terminate grants, and external scientific reviews.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/07/STAT_NewSocialContractScience_f1_3000-1024x576.jpg",
+        "summary": "The FDA approved a kidney disease drug from Vera Therapeutics called Trutakna, to treat IgA nephropathy",
+        "image": "https://www.statnews.com/wp-content/uploads/2015/11/PHARMALOT_LITTLE-copy-1024x576.jpg",
         "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/07/08/trump-research-funding-scientists-see-omb-overreach-control/?utm_campaign=rss"
+        "sourceUrl": "https://www.statnews.com/pharmalot/2026/07/08/fda-approves-vera-kidney-drug-uk-enhertu-pricing-deal/?utm_campaign=rss"
       },
       {
-        "id": "auto_2026-07-08T10-02_2",
+        "id": "auto_2026-07-08T13-20_2",
         "rank": 2,
         "title": "Southern California clean-heat rule survives key legal challenge",
         "category": "energy",
@@ -24,7 +24,7 @@
         "sourceUrl": "https://www.canarymedia.com/articles/electrification/southern-california-clean-heat-rule-survives"
       },
       {
-        "id": "auto_2026-07-08T10-02_3",
+        "id": "auto_2026-07-08T13-20_3",
         "rank": 3,
         "title": "Cottonwood Fire Chars Utah",
         "category": "space",
@@ -34,7 +34,7 @@
         "sourceUrl": "https://science.nasa.gov/earth/earth-observatory/cottonwood-fire-chars-utah/"
       },
       {
-        "id": "auto_2026-07-08T10-02_4",
+        "id": "auto_2026-07-08T13-20_4",
         "rank": 4,
         "title": "IEEE Honors Robotics Pioneer Toshio Fukuda",
         "category": "robotics",
@@ -44,7 +44,7 @@
         "sourceUrl": "https://spectrum.ieee.org/ieee-honors-toshio-fukuda"
       },
       {
-        "id": "auto_2026-07-08T10-02_5",
+        "id": "auto_2026-07-08T13-20_5",
         "rank": 5,
         "title": "Childhood Trauma Negatively Impacts Adult Relationships",
         "category": "neuroscience",
