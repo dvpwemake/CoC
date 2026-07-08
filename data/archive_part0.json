@@ -1,21 +1,31 @@
 [
   {
-    "batchId": "auto_2026-07-08T17-14",
-    "scannedAt": "2026-07-08T17:14:24.172Z",
+    "batchId": "auto_2026-07-08T20-51",
+    "scannedAt": "2026-07-08T20:51:54.549Z",
     "items": [
       {
-        "id": "auto_2026-07-08T17-14_1",
+        "id": "auto_2026-07-08T20-51_1",
         "rank": 1,
-        "title": "STAT+: In private meeting, Trump officials push to onshore generic drugmaking",
+        "title": "STAT+: RFK Jr. plans to create list of injuries caused by Covid-19 vaccines",
         "category": "biotech",
-        "summary": "Marco Rubio, RFK Jr., and Chris Klomp are urging industry leaders to make more medicines in the U.S.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/07/GettyImages-2282803939-1024x576.jpg",
+        "summary": "It's not clear what conditions may make the list, but outside experts are watching it closely.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/07/GettyImages-1230308380-1024x576.jpg",
         "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/07/08/trump-officials-want-to-make-generic-medicines-in-the-us/?utm_campaign=rss"
+        "sourceUrl": "https://www.statnews.com/2026/07/08/hhs-to-propose-covid-19-countermeasures-injury-table/?utm_campaign=rss"
       },
       {
-        "id": "auto_2026-07-08T17-14_2",
+        "id": "auto_2026-07-08T20-51_2",
         "rank": 2,
+        "title": "Tears Can Be Used to Detect Dopamine Levels",
+        "category": "neuroscience",
+        "summary": "A new study introduces a low-cost, laser-induced graphene electrochemical sensor designed to detect dopamine levels in human tears.",
+        "image": "https://neurosciencenews.com/files/2026/07/tears-dopamine-neurosceince-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/tears-dopamine-parkinsons-neurotech-31017/"
+      },
+      {
+        "id": "auto_2026-07-08T20-51_3",
+        "rank": 3,
         "title": "Hubble Captures Star-Studded Cluster",
         "category": "space",
         "summary": "This image from NASA’s&#160;Hubble Space Telescope showcases&#160;Messier 3&#160;(M3), one of the Milky Way galaxy’s most massive globular clusters, or spherical collections of gravitationally bound stars.&#160;Globular…",
@@ -24,8 +34,8 @@
         "sourceUrl": "https://www.nasa.gov/image-article/hubble-captures-star-studded-cluster/"
       },
       {
-        "id": "auto_2026-07-08T17-14_3",
-        "rank": 3,
+        "id": "auto_2026-07-08T20-51_4",
+        "rank": 4,
         "title": "Southern California clean-heat rule survives key legal challenge",
         "category": "energy",
         "summary": "Southern California’s landmark rule to slash emissions from industrial heating sources just notched a major victory in court. The region has some of the worst air quality in the U.S., and the gas-fueled boilers and…",
@@ -34,24 +44,14 @@
         "sourceUrl": "https://www.canarymedia.com/articles/electrification/southern-california-clean-heat-rule-survives"
       },
       {
-        "id": "auto_2026-07-08T17-14_4",
-        "rank": 4,
+        "id": "auto_2026-07-08T20-51_5",
+        "rank": 5,
         "title": "IEEE Honors Robotics Pioneer Toshio Fukuda",
         "category": "robotics",
         "summary": "Toshio Fukuda has been blazing trails for most of his career. He is considered to be one of the most prolific scholars in robotics , writing more than 2,000 research papers and authoring several books on the field. He’s…",
         "image": "https://spectrum.ieee.org/media-library/three-men-in-suits-onstage-smiling-as-one-presents-an-award-medal-in-a-box.jpg?id=67107362&width=980",
         "source": "IEEE Spectrum",
         "sourceUrl": "https://spectrum.ieee.org/ieee-honors-toshio-fukuda"
-      },
-      {
-        "id": "auto_2026-07-08T17-14_5",
-        "rank": 5,
-        "title": "Childhood Trauma Negatively Impacts Adult Relationships",
-        "category": "neuroscience",
-        "summary": "A new study demonstrates that adverse childhood experiences impair adult romantic relationship quality by disrupting daily communication and conflict management.",
-        "image": "https://neurosciencenews.com/files/2026/07/relationships-child-trauma-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/childhood-trauma-adult-relationship-31014/"
       }
     ]
   },
