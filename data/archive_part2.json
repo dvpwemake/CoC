@@ -1,5 +1,61 @@
 [
   {
+    "batchId": "auto_2026-06-29T21-14",
+    "scannedAt": "2026-06-29T21:14:46.695Z",
+    "items": [
+      {
+        "id": "auto_2026-06-29T21-14_1",
+        "rank": 1,
+        "title": "Comforting Others Is a Cultural Trait, Not a Universal Instinct",
+        "category": "neuroscience",
+        "summary": "Comforting others is a culturally bounded motive rather than a universal human instinct. While individualistic societies actively try to eliminate a peer's distress to foster intimacy, collectivistic cultures…",
+        "image": "https://neurosciencenews.com/files/2026/06/cultural-empathy-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/culture-empathy-interpersonal-emotion-30963/"
+      },
+      {
+        "id": "auto_2026-06-29T21-14_2",
+        "rank": 2,
+        "title": "STAT+: AstraZeneca to pay $34 million to settle kickback charges filed by Texas attorney general",
+        "category": "biotech",
+        "summary": "AstraZeneca agreed to pay $34 million to settle claims that the company paid kickbacks to improperly influence prescriptions paid for by Texas Medicaid.",
+        "image": "https://www.statnews.com/wp-content/uploads/2024/03/GettyImages-1213413730-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/pharmalot/2026/06/29/astrazeneca-kickback-charges-texas-settlement/?utm_campaign=rss"
+      },
+      {
+        "id": "auto_2026-06-29T21-14_3",
+        "rank": 3,
+        "title": "AI agents are not your \"coworkers\"",
+        "category": "ai",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine coming in to work to learn that a new underling will report to you. The…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/260625_AIAgents.jpg?resize=1200,600",
+        "source": "MIT Technology Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/"
+      },
+      {
+        "id": "auto_2026-06-29T21-14_4",
+        "rank": 4,
+        "title": "ESA to seek lunar mapping capability for Argonaut lander",
+        "category": "space",
+        "summary": "MILAN — The European Space Agency will rely on external lunar topographic data during the design phase of its Argonaut lunar lander, and possibly for its first mission, while working […] The post ESA to seek lunar…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/Artist_s_view_of_the_Argonaut_lunar_lander-scaled.jpg?fit=1024%2C625&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/esa-to-seek-lunar-mapping-capability-for-argonaut-lander/"
+      },
+      {
+        "id": "auto_2026-06-29T21-14_5",
+        "rank": 5,
+        "title": "A year after US Steel was sold, communities push for clean investment",
+        "category": "energy",
+        "summary": "A year ago this month, Japan’s Nippon Steel acquired U.S. Steel, promising to plow $14 billion into America’s legendary but long-declining steel industry. The hard-fought deal was controversial and highly politicized .…",
+        "image": "https://img.canarymedia.com/content/uploads/Gary-Works-rooftop-view.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=04a83af6341e3db8a87833029e1c8b3f",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/green-steel/year-after-us-steel-sold"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-06-28T20-48",
     "scannedAt": "2026-06-28T20:48:02.864Z",
     "items": [
@@ -222,61 +278,5 @@
         "sourceUrl": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/"
       }
     ]
-  },
-  {
-    "scannedAt": "2026-06-12T18:19:32.258Z",
-    "items": [
-      {
-        "id": "b1781288372258_1",
-        "rank": 1,
-        "title": "Stanford Scientists Regrow Lost Cartilage and Reverse Arthritis in Major Breakthrough",
-        "category": "biotech",
-        "summary": "Stanford Medicine researchers achieved a groundbreaking treatment that blocks an aging-related protein, successfully restoring lost cartilage in old mice and helping prevent arthritis after knee injuries. Human cartilage samples showed similar signs of regeneration, raising hopes for future drugs that could replace joint surgery. The therapy dramatically improved movement and joint function by targeting the 15-PGDH protein linked to aging.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260612021604.htm",
-        "image": "https://www.sciencedaily.com/images/1920/3d-knee-joint-inflammation-osteoarthritis.webp"
-      },
-      {
-        "id": "b1781288372258_2",
-        "rank": 2,
-        "title": "Prometheus AI Company Raises $12 Billion for Artificial General Engineers",
-        "category": "ai",
-        "summary": "Biotech AI startup Prometheus secured a massive $12 billion funding round to develop artificial general engineers that can automate complex engineering tasks in drug discovery and biotechnology. The company aims to create AI systems capable of independent scientific reasoning and experimental design, potentially revolutionizing pharmaceutical research and development timelines.",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/06/12/biotech-news-prometheus-raises-12-billion-for-artificial-engineers/",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/04/AdobeStock_573445441-1024x576.jpeg"
-      },
-      {
-        "id": "b1781288372258_3",
-        "rank": 3,
-        "title": "Giant Underground Neutrino Detector Achieves Precision Breakthrough in China",
-        "category": "neuroscience",
-        "summary": "The massive JUNO neutrino observatory deep beneath the ground in China delivered its first major scientific breakthrough, achieving one of the most precise measurements yet of how elusive neutrino particles behave. This advancement brings scientists closer to cracking fundamental mysteries about neutrinos and could revolutionize our understanding of particle physics and the universe.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/",
-        "image": "https://www.sciencedaily.com/images/scidaily-icon.png"
-      },
-      {
-        "id": "b1781288372258_4",
-        "rank": 4,
-        "title": "NASA Announces Artemis III Crew for Critical Moon Mission Testing",
-        "category": "space tech",
-        "summary": "NASA revealed the four-astronaut crew selected for the crucial Artemis III mission, designed to test rendezvous and docking procedures with lunar landers in Earth orbit next year. The mission represents a critical milestone before sending astronauts back to the Moon for landing in 2028, involving both SpaceX Starship and Blue Origin's Blue Moon Mark 2 landers.",
-        "source": "Spaceflight Now",
-        "sourceUrl": "https://www.nasa.gov/missions/artemis/artemis-iii/",
-        "image": "https://www.nasa.gov/wp-content/uploads/2022/11/52508358665_efb8a65d31_o.jpg"
-      },
-      {
-        "id": "b1781288372258_5",
-        "rank": 5,
-        "title": "Brain-Inspired Chip Functions Near Absolute Zero for Quantum Computing",
-        "category": "energy",
-        "summary": "Scientists at the University of Hong Kong created a remarkable brain-inspired chip that can function just above absolute zero temperature, representing one of the coldest operational environments ever achieved. This breakthrough could transform quantum computing by enabling ultra-efficient processing in cryogenic conditions, potentially solving major energy challenges in quantum systems.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/",
-        "image": "https://www.sciencedaily.com/images/scidaily-icon.png"
-      }
-    ],
-    "batchId": "b1781288372258"
   }
 ]
