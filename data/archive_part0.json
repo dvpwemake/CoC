@@ -1,21 +1,41 @@
 [
   {
-    "batchId": "auto_2026-07-09T07-25",
-    "scannedAt": "2026-07-09T07:25:51.629Z",
+    "batchId": "auto_2026-07-09T14-20",
+    "scannedAt": "2026-07-09T14:20:36.175Z",
     "items": [
       {
-        "id": "auto_2026-07-09T07-25_1",
+        "id": "auto_2026-07-09T14-20_1",
         "rank": 1,
-        "title": "Super Typhoon Bavi",
-        "category": "space",
-        "summary": "The third category 5 tropical cyclone of 2026 crossed the U.S. Northern Mariana Islands and Guam before continuing toward Asia.",
-        "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/super-typhoon-bavi/typhoonbavi_vir_20260705_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-        "source": "NASA",
-        "sourceUrl": "https://science.nasa.gov/earth/earth-observatory/super-typhoon-bavi/"
+        "title": "STAT+: Prime wins Beam arbitration, clearing path to clinic",
+        "category": "biotech",
+        "summary": "AstraZeneca, Ionis report major trial failure, White House pushes for American drug manufacturing, and more biotech news from The Readout",
+        "image": "https://www.statnews.com/wp-content/uploads/2025/03/AdobeStock_541506167_Editorial_Use_Only-1024x576.jpeg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/07/09/biotech-news-prime-wins-beam-arbitration-clearing-path-to-clinic/?utm_campaign=rss"
       },
       {
-        "id": "auto_2026-07-09T07-25_2",
+        "id": "auto_2026-07-09T14-20_2",
         "rank": 2,
+        "title": "Space Force awards Pulse Space $40 million to advance laser power technology",
+        "category": "space",
+        "summary": "The startup is developing laser systems that transmit power and data between spacecraft The post Space Force awards Pulse Space $40 million to advance laser power technology appeared first on SpaceNews .",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/Screenshot-2026-07-08-at-10.15.51-PM.png?fit=1024%2C569&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/space-force-awards-pulse-space-40-million-to-advance-laser-power-technology/"
+      },
+      {
+        "id": "auto_2026-07-09T14-20_3",
+        "rank": 3,
+        "title": "New Trump rules make it more costly to electrify North Carolina homes",
+        "category": "energy",
+        "summary": "In the rugged mountains of Ashe County, North Carolina, woodstoves and propane heat are common — and money tends to be tight. That’s especially true for families still recovering from Hurricane Helene nearly two years…",
+        "image": "https://img.canarymedia.com/content/uploads/Propane-heater-in-Falmouth_GettyImages-493019747.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=2f976bab6e9c463c47ff7ea8758eee7e",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/electrification/new-trump-rules-costly-to-electrify"
+      },
+      {
+        "id": "auto_2026-07-09T14-20_4",
+        "rank": 4,
         "title": "Alcohol Alters Brain Flexibility Based on Hidden Dementia Markings",
         "category": "neuroscience",
         "summary": "Alcohol interacts differently with amyloid-beta and tau pathologies in the brain's corticostriatal circuit.",
@@ -24,27 +44,7 @@
         "sourceUrl": "https://neurosciencenews.com/alcohol-tau-amyloid-alzheimers-31019/"
       },
       {
-        "id": "auto_2026-07-09T07-25_3",
-        "rank": 3,
-        "title": "STAT+: RFK Jr. plans to create list of injuries caused by Covid-19 vaccines",
-        "category": "biotech",
-        "summary": "It's not clear what conditions may make the list, but outside experts are watching it closely.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/07/GettyImages-1230308380-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/07/08/hhs-to-propose-covid-19-countermeasures-injury-table/?utm_campaign=rss"
-      },
-      {
-        "id": "auto_2026-07-09T07-25_4",
-        "rank": 4,
-        "title": "Southern California clean-heat rule survives key legal challenge",
-        "category": "energy",
-        "summary": "Southern California’s landmark rule to slash emissions from industrial heating sources just notched a major victory in court. The region has some of the worst air quality in the U.S., and the gas-fueled boilers and…",
-        "image": "https://img.canarymedia.com/content/uploads/Gas-flames_GettyImages-539260384.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=b3fad5caa70e9f95fcbe54f021ee10c6",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/electrification/southern-california-clean-heat-rule-survives"
-      },
-      {
-        "id": "auto_2026-07-09T07-25_5",
+        "id": "auto_2026-07-09T14-20_5",
         "rank": 5,
         "title": "IEEE Honors Robotics Pioneer Toshio Fukuda",
         "category": "robotics",
