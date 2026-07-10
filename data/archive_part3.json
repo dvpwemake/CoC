@@ -1,5 +1,61 @@
 [
   {
+    "batchId": "auto_2026-06-25T21-19",
+    "scannedAt": "2026-06-25T21:19:33.819Z",
+    "items": [
+      {
+        "id": "auto_2026-06-25T21-19_1",
+        "rank": 1,
+        "title": "NASA, US Small Business Administration to Announce Partnership",
+        "category": "space",
+        "summary": "NASA and the U.S. Small Business Administration will sign a memorandum of agreement during a ceremony at 1 p.m. EDT, Monday, June 29, at NASA Headquarters in Washington. The agreement will create a new interagency…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/news-release/nasa-us-small-business-administration-to-announce-partnership/"
+      },
+      {
+        "id": "auto_2026-06-25T21-19_2",
+        "rank": 2,
+        "title": "Canine Cognitive Decline Alters Gait",
+        "category": "neuroscience",
+        "summary": "Researchers established that canine cognitive decline is directly associated with a shortened stride length in dogs' front limbs. Because thoracic limbs require heavy cortical control for balance and spatial awareness,…",
+        "image": "https://neurosciencenews.com/files/2026/06/canine-gait-cognitive-decline-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/dog-dementia-gait-stride-length-30955/"
+      },
+      {
+        "id": "auto_2026-06-25T21-19_3",
+        "rank": 3,
+        "title": "New ACIP charter broadens criteria for members, calls for review of alternatives to vaccines",
+        "category": "biotech",
+        "summary": "A new charter for the panel that advises the CDC on vaccine use substantially refocuses the responsibilities of the committee, downplaying its role in recommending the use of new vaccines.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/06/GettyImages-2249461848-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/06/25/acip-charter-responsibilities-rfk-jr/?utm_campaign=rss"
+      },
+      {
+        "id": "auto_2026-06-25T21-19_4",
+        "rank": 4,
+        "title": "Massachusetts Senate preserves energy-efficiency funding in new bill",
+        "category": "energy",
+        "summary": "The Massachusetts Senate on Wednesday unveiled its long-awaited energy legislation, a wide-ranging bill that touches on dozens of topics from plug-in solar to renewable energy procurement. Sponsors say the measures…",
+        "image": "https://img.canarymedia.com/content/uploads/Massachusetts-statehouse-golden-dome_GettyImages-2264475594.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=45304341fb72fc57b59e14b5dfd36bbb",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/energy-efficiency/massachusetts-senate-preserves-energy-efficiency-funding"
+      },
+      {
+        "id": "auto_2026-06-25T21-19_5",
+        "rank": 5,
+        "title": "Repositioning retail for the AI era",
+        "category": "ai",
+        "summary": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/MITTRIInfosysMacys-social-1200px.png?resize=1200,600",
+        "source": "MIT Technology Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/"
+      }
+    ]
+  },
+  {
     "scannedAt": "2026-06-12T18:19:32.258Z",
     "items": [
       {
@@ -166,61 +222,5 @@
       }
     ],
     "batchId": "b1781132132976"
-  },
-  {
-    "scannedAt": "2026-06-09T22:45:14.405Z",
-    "items": [
-      {
-        "id": "b1781045114405_1",
-        "rank": 1,
-        "title": "Light-Powered Quantum Valley Chip Breaks Computing Barriers",
-        "category": "quantum",
-        "summary": "Scientists at Monash University have created a tiny chip that can generate, steer, and read light-based information all in one device, marking a major leap toward ultra-fast, energy-efficient computing. The breakthrough uses atomically thin materials and nanoscale structures to control a unique quantum property of light called the \"valley\" degree of freedom, allowing information to be encoded in new ways. This photonic valleytronic chip represents a significant milestone for quantum technologies and could revolutionize AI and quantum computing by enabling faster, more energy-efficient processing.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260601025343.htm",
-        "image": "https://www.sciencedaily.com/images/1920/photonic-valleytronic-chip-for-information-processing.webp"
-      },
-      {
-        "id": "b1781045114405_2",
-        "rank": 2,
-        "title": "NASA X-59 Achieves First Supersonic Flight Breaking Sound Barrier",
-        "category": "space",
-        "summary": "NASA's X-59 quiet supersonic research aircraft completed its first supersonic flight Friday, June 5, 2026, marking the first time the aircraft exceeded the speed of sound in support of NASA's Quesst mission. The milestone represents a major step in flight testing as the aircraft expands into the supersonic portion of its flight envelope. This breakthrough could revolutionize commercial aviation by enabling supersonic passenger travel with significantly reduced sonic booms.",
-        "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/",
-        "image": "https://www.nasa.gov/wp-content/uploads/2018/07/174116main_2006_01777_highres.jpg"
-      },
-      {
-        "id": "b1781045114405_3",
-        "rank": 3,
-        "title": "QuiX Quantum Installs Real-Time Photonic Control at 150-Nanosecond Speed",
-        "category": "quantum",
-        "summary": "QuiX Quantum has installed its Feed-Forward Control Unit (FFCU), a module that enables real-time adaptive operations within its photonic quantum computing stack by automating hardware reconfigurations at a deterministic 150-nanosecond latency. Combining a dual-FPGA processing bus with a 32×32 input/output routing matrix, the system converts single-photon detector inputs into instant phase modifications before the target photon can travel 30 meters. This breakthrough establishes the ultra-fast feedback loops required to scale measurement-based photonic quantum computers for integration with classical high-performance computing networks.",
-        "source": "Quantum Computing Report",
-        "sourceUrl": "https://quantumcomputingreport.com/news/",
-        "image": "https://quantumcomputingreport.com/wp-content/uploads/2022/12/QCR-by-GQI-Original-on-Transparent-20.png"
-      },
-      {
-        "id": "b1781045114405_4",
-        "rank": 4,
-        "title": "Neuro-Symbolic AI Reduces Energy Consumption by 100X While Boosting Performance",
-        "category": "ai",
-        "summary": "Researchers at Tufts University developed a neuro-symbolic AI system that combines neural networks with human-like symbolic reasoning, slashing energy consumption by up to 100 times compared to conventional approaches while dramatically improving performance. In robotic task tests using the Tower of Hanoi puzzle, the hybrid system achieved a 95% success rate versus 34% for standard models and trained in just 34 minutes versus more than a day and a half for traditional systems. This breakthrough represents a fundamental shift toward more efficient and capable AI systems.",
-        "source": "Crescendo AI",
-        "sourceUrl": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
-        "image": "https://cdn.prod.website-files.com/67166bf779ba8852260f7d1f/694a731a76c9d6876ddf8a8f_latest-ai-news-and-updates.png"
-      },
-      {
-        "id": "b1781045114405_5",
-        "rank": 5,
-        "title": "AI-Designed Universal Coronavirus Vaccine Passes First Human Trial",
-        "category": "biotech",
-        "summary": "Scientists have successfully tested an AI-designed universal coronavirus vaccine in humans for the first time, finding it to be safe and well tolerated. The vaccine generated immune responses against multiple coronavirus strains. Researchers at the University of Cambridge and DIOSynVax report the first human clinical trial of a vaccine whose active component was designed entirely by computer simulations. This breakthrough represents the convergence of artificial intelligence and biotechnology, potentially revolutionizing vaccine development for pandemic preparedness.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/news/top/science/",
-        "image": "https://www.sciencedaily.com/images/scidaily-icon.png"
-      }
-    ],
-    "batchId": "b1781045114405"
   }
 ]

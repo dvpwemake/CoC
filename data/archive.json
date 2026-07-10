@@ -1,5 +1,61 @@
 [
   {
+    "batchId": "auto_2026-07-10T01-21",
+    "scannedAt": "2026-07-10T01:21:43.371Z",
+    "items": [
+      {
+        "id": "auto_2026-07-10T01-21_1",
+        "rank": 1,
+        "title": "NASA Sets Coverage for Astronaut Anil Menon Launch to Space Station",
+        "category": "space",
+        "summary": "NASA astronaut Anil Menon will launch aboard the Roscosmos Soyuz MS-29 spacecraft to the International Space Station on Tuesday, July 14, accompanied by cosmonauts Pyotr Dubrov and Anna Kikina, where they will join the…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/07/55267327642-59dd18ea25-k-1.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-astronaut-anil-menon-launch-to-space-station/"
+      },
+      {
+        "id": "auto_2026-07-10T01-21_2",
+        "rank": 2,
+        "title": "NFL Players Face Fourfold Increase in Neurodegenerative Mortality",
+        "category": "neuroscience",
+        "summary": "A retrospective cohort study of 19,824 NFL players confirms that professional football veterans face a fourfold increase in neurodegenerative mortality, including a 3.8-fold surge in all-cause dementia and Parkinson's…",
+        "image": "https://neurosciencenews.com/files/2026/07/nfl-dementa-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/nfl-dementia-neurology-31029/"
+      },
+      {
+        "id": "auto_2026-07-10T01-21_3",
+        "rank": 3,
+        "title": "Anthropic found a hidden space where Claude puzzles over concepts",
+        "category": "ai",
+        "summary": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/llm-crystal-globe_1.jpg?resize=1200,600",
+        "source": "MIT Technology Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/"
+      },
+      {
+        "id": "auto_2026-07-10T01-21_4",
+        "rank": 4,
+        "title": "Whistleblower takes on health insurance and FDA commissioner candidates",
+        "category": "biotech",
+        "summary": "This week on \"The Readout LOUD\" podcast: Why does getting family health insurance through a job cost as much as buying a new car? And who might be the new…",
+        "image": "https://www.statnews.com/wp-content/uploads/2024/07/ROL_Rectangle-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/07/09/readout-loud-podcast-fda-commissioner-candidates-health-insurance-costs/?utm_campaign=rss"
+      },
+      {
+        "id": "auto_2026-07-10T01-21_5",
+        "rank": 5,
+        "title": "Ohio Power Siting Board asks court to punt on high-stakes solar case",
+        "category": "energy",
+        "summary": "For more than a year, the Ohio Supreme Court has been set to make a landmark ruling in a case with high stakes for renewable energy development. But now, the Ohio Power Siting Board has asked the court to skip that and…",
+        "image": "https://img.canarymedia.com/content/uploads/Ohio_Judicial_Center_façade_Wikipedia.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=64cbf2a9010769a921f78f8852307d1f",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/solar/ohio-power-siting-board-solar-case"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-07-09T21-08",
     "scannedAt": "2026-07-09T21:08:26.697Z",
     "items": [
@@ -1006,61 +1062,5 @@
       }
     ],
     "batchId": "b1781132132976"
-  },
-  {
-    "scannedAt": "2026-06-09T22:45:14.405Z",
-    "items": [
-      {
-        "id": "b1781045114405_1",
-        "rank": 1,
-        "title": "Light-Powered Quantum Valley Chip Breaks Computing Barriers",
-        "category": "quantum",
-        "summary": "Scientists at Monash University have created a tiny chip that can generate, steer, and read light-based information all in one device, marking a major leap toward ultra-fast, energy-efficient computing. The breakthrough uses atomically thin materials and nanoscale structures to control a unique quantum property of light called the \"valley\" degree of freedom, allowing information to be encoded in new ways. This photonic valleytronic chip represents a significant milestone for quantum technologies and could revolutionize AI and quantum computing by enabling faster, more energy-efficient processing.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260601025343.htm",
-        "image": "https://www.sciencedaily.com/images/1920/photonic-valleytronic-chip-for-information-processing.webp"
-      },
-      {
-        "id": "b1781045114405_2",
-        "rank": 2,
-        "title": "NASA X-59 Achieves First Supersonic Flight Breaking Sound Barrier",
-        "category": "space",
-        "summary": "NASA's X-59 quiet supersonic research aircraft completed its first supersonic flight Friday, June 5, 2026, marking the first time the aircraft exceeded the speed of sound in support of NASA's Quesst mission. The milestone represents a major step in flight testing as the aircraft expands into the supersonic portion of its flight envelope. This breakthrough could revolutionize commercial aviation by enabling supersonic passenger travel with significantly reduced sonic booms.",
-        "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/",
-        "image": "https://www.nasa.gov/wp-content/uploads/2018/07/174116main_2006_01777_highres.jpg"
-      },
-      {
-        "id": "b1781045114405_3",
-        "rank": 3,
-        "title": "QuiX Quantum Installs Real-Time Photonic Control at 150-Nanosecond Speed",
-        "category": "quantum",
-        "summary": "QuiX Quantum has installed its Feed-Forward Control Unit (FFCU), a module that enables real-time adaptive operations within its photonic quantum computing stack by automating hardware reconfigurations at a deterministic 150-nanosecond latency. Combining a dual-FPGA processing bus with a 32×32 input/output routing matrix, the system converts single-photon detector inputs into instant phase modifications before the target photon can travel 30 meters. This breakthrough establishes the ultra-fast feedback loops required to scale measurement-based photonic quantum computers for integration with classical high-performance computing networks.",
-        "source": "Quantum Computing Report",
-        "sourceUrl": "https://quantumcomputingreport.com/news/",
-        "image": "https://quantumcomputingreport.com/wp-content/uploads/2022/12/QCR-by-GQI-Original-on-Transparent-20.png"
-      },
-      {
-        "id": "b1781045114405_4",
-        "rank": 4,
-        "title": "Neuro-Symbolic AI Reduces Energy Consumption by 100X While Boosting Performance",
-        "category": "ai",
-        "summary": "Researchers at Tufts University developed a neuro-symbolic AI system that combines neural networks with human-like symbolic reasoning, slashing energy consumption by up to 100 times compared to conventional approaches while dramatically improving performance. In robotic task tests using the Tower of Hanoi puzzle, the hybrid system achieved a 95% success rate versus 34% for standard models and trained in just 34 minutes versus more than a day and a half for traditional systems. This breakthrough represents a fundamental shift toward more efficient and capable AI systems.",
-        "source": "Crescendo AI",
-        "sourceUrl": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
-        "image": "https://cdn.prod.website-files.com/67166bf779ba8852260f7d1f/694a731a76c9d6876ddf8a8f_latest-ai-news-and-updates.png"
-      },
-      {
-        "id": "b1781045114405_5",
-        "rank": 5,
-        "title": "AI-Designed Universal Coronavirus Vaccine Passes First Human Trial",
-        "category": "biotech",
-        "summary": "Scientists have successfully tested an AI-designed universal coronavirus vaccine in humans for the first time, finding it to be safe and well tolerated. The vaccine generated immune responses against multiple coronavirus strains. Researchers at the University of Cambridge and DIOSynVax report the first human clinical trial of a vaccine whose active component was designed entirely by computer simulations. This breakthrough represents the convergence of artificial intelligence and biotechnology, potentially revolutionizing vaccine development for pandemic preparedness.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/news/top/science/",
-        "image": "https://www.sciencedaily.com/images/scidaily-icon.png"
-      }
-    ],
-    "batchId": "b1781045114405"
   }
 ]
