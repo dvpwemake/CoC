@@ -1,5 +1,61 @@
 [
   {
+    "batchId": "auto_2026-06-26T21-10",
+    "scannedAt": "2026-06-26T21:10:46.383Z",
+    "items": [
+      {
+        "id": "auto_2026-06-26T21-10_1",
+        "rank": 1,
+        "title": "NASA Announces Winners for 2026 Human Lander Challenge",
+        "category": "space",
+        "summary": "NASA has announced the top student-developed solutions for environmental control and life support systems in future crewed lunar landers from participants in the 2026 Human Lander Challenge. The announcement marks the…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/06/ceb-6192.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-announces-winners-for-2026-human-lander-challenge/"
+      },
+      {
+        "id": "auto_2026-06-26T21-10_2",
+        "rank": 2,
+        "title": "Dual Brain-Machine Interfaces Unlock Bionic Hand Kinesthesia",
+        "category": "neuroscience",
+        "summary": "A new study combining data from two distinct brain-machine interfaces has revealed that the human brain processes artificial movement sensations as coordinated, subconscious hand synergies rather than isolated muscle…",
+        "image": "https://neurosciencenews.com/files/2026/06/bionic-arm-movement-bmi-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/prosthetic-kinesthesia-brain-machine-interface-30954/"
+      },
+      {
+        "id": "auto_2026-06-26T21-10_3",
+        "rank": 3,
+        "title": "These states are the best for EV buyers and drivers",
+        "category": "energy",
+        "summary": "America’s EV industry has suffered a series of bad breaks over the last year and a half. The end of federal tax credits for electric vehicles sent sales of new EVs off a cliff last fall. A nationwide buildout of…",
+        "image": "https://img.canarymedia.com/content/uploads/GettyImages-2269134706.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=7598837099e3c9f365da521da01718f1",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/electric-vehicles/these-states-are-the-best-for-ev-buyers-and-drivers"
+      },
+      {
+        "id": "auto_2026-06-26T21-10_4",
+        "rank": 4,
+        "title": "BIO 2026: AI, federal policy impacts, and general vibes",
+        "category": "biotech",
+        "summary": "What were the vibes like at BIO 2026? STAT reporters take you inside the annual industry conference on the latest episode of STATus Report.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/06/SR_41_STILL-2-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/06/26/bio-2026-san-diego-key-takeaways-status-report-alex-hogan/?utm_campaign=rss"
+      },
+      {
+        "id": "auto_2026-06-26T21-10_5",
+        "rank": 5,
+        "title": "Video Friday: Give Robots a Hand",
+        "category": "robotics",
+        "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us…",
+        "image": "https://spectrum.ieee.org/media-library/three-fingered-robotic-gripper-arm-crawls-upright-on-a-white-table.gif?id=67036633&width=980",
+        "source": "IEEE Spectrum",
+        "sourceUrl": "https://spectrum.ieee.org/video-friday-robot-grippers"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-06-25T21-19",
     "scannedAt": "2026-06-25T21:19:33.819Z",
     "items": [
@@ -166,61 +222,5 @@
       }
     ],
     "batchId": "b1781218477364"
-  },
-  {
-    "scannedAt": "2026-06-10T22:55:32.976Z",
-    "items": [
-      {
-        "id": "b1781132132976_1",
-        "rank": 1,
-        "title": "Nanoscale Gold Metamaterials Supercharge Heat Transfer by 400%",
-        "category": "energy",
-        "summary": "Scientists used nanoscale gold metamaterials to supercharge heat transfer across tiny gaps, achieving up to four times more energy flow than similar conventional systems. The breakthrough could lead to better chip cooling, more efficient energy technologies, and a new era of precision heat management for data centers and electronics.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com",
-        "image": "https://www.sciencedaily.com/images/scidaily-icon.png"
-      },
-      {
-        "id": "b1781132132976_2",
-        "rank": 2,
-        "title": "Tufts AI System Cuts Energy Consumption by 100x While Boosting Performance",
-        "category": "ai",
-        "summary": "Researchers at Tufts University developed a neuro-symbolic AI system that combines neural networks with human-like symbolic reasoning, slashing energy consumption by up to 100 times compared to conventional approaches while dramatically improving performance. In robotic task tests using the Tower of Hanoi puzzle, the hybrid system achieved a 95% success rate versus 34% for standard models and trained in just 34 minutes versus more than a day and a half for traditional systems.",
-        "source": "Crescendo AI",
-        "sourceUrl": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
-        "image": "https://cdn.prod.website-files.com/67166bf779ba8852260f7d1f/694a731a76c9d6876ddf8a8f_latest-ai-news-and-updates.png"
-      },
-      {
-        "id": "b1781132132976_3",
-        "rank": 3,
-        "title": "Scientists Discover New Alzheimer's Target and Experimental Drug",
-        "category": "neuroscience",
-        "summary": "Researchers have identified a new Alzheimer's target and created an experimental compound that blocks a damaging process inside brain cells. In mice, the treatment slowed nerve cell loss, reduced Alzheimer's-related changes, and even appeared to reverse some symptoms in preclinical trials.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com",
-        "image": "https://www.sciencedaily.com/images/scidaily-icon.png"
-      },
-      {
-        "id": "b1781132132976_4",
-        "rank": 4,
-        "title": "Breakthrough Hydrogen Production Method Uses Waste Heat",
-        "category": "energy",
-        "summary": "A breakthrough hydrogen-production method could make clean fuel far cheaper and easier to generate. Researchers at the University of Birmingham developed a perovskite-based catalyst that splits water into hydrogen at much lower temperatures than existing technologies, potentially allowing factories, steel plants, cement works, and renewable energy sites to turn waste heat into valuable hydrogen fuel.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com",
-        "image": "https://www.sciencedaily.com/images/scidaily-icon.png"
-      },
-      {
-        "id": "b1781132132976_5",
-        "rank": 5,
-        "title": "First Computer-Designed Vaccine Enters Human Clinical Trials",
-        "category": "biotech",
-        "summary": "Researchers at the University of Cambridge and DIOSynVax report the first human clinical trial of a vaccine whose active component was designed entirely by computer simulations. This represents a major milestone in computational drug design and could accelerate vaccine development for future pandemics.",
-        "source": "Wikipedia - 2026 in Science",
-        "sourceUrl": "https://en.wikipedia.org/wiki/2026_in_science",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Artemis_2_Crew_Portrait.jpg/960px-Artemis_2_Crew_Portrait.jpg"
-      }
-    ],
-    "batchId": "b1781132132976"
   }
 ]

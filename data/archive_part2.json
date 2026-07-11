@@ -1,5 +1,61 @@
 [
   {
+    "batchId": "auto_2026-07-01T21-14",
+    "scannedAt": "2026-07-01T21:14:12.055Z",
+    "items": [
+      {
+        "id": "auto_2026-07-01T21-14_1",
+        "rank": 1,
+        "title": "Slow Maternal Response Time Linked to ADHD in Kids",
+        "category": "neuroscience",
+        "summary": "Slower maternal vocal response times to 12-month-old infants predict an increased risk of ADHD and disruptive behavior disorders by age 7. For every 10% increase in the probability of a maternal response within one…",
+        "image": "https://neurosciencenews.com/files/2026/07/maternal-response-adhd-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/maternal-response-latency-childhood-adhd-30976/"
+      },
+      {
+        "id": "auto_2026-07-01T21-14_2",
+        "rank": 2,
+        "title": "FCC to vote on satellite licensing overhaul July 22",
+        "category": "space",
+        "summary": "The FCC is set to vote July 22 on an order to overhaul its satellite application process, creating a “licensing assembly line” to keep up with increasingly large and complex constellation plans. The post FCC to vote on…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/FCC-chairman-scaled.jpeg?fit=1024%2C704&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/fcc-to-vote-on-satellite-licensing-overhaul-july-22/"
+      },
+      {
+        "id": "auto_2026-07-01T21-14_3",
+        "rank": 3,
+        "title": "STAT+: The moment Anthropic convinced me it’s serious about science",
+        "category": "biotech",
+        "summary": "AI Prognosis: The release of Claude Science suggests big model makers are getting serious about real science, and not just flashy problems.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/06/AIPrognosis_Wordpress_Anthropic-1024x576.png",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/07/01/anthropic-claude-science-convinced-me-its-serious-ai-prognosis/?utm_campaign=rss"
+      },
+      {
+        "id": "auto_2026-07-01T21-14_4",
+        "rank": 4,
+        "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+        "category": "ai",
+        "summary": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll get 3 or 4. Type…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/260626_LLMhallucinations.jpg?resize=1200,600",
+        "source": "MIT Technology Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/"
+      },
+      {
+        "id": "auto_2026-07-01T21-14_5",
+        "rank": 5,
+        "title": "Martha’s Vineyard solar array will cut bills for low-income islanders",
+        "category": "energy",
+        "summary": "A new solar installation on Martha’s Vineyard is set to lower utility costs for hundreds of low-income, year-round residents on the island best known as an upscale vacation destination. The project is the first to come…",
+        "image": "https://img.canarymedia.com/content/uploads/MVH-Workforce-Housing-SolarShare-Image-1.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=86b7d7ffde719ca4f606655ca9c587cd",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/solar/marthas-vineyard-rooftop-array-cut-bills"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-06-30T21-20",
     "scannedAt": "2026-06-30T21:20:34.158Z",
     "items": [
@@ -213,62 +269,6 @@
       },
       {
         "id": "auto_2026-06-27T20-45_5",
-        "rank": 5,
-        "title": "Video Friday: Give Robots a Hand",
-        "category": "robotics",
-        "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us…",
-        "image": "https://spectrum.ieee.org/media-library/three-fingered-robotic-gripper-arm-crawls-upright-on-a-white-table.gif?id=67036633&width=980",
-        "source": "IEEE Spectrum",
-        "sourceUrl": "https://spectrum.ieee.org/video-friday-robot-grippers"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-06-26T21-10",
-    "scannedAt": "2026-06-26T21:10:46.383Z",
-    "items": [
-      {
-        "id": "auto_2026-06-26T21-10_1",
-        "rank": 1,
-        "title": "NASA Announces Winners for 2026 Human Lander Challenge",
-        "category": "space",
-        "summary": "NASA has announced the top student-developed solutions for environmental control and life support systems in future crewed lunar landers from participants in the 2026 Human Lander Challenge. The announcement marks the…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/06/ceb-6192.jpg",
-        "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-announces-winners-for-2026-human-lander-challenge/"
-      },
-      {
-        "id": "auto_2026-06-26T21-10_2",
-        "rank": 2,
-        "title": "Dual Brain-Machine Interfaces Unlock Bionic Hand Kinesthesia",
-        "category": "neuroscience",
-        "summary": "A new study combining data from two distinct brain-machine interfaces has revealed that the human brain processes artificial movement sensations as coordinated, subconscious hand synergies rather than isolated muscle…",
-        "image": "https://neurosciencenews.com/files/2026/06/bionic-arm-movement-bmi-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/prosthetic-kinesthesia-brain-machine-interface-30954/"
-      },
-      {
-        "id": "auto_2026-06-26T21-10_3",
-        "rank": 3,
-        "title": "These states are the best for EV buyers and drivers",
-        "category": "energy",
-        "summary": "America’s EV industry has suffered a series of bad breaks over the last year and a half. The end of federal tax credits for electric vehicles sent sales of new EVs off a cliff last fall. A nationwide buildout of…",
-        "image": "https://img.canarymedia.com/content/uploads/GettyImages-2269134706.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=7598837099e3c9f365da521da01718f1",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/electric-vehicles/these-states-are-the-best-for-ev-buyers-and-drivers"
-      },
-      {
-        "id": "auto_2026-06-26T21-10_4",
-        "rank": 4,
-        "title": "BIO 2026: AI, federal policy impacts, and general vibes",
-        "category": "biotech",
-        "summary": "What were the vibes like at BIO 2026? STAT reporters take you inside the annual industry conference on the latest episode of STATus Report.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/06/SR_41_STILL-2-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/06/26/bio-2026-san-diego-key-takeaways-status-report-alex-hogan/?utm_campaign=rss"
-      },
-      {
-        "id": "auto_2026-06-26T21-10_5",
         "rank": 5,
         "title": "Video Friday: Give Robots a Hand",
         "category": "robotics",

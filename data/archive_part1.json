@@ -1,5 +1,61 @@
 [
   {
+    "batchId": "auto_2026-07-06T21-16",
+    "scannedAt": "2026-07-06T21:16:53.423Z",
+    "items": [
+      {
+        "id": "auto_2026-07-06T21-16_1",
+        "rank": 1,
+        "title": "STAT+: Vertex acquires Crinetics Pharmaceuticals for $10 billion as biotech M&#038;A booms",
+        "category": "biotech",
+        "summary": "Vertex Pharmaceuticals will spend $10 billion to acquire Crinetics Pharmaceuticals and its drug for a rare endocrine disorder, the companies announced.",
+        "image": "https://www.statnews.com/wp-content/uploads/2024/07/AP20023802262338-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/07/06/vertex-acquires-crinetics-pharmaceuticals/?utm_campaign=rss"
+      },
+      {
+        "id": "auto_2026-07-06T21-16_2",
+        "rank": 2,
+        "title": "Mediterranean Diet Boosts Psychological Well-Being Over Age 50",
+        "category": "neuroscience",
+        "summary": "A new study demonstrates that adherence to a Mediterranean diet significantly boosts positive psychological well-being (autonomy, purpose, and self-realization) in people over 50. The research proved this protective…",
+        "image": "https://neurosciencenews.com/files/2026/07/med-diet-wellbeing-aging-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/mediterranean-diet-psychological-well-being-31003/"
+      },
+      {
+        "id": "auto_2026-07-06T21-16_3",
+        "rank": 3,
+        "title": "NASA Takes Flight For America's 250th",
+        "category": "space",
+        "summary": "NASA Administrator Jared Isaacman leads a flyover featuring his personally owned Northrop F-5 Tiger during the Great American State Fair on July 4, 2026, on the National Mall in Washington, D.C. For 250 years, America…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/07/55374566234-d7c31b6e97-o.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/image-article/nasa-takes-flight-for-americas-250th/"
+      },
+      {
+        "id": "auto_2026-07-06T21-16_4",
+        "rank": 4,
+        "title": "Your family's $300 stake in OpenAI",
+        "category": "ai",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/openai-money.jpg?resize=1200,600",
+        "source": "MIT Technology Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/"
+      },
+      {
+        "id": "auto_2026-07-06T21-16_5",
+        "rank": 5,
+        "title": "Duke Energy proposes special rules for data centers in North Carolina",
+        "category": "energy",
+        "summary": "For months, clean energy and consumer advocates in North Carolina have pressed Duke Energy to follow the national trend and create special rules and prices for data centers. The state’s predominant utility insisted such…",
+        "image": "https://img.canarymedia.com/content/uploads/GettyImages-1235716373-copy.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=e38c5f8952dedbee4f8ce130af32bf5e",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/data-centers/duke-energy-proposes-special-rules-for-data-centers-in-north-carolina"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-07-05T20-43",
     "scannedAt": "2026-07-05T20:43:42.103Z",
     "items": [
@@ -220,62 +276,6 @@
         "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/MITTR2026_TP2_1200SocialCover.png?resize=1200,600",
         "source": "MIT Technology Review",
         "sourceUrl": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-07-01T21-14",
-    "scannedAt": "2026-07-01T21:14:12.055Z",
-    "items": [
-      {
-        "id": "auto_2026-07-01T21-14_1",
-        "rank": 1,
-        "title": "Slow Maternal Response Time Linked to ADHD in Kids",
-        "category": "neuroscience",
-        "summary": "Slower maternal vocal response times to 12-month-old infants predict an increased risk of ADHD and disruptive behavior disorders by age 7. For every 10% increase in the probability of a maternal response within one…",
-        "image": "https://neurosciencenews.com/files/2026/07/maternal-response-adhd-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/maternal-response-latency-childhood-adhd-30976/"
-      },
-      {
-        "id": "auto_2026-07-01T21-14_2",
-        "rank": 2,
-        "title": "FCC to vote on satellite licensing overhaul July 22",
-        "category": "space",
-        "summary": "The FCC is set to vote July 22 on an order to overhaul its satellite application process, creating a “licensing assembly line” to keep up with increasingly large and complex constellation plans. The post FCC to vote on…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/FCC-chairman-scaled.jpeg?fit=1024%2C704&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/fcc-to-vote-on-satellite-licensing-overhaul-july-22/"
-      },
-      {
-        "id": "auto_2026-07-01T21-14_3",
-        "rank": 3,
-        "title": "STAT+: The moment Anthropic convinced me it’s serious about science",
-        "category": "biotech",
-        "summary": "AI Prognosis: The release of Claude Science suggests big model makers are getting serious about real science, and not just flashy problems.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/06/AIPrognosis_Wordpress_Anthropic-1024x576.png",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/07/01/anthropic-claude-science-convinced-me-its-serious-ai-prognosis/?utm_campaign=rss"
-      },
-      {
-        "id": "auto_2026-07-01T21-14_4",
-        "rank": 4,
-        "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
-        "category": "ai",
-        "summary": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll get 3 or 4. Type…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/260626_LLMhallucinations.jpg?resize=1200,600",
-        "source": "MIT Technology Review",
-        "sourceUrl": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/"
-      },
-      {
-        "id": "auto_2026-07-01T21-14_5",
-        "rank": 5,
-        "title": "Martha’s Vineyard solar array will cut bills for low-income islanders",
-        "category": "energy",
-        "summary": "A new solar installation on Martha’s Vineyard is set to lower utility costs for hundreds of low-income, year-round residents on the island best known as an upscale vacation destination. The project is the first to come…",
-        "image": "https://img.canarymedia.com/content/uploads/MVH-Workforce-Housing-SolarShare-Image-1.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=86b7d7ffde719ca4f606655ca9c587cd",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/solar/marthas-vineyard-rooftop-array-cut-bills"
       }
     ]
   }

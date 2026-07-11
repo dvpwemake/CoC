@@ -1,5 +1,61 @@
 [
   {
+    "batchId": "auto_2026-07-11T01-15",
+    "scannedAt": "2026-07-11T01:15:19.944Z",
+    "items": [
+      {
+        "id": "auto_2026-07-11T01-15_1",
+        "rank": 1,
+        "title": "AI Chip Mimicking Brain’s Reflex Center Developed",
+        "category": "neuroscience",
+        "summary": "A new study details the development of a cerebellum-inspired memtransistor engineered from atomically thin molybdenum disulfide.",
+        "image": "https://neurosciencenews.com/files/2026/07/ai-cerebellum-chip-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/ai-cerebellum-memtransistor-31036/"
+      },
+      {
+        "id": "auto_2026-07-11T01-15_2",
+        "rank": 2,
+        "title": "A pioneering grid-battery factory is headed for this California city",
+        "category": "energy",
+        "summary": "Startup Peak Energy launched in 2023 with a promise to bring the up-and-coming sodium-ion battery chemistry to American shores. Now, it’s building a gigafactory in Sacramento, California, that will be the country’s…",
+        "image": "https://img.canarymedia.com/content/uploads/Peak-Energy-Sacramento_image-7.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=e3a891cdd9ff9c40fbdbb805c25701b6",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/batteries/pioneering-grid-battery-factory-california"
+      },
+      {
+        "id": "auto_2026-07-11T01-15_3",
+        "rank": 3,
+        "title": "Nominee for key federal health role has a history of questioning vaccines",
+        "category": "biotech",
+        "summary": "Sean Kaufman's views on vaccines may put him at odds with Sen. Bill Cassidy during next week's confirmation hearing.",
+        "image": "https://www.statnews.com/wp-content/uploads/2025/04/GettyImages-2207186375-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/07/10/sean-kaufman-hhs-nominee-past-statements-question-vaccine-safety/?utm_campaign=rss"
+      },
+      {
+        "id": "auto_2026-07-11T01-15_4",
+        "rank": 4,
+        "title": "Early Career Faculty (ECF) 2025 Awards",
+        "category": "space",
+        "summary": "Back to ECF Home Advanced Diagnostics for High-Enthalpy Test Facilities Simulating Spacecraft Atmospheric Entry Planning for Autonomous Spacecraft Using Machine Learning Methods to Enable Onboard Guidance, Navigation,…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/03/nsmerger-illus-ns.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/directorates/stmd/space-tech-research-grants/ecf/early-career-faculty-ecf-2025-awards/"
+      },
+      {
+        "id": "auto_2026-07-11T01-15_5",
+        "rank": 5,
+        "title": "Video Friday: A World Cup for Robots",
+        "category": "robotics",
+        "summary": "Video Friday is your weekly selection of awesome robotics videos , collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us…",
+        "image": "https://spectrum.ieee.org/media-library/humanoid-robots-play-soccer-as-a-ball-flies-toward-the-goal-in-a-tournament-arena.jpg?id=67119515&width=980",
+        "source": "IEEE Spectrum",
+        "sourceUrl": "https://spectrum.ieee.org/video-friday-robot-world-cup"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-07-10T20-57",
     "scannedAt": "2026-07-10T20:57:18.094Z",
     "items": [
@@ -1006,61 +1062,5 @@
       }
     ],
     "batchId": "b1781218477364"
-  },
-  {
-    "scannedAt": "2026-06-10T22:55:32.976Z",
-    "items": [
-      {
-        "id": "b1781132132976_1",
-        "rank": 1,
-        "title": "Nanoscale Gold Metamaterials Supercharge Heat Transfer by 400%",
-        "category": "energy",
-        "summary": "Scientists used nanoscale gold metamaterials to supercharge heat transfer across tiny gaps, achieving up to four times more energy flow than similar conventional systems. The breakthrough could lead to better chip cooling, more efficient energy technologies, and a new era of precision heat management for data centers and electronics.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com",
-        "image": "https://www.sciencedaily.com/images/scidaily-icon.png"
-      },
-      {
-        "id": "b1781132132976_2",
-        "rank": 2,
-        "title": "Tufts AI System Cuts Energy Consumption by 100x While Boosting Performance",
-        "category": "ai",
-        "summary": "Researchers at Tufts University developed a neuro-symbolic AI system that combines neural networks with human-like symbolic reasoning, slashing energy consumption by up to 100 times compared to conventional approaches while dramatically improving performance. In robotic task tests using the Tower of Hanoi puzzle, the hybrid system achieved a 95% success rate versus 34% for standard models and trained in just 34 minutes versus more than a day and a half for traditional systems.",
-        "source": "Crescendo AI",
-        "sourceUrl": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
-        "image": "https://cdn.prod.website-files.com/67166bf779ba8852260f7d1f/694a731a76c9d6876ddf8a8f_latest-ai-news-and-updates.png"
-      },
-      {
-        "id": "b1781132132976_3",
-        "rank": 3,
-        "title": "Scientists Discover New Alzheimer's Target and Experimental Drug",
-        "category": "neuroscience",
-        "summary": "Researchers have identified a new Alzheimer's target and created an experimental compound that blocks a damaging process inside brain cells. In mice, the treatment slowed nerve cell loss, reduced Alzheimer's-related changes, and even appeared to reverse some symptoms in preclinical trials.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com",
-        "image": "https://www.sciencedaily.com/images/scidaily-icon.png"
-      },
-      {
-        "id": "b1781132132976_4",
-        "rank": 4,
-        "title": "Breakthrough Hydrogen Production Method Uses Waste Heat",
-        "category": "energy",
-        "summary": "A breakthrough hydrogen-production method could make clean fuel far cheaper and easier to generate. Researchers at the University of Birmingham developed a perovskite-based catalyst that splits water into hydrogen at much lower temperatures than existing technologies, potentially allowing factories, steel plants, cement works, and renewable energy sites to turn waste heat into valuable hydrogen fuel.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com",
-        "image": "https://www.sciencedaily.com/images/scidaily-icon.png"
-      },
-      {
-        "id": "b1781132132976_5",
-        "rank": 5,
-        "title": "First Computer-Designed Vaccine Enters Human Clinical Trials",
-        "category": "biotech",
-        "summary": "Researchers at the University of Cambridge and DIOSynVax report the first human clinical trial of a vaccine whose active component was designed entirely by computer simulations. This represents a major milestone in computational drug design and could accelerate vaccine development for future pandemics.",
-        "source": "Wikipedia - 2026 in Science",
-        "sourceUrl": "https://en.wikipedia.org/wiki/2026_in_science",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Artemis_2_Crew_Portrait.jpg/960px-Artemis_2_Crew_Portrait.jpg"
-      }
-    ],
-    "batchId": "b1781132132976"
   }
 ]
