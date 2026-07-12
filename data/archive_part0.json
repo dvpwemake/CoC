@@ -1,5 +1,61 @@
 [
   {
+    "batchId": "auto_2026-07-12T01-16",
+    "scannedAt": "2026-07-12T01:16:31.728Z",
+    "items": [
+      {
+        "id": "auto_2026-07-12T01-16_1",
+        "rank": 1,
+        "title": "Study Maps the 9 Distinct Types of Procrastinators",
+        "category": "neuroscience",
+        "summary": "A new study identifies 9 distinct archetypes of procrastinators, ranging from the control-seeking Rebel to the distraction-prone Zigzagger.",
+        "image": "https://neurosciencenews.com/files/2026/07/procrastination-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/9-procrastination-types-31038/"
+      },
+      {
+        "id": "auto_2026-07-12T01-16_2",
+        "rank": 2,
+        "title": "A pioneering grid-battery factory is headed for this California city",
+        "category": "energy",
+        "summary": "Startup Peak Energy launched in 2023 with a promise to bring the up-and-coming sodium-ion battery chemistry to American shores. Now, it’s building a gigafactory in Sacramento, California, that will be the country’s…",
+        "image": "https://img.canarymedia.com/content/uploads/Peak-Energy-Sacramento_image-7.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=e3a891cdd9ff9c40fbdbb805c25701b6",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/batteries/pioneering-grid-battery-factory-california"
+      },
+      {
+        "id": "auto_2026-07-12T01-16_3",
+        "rank": 3,
+        "title": "Nominee for key federal health role has a history of questioning vaccines",
+        "category": "biotech",
+        "summary": "Sean Kaufman's views on vaccines may put him at odds with Sen. Bill Cassidy during next week's confirmation hearing.",
+        "image": "https://www.statnews.com/wp-content/uploads/2025/04/GettyImages-2207186375-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/07/10/sean-kaufman-hhs-nominee-past-statements-question-vaccine-safety/?utm_campaign=rss"
+      },
+      {
+        "id": "auto_2026-07-12T01-16_4",
+        "rank": 4,
+        "title": "Early Career Faculty (ECF) 2025 Awards",
+        "category": "space",
+        "summary": "Back to ECF Home Advanced Diagnostics for High-Enthalpy Test Facilities Simulating Spacecraft Atmospheric Entry Planning for Autonomous Spacecraft Using Machine Learning Methods to Enable Onboard Guidance, Navigation,…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/03/nsmerger-illus-ns.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/directorates/stmd/space-tech-research-grants/ecf/early-career-faculty-ecf-2025-awards/"
+      },
+      {
+        "id": "auto_2026-07-12T01-16_5",
+        "rank": 5,
+        "title": "Video Friday: A World Cup for Robots",
+        "category": "robotics",
+        "summary": "Video Friday is your weekly selection of awesome robotics videos , collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us…",
+        "image": "https://spectrum.ieee.org/media-library/humanoid-robots-play-soccer-as-a-ball-flies-toward-the-goal-in-a-tournament-arena.jpg?id=67119515&width=980",
+        "source": "IEEE Spectrum",
+        "sourceUrl": "https://spectrum.ieee.org/video-friday-robot-world-cup"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-07-11T20-35",
     "scannedAt": "2026-07-11T20:35:03.236Z",
     "items": [
@@ -220,62 +276,6 @@
         "image": "https://spectrum.ieee.org/media-library/three-men-in-suits-onstage-smiling-as-one-presents-an-award-medal-in-a-box.jpg?id=67107362&width=980",
         "source": "IEEE Spectrum",
         "sourceUrl": "https://spectrum.ieee.org/ieee-honors-toshio-fukuda"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-07-07T21-11",
-    "scannedAt": "2026-07-07T21:11:48.248Z",
-    "items": [
-      {
-        "id": "auto_2026-07-07T21-11_1",
-        "rank": 1,
-        "title": "Quaise Energy raises $134M to fuel superhot geothermal ambitions",
-        "category": "energy",
-        "summary": "Startup Quaise Energy has raised $134 million to advance its first superhot geothermal power plant in central Oregon. On Tuesday, the Houston-based company announced the first tranche of its Series B financing round,…",
-        "image": "https://img.canarymedia.com/content/uploads/QUAISE0-00-43-08.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=708c5436eef1c33f18a9c60e57544b02",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/geothermal/quaise-energy-raises-134m"
-      },
-      {
-        "id": "auto_2026-07-07T21-11_2",
-        "rank": 2,
-        "title": "NASA Transfers ‘Hundred Acre Wood’ to Patuxent Research Refuge",
-        "category": "space",
-        "summary": "NASA ceremonially transferred ownership of about 105 acres of wooded land at its Goddard Space Flight Center’s Greenbelt, Maryland, campus Tuesday to the adjoining Patuxent Research Refuge, managed by the U.S. Fish and…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/07/gsfc-20260707-signingevent-2026-10452-13.jpg",
-        "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/centers-and-facilities/goddard/nasa-transfers-hundred-acre-wood-to-patuxent-research-refuge/"
-      },
-      {
-        "id": "auto_2026-07-07T21-11_3",
-        "rank": 3,
-        "title": "STAT+: FDA approves Vera Therapeutics kidney disease treatment",
-        "category": "biotech",
-        "summary": "The FDA approved a new medicine from the biotech company Vera Therapeutics for patients with a type of chronic autoimmune kidney disease.",
-        "image": "https://www.statnews.com/wp-content/uploads/2022/12/AdobeStock_61891029-1024x576.jpeg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/07/07/vera-therapeutics-kidney-disease-treatment-approval/?utm_campaign=rss"
-      },
-      {
-        "id": "auto_2026-07-07T21-11_4",
-        "rank": 4,
-        "title": "The foundational elements of AI architecture that IT leaders need to scale",
-        "category": "ai",
-        "summary": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces risk, leaving IT…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/iStock-2216481617_7fbe0d.jpg?resize=1200,600",
-        "source": "MIT Technology Review",
-        "sourceUrl": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/"
-      },
-      {
-        "id": "auto_2026-07-07T21-11_5",
-        "rank": 5,
-        "title": "Hypothalamic specification in a dish",
-        "category": "neuroscience",
-        "summary": "Nature Neuroscience, Published online: 06 July 2026; doi:10.1038/s41593-026-02370-5 Hypothalamic specification in a dish",
-        "image": "",
-        "source": "Nature Neuroscience",
-        "sourceUrl": "https://www.nature.com/articles/s41593-026-02370-5"
       }
     ]
   }

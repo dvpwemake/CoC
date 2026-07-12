@@ -1,5 +1,61 @@
 [
   {
+    "batchId": "auto_2026-07-12T01-16",
+    "scannedAt": "2026-07-12T01:16:31.728Z",
+    "items": [
+      {
+        "id": "auto_2026-07-12T01-16_1",
+        "rank": 1,
+        "title": "Study Maps the 9 Distinct Types of Procrastinators",
+        "category": "neuroscience",
+        "summary": "A new study identifies 9 distinct archetypes of procrastinators, ranging from the control-seeking Rebel to the distraction-prone Zigzagger.",
+        "image": "https://neurosciencenews.com/files/2026/07/procrastination-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/9-procrastination-types-31038/"
+      },
+      {
+        "id": "auto_2026-07-12T01-16_2",
+        "rank": 2,
+        "title": "A pioneering grid-battery factory is headed for this California city",
+        "category": "energy",
+        "summary": "Startup Peak Energy launched in 2023 with a promise to bring the up-and-coming sodium-ion battery chemistry to American shores. Now, it’s building a gigafactory in Sacramento, California, that will be the country’s…",
+        "image": "https://img.canarymedia.com/content/uploads/Peak-Energy-Sacramento_image-7.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=e3a891cdd9ff9c40fbdbb805c25701b6",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/batteries/pioneering-grid-battery-factory-california"
+      },
+      {
+        "id": "auto_2026-07-12T01-16_3",
+        "rank": 3,
+        "title": "Nominee for key federal health role has a history of questioning vaccines",
+        "category": "biotech",
+        "summary": "Sean Kaufman's views on vaccines may put him at odds with Sen. Bill Cassidy during next week's confirmation hearing.",
+        "image": "https://www.statnews.com/wp-content/uploads/2025/04/GettyImages-2207186375-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/07/10/sean-kaufman-hhs-nominee-past-statements-question-vaccine-safety/?utm_campaign=rss"
+      },
+      {
+        "id": "auto_2026-07-12T01-16_4",
+        "rank": 4,
+        "title": "Early Career Faculty (ECF) 2025 Awards",
+        "category": "space",
+        "summary": "Back to ECF Home Advanced Diagnostics for High-Enthalpy Test Facilities Simulating Spacecraft Atmospheric Entry Planning for Autonomous Spacecraft Using Machine Learning Methods to Enable Onboard Guidance, Navigation,…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/03/nsmerger-illus-ns.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/directorates/stmd/space-tech-research-grants/ecf/early-career-faculty-ecf-2025-awards/"
+      },
+      {
+        "id": "auto_2026-07-12T01-16_5",
+        "rank": 5,
+        "title": "Video Friday: A World Cup for Robots",
+        "category": "robotics",
+        "summary": "Video Friday is your weekly selection of awesome robotics videos , collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us…",
+        "image": "https://spectrum.ieee.org/media-library/humanoid-robots-play-soccer-as-a-ball-flies-toward-the-goal-in-a-tournament-arena.jpg?id=67119515&width=980",
+        "source": "IEEE Spectrum",
+        "sourceUrl": "https://spectrum.ieee.org/video-friday-robot-world-cup"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-07-11T20-35",
     "scannedAt": "2026-07-11T20:35:03.236Z",
     "items": [
@@ -1006,61 +1062,5 @@
       }
     ],
     "batchId": "b1781288372258"
-  },
-  {
-    "scannedAt": "2026-06-11T22:54:37.365Z",
-    "items": [
-      {
-        "id": "b1781218477364_1",
-        "rank": 1,
-        "title": "Scientists Discover Hidden Cause of Aging Cells That Can Be Reversed",
-        "category": "biotech",
-        "summary": "Researchers discovered that declining levels of phosphatidylcholine may be a major cause of age-related mitochondrial dysfunction and loss of cellular energy. Remarkably, boosting this nutrient restored more youthful mitochondrial performance in aging organisms, suggesting some aspects of aging can be slowed or reversed. This breakthrough from the Leibniz Institute on Aging offers hope for developing treatments to slow cellular aging processes.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260610003119.htm",
-        "image": "https://www.sciencedaily.com/images/1920/glowing-mitochondria-cell-biology.webp"
-      },
-      {
-        "id": "b1781218477364_2",
-        "rank": 2,
-        "title": "Battery-Free Device Turns Sunlight Into Fuel Using Self-Regulating System",
-        "category": "energy",
-        "summary": "Scientists have developed an artificial photosynthesis system that essentially regulates itself, eliminating the need for batteries used in many current designs. The key innovation is an electrolyzer that automatically adapts to changing sunlight by altering its electrical properties as it heats up. This keeps solar fuel production more stable while reducing cost and complexity. The system produces formic acid from carbon dioxide and water.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260611024601.htm",
-        "image": "https://www.sciencedaily.com/images/1920/artificial-photosynthesis-electrochemical-fuel-production-system.webp"
-      },
-      {
-        "id": "b1781218477364_3",
-        "rank": 3,
-        "title": "Revolutionary AI Cuts Robot Energy Use by 100x While Boosting Accuracy",
-        "category": "ai",
-        "summary": "Researchers at Tufts University developed a neuro-symbolic AI system that combines neural networks with human-like symbolic reasoning, slashing energy consumption by up to 100 times compared to conventional approaches while dramatically improving performance. In robotic task tests using the Tower of Hanoi puzzle, the hybrid system achieved a 95% success rate versus 34% for standard models and trained in just 34 minutes versus more than a day and a half for traditional systems.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/04/260405003952.htm",
-        "image": "https://www.sciencedaily.com/images/1920/server-facility-at-sandia-national-laboratory.webp"
-      },
-      {
-        "id": "b1781218477364_4",
-        "rank": 4,
-        "title": "NASA's Next-Gen AI Space Chip Could Let Spacecraft Think for Themselves",
-        "category": "space tech",
-        "summary": "NASA is testing a next-generation space computer chip that could give spacecraft the ability to operate far more independently in deep space. With onboard artificial intelligence, spacecraft could respond to unexpected situations in real time when communication delays make human control impractical. The chip could also help deep space missions process, store, and transmit massive amounts of scientific data back to Earth more efficiently. The radiation-hardened processor shows performance levels hundreds of times beyond current spaceflight technology.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
-        "image": "https://www.sciencedaily.com/images/1920/nasa-high-performance-spaceflight-computing-processor.webp"
-      },
-      {
-        "id": "b1781218477364_5",
-        "rank": 5,
-        "title": "Scientists Reverse Anxiety by Fixing Tiny Brain Circuit in Breakthrough Study",
-        "category": "neuroscience",
-        "summary": "A newly identified group of amygdala neurons appears to play a central role in anxiety and social behavior. Restoring normal activity in this tiny brain circuit reversed anxiety and social deficits in mice, revealing a promising new target for treating anxiety disorders. The research offers hope for developing more targeted treatments for anxiety and social behavioral disorders by focusing on specific neural circuits rather than broad brain regions.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260603001847.htm",
-        "image": "https://www.sciencedaily.com/images/1920/brain-scan-color-black-and-white.webp"
-      }
-    ],
-    "batchId": "b1781218477364"
   }
 ]
