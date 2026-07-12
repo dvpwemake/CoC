@@ -1,10 +1,10 @@
 [
   {
-    "batchId": "auto_2026-07-12T06-23",
-    "scannedAt": "2026-07-12T06:23:26.642Z",
+    "batchId": "auto_2026-07-12T09-39",
+    "scannedAt": "2026-07-12T09:39:00.057Z",
     "items": [
       {
-        "id": "auto_2026-07-12T06-23_1",
+        "id": "auto_2026-07-12T09-39_1",
         "rank": 1,
         "title": "Study Maps the 9 Distinct Types of Procrastinators",
         "category": "neuroscience",
@@ -14,18 +14,8 @@
         "sourceUrl": "https://neurosciencenews.com/9-procrastination-types-31038/"
       },
       {
-        "id": "auto_2026-07-12T06-23_2",
+        "id": "auto_2026-07-12T09-39_2",
         "rank": 2,
-        "title": "Parabilis tests propulsion system for maneuverable cubesats",
-        "category": "space",
-        "summary": "The Space Force is backing the development of the company’s hybrid engine technology for small satellites The post Parabilis tests propulsion system for maneuverable cubesats appeared first on SpaceNews .",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/DOTS-1.jpg?fit=786%2C576&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/parabilis-tests-propulsion-system-for-maneuverable-cubesats/"
-      },
-      {
-        "id": "auto_2026-07-12T06-23_3",
-        "rank": 3,
         "title": "A pioneering grid-battery factory is headed for this California city",
         "category": "energy",
         "summary": "Startup Peak Energy launched in 2023 with a promise to bring the up-and-coming sodium-ion battery chemistry to American shores. Now, it’s building a gigafactory in Sacramento, California, that will be the country’s…",
@@ -34,8 +24,8 @@
         "sourceUrl": "https://www.canarymedia.com/articles/batteries/pioneering-grid-battery-factory-california"
       },
       {
-        "id": "auto_2026-07-12T06-23_4",
-        "rank": 4,
+        "id": "auto_2026-07-12T09-39_3",
+        "rank": 3,
         "title": "Nominee for key federal health role has a history of questioning vaccines",
         "category": "biotech",
         "summary": "Sean Kaufman's views on vaccines may put him at odds with Sen. Bill Cassidy during next week's confirmation hearing.",
@@ -44,7 +34,17 @@
         "sourceUrl": "https://www.statnews.com/2026/07/10/sean-kaufman-hhs-nominee-past-statements-question-vaccine-safety/?utm_campaign=rss"
       },
       {
-        "id": "auto_2026-07-12T06-23_5",
+        "id": "auto_2026-07-12T09-39_4",
+        "rank": 4,
+        "title": "Early Career Faculty (ECF) 2025 Awards",
+        "category": "space",
+        "summary": "Back to ECF Home Advanced Diagnostics for High-Enthalpy Test Facilities Simulating Spacecraft Atmospheric Entry Planning for Autonomous Spacecraft Using Machine Learning Methods to Enable Onboard Guidance, Navigation,…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/03/nsmerger-illus-ns.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/directorates/stmd/space-tech-research-grants/ecf/early-career-faculty-ecf-2025-awards/"
+      },
+      {
+        "id": "auto_2026-07-12T09-39_5",
         "rank": 5,
         "title": "Video Friday: A World Cup for Robots",
         "category": "robotics",
