@@ -1,10 +1,10 @@
 [
   {
-    "batchId": "auto_2026-07-13T01-18",
-    "scannedAt": "2026-07-13T01:18:18.419Z",
+    "batchId": "auto_2026-07-13T06-41",
+    "scannedAt": "2026-07-13T06:41:56.691Z",
     "items": [
       {
-        "id": "auto_2026-07-13T01-18_1",
+        "id": "auto_2026-07-13T06-41_1",
         "rank": 1,
         "title": "STAT+: Tau in the spotlight at Alzheimer’s conference",
         "category": "biotech",
@@ -14,7 +14,7 @@
         "sourceUrl": "https://www.statnews.com/2026/07/12/aaic-in-30-alzheimers-treaatments-focus-on-tau-blood-brain-barrier/?utm_campaign=rss"
       },
       {
-        "id": "auto_2026-07-13T01-18_2",
+        "id": "auto_2026-07-13T06-41_2",
         "rank": 2,
         "title": "Decreasing Productivity Can Precede a Dementia Diagnosis by Years",
         "category": "neuroscience",
@@ -24,7 +24,7 @@
         "sourceUrl": "https://neurosciencenews.com/early-onset-dementia-work-productivity-31039/"
       },
       {
-        "id": "auto_2026-07-13T01-18_3",
+        "id": "auto_2026-07-13T06-41_3",
         "rank": 3,
         "title": "A pioneering grid-battery factory is headed for this California city",
         "category": "energy",
@@ -34,7 +34,7 @@
         "sourceUrl": "https://www.canarymedia.com/articles/batteries/pioneering-grid-battery-factory-california"
       },
       {
-        "id": "auto_2026-07-13T01-18_4",
+        "id": "auto_2026-07-13T06-41_4",
         "rank": 4,
         "title": "Early Career Faculty (ECF) 2025 Awards",
         "category": "space",
@@ -44,7 +44,7 @@
         "sourceUrl": "https://www.nasa.gov/directorates/stmd/space-tech-research-grants/ecf/early-career-faculty-ecf-2025-awards/"
       },
       {
-        "id": "auto_2026-07-13T01-18_5",
+        "id": "auto_2026-07-13T06-41_5",
         "rank": 5,
         "title": "Video Friday: A World Cup for Robots",
         "category": "robotics",
