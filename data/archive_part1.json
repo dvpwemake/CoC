@@ -1,5 +1,61 @@
 [
   {
+    "batchId": "auto_2026-07-08T20-51",
+    "scannedAt": "2026-07-08T20:51:54.549Z",
+    "items": [
+      {
+        "id": "auto_2026-07-08T20-51_1",
+        "rank": 1,
+        "title": "STAT+: RFK Jr. plans to create list of injuries caused by Covid-19 vaccines",
+        "category": "biotech",
+        "summary": "It's not clear what conditions may make the list, but outside experts are watching it closely.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/07/GettyImages-1230308380-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/07/08/hhs-to-propose-covid-19-countermeasures-injury-table/?utm_campaign=rss"
+      },
+      {
+        "id": "auto_2026-07-08T20-51_2",
+        "rank": 2,
+        "title": "Tears Can Be Used to Detect Dopamine Levels",
+        "category": "neuroscience",
+        "summary": "A new study introduces a low-cost, laser-induced graphene electrochemical sensor designed to detect dopamine levels in human tears.",
+        "image": "https://neurosciencenews.com/files/2026/07/tears-dopamine-neurosceince-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/tears-dopamine-parkinsons-neurotech-31017/"
+      },
+      {
+        "id": "auto_2026-07-08T20-51_3",
+        "rank": 3,
+        "title": "Hubble Captures Star-Studded Cluster",
+        "category": "space",
+        "summary": "This image from NASA’s&#160;Hubble Space Telescope showcases&#160;Messier 3&#160;(M3), one of the Milky Way galaxy’s most massive globular clusters, or spherical collections of gravitationally bound stars.&#160;Globular…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/07/hubble-m3-july4-final.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/image-article/hubble-captures-star-studded-cluster/"
+      },
+      {
+        "id": "auto_2026-07-08T20-51_4",
+        "rank": 4,
+        "title": "Southern California clean-heat rule survives key legal challenge",
+        "category": "energy",
+        "summary": "Southern California’s landmark rule to slash emissions from industrial heating sources just notched a major victory in court. The region has some of the worst air quality in the U.S., and the gas-fueled boilers and…",
+        "image": "https://img.canarymedia.com/content/uploads/Gas-flames_GettyImages-539260384.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=b3fad5caa70e9f95fcbe54f021ee10c6",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/electrification/southern-california-clean-heat-rule-survives"
+      },
+      {
+        "id": "auto_2026-07-08T20-51_5",
+        "rank": 5,
+        "title": "IEEE Honors Robotics Pioneer Toshio Fukuda",
+        "category": "robotics",
+        "summary": "Toshio Fukuda has been blazing trails for most of his career. He is considered to be one of the most prolific scholars in robotics , writing more than 2,000 research papers and authoring several books on the field. He’s…",
+        "image": "https://spectrum.ieee.org/media-library/three-men-in-suits-onstage-smiling-as-one-presents-an-award-medal-in-a-box.jpg?id=67107362&width=980",
+        "source": "IEEE Spectrum",
+        "sourceUrl": "https://spectrum.ieee.org/ieee-honors-toshio-fukuda"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-07-07T21-11",
     "scannedAt": "2026-07-07T21:11:48.248Z",
     "items": [
@@ -213,62 +269,6 @@
       },
       {
         "id": "auto_2026-07-04T20-40_5",
-        "rank": 5,
-        "title": "STAT+: Medicare takes another swing at 340B cuts to hospitals",
-        "category": "biotech",
-        "summary": "Reducing Medicare payments for 340B drugs is the latest proposal focused on the hotly debated drug discount program.",
-        "image": "https://www.statnews.com/wp-content/uploads/2023/08/AdobeStock_385917483-1024x576.jpeg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/07/02/medicare-hospital-payment-340b-drugs-cut/?utm_campaign=rss"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-07-03T20-49",
-    "scannedAt": "2026-07-03T20:49:06.343Z",
-    "items": [
-      {
-        "id": "auto_2026-07-03T20-49_1",
-        "rank": 1,
-        "title": "Zero-Computational Path to High-Resolution Robotic Touch",
-        "category": "neuroscience",
-        "summary": "A new study introduces a soft robotic sensing skin made from mechanochromic materials. The polymer automatically converts mechanical strain into distinct structural color fields, allowing a low-cost camera to map…",
-        "image": "https://neurosciencenews.com/files/2026/07/robotic-touch-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/mechanochromic-skin-robotic-tactile-30990/"
-      },
-      {
-        "id": "auto_2026-07-03T20-49_2",
-        "rank": 2,
-        "title": "Video Friday: An Earthbound Mars Rover for the Moon",
-        "category": "robotics",
-        "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us…",
-        "image": "https://spectrum.ieee.org/media-library/mars-style-rover-prototype-on-rugged-ground-under-a-clear-sky-with-the-moon-visible.png?id=67083121&width=980",
-        "source": "IEEE Spectrum",
-        "sourceUrl": "https://spectrum.ieee.org/video-friday-nasa-lunar-rover"
-      },
-      {
-        "id": "auto_2026-07-03T20-49_3",
-        "rank": 3,
-        "title": "Chinese satellite manufacturer Hongqing raises $191 million",
-        "category": "space",
-        "summary": "HELSINKI — Hongqing Technology, the satellite manufacturing affiliate of launch firm Landspace, has secured one of the largest single raises for a Chinese commercial satellite maker. The funding round, announced […] The…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/Zhuque-2E-Spacesail-DTC-ChinaMobile02-9june2026-landspace.jpg?fit=1024%2C576&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/chinese-satellite-manufacturer-hongqing-raises-191-million/"
-      },
-      {
-        "id": "auto_2026-07-03T20-49_4",
-        "rank": 4,
-        "title": "Data centers use more power in the US than in any other country",
-        "category": "energy",
-        "summary": "This article is part of our ​“Chart of the Week” series . Data centers use more electricity in the U.S. than in any other country — China included. In 2025, nearly 40% of all power demand from data centers came from…",
-        "image": "https://img.canarymedia.com/content/uploads/COTW-Data-centers.png?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=80&w=1200&s=6ab88e95914464011c02c651929f39c5",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/data-centers/data-centers-use-more-power-in-the-us-than-anywhere-else"
-      },
-      {
-        "id": "auto_2026-07-03T20-49_5",
         "rank": 5,
         "title": "STAT+: Medicare takes another swing at 340B cuts to hospitals",
         "category": "biotech",

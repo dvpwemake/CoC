@@ -1,5 +1,61 @@
 [
   {
+    "batchId": "auto_2026-06-28T20-48",
+    "scannedAt": "2026-06-28T20:48:02.864Z",
+    "items": [
+      {
+        "id": "auto_2026-06-28T20-48_1",
+        "rank": 1,
+        "title": "Hearing Aids Linked to 23% Lower Dementia Risk in Epilepsy",
+        "category": "neuroscience",
+        "summary": "Hearing aid use is associated with a 23% lower risk of dementia exclusively in adults with both epilepsy and hearing loss, likely due to the critical preservation of depleted cognitive reserve.",
+        "image": "https://neurosciencenews.com/files/2026/06/hearing-aid-dementia-epilepsy-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/hearing-aids-epilepsy-dementia-30956/"
+      },
+      {
+        "id": "auto_2026-06-28T20-48_2",
+        "rank": 2,
+        "title": "Opinion: Supreme Court ruling on Roundup points to a confusing difference between the law and science",
+        "category": "biotech",
+        "summary": "The Supreme Court’s ruling on Roundup shows science and law use the same word — causation — while asking different questions, writes epidemiologist.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/06/GettyImages-2283306424-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/06/27/roundup-glyphosate-cancer-monsanto-v-durnell-supreme-court/?utm_campaign=rss"
+      },
+      {
+        "id": "auto_2026-06-28T20-48_3",
+        "rank": 3,
+        "title": "Rocket Lab launches 10th Synspective satellite",
+        "category": "space",
+        "summary": "Rocket Lab launched a radar-imaging satellite for Japanese company Synspective on June 26, a flight delayed by a responsive space mission. The post Rocket Lab launches 10th Synspective satellite appeared first on…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/electron-strix10.jpeg?fit=1024%2C556&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/rocket-lab-launches-10th-synspective-satellite/"
+      },
+      {
+        "id": "auto_2026-06-28T20-48_4",
+        "rank": 4,
+        "title": "These states are the best for EV buyers and drivers",
+        "category": "energy",
+        "summary": "America’s EV industry has suffered a series of bad breaks over the last year and a half. The end of federal tax credits for electric vehicles sent sales of new EVs off a cliff last fall. A nationwide buildout of…",
+        "image": "https://img.canarymedia.com/content/uploads/GettyImages-2269134706.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=7598837099e3c9f365da521da01718f1",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/electric-vehicles/these-states-are-the-best-for-ev-buyers-and-drivers"
+      },
+      {
+        "id": "auto_2026-06-28T20-48_5",
+        "rank": 5,
+        "title": "Video Friday: Give Robots a Hand",
+        "category": "robotics",
+        "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us…",
+        "image": "https://spectrum.ieee.org/media-library/three-fingered-robotic-gripper-arm-crawls-upright-on-a-white-table.gif?id=67036633&width=980",
+        "source": "IEEE Spectrum",
+        "sourceUrl": "https://spectrum.ieee.org/video-friday-robot-grippers"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-06-27T20-45",
     "scannedAt": "2026-06-27T20:45:56.064Z",
     "items": [

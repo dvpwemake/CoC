@@ -1,5 +1,61 @@
 [
   {
+    "batchId": "auto_2026-07-13T01-18",
+    "scannedAt": "2026-07-13T01:18:18.419Z",
+    "items": [
+      {
+        "id": "auto_2026-07-13T01-18_1",
+        "rank": 1,
+        "title": "STAT+: Tau in the spotlight at Alzheimer’s conference",
+        "category": "biotech",
+        "summary": "From STAT's AAIC in 30 newsletter: Researchers focus on tau, and progress on crossing the blood-brain barrier.",
+        "image": "https://www.statnews.com/wp-content/uploads/2025/10/AdobeStock_127445117-1024x576.jpeg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/07/12/aaic-in-30-alzheimers-treaatments-focus-on-tau-blood-brain-barrier/?utm_campaign=rss"
+      },
+      {
+        "id": "auto_2026-07-13T01-18_2",
+        "rank": 2,
+        "title": "Decreasing Productivity Can Precede a Dementia Diagnosis by Years",
+        "category": "neuroscience",
+        "summary": "A new study demonstrates that early-onset dementia is associated with severe work productivity losses up to 15 years before a formal diagnosis.",
+        "image": "https://neurosciencenews.com/files/2026/07/demenita-productivity-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/early-onset-dementia-work-productivity-31039/"
+      },
+      {
+        "id": "auto_2026-07-13T01-18_3",
+        "rank": 3,
+        "title": "A pioneering grid-battery factory is headed for this California city",
+        "category": "energy",
+        "summary": "Startup Peak Energy launched in 2023 with a promise to bring the up-and-coming sodium-ion battery chemistry to American shores. Now, it’s building a gigafactory in Sacramento, California, that will be the country’s…",
+        "image": "https://img.canarymedia.com/content/uploads/Peak-Energy-Sacramento_image-7.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=e3a891cdd9ff9c40fbdbb805c25701b6",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/batteries/pioneering-grid-battery-factory-california"
+      },
+      {
+        "id": "auto_2026-07-13T01-18_4",
+        "rank": 4,
+        "title": "Early Career Faculty (ECF) 2025 Awards",
+        "category": "space",
+        "summary": "Back to ECF Home Advanced Diagnostics for High-Enthalpy Test Facilities Simulating Spacecraft Atmospheric Entry Planning for Autonomous Spacecraft Using Machine Learning Methods to Enable Onboard Guidance, Navigation,…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/03/nsmerger-illus-ns.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/directorates/stmd/space-tech-research-grants/ecf/early-career-faculty-ecf-2025-awards/"
+      },
+      {
+        "id": "auto_2026-07-13T01-18_5",
+        "rank": 5,
+        "title": "Video Friday: A World Cup for Robots",
+        "category": "robotics",
+        "summary": "Video Friday is your weekly selection of awesome robotics videos , collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us…",
+        "image": "https://spectrum.ieee.org/media-library/humanoid-robots-play-soccer-as-a-ball-flies-toward-the-goal-in-a-tournament-arena.jpg?id=67119515&width=980",
+        "source": "IEEE Spectrum",
+        "sourceUrl": "https://spectrum.ieee.org/video-friday-robot-world-cup"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-07-12T20-32",
     "scannedAt": "2026-07-12T20:32:43.736Z",
     "items": [

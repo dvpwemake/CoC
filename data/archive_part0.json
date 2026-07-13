@@ -1,5 +1,61 @@
 [
   {
+    "batchId": "auto_2026-07-13T01-18",
+    "scannedAt": "2026-07-13T01:18:18.419Z",
+    "items": [
+      {
+        "id": "auto_2026-07-13T01-18_1",
+        "rank": 1,
+        "title": "STAT+: Tau in the spotlight at Alzheimer’s conference",
+        "category": "biotech",
+        "summary": "From STAT's AAIC in 30 newsletter: Researchers focus on tau, and progress on crossing the blood-brain barrier.",
+        "image": "https://www.statnews.com/wp-content/uploads/2025/10/AdobeStock_127445117-1024x576.jpeg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/07/12/aaic-in-30-alzheimers-treaatments-focus-on-tau-blood-brain-barrier/?utm_campaign=rss"
+      },
+      {
+        "id": "auto_2026-07-13T01-18_2",
+        "rank": 2,
+        "title": "Decreasing Productivity Can Precede a Dementia Diagnosis by Years",
+        "category": "neuroscience",
+        "summary": "A new study demonstrates that early-onset dementia is associated with severe work productivity losses up to 15 years before a formal diagnosis.",
+        "image": "https://neurosciencenews.com/files/2026/07/demenita-productivity-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/early-onset-dementia-work-productivity-31039/"
+      },
+      {
+        "id": "auto_2026-07-13T01-18_3",
+        "rank": 3,
+        "title": "A pioneering grid-battery factory is headed for this California city",
+        "category": "energy",
+        "summary": "Startup Peak Energy launched in 2023 with a promise to bring the up-and-coming sodium-ion battery chemistry to American shores. Now, it’s building a gigafactory in Sacramento, California, that will be the country’s…",
+        "image": "https://img.canarymedia.com/content/uploads/Peak-Energy-Sacramento_image-7.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=e3a891cdd9ff9c40fbdbb805c25701b6",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/batteries/pioneering-grid-battery-factory-california"
+      },
+      {
+        "id": "auto_2026-07-13T01-18_4",
+        "rank": 4,
+        "title": "Early Career Faculty (ECF) 2025 Awards",
+        "category": "space",
+        "summary": "Back to ECF Home Advanced Diagnostics for High-Enthalpy Test Facilities Simulating Spacecraft Atmospheric Entry Planning for Autonomous Spacecraft Using Machine Learning Methods to Enable Onboard Guidance, Navigation,…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/03/nsmerger-illus-ns.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/directorates/stmd/space-tech-research-grants/ecf/early-career-faculty-ecf-2025-awards/"
+      },
+      {
+        "id": "auto_2026-07-13T01-18_5",
+        "rank": 5,
+        "title": "Video Friday: A World Cup for Robots",
+        "category": "robotics",
+        "summary": "Video Friday is your weekly selection of awesome robotics videos , collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us…",
+        "image": "https://spectrum.ieee.org/media-library/humanoid-robots-play-soccer-as-a-ball-flies-toward-the-goal-in-a-tournament-arena.jpg?id=67119515&width=980",
+        "source": "IEEE Spectrum",
+        "sourceUrl": "https://spectrum.ieee.org/video-friday-robot-world-cup"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-07-12T20-32",
     "scannedAt": "2026-07-12T20:32:43.736Z",
     "items": [
@@ -220,62 +276,6 @@
         "image": "https://img.canarymedia.com/content/uploads/Ohio_Judicial_Center_façade_Wikipedia.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=64cbf2a9010769a921f78f8852307d1f",
         "source": "Canary Media",
         "sourceUrl": "https://www.canarymedia.com/articles/solar/ohio-power-siting-board-solar-case"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-07-08T20-51",
-    "scannedAt": "2026-07-08T20:51:54.549Z",
-    "items": [
-      {
-        "id": "auto_2026-07-08T20-51_1",
-        "rank": 1,
-        "title": "STAT+: RFK Jr. plans to create list of injuries caused by Covid-19 vaccines",
-        "category": "biotech",
-        "summary": "It's not clear what conditions may make the list, but outside experts are watching it closely.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/07/GettyImages-1230308380-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/07/08/hhs-to-propose-covid-19-countermeasures-injury-table/?utm_campaign=rss"
-      },
-      {
-        "id": "auto_2026-07-08T20-51_2",
-        "rank": 2,
-        "title": "Tears Can Be Used to Detect Dopamine Levels",
-        "category": "neuroscience",
-        "summary": "A new study introduces a low-cost, laser-induced graphene electrochemical sensor designed to detect dopamine levels in human tears.",
-        "image": "https://neurosciencenews.com/files/2026/07/tears-dopamine-neurosceince-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/tears-dopamine-parkinsons-neurotech-31017/"
-      },
-      {
-        "id": "auto_2026-07-08T20-51_3",
-        "rank": 3,
-        "title": "Hubble Captures Star-Studded Cluster",
-        "category": "space",
-        "summary": "This image from NASA’s&#160;Hubble Space Telescope showcases&#160;Messier 3&#160;(M3), one of the Milky Way galaxy’s most massive globular clusters, or spherical collections of gravitationally bound stars.&#160;Globular…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/07/hubble-m3-july4-final.jpg",
-        "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/image-article/hubble-captures-star-studded-cluster/"
-      },
-      {
-        "id": "auto_2026-07-08T20-51_4",
-        "rank": 4,
-        "title": "Southern California clean-heat rule survives key legal challenge",
-        "category": "energy",
-        "summary": "Southern California’s landmark rule to slash emissions from industrial heating sources just notched a major victory in court. The region has some of the worst air quality in the U.S., and the gas-fueled boilers and…",
-        "image": "https://img.canarymedia.com/content/uploads/Gas-flames_GettyImages-539260384.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=b3fad5caa70e9f95fcbe54f021ee10c6",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/electrification/southern-california-clean-heat-rule-survives"
-      },
-      {
-        "id": "auto_2026-07-08T20-51_5",
-        "rank": 5,
-        "title": "IEEE Honors Robotics Pioneer Toshio Fukuda",
-        "category": "robotics",
-        "summary": "Toshio Fukuda has been blazing trails for most of his career. He is considered to be one of the most prolific scholars in robotics , writing more than 2,000 research papers and authoring several books on the field. He’s…",
-        "image": "https://spectrum.ieee.org/media-library/three-men-in-suits-onstage-smiling-as-one-presents-an-award-medal-in-a-box.jpg?id=67107362&width=980",
-        "source": "IEEE Spectrum",
-        "sourceUrl": "https://spectrum.ieee.org/ieee-honors-toshio-fukuda"
       }
     ]
   }
