@@ -1,21 +1,31 @@
 [
   {
-    "batchId": "auto_2026-07-13T10-45",
-    "scannedAt": "2026-07-13T10:45:47.367Z",
+    "batchId": "auto_2026-07-13T13-52",
+    "scannedAt": "2026-07-13T13:52:40.492Z",
     "items": [
       {
-        "id": "auto_2026-07-13T10-45_1",
+        "id": "auto_2026-07-13T13-52_1",
         "rank": 1,
-        "title": "STAT+: HHS presses ahead with effort to curb antidepressant use",
+        "title": "STAT+: All eyes on data on Biogen's tau therapy",
         "category": "biotech",
-        "summary": "In a private meeting, HHS officials met with mental health professionals to work on guidance for stopping SSRIs.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/07/AdobeStock_1383731-1024x576.jpeg",
+        "summary": "The year of daraxonrasib, a wearable for a myeloma drug, and more biotech news from The Readout",
+        "image": "https://www.statnews.com/wp-content/uploads/2021/06/AP20076538734253-1024x576.jpg",
         "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/07/13/hhs-ssri-deprescribing-experts-gather-clinical-withdrawal-guidance/?utm_campaign=rss"
+        "sourceUrl": "https://www.statnews.com/2026/07/13/biotech-news-all-eyes-on-biogen-tau-therapy-data/?utm_campaign=rss"
       },
       {
-        "id": "auto_2026-07-13T10-45_2",
+        "id": "auto_2026-07-13T13-52_2",
         "rank": 2,
+        "title": "Reditus Space completes first reentry vehicle",
+        "category": "space",
+        "summary": "Reditus Space, a startup developing recoverable and reusable spacecraft, has completed its first vehicle for launch later this year. The post Reditus Space completes first reentry vehicle appeared first on SpaceNews .",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/reditus-enos.jpeg?fit=1024%2C682&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/reditus-space-completes-first-reentry-vehicle/"
+      },
+      {
+        "id": "auto_2026-07-13T13-52_3",
+        "rank": 3,
         "title": "A new deal on balcony solar just dropped in the US",
         "category": "energy",
         "summary": "Do you live in the U.S. and want balcony solar ? A new initiative could help you get a deal on one of these small but mighty systems that plug into a standard outlet and push clean power into your home. Today,…",
@@ -24,8 +34,8 @@
         "sourceUrl": "https://www.canarymedia.com/articles/solar/balcony-panel-bright-saver-deal"
       },
       {
-        "id": "auto_2026-07-13T10-45_3",
-        "rank": 3,
+        "id": "auto_2026-07-13T13-52_4",
+        "rank": 4,
         "title": "Decreasing Productivity Can Precede a Dementia Diagnosis by Years",
         "category": "neuroscience",
         "summary": "A new study demonstrates that early-onset dementia is associated with severe work productivity losses up to 15 years before a formal diagnosis.",
@@ -34,17 +44,7 @@
         "sourceUrl": "https://neurosciencenews.com/early-onset-dementia-work-productivity-31039/"
       },
       {
-        "id": "auto_2026-07-13T10-45_4",
-        "rank": 4,
-        "title": "Early Career Faculty (ECF) 2025 Awards",
-        "category": "space",
-        "summary": "Back to ECF Home Advanced Diagnostics for High-Enthalpy Test Facilities Simulating Spacecraft Atmospheric Entry Planning for Autonomous Spacecraft Using Machine Learning Methods to Enable Onboard Guidance, Navigation,…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/03/nsmerger-illus-ns.jpg",
-        "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/directorates/stmd/space-tech-research-grants/ecf/early-career-faculty-ecf-2025-awards/"
-      },
-      {
-        "id": "auto_2026-07-13T10-45_5",
+        "id": "auto_2026-07-13T13-52_5",
         "rank": 5,
         "title": "Video Friday: A World Cup for Robots",
         "category": "robotics",
