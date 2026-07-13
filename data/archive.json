@@ -1,21 +1,31 @@
 [
   {
-    "batchId": "auto_2026-07-13T06-41",
-    "scannedAt": "2026-07-13T06:41:56.691Z",
+    "batchId": "auto_2026-07-13T10-45",
+    "scannedAt": "2026-07-13T10:45:47.367Z",
     "items": [
       {
-        "id": "auto_2026-07-13T06-41_1",
+        "id": "auto_2026-07-13T10-45_1",
         "rank": 1,
-        "title": "STAT+: Tau in the spotlight at Alzheimer’s conference",
+        "title": "STAT+: HHS presses ahead with effort to curb antidepressant use",
         "category": "biotech",
-        "summary": "From STAT's AAIC in 30 newsletter: Researchers focus on tau, and progress on crossing the blood-brain barrier.",
-        "image": "https://www.statnews.com/wp-content/uploads/2025/10/AdobeStock_127445117-1024x576.jpeg",
+        "summary": "In a private meeting, HHS officials met with mental health professionals to work on guidance for stopping SSRIs.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/07/AdobeStock_1383731-1024x576.jpeg",
         "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/07/12/aaic-in-30-alzheimers-treaatments-focus-on-tau-blood-brain-barrier/?utm_campaign=rss"
+        "sourceUrl": "https://www.statnews.com/2026/07/13/hhs-ssri-deprescribing-experts-gather-clinical-withdrawal-guidance/?utm_campaign=rss"
       },
       {
-        "id": "auto_2026-07-13T06-41_2",
+        "id": "auto_2026-07-13T10-45_2",
         "rank": 2,
+        "title": "A new deal on balcony solar just dropped in the US",
+        "category": "energy",
+        "summary": "Do you live in the U.S. and want balcony solar ? A new initiative could help you get a deal on one of these small but mighty systems that plug into a standard outlet and push clean power into your home. Today,…",
+        "image": "https://img.canarymedia.com/content/uploads/Balcony-Solar-on-Deck.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=a9a2ae85c3d9e6f8c36ffaad3590cef4",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/solar/balcony-panel-bright-saver-deal"
+      },
+      {
+        "id": "auto_2026-07-13T10-45_3",
+        "rank": 3,
         "title": "Decreasing Productivity Can Precede a Dementia Diagnosis by Years",
         "category": "neuroscience",
         "summary": "A new study demonstrates that early-onset dementia is associated with severe work productivity losses up to 15 years before a formal diagnosis.",
@@ -24,17 +34,7 @@
         "sourceUrl": "https://neurosciencenews.com/early-onset-dementia-work-productivity-31039/"
       },
       {
-        "id": "auto_2026-07-13T06-41_3",
-        "rank": 3,
-        "title": "A pioneering grid-battery factory is headed for this California city",
-        "category": "energy",
-        "summary": "Startup Peak Energy launched in 2023 with a promise to bring the up-and-coming sodium-ion battery chemistry to American shores. Now, it’s building a gigafactory in Sacramento, California, that will be the country’s…",
-        "image": "https://img.canarymedia.com/content/uploads/Peak-Energy-Sacramento_image-7.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=e3a891cdd9ff9c40fbdbb805c25701b6",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/batteries/pioneering-grid-battery-factory-california"
-      },
-      {
-        "id": "auto_2026-07-13T06-41_4",
+        "id": "auto_2026-07-13T10-45_4",
         "rank": 4,
         "title": "Early Career Faculty (ECF) 2025 Awards",
         "category": "space",
@@ -44,7 +44,7 @@
         "sourceUrl": "https://www.nasa.gov/directorates/stmd/space-tech-research-grants/ecf/early-career-faculty-ecf-2025-awards/"
       },
       {
-        "id": "auto_2026-07-13T06-41_5",
+        "id": "auto_2026-07-13T10-45_5",
         "rank": 5,
         "title": "Video Friday: A World Cup for Robots",
         "category": "robotics",
