@@ -1,31 +1,41 @@
 [
   {
-    "batchId": "auto_2026-07-14T06-01",
-    "scannedAt": "2026-07-14T06:01:23.424Z",
+    "batchId": "auto_2026-07-14T09-41",
+    "scannedAt": "2026-07-14T09:41:58.616Z",
     "items": [
       {
-        "id": "auto_2026-07-14T06-01_1",
+        "id": "auto_2026-07-14T09-41_1",
         "rank": 1,
-        "title": "Flexell Space raises $20 Million in Series A round",
-        "category": "space",
-        "summary": "UIWANG, South Korea, July 14 — FLEXELL SPACE, a developer of next-generation space solar solutions, announced that it has completed a $20 million Series A funding round. Completed approximately two […] The post Flexell…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/LOGO_FLEXELLBlack_jpg.jpg?fit=1024%2C1024&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/flexell-space-raises-20-million-in-series-a-round/"
-      },
-      {
-        "id": "auto_2026-07-14T06-01_2",
-        "rank": 2,
-        "title": "STAT+: AIDS activists slam Biden R&#038;D deal with Gilead over HIV prevention drug patents",
+        "title": "FDA authorized Zyn nicotine pouches without knowing what they were made of, says former agency scientist",
         "category": "biotech",
-        "summary": "A group of AIDS activists obtained an R&#038;D pact at the heart of a settlement between the U.S. government and Gilead Sciences over patents for HIV prevention.",
-        "image": "https://www.statnews.com/wp-content/uploads/2016/12/GettyImages-107091583-1024x576.jpg",
+        "summary": "A former FDA toxicologist has accused the agency of authorizing Zyn nicotine pouches without fully reviewing their safety",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/07/Credit-Leila-Navidi-for-The-Examination_Christy-Leppanen-portrait-1024x576.jpeg",
         "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/pharmalot/2026/07/13/aids-activists-slam-biden-deal-with-gilead-over-hiv-prevention-patents/?utm_campaign=rss"
+        "sourceUrl": "https://www.statnews.com/2026/07/14/zyn-nicotine-pouches-fda-approval-microplastic-risk/?utm_campaign=rss"
       },
       {
-        "id": "auto_2026-07-14T06-01_3",
+        "id": "auto_2026-07-14T09-41_2",
+        "rank": 2,
+        "title": "Here’s how offshore wind helped New England beat record heat",
+        "category": "energy",
+        "summary": "America’s offshore wind farms have already shown their ability to keep electricity flowing during brutal winter storms. Now, the clean energy resource has proved it can also bolster the grid during major heat waves.…",
+        "image": "https://img.canarymedia.com/content/uploads/Revolution-wind-April-2023-with-boat_AP26113527293997.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=01a28c990c3c1b26ca2dc590046773d9",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/offshore-wind/offshore-wind-new-england-heat"
+      },
+      {
+        "id": "auto_2026-07-14T09-41_3",
         "rank": 3,
+        "title": "Fans of the Arctic",
+        "category": "space",
+        "summary": "Sediment eroded from ice-capped mountains splays out across a broad river valley on Russia’s Severny Island.",
+        "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/fans-of-the-arctic/duelingalluvialfans_oli2_20250801_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "source": "NASA",
+        "sourceUrl": "https://science.nasa.gov/earth/earth-observatory/fans-of-the-arctic/"
+      },
+      {
+        "id": "auto_2026-07-14T09-41_4",
+        "rank": 4,
         "title": "Testosterone Drives Early Pubertal Distress in Girls",
         "category": "neuroscience",
         "summary": "A new study demonstrates that rising testosterone levels are a primary predictor of anxiety and depression symptoms in preteens aged 10 to 12.",
@@ -34,24 +44,14 @@
         "sourceUrl": "https://neurosciencenews.com/testosterone-puberty-girls-emotional-distress-31042/"
       },
       {
-        "id": "auto_2026-07-14T06-01_4",
-        "rank": 4,
+        "id": "auto_2026-07-14T09-41_5",
+        "rank": 5,
         "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
         "category": "ai",
         "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1…",
         "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/thinking2.jpg?resize=1200,600",
         "source": "MIT Technology Review",
         "sourceUrl": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/"
-      },
-      {
-        "id": "auto_2026-07-14T06-01_5",
-        "rank": 5,
-        "title": "A new deal on balcony solar just dropped in the US",
-        "category": "energy",
-        "summary": "Do you live in the U.S. and want balcony solar ? A new initiative could help you get a deal on one of these small but mighty systems that plug into a standard outlet and push clean power into your home. Today,…",
-        "image": "https://img.canarymedia.com/content/uploads/Balcony-Solar-on-Deck.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=a9a2ae85c3d9e6f8c36ffaad3590cef4",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/solar/balcony-panel-bright-saver-deal"
       }
     ]
   },
