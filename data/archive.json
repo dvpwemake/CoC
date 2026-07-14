@@ -1,30 +1,30 @@
 [
   {
-    "batchId": "auto_2026-07-14T12-57",
-    "scannedAt": "2026-07-14T12:57:43.045Z",
+    "batchId": "auto_2026-07-14T16-58",
+    "scannedAt": "2026-07-14T16:58:23.438Z",
     "items": [
       {
-        "id": "auto_2026-07-14T12-57_1",
+        "id": "auto_2026-07-14T16-58_1",
         "rank": 1,
-        "title": "U.K. government preparing to release new space strategy",
-        "category": "space",
-        "summary": "The British government is preparing to release a new space strategy that will provide a “whole-of-government” approach for space in the country. The post U.K. government preparing to release new space strategy appeared…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/evernden-spacetide.jpeg?fit=1024%2C700&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/u-k-government-preparing-to-release-new-space-strategy/"
-      },
-      {
-        "id": "auto_2026-07-14T12-57_2",
-        "rank": 2,
-        "title": "FDA authorized Zyn nicotine pouches without knowing what they were made of, says former agency scientist",
+        "title": "STAT+: Anthropic’s Claude Science is coming for Kendall Square",
         "category": "biotech",
-        "summary": "A former FDA toxicologist has accused the agency of authorizing Zyn nicotine pouches without fully reviewing their safety",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/07/Credit-Leila-Navidi-for-The-Examination_Christy-Leppanen-portrait-1024x576.jpeg",
+        "summary": "AI still has the potential to do more than reduce corporate head counts. Watch out, Kendall Square.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/07/GettyImages-2261973888-1024x576.jpg",
         "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/07/14/zyn-nicotine-pouches-fda-approval-microplastic-risk/?utm_campaign=rss"
+        "sourceUrl": "https://www.statnews.com/2026/07/14/anthropic-claude-science-kendall-square/?utm_campaign=rss"
       },
       {
-        "id": "auto_2026-07-14T12-57_3",
+        "id": "auto_2026-07-14T16-58_2",
+        "rank": 2,
+        "title": "NASA’s Roman Telescope Will Spot Distant Black Holes That Shred Stars",
+        "category": "space",
+        "summary": "How do black holes at the center of galaxies form and grow over time? To answer this question, scientists need to detect and study supermassive black holes at great distances, which existed much earlier in the…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/07/tde-video-soni.mp4",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-telescope-will-spot-distant-black-holes-that-shred-stars/"
+      },
+      {
+        "id": "auto_2026-07-14T16-58_3",
         "rank": 3,
         "title": "Here’s how offshore wind helped New England beat record heat",
         "category": "energy",
@@ -34,7 +34,7 @@
         "sourceUrl": "https://www.canarymedia.com/articles/offshore-wind/offshore-wind-new-england-heat"
       },
       {
-        "id": "auto_2026-07-14T12-57_4",
+        "id": "auto_2026-07-14T16-58_4",
         "rank": 4,
         "title": "Testosterone Drives Early Pubertal Distress in Girls",
         "category": "neuroscience",
@@ -44,7 +44,7 @@
         "sourceUrl": "https://neurosciencenews.com/testosterone-puberty-girls-emotional-distress-31042/"
       },
       {
-        "id": "auto_2026-07-14T12-57_5",
+        "id": "auto_2026-07-14T16-58_5",
         "rank": 5,
         "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
         "category": "ai",
