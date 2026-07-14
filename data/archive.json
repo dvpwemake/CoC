@@ -1,11 +1,21 @@
 [
   {
-    "batchId": "auto_2026-07-14T09-41",
-    "scannedAt": "2026-07-14T09:41:58.616Z",
+    "batchId": "auto_2026-07-14T12-57",
+    "scannedAt": "2026-07-14T12:57:43.045Z",
     "items": [
       {
-        "id": "auto_2026-07-14T09-41_1",
+        "id": "auto_2026-07-14T12-57_1",
         "rank": 1,
+        "title": "U.K. government preparing to release new space strategy",
+        "category": "space",
+        "summary": "The British government is preparing to release a new space strategy that will provide a “whole-of-government” approach for space in the country. The post U.K. government preparing to release new space strategy appeared…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/evernden-spacetide.jpeg?fit=1024%2C700&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/u-k-government-preparing-to-release-new-space-strategy/"
+      },
+      {
+        "id": "auto_2026-07-14T12-57_2",
+        "rank": 2,
         "title": "FDA authorized Zyn nicotine pouches without knowing what they were made of, says former agency scientist",
         "category": "biotech",
         "summary": "A former FDA toxicologist has accused the agency of authorizing Zyn nicotine pouches without fully reviewing their safety",
@@ -14,8 +24,8 @@
         "sourceUrl": "https://www.statnews.com/2026/07/14/zyn-nicotine-pouches-fda-approval-microplastic-risk/?utm_campaign=rss"
       },
       {
-        "id": "auto_2026-07-14T09-41_2",
-        "rank": 2,
+        "id": "auto_2026-07-14T12-57_3",
+        "rank": 3,
         "title": "Here’s how offshore wind helped New England beat record heat",
         "category": "energy",
         "summary": "America’s offshore wind farms have already shown their ability to keep electricity flowing during brutal winter storms. Now, the clean energy resource has proved it can also bolster the grid during major heat waves.…",
@@ -24,17 +34,7 @@
         "sourceUrl": "https://www.canarymedia.com/articles/offshore-wind/offshore-wind-new-england-heat"
       },
       {
-        "id": "auto_2026-07-14T09-41_3",
-        "rank": 3,
-        "title": "Fans of the Arctic",
-        "category": "space",
-        "summary": "Sediment eroded from ice-capped mountains splays out across a broad river valley on Russia’s Severny Island.",
-        "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/fans-of-the-arctic/duelingalluvialfans_oli2_20250801_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-        "source": "NASA",
-        "sourceUrl": "https://science.nasa.gov/earth/earth-observatory/fans-of-the-arctic/"
-      },
-      {
-        "id": "auto_2026-07-14T09-41_4",
+        "id": "auto_2026-07-14T12-57_4",
         "rank": 4,
         "title": "Testosterone Drives Early Pubertal Distress in Girls",
         "category": "neuroscience",
@@ -44,7 +44,7 @@
         "sourceUrl": "https://neurosciencenews.com/testosterone-puberty-girls-emotional-distress-31042/"
       },
       {
-        "id": "auto_2026-07-14T09-41_5",
+        "id": "auto_2026-07-14T12-57_5",
         "rank": 5,
         "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
         "category": "ai",
