@@ -1,5 +1,61 @@
 [
   {
+    "batchId": "auto_2026-07-09T21-08",
+    "scannedAt": "2026-07-09T21:08:26.697Z",
+    "items": [
+      {
+        "id": "auto_2026-07-09T21-08_1",
+        "rank": 1,
+        "title": "1,000-Subject Trial Maps Brain Aging in the Real World",
+        "category": "neuroscience",
+        "summary": "A technologically ambitious partnership between UCSF Neuroscape and Samsung launches the TAH-DA study, a massive remote longitudinal trial utilizing consumer wearables to predict and track cognitive decline across the…",
+        "image": "https://neurosciencenews.com/files/2026/07/neurotech-cognitive-decline-lifespan-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/brain-aging-cognition-neurotech-31028/"
+      },
+      {
+        "id": "auto_2026-07-09T21-08_2",
+        "rank": 2,
+        "title": "Anthropic found a hidden space where Claude puzzles over concepts",
+        "category": "ai",
+        "summary": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/llm-crystal-globe_1.jpg?resize=1200,600",
+        "source": "MIT Technology Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/"
+      },
+      {
+        "id": "auto_2026-07-09T21-08_3",
+        "rank": 3,
+        "title": "The Exploration Company establishes US entity to pursue government contracts",
+        "category": "space",
+        "summary": "JOHANNESBURG — The Exploration Company, a space transportation company based in Germany, established TEC Federal, a United States-based entity that will enable it to compete for government programs and contracts. […]…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/nyx-droptest.jpeg?fit=1024%2C683&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/the-exploration-company-establishes-us-entity-to-pursue-government-contracts/"
+      },
+      {
+        "id": "auto_2026-07-09T21-08_4",
+        "rank": 4,
+        "title": "Whistleblower takes on health insurance and FDA commissioner candidates",
+        "category": "biotech",
+        "summary": "This week on \"The Readout LOUD\" podcast: Why does getting family health insurance through a job cost as much as buying a new car? And who might be the new…",
+        "image": "https://www.statnews.com/wp-content/uploads/2024/07/ROL_Rectangle-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/07/09/readout-loud-podcast-fda-commissioner-candidates-health-insurance-costs/?utm_campaign=rss"
+      },
+      {
+        "id": "auto_2026-07-09T21-08_5",
+        "rank": 5,
+        "title": "Ohio Power Siting Board asks court to punt on high-stakes solar case",
+        "category": "energy",
+        "summary": "For more than a year, the Ohio Supreme Court has been set to make a landmark ruling in a case with high stakes for renewable energy development. But now, the Ohio Power Siting Board has asked the court to skip that and…",
+        "image": "https://img.canarymedia.com/content/uploads/Ohio_Judicial_Center_façade_Wikipedia.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=64cbf2a9010769a921f78f8852307d1f",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/solar/ohio-power-siting-board-solar-case"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-07-08T20-51",
     "scannedAt": "2026-07-08T20:51:54.549Z",
     "items": [
@@ -213,62 +269,6 @@
       },
       {
         "id": "auto_2026-07-05T20-43_5",
-        "rank": 5,
-        "title": "STAT+: Medicare takes another swing at 340B cuts to hospitals",
-        "category": "biotech",
-        "summary": "Reducing Medicare payments for 340B drugs is the latest proposal focused on the hotly debated drug discount program.",
-        "image": "https://www.statnews.com/wp-content/uploads/2023/08/AdobeStock_385917483-1024x576.jpeg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/07/02/medicare-hospital-payment-340b-drugs-cut/?utm_campaign=rss"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-07-04T20-40",
-    "scannedAt": "2026-07-04T20:40:21.296Z",
-    "items": [
-      {
-        "id": "auto_2026-07-04T20-40_1",
-        "rank": 1,
-        "title": "GAO flags satellite costs, launch risks in Space Force portfolio",
-        "category": "space",
-        "summary": "Watchdog cites growing costs for missile-warning satellites, digital engineering gaps and workforce reductions that could slow national security launches The post GAO flags satellite costs, launch risks in Space Force…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2022/07/FYsxAiQVQAE6yUJ.jpg?fit=800%2C467&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/gao-flags-satellite-costs-launch-risks-in-space-force-portfolio/"
-      },
-      {
-        "id": "auto_2026-07-04T20-40_2",
-        "rank": 2,
-        "title": "LLMs and Math Combine to Map Human Decision-Making",
-        "category": "neuroscience",
-        "summary": "A new research framework that combines large language models (LLMs) with choice mathematics to evaluate human decision-making. By deploying LLMs to automatically interpret and code thousands of free-text participant…",
-        "image": "https://neurosciencenews.com/files/2026/07/llm-math-decision-making-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/llm-cognitive-mapping-decision-making-30992/"
-      },
-      {
-        "id": "auto_2026-07-04T20-40_3",
-        "rank": 3,
-        "title": "Video Friday: An Earthbound Mars Rover for the Moon",
-        "category": "robotics",
-        "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us…",
-        "image": "https://spectrum.ieee.org/media-library/mars-style-rover-prototype-on-rugged-ground-under-a-clear-sky-with-the-moon-visible.png?id=67083121&width=980",
-        "source": "IEEE Spectrum",
-        "sourceUrl": "https://spectrum.ieee.org/video-friday-nasa-lunar-rover"
-      },
-      {
-        "id": "auto_2026-07-04T20-40_4",
-        "rank": 4,
-        "title": "Data centers use more power in the US than in any other country",
-        "category": "energy",
-        "summary": "This article is part of our ​“Chart of the Week” series . Data centers use more electricity in the U.S. than in any other country — China included. In 2025, nearly 40% of all power demand from data centers came from…",
-        "image": "https://img.canarymedia.com/content/uploads/COTW-Data-centers.png?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=80&w=1200&s=6ab88e95914464011c02c651929f39c5",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/data-centers/data-centers-use-more-power-in-the-us-than-anywhere-else"
-      },
-      {
-        "id": "auto_2026-07-04T20-40_5",
         "rank": 5,
         "title": "STAT+: Medicare takes another swing at 340B cuts to hospitals",
         "category": "biotech",

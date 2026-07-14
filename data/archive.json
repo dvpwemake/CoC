@@ -1,5 +1,61 @@
 [
   {
+    "batchId": "auto_2026-07-14T01-07",
+    "scannedAt": "2026-07-14T01:07:37.310Z",
+    "items": [
+      {
+        "id": "auto_2026-07-14T01-07_1",
+        "rank": 1,
+        "title": "NASA Study Points to Smoother Air Taxi Rides",
+        "category": "space",
+        "summary": "No one wants to get into an uncomfortable aircraft. NASA research could help the emerging industry of air taxis —small, vertical-takeoff-and-landing aircraft meant for short trips — understand the relationship between…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2023/07/afrc2025-0184-36.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-study-points-to-smoother-air-taxi-rides/"
+      },
+      {
+        "id": "auto_2026-07-14T01-07_2",
+        "rank": 2,
+        "title": "STAT+: AIDS activists slam Biden R&#038;D deal with Gilead over HIV prevention drug patents",
+        "category": "biotech",
+        "summary": "A group of AIDS activists obtained an R&#038;D pact at the heart of a settlement between the U.S. government and Gilead Sciences over patents for HIV prevention.",
+        "image": "https://www.statnews.com/wp-content/uploads/2016/12/GettyImages-107091583-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/pharmalot/2026/07/13/aids-activists-slam-biden-deal-with-gilead-over-hiv-prevention-patents/?utm_campaign=rss"
+      },
+      {
+        "id": "auto_2026-07-14T01-07_3",
+        "rank": 3,
+        "title": "Testosterone Drives Early Pubertal Distress in Girls",
+        "category": "neuroscience",
+        "summary": "A new study demonstrates that rising testosterone levels are a primary predictor of anxiety and depression symptoms in preteens aged 10 to 12.",
+        "image": "https://neurosciencenews.com/files/2026/07/testosterone-pubity-emotion-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/testosterone-puberty-girls-emotional-distress-31042/"
+      },
+      {
+        "id": "auto_2026-07-14T01-07_4",
+        "rank": 4,
+        "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
+        "category": "ai",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/thinking2.jpg?resize=1200,600",
+        "source": "MIT Technology Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/"
+      },
+      {
+        "id": "auto_2026-07-14T01-07_5",
+        "rank": 5,
+        "title": "A new deal on balcony solar just dropped in the US",
+        "category": "energy",
+        "summary": "Do you live in the U.S. and want balcony solar ? A new initiative could help you get a deal on one of these small but mighty systems that plug into a standard outlet and push clean power into your home. Today,…",
+        "image": "https://img.canarymedia.com/content/uploads/Balcony-Solar-on-Deck.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=a9a2ae85c3d9e6f8c36ffaad3590cef4",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/solar/balcony-panel-bright-saver-deal"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-07-13T20-45",
     "scannedAt": "2026-07-13T20:45:36.490Z",
     "items": [

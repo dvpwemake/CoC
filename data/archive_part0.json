@@ -1,5 +1,61 @@
 [
   {
+    "batchId": "auto_2026-07-14T01-07",
+    "scannedAt": "2026-07-14T01:07:37.310Z",
+    "items": [
+      {
+        "id": "auto_2026-07-14T01-07_1",
+        "rank": 1,
+        "title": "NASA Study Points to Smoother Air Taxi Rides",
+        "category": "space",
+        "summary": "No one wants to get into an uncomfortable aircraft. NASA research could help the emerging industry of air taxis —small, vertical-takeoff-and-landing aircraft meant for short trips — understand the relationship between…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2023/07/afrc2025-0184-36.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-study-points-to-smoother-air-taxi-rides/"
+      },
+      {
+        "id": "auto_2026-07-14T01-07_2",
+        "rank": 2,
+        "title": "STAT+: AIDS activists slam Biden R&#038;D deal with Gilead over HIV prevention drug patents",
+        "category": "biotech",
+        "summary": "A group of AIDS activists obtained an R&#038;D pact at the heart of a settlement between the U.S. government and Gilead Sciences over patents for HIV prevention.",
+        "image": "https://www.statnews.com/wp-content/uploads/2016/12/GettyImages-107091583-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/pharmalot/2026/07/13/aids-activists-slam-biden-deal-with-gilead-over-hiv-prevention-patents/?utm_campaign=rss"
+      },
+      {
+        "id": "auto_2026-07-14T01-07_3",
+        "rank": 3,
+        "title": "Testosterone Drives Early Pubertal Distress in Girls",
+        "category": "neuroscience",
+        "summary": "A new study demonstrates that rising testosterone levels are a primary predictor of anxiety and depression symptoms in preteens aged 10 to 12.",
+        "image": "https://neurosciencenews.com/files/2026/07/testosterone-pubity-emotion-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/testosterone-puberty-girls-emotional-distress-31042/"
+      },
+      {
+        "id": "auto_2026-07-14T01-07_4",
+        "rank": 4,
+        "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
+        "category": "ai",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/thinking2.jpg?resize=1200,600",
+        "source": "MIT Technology Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/"
+      },
+      {
+        "id": "auto_2026-07-14T01-07_5",
+        "rank": 5,
+        "title": "A new deal on balcony solar just dropped in the US",
+        "category": "energy",
+        "summary": "Do you live in the U.S. and want balcony solar ? A new initiative could help you get a deal on one of these small but mighty systems that plug into a standard outlet and push clean power into your home. Today,…",
+        "image": "https://img.canarymedia.com/content/uploads/Balcony-Solar-on-Deck.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=a9a2ae85c3d9e6f8c36ffaad3590cef4",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/solar/balcony-panel-bright-saver-deal"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-07-13T20-45",
     "scannedAt": "2026-07-13T20:45:36.490Z",
     "items": [
@@ -220,62 +276,6 @@
         "image": "https://spectrum.ieee.org/media-library/humanoid-robots-play-soccer-as-a-ball-flies-toward-the-goal-in-a-tournament-arena.jpg?id=67119515&width=980",
         "source": "IEEE Spectrum",
         "sourceUrl": "https://spectrum.ieee.org/video-friday-robot-world-cup"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-07-09T21-08",
-    "scannedAt": "2026-07-09T21:08:26.697Z",
-    "items": [
-      {
-        "id": "auto_2026-07-09T21-08_1",
-        "rank": 1,
-        "title": "1,000-Subject Trial Maps Brain Aging in the Real World",
-        "category": "neuroscience",
-        "summary": "A technologically ambitious partnership between UCSF Neuroscape and Samsung launches the TAH-DA study, a massive remote longitudinal trial utilizing consumer wearables to predict and track cognitive decline across the…",
-        "image": "https://neurosciencenews.com/files/2026/07/neurotech-cognitive-decline-lifespan-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/brain-aging-cognition-neurotech-31028/"
-      },
-      {
-        "id": "auto_2026-07-09T21-08_2",
-        "rank": 2,
-        "title": "Anthropic found a hidden space where Claude puzzles over concepts",
-        "category": "ai",
-        "summary": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/llm-crystal-globe_1.jpg?resize=1200,600",
-        "source": "MIT Technology Review",
-        "sourceUrl": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/"
-      },
-      {
-        "id": "auto_2026-07-09T21-08_3",
-        "rank": 3,
-        "title": "The Exploration Company establishes US entity to pursue government contracts",
-        "category": "space",
-        "summary": "JOHANNESBURG — The Exploration Company, a space transportation company based in Germany, established TEC Federal, a United States-based entity that will enable it to compete for government programs and contracts. […]…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/nyx-droptest.jpeg?fit=1024%2C683&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/the-exploration-company-establishes-us-entity-to-pursue-government-contracts/"
-      },
-      {
-        "id": "auto_2026-07-09T21-08_4",
-        "rank": 4,
-        "title": "Whistleblower takes on health insurance and FDA commissioner candidates",
-        "category": "biotech",
-        "summary": "This week on \"The Readout LOUD\" podcast: Why does getting family health insurance through a job cost as much as buying a new car? And who might be the new…",
-        "image": "https://www.statnews.com/wp-content/uploads/2024/07/ROL_Rectangle-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/07/09/readout-loud-podcast-fda-commissioner-candidates-health-insurance-costs/?utm_campaign=rss"
-      },
-      {
-        "id": "auto_2026-07-09T21-08_5",
-        "rank": 5,
-        "title": "Ohio Power Siting Board asks court to punt on high-stakes solar case",
-        "category": "energy",
-        "summary": "For more than a year, the Ohio Supreme Court has been set to make a landmark ruling in a case with high stakes for renewable energy development. But now, the Ohio Power Siting Board has asked the court to skip that and…",
-        "image": "https://img.canarymedia.com/content/uploads/Ohio_Judicial_Center_façade_Wikipedia.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=64cbf2a9010769a921f78f8852307d1f",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/solar/ohio-power-siting-board-solar-case"
       }
     ]
   }
