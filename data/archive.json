@@ -1,21 +1,31 @@
 [
   {
-    "batchId": "auto_2026-07-15T09-44",
-    "scannedAt": "2026-07-15T09:44:57.389Z",
+    "batchId": "auto_2026-07-15T13-01",
+    "scannedAt": "2026-07-15T13:01:21.386Z",
     "items": [
       {
-        "id": "auto_2026-07-15T09-44_1",
+        "id": "auto_2026-07-15T13-01_1",
         "rank": 1,
-        "title": "STAT+: Medicare Advantage insurers face new bipartisan scrutiny over AI and care denials",
-        "category": "biotech",
-        "summary": "Blumenthal, Hawley press UnitedHealth, Humana, CVS for documents related to using AI to deny or delay care.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/07/GettyImages-2282986820-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/07/15/medicare-advantage-ai-care-denials-probe-blumenthal-hawley/?utm_campaign=rss"
+        "title": "NASA’s Webb Discovers Hidden Planet in Famous Star System",
+        "category": "space",
+        "summary": "Astronomers using NASA’s James Webb Space Telescope have discovered a giant planet outside our solar system, called an exoplanet, hiding within one of the most intensely studied planetary systems in our Milky Way…",
+        "image": "https://assets.science.nasa.gov/content/dam/science/missions/webb/science/2026/07/STScI-01KX448CEBRHBBJW579AG64G0H.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "source": "NASA",
+        "sourceUrl": "https://science.nasa.gov/missions/webb/nasas-webb-discovers-hidden-planet-in-famous-star-system/"
       },
       {
-        "id": "auto_2026-07-15T09-44_2",
+        "id": "auto_2026-07-15T13-01_2",
         "rank": 2,
+        "title": "What to know about the parasitic diarrhea outbreak",
+        "category": "biotech",
+        "summary": "Fallout from the end of ACA subsidies, the FDA CBER acting director \"on planet Earth,\" and more health news from Morning Rounds",
+        "image": "https://www.statnews.com/wp-content/uploads/2019/02/AdobeStock_53700896-1024x576.jpeg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/07/15/health-news-what-to-know-about-cyclosporiasis-parasitic-diarrhea/?utm_campaign=rss"
+      },
+      {
+        "id": "auto_2026-07-15T13-01_3",
+        "rank": 3,
         "title": "New manufactured homes may get more efficient thanks to housing law",
         "category": "energy",
         "summary": "A sweeping federal housing bill that became law last Saturday contains some big benefits for Americans poised to buy or rent new manufactured homes — the same families who often struggle to make ends meet and can least…",
@@ -24,17 +34,7 @@
         "sourceUrl": "https://www.canarymedia.com/articles/energy-efficiency/new-manufactured-homes-housing-law"
       },
       {
-        "id": "auto_2026-07-15T09-44_3",
-        "rank": 3,
-        "title": "Curiosity Blog, Sols 4947-4953: Gale Crater Then and Now",
-        "category": "space",
-        "summary": "Written by Alex Innanen, Atmospheric Scientist at York University, Toronto Earth planning date: Friday, July 10, 2026 Curiosity had a successful long weekend and came into this week ready to explore some more. We’ve…",
-        "image": "https://assets.science.nasa.gov/content/dam/science/missions/msl/2026/curiosity-rover-updates/july/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04948_opgs_edr_ncam_NLB_836754384EDR_S1230540NCAM00298M_.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-        "source": "NASA",
-        "sourceUrl": "https://science.nasa.gov/blog/curiosity-blog-sols-4947-4953-gale-crater-then-and-now/"
-      },
-      {
-        "id": "auto_2026-07-15T09-44_4",
+        "id": "auto_2026-07-15T13-01_4",
         "rank": 4,
         "title": "AI Model Predicts Complex DNA Binding",
         "category": "neuroscience",
@@ -44,7 +44,7 @@
         "sourceUrl": "https://neurosciencenews.com/binnd-deep-learning-dna-binding-31053/"
       },
       {
-        "id": "auto_2026-07-15T09-44_5",
+        "id": "auto_2026-07-15T13-01_5",
         "rank": 5,
         "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
         "category": "ai",
