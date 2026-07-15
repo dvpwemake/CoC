@@ -1,57 +1,57 @@
 [
   {
-    "batchId": "auto_2026-07-15T17-00",
-    "scannedAt": "2026-07-15T17:00:27.359Z",
+    "batchId": "auto_2026-07-15T20-45",
+    "scannedAt": "2026-07-15T20:45:50.388Z",
     "items": [
       {
-        "id": "auto_2026-07-15T17-00_1",
+        "id": "auto_2026-07-15T20-45_1",
         "rank": 1,
-        "title": "STAT+: The whistleblower, The Lab, and the fine print",
+        "title": "STAT+: At key hearing, Kennedy’s ouster of former CDC director looms over nominee to replace her",
         "category": "biotech",
-        "summary": "In this AI Prognosis news roundup: Mayo's AI whistleblower, Sutter Health's reply to lawsuit over Abridge scribe, and more.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/07/AIPrognosis_Wordpress_botdots-1024x576.png",
+        "summary": "Erica Schwartz and Sean Kaufman navigated tough questions about vaccines, political independence, and pushing back on RFK Jr.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/07/GettyImages-2286228706-1024x576.jpg",
         "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/07/15/mayo-whistleblower-sutter-abridge-lawsuit-news-ai-prognosis/?utm_campaign=rss"
+        "sourceUrl": "https://www.statnews.com/2026/07/15/schwartz-kaufman-senate-confirmation-hearing-key-takeaways/?utm_campaign=rss"
       },
       {
-        "id": "auto_2026-07-15T17-00_2",
+        "id": "auto_2026-07-15T20-45_2",
         "rank": 2,
-        "title": "Startup working with University of Texas focuses on trapping small debris",
-        "category": "space",
-        "summary": "NAPA, Calif. – Florida startup Satellite Orbital Access and Removal (SOAR) announced a partnership July 15 with the University of Texas, El Paso, (UTEP) to develop a passive system to […] The post Startup working with…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/rsz_jones_felt_signing.jpg?fit=879%2C659&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/new-startup-working-with-university-of-texas-seeks-to-trap-small-debris/"
-      },
-      {
-        "id": "auto_2026-07-15T17-00_3",
-        "rank": 3,
-        "title": "New manufactured homes may get more efficient thanks to housing law",
-        "category": "energy",
-        "summary": "A sweeping federal housing bill that became law last Saturday contains some big benefits for Americans poised to buy or rent new manufactured homes — the same families who often struggle to make ends meet and can least…",
-        "image": "https://img.canarymedia.com/content/uploads/Manufactured-home-subdivision-in-Texas_GettyImages-2254751845.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=475fafb84f5b49b62466739b01fc0e28",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/energy-efficiency/new-manufactured-homes-housing-law"
-      },
-      {
-        "id": "auto_2026-07-15T17-00_4",
-        "rank": 4,
-        "title": "AI Model Predicts Complex DNA Binding",
+        "title": "Gene Therapy Reverses Severe Traits of Fragile X Syndrome",
         "category": "neuroscience",
-        "summary": "A new study introduces BINND, a deep learning model designed to predict complex, non-complementary DNA-DNA binding interactions.",
-        "image": "https://neurosciencenews.com/files/2026/07/ai-dna-binding-neuroscience-1155x770.jpg",
+        "summary": "The therapy restored FMRP expression in crucial brain regions, resulting in reduced audiogenic seizure susceptibility, normalized sensory hyperactivity, and complete reversal of elevated low-gamma EEG power.",
+        "image": "https://neurosciencenews.com/files/2026/07/gene-therapy-fragile-x-neuroscience-1155x770.jpg",
         "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/binnd-deep-learning-dna-binding-31053/"
+        "sourceUrl": "https://neurosciencenews.com/fragile-x-aav-fmr1-gene-therapy-31059/"
       },
       {
-        "id": "auto_2026-07-15T17-00_5",
-        "rank": 5,
-        "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
+        "id": "auto_2026-07-15T20-45_3",
+        "rank": 3,
+        "title": "Space Force awards Slingshot $69 million for AI-enabled training technology",
+        "category": "space",
+        "summary": "The 4½-year award will fund simulated satellite-defense scenarios The post Space Force awards Slingshot $69 million for AI-enabled training technology appeared first on SpaceNews .",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/Split_Talos_Satellite_safe_large_notcompressed.jpg?fit=1024%2C684&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/space-force-awards-slingshot-69-million-for-ai-enabled-training-technology/"
+      },
+      {
+        "id": "auto_2026-07-15T20-45_4",
+        "rank": 4,
+        "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
         "category": "ai",
-        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/thinking2.jpg?resize=1200,600",
+        "summary": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/spar-red.jpg?resize=1200,600",
         "source": "MIT Technology Review",
-        "sourceUrl": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/"
+        "sourceUrl": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/"
+      },
+      {
+        "id": "auto_2026-07-15T20-45_5",
+        "rank": 5,
+        "title": "Google buys power from record-busting solar-battery site in Arkansas",
+        "category": "energy",
+        "summary": "Longtime solar developer Cypress Creek Energy has not only broken ground on what could be the largest solar-plus-storage plant in the country, but also secured a blue-chip customer to pay for the clean power. Google…",
+        "image": "https://img.canarymedia.com/content/uploads/SteelRiver_Groundbreaking-36.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=a02435a355e5e422a16dfda1b8338bf6",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/corporate-procurement/google-solar-battery-site-arkansas"
       }
     ]
   },
