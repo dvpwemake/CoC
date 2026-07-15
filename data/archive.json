@@ -1,10 +1,10 @@
 [
   {
-    "batchId": "auto_2026-07-15T01-04",
-    "scannedAt": "2026-07-15T01:04:41.445Z",
+    "batchId": "auto_2026-07-15T06-03",
+    "scannedAt": "2026-07-15T06:03:56.915Z",
     "items": [
       {
-        "id": "auto_2026-07-15T01-04_1",
+        "id": "auto_2026-07-15T06-03_1",
         "rank": 1,
         "title": "AI Model Predicts Complex DNA Binding",
         "category": "neuroscience",
@@ -14,7 +14,7 @@
         "sourceUrl": "https://neurosciencenews.com/binnd-deep-learning-dna-binding-31053/"
       },
       {
-        "id": "auto_2026-07-15T01-04_2",
+        "id": "auto_2026-07-15T06-03_2",
         "rank": 2,
         "title": "STAT+: FTC settles lawsuit with CVS Caremark over charges it manipulated insulin prices, impeded access",
         "category": "biotech",
@@ -24,7 +24,7 @@
         "sourceUrl": "https://www.statnews.com/pharmalot/2026/07/14/ftc-settles-lawsuit-cvs-caremark-insulin-prices-access/?utm_campaign=rss"
       },
       {
-        "id": "auto_2026-07-15T01-04_3",
+        "id": "auto_2026-07-15T06-03_3",
         "rank": 3,
         "title": "Space acquisition and NRO picks face SASC",
         "category": "space",
@@ -34,7 +34,7 @@
         "sourceUrl": "https://spacenews.com/space-acquisition-and-nro-picks-face-sasc/"
       },
       {
-        "id": "auto_2026-07-15T01-04_4",
+        "id": "auto_2026-07-15T06-03_4",
         "rank": 4,
         "title": "Here’s how offshore wind helped New England beat record heat",
         "category": "energy",
@@ -44,7 +44,7 @@
         "sourceUrl": "https://www.canarymedia.com/articles/offshore-wind/offshore-wind-new-england-heat"
       },
       {
-        "id": "auto_2026-07-15T01-04_5",
+        "id": "auto_2026-07-15T06-03_5",
         "rank": 5,
         "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
         "category": "ai",
