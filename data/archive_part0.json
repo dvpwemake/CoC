@@ -1,5 +1,61 @@
 [
   {
+    "batchId": "auto_2026-07-15T01-04",
+    "scannedAt": "2026-07-15T01:04:41.445Z",
+    "items": [
+      {
+        "id": "auto_2026-07-15T01-04_1",
+        "rank": 1,
+        "title": "AI Model Predicts Complex DNA Binding",
+        "category": "neuroscience",
+        "summary": "A new study introduces BINND, a deep learning model designed to predict complex, non-complementary DNA-DNA binding interactions.",
+        "image": "https://neurosciencenews.com/files/2026/07/ai-dna-binding-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/binnd-deep-learning-dna-binding-31053/"
+      },
+      {
+        "id": "auto_2026-07-15T01-04_2",
+        "rank": 2,
+        "title": "STAT+: FTC settles lawsuit with CVS Caremark over charges it manipulated insulin prices, impeded access",
+        "category": "biotech",
+        "summary": "The FTC settled a lawsuit against CVS Caremark over allegations that the company artificially inflated the price of insulin and impeded access to the diabetes treatment.",
+        "image": "https://www.statnews.com/wp-content/uploads/2024/07/AP110620042579-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/pharmalot/2026/07/14/ftc-settles-lawsuit-cvs-caremark-insulin-prices-access/?utm_campaign=rss"
+      },
+      {
+        "id": "auto_2026-07-15T01-04_3",
+        "rank": 3,
+        "title": "Space acquisition and NRO picks face SASC",
+        "category": "space",
+        "summary": "Erich Hernandez-Baquero, nominated to become the Air Force’s top civilian space acquisition official, and Roger Mason, the administration’s choice to lead the National Reconnaissance Office, appeared before the Senate…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/Screenshot-2026-07-14-at-4.04.50-PM-e1784055257357.png?fit=1024%2C505&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/space-acquisition-and-nro-picks-face-sasc/"
+      },
+      {
+        "id": "auto_2026-07-15T01-04_4",
+        "rank": 4,
+        "title": "Here’s how offshore wind helped New England beat record heat",
+        "category": "energy",
+        "summary": "America’s offshore wind farms have already shown their ability to keep electricity flowing during brutal winter storms. Now, the clean energy resource has proved it can also bolster the grid during major heat waves.…",
+        "image": "https://img.canarymedia.com/content/uploads/Revolution-wind-April-2023-with-boat_AP26113527293997.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=01a28c990c3c1b26ca2dc590046773d9",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/offshore-wind/offshore-wind-new-england-heat"
+      },
+      {
+        "id": "auto_2026-07-15T01-04_5",
+        "rank": 5,
+        "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
+        "category": "ai",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/thinking2.jpg?resize=1200,600",
+        "source": "MIT Technology Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-07-14T20-46",
     "scannedAt": "2026-07-14T20:46:51.211Z",
     "items": [
