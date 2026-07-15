@@ -1,30 +1,30 @@
 [
   {
-    "batchId": "auto_2026-07-15T13-01",
-    "scannedAt": "2026-07-15T13:01:21.386Z",
+    "batchId": "auto_2026-07-15T17-00",
+    "scannedAt": "2026-07-15T17:00:27.359Z",
     "items": [
       {
-        "id": "auto_2026-07-15T13-01_1",
+        "id": "auto_2026-07-15T17-00_1",
         "rank": 1,
-        "title": "NASA’s Webb Discovers Hidden Planet in Famous Star System",
-        "category": "space",
-        "summary": "Astronomers using NASA’s James Webb Space Telescope have discovered a giant planet outside our solar system, called an exoplanet, hiding within one of the most intensely studied planetary systems in our Milky Way…",
-        "image": "https://assets.science.nasa.gov/content/dam/science/missions/webb/science/2026/07/STScI-01KX448CEBRHBBJW579AG64G0H.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-        "source": "NASA",
-        "sourceUrl": "https://science.nasa.gov/missions/webb/nasas-webb-discovers-hidden-planet-in-famous-star-system/"
-      },
-      {
-        "id": "auto_2026-07-15T13-01_2",
-        "rank": 2,
-        "title": "What to know about the parasitic diarrhea outbreak",
+        "title": "STAT+: The whistleblower, The Lab, and the fine print",
         "category": "biotech",
-        "summary": "Fallout from the end of ACA subsidies, the FDA CBER acting director \"on planet Earth,\" and more health news from Morning Rounds",
-        "image": "https://www.statnews.com/wp-content/uploads/2019/02/AdobeStock_53700896-1024x576.jpeg",
+        "summary": "In this AI Prognosis news roundup: Mayo's AI whistleblower, Sutter Health's reply to lawsuit over Abridge scribe, and more.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/07/AIPrognosis_Wordpress_botdots-1024x576.png",
         "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/07/15/health-news-what-to-know-about-cyclosporiasis-parasitic-diarrhea/?utm_campaign=rss"
+        "sourceUrl": "https://www.statnews.com/2026/07/15/mayo-whistleblower-sutter-abridge-lawsuit-news-ai-prognosis/?utm_campaign=rss"
       },
       {
-        "id": "auto_2026-07-15T13-01_3",
+        "id": "auto_2026-07-15T17-00_2",
+        "rank": 2,
+        "title": "Startup working with University of Texas focuses on trapping small debris",
+        "category": "space",
+        "summary": "NAPA, Calif. – Florida startup Satellite Orbital Access and Removal (SOAR) announced a partnership July 15 with the University of Texas, El Paso, (UTEP) to develop a passive system to […] The post Startup working with…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/rsz_jones_felt_signing.jpg?fit=879%2C659&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/new-startup-working-with-university-of-texas-seeks-to-trap-small-debris/"
+      },
+      {
+        "id": "auto_2026-07-15T17-00_3",
         "rank": 3,
         "title": "New manufactured homes may get more efficient thanks to housing law",
         "category": "energy",
@@ -34,7 +34,7 @@
         "sourceUrl": "https://www.canarymedia.com/articles/energy-efficiency/new-manufactured-homes-housing-law"
       },
       {
-        "id": "auto_2026-07-15T13-01_4",
+        "id": "auto_2026-07-15T17-00_4",
         "rank": 4,
         "title": "AI Model Predicts Complex DNA Binding",
         "category": "neuroscience",
@@ -44,7 +44,7 @@
         "sourceUrl": "https://neurosciencenews.com/binnd-deep-learning-dna-binding-31053/"
       },
       {
-        "id": "auto_2026-07-15T13-01_5",
+        "id": "auto_2026-07-15T17-00_5",
         "rank": 5,
         "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
         "category": "ai",
