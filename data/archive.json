@@ -1,11 +1,21 @@
 [
   {
-    "batchId": "auto_2026-07-16T01-13",
-    "scannedAt": "2026-07-16T01:13:59.403Z",
+    "batchId": "auto_2026-07-16T06-07",
+    "scannedAt": "2026-07-16T06:07:53.168Z",
     "items": [
       {
-        "id": "auto_2026-07-16T01-13_1",
+        "id": "auto_2026-07-16T06-07_1",
         "rank": 1,
+        "title": "Ontario Wildfire Smoke Moves East",
+        "category": "space",
+        "summary": "Canadian wildfires sent plumes of smoke streaming over Ontario, Quebec, and parts of the U.S. Midwest and Northeast.",
+        "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/ontario-wildfire-smoke-drifts-east/ontariofires_virs3_20260714_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "source": "NASA",
+        "sourceUrl": "https://science.nasa.gov/earth/earth-observatory/ontario-wildfire-smoke-moves-east/"
+      },
+      {
+        "id": "auto_2026-07-16T06-07_2",
+        "rank": 2,
         "title": "Graham’s death from aortic dissection raises questions about preventing the rare disorder",
         "category": "biotech",
         "summary": "When the body’s most important blood vessel tears from the inside, it’s a medical emergency that can be years in the making.",
@@ -14,8 +24,8 @@
         "sourceUrl": "https://www.statnews.com/2026/07/15/lindsay-graham-death-aortic-dissection-risk-prediction-warning-signs/?utm_campaign=rss"
       },
       {
-        "id": "auto_2026-07-16T01-13_2",
-        "rank": 2,
+        "id": "auto_2026-07-16T06-07_3",
+        "rank": 3,
         "title": "Gene Therapy Reverses Severe Traits of Fragile X Syndrome",
         "category": "neuroscience",
         "summary": "The therapy restored FMRP expression in crucial brain regions, resulting in reduced audiogenic seizure susceptibility, normalized sensory hyperactivity, and complete reversal of elevated low-gamma EEG power.",
@@ -24,17 +34,7 @@
         "sourceUrl": "https://neurosciencenews.com/fragile-x-aav-fmr1-gene-therapy-31059/"
       },
       {
-        "id": "auto_2026-07-16T01-13_3",
-        "rank": 3,
-        "title": "Space Force awards Slingshot $69 million for AI-enabled training technology",
-        "category": "space",
-        "summary": "The 4½-year award will fund simulated satellite-defense scenarios The post Space Force awards Slingshot $69 million for AI-enabled training technology appeared first on SpaceNews .",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/Split_Talos_Satellite_safe_large_notcompressed.jpg?fit=1024%2C684&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/space-force-awards-slingshot-69-million-for-ai-enabled-training-technology/"
-      },
-      {
-        "id": "auto_2026-07-16T01-13_4",
+        "id": "auto_2026-07-16T06-07_4",
         "rank": 4,
         "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
         "category": "ai",
@@ -44,7 +44,7 @@
         "sourceUrl": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/"
       },
       {
-        "id": "auto_2026-07-16T01-13_5",
+        "id": "auto_2026-07-16T06-07_5",
         "rank": 5,
         "title": "Google buys power from record-busting solar-battery site in Arkansas",
         "category": "energy",
