@@ -1,21 +1,31 @@
 [
   {
-    "batchId": "auto_2026-07-16T09-51",
-    "scannedAt": "2026-07-16T09:51:06.304Z",
+    "batchId": "auto_2026-07-16T13-09",
+    "scannedAt": "2026-07-16T13:09:17.041Z",
     "items": [
       {
-        "id": "auto_2026-07-16T09-51_1",
+        "id": "auto_2026-07-16T13-09_1",
         "rank": 1,
-        "title": "STAT+: CMS signals intent to revamp how it pays for clinical software and AI",
+        "title": "STAT+: FDA approves Merck's oral PCSK9 drug, a first",
         "category": "biotech",
-        "summary": "CMS wants to build a standardized payment structure for clinical software and AI that factors in their impact on patient outcomes.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/07/AdobeStock_1940190765-1024x576.jpeg",
+        "summary": "Kalshi allows bets on clinical trial outcomes, Eli Lilly buys a psychedelic medicine, and more biotech news from The Readout",
+        "image": "https://www.statnews.com/wp-content/uploads/2017/11/GettyImages-182931587-1024x576.jpg",
         "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/07/16/cms-to-revamp-payments-for-clinical-software-ai/?utm_campaign=rss"
+        "sourceUrl": "https://www.statnews.com/2026/07/16/biotech-news-fda-approves-merck-oral-pcsk9-drug-in-a-first/?utm_campaign=rss"
       },
       {
-        "id": "auto_2026-07-16T09-51_2",
+        "id": "auto_2026-07-16T13-09_2",
         "rank": 2,
+        "title": "Office of Space Commerce makes its case for mission authorization",
+        "category": "space",
+        "summary": "The Office of Space Commerce defended its proposal for a mission authorization scheme for novel space activities, arguing it would provide certainty for companies while limiting regulatory burdens. The post Office of…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/jordan-housesci260715.jpeg?fit=1024%2C683&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/office-of-space-commerce-makes-its-case-for-mission-authorization/"
+      },
+      {
+        "id": "auto_2026-07-16T13-09_3",
+        "rank": 3,
         "title": "New Jersey law will let data centers pay for home energy upgrades",
         "category": "energy",
         "summary": "New Jersey is offering data centers an unorthodox way to get the power they need: by bankrolling home energy upgrades. Last week, Gov. Mikie Sherrill (D) signed a bill that will create a first-of-its-kind program to…",
@@ -24,17 +34,7 @@
         "sourceUrl": "https://www.canarymedia.com/articles/data-centers/new-jersey-data-centers-energy-upgrades"
       },
       {
-        "id": "auto_2026-07-16T09-51_3",
-        "rank": 3,
-        "title": "Ontario Wildfire Smoke Moves East",
-        "category": "space",
-        "summary": "Canadian wildfires sent plumes of smoke streaming over Ontario, Quebec, and parts of the U.S. Midwest and Northeast.",
-        "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/ontario-wildfire-smoke-drifts-east/ontariofires_virs3_20260714_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-        "source": "NASA",
-        "sourceUrl": "https://science.nasa.gov/earth/earth-observatory/ontario-wildfire-smoke-moves-east/"
-      },
-      {
-        "id": "auto_2026-07-16T09-51_4",
+        "id": "auto_2026-07-16T13-09_4",
         "rank": 4,
         "title": "Gene Therapy Reverses Severe Traits of Fragile X Syndrome",
         "category": "neuroscience",
@@ -44,7 +44,7 @@
         "sourceUrl": "https://neurosciencenews.com/fragile-x-aav-fmr1-gene-therapy-31059/"
       },
       {
-        "id": "auto_2026-07-16T09-51_5",
+        "id": "auto_2026-07-16T13-09_5",
         "rank": 5,
         "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
         "category": "ai",
