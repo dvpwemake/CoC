@@ -1,11 +1,31 @@
 [
   {
-    "batchId": "auto_2026-07-16T06-07",
-    "scannedAt": "2026-07-16T06:07:53.168Z",
+    "batchId": "auto_2026-07-16T09-51",
+    "scannedAt": "2026-07-16T09:51:06.304Z",
     "items": [
       {
-        "id": "auto_2026-07-16T06-07_1",
+        "id": "auto_2026-07-16T09-51_1",
         "rank": 1,
+        "title": "STAT+: CMS signals intent to revamp how it pays for clinical software and AI",
+        "category": "biotech",
+        "summary": "CMS wants to build a standardized payment structure for clinical software and AI that factors in their impact on patient outcomes.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/07/AdobeStock_1940190765-1024x576.jpeg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/07/16/cms-to-revamp-payments-for-clinical-software-ai/?utm_campaign=rss"
+      },
+      {
+        "id": "auto_2026-07-16T09-51_2",
+        "rank": 2,
+        "title": "New Jersey law will let data centers pay for home energy upgrades",
+        "category": "energy",
+        "summary": "New Jersey is offering data centers an unorthodox way to get the power they need: by bankrolling home energy upgrades. Last week, Gov. Mikie Sherrill (D) signed a bill that will create a first-of-its-kind program to…",
+        "image": "https://img.canarymedia.com/content/uploads/Trenton-New-Jersey-skyline-with-state-capitol_GettyImages-1558575956.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=c55f1c0694446300e3bb1ee984f604fd",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/data-centers/new-jersey-data-centers-energy-upgrades"
+      },
+      {
+        "id": "auto_2026-07-16T09-51_3",
+        "rank": 3,
         "title": "Ontario Wildfire Smoke Moves East",
         "category": "space",
         "summary": "Canadian wildfires sent plumes of smoke streaming over Ontario, Quebec, and parts of the U.S. Midwest and Northeast.",
@@ -14,18 +34,8 @@
         "sourceUrl": "https://science.nasa.gov/earth/earth-observatory/ontario-wildfire-smoke-moves-east/"
       },
       {
-        "id": "auto_2026-07-16T06-07_2",
-        "rank": 2,
-        "title": "Graham’s death from aortic dissection raises questions about preventing the rare disorder",
-        "category": "biotech",
-        "summary": "When the body’s most important blood vessel tears from the inside, it’s a medical emergency that can be years in the making.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/07/GettyImages-1413094159-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/07/15/lindsay-graham-death-aortic-dissection-risk-prediction-warning-signs/?utm_campaign=rss"
-      },
-      {
-        "id": "auto_2026-07-16T06-07_3",
-        "rank": 3,
+        "id": "auto_2026-07-16T09-51_4",
+        "rank": 4,
         "title": "Gene Therapy Reverses Severe Traits of Fragile X Syndrome",
         "category": "neuroscience",
         "summary": "The therapy restored FMRP expression in crucial brain regions, resulting in reduced audiogenic seizure susceptibility, normalized sensory hyperactivity, and complete reversal of elevated low-gamma EEG power.",
@@ -34,24 +44,14 @@
         "sourceUrl": "https://neurosciencenews.com/fragile-x-aav-fmr1-gene-therapy-31059/"
       },
       {
-        "id": "auto_2026-07-16T06-07_4",
-        "rank": 4,
+        "id": "auto_2026-07-16T09-51_5",
+        "rank": 5,
         "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
         "category": "ai",
         "summary": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its…",
         "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/spar-red.jpg?resize=1200,600",
         "source": "MIT Technology Review",
         "sourceUrl": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/"
-      },
-      {
-        "id": "auto_2026-07-16T06-07_5",
-        "rank": 5,
-        "title": "Google buys power from record-busting solar-battery site in Arkansas",
-        "category": "energy",
-        "summary": "Longtime solar developer Cypress Creek Energy has not only broken ground on what could be the largest solar-plus-storage plant in the country, but also secured a blue-chip customer to pay for the clean power. Google…",
-        "image": "https://img.canarymedia.com/content/uploads/SteelRiver_Groundbreaking-36.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=a02435a355e5e422a16dfda1b8338bf6",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/corporate-procurement/google-solar-battery-site-arkansas"
       }
     ]
   },
