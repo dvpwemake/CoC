@@ -1,5 +1,61 @@
 [
   {
+    "batchId": "auto_2026-07-16T01-13",
+    "scannedAt": "2026-07-16T01:13:59.403Z",
+    "items": [
+      {
+        "id": "auto_2026-07-16T01-13_1",
+        "rank": 1,
+        "title": "Graham’s death from aortic dissection raises questions about preventing the rare disorder",
+        "category": "biotech",
+        "summary": "When the body’s most important blood vessel tears from the inside, it’s a medical emergency that can be years in the making.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/07/GettyImages-1413094159-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/07/15/lindsay-graham-death-aortic-dissection-risk-prediction-warning-signs/?utm_campaign=rss"
+      },
+      {
+        "id": "auto_2026-07-16T01-13_2",
+        "rank": 2,
+        "title": "Gene Therapy Reverses Severe Traits of Fragile X Syndrome",
+        "category": "neuroscience",
+        "summary": "The therapy restored FMRP expression in crucial brain regions, resulting in reduced audiogenic seizure susceptibility, normalized sensory hyperactivity, and complete reversal of elevated low-gamma EEG power.",
+        "image": "https://neurosciencenews.com/files/2026/07/gene-therapy-fragile-x-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/fragile-x-aav-fmr1-gene-therapy-31059/"
+      },
+      {
+        "id": "auto_2026-07-16T01-13_3",
+        "rank": 3,
+        "title": "Space Force awards Slingshot $69 million for AI-enabled training technology",
+        "category": "space",
+        "summary": "The 4½-year award will fund simulated satellite-defense scenarios The post Space Force awards Slingshot $69 million for AI-enabled training technology appeared first on SpaceNews .",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/Split_Talos_Satellite_safe_large_notcompressed.jpg?fit=1024%2C684&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/space-force-awards-slingshot-69-million-for-ai-enabled-training-technology/"
+      },
+      {
+        "id": "auto_2026-07-16T01-13_4",
+        "rank": 4,
+        "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+        "category": "ai",
+        "summary": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/spar-red.jpg?resize=1200,600",
+        "source": "MIT Technology Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/"
+      },
+      {
+        "id": "auto_2026-07-16T01-13_5",
+        "rank": 5,
+        "title": "Google buys power from record-busting solar-battery site in Arkansas",
+        "category": "energy",
+        "summary": "Longtime solar developer Cypress Creek Energy has not only broken ground on what could be the largest solar-plus-storage plant in the country, but also secured a blue-chip customer to pay for the clean power. Google…",
+        "image": "https://img.canarymedia.com/content/uploads/SteelRiver_Groundbreaking-36.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=a02435a355e5e422a16dfda1b8338bf6",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/corporate-procurement/google-solar-battery-site-arkansas"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-07-15T20-45",
     "scannedAt": "2026-07-15T20:45:50.388Z",
     "items": [
@@ -269,62 +325,6 @@
       },
       {
         "id": "auto_2026-07-11T20-35_5",
-        "rank": 5,
-        "title": "Video Friday: A World Cup for Robots",
-        "category": "robotics",
-        "summary": "Video Friday is your weekly selection of awesome robotics videos , collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us…",
-        "image": "https://spectrum.ieee.org/media-library/humanoid-robots-play-soccer-as-a-ball-flies-toward-the-goal-in-a-tournament-arena.jpg?id=67119515&width=980",
-        "source": "IEEE Spectrum",
-        "sourceUrl": "https://spectrum.ieee.org/video-friday-robot-world-cup"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-07-10T20-57",
-    "scannedAt": "2026-07-10T20:57:18.094Z",
-    "items": [
-      {
-        "id": "auto_2026-07-10T20-57_1",
-        "rank": 1,
-        "title": "Study Overturns Decades of External Axon Growth Theory",
-        "category": "neuroscience",
-        "summary": "A new study demonstrates that axon generation is driven by autonomous internal cellular mechanisms rather than external factors.",
-        "image": "https://neurosciencenews.com/files/2026/07/axon-growth-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/axon-formation-arp23-molecule-31035/"
-      },
-      {
-        "id": "auto_2026-07-10T20-57_2",
-        "rank": 2,
-        "title": "Nominee for key federal health role has a history of questioning vaccines",
-        "category": "biotech",
-        "summary": "Sean Kaufman's views on vaccines may put him at odds with Sen. Bill Cassidy during next week's confirmation hearing.",
-        "image": "https://www.statnews.com/wp-content/uploads/2025/04/GettyImages-2207186375-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/07/10/sean-kaufman-hhs-nominee-past-statements-question-vaccine-safety/?utm_campaign=rss"
-      },
-      {
-        "id": "auto_2026-07-10T20-57_3",
-        "rank": 3,
-        "title": "Early Career Faculty (ECF) 2025 Awards",
-        "category": "space",
-        "summary": "Back to ECF Home Advanced Diagnostics for High-Enthalpy Test Facilities Simulating Spacecraft Atmospheric Entry Planning for Autonomous Spacecraft Using Machine Learning Methods to Enable Onboard Guidance, Navigation,…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/03/nsmerger-illus-ns.jpg",
-        "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/directorates/stmd/space-tech-research-grants/ecf/early-career-faculty-ecf-2025-awards/"
-      },
-      {
-        "id": "auto_2026-07-10T20-57_4",
-        "rank": 4,
-        "title": "Clean energy helped the grid avoid heat-wave catastrophe",
-        "category": "energy",
-        "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter. Sign up to get it every Friday. Last week brought soaring temperatures to much of the U.S., forcing Americans to switch on their air…",
-        "image": "https://img.canarymedia.com/content/uploads/NYC-heat-wave-people-with-umbrellas_GettyImages-2284372317.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=27708a61be9da4ad33d8a18f1fcaba11",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/grid-edge/clean-energy-grid-heat-wave"
-      },
-      {
-        "id": "auto_2026-07-10T20-57_5",
         "rank": 5,
         "title": "Video Friday: A World Cup for Robots",
         "category": "robotics",
