@@ -1,21 +1,41 @@
 [
   {
-    "batchId": "auto_2026-07-17T12-53",
-    "scannedAt": "2026-07-17T12:53:55.621Z",
+    "batchId": "auto_2026-07-17T16-55",
+    "scannedAt": "2026-07-17T16:55:11.199Z",
     "items": [
       {
-        "id": "auto_2026-07-17T12-53_1",
+        "id": "auto_2026-07-17T16-55_1",
         "rank": 1,
-        "title": "Who can access testosterone hormone medication in the U.S.?",
+        "title": "Quitting smoking is hard. A Medicare change may push doctors to give more help",
         "category": "biotech",
-        "summary": "Wildfire smoke health hazards, a new idea for treating Duchenne, and more health news from Morning Rounds",
-        "image": "https://www.statnews.com/wp-content/uploads/2025/08/AP23152735879870-1024x576.jpg",
+        "summary": "Physicians who offer counseling on quitting cigarettes and alcohol during patient visits would get a 19% increase in reimbursement under a proposed Medicare change.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/07/GettyImages-487902504-1024x576.jpg",
         "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/07/17/health-news-who-can-access-testosterone-hormone-therapy-in-us/?utm_campaign=rss"
+        "sourceUrl": "https://www.statnews.com/2026/07/17/medicare-smoking-cessation-reimbursement-increase/?utm_campaign=rss"
       },
       {
-        "id": "auto_2026-07-17T12-53_2",
+        "id": "auto_2026-07-17T16-55_2",
         "rank": 2,
+        "title": "Video Friday: Your Robot Surgeon Will See You Now",
+        "category": "robotics",
+        "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us…",
+        "image": "https://spectrum.ieee.org/media-library/two-humanoid-robots-perform-a-surgical-procedure-on-a-patient-in-a-dark-lab.png?id=67494478&width=980",
+        "source": "IEEE Spectrum",
+        "sourceUrl": "https://spectrum.ieee.org/video-friday-robotic-surgery"
+      },
+      {
+        "id": "auto_2026-07-17T16-55_3",
+        "rank": 3,
+        "title": "SpaceX’s only problem is finding more space to work with",
+        "category": "space",
+        "summary": "SpaceX’s IPO marks the moment the space dream became a mainstream capital markets story. For decades, it has sold a vision of interplanetary civilization on behalf of the wider space […] The post SpaceX’s only problem…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2021/04/megaconstellation-coverage-ESA-science-office.jpg?fit=1024%2C761&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/spacexs-only-problem-is-finding-more-space-to-work-with/"
+      },
+      {
+        "id": "auto_2026-07-17T16-55_4",
+        "rank": 4,
         "title": "The risk of weather data sabotage is rising",
         "category": "ai",
         "summary": "Every morning, airline dispatchers, grid operators, and farmers around the world make decisions based on the same thing: a weather forecast. While these forecasts are something that most people glance at for two…",
@@ -24,34 +44,14 @@
         "sourceUrl": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/"
       },
       {
-        "id": "auto_2026-07-17T12-53_3",
-        "rank": 3,
+        "id": "auto_2026-07-17T16-55_5",
+        "rank": 5,
         "title": "PJM’s old way of getting power built isn’t working. Has it found a fix?",
         "category": "energy",
         "summary": "With the conclusion of its latest capacity auction, PJM Interconnection has once again shown that its process for securing new energy is unable to keep up with the wave of electricity demand from data centers. But PJM,…",
         "image": "https://img.canarymedia.com/content/uploads/Virginia-power-wires-next-to-homes_GettyImages-2147941461.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=5090b5fb854eb5f55dc9d75eaad6a9ad",
         "source": "Canary Media",
         "sourceUrl": "https://www.canarymedia.com/articles/data-centers/pjm-get-power-built-fix"
-      },
-      {
-        "id": "auto_2026-07-17T12-53_4",
-        "rank": 4,
-        "title": "A Tide-Fueled Trove of Biodiversity in Guinea-Bissau",
-        "category": "space",
-        "summary": "The expansive mudflats, sandy beaches, and mangrove forests of the Bijagós archipelago support an array of migratory shorebirds and large numbers of sea turtles.",
-        "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/a-tide-fueled-trove-of-biodiversity-in-guinea-bissau/bijagosarchipelago_oli_20251128_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-        "source": "NASA",
-        "sourceUrl": "https://science.nasa.gov/earth/earth-observatory/a-tide-fueled-trove-of-biodiversity-in-guinea-bissau/"
-      },
-      {
-        "id": "auto_2026-07-17T12-53_5",
-        "rank": 5,
-        "title": "GLP-1's Reduce Binge Eating Symptoms",
-        "category": "neuroscience",
-        "summary": "A new study establishes that GLP-1 receptor agonists significantly reduce core behavioral markers of Binge Eating Disorder, including active binge episodes, loss-of-control eating, and emotional eating.",
-        "image": "https://neurosciencenews.com/files/2026/07/glp1-binge-eating-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/glp1-agonists-binge-eating-31067/"
       }
     ]
   },
