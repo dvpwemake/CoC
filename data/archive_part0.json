@@ -1,57 +1,57 @@
 [
   {
-    "batchId": "auto_2026-07-17T06-06",
-    "scannedAt": "2026-07-17T06:06:57.085Z",
+    "batchId": "auto_2026-07-17T09-41",
+    "scannedAt": "2026-07-17T09:41:54.401Z",
     "items": [
       {
-        "id": "auto_2026-07-17T06-06_1",
+        "id": "auto_2026-07-17T09-41_1",
         "rank": 1,
-        "title": "A Tide-Fueled Trove of Biodiversity in Guinea-Bissau",
-        "category": "space",
-        "summary": "The expansive mudflats, sandy beaches, and mangrove forests of the Bijagós archipelago support an array of migratory shorebirds and large numbers of sea turtles.",
-        "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/a-tide-fueled-trove-of-biodiversity-in-guinea-bissau/bijagosarchipelago_oli_20251128_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-        "source": "NASA",
-        "sourceUrl": "https://science.nasa.gov/earth/earth-observatory/a-tide-fueled-trove-of-biodiversity-in-guinea-bissau/"
+        "title": "The risk of weather data sabotage is rising",
+        "category": "ai",
+        "summary": "Every morning, airline dispatchers, grid operators, and farmers around the world make decisions based on the same thing: a weather forecast. While these forecasts are something that most people glance at for two…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/fantastical-tornado3a.jpg?resize=1200,600",
+        "source": "MIT Technology Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/"
       },
       {
-        "id": "auto_2026-07-17T06-06_2",
+        "id": "auto_2026-07-17T09-41_2",
         "rank": 2,
-        "title": "STAT+: Fresh turmoil roils American Diabetes Association following controversy at conference",
+        "title": "Why affirming trans identities can be critical for suicide prevention counseling",
         "category": "biotech",
-        "summary": "Turmoil at the ADA has taken a fresh turn, with leaders blocking editors at its flagship journal from publishing pieces detailing a controversy at the group’s annual meeting.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/07/AdobeStock_71738992-1024x576.jpeg",
+        "summary": "Advocates worry that excluding trans youth in some way from LGBTQ+ counseling services provided through the 988 crisis line could be harmful.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/07/Alex-Boyd-Headshot.jpg",
         "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/07/16/american-diabetes-association-annual-conference-controversy-continues/?utm_campaign=rss"
+        "sourceUrl": "https://www.statnews.com/2026/07/17/trevor-project-suicide-prevention-counseling-for-trans-youth/?utm_campaign=rss"
       },
       {
-        "id": "auto_2026-07-17T06-06_3",
+        "id": "auto_2026-07-17T09-41_3",
         "rank": 3,
+        "title": "PJM’s old way of getting power built isn’t working. Has it found a fix?",
+        "category": "energy",
+        "summary": "With the conclusion of its latest capacity auction, PJM Interconnection has once again shown that its process for securing new energy is unable to keep up with the wave of electricity demand from data centers. But PJM,…",
+        "image": "https://img.canarymedia.com/content/uploads/Virginia-power-wires-next-to-homes_GettyImages-2147941461.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=5090b5fb854eb5f55dc9d75eaad6a9ad",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/data-centers/pjm-get-power-built-fix"
+      },
+      {
+        "id": "auto_2026-07-17T09-41_4",
+        "rank": 4,
+        "title": "SpaceX aborts Starship Flight 13 launch attempt",
+        "category": "space",
+        "summary": "SpaceX aborted the launch of its latest Starship test flight July 16 when some of the vehicle’s engines failed to ignite. The post SpaceX aborts Starship Flight 13 launch attempt appeared first on SpaceNews .",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/starship-lft13-scrub.jpeg?fit=1024%2C571&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/spacex-aborts-starship-flight-13-launch-attempt/"
+      },
+      {
+        "id": "auto_2026-07-17T09-41_5",
+        "rank": 5,
         "title": "GLP-1's Reduce Binge Eating Symptoms",
         "category": "neuroscience",
         "summary": "A new study establishes that GLP-1 receptor agonists significantly reduce core behavioral markers of Binge Eating Disorder, including active binge episodes, loss-of-control eating, and emotional eating.",
         "image": "https://neurosciencenews.com/files/2026/07/glp1-binge-eating-neuroscience-1155x770.jpg",
         "source": "Neuroscience News",
         "sourceUrl": "https://neurosciencenews.com/glp1-agonists-binge-eating-31067/"
-      },
-      {
-        "id": "auto_2026-07-17T06-06_4",
-        "rank": 4,
-        "title": "How to Make an Invisible Drone",
-        "category": "robotics",
-        "summary": "There are many words that I would never, ever use to describe a drone. Stealthy. Subtle. Whatever the opposite of obnoxious is. Much of this is because of the giant angry bee sound that drones tend to make, but it’s…",
-        "image": "https://spectrum.ieee.org/media-library/low-visibility-drone-flying-in-front-of-an-office-plant.jpg?id=67480624&width=980",
-        "source": "IEEE Spectrum",
-        "sourceUrl": "https://spectrum.ieee.org/invisible-spinning-drone"
-      },
-      {
-        "id": "auto_2026-07-17T06-06_5",
-        "rank": 5,
-        "title": "New Jersey law will let data centers pay for home energy upgrades",
-        "category": "energy",
-        "summary": "New Jersey is offering data centers an unorthodox way to get the power they need: by bankrolling home energy upgrades. Last week, Gov. Mikie Sherrill (D) signed a bill that will create a first-of-its-kind program to…",
-        "image": "https://img.canarymedia.com/content/uploads/Trenton-New-Jersey-skyline-with-state-capitol_GettyImages-1558575956.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=c55f1c0694446300e3bb1ee984f604fd",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/data-centers/new-jersey-data-centers-energy-upgrades"
       }
     ]
   },
