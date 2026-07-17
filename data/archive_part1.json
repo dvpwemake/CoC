@@ -1,5 +1,61 @@
 [
   {
+    "batchId": "auto_2026-07-11T20-35",
+    "scannedAt": "2026-07-11T20:35:03.236Z",
+    "items": [
+      {
+        "id": "auto_2026-07-11T20-35_1",
+        "rank": 1,
+        "title": "Study Maps the 9 Distinct Types of Procrastinators",
+        "category": "neuroscience",
+        "summary": "A new study identifies 9 distinct archetypes of procrastinators, ranging from the control-seeking Rebel to the distraction-prone Zigzagger.",
+        "image": "https://neurosciencenews.com/files/2026/07/procrastination-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/9-procrastination-types-31038/"
+      },
+      {
+        "id": "auto_2026-07-11T20-35_2",
+        "rank": 2,
+        "title": "A pioneering grid-battery factory is headed for this California city",
+        "category": "energy",
+        "summary": "Startup Peak Energy launched in 2023 with a promise to bring the up-and-coming sodium-ion battery chemistry to American shores. Now, it’s building a gigafactory in Sacramento, California, that will be the country’s…",
+        "image": "https://img.canarymedia.com/content/uploads/Peak-Energy-Sacramento_image-7.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=e3a891cdd9ff9c40fbdbb805c25701b6",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/batteries/pioneering-grid-battery-factory-california"
+      },
+      {
+        "id": "auto_2026-07-11T20-35_3",
+        "rank": 3,
+        "title": "Nominee for key federal health role has a history of questioning vaccines",
+        "category": "biotech",
+        "summary": "Sean Kaufman's views on vaccines may put him at odds with Sen. Bill Cassidy during next week's confirmation hearing.",
+        "image": "https://www.statnews.com/wp-content/uploads/2025/04/GettyImages-2207186375-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/07/10/sean-kaufman-hhs-nominee-past-statements-question-vaccine-safety/?utm_campaign=rss"
+      },
+      {
+        "id": "auto_2026-07-11T20-35_4",
+        "rank": 4,
+        "title": "Early Career Faculty (ECF) 2025 Awards",
+        "category": "space",
+        "summary": "Back to ECF Home Advanced Diagnostics for High-Enthalpy Test Facilities Simulating Spacecraft Atmospheric Entry Planning for Autonomous Spacecraft Using Machine Learning Methods to Enable Onboard Guidance, Navigation,…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/03/nsmerger-illus-ns.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/directorates/stmd/space-tech-research-grants/ecf/early-career-faculty-ecf-2025-awards/"
+      },
+      {
+        "id": "auto_2026-07-11T20-35_5",
+        "rank": 5,
+        "title": "Video Friday: A World Cup for Robots",
+        "category": "robotics",
+        "summary": "Video Friday is your weekly selection of awesome robotics videos , collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us…",
+        "image": "https://spectrum.ieee.org/media-library/humanoid-robots-play-soccer-as-a-ball-flies-toward-the-goal-in-a-tournament-arena.jpg?id=67119515&width=980",
+        "source": "IEEE Spectrum",
+        "sourceUrl": "https://spectrum.ieee.org/video-friday-robot-world-cup"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-07-10T20-57",
     "scannedAt": "2026-07-10T20:57:18.094Z",
     "items": [
@@ -276,62 +332,6 @@
         "image": "https://img.canarymedia.com/content/uploads/GettyImages-1235716373-copy.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=e38c5f8952dedbee4f8ce130af32bf5e",
         "source": "Canary Media",
         "sourceUrl": "https://www.canarymedia.com/articles/data-centers/duke-energy-proposes-special-rules-for-data-centers-in-north-carolina"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-07-05T20-43",
-    "scannedAt": "2026-07-05T20:43:42.103Z",
-    "items": [
-      {
-        "id": "auto_2026-07-05T20-43_1",
-        "rank": 1,
-        "title": "Psychedelic Trips Can Halt Political Hate",
-        "category": "neuroscience",
-        "summary": "The collective cultural mood surrounding a psychedelic experience shapes its psychological aftermath. Participants whose most intense trips occurred on the Fourth of July reported a long-term decrease in support for…",
-        "image": "https://neurosciencenews.com/files/2026/07/psychedelic-political-violence-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/psychedelics-cultural-political-psychology-30993/"
-      },
-      {
-        "id": "auto_2026-07-05T20-43_2",
-        "rank": 2,
-        "title": "NASA’s Hubble Spies Stellar Sparkler for July 4th",
-        "category": "space",
-        "summary": "Red, white, and blue stars glitter like a sparkler being waved on a dark night in this new image from NASA’s Hubble Space Telescope.",
-        "image": "https://assets.science.nasa.gov/content/dam/science/missions/hubble/stars/globular-clusters/Hubble_NGC6426_3_July4_FINAL2.tif/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-        "source": "NASA",
-        "sourceUrl": "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-stellar-sparkler-for-july-4th/"
-      },
-      {
-        "id": "auto_2026-07-05T20-43_3",
-        "rank": 3,
-        "title": "Video Friday: An Earthbound Mars Rover for the Moon",
-        "category": "robotics",
-        "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us…",
-        "image": "https://spectrum.ieee.org/media-library/mars-style-rover-prototype-on-rugged-ground-under-a-clear-sky-with-the-moon-visible.png?id=67083121&width=980",
-        "source": "IEEE Spectrum",
-        "sourceUrl": "https://spectrum.ieee.org/video-friday-nasa-lunar-rover"
-      },
-      {
-        "id": "auto_2026-07-05T20-43_4",
-        "rank": 4,
-        "title": "Data centers use more power in the US than in any other country",
-        "category": "energy",
-        "summary": "This article is part of our ​“Chart of the Week” series . Data centers use more electricity in the U.S. than in any other country — China included. In 2025, nearly 40% of all power demand from data centers came from…",
-        "image": "https://img.canarymedia.com/content/uploads/COTW-Data-centers.png?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=80&w=1200&s=6ab88e95914464011c02c651929f39c5",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/data-centers/data-centers-use-more-power-in-the-us-than-anywhere-else"
-      },
-      {
-        "id": "auto_2026-07-05T20-43_5",
-        "rank": 5,
-        "title": "STAT+: Medicare takes another swing at 340B cuts to hospitals",
-        "category": "biotech",
-        "summary": "Reducing Medicare payments for 340B drugs is the latest proposal focused on the hotly debated drug discount program.",
-        "image": "https://www.statnews.com/wp-content/uploads/2023/08/AdobeStock_385917483-1024x576.jpeg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/07/02/medicare-hospital-payment-340b-drugs-cut/?utm_campaign=rss"
       }
     ]
   }
