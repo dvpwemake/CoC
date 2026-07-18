@@ -1,5 +1,61 @@
 [
   {
+    "batchId": "auto_2026-07-18T01-10",
+    "scannedAt": "2026-07-18T01:10:04.250Z",
+    "items": [
+      {
+        "id": "auto_2026-07-18T01-10_1",
+        "rank": 1,
+        "title": "NASA Pushes New Wing Design to Find Structural Limits",
+        "category": "space",
+        "summary": "NASA researchers recently put a new wing design, appearing long and thin with a lightweight structural design, through a series of grueling tests to find its structural limits. What they found left them encouraged about…",
+        "image": "https://images-assets.nasa.gov/image/AFRC2025-0136-1632/AFRC2025-0136-1632~large.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pushes-new-wing-design-to-find-structural-limits/"
+      },
+      {
+        "id": "auto_2026-07-18T01-10_2",
+        "rank": 2,
+        "title": "ECT Reprograms Adult Neurons into a Youthful State",
+        "category": "neuroscience",
+        "summary": "Electroconvulsive therapy (ECT)-like stimulation induces a durable state of cellular dematuration and epigenetic nuclear reprogramming in mature, post-mitotic neurons.",
+        "image": "https://neurosciencenews.com/files/2026/07/ect-neuroplasticity-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/ect-reprograms-adult-neurons-31073/"
+      },
+      {
+        "id": "auto_2026-07-18T01-10_3",
+        "rank": 3,
+        "title": "Opinion: What the 20th-century war on smog tells us about today’s wildfire smoke",
+        "category": "biotech",
+        "summary": "The evolution of air pollution policy shows how to respond to the dangerous haze caused by Canadian wildfires, experts write in opinion piece.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/07/GettyImages-2285758592-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/07/17/wildfire-smoke-air-quality-smog-policy-climate-change/?utm_campaign=rss"
+      },
+      {
+        "id": "auto_2026-07-18T01-10_4",
+        "rank": 4,
+        "title": "Clean energy still beats fossil fuels on cost, despite, well, everything",
+        "category": "energy",
+        "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter. Sign up to get it every Friday. Pretty much every type of energy is getting more expensive in the U.S., but clean energy is still a better bet…",
+        "image": "https://img.canarymedia.com/content/uploads/Palm-Springs-wind-turbines_GettyImages-1397404262.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=e75b2cd71bfb52a62639fbfccbbf85dc",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/clean-energy/lcoe-lazard-clean-energy"
+      },
+      {
+        "id": "auto_2026-07-18T01-10_5",
+        "rank": 5,
+        "title": "This Graduate Student Equips NASA’s Robots With Assembly Skills",
+        "category": "robotics",
+        "summary": "Like many engineers, Sarah Downs says she knew she wanted to pursue a STEM career from a young age. As a teenager, she discovered robotics through her Tulsa, Okla., middle school’s First Lego League team, and she fell…",
+        "image": "https://spectrum.ieee.org/media-library/a-young-woman-with-blonde-hair-softly-smiling-next-to-a-pair-of-collaborative-robot-arms.jpg?id=67499761&width=980",
+        "source": "IEEE Spectrum",
+        "sourceUrl": "https://spectrum.ieee.org/graduate-student-nasas-robots-assembly"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-07-17T20-39",
     "scannedAt": "2026-07-17T20:39:41.942Z",
     "items": [
