@@ -1,10 +1,10 @@
 [
   {
-    "batchId": "auto_2026-07-18T09-13",
-    "scannedAt": "2026-07-18T09:13:14.366Z",
+    "batchId": "auto_2026-07-18T12-41",
+    "scannedAt": "2026-07-18T12:41:14.763Z",
     "items": [
       {
-        "id": "auto_2026-07-18T09-13_1",
+        "id": "auto_2026-07-18T12-41_1",
         "rank": 1,
         "title": "Opinion: STAT readers on the value of primary care, obesity as a disease, and more",
         "category": "biotech",
@@ -14,7 +14,7 @@
         "sourceUrl": "https://www.statnews.com/2026/07/18/primary-care-debate-letters-to-editor/?utm_campaign=rss"
       },
       {
-        "id": "auto_2026-07-18T09-13_2",
+        "id": "auto_2026-07-18T12-41_2",
         "rank": 2,
         "title": "Skyroot Aerospace reaches orbit on first Vikram-1 launch",
         "category": "space",
@@ -24,7 +24,7 @@
         "sourceUrl": "https://spacenews.com/skyroot-aerospace-reaches-orbit-on-first-vikram-1-launch/"
       },
       {
-        "id": "auto_2026-07-18T09-13_3",
+        "id": "auto_2026-07-18T12-41_3",
         "rank": 3,
         "title": "ECT Reprograms Adult Neurons into a Youthful State",
         "category": "neuroscience",
@@ -34,7 +34,7 @@
         "sourceUrl": "https://neurosciencenews.com/ect-reprograms-adult-neurons-31073/"
       },
       {
-        "id": "auto_2026-07-18T09-13_4",
+        "id": "auto_2026-07-18T12-41_4",
         "rank": 4,
         "title": "Clean energy still beats fossil fuels on cost, despite, well, everything",
         "category": "energy",
@@ -44,7 +44,7 @@
         "sourceUrl": "https://www.canarymedia.com/articles/clean-energy/lcoe-lazard-clean-energy"
       },
       {
-        "id": "auto_2026-07-18T09-13_5",
+        "id": "auto_2026-07-18T12-41_5",
         "rank": 5,
         "title": "This Graduate Student Equips NASA’s Robots With Assembly Skills",
         "category": "robotics",
