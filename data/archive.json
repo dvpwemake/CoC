@@ -1,11 +1,21 @@
 [
   {
-    "batchId": "auto_2026-07-19T16-40",
-    "scannedAt": "2026-07-19T16:40:05.600Z",
+    "batchId": "auto_2026-07-19T20-34",
+    "scannedAt": "2026-07-19T20:34:41.126Z",
     "items": [
       {
-        "id": "auto_2026-07-19T16-40_1",
+        "id": "auto_2026-07-19T20-34_1",
         "rank": 1,
+        "title": "Is Working Memory the Subconscious Engine of Consciousness?",
+        "category": "neuroscience",
+        "summary": "A new study evaluates the historical capacity debates and architectural frameworks linking working memory to conscious awareness, presenting an alternative \"Spectrum Model\" of human memory encoding.",
+        "image": "https://neurosciencenews.com/files/2026/07/working-memory-consciousness-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/working-memory-conscious-awareness-31081/"
+      },
+      {
+        "id": "auto_2026-07-19T20-34_2",
+        "rank": 2,
         "title": "Opinion: Beware the unintended consequences of testosterone screening for military servicemembers",
         "category": "biotech",
         "summary": "“I fear that the widespread rollout of testosterone screening may lead to some surprising and unintended consequences,” writes a urologist who studies testosterone.",
@@ -14,27 +24,17 @@
         "sourceUrl": "https://www.statnews.com/2026/07/18/military-testosterone-screening-supplements/?utm_campaign=rss"
       },
       {
-        "id": "auto_2026-07-19T16-40_2",
-        "rank": 2,
-        "title": "BCI Neurofeedback Amplifies Brainwaves to Detect Micro-Errors",
-        "category": "neuroscience",
-        "summary": "A new study demonstrates that non-invasive brain-computer interface (BCI) training accelerates perceptual learning by actively amplifying the Error Positivity (Pe) neural signature.",
-        "image": "https://neurosciencenews.com/files/2026/07/bci-error-deteaction-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/bci-error-positivity-pe-wave-perceptual-learning-31079/"
-      },
-      {
-        "id": "auto_2026-07-19T16-40_3",
+        "id": "auto_2026-07-19T20-34_3",
         "rank": 3,
-        "title": "NASA Pushes New Wing Design to Find Structural Limits",
+        "title": "Mauritius becomes 70th nation to sign the Artemis Accords",
         "category": "space",
-        "summary": "NASA researchers recently put a new wing design, appearing long and thin with a lightweight structural design, through a series of grueling tests to find its structural limits. What they found left them encouraged about…",
-        "image": "https://images-assets.nasa.gov/image/AFRC2025-0136-1632/AFRC2025-0136-1632~large.jpg",
-        "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pushes-new-wing-design-to-find-structural-limits/"
+        "summary": "The island nation of Mauritius signed the Artemis Accords July 17, becoming the 70th nation to do so in less than six years. The post Mauritius becomes 70th nation to sign the Artemis Accords appeared first on SpaceNews…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/artemisaccords-70.jpeg?fit=1024%2C576&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/mauritius-becomes-70th-nation-to-sign-the-artemis-accords/"
       },
       {
-        "id": "auto_2026-07-19T16-40_4",
+        "id": "auto_2026-07-19T20-34_4",
         "rank": 4,
         "title": "Clean energy still beats fossil fuels on cost, despite, well, everything",
         "category": "energy",
@@ -44,7 +44,7 @@
         "sourceUrl": "https://www.canarymedia.com/articles/clean-energy/lcoe-lazard-clean-energy"
       },
       {
-        "id": "auto_2026-07-19T16-40_5",
+        "id": "auto_2026-07-19T20-34_5",
         "rank": 5,
         "title": "This Graduate Student Equips NASA’s Robots With Assembly Skills",
         "category": "robotics",
