@@ -1,10 +1,10 @@
 [
   {
-    "batchId": "auto_2026-07-19T01-15",
-    "scannedAt": "2026-07-19T01:15:03.017Z",
+    "batchId": "auto_2026-07-19T06-19",
+    "scannedAt": "2026-07-19T06:19:41.975Z",
     "items": [
       {
-        "id": "auto_2026-07-19T01-15_1",
+        "id": "auto_2026-07-19T06-19_1",
         "rank": 1,
         "title": "Opinion: Beware the unintended consequences of testosterone screening for military servicemembers",
         "category": "biotech",
@@ -14,18 +14,8 @@
         "sourceUrl": "https://www.statnews.com/2026/07/18/military-testosterone-screening-supplements/?utm_campaign=rss"
       },
       {
-        "id": "auto_2026-07-19T01-15_2",
+        "id": "auto_2026-07-19T06-19_2",
         "rank": 2,
-        "title": "Mauritius becomes 70th nation to sign the Artemis Accords",
-        "category": "space",
-        "summary": "The island nation of Mauritius signed the Artemis Accords July 17, becoming the 70th nation to do so in less than six years. The post Mauritius becomes 70th nation to sign the Artemis Accords appeared first on SpaceNews…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/artemisaccords-70.jpeg?fit=1024%2C576&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/mauritius-becomes-70th-nation-to-sign-the-artemis-accords/"
-      },
-      {
-        "id": "auto_2026-07-19T01-15_3",
-        "rank": 3,
         "title": "BCI Neurofeedback Amplifies Brainwaves to Detect Micro-Errors",
         "category": "neuroscience",
         "summary": "A new study demonstrates that non-invasive brain-computer interface (BCI) training accelerates perceptual learning by actively amplifying the Error Positivity (Pe) neural signature.",
@@ -34,7 +24,17 @@
         "sourceUrl": "https://neurosciencenews.com/bci-error-positivity-pe-wave-perceptual-learning-31079/"
       },
       {
-        "id": "auto_2026-07-19T01-15_4",
+        "id": "auto_2026-07-19T06-19_3",
+        "rank": 3,
+        "title": "NASA Pushes New Wing Design to Find Structural Limits",
+        "category": "space",
+        "summary": "NASA researchers recently put a new wing design, appearing long and thin with a lightweight structural design, through a series of grueling tests to find its structural limits. What they found left them encouraged about…",
+        "image": "https://images-assets.nasa.gov/image/AFRC2025-0136-1632/AFRC2025-0136-1632~large.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pushes-new-wing-design-to-find-structural-limits/"
+      },
+      {
+        "id": "auto_2026-07-19T06-19_4",
         "rank": 4,
         "title": "Clean energy still beats fossil fuels on cost, despite, well, everything",
         "category": "energy",
@@ -44,7 +44,7 @@
         "sourceUrl": "https://www.canarymedia.com/articles/clean-energy/lcoe-lazard-clean-energy"
       },
       {
-        "id": "auto_2026-07-19T01-15_5",
+        "id": "auto_2026-07-19T06-19_5",
         "rank": 5,
         "title": "This Graduate Student Equips NASA’s Robots With Assembly Skills",
         "category": "robotics",
