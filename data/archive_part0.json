@@ -1,11 +1,41 @@
 [
   {
-    "batchId": "auto_2026-07-20T06-36",
-    "scannedAt": "2026-07-20T06:36:04.802Z",
+    "batchId": "auto_2026-07-20T10-36",
+    "scannedAt": "2026-07-20T10:36:08.149Z",
     "items": [
       {
-        "id": "auto_2026-07-20T06-36_1",
+        "id": "auto_2026-07-20T10-36_1",
         "rank": 1,
+        "title": "AI is more likely than humans to form biases when hiring",
+        "category": "ai",
+        "summary": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up human biases from…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/ai-slant1b.jpg?resize=1200,600",
+        "source": "MIT Technology Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/"
+      },
+      {
+        "id": "auto_2026-07-20T10-36_2",
+        "rank": 2,
+        "title": "Opinion: It’s time to treat pandemics as threats to national security",
+        "category": "biotech",
+        "summary": "“Pandemics should be viewed and combated as threats to national security,” write David Blumenthal and James A. Morone.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/07/AP21302624606356-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/07/20/pandemics-national-security-threats/?utm_campaign=rss"
+      },
+      {
+        "id": "auto_2026-07-20T10-36_3",
+        "rank": 3,
+        "title": "An old-school geothermal giant rides the tech’s newfound popularity",
+        "category": "energy",
+        "summary": "Over two decades ago, Ormat Technologies began a big experiment on a swath of rugged land near the Hot Springs Mountains in western Nevada. The geothermal company was already producing electricity there, using the heat…",
+        "image": "https://img.canarymedia.com/content/uploads/North-Valley-small5.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=e65444752fd430c24852e612354bbab5",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/geothermal/ormat-next-gen-geothermal-popularity"
+      },
+      {
+        "id": "auto_2026-07-20T10-36_4",
+        "rank": 4,
         "title": "Why Book Adaptations Cause Genuine Cognitive Dissonance",
         "category": "neuroscience",
         "summary": "A study in cognitive aesthetics traces the pre-cinematic history of the \"mind's eye\" to explain the neurobiological mismatch that occurs during modern film adaptations, contrasting typical visualizers with the…",
@@ -14,44 +44,14 @@
         "sourceUrl": "https://neurosciencenews.com/minds-eye-history-film-adaptations-aphantasia-30183/"
       },
       {
-        "id": "auto_2026-07-20T06-36_2",
-        "rank": 2,
-        "title": "Opinion: Beware the unintended consequences of testosterone screening for military servicemembers",
-        "category": "biotech",
-        "summary": "“I fear that the widespread rollout of testosterone screening may lead to some surprising and unintended consequences,” writes a urologist who studies testosterone.",
-        "image": "https://www.statnews.com/wp-content/uploads/2019/05/AdobeStock_115344809-1024x576.jpeg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/07/18/military-testosterone-screening-supplements/?utm_campaign=rss"
-      },
-      {
-        "id": "auto_2026-07-20T06-36_3",
-        "rank": 3,
+        "id": "auto_2026-07-20T10-36_5",
+        "rank": 5,
         "title": "NASA Pushes New Wing Design to Find Structural Limits",
         "category": "space",
         "summary": "NASA researchers recently put a new wing design, appearing long and thin with a lightweight structural design, through a series of grueling tests to find its structural limits. What they found left them encouraged about…",
         "image": "https://images-assets.nasa.gov/image/AFRC2025-0136-1632/AFRC2025-0136-1632~large.jpg",
         "source": "NASA",
         "sourceUrl": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pushes-new-wing-design-to-find-structural-limits/"
-      },
-      {
-        "id": "auto_2026-07-20T06-36_4",
-        "rank": 4,
-        "title": "Clean energy still beats fossil fuels on cost, despite, well, everything",
-        "category": "energy",
-        "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter. Sign up to get it every Friday. Pretty much every type of energy is getting more expensive in the U.S., but clean energy is still a better bet…",
-        "image": "https://img.canarymedia.com/content/uploads/Palm-Springs-wind-turbines_GettyImages-1397404262.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=e75b2cd71bfb52a62639fbfccbbf85dc",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/clean-energy/lcoe-lazard-clean-energy"
-      },
-      {
-        "id": "auto_2026-07-20T06-36_5",
-        "rank": 5,
-        "title": "This Graduate Student Equips NASA’s Robots With Assembly Skills",
-        "category": "robotics",
-        "summary": "Like many engineers, Sarah Downs says she knew she wanted to pursue a STEM career from a young age. As a teenager, she discovered robotics through her Tulsa, Okla., middle school’s First Lego League team, and she fell…",
-        "image": "https://spectrum.ieee.org/media-library/a-young-woman-with-blonde-hair-softly-smiling-next-to-a-pair-of-collaborative-robot-arms.jpg?id=67499761&width=980",
-        "source": "IEEE Spectrum",
-        "sourceUrl": "https://spectrum.ieee.org/graduate-student-nasas-robots-assembly"
       }
     ]
   },
