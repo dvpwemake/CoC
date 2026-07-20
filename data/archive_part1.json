@@ -1,5 +1,61 @@
 [
   {
+    "batchId": "auto_2026-07-13T20-45",
+    "scannedAt": "2026-07-13T20:45:36.490Z",
+    "items": [
+      {
+        "id": "auto_2026-07-13T20-45_1",
+        "rank": 1,
+        "title": "Testosterone Drives Early Pubertal Distress in Girls",
+        "category": "neuroscience",
+        "summary": "A new study demonstrates that rising testosterone levels are a primary predictor of anxiety and depression symptoms in preteens aged 10 to 12.",
+        "image": "https://neurosciencenews.com/files/2026/07/testosterone-pubity-emotion-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/testosterone-puberty-girls-emotional-distress-31042/"
+      },
+      {
+        "id": "auto_2026-07-13T20-45_2",
+        "rank": 2,
+        "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
+        "category": "ai",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/thinking2.jpg?resize=1200,600",
+        "source": "MIT Technology Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/"
+      },
+      {
+        "id": "auto_2026-07-13T20-45_3",
+        "rank": 3,
+        "title": "STAT+: Dementia study replicates promising outcomes following risk-reduction strategies",
+        "category": "biotech",
+        "summary": "A dementia prevention trial praised as a \"landmark\" effort further demonstrated the promise of structured programs tailored to local cultures.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/07/unnamed-1-4-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/07/13/aaic-in-30-alzheimers-treaatments-dementia-day-2-conference/?utm_campaign=rss"
+      },
+      {
+        "id": "auto_2026-07-13T20-45_4",
+        "rank": 4,
+        "title": "NASA Astronaut Anil Menon",
+        "category": "space",
+        "summary": "NASA astronaut Anil Menon poses in a spacesuit for a portrait at NASA's Johnson Space Center in Houston, Texas on Jan. 8, 2026. Menon will launch aboard the Roscosmos Soyuz MS-29 spacecraft to the International Space…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/07/jsc2026e000758orig.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/image-article/nasa-astronaut-anil-menon/"
+      },
+      {
+        "id": "auto_2026-07-13T20-45_5",
+        "rank": 5,
+        "title": "A new deal on balcony solar just dropped in the US",
+        "category": "energy",
+        "summary": "Do you live in the U.S. and want balcony solar ? A new initiative could help you get a deal on one of these small but mighty systems that plug into a standard outlet and push clean power into your home. Today,…",
+        "image": "https://img.canarymedia.com/content/uploads/Balcony-Solar-on-Deck.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=a9a2ae85c3d9e6f8c36ffaad3590cef4",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/solar/balcony-panel-bright-saver-deal"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-07-12T20-32",
     "scannedAt": "2026-07-12T20:32:43.736Z",
     "items": [
@@ -332,62 +388,6 @@
         "image": "",
         "source": "Nature Neuroscience",
         "sourceUrl": "https://www.nature.com/articles/s41593-026-02370-5"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-07-06T21-16",
-    "scannedAt": "2026-07-06T21:16:53.423Z",
-    "items": [
-      {
-        "id": "auto_2026-07-06T21-16_1",
-        "rank": 1,
-        "title": "STAT+: Vertex acquires Crinetics Pharmaceuticals for $10 billion as biotech M&#038;A booms",
-        "category": "biotech",
-        "summary": "Vertex Pharmaceuticals will spend $10 billion to acquire Crinetics Pharmaceuticals and its drug for a rare endocrine disorder, the companies announced.",
-        "image": "https://www.statnews.com/wp-content/uploads/2024/07/AP20023802262338-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/07/06/vertex-acquires-crinetics-pharmaceuticals/?utm_campaign=rss"
-      },
-      {
-        "id": "auto_2026-07-06T21-16_2",
-        "rank": 2,
-        "title": "Mediterranean Diet Boosts Psychological Well-Being Over Age 50",
-        "category": "neuroscience",
-        "summary": "A new study demonstrates that adherence to a Mediterranean diet significantly boosts positive psychological well-being (autonomy, purpose, and self-realization) in people over 50. The research proved this protective…",
-        "image": "https://neurosciencenews.com/files/2026/07/med-diet-wellbeing-aging-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/mediterranean-diet-psychological-well-being-31003/"
-      },
-      {
-        "id": "auto_2026-07-06T21-16_3",
-        "rank": 3,
-        "title": "NASA Takes Flight For America's 250th",
-        "category": "space",
-        "summary": "NASA Administrator Jared Isaacman leads a flyover featuring his personally owned Northrop F-5 Tiger during the Great American State Fair on July 4, 2026, on the National Mall in Washington, D.C. For 250 years, America…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/07/55374566234-d7c31b6e97-o.jpg",
-        "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/image-article/nasa-takes-flight-for-americas-250th/"
-      },
-      {
-        "id": "auto_2026-07-06T21-16_4",
-        "rank": 4,
-        "title": "Your family's $300 stake in OpenAI",
-        "category": "ai",
-        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/openai-money.jpg?resize=1200,600",
-        "source": "MIT Technology Review",
-        "sourceUrl": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/"
-      },
-      {
-        "id": "auto_2026-07-06T21-16_5",
-        "rank": 5,
-        "title": "Duke Energy proposes special rules for data centers in North Carolina",
-        "category": "energy",
-        "summary": "For months, clean energy and consumer advocates in North Carolina have pressed Duke Energy to follow the national trend and create special rules and prices for data centers. The state’s predominant utility insisted such…",
-        "image": "https://img.canarymedia.com/content/uploads/GettyImages-1235716373-copy.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=e38c5f8952dedbee4f8ce130af32bf5e",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/data-centers/duke-energy-proposes-special-rules-for-data-centers-in-north-carolina"
       }
     ]
   }
