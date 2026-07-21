@@ -170,19 +170,108 @@ nav.cats::-webkit-scrollbar{display:none}
   background:var(--bg-deep);
   overflow:hidden;
 }
-.ed-hero img{
+.ed-hero.carousel{/* multi-slide hero */}
+.ed-hero .carousel-viewport{
+  position:absolute;inset:0;
+  overflow:hidden;
+}
+.ed-hero .carousel-slide{
+  position:absolute;inset:0;
+  width:100%;height:100%;
+  will-change:opacity,transform;
+}
+.ed-hero .carousel-slide img{
   width:100%;height:100%;object-fit:cover;
   filter:saturate(.92) contrast(1.02);
+  display:block;
+}
+/* Auto: 1s crossfade */
+.ed-hero.carousel[data-mode="fade"] .carousel-slide{
+  opacity:0;
+  transform:none;
+  transition:opacity 1s ease;
+  z-index:0;
+  pointer-events:none;
+}
+.ed-hero.carousel[data-mode="fade"] .carousel-slide.active{
+  opacity:1;
+  z-index:1;
+  pointer-events:auto;
+}
+/* Manual: horizontal slide */
+.ed-hero.carousel[data-mode="slide"] .carousel-slide{
+  opacity:1;
+  transition:transform .45s cubic-bezier(.22,.61,.36,1);
+  z-index:0;
+  pointer-events:none;
+}
+.ed-hero.carousel[data-mode="slide"] .carousel-slide.active{
+  transform:translateX(0);
+  z-index:2;
+  pointer-events:auto;
+}
+.ed-hero.carousel[data-mode="slide"] .carousel-slide.is-prev{
+  transform:translateX(-100%);
+  z-index:1;
+}
+.ed-hero.carousel[data-mode="slide"] .carousel-slide.is-next{
+  transform:translateX(100%);
+  z-index:1;
+}
+.ed-hero.carousel[data-mode="slide"] .carousel-slide.is-enter-from-right{
+  transform:translateX(100%);
+}
+.ed-hero.carousel[data-mode="slide"] .carousel-slide.is-enter-from-left{
+  transform:translateX(-100%);
 }
 .ed-hero .ph{
   position:absolute;inset:0;display:flex;align-items:center;justify-content:center;
   font-family:var(--serif);font-style:italic;color:var(--muted);font-size:1rem;
   background:linear-gradient(145deg,#e8e0d2,#d4cbb8);
+  z-index:0;
+}
+.ed-hero .carousel-nav{
+  position:absolute;top:50%;transform:translateY(-50%);
+  z-index:5;
+  width:2.25rem;height:2.25rem;
+  border:1px solid rgba(255,255,255,.55);
+  background:rgba(26,23,20,.38);
+  color:#faf7f1;
+  border-radius:999px;
+  cursor:pointer;
+  font-size:1.15rem;line-height:1;
+  display:flex;align-items:center;justify-content:center;
+  backdrop-filter:blur(6px);
+  -webkit-backdrop-filter:blur(6px);
+  transition:background .15s, border-color .15s;
+}
+.ed-hero .carousel-nav:hover{background:rgba(26,23,20,.58);border-color:rgba(255,255,255,.85)}
+.ed-hero .carousel-nav:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
+.ed-hero .carousel-prev{left:.65rem}
+.ed-hero .carousel-next{right:.65rem}
+.ed-hero .carousel-dots{
+  position:absolute;left:0;right:0;bottom:.55rem;
+  z-index:5;
+  display:flex;justify-content:center;gap:.35rem;
+  pointer-events:auto;
+}
+.ed-hero .carousel-dot{
+  width:.45rem;height:.45rem;border-radius:999px;
+  border:1px solid rgba(255,255,255,.7);
+  background:rgba(255,255,255,.35);
+  padding:0;cursor:pointer;
+}
+.ed-hero .carousel-dot[aria-current="true"]{
+  background:var(--paper);
+  border-color:var(--paper);
+  width:.85rem;
+  border-radius:999px;
 }
 .ed-credit{
   padding:.55rem 1.25rem;
   font-size:.72rem;line-height:1.45;color:var(--muted);
   background:var(--bg-deep);border-bottom:1px solid var(--line);
+  min-height:2.4rem;
 }
 .ed-credit a{color:var(--gold-deep);text-decoration:underline;text-underline-offset:2px}
 .ed-body{padding:1.75rem 1.5rem 2.1rem;width:100%;max-width:none;box-sizing:border-box}
@@ -501,6 +590,226 @@ function hasEditorial(ed){
   return !!(ed && ((ed.paragraphs&&ed.paragraphs.length) || (ed.body&&String(ed.body).trim())));
 }
 
+
+/** Images for today's field-signal articles (for editorial hero carousel). */
+function dayKeyFromAny(s){
+  if(!s) return '';
+  return String(s).slice(0,10);
+}
+function todayArticles(){
+  const day = dayKeyFromAny(
+    (activeEditorial && (activeEditorial.publishDate || activeEditorial.publishedAt)) ||
+    (allB[0] && allB[0].scannedAt) ||
+    new Date().toISOString()
+  );
+  const items=[];
+  const seenTitle=new Set();
+  for(const b of allB){
+    const bd=dayKeyFromAny(b.scannedAt);
+    // Prefer exact calendar day match; if none match later we fall back
+    if(day && bd && bd!==day) continue;
+    for(const it of (b.items||[])){
+      const t=(it.title||'').toLowerCase().trim();
+      if(!t||seenTitle.has(t)) continue;
+      seenTitle.add(t);
+      items.push(it);
+    }
+  }
+  if(items.length) return items;
+  // Fallback: newest batch only
+  const fb=[];
+  const b0=allB[0];
+  if(b0){
+    for(const it of (b0.items||[])){
+      const t=(it.title||'').toLowerCase().trim();
+      if(!t||fb.some(x=>(x.title||'').toLowerCase()===t)) continue;
+      fb.push(it);
+    }
+  }
+  return fb;
+}
+function carouselSlidesFromDay(ed){
+  const slides=[];
+  const seen=new Set();
+  function push(url, credit, source, sourceUrl, alt){
+    const u=(url||'').trim();
+    if(!u) return;
+    const key=u.split('?')[0].toLowerCase();
+    if(seen.has(key)) return;
+    seen.add(key);
+    slides.push({
+      url:u,
+      proxy:proxyUrl(u),
+      credit:plainText(credit||''),
+      source:plainText(source||''),
+      sourceUrl:sourceUrl||'',
+      alt:plainText(alt||credit||'Editorial image')
+    });
+  }
+  // Day's article heroes first (primary request)
+  for(const it of todayArticles()){
+    push(it.image, it.source ? (it.source+' · field signal') : 'Field signal', it.source, it.sourceUrl, it.title);
+  }
+  // Editorial stills if unique
+  if(ed){
+    push(ed.heroImage, ed.heroCredit, ed.heroSource, ed.heroSourceUrl, ed.heroCredit||ed.title);
+  }
+  return slides;
+}
+
+let heroCarousel=null;
+function stopHeroCarousel(){
+  if(heroCarousel){
+    if(heroCarousel.timer) clearInterval(heroCarousel.timer);
+    if(heroCarousel.resumeTimer) clearTimeout(heroCarousel.resumeTimer);
+    heroCarousel=null;
+  }
+}
+function bindHeroCarousel(root, slides){
+  stopHeroCarousel();
+  if(!root||!slides||slides.length<1) return;
+  const viewport=root.querySelector('.carousel-viewport');
+  const creditEl=document.getElementById('edHeroCredit');
+  const dotsEl=root.querySelector('.carousel-dots');
+  const prevBtn=root.querySelector('.carousel-prev');
+  const nextBtn=root.querySelector('.carousel-next');
+  let i=0;
+  let animating=false;
+  const AUTO_MS=4000; // dwell; fade itself is 1s
+
+  function setCredit(s){
+    if(!creditEl) return;
+    const bits=[];
+    if(s.credit) bits.push(esc(s.credit));
+    if(s.source) bits.push(esc(s.source));
+    let html=bits.length?('Photo: '+bits.join(' · ')):'Photo: —';
+    if(s.sourceUrl) html+=' · <a href="'+esc(s.sourceUrl)+'" target="_blank" rel="noopener">Source</a>';
+    creditEl.innerHTML=html;
+  }
+  function setDots(){
+    if(!dotsEl) return;
+    dotsEl.innerHTML=slides.map((_,n)=>
+      '<button type="button" class="carousel-dot" aria-label="Slide '+(n+1)+'" '+(n===i?'aria-current="true"':'')+' data-i="'+n+'"></button>'
+    ).join('');
+  }
+  function slideEls(){ return [...viewport.querySelectorAll('.carousel-slide')]; }
+
+  function goFade(to){
+    if(slides.length<2) return;
+    const els=slideEls();
+    els.forEach((el,n)=>el.classList.toggle('active', n===to));
+    i=to;
+    setCredit(slides[i]);
+    setDots();
+  }
+
+  function goSlide(to, dir){
+    // dir: 1 next, -1 prev
+    if(animating||slides.length<2||to===i) return;
+    animating=true;
+    root.dataset.mode='slide';
+    const els=slideEls();
+    const from=i;
+    const cur=els[from];
+    const nxt=els[to];
+    // reset classes
+    els.forEach(el=>{
+      el.classList.remove('active','is-prev','is-next','is-enter-from-right','is-enter-from-left');
+    });
+    // prepare incoming off-screen
+    if(dir>0){
+      nxt.classList.add('is-enter-from-right');
+      cur.classList.add('active');
+    }else{
+      nxt.classList.add('is-enter-from-left');
+      cur.classList.add('active');
+    }
+    // force reflow
+    void nxt.offsetWidth;
+    // animate
+    if(dir>0){
+      cur.classList.remove('active');
+      cur.classList.add('is-prev');
+      nxt.classList.remove('is-enter-from-right');
+      nxt.classList.add('active');
+    }else{
+      cur.classList.remove('active');
+      cur.classList.add('is-next');
+      nxt.classList.remove('is-enter-from-left');
+      nxt.classList.add('active');
+    }
+    const done=()=>{
+      els.forEach((el,n)=>{
+        el.classList.remove('is-prev','is-next','is-enter-from-right','is-enter-from-left');
+        el.classList.toggle('active', n===to);
+      });
+      root.dataset.mode='fade';
+      i=to;
+      setCredit(slides[i]);
+      setDots();
+      animating=false;
+      nxt.removeEventListener('transitionend', done);
+    };
+    nxt.addEventListener('transitionend', done);
+    // safety
+    setTimeout(()=>{ if(animating) done(); }, 700);
+  }
+
+  function next(manual){
+    const to=(i+1)%slides.length;
+    if(manual) goSlide(to, +1); else goFade(to);
+  }
+  function prev(manual){
+    const to=(i-1+slides.length)%slides.length;
+    if(manual) goSlide(to, -1); else goFade(to);
+  }
+  function goTo(n, manual){
+    if(n===i) return;
+    if(manual) goSlide(n, n>i?+1:-1);
+    else goFade(n);
+  }
+
+  function startAuto(){
+    if(slides.length<2) return;
+    stopTimer();
+    heroCarousel.timer=setInterval(()=>{
+      if(document.hidden||animating) return;
+      root.dataset.mode='fade';
+      next(false);
+    }, AUTO_MS);
+  }
+  function stopTimer(){
+    if(heroCarousel&&heroCarousel.timer){ clearInterval(heroCarousel.timer); heroCarousel.timer=null; }
+  }
+  function bumpManual(){
+    stopTimer();
+    if(heroCarousel.resumeTimer) clearTimeout(heroCarousel.resumeTimer);
+    heroCarousel.resumeTimer=setTimeout(startAuto, 6000);
+  }
+
+  heroCarousel={timer:null, resumeTimer:null, slides, get i(){return i}};
+  root.dataset.mode='fade';
+  setCredit(slides[0]);
+  setDots();
+
+  if(prevBtn) prevBtn.onclick=e=>{ e.preventDefault(); bumpManual(); prev(true); };
+  if(nextBtn) nextBtn.onclick=e=>{ e.preventDefault(); bumpManual(); next(true); };
+  if(dotsEl) dotsEl.onclick=e=>{
+    const b=e.target.closest('.carousel-dot'); if(!b) return;
+    const n=parseInt(b.dataset.i,10);
+    if(Number.isFinite(n)){ bumpManual(); goTo(n, true); }
+  };
+  // keyboard when focused
+  root.tabIndex=0;
+  root.onkeydown=e=>{
+    if(e.key==='ArrowLeft'){ e.preventDefault(); bumpManual(); prev(true); }
+    if(e.key==='ArrowRight'){ e.preventDefault(); bumpManual(); next(true); }
+  };
+  // pause auto when tab hidden is handled in interval
+  startAuto();
+}
+
+
 function renderEditorial(){
   const el=document.getElementById('editorial');
   const ed=activeEditorial;
@@ -510,12 +819,28 @@ function renderEditorial(){
   }
   const paras=paragraphsFromEditorial(ed);
   const prose=paras.map(p=>'<p>'+esc(p).replace(/\*\*(.+?)\*\*/g,'<strong>$1</strong>')+'</p>').join('');
-  const heroUrl=imgSrc(ed.heroImage);
-  // Exactly one hero block — never duplicate
-  const hero=heroUrl
-    ? `<div class="ed-hero"><img src="${esc(heroUrl)}" alt="${esc(ed.heroCredit||'Editorial image')}" width="1040" height="585" decoding="async" fetchpriority="high" referrerpolicy="no-referrer" data-proxy="${esc(ed.heroImageProxy||proxyUrl(ed.heroImage))}" onerror="heroFail(this)"></div>
-       <div class="ed-credit">Photo: ${esc(ed.heroCredit||'—')} · ${esc(ed.heroSource||'')} ${ed.heroSourceUrl?'· <a href="'+esc(ed.heroSourceUrl)+'" target="_blank" rel="noopener">Source</a>':''}</div>`
-    : `<div class="ed-hero"><div class="ph">Chronicle of Convergence</div></div>`;
+  const slides=carouselSlidesFromDay(ed);
+  let hero='';
+  if(slides.length){
+    const slidesHtml=slides.map((s,n)=>{
+      const src=imgSrc(s.url);
+      return `<div class="carousel-slide${n===0?' active':''}" data-i="${n}">
+        <img src="${esc(src)}" alt="${esc(s.alt||'')}" width="1040" height="585" ${n===0?'fetchpriority="high"':'loading="lazy"'} decoding="async" referrerpolicy="no-referrer" data-proxy="${esc(s.proxy||'')}" onerror="heroFail(this)">
+      </div>`;
+    }).join('');
+    const nav=slides.length>1?`
+      <button type="button" class="carousel-nav carousel-prev" aria-label="Previous image">‹</button>
+      <button type="button" class="carousel-nav carousel-next" aria-label="Next image">›</button>
+      <div class="carousel-dots" role="tablist" aria-label="Hero images"></div>`:'';
+    hero=`<div class="ed-hero carousel" data-mode="fade" id="edHeroCarousel" aria-roledescription="carousel" aria-label="Daily article images">
+      <div class="carousel-viewport">${slidesHtml}</div>
+      ${nav}
+    </div>
+    <div class="ed-credit" id="edHeroCredit">Photo: —</div>`;
+  }else{
+    hero=`<div class="ed-hero"><div class="ph">Chronicle of Convergence</div></div>
+    <div class="ed-credit" id="edHeroCredit">Photo: —</div>`;
+  }
   const authorName=plainText(ed.authorName||'Dr. Wallace Lynch');
   const authorTitle=plainText(ed.authorTitle||'Editor in Chief');
   const byline=authorName
@@ -551,6 +876,9 @@ function renderEditorial(){
     });
     document.head.appendChild(ldEl);
   }catch(e){}
+
+  const car=document.getElementById('edHeroCarousel');
+  if(car&&slides.length) bindHeroCarousel(car, slides);
 
 }
 function heroFail(img){
