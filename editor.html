@@ -158,7 +158,7 @@ a{color:inherit;text-decoration:none}
       <img class="day-logo" src="img/logo-mark.png" alt="Chronicle of Convergence" height="28">
     </a>
     <span class="tag">Editor</span>
-    <button type="button" class="btn" id="logoutBtn" onclick="CoCEditorAuth.clearSession();location.reload()" style="margin-left:auto;padding:.25rem .45rem;font-size:.48rem">Lock</button>
+    <button type="button" class="btn" id="logoutBtn" onclick="try{CoCEditorAuth.clearSession()}catch(e){};location.reload()" style="margin-left:auto;padding:.25rem .45rem;font-size:.48rem">Lock</button>
   </div>
 
   <div class="sec">
@@ -250,11 +250,10 @@ a{color:inherit;text-decoration:none}
 <script src="scripts/editor-auth.js"></script>
 <script src="scripts/crawler-lib.js"></script>
 <script>
-// Defer app init until gate unlocks
-function __cocBootEditor(){
-
+/* Global scope required: HTML onclick="doScan()" etc. must resolve on window. */
 const SK='coc_editor_batches',PK='coc_news_data',LK='coc_scan_log',ATK='coc_auto_scan',APK='coc_auto_pub';
 let B=[],eId=null,scanning=false,sTimer=null,cTimer=null,nxt=null,logs=[],sourcesCfg=null;
+let EDITOR_BOOTED=false;
 
 /** Strip HTML / AI <cite index="…"> markup from titles & summaries (QA: no codes on page). */
 function plainText(str){
@@ -287,11 +286,40 @@ try{B=scrubBatches(JSON.parse(localStorage.getItem(SK))||[])}catch(e){B=[]}
 try{logs=JSON.parse(localStorage.getItem(LK))||[]}catch(e){logs=[]}
 // Heal any already-polluted editor store
 try{localStorage.setItem(SK,JSON.stringify(B))}catch(e){}
-const aOn=localStorage.getItem(ATK)==='true';
-document.getElementById('autoT').checked=aOn;if(aOn)startAuto();
-document.getElementById('autoPub').checked=localStorage.getItem(APK)!=='false';
-renderBL();
-document.getElementById('fI').addEventListener('input',e=>updImg(e.target.value));
+
+/** Run only after password unlock (DOM ready + session). */
+function initEditorApp(){
+  if(EDITOR_BOOTED) return;
+  EDITOR_BOOTED=true;
+  try{
+    const aOn=localStorage.getItem(ATK)==='true';
+    const autoT=document.getElementById('autoT');
+    if(autoT){ autoT.checked=aOn; if(aOn) startAuto(); }
+    const autoPub=document.getElementById('autoPub');
+    if(autoPub) autoPub.checked=localStorage.getItem(APK)!=='false';
+    const fI=document.getElementById('fI');
+    if(fI && !fI.dataset.bound){ fI.dataset.bound='1'; fI.addEventListener('input',e=>updImg(e.target.value)); }
+    const edBody=document.getElementById('edBody');
+    if(edBody && !edBody.dataset.bound){ edBody.dataset.bound='1'; edBody.addEventListener('input',countEdWords); }
+    const edHero=document.getElementById('edHero');
+    if(edHero && !edHero.dataset.bound){ edHero.dataset.bound='1'; edHero.addEventListener('input',e=>updEdImg(e.target.value)); }
+    document.querySelectorAll('.mo').forEach(o=>{
+      if(o.dataset.bound) return;
+      o.dataset.bound='1';
+      o.addEventListener('click',e=>{ if(e.target===o) o.classList.remove('sh'); });
+    });
+    renderBL();
+    ensureEditorialLoaded(true).then(()=>{
+      const pub=ED.published;
+      const body=editorialBodyText(pub);
+      const n=(pub?1:0)+Object.keys(ED.drafts||{}).length;
+      if(n) addLog('ok','Editorial ready · today '+todayET()+' · published '+(pub&&pub.publishDate||'—')+' · ~'+(body?body.split(/\s+/).filter(Boolean).length:0)+'w · '+n+' item(s)');
+    });
+  }catch(err){
+    console.error('initEditorApp', err);
+    toast('Editor init error: '+(err&&err.message||err),'error');
+  }
+}
 
 function parseOgImage(html){
   const pats=[/<meta[^>]+property=["']og:image(?::secure_url)?["'][^>]+content=["']([^"']+)["']/i,/<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image(?::secure_url)?["']/i,/<meta[^>]+name=["']twitter:image(?::src)?["'][^>]+content=["']([^"']+)["']/i,/<meta[^>]+content=["']([^"']+)["'][^>]+name=["']twitter:image(?::src)?["']/i];
@@ -410,7 +438,7 @@ function clrF(){['fR','fT','fS','fI','fSr','fSu','fB'].forEach(id=>document.getE
 function updImg(u){const a=document.getElementById('imgP');if(!u){a.innerHTML='<span class="ph-t">Preview</span>';return}a.innerHTML='<img referrerpolicy="no-referrer">';const img=a.querySelector('img');img.src=u;img.onerror=function(){if(!this.dataset.proxy){this.dataset.proxy='1';this.src='https://images.weserv.nl/?url='+encodeURIComponent(u.replace(/^https?:\/\//,''))+'&w=640&fit=cover';return}this.parentElement.innerHTML='<span class="ph-t">Failed</span>'}}
 function fC(c){return{ai:'AI',art:'Art',robotics:'Robotics',biotech:'Biotech',space:'Space Tech',energy:'Energy',neuroscience:'Neuroscience'}[c]||c}
 function toast(m,t='info'){const e=document.getElementById('tst');e.textContent=m;e.className='toast '+t+' sh';setTimeout(()=>e.classList.remove('sh'),2500)}
-document.querySelectorAll('.mo').forEach(o=>o.addEventListener('click',e=>{if(e.target===o)o.classList.remove('sh')}));
+/* modal dismiss bound in initEditorApp */
 
 /* ═══ DAILY EDITORIAL ═══ */
 const EK='coc_editorial_store';
@@ -527,8 +555,7 @@ function countEdWords(){
   const w=(document.getElementById('edBody').value||'').trim().split(/\s+/).filter(Boolean).length;
   document.getElementById('edWC').textContent=w;
 }
-document.getElementById('edBody')&&document.getElementById('edBody').addEventListener('input',countEdWords);
-document.getElementById('edHero')&&document.getElementById('edHero').addEventListener('input',e=>updEdImg(e.target.value));
+/* edBody/edHero listeners bound in initEditorApp */
 function heroProxy(u){
   if(!u) return '';
   if(/weserv\.nl/.test(u)) return u;
@@ -617,24 +644,46 @@ async function loadEditorialFile(){
     openEditorial();
   }else toast('data/editorial.json empty or missing — use a local server (not file://)','warning');
 }
-// Auto-preload editorial store on editor open (requires http:// not file://)
-ensureEditorialLoaded(true).then(()=>{
-  const pub=ED.published;
-  const body=editorialBodyText(pub);
-  const n=(pub?1:0)+Object.keys(ED.drafts||{}).length;
-  if(n) addLog('ok','Editorial ready · today '+todayET()+' · published '+(pub&&pub.publishDate||'—')+' · ~'+(body?body.split(/\s+/).filter(Boolean).length:0)+'w · '+n+' item(s)');
-});
-} // end __cocBootEditor
+// Expose handlers for inline onclick= (global)
+window.doScan=doScan;
+window.toggleAuto=toggleAuto;
+window.showLog=showLog;
+window.clearLog=clearLog;
+window.createNew=createNew;
+window.pub=pub;
+window.showExp=showExp;
+window.showImp=showImp;
+window.cpExp=cpExp;
+window.dlExp=dlExp;
+window.doImp=doImp;
+window.closeM=closeM;
+window.saveE=saveE;
+window.cancelE=cancelE;
+window.delE=delE;
+window.selE=selE;
+window.delB=delB;
+window.pullImg=pullImg;
+window.saveAutoPub=saveAutoPub;
+window.openEditorial=openEditorial;
+window.hideEd=hideEd;
+window.loadEditorialFile=loadEditorialFile;
+window.saveEditorial=saveEditorial;
+window.markPublished=markPublished;
+window.updImg=updImg;
+window.updEdImg=updEdImg;
+window.hide=hide;
+window.showF=showF;
 
 document.addEventListener('DOMContentLoaded',function(){
   if(window.CoCEditorAuth){
     CoCEditorAuth.mountGate(function(){
-      __cocBootEditor();
-      try{CoCLogoDay&&CoCLogoDay.applyDayLogo('.day-logo',{mode:'dark'})}catch(e){}
+      initEditorApp();
+      try{window.CoCLogoDay&&CoCLogoDay.applyDayLogo('.day-logo',{mode:'dark'})}catch(e){}
     });
   }else{
-    document.getElementById('editorApp')&&document.getElementById('editorApp').removeAttribute('hidden');
-    __cocBootEditor();
+    var app=document.getElementById('editorApp');
+    if(app) app.removeAttribute('hidden');
+    initEditorApp();
   }
 });
 </script>
