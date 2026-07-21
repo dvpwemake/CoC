@@ -1,11 +1,31 @@
 [
   {
-    "batchId": "auto_2026-07-21T10-09",
-    "scannedAt": "2026-07-21T10:09:54.620Z",
+    "batchId": "auto_2026-07-21T13-07",
+    "scannedAt": "2026-07-21T13:07:27.322Z",
     "items": [
       {
-        "id": "auto_2026-07-21T10-09_1",
+        "id": "auto_2026-07-21T13-07_1",
         "rank": 1,
+        "title": "STAT+: Nabla’s new CEO on plan to gain market share in a competitive AI scribe environment",
+        "category": "biotech",
+        "summary": "Ambient scribe developer Nabla said Brian Manning will be the Paris-based company's new CEO as it looks to grow in a highly competitive market.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/07/Nabla-2000-1-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/07/21/ai-scribe-nabla-new-ceo-plan-gain-marketshare/?utm_campaign=rss"
+      },
+      {
+        "id": "auto_2026-07-21T13-07_2",
+        "rank": 2,
+        "title": "Startup offers low-cost home batteries to Massachusetts residents",
+        "category": "energy",
+        "summary": "Haven Energy is the newest company offering home battery service in Massachusetts for a low monthly payment, a model supporters say could accelerate adoption of residential storage. Starting in four counties in the…",
+        "image": "https://img.canarymedia.com/content/uploads/Tesla-batteris-in-Canada-home_GettyImages-967233426.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=d3ef0d003b9eaa23273e8dcbafef9b02",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/batteries/haven-energy-low-cost-batteries-massachusetts"
+      },
+      {
+        "id": "auto_2026-07-21T13-07_3",
+        "rank": 3,
         "title": "Luis Manuel Otero Alcántara Is Free",
         "category": "art",
         "summary": "The Cuban dissident artist is exiled to the US and a Homerist reviews Christopher Nolan’s “The Odyssey.”",
@@ -14,27 +34,7 @@
         "sourceUrl": "https://hyperallergic.com/luis-manuel-otero-alcantara-is-free/"
       },
       {
-        "id": "auto_2026-07-21T10-09_2",
-        "rank": 2,
-        "title": "STAT+: Makers of rare disease drugs seek exemption from Trump’s price-cut pilots",
-        "category": "biotech",
-        "summary": "A coalition of biotech firms is lobbying to exclude orphan drugs from new federal pilot programs aimed at lowering Medicare drug costs.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/07/AdobeStock_421824444-1024x576.jpeg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/07/21/rare-disease-coalition-orphan-drug-exemption-medicare-pilot-price-programs/?utm_campaign=rss"
-      },
-      {
-        "id": "auto_2026-07-21T10-09_3",
-        "rank": 3,
-        "title": "Balcony solar is sweeping the US, but who's actually selling it?",
-        "category": "energy",
-        "summary": "A hands-on form of solar power has electrified the U.S. in the past year. Plug-in solar lets anyone hang a few panels in the sunlight and send the power straight into their wall sockets to partially offset their utility…",
-        "image": "https://img.canarymedia.com/content/uploads/Thuringia-balcony-solar-looking-up_GettyImages-2194307346.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=b2edec0c37f68ae4bca691158769549f",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/solar/balcony-solar-for-sale-us"
-      },
-      {
-        "id": "auto_2026-07-21T10-09_4",
+        "id": "auto_2026-07-21T13-07_4",
         "rank": 4,
         "title": "Why Maine’s Sandy Shorelines Turn Jagged",
         "category": "space",
@@ -44,7 +44,7 @@
         "sourceUrl": "https://science.nasa.gov/earth/earth-observatory/why-maines-sandy-shorelines-turn-jagged/"
       },
       {
-        "id": "auto_2026-07-21T10-09_5",
+        "id": "auto_2026-07-21T13-07_5",
         "rank": 5,
         "title": "How Closed-Loop BCIs Will Treat Depression, Anxiety, and PTSD",
         "category": "neuroscience",
