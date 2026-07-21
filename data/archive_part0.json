@@ -1,21 +1,41 @@
 [
   {
-    "batchId": "auto_2026-07-21T13-07",
-    "scannedAt": "2026-07-21T13:07:27.322Z",
+    "batchId": "auto_2026-07-21T17-03",
+    "scannedAt": "2026-07-21T17:03:48.333Z",
     "items": [
       {
-        "id": "auto_2026-07-21T13-07_1",
+        "id": "auto_2026-07-21T17-03_1",
         "rank": 1,
-        "title": "STAT+: Nabla’s new CEO on plan to gain market share in a competitive AI scribe environment",
-        "category": "biotech",
-        "summary": "Ambient scribe developer Nabla said Brian Manning will be the Paris-based company's new CEO as it looks to grow in a highly competitive market.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/07/Nabla-2000-1-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/07/21/ai-scribe-nabla-new-ceo-plan-gain-marketshare/?utm_campaign=rss"
+        "title": "Helen Levitt Captured the Poetry of New York City",
+        "category": "art",
+        "summary": "A new survey publication serves as a testament to the photographer’s belief that the city’s working-class communities of color possessed a beauty and drama all their own.",
+        "image": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/07/hl.jpg",
+        "source": "Hyperallergic",
+        "sourceUrl": "https://hyperallergic.com/helen-levitt-captured-the-poetry-of-new-york-city/"
       },
       {
-        "id": "auto_2026-07-21T13-07_2",
+        "id": "auto_2026-07-21T17-03_2",
         "rank": 2,
+        "title": "NIAC 2026 Selections",
+        "category": "space",
+        "summary": "Phase I Saptarshi BandyopadhyayDimming the Sun (DimSun) Using Controllable Dust Cloud to Reduce Solar InsolationNASA Jet Propulsion LaboratoryPasadena, CA 91109-80012026 Phase I David BugbyCombinatory Architecture…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/05/2026-web-graphic-banner-ph-i-final.png",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/directorates/stmd/niac/niac-studies/niac-2026-selections/"
+      },
+      {
+        "id": "auto_2026-07-21T17-03_3",
+        "rank": 3,
+        "title": "Opinion: Pete Hegseth, ‘The Odyssey,’ and the testosterone myth",
+        "category": "biotech",
+        "summary": "The poet didn’t say “sing to me, Muse, of a man with optimized endocrine panels,\" writes urologist Elizabeth Dray.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/07/GettyImages-51242705-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/07/21/connection-between-odyssey-military-tesosterone-screening/?utm_campaign=rss"
+      },
+      {
+        "id": "auto_2026-07-21T17-03_4",
+        "rank": 4,
         "title": "Startup offers low-cost home batteries to Massachusetts residents",
         "category": "energy",
         "summary": "Haven Energy is the newest company offering home battery service in Massachusetts for a low monthly payment, a model supporters say could accelerate adoption of residential storage. Starting in four counties in the…",
@@ -24,27 +44,7 @@
         "sourceUrl": "https://www.canarymedia.com/articles/batteries/haven-energy-low-cost-batteries-massachusetts"
       },
       {
-        "id": "auto_2026-07-21T13-07_3",
-        "rank": 3,
-        "title": "Luis Manuel Otero Alcántara Is Free",
-        "category": "art",
-        "summary": "The Cuban dissident artist is exiled to the US and a Homerist reviews Christopher Nolan’s “The Odyssey.”",
-        "image": "",
-        "source": "Hyperallergic",
-        "sourceUrl": "https://hyperallergic.com/luis-manuel-otero-alcantara-is-free/"
-      },
-      {
-        "id": "auto_2026-07-21T13-07_4",
-        "rank": 4,
-        "title": "Why Maine’s Sandy Shorelines Turn Jagged",
-        "category": "space",
-        "summary": "Differences in the underlying bedrock and how rivers distribute sediment make the coastlines west of Portland look unlike those northeast of the city.",
-        "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/why-maine",
-        "source": "NASA",
-        "sourceUrl": "https://science.nasa.gov/earth/earth-observatory/why-maines-sandy-shorelines-turn-jagged/"
-      },
-      {
-        "id": "auto_2026-07-21T13-07_5",
+        "id": "auto_2026-07-21T17-03_5",
         "rank": 5,
         "title": "How Closed-Loop BCIs Will Treat Depression, Anxiety, and PTSD",
         "category": "neuroscience",
