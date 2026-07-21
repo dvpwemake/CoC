@@ -1,55 +1,5 @@
 [
   {
-    "scannedAt": "2026-06-11T18:54:12.807Z",
-    "items": [
-      {
-        "id": "b1781204052807_2",
-        "rank": 2,
-        "title": "JWST Reveals Two Completely Different Twilights on Ultra-Hot Exoplanet WASP-121 b",
-        "category": "space",
-        "summary": "The James Webb Space Telescope has uncovered striking differences between the dawn and dusk regions of the ultra-hot exoplanet WASP-121 b. Scientists found that fierce winds carry heat from the planet's permanent dayside, making the evening side hotter and more expanded. The discovery reveals that water molecules break apart at extreme temperatures and mysterious mineral clouds may be shaping the cooler side's atmosphere, providing the first observational evidence of atmospheric asymmetry on an exoplanet.",
-        "source": "Nature Astronomy",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260611024559.htm",
-        "image": "https://www.sciencedaily.com/images/1920/exoplanet-wasp-121-b-artists-impression.webp",
-        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fexoplanet-wasp-121-b-artists-impression.webp&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "b1781204052807_3",
-        "rank": 3,
-        "title": "Naqi Logix Unveils AI Neural Earbuds for Hands-Free, Voice-Free Technology Control",
-        "category": "ai",
-        "summary": "Naqi Logix announced its breakthrough neural interface technology that transforms everyday earbuds into intuitive, hands-free controllers. The AI-powered neural earbuds detect subtle facial micro-gestures and head movements, converting them into digital commands without cameras, voice commands, or screens. The technology enables control of computers, robotics, mobile devices, and smart environments, representing a significant advance in human-machine interfaces and accessibility technology.",
-        "source": "EINPresswire",
-        "sourceUrl": "https://www.einpresswire.com/article/918770716/naqi-logix-showcases-the-future-of-ai-neurotechnology-at-europe-s-vivatech-2026",
-        "image": "https://img.einnews.com/facebook/1129354/naqi-black-earbuds-with-logo.png",
-        "imageProxy": "https://images.weserv.nl/?url=img.einnews.com%2Ffacebook%2F1129354%2Fnaqi-black-earbuds-with-logo.png&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "b1781204052807_4",
-        "rank": 4,
-        "title": "Tufts Researchers Develop Neuro-Symbolic AI System Slashing Energy Use by 100x",
-        "category": "ai",
-        "summary": "Researchers at Tufts University developed a revolutionary neuro-symbolic AI system that combines neural networks with human-like symbolic reasoning, reducing energy consumption by up to 100 times compared to conventional approaches while dramatically improving performance. In robotic task tests, the hybrid system achieved a 95% success rate versus 34% for standard models and trained in just 34 minutes versus more than a day and a half for traditional systems. This breakthrough addresses AI's growing energy demands and could transform robotics applications.",
-        "source": "Crescendo AI",
-        "sourceUrl": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
-        "image": "https://cdn.prod.website-files.com/67166bf779ba8852260f7d1f/694a731a76c9d6876ddf8a8f_latest-ai-news-and-updates.png",
-        "imageProxy": "https://images.weserv.nl/?url=cdn.prod.website-files.com%2F67166bf779ba8852260f7d1f%2F694a731a76c9d6876ddf8a8f_latest-ai-news-and-updates.png&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "b1781204052807_5",
-        "rank": 5,
-        "title": "Cell-Free Biomanufacturing Systems Revolutionize On-Demand Protein Production",
-        "category": "biotech",
-        "summary": "Leading biotechnology companies have achieved breakthrough advances in cell-free biomanufacturing systems that can produce proteins, enzymes, and chemicals on demand without living organisms or fermentation tanks. These modular, freeze-dried systems are faster, more stable, and easier to scale than traditional methods. The technology enables portable, real-time, programmable production for diagnostics, therapeutics, and sustainable materials, representing a paradigm shift in biotechnology manufacturing that could revolutionize drug discovery and vaccine development.",
-        "source": "CAS Insights",
-        "sourceUrl": "https://www.cas.org/resources/cas-insights/scientific-breakthroughs-2026-emerging-trends-watch",
-        "image": "https://cdn.prod.website-files.com/650867962272bf8f15c1034b/692da5a43ed15a57aaebbce0_Trends-to-watch-2026-Social-CAS-Insights-INSSOC102780ENG-Article.avif",
-        "imageProxy": "https://images.weserv.nl/?url=cdn.prod.website-files.com%2F650867962272bf8f15c1034b%2F692da5a43ed15a57aaebbce0_Trends-to-watch-2026-Social-CAS-Insights-INSSOC102780ENG-Article.avif&w=640&h=400&fit=cover&we&output=jpg"
-      }
-    ],
-    "batchId": "b1781204052807"
-  },
-  {
     "scannedAt": "2026-06-11T16:18:47.790Z",
     "items": [
       {
@@ -869,5 +819,116 @@
       }
     ],
     "batchId": "b1780784035810"
+  },
+  {
+    "scannedAt": "2026-06-06T17:34:10.417Z",
+    "items": [
+      {
+        "id": "b1780767250417_1",
+        "rank": 1,
+        "title": "OpenAI Unveils Revolutionary Memory Architecture in ChatGPT Plus with Dreaming V3",
+        "category": "ai",
+        "summary": "OpenAI launched its most significant memory upgrade since the original ChatGPT rollout. The new Dreaming V3 architecture began reaching ChatGPT Plus and Pro users in the United States on June 4, 2026, featuring enhanced contextual understanding and persistent memory capabilities that allow AI to maintain conversations across sessions. This breakthrough addresses the longstanding limitation of working memory in large language models.",
+        "source": "BuildFastWithAI",
+        "sourceUrl": "https://www.buildfastwithai.com/blogs/ai-news-today-june-6-2026",
+        "image": "https://oukdqujzonxvqhiefdsv.supabase.co/storage/v1/object/public/blogs/b3f3ef52-ed94-4a00-8373-6ed95b1bf177.png",
+        "imageProxy": "https://images.weserv.nl/?url=oukdqujzonxvqhiefdsv.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fblogs%2Fb3f3ef52-ed94-4a00-8373-6ed95b1bf177.png&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780767250417_2",
+        "rank": 2,
+        "title": "NVIDIA Releases New Physical AI Models for Next-Generation Humanoid Robots",
+        "category": "robotics",
+        "summary": "NVIDIA unveiled breakthrough physical AI models including Cosmos Predict 2.5 and Isaac GR00T N1.6, purpose-built for humanoid robots. The new models enable full body control and use NVIDIA Cosmos Reason for better reasoning and contextual understanding in real-world environments. Figure AI achieved a major production milestone with its BotQ factory now producing Figure 03 robots at 1 robot per hour.",
+        "source": "NVIDIA Newsroom",
+        "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-releases-new-physical-ai-models-as-global-partners-unveil-next-generation-robots",
+        "image": "https://iprsoftwaremedia.com/219/files/202601/695aea8f3d63328b7eb8544b_ces-2026-global-robotics-partners/ces-2026-global-robotics-partners_5fce44ba-1bd9-4171-88ed-b508cdfe0103-prv.jpg",
+        "imageProxy": "https://images.weserv.nl/?url=iprsoftwaremedia.com%2F219%2Ffiles%2F202601%2F695aea8f3d63328b7eb8544b_ces-2026-global-robotics-partners%2Fces-2026-global-robotics-partners_5fce44ba-1bd9-4171-88ed-b508cdfe0103-prv.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780767250417_3",
+        "rank": 3,
+        "title": "Revolutionary Hydrogen Breakthrough Turns Waste Heat Into Clean Fuel",
+        "category": "energy",
+        "summary": "Researchers at the University of Birmingham developed a perovskite-based catalyst that splits water into hydrogen at much lower temperatures than existing technologies. This breakthrough allows factories, steel plants, and renewable energy sites to turn waste heat into valuable hydrogen, potentially making clean fuel far cheaper and easier to generate at industrial scale.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260601025345.htm",
+        "image": "https://www.sciencedaily.com/images/1920/green-energy-hydrogen-pipelines-wind-turbines.webp",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fgreen-energy-hydrogen-pipelines-wind-turbines.webp&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780767250417_4",
+        "rank": 4,
+        "title": "Gates-Backed Commonwealth Fusion Validates Physics for Commercial Power Plant",
+        "category": "energy",
+        "summary": "Commonwealth Fusion Systems, which has raised almost $3 billion from investors including Bill Gates' Breakthrough Energy Ventures and Nvidia's venture arm, announced that five peer-reviewed papers validate the physics underpinning its first commercial-scale fusion power plant. The company is targeting the early 2030s to put energy on the grid from a 400-megawatt facility in Virginia, enough to power 280,000 homes.",
+        "source": "Bloomberg",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-04/gates-backed-commonwealth-fusion-says-its-tech-validated-to-make-power",
+        "image": "https://www.sciencedaily.com/images/1920/bessy-ii-superconducting-tes-array-x-ray-spectrometer.webp",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fbessy-ii-superconducting-tes-array-x-ray-spectrometer.webp&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780767250417_5",
+        "rank": 5,
+        "title": "Scientists Discover Hidden Neural Circuit Controlling Anxiety and Social Behavior",
+        "category": "neuroscience",
+        "summary": "A newly identified group of amygdala neurons appears to play a central role in anxiety and social behavior. Researchers found that restoring normal activity in this tiny brain circuit reversed anxiety and social deficits in mice, revealing a promising therapeutic target. This breakthrough could lead to new treatments for anxiety disorders and autism spectrum conditions by targeting specific neural circuits rather than broad brain regions.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/news/mind_brain/neuroscience/",
+        "image": "https://www.sciencedaily.com/images/scidaily-icon.png",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2Fscidaily-icon.png&w=640&h=400&fit=cover&we&output=jpg"
+      }
+    ],
+    "batchId": "b1780767250417"
+  },
+  {
+    "scannedAt": "2026-06-06T14:05:29.391Z",
+    "items": [
+      {
+        "id": "b1780754729391_2",
+        "rank": 2,
+        "title": "Scientists Discover Hidden Quantum Complexity Inside Common Cobalt Metal",
+        "category": "ai",
+        "summary": "Researchers uncovered unexpected quantum complexity in cobalt, revealing a dense network of topological electronic states that remain robust at room temperature. These quantum states enable extremely fast electron behavior and can be switched or controlled using magnetism, potentially opening new paths toward next-generation computing and spin-based devices. Cobalt can now be considered a highly tunable topological platform, opening new perspectives for exploiting magnetic topological states in future information technologies.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260604044255.htm",
+        "image": "https://www.sciencedaily.com/images/1920/crystal-blue-moonstone-labradorite-stone-cobalt.webp",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fcrystal-blue-moonstone-labradorite-stone-cobalt.webp&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780754729391_3",
+        "rank": 3,
+        "title": "Revolutionary Pancreatic Cancer Drug Nearly Doubles Patient Survival",
+        "category": "biotech",
+        "summary": "A new drug called daraxonrasib targets the KRAS mutation that drives most pancreatic tumors, nearly doubling survival for patients with advanced disease and reducing death risk by 60%. In a Phase 3 trial of 500 patients, daraxonrasib increased overall survival from 6.7 months to 13.2 months compared to standard chemotherapy. By successfully targeting the specific genetic mutation that drives the vast majority of pancreatic cancers, researchers demonstrated that this previously \"undruggable\" disease is treatable with targeted therapy.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260604044247.htm",
+        "image": "https://www.sciencedaily.com/images/1920/bright-glowing-cancer-cell-destruction.webp",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fbright-glowing-cancer-cell-destruction.webp&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780754729391_4",
+        "rank": 4,
+        "title": "Breakthrough Hydrogen Production Method Cuts Energy Requirements by 500°C",
+        "category": "energy",
+        "summary": "University of Birmingham researchers developed a perovskite-based catalyst that splits water into hydrogen at much lower temperatures than existing technologies, potentially allowing factories, steel plants, and renewable energy sites to turn waste heat into valuable hydrogen. The new catalyst generates substantial amounts of hydrogen at temperatures between 150-500°C, compared to conventional systems requiring 700-1000°C. This creates a more energy-efficient system that can integrate with industrial waste heat, opening the door to decentralised hydrogen production.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260601025345.htm",
+        "image": "https://www.sciencedaily.com/images/1920/green-energy-hydrogen-pipelines-wind-turbines.webp",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fgreen-energy-hydrogen-pipelines-wind-turbines.webp&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780754729391_5",
+        "rank": 5,
+        "title": "Controlled Fire Whirls Clean Oil Spills 95% More Effectively Than Traditional Methods",
+        "category": "energy",
+        "summary": "Researchers demonstrated that controlled fire whirls can clean up oil spills faster and more cleanly than traditional burning methods, with spinning flames consuming up to 95% of oil and cutting soot emissions by 40%. The breakthrough technique could help prevent environmental damage from oil spills by providing a more efficient cleanup method that reduces both residual oil and air pollution. This represents a significant advance in environmental remediation technology for marine and coastal oil spill disasters.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/news/",
+        "image": "https://www.sciencedaily.com/images/scidaily-icon.png",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2Fscidaily-icon.png&w=640&h=400&fit=cover&we&output=jpg"
+      }
+    ],
+    "batchId": "b1780754729391"
   }
 ]
