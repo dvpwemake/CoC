@@ -1,11 +1,21 @@
 [
   {
-    "batchId": "auto_2026-07-21T01-15",
-    "scannedAt": "2026-07-21T01:15:08.163Z",
+    "batchId": "auto_2026-07-21T06-19",
+    "scannedAt": "2026-07-21T06:19:56.391Z",
     "items": [
       {
-        "id": "auto_2026-07-21T01-15_1",
+        "id": "auto_2026-07-21T06-19_1",
         "rank": 1,
+        "title": "Why Maine’s Sandy Shorelines Turn Jagged",
+        "category": "space",
+        "summary": "Differences in the underlying bedrock and how rivers distribute sediment make the coastlines west of Portland look unlike those northeast of the city.",
+        "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/why-maine",
+        "source": "NASA",
+        "sourceUrl": "https://science.nasa.gov/earth/earth-observatory/why-maines-sandy-shorelines-turn-jagged/"
+      },
+      {
+        "id": "auto_2026-07-21T06-19_2",
+        "rank": 2,
         "title": "A Homerist’s Review of “The Odyssey”",
         "category": "art",
         "summary": "Historian Joel Christensen reacts to Christopher Nolan’s epic, artists speak candidly about AI, and a forthcoming film adaptation of the Louvre heist.",
@@ -14,8 +24,8 @@
         "sourceUrl": "https://hyperallergic.com/a-homerists-review-of-the-odyssey/"
       },
       {
-        "id": "auto_2026-07-21T01-15_2",
-        "rank": 2,
+        "id": "auto_2026-07-21T06-19_3",
+        "rank": 3,
         "title": "How Closed-Loop BCIs Will Treat Depression, Anxiety, and PTSD",
         "category": "neuroscience",
         "summary": "Expanding BCI technology beyond motor paralysis to psychiatric conditions like depression, anxiety, PTSD, and OCD requires shifting from static motor cortical decoding to dynamic, multi-region network tracking.",
@@ -24,8 +34,8 @@
         "sourceUrl": "https://neurosciencenews.com/bci-depression-mental-health-31091/"
       },
       {
-        "id": "auto_2026-07-21T01-15_3",
-        "rank": 3,
+        "id": "auto_2026-07-21T06-19_4",
+        "rank": 4,
         "title": "FDA still focused on lettuce supplier as source of parasite, despite faulty test result",
         "category": "biotech",
         "summary": "The FDA said Monday it is still focused on lettuce from Taylor Farms as the source of a multistate outbreak of a diarrhea-causing parasite, despite a faulty test result.",
@@ -34,17 +44,7 @@
         "sourceUrl": "https://www.statnews.com/2026/07/20/cyclospora-lettuce-tests-continue-restaurant-visits-decline/?utm_campaign=rss"
       },
       {
-        "id": "auto_2026-07-21T01-15_4",
-        "rank": 4,
-        "title": "NASA Sets Briefings for SpaceX Crew-13 Mission to Space Station",
-        "category": "space",
-        "summary": "NASA and its partners will discuss the upcoming crew rotation mission to the International Space Station during a pair of news conferences on Monday, Aug. 3, from the agency’s Johnson Space Center in Houston. Mission…",
-        "image": "https://images-assets.nasa.gov/image/jsc2026e040446/jsc2026e040446~large.jpg",
-        "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/news-release/nasa-sets-briefings-for-spacex-crew-13-mission-to-space-station/"
-      },
-      {
-        "id": "auto_2026-07-21T01-15_5",
+        "id": "auto_2026-07-21T06-19_5",
         "rank": 5,
         "title": "China’s AI models have Trump’s AI world at war with itself",
         "category": "ai",
