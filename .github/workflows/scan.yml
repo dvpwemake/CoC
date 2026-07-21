@@ -2,6 +2,7 @@ name: Auto-Scan News
 
 on:
   schedule:
+    # Every 4 hours
     - cron: '0 */4 * * *'
   workflow_dispatch:
 
@@ -22,7 +23,7 @@ jobs:
         with:
           node-version: '24'
 
-      - name: Crawl science news feeds
+      - name: Crawl science + art feeds
         run: node scripts/scan-crawler.js
 
       - name: Commit and push

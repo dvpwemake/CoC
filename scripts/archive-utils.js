@@ -159,10 +159,15 @@ function dedupeSameDayBatches(batches) {
   return [...byDay.values()].sort((a, b) => new Date(b.scannedAt) - new Date(a.scannedAt));
 }
 
+/**
+ * Persist full news history.
+ * Dedupe by batchId only — do NOT collapse multiple historical batches per day
+ * (same-day collapse is applied by scan-crawler for auto_* only before save).
+ */
 function saveArchive(root, batches) {
   const dataDir = path.join(root, 'data');
   fs.mkdirSync(dataDir, { recursive: true });
-  const normalized = dedupeSameDayBatches(batches);
+  const normalized = dedupeBatches(batches);
   fs.writeFileSync(path.join(dataDir, 'archive.json'), JSON.stringify(normalized, null, 2));
 
   const chunkSize = Math.ceil(normalized.length / 4) || 1;

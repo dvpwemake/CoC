@@ -1,5 +1,10 @@
 # Chronicle of Convergence — GitHub Setup & Operations
 
+> **Updated 2026-07-20:** Public site is CoC v2 (editorial ~300w + field signals).  
+> News history is preserved in `data/archive.json` (merged live + historical).  
+> Auto-scan every 4h; editorial draft 9pm ET / publish 8am ET.  
+> Full ops: [DEPLOYMENT_AND_OPERATIONS.md](./DEPLOYMENT_AND_OPERATIONS.md).
+
 Step-by-step guide to deploy **chronicleofconvergence.com** on GitHub Pages and run the automated news crawler. No API key required.
 
 ---

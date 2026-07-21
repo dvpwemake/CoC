@@ -1,0 +1,49 @@
+name: Daily Editorial Draft (9pm ET)
+
+# GitHub cron is UTC. 01:05 + 02:05 UTC cover 21:00 America/New_York in EST and EDT.
+# Script no-ops unless hour==21 ET unless forced via workflow_dispatch.
+on:
+  schedule:
+    - cron: '5 1 * * *'
+    - cron: '5 2 * * *'
+  workflow_dispatch:
+    inputs:
+      force:
+        description: 'Force draft for tomorrow even outside 9pm ET'
+        required: false
+        default: 'true'
+
+permissions:
+  contents: write
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: 'true'
+
+jobs:
+  draft:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - name: Draft editorial for next day (~300 words)
+        env:
+          FORCE_EDITORIAL: ${{ github.event_name == 'workflow_dispatch' && inputs.force || '' }}
+        run: |
+          if [ "$FORCE_EDITORIAL" = "true" ] || [ "$FORCE_EDITORIAL" = "1" ]; then
+            node scripts/editorial-draft.js --force
+          else
+            node scripts/editorial-draft.js
+          fi
+      - name: Commit
+        run: |
+          git config user.name "Chronicle Bot"
+          git config user.email "bot@chronicleofconvergence.com"
+          git add data/editorial.json
+          if git diff --cached --quiet; then
+            echo "No editorial draft changes"
+          else
+            git commit -m "Editorial draft: $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          fi

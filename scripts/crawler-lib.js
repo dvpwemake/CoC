@@ -6,19 +6,45 @@ const BAD_IMG_RE = /unsplash\.com|placeholder|photo-xxx|picsum|loremflickr|logo-
 function decodeEntities(str) {
   return String(str || '')
     .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1')
+    .replace(/&nbsp;/gi, ' ')
+    .replace(/&#160;/g, ' ')
     .replace(/&amp;/g, '&')
     .replace(/&lt;/g, '<')
     .replace(/&gt;/g, '>')
     .replace(/&quot;/g, '"')
-    .replace(/&#039;/g, "'")
+    .replace(/&#0?39;/g, "'")
+    .replace(/&#x27;/gi, "'")
     .replace(/&#8217;/g, "'")
     .replace(/&#8220;/g, '"')
     .replace(/&#8221;/g, '"')
-    .replace(/&#8230;/g, '…');
+    .replace(/&#8230;/g, '…')
+    .replace(/&#(\d+);/g, (_, n) => {
+      const c = Number(n);
+      return c && c < 0x110000 ? String.fromCodePoint(c) : '';
+    });
 }
 
+/**
+ * Plain-text sanitizer for titles/summaries.
+ * Decode entities FIRST, then strip tags (incl. AI <cite index="…">…</cite>),
+ * then drop residual bracket artifacts. Safe for RSS HTML and pasted AI copy.
+ */
 function stripHtml(str) {
-  return decodeEntities(String(str || '').replace(/<[^>]*>/g, ' ')).replace(/\s+/g, ' ').trim();
+  let s = decodeEntities(String(str || ''));
+  // Strip tags (raw). Repeat once in case of nested / leftover after partial decode.
+  for (let i = 0; i < 3; i++) {
+    const next = s.replace(/<[^>]*>/g, ' ');
+    if (next === s) break;
+    s = next;
+  }
+  // AI / research citation leftovers that may appear as bare text
+  s = s
+    .replace(/\[(?:web|post|collection|connector):\d+\]/gi, ' ')
+    .replace(/render_inline_citation\b/gi, ' ')
+    .replace(/\bcite\s+index\s*=\s*["'][^"']*["']/gi, ' ');
+  // Any remaining angle-bracket runs that look like markup
+  s = s.replace(/<\/?[a-zA-Z][^<>]{0,200}>/g, ' ');
+  return s.replace(/\s+/g, ' ').trim();
 }
 
 function extractTag(block, tag) {

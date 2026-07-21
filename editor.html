@@ -8,7 +8,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Outfit:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
 <style>
-:root{--bg:#060609;--bg-card:#0e0e14;--bg-input:#12121a;--bg-hover:#15151e;--text:#eae8e3;--text-dim:#7a7a88;--border:#1e1e2a;--accent:#00e5ff;--danger:#ff2d87;--success:#39ff14;--warning:#ffd600;--ai:#00e5ff;--robotics:#ff2d87;--biotech:#39ff14;--space:#b388ff;--energy:#ffd600;--neuro:#ff6e40;--font-serif:'Instrument Serif',Georgia,serif;--font-sans:'Outfit',system-ui,sans-serif;--font-mono:'JetBrains Mono',monospace}
+:root{--bg:#060609;--bg-card:#0e0e14;--bg-input:#12121a;--bg-hover:#15151e;--text:#eae8e3;--text-dim:#7a7a88;--border:#1e1e2a;--accent:#00e5ff;--danger:#ff2d87;--success:#39ff14;--warning:#ffd600;--ai:#00e5ff;--robotics:#ff2d87;--biotech:#39ff14;--space:#b388ff;--energy:#ffd600;--neuro:#ff6e40;--art:#c4a882;--font-serif:'Instrument Serif',Georgia,serif;--font-sans:'Outfit',system-ui,sans-serif;--font-mono:'JetBrains Mono',monospace}
 *,*::before,*::after{margin:0;padding:0;box-sizing:border-box}
 body{background:var(--bg);color:var(--text);font-family:var(--font-sans);line-height:1.6;-webkit-font-smoothing:antialiased}
 ::selection{background:var(--accent);color:var(--bg)}
@@ -73,7 +73,7 @@ a{color:inherit;text-decoration:none}
 .ei{flex:1;min-width:0}
 .eit{font-size:.62rem;font-weight:500;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:1.2}
 .eic{font-family:var(--font-mono);font-size:.42rem;letter-spacing:.08em;text-transform:uppercase}
-.eic.ai{color:var(--ai)}.eic.robotics{color:var(--robotics)}.eic.biotech{color:var(--biotech)}.eic.space{color:var(--space)}.eic.energy{color:var(--energy)}.eic.neuroscience{color:var(--neuro)}
+.eic.ai{color:var(--ai)}.eic.robotics{color:var(--robotics)}.eic.biotech{color:var(--biotech)}.eic.space{color:var(--space)}.eic.energy{color:var(--energy)}.eic.neuroscience{color:var(--neuro)}.eic.art{color:var(--art)}
 
 .main{padding:1.8rem 2.5rem;max-width:760px}
 .ph{display:flex;align-items:center;justify-content:space-between;margin-bottom:1.5rem;padding-bottom:.8rem;border-bottom:1px solid var(--border)}
@@ -114,33 +114,16 @@ a{color:inherit;text-decoration:none}
 .md pre{background:var(--bg);padding:.8rem;border-radius:6px;font-family:var(--font-mono);font-size:.5rem;overflow-x:auto;max-height:300px;overflow-y:auto;line-height:1.5;color:var(--text-dim);border:1px solid var(--border);white-space:pre-wrap;word-break:break-all}
 .md-a{display:flex;gap:.6rem;margin-top:1.2rem}
 
-.nav-tabs{display:flex;gap:.35rem;padding:.6rem 1.2rem;border-bottom:1px solid var(--border);flex-wrap:wrap}
-.nav-tab{flex:1;min-width:70px;padding:.38rem .5rem;border:1px solid var(--border);border-radius:6px;background:transparent;color:var(--text-dim);font-family:var(--font-mono);font-size:.5rem;letter-spacing:.06em;text-transform:uppercase;cursor:pointer;transition:all .2s}
-.nav-tab:hover{background:var(--bg-hover);color:var(--text)}
-.nav-tab.act{background:var(--accent);color:var(--bg);border-color:var(--accent);font-weight:600}
-
-.src-cats{display:flex;flex-direction:column;gap:.6rem}
-.src-cat{border:1px solid var(--border);border-radius:8px;overflow:hidden;background:var(--bg-input)}
-.src-cat-h{display:flex;align-items:center;justify-content:space-between;padding:.55rem .8rem;cursor:pointer;font-family:var(--font-mono);font-size:.55rem}
-.src-cat-h:hover{background:var(--bg-hover)}
-.src-cat-b{display:none;padding:.6rem .8rem .8rem;border-top:1px solid var(--border)}
-.src-cat.open .src-cat-b{display:block}
-.src-cat-dot{width:8px;height:8px;border-radius:50%;margin-right:.45rem;flex-shrink:0}
-.feed-row{display:grid;grid-template-columns:1fr 2fr auto;gap:.4rem;align-items:start;margin-bottom:.45rem}
-.feed-row .fi{font-size:.68rem}
-.feed-act{display:flex;flex-direction:column;gap:.25rem}
-.feed-act .btn{padding:.28rem .4rem;font-size:.48rem;min-width:28px}
-.src-hint{font-family:var(--font-mono);font-size:.48rem;color:var(--text-dim);line-height:1.6;margin-top:.4rem}
-.src-actions{display:flex;flex-wrap:wrap;gap:.45rem;margin-top:1.2rem;padding-top:1rem;border-top:1px solid var(--border)}
-
-@media(max-width:900px){.layout{grid-template-columns:1fr}.side{position:relative;height:auto;max-height:50vh}.main{padding:1.2rem}.fr{grid-template-columns:1fr}.feed-row{grid-template-columns:1fr;gap:.3rem}}
+@media(max-width:900px){.layout{grid-template-columns:1fr}.side{position:relative;height:auto;max-height:50vh}.main{padding:1.2rem}.fr{grid-template-columns:1fr}}
 </style>
 </head>
 <body>
 <div class="layout">
 <aside class="side">
   <div class="side-hdr">
-    <img src="img/CoC_logo_wh.png" alt="CoC" height="28">
+    <a class="logo-home" href="index.html" aria-label="Home — Chronicle of Convergence" title="Home" style="display:inline-flex;line-height:0">
+      <img class="day-logo" src="img/logo-mark.png" alt="Chronicle of Convergence" height="28">
+    </a>
     <span class="tag">Editor</span>
   </div>
 
@@ -153,12 +136,14 @@ a{color:inherit;text-decoration:none}
     </div>
     <div class="toggle-row"><span>Auto-crawl every 4h</span><label class="tsw"><input type="checkbox" id="autoT" onchange="toggleAuto()"><span class="tsl"></span></label></div>
     <div class="toggle-row"><span>Auto-publish after crawl</span><label class="tsw"><input type="checkbox" id="autoPub" onchange="saveAutoPub()" checked><span class="tsl"></span></label></div>
-    <p style="font-family:var(--font-mono);font-size:.48rem;color:var(--text-dim);line-height:1.6;margin-top:.5rem">8 feeds per category · MIT TR · IEEE · STAT · NASA · Nature · Canary Media + fallbacks</p>
+    <p style="font-family:var(--font-mono);font-size:.48rem;color:var(--text-dim);line-height:1.6;margin-top:.5rem">MIT TR · IEEE · STAT · NASA · Canary · Neuro · Art (Hyperallergic / Colossal) + ScienceDaily</p>
   </div>
 
-  <div class="nav-tabs">
-    <button class="nav-tab act" id="tabNews" onclick="showView('news')">News</button>
-    <button class="nav-tab" id="tabSources" onclick="showView('sources')">Sources</button>
+  <div class="sec" id="edSec">
+    <div class="sec-t">Daily Editorial</div>
+    <p style="font-family:var(--font-mono);font-size:.48rem;color:var(--text-dim);line-height:1.55;margin-bottom:.5rem">Draft by 9pm ET · Auto-publish 8am ET<br>CLI: <code style="font-size:.45rem">node scripts/editorial-draft.js --force</code></p>
+    <button class="btn btn-p" onclick="openEditorial()" style="width:100%;margin-bottom:.4rem">✎ Edit Editorial</button>
+    <button class="btn" onclick="loadEditorialFile()" style="width:100%">↻ Load data/editorial.json</button>
   </div>
 
   <div class="sec side-acts">
@@ -176,11 +161,11 @@ a{color:inherit;text-decoration:none}
   <div class="ws" id="ws">
     <div class="ic">◇</div>
     <h2>Welcome, Editor</h2>
-    <p><span class="sn">1</span> <b>⚡ Crawl &amp; Publish</b> — pulls top stories from configured feeds<br><span class="sn">2</span> <b>Sources</b> tab — add, edit, reorder RSS feeds per category<br><span class="sn">3</span> Export batches or <code style="font-size:.5rem">sources.json</code> for deploy<br><span class="sn">4</span> CLI: <code style="font-size:.5rem">node scripts/scan-crawler.js</code></p>
+    <p><span class="sn">1</span> <b>✎ Edit Editorial</b> — loads <code>data/editorial.json</code> automatically<br><span class="sn">2</span> <b>⚡ Crawl &amp; Publish</b> — news feeds (+ Art)<br><span class="sn">3</span> Serve via local HTTP if file:// blocks fetch<br><span class="sn">4</span> CLI: <code style="font-size:.5rem">node scripts/editorial-draft.js --force</code></p>
   </div>
   <div id="eForm" style="display:none">
     <div class="ph"><h2 class="pt" id="fTitle">New Entry</h2><button class="btn btn-d" onclick="delE()" id="delBtn">✕ Delete</button></div>
-    <div class="fr"><div class="fg"><label class="fl">Rank</label><input type="number" class="fi" id="fR" min="1" max="5" value="1"></div><div class="fg"><label class="fl">Category</label><select class="fsel" id="fC"><option value="ai">AI</option><option value="robotics">Robotics</option><option value="biotech">Biotech</option><option value="space">Space Tech</option><option value="energy">Energy</option><option value="neuroscience">Neuroscience</option></select></div></div>
+    <div class="fr"><div class="fg"><label class="fl">Rank</label><input type="number" class="fi" id="fR" min="1" max="5" value="1"></div><div class="fg"><label class="fl">Category</label><select class="fsel" id="fC"><option value="ai">AI</option><option value="art">Art</option><option value="robotics">Robotics</option><option value="biotech">Biotech</option><option value="space">Space Tech</option><option value="energy">Energy</option><option value="neuroscience">Neuroscience</option></select></div></div>
     <div class="fg"><label class="fl">Headline</label><textarea class="fta" id="fT" placeholder="Breakthrough headline…"></textarea></div>
     <div class="fg"><label class="fl">Summary</label><textarea class="fta" id="fS" placeholder="1–2 sentence summary…" style="min-height:40px"></textarea></div>
     <div class="fg"><label class="fl">Image URL</label><div style="display:flex;gap:.4rem;margin-bottom:.3rem"><input type="url" class="fi" id="fI" placeholder="https://…" style="flex:1"><button type="button" class="btn" onclick="pullImg()" title="Fetch og:image from Source URL">↻ From article</button></div><div class="ip" id="imgP"><span class="ph-t">Preview</span></div></div>
@@ -188,29 +173,35 @@ a{color:inherit;text-decoration:none}
     <div class="fg"><label class="fl">Batch</label><input type="text" class="fi" id="fB" readonly style="color:var(--text-dim)"></div>
     <div class="fa"><button class="btn btn-p" onclick="saveE()">Save</button><button class="btn" onclick="cancelE()">Cancel</button></div>
   </div>
-  <div id="logP" style="display:none"><div class="ph"><h2 class="pt">Scan Log</h2><button class="btn btn-d" onclick="clearLog()">Clear</button></div><div class="log-e" id="logE"></div></div>
-
-  <div id="sourcesP" style="display:none">
-    <div class="ph"><h2 class="pt">Feed Sources</h2><span id="srcBadge" style="font-family:var(--font-mono);font-size:.5rem;color:var(--text-dim)">Loading…</span></div>
-    <p class="src-hint">Configure RSS feeds per category. Primary feed is tried first; fallbacks run if it fails or has no recent articles. Changes save locally in this browser — use <b>Export sources.json</b> to deploy to the repo.</p>
-
-    <div class="fr" style="margin-top:1rem">
-      <div class="fg"><label class="fl">Max article age (hours)</label><input type="number" class="fi" id="srcMaxAge" min="24" max="720" value="336"></div>
-      <div class="fg"><label class="fl">Stories per crawl</label><input type="number" class="fi" id="srcPickCount" min="1" max="10" value="5"></div>
+  
+  <div id="edForm" style="display:none">
+    <div class="ph"><h2 class="pt">Daily Editorial</h2><button class="btn" onclick="hideEd()">← Back</button></div>
+    <div class="fr">
+      <div class="fg"><label class="fl">Publish date (YYYY-MM-DD)</label><input type="text" class="fi" id="edDate"></div>
+      <div class="fg"><label class="fl">Status</label><select class="fsel" id="edStatus"><option value="draft">draft</option><option value="published">published</option></select></div>
     </div>
-    <div class="fg"><label class="fl">Skip title patterns (comma-separated)</label><input type="text" class="fi" id="srcSkip" placeholder="sponsored, advertisement, webinar"></div>
-
-    <div class="bl-t" style="padding-left:0;margin-top:1.2rem">Categories &amp; Feeds</div>
-    <div class="src-cats" id="srcCats"></div>
-
-    <div class="src-actions">
-      <button class="btn btn-p" onclick="saveSources()">Save Sources</button>
-      <button class="btn btn-s" onclick="exportSources()">⤓ Export sources.json</button>
-      <button class="btn" onclick="testAllFeeds()">Test All Feeds</button>
-      <button class="btn" onclick="resetSources()">↺ Reset to Server</button>
+    <div class="fg"><label class="fl">Title</label><input type="text" class="fi" id="edTitle"></div>
+    <div class="fg"><label class="fl">Dek / subtitle</label><input type="text" class="fi" id="edDek"></div>
+    <div class="fg"><label class="fl">Theme label</label><input type="text" class="fi" id="edTheme"></div>
+    <div class="fg"><label class="fl">Body (~300 words, band 280–320)</label><textarea class="fta" id="edBody" style="min-height:180px;font-family:var(--font-serif);font-size:.9rem;line-height:1.6"></textarea>
+      <div style="font-family:var(--font-mono);font-size:.5rem;color:var(--text-dim);margin-top:.3rem">Words: <span id="edWC">0</span></div>
     </div>
-    <div class="log-e" id="srcTestLog" style="margin-top:1rem;max-height:200px;display:none"></div>
+    <div class="fg"><label class="fl">Hero image URL</label><input type="url" class="fi" id="edHero" placeholder="https://… public domain image">
+      <div class="ip" id="edImgP" style="margin-top:.4rem"><span class="ph-t">Hero preview</span></div>
+    </div>
+    <div class="fr">
+      <div class="fg"><label class="fl">Hero credit</label><input type="text" class="fi" id="edHeroCredit"></div>
+      <div class="fg"><label class="fl">Hero source</label><input type="text" class="fi" id="edHeroSource"></div>
+    </div>
+    <div class="fg"><label class="fl">Hero source URL</label><input type="url" class="fi" id="edHeroSourceUrl"></div>
+    <div class="fa">
+      <button class="btn btn-p" onclick="saveEditorial()">Save Editorial (local + export)</button>
+      <button class="btn btn-s" onclick="markPublished()">Mark published + export for index</button>
+      <button class="btn" onclick="hideEd()">Cancel</button>
+    </div>
+    <p style="font-family:var(--font-mono);font-size:.48rem;color:var(--text-dim);margin-top:1rem;line-height:1.6">Saves to browser localStorage and downloads <code>editorial.json</code> for deploy into <code>data/editorial.json</code>. Publish inject: place published object as <code>EMBEDDED_EDITORIAL</code> in index.html or run <code>node scripts/editorial-publish.js --force</code>.</p>
   </div>
+<div id="logP" style="display:none"><div class="ph"><h2 class="pt">Scan Log</h2><button class="btn btn-d" onclick="clearLog()">Clear</button></div><div class="log-e" id="logE"></div></div>
 </main>
 </div>
 
@@ -220,11 +211,40 @@ a{color:inherit;text-decoration:none}
 
 <script src="scripts/crawler-lib.js"></script>
 <script>
-const SK='coc_editor_batches',PK='coc_news_data',LK='coc_scan_log',ATK='coc_auto_scan',APK='coc_auto_pub',SRC_K='coc_sources_cfg';
-const CAT_META={ai:{label:'AI',color:'var(--ai)'},robotics:{label:'Robotics',color:'var(--robotics)'},biotech:{label:'Biotech',color:'var(--biotech)'},space:{label:'Space Tech',color:'var(--space)'},energy:{label:'Energy',color:'var(--energy)'},neuroscience:{label:'Neuroscience',color:'var(--neuro)'}};
-let B=[],eId=null,scanning=false,sTimer=null,cTimer=null,nxt=null,logs=[],sourcesCfg=null,activeView='news';
-try{B=JSON.parse(localStorage.getItem(SK))||[]}catch(e){B=[]}
+const SK='coc_editor_batches',PK='coc_news_data',LK='coc_scan_log',ATK='coc_auto_scan',APK='coc_auto_pub';
+let B=[],eId=null,scanning=false,sTimer=null,cTimer=null,nxt=null,logs=[],sourcesCfg=null;
+
+/** Strip HTML / AI <cite index="…"> markup from titles & summaries (QA: no codes on page). */
+function plainText(str){
+  let s=String(str||'')
+    .replace(/<!\[CDATA\[[\s\S]*?\]\]>/g,'')
+    .replace(/&nbsp;/gi,' ')
+    .replace(/&amp;/g,'&').replace(/&lt;/g,'<').replace(/&gt;/g,'>').replace(/&quot;/g,'"')
+    .replace(/&#0?39;/g,"'").replace(/&#x27;/gi,"'");
+  for(let i=0;i<3;i++){const n=s.replace(/<[^>]*>/g,' ');if(n===s)break;s=n}
+  s=s.replace(/\[(?:web|post|collection|connector):\d+\]/gi,' ')
+    .replace(/render_inline_citation\b/gi,' ')
+    .replace(/\bcite\s+index\s*=\s*["'][^"']*["']/gi,' ')
+    .replace(/<\/?[a-zA-Z][^<>]{0,200}>/g,' ');
+  return s.replace(/\s+/g,' ').trim();
+}
+function scrubItem(it){
+  if(!it||typeof it!=='object') return it;
+  return Object.assign({},it,{
+    title:plainText(it.title).slice(0,150),
+    summary:plainText(it.summary),
+    source:plainText(it.source)
+  });
+}
+function scrubBatches(batches){
+  if(!Array.isArray(batches)) return [];
+  return batches.map(b=>({...b,items:(b.items||[]).map(scrubItem)}));
+}
+
+try{B=scrubBatches(JSON.parse(localStorage.getItem(SK))||[])}catch(e){B=[]}
 try{logs=JSON.parse(localStorage.getItem(LK))||[]}catch(e){logs=[]}
+// Heal any already-polluted editor store
+try{localStorage.setItem(SK,JSON.stringify(B))}catch(e){}
 const aOn=localStorage.getItem(ATK)==='true';
 document.getElementById('autoT').checked=aOn;if(aOn)startAuto();
 document.getElementById('autoPub').checked=localStorage.getItem(APK)!=='false';
@@ -254,165 +274,13 @@ async function pullImg(){
 }
 function saveAutoPub(){localStorage.setItem(APK,document.getElementById('autoPub').checked)}
 
-function cloneCfg(cfg){return JSON.parse(JSON.stringify(cfg))}
-
-async function loadSourcesFromServer(){
-  const r=await fetch('scripts/sources.json',{cache:'no-cache'});
+async function loadSources(){
+  if(sourcesCfg)return sourcesCfg;
+  const r=await fetch('scripts/sources.json');
   if(!r.ok)throw new Error('Could not load sources.json');
-  return await r.json();
-}
-
-async function loadSources(force){
-  if(sourcesCfg&&!force)return sourcesCfg;
-  try{
-    const local=localStorage.getItem(SRC_K);
-    if(local&&!force){sourcesCfg=JSON.parse(local);return sourcesCfg}
-  }catch(e){}
-  sourcesCfg=cloneCfg(await loadSourcesFromServer());
+  sourcesCfg=await r.json();
   return sourcesCfg;
 }
-
-function readSourcesForm(){
-  const cfg=cloneCfg(sourcesCfg||{categories:{}});
-  cfg.maxAgeHours=parseInt(document.getElementById('srcMaxAge').value,10)||336;
-  cfg.pickCount=parseInt(document.getElementById('srcPickCount').value,10)||5;
-  cfg.skipTitlePatterns=document.getElementById('srcSkip').value.split(',').map(s=>s.trim()).filter(Boolean);
-  for(const cat of Object.keys(CAT_META)){
-    if(!cfg.categories[cat])cfg.categories[cat]={feeds:[]};
-    const rows=document.querySelectorAll(`#feeds-${cat} .feed-row`);
-    cfg.categories[cat].feeds=[...rows].map(row=>({
-      name:row.querySelector('[data-f="name"]').value.trim(),
-      url:row.querySelector('[data-f="url"]').value.trim()
-    })).filter(f=>f.name&&f.url);
-  }
-  return cfg;
-}
-
-function renderSources(){
-  const cfg=sourcesCfg;if(!cfg)return;
-  document.getElementById('srcMaxAge').value=cfg.maxAgeHours||336;
-  document.getElementById('srcPickCount').value=cfg.pickCount||5;
-  document.getElementById('srcSkip').value=(cfg.skipTitlePatterns||[]).join(', ');
-  const badge=document.getElementById('srcBadge');
-  badge.textContent=localStorage.getItem(SRC_K)?'Local overrides active':'Using server defaults';
-  badge.style.color=localStorage.getItem(SRC_K)?'var(--warning)':'var(--text-dim)';
-  const wrap=document.getElementById('srcCats');
-  wrap.innerHTML=Object.keys(CAT_META).map(cat=>{
-    const meta=CAT_META[cat];
-    const feeds=(cfg.categories&&cfg.categories[cat]&&cfg.categories[cat].feeds)||[];
-    return`<div class="src-cat open" data-cat="${cat}">
-      <div class="src-cat-h" onclick="toggleSrcCat(this.parentElement)">
-        <span style="display:flex;align-items:center"><span class="src-cat-dot" style="background:${meta.color}"></span>${meta.label}</span>
-        <span style="color:var(--text-dim)">${feeds.length} feed${feeds.length===1?'':'s'}</span>
-      </div>
-      <div class="src-cat-b">
-        <div id="feeds-${cat}">${feeds.map((f,i)=>feedRowHtml(cat,f,i,feeds.length)).join('')}</div>
-        <button class="btn" style="margin-top:.4rem" onclick="addFeedRow('${cat}')">＋ Add feed</button>
-      </div>
-    </div>`;
-  }).join('');
-}
-
-function feedRowHtml(cat,f,i,total){
-  return`<div class="feed-row" data-idx="${i}">
-    <input type="text" class="fi" data-f="name" placeholder="Source name" value="${escAttr(f.name||'')}">
-    <input type="url" class="fi" data-f="url" placeholder="https://…/feed/" value="${escAttr(f.url||'')}">
-    <div class="feed-act">
-      <button class="btn" onclick="moveFeedRow('${cat}',${i},-1)" ${i===0?'disabled':''} title="Move up">↑</button>
-      <button class="btn" onclick="moveFeedRow('${cat}',${i},1)" ${i>=total-1?'disabled':''} title="Move down">↓</button>
-      <button class="btn btn-d" onclick="removeFeedRow('${cat}',${i})" title="Remove">✕</button>
-    </div>
-  </div>`;
-}
-
-function escAttr(s){return String(s||'').replace(/&/g,'&amp;').replace(/"/g,'&quot;').replace(/</g,'&lt;')}
-function toggleSrcCat(el){el.classList.toggle('open')}
-function addFeedRow(cat){
-  sourcesCfg=readSourcesForm();
-  if(!sourcesCfg.categories[cat])sourcesCfg.categories[cat]={feeds:[]};
-  sourcesCfg.categories[cat].feeds.push({name:'',url:''});
-  renderSources();
-}
-function removeFeedRow(cat,idx){
-  sourcesCfg=readSourcesForm();
-  sourcesCfg.categories[cat].feeds.splice(idx,1);
-  renderSources();
-}
-function moveFeedRow(cat,idx,dir){
-  sourcesCfg=readSourcesForm();
-  const feeds=sourcesCfg.categories[cat].feeds;
-  const j=idx+dir;
-  if(j<0||j>=feeds.length)return;
-  [feeds[idx],feeds[j]]=[feeds[j],feeds[idx]];
-  renderSources();
-}
-
-function saveSources(){
-  sourcesCfg=readSourcesForm();
-  for(const cat of Object.keys(CAT_META)){
-    if(!sourcesCfg.categories[cat]||!sourcesCfg.categories[cat].feeds.length){
-      toast(CAT_META[cat].label+' needs at least one feed','warning');return;
-    }
-  }
-  localStorage.setItem(SRC_K,JSON.stringify(sourcesCfg));
-  document.getElementById('srcBadge').textContent='Local overrides active';
-  document.getElementById('srcBadge').style.color='var(--warning)';
-  addLog('ok','Sources saved locally');
-  toast('Sources saved','success');
-}
-
-function exportSources(){
-  const cfg=readSourcesForm();
-  const blob=new Blob([JSON.stringify(cfg,null,2)+'\n'],{type:'application/json'});
-  const a=document.createElement('a');
-  a.href=URL.createObjectURL(blob);
-  a.download='sources.json';
-  a.click();
-  addLog('ok','Exported sources.json — copy to scripts/sources.json in repo');
-  toast('Downloaded sources.json','success');
-}
-
-async function resetSources(){
-  if(!confirm('Reset to server sources.json? Local edits will be lost.'))return;
-  localStorage.removeItem(SRC_K);
-  sourcesCfg=cloneCfg(await loadSourcesFromServer());
-  renderSources();
-  addLog('inf','Sources reset to server defaults');
-  toast('Reset to server defaults','info');
-}
-
-async function testAllFeeds(){
-  const cfg=readSourcesForm();
-  const logEl=document.getElementById('srcTestLog');
-  logEl.style.display='block';
-  logEl.innerHTML='<div class="le"><span class="inf">Testing feeds…</span></div>';
-  let ok=0,fail=0;
-  for(const [cat,meta] of Object.entries(CAT_META)){
-    const feeds=(cfg.categories[cat]&&cfg.categories[cat].feeds)||[];
-    for(const feed of feeds){
-      const line=document.createElement('div');
-      line.className='le';
-      try{
-        const xml=await browserFetch(feed.url);
-        const text=await xml.text();
-        const count=(text.match(/<item[\s>]/gi)||[]).length+(text.match(/<entry[\s>]/gi)||[]).length;
-        if(count>0){line.innerHTML=`<span class="ok">✓</span> [${meta.label}] ${feed.name}: ${count} items`;ok++}
-        else{line.innerHTML=`<span class="er2">✕</span> [${meta.label}] ${feed.name}: empty feed`;fail++}
-      }catch(e){
-        line.innerHTML=`<span class="er2">✕</span> [${meta.label}] ${feed.name}: ${e.message}`;
-        fail++;
-      }
-      logEl.appendChild(line);
-    }
-  }
-  const sum=document.createElement('div');
-  sum.className='le';
-  sum.innerHTML=`<span class="t">Done —</span> <span class="ok">${ok} ok</span>, <span class="er2">${fail} failed</span>`;
-  logEl.insertBefore(sum,logEl.firstChild);
-  toast(`${ok} feeds ok, ${fail} failed`,fail?'warning':'success');
-}
-
-
 
 function browserFetch(url,opts){
   const proxied='https://api.allorigins.win/raw?url='+encodeURIComponent(url);
@@ -431,10 +299,8 @@ async function doScan(){
     const items=await CocCrawler.crawl(cfg,{fetch:browserFetch});
     if(!items.length)throw new Error('No articles found');
     const now=new Date(),bId='batch_'+now.toISOString().replace(/[:.]/g,'-').slice(0,16);
-    const nb={batchId:bId,scannedAt:now.toISOString(),items:items.map((x,i)=>({id:bId+'_'+(i+1),rank:x.rank||(i+1),title:(x.title||'').slice(0,150),category:['ai','robotics','biotech','space','energy','neuroscience'].includes(x.category)?x.category:'ai',summary:x.summary||'',image:x.image||'',source:x.source||'',sourceUrl:x.sourceUrl||'#'}))};
+    const nb={batchId:bId,scannedAt:now.toISOString(),items:items.map((x,i)=>scrubItem({id:bId+'_'+(i+1),rank:x.rank||(i+1),title:(x.title||'').slice(0,150),category:['ai','art','robotics','biotech','space','energy','neuroscience'].includes(x.category)?x.category:'ai',summary:x.summary||'',image:x.image||'',source:x.source||'',sourceUrl:x.sourceUrl||'#'}))};
     items.forEach(it=>addLog('ok',`#${it.rank} [${it.category}] ${it.source}: ${it.title.slice(0,50)}`));
-    const today=nb.scannedAt.slice(0,10);
-    B=B.filter(b=>b.scannedAt.slice(0,10)!==today);
     B.unshift(nb);persist();renderBL();
     addLog('ok',`Done — ${nb.items.length} items. Batch: ${bId}`);
     setSt('idle','Last: '+now.toLocaleTimeString());
@@ -451,7 +317,7 @@ function updCD(){if(!nxt)return;const d=Math.max(0,nxt-Date.now()),h=Math.floor(
 function p(n){return String(n).padStart(2,'0')}
 function setSt(s,t){document.getElementById('sDot').className='dot '+s;document.getElementById('sTxt').textContent=t}
 function addLog(tp,msg){logs.unshift({time:new Date().toISOString(),type:tp,msg});localStorage.setItem(LK,JSON.stringify(logs.slice(0,150)))}
-function showLog(){document.getElementById('ws').style.display='none';document.getElementById('eForm').style.display='none';document.getElementById('sourcesP').style.display='none';document.getElementById('logP').style.display='block';document.getElementById('logE').innerHTML=logs.map(e=>{const c=e.type==='ok'?'ok':e.type==='er2'?'er2':'inf';return`<div class="le"><span class="t">${new Date(e.time).toLocaleString()}</span> — <span class="${c}">${e.msg}</span></div>`}).join('')||'<div class="le" style="color:var(--text-dim)">No entries.</div>'}
+function showLog(){hide();document.getElementById('logP').style.display='block';document.getElementById('logE').innerHTML=logs.map(e=>{const c=e.type==='ok'?'ok':e.type==='er2'?'er2':'inf';return`<div class="le"><span class="t">${new Date(e.time).toLocaleString()}</span> — <span class="${c}">${e.msg}</span></div>`}).join('')||'<div class="le" style="color:var(--text-dim)">No entries.</div>'}
 function clearLog(){logs=[];localStorage.setItem(LK,'[]');showLog();toast('Cleared','info')}
 
 function renderBL(){
@@ -462,44 +328,260 @@ function renderBL(){
 }
 function delB(id){if(!confirm('Delete batch?'))return;B=B.filter(b=>b.batchId!==id);persist();renderBL();hide();toast('Deleted','info')}
 
-function pub(){localStorage.setItem(PK,JSON.stringify(B));toast('Published!','success');addLog('ok','Published.')}
+function pub(){
+  B=scrubBatches(B);persist();
+  // Merge with any existing public feed so prior cards are never wiped on publish
+  let prev=[];
+  try{prev=JSON.parse(localStorage.getItem(PK)||'[]')||[]}catch(e){}
+  const map=new Map();
+  for(const b of [...prev,...B]){
+    const id=b.batchId||b.scannedAt; if(!id) continue;
+    if(!map.has(id)) map.set(id,b);
+    else{
+      const cur=map.get(id);
+      const titles=new Set((cur.items||[]).map(x=>(x.title||'').toLowerCase()));
+      const extra=(b.items||[]).filter(x=>!titles.has((x.title||'').toLowerCase()));
+      if(extra.length) cur.items=(cur.items||[]).concat(extra);
+    }
+  }
+  const merged=[...map.values()].sort((a,b)=>new Date(b.scannedAt)-new Date(a.scannedAt));
+  localStorage.setItem(PK,JSON.stringify(merged));
+  toast('Published!','success');addLog('ok','Published (merged + sanitized).');
+}
 function showExp(){document.getElementById('expJ').textContent=JSON.stringify(B,null,2);document.getElementById('expM').classList.add('sh')}
 function cpExp(){navigator.clipboard.writeText(document.getElementById('expJ').textContent).then(()=>toast('Copied','success'))}
 function dlExp(){const a=document.createElement('a');a.href=URL.createObjectURL(new Blob([JSON.stringify(B,null,2)],{type:'application/json'}));a.download='coc-'+new Date().toISOString().split('T')[0]+'.json';a.click();toast('Downloaded','success')}
 function showImp(){document.getElementById('impJ').value='';document.getElementById('impM').classList.add('sh')}
-function doImp(){try{const d=JSON.parse(document.getElementById('impJ').value);if(!Array.isArray(d))throw new Error('Array expected');B=d;persist();renderBL();hide();closeM('impM');toast('Imported '+B.length+' batches','success')}catch(e){toast(e.message,'warning')}}
+function doImp(){try{const d=JSON.parse(document.getElementById('impJ').value);if(!Array.isArray(d))throw new Error('Array expected');B=scrubBatches(d);persist();renderBL();hide();closeM('impM');toast('Imported '+B.length+' batches (sanitized)','success')}catch(e){toast(e.message,'warning')}}
 function closeM(id){document.getElementById(id).classList.remove('sh')}
 
 function createNew(){eId=null;document.getElementById('fTitle').textContent='New Entry';document.getElementById('delBtn').style.display='none';clrF();const now=new Date();let bId;if(B.length)bId=B[0].batchId;else{bId='batch_'+now.toISOString().replace(/[:.]/g,'-').slice(0,16);B.unshift({batchId:bId,scannedAt:now.toISOString(),items:[]});}document.getElementById('fB').value=bId;showF()}
 function selE(bId,iId){const batch=B.find(b=>b.batchId===bId);if(!batch)return;const it=batch.items.find(x=>x.id===iId);if(!it)return;eId=iId;document.getElementById('fTitle').textContent='Edit';document.getElementById('delBtn').style.display='';document.getElementById('fR').value=it.rank;document.getElementById('fC').value=it.category;document.getElementById('fT').value=it.title;document.getElementById('fS').value=it.summary||'';document.getElementById('fI').value=it.image;document.getElementById('fSr').value=it.source;document.getElementById('fSu').value=it.sourceUrl;document.getElementById('fB').value=bId;updImg(it.image);showF();renderBL()}
-function saveE(){const bId=document.getElementById('fB').value,d={rank:parseInt(document.getElementById('fR').value)||1,category:document.getElementById('fC').value,title:document.getElementById('fT').value.trim(),summary:document.getElementById('fS').value.trim(),image:document.getElementById('fI').value.trim(),source:document.getElementById('fSr').value.trim(),sourceUrl:document.getElementById('fSu').value.trim()};if(!d.title){toast('Title required','warning');return}const batch=B.find(b=>b.batchId===bId);if(!batch)return;if(eId){const i=batch.items.findIndex(x=>x.id===eId);if(i>-1)batch.items[i]={...batch.items[i],...d}}else batch.items.push({id:bId+'_m_'+Date.now(),...d});persist();renderBL();toast('Saved','success')}
+function saveE(){const bId=document.getElementById('fB').value,d=scrubItem({rank:parseInt(document.getElementById('fR').value)||1,category:document.getElementById('fC').value,title:document.getElementById('fT').value.trim(),summary:document.getElementById('fS').value.trim(),image:document.getElementById('fI').value.trim(),source:document.getElementById('fSr').value.trim(),sourceUrl:document.getElementById('fSu').value.trim()});if(!d.title){toast('Title required','warning');return}const batch=B.find(b=>b.batchId===bId);if(!batch)return;if(eId){const i=batch.items.findIndex(x=>x.id===eId);if(i>-1)batch.items[i]={...batch.items[i],...d}}else batch.items.push({id:bId+'_m_'+Date.now(),...d});persist();renderBL();toast('Saved','success')}
 function delE(){if(!eId||!confirm('Delete?'))return;for(const b of B){const i=b.items.findIndex(x=>x.id===eId);if(i>-1){b.items.splice(i,1);break}}B=B.filter(b=>b.items.length>0);eId=null;persist();renderBL();hide();toast('Deleted','info')}
 function cancelE(){eId=null;hide();renderBL()}
 
 function persist(){localStorage.setItem(SK,JSON.stringify(B))}
-async function showView(v){
-  activeView=v;
-  document.getElementById('tabNews').classList.toggle('act',v==='news');
-  document.getElementById('tabSources').classList.toggle('act',v==='sources');
+function showF(){document.getElementById('ws').style.display='none';document.getElementById('logP').style.display='none';document.getElementById('eForm').style.display='block'}
+function hide(){document.getElementById('eForm').style.display='none';document.getElementById('logP').style.display='none';const ef=document.getElementById('edForm');if(ef)ef.style.display='none';document.getElementById('ws').style.display='flex'}
+function clrF(){['fR','fT','fS','fI','fSr','fSu','fB'].forEach(id=>document.getElementById(id).value='');document.getElementById('fC').value='ai';updImg('')}
+function updImg(u){const a=document.getElementById('imgP');if(!u){a.innerHTML='<span class="ph-t">Preview</span>';return}a.innerHTML='<img referrerpolicy="no-referrer">';const img=a.querySelector('img');img.src=u;img.onerror=function(){if(!this.dataset.proxy){this.dataset.proxy='1';this.src='https://images.weserv.nl/?url='+encodeURIComponent(u.replace(/^https?:\/\//,''))+'&w=640&fit=cover';return}this.parentElement.innerHTML='<span class="ph-t">Failed</span>'}}
+function fC(c){return{ai:'AI',art:'Art',robotics:'Robotics',biotech:'Biotech',space:'Space Tech',energy:'Energy',neuroscience:'Neuroscience'}[c]||c}
+function toast(m,t='info'){const e=document.getElementById('tst');e.textContent=m;e.className='toast '+t+' sh';setTimeout(()=>e.classList.remove('sh'),2500)}
+document.querySelectorAll('.mo').forEach(o=>o.addEventListener('click',e=>{if(e.target===o)o.classList.remove('sh')}));
+
+/* ═══ DAILY EDITORIAL ═══ */
+const EK='coc_editorial_store';
+let ED={published:null,drafts:{},history:[]};
+let ED_FILE_LOADED=false;
+// Stale localStorage is NOT trusted as sole source — file always revalidated on open
+try{const _ls=JSON.parse(localStorage.getItem(EK)); if(_ls&&typeof _ls==='object') ED=_ls}catch(e){}
+
+/** America/New_York calendar date YYYY-MM-DD */
+function todayET(){
+  try{
+    const parts=new Intl.DateTimeFormat('en-CA',{timeZone:'America/New_York',year:'numeric',month:'2-digit',day:'2-digit'}).formatToParts(new Date());
+    let y,m,d; parts.forEach(p=>{if(p.type==='year')y=p.value;if(p.type==='month')m=p.value;if(p.type==='day')d=p.value});
+    return y+'-'+m+'-'+d;
+  }catch(e){return new Date().toISOString().slice(0,10)}
+}
+function editorialBodyText(ed){
+  if(!ed) return '';
+  if(ed.body&&String(ed.body).trim()) return String(ed.body).trim();
+  if(ed.paragraphs&&ed.paragraphs.length) return ed.paragraphs.join('\n\n');
+  return '';
+}
+/**
+ * Today's editorial first (backend contract):
+ * 1) draft dated today ET
+ * 2) published dated today ET
+ * 3) live published (any date)
+ * 4) nearest draft (not future-first bias)
+ */
+function pickEditorialForForm(){
+  const today=todayET();
+  const drafts=ED.drafts||{};
+  if(drafts[today]&&(drafts[today].title||editorialBodyText(drafts[today]))) return drafts[today];
+  if(ED.published&&ED.published.publishDate===today&&(ED.published.title||editorialBodyText(ED.published))) return ED.published;
+  if(ED.published&&(ED.published.title||editorialBodyText(ED.published))) return ED.published;
+  const keys=Object.keys(drafts).sort().reverse();
+  for(const k of keys){
+    if(drafts[k]&&(drafts[k].title||editorialBodyText(drafts[k]))) return drafts[k];
+  }
+  return {};
+}
+function fillEditorialForm(ed){
+  ed=ed||{};
+  const body=editorialBodyText(ed);
+  document.getElementById('edDate').value=ed.publishDate||todayET();
+  document.getElementById('edStatus').value=ed.status||(ed.publishDate===todayET()&&ED.published&&ED.published.publishDate===todayET()?'published':'draft');
+  document.getElementById('edTitle').value=ed.title||'';
+  document.getElementById('edDek').value=ed.dek||'';
+  document.getElementById('edTheme').value=ed.themeLabel||'';
+  document.getElementById('edBody').value=body;
+  document.getElementById('edHero').value=ed.heroImage||'';
+  document.getElementById('edHeroCredit').value=ed.heroCredit||'';
+  document.getElementById('edHeroSource').value=ed.heroSource||'';
+  document.getElementById('edHeroSourceUrl').value=ed.heroSourceUrl||'';
+  updEdImg(ed.heroImageProxy||ed.heroImage||'');
+  countEdWords();
+}
+/**
+ * Backend: always fetch data/editorial.json (source of truth).
+ * Merge file published + usedHeroImages; keep only newer local drafts if any.
+ */
+async function ensureEditorialLoaded(force){
+  if(!force && ED_FILE_LOADED && ED.published && editorialBodyText(ED.published)) return ED;
+  try{
+    const r=await fetch('data/editorial.json',{cache:'no-cache'});
+    if(!r.ok) throw new Error('HTTP '+r.status);
+    const file=await r.json();
+    const localDrafts=Object.assign({}, (ED&&ED.drafts)||{});
+    // File wins for published + history + hero ledger
+    ED={
+      published:file.published||null,
+      drafts:Object.assign({}, file.drafts||{}),
+      history:file.history||[],
+      usedHeroImages:file.usedHeroImages||[]
+    };
+    // Local draft wins only if same date and local updatedAt is newer
+    for(const [date,ld] of Object.entries(localDrafts)){
+      const fd=ED.drafts[date];
+      const lu=ld&&ld.updatedAt||'';
+      const fu=fd&&fd.updatedAt||'';
+      if(!fd || lu>fu) ED.drafts[date]=ld;
+    }
+    ED_FILE_LOADED=true;
+    localStorage.setItem(EK,JSON.stringify(ED));
+    if(ED.published) localStorage.setItem('coc_editorial_pub',JSON.stringify(ED.published));
+    addLog('ok','Editorial backend loaded · today ET '+todayET()+' · published '+(ED.published&&ED.published.publishDate||'—'));
+  }catch(e){
+    addLog('er2','Editorial preload: '+e.message+' (need http:// not file://)');
+    // fall back to whatever is in memory/localStorage
+  }
+  return ED;
+}
+async function openEditorial(){
+  hide();
   document.getElementById('ws').style.display='none';
   document.getElementById('eForm').style.display='none';
   document.getElementById('logP').style.display='none';
-  document.getElementById('sourcesP').style.display='none';
-  if(v==='sources'){
-    document.getElementById('sourcesP').style.display='block';
-    await loadSources();
-    renderSources();
+  document.getElementById('edForm').style.display='block';
+  toast('Loading today’s editorial…','info');
+  await ensureEditorialLoaded(true); // always revalidate from backend file
+  const ed=pickEditorialForForm();
+  fillEditorialForm(ed);
+  const body=editorialBodyText(ed);
+  if(ed.title||body){
+    toast('Loaded '+(ed.publishDate||'')+' · '+(ed.status||'')+' · ~'+(body.split(/\s+/).filter(Boolean).length)+' words','success');
   }else{
-    document.getElementById('ws').style.display='flex';
+    toast('No editorial for today — run draft CLI or paste body','warning');
   }
 }
-function showF(){document.getElementById('ws').style.display='none';document.getElementById('logP').style.display='none';document.getElementById('sourcesP').style.display='none';document.getElementById('eForm').style.display='block';document.getElementById('tabNews').classList.add('act');document.getElementById('tabSources').classList.remove('act');activeView='news'}
-function hide(){document.getElementById('eForm').style.display='none';document.getElementById('logP').style.display='none';document.getElementById('sourcesP').style.display='none';document.getElementById('ws').style.display='flex';document.getElementById('tabNews').classList.add('act');document.getElementById('tabSources').classList.remove('act');activeView='news'}
-function clrF(){['fR','fT','fS','fI','fSr','fSu','fB'].forEach(id=>document.getElementById(id).value='');document.getElementById('fC').value='ai';updImg('')}
-function updImg(u){const a=document.getElementById('imgP');if(!u){a.innerHTML='<span class="ph-t">Preview</span>';return}a.innerHTML='<img referrerpolicy="no-referrer">';const img=a.querySelector('img');img.src=u;img.onerror=function(){if(!this.dataset.proxy){this.dataset.proxy='1';this.src='https://images.weserv.nl/?url='+encodeURIComponent(u.replace(/^https?:\/\//,''))+'&w=640&fit=cover';return}this.parentElement.innerHTML='<span class="ph-t">Failed</span>'}}
-function fC(c){return{ai:'AI',robotics:'Robotics',biotech:'Biotech',space:'Space Tech',energy:'Energy',neuroscience:'Neuroscience'}[c]||c}
-function toast(m,t='info'){const e=document.getElementById('tst');e.textContent=m;e.className='toast '+t+' sh';setTimeout(()=>e.classList.remove('sh'),2500)}
-document.querySelectorAll('.mo').forEach(o=>o.addEventListener('click',e=>{if(e.target===o)o.classList.remove('sh')}));
+function hideEd(){document.getElementById('edForm').style.display='none';hide()}
+function countEdWords(){
+  const w=(document.getElementById('edBody').value||'').trim().split(/\s+/).filter(Boolean).length;
+  document.getElementById('edWC').textContent=w;
+}
+document.getElementById('edBody')&&document.getElementById('edBody').addEventListener('input',countEdWords);
+document.getElementById('edHero')&&document.getElementById('edHero').addEventListener('input',e=>updEdImg(e.target.value));
+function heroProxy(u){
+  if(!u) return '';
+  if(/weserv\.nl/.test(u)) return u;
+  return 'https://images.weserv.nl/?url='+encodeURIComponent(String(u).replace(/^https?:\/\//,''))+'&w=960&h=540&fit=cover&we&output=jpg';
+}
+function updEdImg(u){
+  const a=document.getElementById('edImgP');if(!a)return;
+  if(!u){a.innerHTML='<span class="ph-t">Hero preview</span>';return}
+  const prox=heroProxy(u);
+  a.innerHTML='<img referrerpolicy="no-referrer" alt="hero">';
+  const img=a.querySelector('img');
+  img.src=prox;
+  img.onerror=function(){
+    if(!this.dataset.raw){ this.dataset.raw='1'; this.src=u; return; }
+    this.parentElement.innerHTML='<span class="ph-t">Failed to load hero — check URL</span>';
+  };
+}
+function collectEditorial(){
+  const body=document.getElementById('edBody').value.trim();
+  const paragraphs=body.split(/\n\n+/).map(p=>p.trim()).filter(Boolean);
+  const wc=body.split(/\s+/).filter(Boolean).length;
+  return{
+    id:'ed_'+document.getElementById('edDate').value,
+    publishDate:document.getElementById('edDate').value,
+    status:document.getElementById('edStatus').value,
+    updatedAt:new Date().toISOString(),
+    title:document.getElementById('edTitle').value.trim(),
+    dek:document.getElementById('edDek').value.trim(),
+    themeLabel:document.getElementById('edTheme').value.trim(),
+    body:body,
+    paragraphs:paragraphs,
+    wordCount:wc,
+    heroImage:document.getElementById('edHero').value.trim(),
+    heroCredit:document.getElementById('edHeroCredit').value.trim(),
+    heroSource:document.getElementById('edHeroSource').value.trim(),
+    heroSourceUrl:document.getElementById('edHeroSourceUrl').value.trim()
+  };
+}
+function saveEditorial(){
+  const ed=collectEditorial();
+  if(!ed.title||!ed.body){toast('Title and body required','warning');return}
+  if(!ED.drafts)ED.drafts={};
+  if(ed.status==='published'){
+    ED.published=ed;
+    localStorage.setItem('coc_editorial_pub',JSON.stringify(ed));
+  }else{
+    ED.drafts[ed.publishDate]=ed;
+  }
+  localStorage.setItem(EK,JSON.stringify(ED));
+  dlEditorialStore();
+  toast('Editorial saved (~'+ed.wordCount+' words)','success');
+  addLog('ok','Editorial saved '+ed.publishDate);
+}
+function markPublished(){
+  document.getElementById('edStatus').value='published';
+  const ed=collectEditorial();
+  ed.status='published';
+  ed.publishedAt=new Date().toISOString();
+  ED.published=ed;
+  if(ED.drafts)delete ED.drafts[ed.publishDate];
+  ED.history=[ed].concat(ED.history||[]).slice(0,40);
+  localStorage.setItem(EK,JSON.stringify(ED));
+  localStorage.setItem('coc_editorial_pub',JSON.stringify(ed));
+  dlEditorialStore();
+  // also download EMBEDDED snippet
+  const snip='const EMBEDDED_EDITORIAL = '+JSON.stringify(ed,null,2)+';';
+  const a=document.createElement('a');
+  a.href=URL.createObjectURL(new Blob([snip],{type:'text/javascript'}));
+  a.download='EMBEDDED_EDITORIAL-'+ed.publishDate+'.js';
+  a.click();
+  toast('Marked published + exports ready','success');
+}
+function dlEditorialStore(){
+  const a=document.createElement('a');
+  a.href=URL.createObjectURL(new Blob([JSON.stringify(ED,null,2)],{type:'application/json'}));
+  a.download='editorial.json';
+  a.click();
+}
+async function loadEditorialFile(){
+  ED_FILE_LOADED=false;
+  await ensureEditorialLoaded(true);
+  if(ED.published||Object.keys(ED.drafts||{}).length){
+    toast('Loaded editorial.json (backend)','success');
+    openEditorial();
+  }else toast('data/editorial.json empty or missing — use a local server (not file://)','warning');
+}
+// Auto-preload editorial store on editor open (requires http:// not file://)
+ensureEditorialLoaded(true).then(()=>{
+  const pub=ED.published;
+  const body=editorialBodyText(pub);
+  const n=(pub?1:0)+Object.keys(ED.drafts||{}).length;
+  if(n) addLog('ok','Editorial ready · today '+todayET()+' · published '+(pub&&pub.publishDate||'—')+' · ~'+(body?body.split(/\s+/).filter(Boolean).length:0)+'w · '+n+' item(s)');
+});
+
+
 </script>
+<script src="scripts/logo-day.js"></script>
+<script>try{CoCLogoDay.applyDayLogo('.day-logo',{mode:'dark'})}catch(e){}</script>
 </body>
 </html>

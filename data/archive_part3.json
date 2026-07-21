@@ -1,281 +1,872 @@
 [
   {
-    "batchId": "auto_2026-06-29T21-14",
-    "scannedAt": "2026-06-29T21:14:46.695Z",
+    "scannedAt": "2026-06-06T17:34:10.417Z",
     "items": [
       {
-        "id": "auto_2026-06-29T21-14_1",
+        "id": "b1780767250417_1",
         "rank": 1,
-        "title": "Comforting Others Is a Cultural Trait, Not a Universal Instinct",
-        "category": "neuroscience",
-        "summary": "Comforting others is a culturally bounded motive rather than a universal human instinct. While individualistic societies actively try to eliminate a peer's distress to foster intimacy, collectivistic cultures…",
-        "image": "https://neurosciencenews.com/files/2026/06/cultural-empathy-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/culture-empathy-interpersonal-emotion-30963/"
-      },
-      {
-        "id": "auto_2026-06-29T21-14_2",
-        "rank": 2,
-        "title": "STAT+: AstraZeneca to pay $34 million to settle kickback charges filed by Texas attorney general",
-        "category": "biotech",
-        "summary": "AstraZeneca agreed to pay $34 million to settle claims that the company paid kickbacks to improperly influence prescriptions paid for by Texas Medicaid.",
-        "image": "https://www.statnews.com/wp-content/uploads/2024/03/GettyImages-1213413730-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/pharmalot/2026/06/29/astrazeneca-kickback-charges-texas-settlement/?utm_campaign=rss"
-      },
-      {
-        "id": "auto_2026-06-29T21-14_3",
-        "rank": 3,
-        "title": "AI agents are not your \"coworkers\"",
+        "title": "OpenAI Unveils Revolutionary Memory Architecture in ChatGPT Plus with Dreaming V3",
         "category": "ai",
-        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine coming in to work to learn that a new underling will report to you. The…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/260625_AIAgents.jpg?resize=1200,600",
-        "source": "MIT Technology Review",
-        "sourceUrl": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/"
+        "summary": "OpenAI launched its most significant memory upgrade since the original ChatGPT rollout. The new Dreaming V3 architecture began reaching ChatGPT Plus and Pro users in the United States on June 4, 2026, featuring enhanced contextual understanding and persistent memory capabilities that allow AI to maintain conversations across sessions. This breakthrough addresses the longstanding limitation of working memory in large language models.",
+        "source": "BuildFastWithAI",
+        "sourceUrl": "https://www.buildfastwithai.com/blogs/ai-news-today-june-6-2026",
+        "image": "https://oukdqujzonxvqhiefdsv.supabase.co/storage/v1/object/public/blogs/b3f3ef52-ed94-4a00-8373-6ed95b1bf177.png",
+        "imageProxy": "https://images.weserv.nl/?url=oukdqujzonxvqhiefdsv.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fblogs%2Fb3f3ef52-ed94-4a00-8373-6ed95b1bf177.png&w=640&h=400&fit=cover&we&output=jpg"
       },
       {
-        "id": "auto_2026-06-29T21-14_4",
-        "rank": 4,
-        "title": "ESA to seek lunar mapping capability for Argonaut lander",
-        "category": "space",
-        "summary": "MILAN — The European Space Agency will rely on external lunar topographic data during the design phase of its Argonaut lunar lander, and possibly for its first mission, while working […] The post ESA to seek lunar…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/Artist_s_view_of_the_Argonaut_lunar_lander-scaled.jpg?fit=1024%2C625&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/esa-to-seek-lunar-mapping-capability-for-argonaut-lander/"
-      },
-      {
-        "id": "auto_2026-06-29T21-14_5",
-        "rank": 5,
-        "title": "A year after US Steel was sold, communities push for clean investment",
-        "category": "energy",
-        "summary": "A year ago this month, Japan’s Nippon Steel acquired U.S. Steel, promising to plow $14 billion into America’s legendary but long-declining steel industry. The hard-fought deal was controversial and highly politicized .…",
-        "image": "https://img.canarymedia.com/content/uploads/Gary-Works-rooftop-view.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=04a83af6341e3db8a87833029e1c8b3f",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/green-steel/year-after-us-steel-sold"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-06-28T20-48",
-    "scannedAt": "2026-06-28T20:48:02.864Z",
-    "items": [
-      {
-        "id": "auto_2026-06-28T20-48_1",
-        "rank": 1,
-        "title": "Hearing Aids Linked to 23% Lower Dementia Risk in Epilepsy",
-        "category": "neuroscience",
-        "summary": "Hearing aid use is associated with a 23% lower risk of dementia exclusively in adults with both epilepsy and hearing loss, likely due to the critical preservation of depleted cognitive reserve.",
-        "image": "https://neurosciencenews.com/files/2026/06/hearing-aid-dementia-epilepsy-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/hearing-aids-epilepsy-dementia-30956/"
-      },
-      {
-        "id": "auto_2026-06-28T20-48_2",
+        "id": "b1780767250417_2",
         "rank": 2,
-        "title": "Opinion: Supreme Court ruling on Roundup points to a confusing difference between the law and science",
-        "category": "biotech",
-        "summary": "The Supreme Court’s ruling on Roundup shows science and law use the same word — causation — while asking different questions, writes epidemiologist.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/06/GettyImages-2283306424-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/06/27/roundup-glyphosate-cancer-monsanto-v-durnell-supreme-court/?utm_campaign=rss"
-      },
-      {
-        "id": "auto_2026-06-28T20-48_3",
-        "rank": 3,
-        "title": "Rocket Lab launches 10th Synspective satellite",
-        "category": "space",
-        "summary": "Rocket Lab launched a radar-imaging satellite for Japanese company Synspective on June 26, a flight delayed by a responsive space mission. The post Rocket Lab launches 10th Synspective satellite appeared first on…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/electron-strix10.jpeg?fit=1024%2C556&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/rocket-lab-launches-10th-synspective-satellite/"
-      },
-      {
-        "id": "auto_2026-06-28T20-48_4",
-        "rank": 4,
-        "title": "These states are the best for EV buyers and drivers",
-        "category": "energy",
-        "summary": "America’s EV industry has suffered a series of bad breaks over the last year and a half. The end of federal tax credits for electric vehicles sent sales of new EVs off a cliff last fall. A nationwide buildout of…",
-        "image": "https://img.canarymedia.com/content/uploads/GettyImages-2269134706.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=7598837099e3c9f365da521da01718f1",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/electric-vehicles/these-states-are-the-best-for-ev-buyers-and-drivers"
-      },
-      {
-        "id": "auto_2026-06-28T20-48_5",
-        "rank": 5,
-        "title": "Video Friday: Give Robots a Hand",
+        "title": "NVIDIA Releases New Physical AI Models for Next-Generation Humanoid Robots",
         "category": "robotics",
-        "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us…",
-        "image": "https://spectrum.ieee.org/media-library/three-fingered-robotic-gripper-arm-crawls-upright-on-a-white-table.gif?id=67036633&width=980",
-        "source": "IEEE Spectrum",
-        "sourceUrl": "https://spectrum.ieee.org/video-friday-robot-grippers"
+        "summary": "NVIDIA unveiled breakthrough physical AI models including Cosmos Predict 2.5 and Isaac GR00T N1.6, purpose-built for humanoid robots. The new models enable full body control and use NVIDIA Cosmos Reason for better reasoning and contextual understanding in real-world environments. Figure AI achieved a major production milestone with its BotQ factory now producing Figure 03 robots at 1 robot per hour.",
+        "source": "NVIDIA Newsroom",
+        "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-releases-new-physical-ai-models-as-global-partners-unveil-next-generation-robots",
+        "image": "https://iprsoftwaremedia.com/219/files/202601/695aea8f3d63328b7eb8544b_ces-2026-global-robotics-partners/ces-2026-global-robotics-partners_5fce44ba-1bd9-4171-88ed-b508cdfe0103-prv.jpg",
+        "imageProxy": "https://images.weserv.nl/?url=iprsoftwaremedia.com%2F219%2Ffiles%2F202601%2F695aea8f3d63328b7eb8544b_ces-2026-global-robotics-partners%2Fces-2026-global-robotics-partners_5fce44ba-1bd9-4171-88ed-b508cdfe0103-prv.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780767250417_3",
+        "rank": 3,
+        "title": "Revolutionary Hydrogen Breakthrough Turns Waste Heat Into Clean Fuel",
+        "category": "energy",
+        "summary": "Researchers at the University of Birmingham developed a perovskite-based catalyst that splits water into hydrogen at much lower temperatures than existing technologies. This breakthrough allows factories, steel plants, and renewable energy sites to turn waste heat into valuable hydrogen, potentially making clean fuel far cheaper and easier to generate at industrial scale.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260601025345.htm",
+        "image": "https://www.sciencedaily.com/images/1920/green-energy-hydrogen-pipelines-wind-turbines.webp",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fgreen-energy-hydrogen-pipelines-wind-turbines.webp&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780767250417_4",
+        "rank": 4,
+        "title": "Gates-Backed Commonwealth Fusion Validates Physics for Commercial Power Plant",
+        "category": "energy",
+        "summary": "Commonwealth Fusion Systems, which has raised almost $3 billion from investors including Bill Gates' Breakthrough Energy Ventures and Nvidia's venture arm, announced that five peer-reviewed papers validate the physics underpinning its first commercial-scale fusion power plant. The company is targeting the early 2030s to put energy on the grid from a 400-megawatt facility in Virginia, enough to power 280,000 homes.",
+        "source": "Bloomberg",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-04/gates-backed-commonwealth-fusion-says-its-tech-validated-to-make-power",
+        "image": "https://www.sciencedaily.com/images/1920/bessy-ii-superconducting-tes-array-x-ray-spectrometer.webp",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fbessy-ii-superconducting-tes-array-x-ray-spectrometer.webp&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780767250417_5",
+        "rank": 5,
+        "title": "Scientists Discover Hidden Neural Circuit Controlling Anxiety and Social Behavior",
+        "category": "neuroscience",
+        "summary": "A newly identified group of amygdala neurons appears to play a central role in anxiety and social behavior. Researchers found that restoring normal activity in this tiny brain circuit reversed anxiety and social deficits in mice, revealing a promising therapeutic target. This breakthrough could lead to new treatments for anxiety disorders and autism spectrum conditions by targeting specific neural circuits rather than broad brain regions.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/news/mind_brain/neuroscience/",
+        "image": "https://www.sciencedaily.com/images/scidaily-icon.png",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2Fscidaily-icon.png&w=640&h=400&fit=cover&we&output=jpg"
       }
-    ]
+    ],
+    "batchId": "b1780767250417"
   },
   {
-    "batchId": "auto_2026-06-27T20-45",
-    "scannedAt": "2026-06-27T20:45:56.064Z",
+    "scannedAt": "2026-06-06T14:05:29.391Z",
     "items": [
       {
-        "id": "auto_2026-06-27T20-45_1",
-        "rank": 1,
-        "title": "Hearing Aids Linked to 23% Lower Dementia Risk in Epilepsy",
-        "category": "neuroscience",
-        "summary": "Hearing aid use is associated with a 23% lower risk of dementia exclusively in adults with both epilepsy and hearing loss, likely due to the critical preservation of depleted cognitive reserve.",
-        "image": "https://neurosciencenews.com/files/2026/06/hearing-aid-dementia-epilepsy-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/hearing-aids-epilepsy-dementia-30956/"
-      },
-      {
-        "id": "auto_2026-06-27T20-45_2",
+        "id": "b1780754729391_2",
         "rank": 2,
-        "title": "Opinion: Supreme Court ruling on Roundup points to a confusing difference between the law and science",
-        "category": "biotech",
-        "summary": "The Supreme Court’s ruling on Roundup shows science and law use the same word — causation — while asking different questions, writes epidemiologist.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/06/GettyImages-2283306424-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/06/27/roundup-glyphosate-cancer-monsanto-v-durnell-supreme-court/?utm_campaign=rss"
-      },
-      {
-        "id": "auto_2026-06-27T20-45_3",
-        "rank": 3,
-        "title": "NASA Announces Winners for 2026 Human Lander Challenge",
-        "category": "space",
-        "summary": "NASA has announced the top student-developed solutions for environmental control and life support systems in future crewed lunar landers from participants in the 2026 Human Lander Challenge. The announcement marks the…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/06/ceb-6192.jpg",
-        "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-announces-winners-for-2026-human-lander-challenge/"
-      },
-      {
-        "id": "auto_2026-06-27T20-45_4",
-        "rank": 4,
-        "title": "These states are the best for EV buyers and drivers",
-        "category": "energy",
-        "summary": "America’s EV industry has suffered a series of bad breaks over the last year and a half. The end of federal tax credits for electric vehicles sent sales of new EVs off a cliff last fall. A nationwide buildout of…",
-        "image": "https://img.canarymedia.com/content/uploads/GettyImages-2269134706.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=7598837099e3c9f365da521da01718f1",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/electric-vehicles/these-states-are-the-best-for-ev-buyers-and-drivers"
-      },
-      {
-        "id": "auto_2026-06-27T20-45_5",
-        "rank": 5,
-        "title": "Video Friday: Give Robots a Hand",
-        "category": "robotics",
-        "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us…",
-        "image": "https://spectrum.ieee.org/media-library/three-fingered-robotic-gripper-arm-crawls-upright-on-a-white-table.gif?id=67036633&width=980",
-        "source": "IEEE Spectrum",
-        "sourceUrl": "https://spectrum.ieee.org/video-friday-robot-grippers"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-06-26T21-10",
-    "scannedAt": "2026-06-26T21:10:46.383Z",
-    "items": [
-      {
-        "id": "auto_2026-06-26T21-10_1",
-        "rank": 1,
-        "title": "NASA Announces Winners for 2026 Human Lander Challenge",
-        "category": "space",
-        "summary": "NASA has announced the top student-developed solutions for environmental control and life support systems in future crewed lunar landers from participants in the 2026 Human Lander Challenge. The announcement marks the…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/06/ceb-6192.jpg",
-        "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-announces-winners-for-2026-human-lander-challenge/"
-      },
-      {
-        "id": "auto_2026-06-26T21-10_2",
-        "rank": 2,
-        "title": "Dual Brain-Machine Interfaces Unlock Bionic Hand Kinesthesia",
-        "category": "neuroscience",
-        "summary": "A new study combining data from two distinct brain-machine interfaces has revealed that the human brain processes artificial movement sensations as coordinated, subconscious hand synergies rather than isolated muscle…",
-        "image": "https://neurosciencenews.com/files/2026/06/bionic-arm-movement-bmi-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/prosthetic-kinesthesia-brain-machine-interface-30954/"
-      },
-      {
-        "id": "auto_2026-06-26T21-10_3",
-        "rank": 3,
-        "title": "These states are the best for EV buyers and drivers",
-        "category": "energy",
-        "summary": "America’s EV industry has suffered a series of bad breaks over the last year and a half. The end of federal tax credits for electric vehicles sent sales of new EVs off a cliff last fall. A nationwide buildout of…",
-        "image": "https://img.canarymedia.com/content/uploads/GettyImages-2269134706.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=7598837099e3c9f365da521da01718f1",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/electric-vehicles/these-states-are-the-best-for-ev-buyers-and-drivers"
-      },
-      {
-        "id": "auto_2026-06-26T21-10_4",
-        "rank": 4,
-        "title": "BIO 2026: AI, federal policy impacts, and general vibes",
-        "category": "biotech",
-        "summary": "What were the vibes like at BIO 2026? STAT reporters take you inside the annual industry conference on the latest episode of STATus Report.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/06/SR_41_STILL-2-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/06/26/bio-2026-san-diego-key-takeaways-status-report-alex-hogan/?utm_campaign=rss"
-      },
-      {
-        "id": "auto_2026-06-26T21-10_5",
-        "rank": 5,
-        "title": "Video Friday: Give Robots a Hand",
-        "category": "robotics",
-        "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us…",
-        "image": "https://spectrum.ieee.org/media-library/three-fingered-robotic-gripper-arm-crawls-upright-on-a-white-table.gif?id=67036633&width=980",
-        "source": "IEEE Spectrum",
-        "sourceUrl": "https://spectrum.ieee.org/video-friday-robot-grippers"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-06-25T21-19",
-    "scannedAt": "2026-06-25T21:19:33.819Z",
-    "items": [
-      {
-        "id": "auto_2026-06-25T21-19_1",
-        "rank": 1,
-        "title": "NASA, US Small Business Administration to Announce Partnership",
-        "category": "space",
-        "summary": "NASA and the U.S. Small Business Administration will sign a memorandum of agreement during a ceremony at 1 p.m. EDT, Monday, June 29, at NASA Headquarters in Washington. The agreement will create a new interagency…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
-        "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/news-release/nasa-us-small-business-administration-to-announce-partnership/"
-      },
-      {
-        "id": "auto_2026-06-25T21-19_2",
-        "rank": 2,
-        "title": "Canine Cognitive Decline Alters Gait",
-        "category": "neuroscience",
-        "summary": "Researchers established that canine cognitive decline is directly associated with a shortened stride length in dogs' front limbs. Because thoracic limbs require heavy cortical control for balance and spatial awareness,…",
-        "image": "https://neurosciencenews.com/files/2026/06/canine-gait-cognitive-decline-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/dog-dementia-gait-stride-length-30955/"
-      },
-      {
-        "id": "auto_2026-06-25T21-19_3",
-        "rank": 3,
-        "title": "New ACIP charter broadens criteria for members, calls for review of alternatives to vaccines",
-        "category": "biotech",
-        "summary": "A new charter for the panel that advises the CDC on vaccine use substantially refocuses the responsibilities of the committee, downplaying its role in recommending the use of new vaccines.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/06/GettyImages-2249461848-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/06/25/acip-charter-responsibilities-rfk-jr/?utm_campaign=rss"
-      },
-      {
-        "id": "auto_2026-06-25T21-19_4",
-        "rank": 4,
-        "title": "Massachusetts Senate preserves energy-efficiency funding in new bill",
-        "category": "energy",
-        "summary": "The Massachusetts Senate on Wednesday unveiled its long-awaited energy legislation, a wide-ranging bill that touches on dozens of topics from plug-in solar to renewable energy procurement. Sponsors say the measures…",
-        "image": "https://img.canarymedia.com/content/uploads/Massachusetts-statehouse-golden-dome_GettyImages-2264475594.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=45304341fb72fc57b59e14b5dfd36bbb",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/energy-efficiency/massachusetts-senate-preserves-energy-efficiency-funding"
-      },
-      {
-        "id": "auto_2026-06-25T21-19_5",
-        "rank": 5,
-        "title": "Repositioning retail for the AI era",
+        "title": "Scientists Discover Hidden Quantum Complexity Inside Common Cobalt Metal",
         "category": "ai",
-        "summary": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/MITTRIInfosysMacys-social-1200px.png?resize=1200,600",
-        "source": "MIT Technology Review",
-        "sourceUrl": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/"
+        "summary": "Researchers uncovered unexpected quantum complexity in cobalt, revealing a dense network of topological electronic states that remain robust at room temperature. These quantum states enable extremely fast electron behavior and can be switched or controlled using magnetism, potentially opening new paths toward next-generation computing and spin-based devices. Cobalt can now be considered a highly tunable topological platform, opening new perspectives for exploiting magnetic topological states in future information technologies.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260604044255.htm",
+        "image": "https://www.sciencedaily.com/images/1920/crystal-blue-moonstone-labradorite-stone-cobalt.webp",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fcrystal-blue-moonstone-labradorite-stone-cobalt.webp&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780754729391_3",
+        "rank": 3,
+        "title": "Revolutionary Pancreatic Cancer Drug Nearly Doubles Patient Survival",
+        "category": "biotech",
+        "summary": "A new drug called daraxonrasib targets the KRAS mutation that drives most pancreatic tumors, nearly doubling survival for patients with advanced disease and reducing death risk by 60%. In a Phase 3 trial of 500 patients, daraxonrasib increased overall survival from 6.7 months to 13.2 months compared to standard chemotherapy. By successfully targeting the specific genetic mutation that drives the vast majority of pancreatic cancers, researchers demonstrated that this previously \"undruggable\" disease is treatable with targeted therapy.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260604044247.htm",
+        "image": "https://www.sciencedaily.com/images/1920/bright-glowing-cancer-cell-destruction.webp",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fbright-glowing-cancer-cell-destruction.webp&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780754729391_4",
+        "rank": 4,
+        "title": "Breakthrough Hydrogen Production Method Cuts Energy Requirements by 500°C",
+        "category": "energy",
+        "summary": "University of Birmingham researchers developed a perovskite-based catalyst that splits water into hydrogen at much lower temperatures than existing technologies, potentially allowing factories, steel plants, and renewable energy sites to turn waste heat into valuable hydrogen. The new catalyst generates substantial amounts of hydrogen at temperatures between 150-500°C, compared to conventional systems requiring 700-1000°C. This creates a more energy-efficient system that can integrate with industrial waste heat, opening the door to decentralised hydrogen production.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260601025345.htm",
+        "image": "https://www.sciencedaily.com/images/1920/green-energy-hydrogen-pipelines-wind-turbines.webp",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fgreen-energy-hydrogen-pipelines-wind-turbines.webp&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780754729391_5",
+        "rank": 5,
+        "title": "Controlled Fire Whirls Clean Oil Spills 95% More Effectively Than Traditional Methods",
+        "category": "energy",
+        "summary": "Researchers demonstrated that controlled fire whirls can clean up oil spills faster and more cleanly than traditional burning methods, with spinning flames consuming up to 95% of oil and cutting soot emissions by 40%. The breakthrough technique could help prevent environmental damage from oil spills by providing a more efficient cleanup method that reduces both residual oil and air pollution. This represents a significant advance in environmental remediation technology for marine and coastal oil spill disasters.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/news/",
+        "image": "https://www.sciencedaily.com/images/scidaily-icon.png",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2Fscidaily-icon.png&w=640&h=400&fit=cover&we&output=jpg"
+      }
+    ],
+    "batchId": "b1780754729391"
+  },
+  {
+    "scannedAt": "2026-06-05T22:22:55.371Z",
+    "items": [
+      {
+        "id": "b1780698175371_2",
+        "rank": 2,
+        "title": "Giant Fire Tornadoes Could Clean Up Oil Spills with 95% Efficiency",
+        "category": "energy",
+        "summary": "Texas A&M University researchers have demonstrated that controlled fire whirls can clean up oil spills faster and more cleanly than traditional burning methods. The spinning flames consumed up to 95% of the oil while cutting soot emissions by 40%, potentially revolutionizing marine oil spill response. This breakthrough could help prevent spills from reaching sensitive marine habitats while dramatically reducing environmental pollution from cleanup operations.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260605023420.htm",
+        "image": "https://www.sciencedaily.com/images/1920/fire-tornado-oil-spill.webp",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Ffire-tornado-oil-spill.webp&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780698175371_3",
+        "rank": 3,
+        "title": "Hidden Supermassive Black Hole Pairs May Finally Have Visible Signal",
+        "category": "space",
+        "summary": "Scientists from the University of Oxford and Max Planck Institute have proposed a groundbreaking method for finding tightly bound supermassive black hole pairs by searching for stars that flash repeatedly as their light is magnified by the black holes' gravity. The timing and brightness of these gravitational lensing bursts could provide a unique fingerprint of black holes slowly spiraling toward future collisions, solving one of astronomy's most challenging detection problems.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260605023418.htm",
+        "image": "https://www.sciencedaily.com/images/1920/gravitationally-lensed-starlight-by-supermassive-black-hole-binary.webp",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fgravitationally-lensed-starlight-by-supermassive-black-hole-binary.webp&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780698175371_4",
+        "rank": 4,
+        "title": "Quantum Complexity Discovered in Common Metal Cobalt",
+        "category": "ai",
+        "summary": "Scientists have uncovered unexpected quantum complexity inside cobalt, a metal long thought to be fully understood. Advanced measurements revealed a dense network of topological electronic states that remain robust at room temperature. These quantum states could enable new applications in quantum computing and spintronics, potentially transforming how we build quantum devices that operate without extreme cooling requirements.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260605023355.htm",
+        "image": "https://www.sciencedaily.com/images/1920/visualization-of-gas-flows-around-binary-protostar-system.webp",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fvisualization-of-gas-flows-around-binary-protostar-system.webp&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780698175371_5",
+        "rank": 5,
+        "title": "Largest Collagen Study Reveals What Actually Works for Skin Health",
+        "category": "biotech",
+        "summary": "The most comprehensive collagen study ever conducted, analyzing nearly 8,000 participants, found clear evidence that collagen supplements improve skin health and ease osteoarthritis symptoms, especially when taken consistently over longer periods. Researchers also found modest benefits for muscle and tendon health. However, the study challenges claims about athletic performance enhancement, showing little effect on recovery or post-workout soreness, providing definitive guidance on collagen supplementation efficacy.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260604044302.htm",
+        "image": "https://www.sciencedaily.com/images/1920/smiling-woman-taking-collagen-supplement-pill.webp",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fsmiling-woman-taking-collagen-supplement-pill.webp&w=640&h=400&fit=cover&we&output=jpg"
+      }
+    ],
+    "batchId": "b1780698175371"
+  },
+  {
+    "scannedAt": "2026-06-05T18:06:42.889Z",
+    "items": [
+      {
+        "id": "b1780682802889_1",
+        "rank": 1,
+        "title": "World's First AI-Designed Vaccine Successfully Passes Human Trial",
+        "category": "biotech",
+        "summary": "Researchers at the University of Cambridge and biotechnology spin-out DIOSynVax have successfully completed the first human trial of a new 'universal' coronavirus vaccine designed using artificial intelligence. The experimental vaccine was found to be safe and caused no significant side effects in a study involving 39 healthy volunteers. Unlike conventional vaccines that target specific virus strains, this vaccine was designed to protect against multiple members of the Sarbeco coronavirus family. This group includes SARS-CoV-2, the virus responsible for the COVID-19 pandemic, as well as SARS and several related bat coronaviruses that could potentially spill over into humans in the future. The novel vaccine harnesses an AI-designed 'super-antigen' crafted from extensive genetic sequence data compiled globally on Sarbeco coronaviruses.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260605023357.htm",
+        "image": "https://www.sciencedaily.com/images/1920/clinical-trial-volunteer-receiving-new-universal-vaccine.webp",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fclinical-trial-volunteer-receiving-new-universal-vaccine.webp&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780682802889_2",
+        "rank": 2,
+        "title": "OpenAI Launches Revolutionary ChatGPT Memory System 'Dreaming V3'",
+        "category": "ai",
+        "summary": "OpenAI began rolling out Dreaming V3 on June 4, 2026 — a background process that synthesizes memory automatically and replaces the saved-memories list as ChatGPT's standalone foundation. On June 4, 2026, OpenAI began rolling out Dreaming V3, a background process that synthesizes memory automatically and, for the first time, replaces the saved-memories list as ChatGPT's standalone foundation. You no longer have to tell ChatGPT what to remember — context that surfaces naturally in conversation is captured, and existing memories update themselves as time passes. A roughly 5x reduction in the compute needed to serve dreaming makes the Free-tier rollout practical. Plus and Pro users also get increased memory capacity from the same efficiency gains.",
+        "source": "Tech Times",
+        "sourceUrl": "https://www.techtimes.com/articles/317840/20260605/chatgpt-memory-dreaming-update-openai-rewrites-personalization-engine-limits-audit-trail.htm",
+        "image": "https://d.techtimes.com/en/full/466107/chatgpt.jpg",
+        "imageProxy": "https://images.weserv.nl/?url=d.techtimes.com%2Fen%2Ffull%2F466107%2Fchatgpt.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780682802889_3",
+        "rank": 3,
+        "title": "NASA's X-59 Supersonic Jet Set for Historic Sound Barrier Break",
+        "category": "space",
+        "summary": "NASA's futuristic X-59 jet is about to face its biggest challenge yet: breaking the sound barrier for the first time. After a successful series of test flights that pushed the aircraft to near-supersonic speeds, engineers are preparing to fly it faster than Mach 1 and eventually up to Mach 1.6 at 60,000 feet. The sleek experimental aircraft is designed to replace the thunderous sonic boom with a quieter 'sonic thump'. NASA's futuristic X-59 jet is about to face its biggest challenge yet: breaking the sound barrier for the first time. After a successful series of test flights that pushed the aircraft to near-supersonic speeds.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/",
+        "image": "https://www.sciencedaily.com/images/scidaily-icon.png",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2Fscidaily-icon.png&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780682802889_4",
+        "rank": 4,
+        "title": "Breakthrough Tandem Perovskite Solar Cells Achieve 34% Efficiency",
+        "category": "energy",
+        "summary": "Tandem perovskite solar cells — those made of perovskite and silicon — have reached power conversion efficiencies over 34%, a significant improvement over existing commercial silicon-based panels that can reach about 24%. These efficiency improvements are due to breakthroughs in interface passivation, compositional tuning with rubidium and cesium, and enhanced stability. Perovskite-silicon solar cells therefore enable more energy generation per square meter, making solar power viable in space-constrained environments like smaller rooftops and vehicles where traditional PVs may not fit. They also facilitate the development of portable solar installations. Hybrid solar cell manufacturers have already achieved mass-production-ready efficiencies.",
+        "source": "CAS Insights",
+        "sourceUrl": "https://www.cas.org/resources/cas-insights/scientific-breakthroughs-2026-emerging-trends-watch",
+        "image": "https://cdn.prod.website-files.com/650867962272bf8f15c1034b/692da5a43ed15a57aaebbce0_Trends-to-watch-2026-Social-CAS-Insights-INSSOC102780ENG-Article.avif",
+        "imageProxy": "https://images.weserv.nl/?url=cdn.prod.website-files.com%2F650867962272bf8f15c1034b%2F692da5a43ed15a57aaebbce0_Trends-to-watch-2026-Social-CAS-Insights-INSSOC102780ENG-Article.avif&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780682802889_5",
+        "rank": 5,
+        "title": "Honor's Humanoid Robot 'Lightning' Wins Marathon in Record Time",
+        "category": "robotics",
+        "summary": "On April 19, 2026, the Honor/Monkey King team's fully autonomous humanoid robot 'Lightning' won the Beijing E-Town Half-Marathon in a stunning 50:26 — beating the human world record by nearly 7 minutes and showcasing massive leaps in endurance, balance, and navigation. On April 19, 2026, Honor/Monkey King team's autonomous humanoid 'Lightning' won the Beijing E-Town Half-Marathon in a record 50:26 — beating the human world record by nearly 7 minutes. This milestone suggests that the humanoids of 2026 could be dramatically more dependable, functional and capable of multi-hour tasks in warehouses, hospitals or even disaster-response scenarios. Physical Intelligence is reportedly in discussions for a new fundraising round that would push its valuation toward approximately $11 billion.",
+        "source": "Humanoid Press",
+        "sourceUrl": "https://humanoid.press/",
+        "image": "https://humanoid.press/gallery_gen/c042cb32c60c76b72b25c8f8cf975ac8_fit.jpg",
+        "imageProxy": "https://images.weserv.nl/?url=humanoid.press%2Fgallery_gen%2Fc042cb32c60c76b72b25c8f8cf975ac8_fit.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      }
+    ],
+    "batchId": "b1780682802889"
+  },
+  {
+    "scannedAt": "2026-06-05T15:26:00.862Z",
+    "items": [
+      {
+        "id": "b1780673160861_1",
+        "rank": 1,
+        "title": "First AI-Designed Universal Vaccine Successfully Tested in Humans",
+        "category": "biotech",
+        "summary": "University of Cambridge and DIOSynVax researchers have completed the first human clinical trial of a vaccine whose active component was designed entirely by computer simulations. The pEVAC-PS vaccine targets multiple Sarbeco coronaviruses and showed safety in 39 volunteers while triggering immune responses against SARS-CoV-2, SARS, and related bat viruses that could cause future pandemics. This breakthrough represents a fundamental shift from reactive to proactive pandemic preparedness.",
+        "source": "University of Cambridge",
+        "sourceUrl": "https://www.cam.ac.uk/research/news/new-universal-vaccine-technology-could-protect-us-from-future-virus-outbreaks",
+        "image": "https://www.cam.ac.ukProfessor Jonathan Heeney 3..jpg",
+        "imageProxy": "https://images.weserv.nl/?url=www.cam.ac.ukProfessor%20Jonathan%20Heeney%203..jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780673160861_2",
+        "rank": 2,
+        "title": "NVIDIA Releases Revolutionary Physical AI Models for Next-Generation Robotics",
+        "category": "ai",
+        "summary": "NVIDIA announced new open physical AI models including GR00T for robot learning and reasoning, and Cosmos world models for synthetic data generation. The breakthrough enables robots to understand natural language instructions and perform complex, multistep tasks using vision-language-action reasoning, marking what Jensen Huang calls the ChatGPT moment for general robotics. Multiple global partners unveiled next-generation robots built on NVIDIA technologies.",
+        "source": "NVIDIA",
+        "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-releases-new-physical-ai-models-as-global-partners-unveil-next-generation-robots",
+        "image": "https://iprsoftwaremedia.com/219/files/202601/695aea8f3d63328b7eb8544b_ces-2026-global-robotics-partners/ces-2026-global-robotics-partners_5fce44ba-1bd9-4171-88ed-b508cdfe0103-prv.jpg",
+        "imageProxy": "https://images.weserv.nl/?url=iprsoftwaremedia.com%2F219%2Ffiles%2F202601%2F695aea8f3d63328b7eb8544b_ces-2026-global-robotics-partners%2Fces-2026-global-robotics-partners_5fce44ba-1bd9-4171-88ed-b508cdfe0103-prv.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780673160861_3",
+        "rank": 3,
+        "title": "NASA's Roman Space Telescope Accelerated Launch Could Transform Astronomy",
+        "category": "space",
+        "summary": "NASA's Nancy Grace Roman Space Telescope is now targeting an earlier launch in September 2026, eight months ahead of schedule. The telescope will explore dark matter, dark energy, and distant exoplanets using infrared vision, with scientists expecting it to uncover hundreds of millions of galaxies and possibly entirely new cosmic phenomena. Its enormous data archive could reshape astronomy for decades.",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/",
+        "image": "https://www.nasa.gov/wp-content/uploads/2018/07/174116main_2006_01777_highres.jpg",
+        "imageProxy": "https://images.weserv.nl/?url=www.nasa.gov%2Fwp-content%2Fuploads%2F2018%2F07%2F174116main_2006_01777_highres.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780673160861_4",
+        "rank": 4,
+        "title": "Solar Breakthrough Achieves 130% Efficiency Using Singlet Fission",
+        "category": "energy",
+        "summary": "Researchers at Kyushu University and Johannes Gutenberg University developed a revolutionary solar system using singlet fission with a molybdenum-based metal complex that achieved approximately 130% efficiency, meaning more energy carriers were produced than photons absorbed. This breakthrough could lead to much more powerful solar panels that overcome traditional physical limitations.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/03/260328024517.htm",
+        "image": "https://www.sciencedaily.com/images/1920/advanced-technology-photovoltaic-solar-panels.webp",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fadvanced-technology-photovoltaic-solar-panels.webp&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780673160861_5",
+        "rank": 5,
+        "title": "Brain Scans Reveal Two Distinct Biological Subtypes of Autism",
+        "category": "neuroscience",
+        "summary": "Scientists at the Italian Institute of Technology and Child Mind Institute have identified two biologically distinct autism subtypes using brain scans from nearly 1,000 people. Each subtype shows different patterns of brain communication and is associated with distinct molecular pathways. This cross-species study establishes a translational framework for biologically grounded fMRI phenotyping of autism spectrum disorders.",
+        "source": "Nature Neuroscience",
+        "sourceUrl": "https://www.nature.com/neuro/articles?year=2026",
+        "image": "https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41593-026-02338-5/MediaObjects/41593_2026_2338_Fig1_HTML.png",
+        "imageProxy": "https://images.weserv.nl/?url=media.springernature.com%2Fw290h158%2Fspringer-static%2Fimage%2Fart%253A10.1038%252Fs41593-026-02338-5%2FMediaObjects%2F41593_2026_2338_Fig1_HTML.png&w=640&h=400&fit=cover&we&output=jpg"
+      }
+    ],
+    "batchId": "b1780673160861"
+  },
+  {
+    "scannedAt": "2026-06-04T22:41:56.656Z",
+    "items": [
+      {
+        "id": "b1780612916656_1",
+        "rank": 1,
+        "title": "Scientists Discover Quantum Effect That Could Eliminate Batteries",
+        "category": "ai",
+        "summary": "Researchers at Queensland University of Technology have discovered how microscopic imperfections and atomic vibrations can control a powerful quantum effect in advanced materials. The nonlinear Hall effect can turn alternating electrical signals directly into usable current without traditional components, potentially enabling battery-free electronics powered by ambient energy. The effect direction reverses with temperature changes, allowing scientists to tune device performance.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260603023917.htm",
+        "image": "https://www.sciencedaily.com/images/1920/abstract-energy-mysterious-quantum-effect.webp",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fabstract-energy-mysterious-quantum-effect.webp&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780612916656_2",
+        "rank": 2,
+        "title": "University of Birmingham Breakthrough Turns Waste Heat Into Clean Hydrogen",
+        "category": "energy",
+        "summary": "Researchers have developed a perovskite-based catalyst that splits water into hydrogen at much lower temperatures than existing technologies. The breakthrough reduces operating temperatures by 500°C, enabling hydrogen production at 150-500°C with catalyst regeneration at 700-1000°C. This allows industrial waste heat from steel, cement, and glass production to power local hydrogen generation, potentially making clean fuel cheaper and more accessible.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260601025345.htm",
+        "image": "https://www.sciencedaily.com/images/1920/green-energy-hydrogen-pipelines-wind-turbines.webp",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fgreen-energy-hydrogen-pipelines-wind-turbines.webp&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780612916656_3",
+        "rank": 3,
+        "title": "New Light-Powered Chip Could Accelerate AI and Quantum Computing",
+        "category": "ai",
+        "summary": "Scientists at Monash University have created a tiny chip that can generate, steer, and read light-based information all in one device. The breakthrough uses atomically thin materials and nanoscale structures to control the valley degree of freedom in light, enabling new ways to encode information. The valleytronic chip operates at room temperature and could drive future breakthroughs in faster computing, lower energy consumption, and quantum technologies.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260601025343.htm",
+        "image": "https://www.sciencedaily.com/images/1920/photonic-valleytronic-chip-for-information-processing.webp",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fphotonic-valleytronic-chip-for-information-processing.webp&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780612916656_4",
+        "rank": 4,
+        "title": "NASA's X-59 Prepares for First Supersonic Flight to Break Sound Barrier Quietly",
+        "category": "space",
+        "summary": "NASA's X-59 quiet supersonic aircraft is set to break the sound barrier for the first time in early June 2026. The experimental jet is designed to replace thunderous sonic booms with a much quieter thump, potentially enabling supersonic passenger travel over populated areas. The aircraft will reach speeds over 630 mph at 43,000 feet, with eventual targets of Mach 1.6 at 60,000 feet. Success could lead to overturning the 50-year ban on supersonic flight over land.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260601025338.htm",
+        "image": "https://www.sciencedaily.com/images/1920/nasa-x-59-flying-over-land-and-water.webp",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fnasa-x-59-flying-over-land-and-water.webp&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780612916656_5",
+        "rank": 5,
+        "title": "Texas Scientists Reverse Brain Aging with Simple Nasal Spray",
+        "category": "neuroscience",
+        "summary": "Researchers at Texas A&M have developed a nasal spray using extracellular vesicles that appears to reverse brain aging by reducing inflammation and restoring cellular energy systems. After just two doses, memory and cognitive function improved for months in preclinical studies. The therapy targets neuroinflammation in the brain's memory center and has already received a U.S. patent, offering new hope for treating dementia and age-related cognitive decline.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/05/260526022018.htm",
+        "image": "https://www.sciencedaily.com/images/1920/human-thought-brain-boost-intellectual-power.webp",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fhuman-thought-brain-boost-intellectual-power.webp&w=640&h=400&fit=cover&we&output=jpg"
+      }
+    ],
+    "batchId": "b1780612916656"
+  },
+  {
+    "scannedAt": "2026-06-04T18:29:04.320Z",
+    "items": [
+      {
+        "id": "b1780597744320_1",
+        "rank": 1,
+        "title": "Scientists Finally Crack an 'Undruggable' Pancreatic Cancer Target and Nearly Double Survival",
+        "category": "biotech",
+        "summary": "A breakthrough drug called daraxonrasib has shown unprecedented results against pancreatic cancer, nearly doubling survival time from 6.7 to 13.2 months in metastatic patients. The drug targets the previously 'undruggable' KRAS mutation found in over 90% of pancreatic cancers by attaching to cyclophilin A protein. Phase 3 trial results presented at ASCO 2026 showed the drug reduced death risk by 60% compared to chemotherapy, marking the most significant advance in pancreatic cancer treatment history.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260604044247.htm",
+        "image": "https://www.sciencedaily.com/images/1920/bright-glowing-cancer-cell-destruction.webp",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fbright-glowing-cancer-cell-destruction.webp&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780597744320_2",
+        "rank": 2,
+        "title": "ChatGPT Gets Revolutionary 'Dreaming' Memory System for Better Personalization",
+        "category": "ai",
+        "summary": "OpenAI launched a major upgrade to ChatGPT's memory capabilities called 'Dreaming' that automatically synthesizes information from conversation history to create persistent, personalized context. The system overcomes previous limitations of static saved memories by continuously updating user context as time passes, enabling ChatGPT to provide more relevant recommendations and maintain preferences across conversations. The breakthrough makes AI assistants significantly more helpful by remembering user details, preferences, and constraints without explicit prompting.",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/index/chatgpt-memory-dreaming/",
+        "image": "https://images.ctfassets.net/kftzwdyauwt9/41T8ZOansyDZGCqmwOkuOY/3cdeb6ab147c08fa9b313b677fb5318e/16x9_SEO__1_.png?w=1600&h=900&fit=fill",
+        "imageProxy": "https://images.weserv.nl/?url=images.ctfassets.net%2Fkftzwdyauwt9%2F41T8ZOansyDZGCqmwOkuOY%2F3cdeb6ab147c08fa9b313b677fb5318e%2F16x9_SEO__1_.png%3Fw%3D1600%26h%3D900%26fit%3Dfill&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780597744320_3",
+        "rank": 3,
+        "title": "Scientists Discover Master Biological Clock Controlling Growth and Development",
+        "category": "neuroscience",
+        "summary": "Researchers at Cold Spring Harbor Laboratory discovered a master genetic clock made of proteins MYRF-1 and LIN-42 that acts as the primary timekeeper for biological development. The clock orchestrates crucial bursts of gene activity throughout growth stages in worms, ensuring each developmental phase begins precisely when needed and lasts the appropriate duration. When disrupted, development completely stops, providing new insights into growth-related disorders and how biological timing controls life processes.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260604044236.htm",
+        "image": "https://www.sciencedaily.com/images/1920/developmental-clock-graphic.webp",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fdevelopmental-clock-graphic.webp&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780597744320_4",
+        "rank": 4,
+        "title": "Microsoft's Majorana 2 Quantum Chip Achieves 1000x Reliability Breakthrough",
+        "category": "ai",
+        "summary": "Microsoft unveiled Majorana 2, a next-generation quantum computing chip featuring qubits that are 1,000 times more reliable than previous versions, with qubit lifetimes averaging 20 seconds versus milliseconds. The topological quantum chip was developed using AI-assisted design through Microsoft's Discovery platform and could enable practical quantum computers by 2029. However, the announcement has drawn skepticism from physics experts who question the validity of Microsoft's topological qubit claims without peer review.",
+        "source": "Microsoft",
+        "sourceUrl": "https://news.microsoft.com/source/features/innovation/majorana-2-microsoft-discovery-agentic-ai/",
+        "image": "https://news.microsoft.com/source/wp-content/uploads/2026/06/Majorana-2-web-size_4_1200.jpg",
+        "imageProxy": "https://images.weserv.nl/?url=news.microsoft.com%2Fsource%2Fwp-content%2Fuploads%2F2026%2F06%2FMajorana-2-web-size_4_1200.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780597744320_5",
+        "rank": 5,
+        "title": "Solar Desalination Breakthrough Produces Fresh Water Without Toxic Brine Waste",
+        "category": "energy",
+        "summary": "University of Rochester scientists developed a revolutionary solar desalination system using laser-textured metal panels that converts seawater to drinking water while eliminating harmful brine discharge. The system automatically moves salt deposits to passive zones, preventing clogging while recovering nearly 100% of salts as valuable solids including lithium for batteries. Successfully tested with water from three oceans, the breakthrough could transform water production by solving the environmental problems of traditional desalination plants.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/05/260530053418.htm",
+        "image": "https://www.sciencedaily.com/images/1920/solar-desalination-device-with-laser-etched-superwicking.webp",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fsolar-desalination-device-with-laser-etched-superwicking.webp&w=640&h=400&fit=cover&we&output=jpg"
+      }
+    ],
+    "batchId": "b1780597744320"
+  },
+  {
+    "scannedAt": "2026-06-04T15:38:14.892Z",
+    "items": [
+      {
+        "id": "b1780587494891_1",
+        "rank": 1,
+        "title": "Revolutionary Photonic Chip Breakthrough: Scientists Create Light-Powered Quantum Computing Device",
+        "category": "ai",
+        "summary": "Scientists at Monash University have created the first integrated photonic valleytronic chip that can generate, steer, and read light-based information all in one device. The breakthrough uses atomically thin materials and nanoscale structures to control a unique quantum property of light called the 'valley degree of freedom,' allowing information to be encoded in entirely new ways. This marks a major leap toward ultra-fast, energy-efficient computing and quantum technologies, solving a key bottleneck that has limited the field for years.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260601025343.htm",
+        "image": "https://www.sciencedaily.com/images/1920/photonic-valleytronic-chip-for-information-processing.webp",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fphotonic-valleytronic-chip-for-information-processing.webp&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780587494891_2",
+        "rank": 2,
+        "title": "Game-Changing Hydrogen Production: New Catalyst Cuts Energy Requirements by 500°C",
+        "category": "energy",
+        "summary": "Researchers at the University of Birmingham have developed a revolutionary perovskite-based catalyst that splits water into hydrogen at temperatures 500°C lower than existing technologies. The breakthrough could make clean hydrogen production far cheaper and enable industrial waste heat from steel, cement, and chemical plants to be converted into valuable hydrogen fuel. Published in the International Journal of Hydrogen Energy, this advance could dramatically accelerate the global transition to clean energy.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260601025345.htm",
+        "image": "https://www.sciencedaily.com/images/1920/green-energy-hydrogen-pipelines-wind-turbines.webp",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fgreen-energy-hydrogen-pipelines-wind-turbines.webp&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780587494891_3",
+        "rank": 3,
+        "title": "Historic Supersonic Flight: NASA's X-59 Prepares to Break Sound Barrier Silently",
+        "category": "ai",
+        "summary": "NASA's revolutionary X-59 quiet supersonic aircraft is set to break the sound barrier for the first time in early June 2026, potentially transforming commercial aviation. The experimental aircraft is designed to replace thunderous sonic booms with a much quieter 'thump,' using its unique needle-like design and specialized engineering. After 14 successful test flights reaching Mach 0.95 at 43,000 feet, the X-59 will attempt to fly at Mach 1.4 (925 mph) at 55,000 feet, marking a pivotal moment for supersonic passenger travel over land.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260601025338.htm",
+        "image": "https://www.sciencedaily.com/images/1920/nasa-x-59-flying-over-land-and-water.webp",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fnasa-x-59-flying-over-land-and-water.webp&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780587494891_4",
+        "rank": 4,
+        "title": "Quantum Computing Milestone: Xanadu's Borealis Achieves Public Quantum Advantage",
+        "category": "ai",
+        "summary": "Xanadu Quantum Technologies has launched public cloud access to its Borealis photonic quantum computer, becoming the first system to demonstrate quantum computational advantage while being publicly accessible. Borealis uses 216 squeezed-state qubits and can perform complex sampling tasks in 36 microseconds that would take classical supercomputers 9,000 years. This marks the first time a quantum-advantage-capable machine has been made available to the public through the cloud, representing a major step toward fault-tolerant quantum data centers.",
+        "source": "Quantum Computing Report",
+        "sourceUrl": "https://quantumcomputingreport.com/xanadu-launches-public-cloud-access-to-borealis-photonic-processor-to-demonstrate-quantum-computational-advantage/",
+        "image": "https://quantumcomputingreport.com/wp-content/uploads/2026/06/image-8.png",
+        "imageProxy": "https://images.weserv.nl/?url=quantumcomputingreport.com%2Fwp-content%2Fuploads%2F2026%2F06%2Fimage-8.png&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780587494891_5",
+        "rank": 5,
+        "title": "Brain Aging Breakthrough: Nasal Spray Reverses Cognitive Decline in Groundbreaking Study",
+        "category": "neuroscience",
+        "summary": "Researchers at Texas A&M University have developed a nasal spray that appears to reverse brain aging by calming inflammation and restoring brain energy systems. Using extracellular vesicles derived from neural stem cells, the treatment restored memory, reduced chronic inflammation, and improved brain cell function after just two doses, with effects lasting for months. Published in the Journal of Extracellular Vesicles, this breakthrough could lead to new therapies for Alzheimer's disease, dementia, and age-related cognitive decline.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/05/260526022018.htm",
+        "image": "https://www.sciencedaily.com/images/1920/human-thought-brain-boost-intellectual-power.webp",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fhuman-thought-brain-boost-intellectual-power.webp&w=640&h=400&fit=cover&we&output=jpg"
+      }
+    ],
+    "batchId": "b1780587494891"
+  },
+  {
+    "scannedAt": "2026-06-03T23:09:59.050Z",
+    "items": [
+      {
+        "id": "b1780528199050_1",
+        "rank": 1,
+        "title": "Scientists Reverse Turbulence Energy Flow, Upending 80-Year-Old Theory",
+        "category": "energy",
+        "summary": "Researchers at University of Pittsburgh discovered how to reverse the direction of energy flow in turbulence, challenging Kolmogorov's 1941 theory that has stood for over 80 years. Using tensor geometry, they showed that energy can flow from smaller to larger scales in controlled conditions. This breakthrough could revolutionize ocean current control, medical microfluidics, and climate modeling by providing new ways to manipulate how energy moves through chaotic fluid systems.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260602021655.htm",
+        "image": "https://www.sciencedaily.com/images/1920/ocean-whirlpool-water-turbulence.webp",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Focean-whirlpool-water-turbulence.webp&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780528199050_2",
+        "rank": 2,
+        "title": "Scientists Reverse Anxiety by Fixing Tiny Brain Circuit in Amygdala",
+        "category": "neuroscience",
+        "summary": "Researchers identified a specific group of amygdala neurons that play a central role in anxiety and social behavior. By restoring normal activity in the Grik4 gene pathway between basolateral and centrolateral amygdala regions, scientists completely reversed anxiety-related and social deficit behaviors in mice. This discovery reveals a promising new therapeutic target for treating anxiety disorders and represents a major breakthrough in understanding the brain's anxiety circuits.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260603015356.htm",
+        "image": "https://www.sciencedaily.com/images/1920/head-brain-waves-neural-activity-signals.webp",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fhead-brain-waves-neural-activity-signals.webp&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780528199050_3",
+        "rank": 3,
+        "title": "Nuclear Fireball Simulation Reveals Surprising Fallout Formation Secrets",
+        "category": "space",
+        "summary": "Scientists at Lawrence Livermore National Laboratory recreated part of a nuclear fireball's intense environment to study how radioactive fallout forms. Their plasma flow reactor experiments revealed that thermal history dramatically alters how volatile elements like cesium are incorporated into particles. The breakthrough provides crucial data for nuclear forensics, safety assessments, and could improve models used for national security and emergency response planning.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260603023104.htm",
+        "image": "https://www.sciencedaily.com/images/1920/llnl-plasma-flow-reactor.webp",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fllnl-plasma-flow-reactor.webp&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780528199050_4",
+        "rank": 4,
+        "title": "New Diabetes Pill Burns Fat Through Muscle Metabolism Without Appetite Loss",
+        "category": "biotech",
+        "summary": "Scientists developed an experimental oral diabetes and obesity treatment that works completely differently from GLP-1 drugs like Ozempic. Instead of reducing appetite, it activates metabolism in skeletal muscle, helping lower blood sugar and increase fat burning while preserving muscle mass. Early clinical trials show the treatment is safe and well-tolerated, offering hope for patients who experience muscle loss and appetite suppression with current medications.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260603015541.htm",
+        "image": "https://www.sciencedaily.com/images/1920/losing-fat-gaining-muscle.webp",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Flosing-fat-gaining-muscle.webp&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780528199050_5",
+        "rank": 5,
+        "title": "Revolutionary Light-Powered Chip Could Accelerate AI and Quantum Computing",
+        "category": "ai",
+        "summary": "Scientists at Monash University created the first fully integrated chip that can generate, steer, and read light-based information all in one device. The breakthrough uses atomically thin materials and nanoscale structures to control the 'valley degree of freedom' quantum property of light, enabling ultra-fast, energy-efficient computing. This valleytronics advancement marks a major leap toward photonic processors that could dramatically reduce AI's energy consumption while boosting performance.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260601025343.htm",
+        "image": "https://www.sciencedaily.com/images/1920/photonic-valleytronic-chip-for-information-processing.webp",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fphotonic-valleytronic-chip-for-information-processing.webp&w=640&h=400&fit=cover&we&output=jpg"
+      }
+    ],
+    "batchId": "b1780528199050"
+  },
+  {
+    "scannedAt": "2026-06-03T19:57:57.470Z",
+    "items": [
+      {
+        "id": "b1780516677470_1",
+        "rank": 1,
+        "title": "Scientists Reverse Anxiety by Fixing a Tiny Brain Circuit",
+        "category": "neuroscience",
+        "summary": "A newly identified group of amygdala neurons appears to play a central role in anxiety and social behavior. Restoring normal activity in this tiny brain circuit reversed anxiety and social deficits in mice, revealing a promising new target for future treatments. The research led by Juan Lerma's team at the Institute for Neurosciences shows that rebalancing specific neural circuits can effectively treat anxiety disorders.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260603015356.htm",
+        "image": "https://www.sciencedaily.com/images/1920/head-brain-waves-neural-activity-signals.webp",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fhead-brain-waves-neural-activity-signals.webp&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780516677470_2",
+        "rank": 2,
+        "title": "New Discovery Upends an 80-Year-Old Theory of Turbulence",
+        "category": "energy",
+        "summary": "Researchers discovered a way to reverse the direction of energy flow in turbulence, challenging a theory that has stood for more than 80 years. The finding could open new possibilities for controlling ocean currents, improving medical technologies, and enhancing climate forecasting. This breakthrough fundamentally changes our understanding of how energy moves through fluid systems.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260602021655.htm",
+        "image": "https://www.sciencedaily.com/images/1920/ocean-whirlpool-water-turbulence.webp",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Focean-whirlpool-water-turbulence.webp&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780516677470_3",
+        "rank": 3,
+        "title": "Microsoft Unveils AI-Designed Quantum Chip, Targets 2029 Commercial Launch",
+        "category": "ai",
+        "summary": "Microsoft unveiled its new Majorana 2 quantum computing chip redesigned with AI assistance, featuring entirely new materials including lead instead of aluminum. The AI-driven design resulted in a 1,000-fold improvement in performance. Microsoft now believes it will have commercially useful quantum machines by 2029, putting it in direct competition with IBM and Google.",
+        "source": "BNN Bloomberg",
+        "sourceUrl": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/06/02/microsoft-reveals-new-quantum-chip-made-with-ai-says-it-will-have-systems-by-2029/",
+        "image": "https://www.bnnbloomberg.ca/resizer/v2/KHEOWZSQCTTIY56U4OVT2QWCTU.jpg?smart=true&auth=0a281a23f2487d8edce46ed6d08c57e005e8de0deaa1c17785d1dc3999497772&width=1200&height=630",
+        "imageProxy": "https://images.weserv.nl/?url=www.bnnbloomberg.ca%2Fresizer%2Fv2%2FKHEOWZSQCTTIY56U4OVT2QWCTU.jpg%3Fsmart%3Dtrue%26auth%3D0a281a23f2487d8edce46ed6d08c57e005e8de0deaa1c17785d1dc3999497772%26width%3D1200%26height%3D630&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780516677470_4",
+        "rank": 4,
+        "title": "South Korea's KSTAR Reactor Achieves 102-Second Fusion Milestone",
+        "category": "energy",
+        "summary": "South Korea's KSTAR tokamak reactor held superheated plasma at 100 million degrees Celsius for a sustained 102 seconds in February 2026, shattering its own previous record of 48 seconds. This represents the most significant milestone in controlled nuclear fusion since the National Ignition Facility's historic achievement, bringing grid-scale fusion power closer to reality before 2045.",
+        "source": "Verodate",
+        "sourceUrl": "https://verodate.ca/blog/nuclear-fusion-energy-breakthrough-2026-progress",
+        "image": "https://www.sciencedaily.com/images/1920/bessy-ii-superconducting-tes-array-x-ray-spectrometer.webp",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fbessy-ii-superconducting-tes-array-x-ray-spectrometer.webp&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780516677470_5",
+        "rank": 5,
+        "title": "Light-Powered Chip Could Revolutionize AI and Quantum Computing",
+        "category": "ai",
+        "summary": "Scientists at Monash University created a tiny chip that can generate, steer, and read light-based information all in one device, marking a major leap toward ultra-fast, energy-efficient computing. The breakthrough uses atomically thin materials and nanoscale structures to control a unique quantum property of light called the 'valley' degree of freedom, operating at room temperature unlike many quantum systems.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260601025343.htm",
+        "image": "https://www.sciencedaily.com/images/1920/photonic-valleytronic-chip-for-information-processing.webp",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fphotonic-valleytronic-chip-for-information-processing.webp&w=640&h=400&fit=cover&we&output=jpg"
+      }
+    ],
+    "batchId": "b1780516677470"
+  },
+  {
+    "scannedAt": "2026-06-03T17:10:07.307Z",
+    "items": [
+      {
+        "id": "b1780506607306_1",
+        "rank": 1,
+        "title": "Muon Space Unveils Starship-Class Satellite Platform for Orbital Data Centers",
+        "category": "space",
+        "summary": "Muon Space announced a breakthrough Starship-class satellite platform designed specifically for the emerging orbital data center market. The Condor-Ultra platform offers 20 kilowatts of baseline power and 18+ square meters of payload area, with Starlink Mini Lasers for inter-satellite data relay. The platform can scale to 100 kilowatts and features native Starship stackability for deployments of hundreds to thousands of satellites, with first launch planned for 2028.",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/muon-space-unveils-starship-class-satellite-platform-for-orbital-data-centers/",
+        "image": "https://spacenews.com/wp-content/uploads/2026/06/Condor-Ultra-image.jpg",
+        "imageProxy": "https://images.weserv.nl/?url=spacenews.com%2Fwp-content%2Fuploads%2F2026%2F06%2FCondor-Ultra-image.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780506607306_2",
+        "rank": 2,
+        "title": "Xense Robotics Showcases Tactile Intelligence Breakthrough at ICRA 2026",
+        "category": "robotics",
+        "summary": "At the ICRA 2026 conference in Vienna, Xense Robotics demonstrated a major breakthrough in tactile intelligence with their VTLA model-driven dual-arm long-horizon compliant manipulation system. The company showcased autonomous carton-forming operations and debuted the TacCap-Gripper tactile data acquisition device, proving that tactile intelligence enables robots to truly touch and autonomously interact with the physical world beyond visual perception alone.",
+        "source": "PR Newswire",
+        "sourceUrl": "https://www.prnewswire.com/news-releases/touch-ignites-physical-intelligence-xense-robotics-showcases-the-real-ability-of-tactile-intelligence-at-icra-2026-302790324.html",
+        "image": "https://mma.prnewswire.com/media/2994206/Xense_Robotics.jpg?p=facebook",
+        "imageProxy": "https://images.weserv.nl/?url=mma.prnewswire.com%2Fmedia%2F2994206%2FXense_Robotics.jpg%3Fp%3Dfacebook&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780506607306_4",
+        "rank": 4,
+        "title": "HSE Scientists Help Deliver World-First Hydrogen-Powered Jet Engine Test",
+        "category": "energy",
+        "summary": "HSE scientists contributed to a world-first achievement in aviation by helping deliver a hydrogen-powered jet engine test at full take-off power with Rolls-Royce. This breakthrough represents a major advancement in net zero aviation technology, demonstrating that hydrogen can power commercial aircraft engines at the power levels required for takeoff, bringing sustainable aviation significantly closer to reality.",
+        "source": "Fuel Cells Works",
+        "sourceUrl": "https://fuelcellsworks.com/2026/06/01/energy-innovation/hse-science-team-helps-power-world-first-hydrogen-aviation-breakthrough",
+        "image": "https://s3.us-east-1.amazonaws.com/s3.ai.fuelcellsworks.com/hse-science-team-helps-power-world-first-hydrogen-aviation-breakthrough-2026-06-01T09%3A29%3A50-05%3A00-image.webp",
+        "imageProxy": "https://images.weserv.nl/?url=s3.us-east-1.amazonaws.com%2Fs3.ai.fuelcellsworks.com%2Fhse-science-team-helps-power-world-first-hydrogen-aviation-breakthrough-2026-06-01T09%253A29%253A50-05%253A00-image.webp&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780506607306_5",
+        "rank": 5,
+        "title": "Scientists Discover Explosive 'Ruptoblasts' That Kill Cancer Cells in Minutes",
+        "category": "biotech",
+        "summary": "Researchers have discovered a new type of cell called 'ruptoblasts' in flatworms that can detonate and release compounds that kill nearby cells within minutes. This breakthrough discovery, published in Nature, reveals a previously unknown cellular mechanism that could potentially be harnessed for targeted cancer therapy, as the ruptoblasts can selectively destroy harmful cells while leaving healthy tissue intact.",
+        "source": "Nature",
+        "sourceUrl": "https://www.nature.com/news",
+        "image": "https://media.nature.com/w768/magazine-assets/d41586-026-01788-y/d41586-026-01788-y_52500772.jpg",
+        "imageProxy": "https://images.weserv.nl/?url=media.nature.com%2Fw768%2Fmagazine-assets%2Fd41586-026-01788-y%2Fd41586-026-01788-y_52500772.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      }
+    ],
+    "batchId": "b1780506607306"
+  },
+  {
+    "scannedAt": "2026-06-02T23:07:01.549Z",
+    "items": [
+      {
+        "id": "b1780441621549_1",
+        "rank": 1,
+        "title": "Microsoft Unveils AI-Designed Quantum Chip with Majorana Breakthrough, Targets 2029 Commercial Systems",
+        "category": "ai",
+        "summary": "Microsoft revealed a revolutionary quantum computing chip redesigned with AI assistance, achieving a 1000-fold performance improvement in Majorana qubit technology. The breakthrough involves using lead-based materials in specialized manufacturing processes, marking a critical milestone toward commercially viable quantum computers by 2029, directly competing with IBM and Google in the quantum race.",
+        "source": "Reuters",
+        "sourceUrl": "https://finance.yahoo.com/news/microsoft-reveals-quantum-chip-made-181651197.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/282C82C5822A92E9D2A6D73EE6D6B739CFD79624518EC456E9401ADD38B4C385/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F0cdfb5ffc5348ecbe711d4edd436209a",
+        "imageProxy": "https://images.weserv.nl/?url=s.yimg.com%2Flo%2Fmysterio%2Fapi%2F282C82C5822A92E9D2A6D73EE6D6B739CFD79624518EC456E9401ADD38B4C385%2Fsubgraphmysterio%2Fresizefill_w1200_h800%3Bquality_80%3Bformat_webp%2Fhttps%3A%252F%252Fmedia.zenfs.com%252Fen%252Freuters.com%252F0cdfb5ffc5348ecbe711d4edd436209a&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780441621549_2",
+        "rank": 2,
+        "title": "Monash University Creates First Complete Light-Based Computing Chip Using Valleytronics",
+        "category": "ai",
+        "summary": "Scientists achieved a major breakthrough in photonic computing by creating the first complete on-chip system that generates, routes, and reads light-based information using quantum valley properties. The room-temperature device uses atomically thin materials and could revolutionize AI computing efficiency while reducing energy consumption by replacing electronic processes with ultra-fast optical computations.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260601025343.htm",
+        "image": "https://www.sciencedaily.com/images/1920/photonic-valleytronic-chip-for-information-processing.webp",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fphotonic-valleytronic-chip-for-information-processing.webp&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780441621549_3",
+        "rank": 3,
+        "title": "Stanford Develops Room-Temperature Quantum Device Using Twisted Light for Entanglement",
+        "category": "ai",
+        "summary": "Researchers overcame one of quantum technology's biggest hurdles by creating a quantum device that operates at room temperature, using twisted light to entangle photons and electrons. This breakthrough could enable smaller, cheaper quantum systems with applications in secure communications, future AI computing, and quantum networks without requiring extreme cooling.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/",
+        "image": "https://www.sciencedaily.com/images/scidaily-icon.png",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2Fscidaily-icon.png&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780441621549_4",
+        "rank": 4,
+        "title": "NASA Roman Space Telescope Poised to Discover 100,000 Exoplanets in Revolutionary Search",
+        "category": "space",
+        "summary": "NASA's Roman Space Telescope is set to revolutionize alien world detection by discovering approximately 100,000 exoplanets—surpassing all previous missions combined. The advanced space observatory will use cutting-edge detection methods to peer deep into space, potentially identifying Earth-like worlds and expanding humanity's understanding of planetary formation and habitability across the cosmos.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/news/space_time/space_exploration/",
+        "image": "https://www.sciencedaily.com/images/scidaily-icon.png",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2Fscidaily-icon.png&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780441621549_5",
+        "rank": 5,
+        "title": "Scientists Reverse Brain Aging with Innovative Nasal Spray Treatment",
+        "category": "biotech",
+        "summary": "Texas A&M researchers developed a groundbreaking nasal spray that appears to reverse brain aging by calming inflammation and restoring energy systems. After just two doses, memory and cognitive function improved for months, raising hopes for treating neurodegenerative diseases. This represents a major convergence of neuroscience and biotechnology in developing non-invasive brain rejuvenation therapies.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/",
+        "image": "https://www.sciencedaily.com/images/scidaily-icon.png",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2Fscidaily-icon.png&w=640&h=400&fit=cover&we&output=jpg"
+      }
+    ],
+    "batchId": "b1780441621549"
+  },
+  {
+    "scannedAt": "2026-06-02T19:52:15.259Z",
+    "items": [
+      {
+        "id": "b1780429935259_1",
+        "rank": 1,
+        "title": "Microsoft Unveils AI-Designed Quantum Chip with 1000x Performance Breakthrough",
+        "category": "ai",
+        "summary": "Microsoft announced its revolutionary Majorana 2 quantum computing chip, redesigned using AI tools for materials science. The breakthrough achieved a 1000-fold improvement in performance by solving how to use lead-based superconducting materials without degradation during manufacturing. This convergence of AI and quantum computing brings commercial quantum systems to 2029, potentially cracking problems in medicine, chemistry, and cybersecurity that would take conventional computers millennia.",
+        "source": "BNN Bloomberg",
+        "sourceUrl": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/06/02/microsoft-reveals-new-quantum-chip-made-with-ai-says-it-will-have-systems-by-2029/",
+        "image": "https://www.bnnbloomberg.ca/resizer/v2/KHEOWZSQCTTIY56U4OVT2QWCTU.jpg?smart=true&auth=0a281a23f2487d8edce46ed6d08c57e005e8de0deaa1c17785d1dc3999497772&width=1200&height=630",
+        "imageProxy": "https://images.weserv.nl/?url=www.bnnbloomberg.ca%2Fresizer%2Fv2%2FKHEOWZSQCTTIY56U4OVT2QWCTU.jpg%3Fsmart%3Dtrue%26auth%3D0a281a23f2487d8edce46ed6d08c57e005e8de0deaa1c17785d1dc3999497772%26width%3D1200%26height%3D630&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780429935259_2",
+        "rank": 2,
+        "title": "NVIDIA Launches Cosmos 3: First Open Physical AI Foundation Model for Robotic Intelligence",
+        "category": "ai",
+        "summary": "NVIDIA released Cosmos 3, the world's first fully open omnimodel with native vision reasoning and multimodal generation across text, image, video, ambient sound and action. Built on breakthrough mixture-of-transformers architecture, it enables robots, autonomous vehicles and AI agents to perceive, reason, plan and act in the physical world. The model represents the convergence of AI reasoning with physical reality, launching the Cosmos Coalition with leading AI labs to advance open world models.",
+        "source": "NVIDIA",
+        "sourceUrl": "https://www.globenewswire.com/news-release/2026/06/01/3303987/0/en/NVIDIA-Launches-Cosmos-3-the-Open-Frontier-Foundation-Model-for-Physical-AI.html",
+        "image": "https://ml.globenewswire.com/Resource/Download/03777613-6abd-429d-9bc8-04a680e087d4",
+        "imageProxy": "https://images.weserv.nl/?url=ml.globenewswire.com%2FResource%2FDownload%2F03777613-6abd-429d-9bc8-04a680e087d4&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780429935259_3",
+        "rank": 3,
+        "title": "China's Artificial Sun Breaks Fusion Density Barrier in Historic Quantum Leap",
+        "category": "ai",
+        "summary": "China's EAST reactor achieved the density-free regime breakthrough, maintaining plasma stability at extreme densities previously thought impossible. Using AI-controlled millisecond-precision plasma management, researchers overcame a 70-year density barrier that has blocked commercial fusion. This represents convergence of AI control systems with fusion physics, offering a practical pathway toward unlimited clean energy and bringing fusion ignition significantly closer to reality.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/01/260101160855.htm",
+        "image": "https://www.sciencedaily.com/images/1920/nuclear-fusion-reactor.webp",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fnuclear-fusion-reactor.webp&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780429935259_4",
+        "rank": 4,
+        "title": "IBM Commits $10 Billion for World's First Fault-Tolerant Quantum Computer by 2029",
+        "category": "ai",
+        "summary": "IBM announced a five-year $10 billion investment to build the world's first large-scale, fault-tolerant quantum computer by 2029. The initiative includes the first dedicated quantum wafer foundry in the U.S. through the new Anderon venture. With quantum advantage demonstrations expected in 2026 and real workloads already running on 90+ quantum systems globally, this marks the transition from quantum experimentation to practical quantum-powered civilization infrastructure.",
+        "source": "IBM",
+        "sourceUrl": "https://newsroom.ibm.com/2026-06-02-ibm-commits-more-than-10-billion-to-quantum-computing,-funding-its-roadmap-from-todays-leading-systems-to-the-worlds-first-fault-tolerant-quantum-computers",
+        "image": "https://newsroom.ibm.com/image/IBM_Quantum_System_Two_social.v2.jpg",
+        "imageProxy": "https://images.weserv.nl/?url=newsroom.ibm.com%2Fimage%2FIBM_Quantum_System_Two_social.v2.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780429935259_5",
+        "rank": 5,
+        "title": "Stanford's Room-Temperature Quantum Device Uses Twisted Light for Photon-Electron Entanglement",
+        "category": "ai",
+        "summary": "Stanford researchers created a nanoscale optical device that operates at room temperature while linking quantum properties of light and electrons using twisted photons. This breakthrough overcomes the extreme cooling requirements that have limited quantum technology deployment, paving the way for smaller, cheaper quantum systems with applications in secure communications, AI computing platforms, and human-quantum interfaces. The convergence of room-temperature quantum effects with photonic manipulation represents a major step toward ubiquitous quantum technologies.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/05/260528074028.htm",
+        "image": "https://www.sciencedaily.com/images/1920/stanford-quantum-signaling-breakthrough.webp",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fstanford-quantum-signaling-breakthrough.webp&w=640&h=400&fit=cover&we&output=jpg"
+      }
+    ],
+    "batchId": "b1780429935259"
+  },
+  {
+    "batchId": "batch_2026-03-31T14-13",
+    "scannedAt": "2026-03-31T14:13:03.757Z",
+    "items": [
+      {
+        "id": "batch_2026-03-31T14-13_1",
+        "rank": 1,
+        "title": "Webb Telescope Spots Mysterious Explosion That Defies Known Physics",
+        "category": "space",
+        "summary": "Astronomers discovered a bizarre cosmic explosion called GRB 250702B that lasted seven hours—far longer than typical gamma-ray bursts which usually fade in under a minute, leaving scientists scrambling for answers.",
+        "image": "https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?w=720&q=80",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/03/260330001156.htm",
+        "imageProxy": "https://images.weserv.nl/?url=images.unsplash.com%2Fphoto-1446776653964-20c1d3a81b06%3Fw%3D720%26q%3D80&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "batch_2026-03-31T14-13_2",
+        "rank": 2,
+        "title": "CancerVax Reports Breakthrough in Universal Cancer Treatment Platform",
+        "category": "biotech",
+        "summary": "CancerVax announced successful initial biodistribution study results showing their targeted lipid nanoparticles avoided liver accumulation—a major breakthrough addressing a key failure point in many LNP therapies.",
+        "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=720&q=80",
+        "source": "Globe Newswire",
+        "sourceUrl": "https://www.globenewswire.com/news-release/2026/03/31/3265189/0/en/CancerVax-Reports-Successful-Initial-Mouse-Study-with-Breakthrough-Results.html",
+        "imageProxy": "https://images.weserv.nl/?url=images.unsplash.com%2Fphoto-1559757148-5c350d0d3c56%3Fw%3D720%26q%3D80&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "batch_2026-03-31T14-13_3",
+        "rank": 3,
+        "title": "French Quantum Company Pasqal Goes Public at $2 Billion Valuation",
+        "category": "ai",
+        "summary": "Quantum computing leader Pasqal announced plans to go public at a $2 billion valuation with $200 million in committed capital, marking a major milestone in commercializing neutral atom quantum computing technology.",
+        "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=720&q=80",
+        "source": "The Quantum Insider",
+        "sourceUrl": "https://thequantuminsider.com/2026/03/31/french-national-quantum-update-march-2026/",
+        "imageProxy": "https://images.weserv.nl/?url=images.unsplash.com%2Fphoto-1635070041078-e363dbe005cb%3Fw%3D720%26q%3D80&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "batch_2026-03-31T14-13_4",
+        "rank": 4,
+        "title": "Solar Cells Achieve 'Impossible' 130% Efficiency Through Singlet Fission",
+        "category": "energy",
+        "summary": "Researchers used a spin-flip metal complex to capture and multiply energy from sunlight through singlet fission, achieving about 130% efficiency by producing more energy carriers than photons absorbed.",
+        "image": "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=720&q=80",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/03/260328024517.htm",
+        "imageProxy": "https://images.weserv.nl/?url=images.unsplash.com%2Fphoto-1509391366360-2e959784a276%3Fw%3D720%26q%3D80&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "batch_2026-03-31T14-13_5",
+        "rank": 5,
+        "title": "Scientists Discover Brain-Based Trigger for High Blood Pressure",
+        "category": "neuroscience",
+        "summary": "Scientists uncovered a surprising brain-based trigger for high blood pressure, tracing it to a small region in the brainstem that normally controls breathing and activates during forceful exhalations.",
+        "image": "https://images.unsplash.com/photo-1559757175-0eb30cd8c063?w=720&q=80",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/news/mind_brain/neuroscience/",
+        "imageProxy": "https://images.weserv.nl/?url=images.unsplash.com%2Fphoto-1559757175-0eb30cd8c063%3Fw%3D720%26q%3D80&w=640&h=400&fit=cover&we&output=jpg"
+      }
+    ]
+  },
+  {
+    "batchId": "batch_2026-03-31T00-44",
+    "scannedAt": "2026-03-31T00:44:30.582Z",
+    "items": [
+      {
+        "id": "batch_2026-03-31T00-44_2",
+        "rank": 2,
+        "title": "Scientists Finally Found Hidden Critical Point in Supercooled Water",
+        "category": "energy",
+        "summary": "Scientists have finally found a hidden 'critical point' in supercooled water that explains why it behaves so strangely, where two different liquid forms of water merge, triggering powerful fluctuations that affect water even at normal temperatures.",
+        "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=720&q=80",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/news/top/science/",
+        "imageProxy": "https://images.weserv.nl/?url=images.unsplash.com%2Fphoto-1544551763-46a013bb70d5%3Fw%3D720%26q%3D80&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "batch_2026-03-31T00-44_3",
+        "rank": 3,
+        "title": "Philippine Teams Master 3D Sensor Fusion for Autonomous Robotics",
+        "category": "robotics",
+        "summary": "By synchronizing 3D LiDAR point clouds with 2D RGB video feeds, specialized Philippine teams provide the centimeter-level ground truth and temporal consistency required for autonomous robots to navigate complex, unstructured human environments with 99.9% reliability.",
+        "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=720&q=80",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/03/30/image-annotation-outsourcing-services-philippines-the-3d-sensor-fusion-frontier/100233/",
+        "imageProxy": "https://images.weserv.nl/?url=images.unsplash.com%2Fphoto-1485827404703-89b55fcc595e%3Fw%3D720%26q%3D80&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "batch_2026-03-31T00-44_4",
+        "rank": 4,
+        "title": "Solar Cells Achieve Impossible 130% Efficiency Through Singlet Fission",
+        "category": "energy",
+        "summary": "A new solar breakthrough may overcome a long-standing efficiency barrier using a 'spin-flip' metal complex to capture and multiply energy from sunlight through singlet fission, reaching about 130% efficiency with more energy carriers produced than photons absorbed.",
+        "image": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?w=720&q=80",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/",
+        "imageProxy": "https://images.weserv.nl/?url=images.unsplash.com%2Fphoto-1508514177221-188b1cf16e9d%3Fw%3D720%26q%3D80&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "batch_2026-03-31T00-44_5",
+        "rank": 5,
+        "title": "Quasars Shut Down Star Formation in Distant Galaxies",
+        "category": "space",
+        "summary": "Scientists found that quasars emit radiation strong enough to shut down star formation in nearby galaxies millions of light-years away, a blazing supermassive black hole influencing far more than its own galaxy.",
+        "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2021/01/011321_lg_cold_quasar_feat.jpg",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/news/top/science/",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencenews.org%2Fwp-content%2Fuploads%2Fsites%2F2%2F2021%2F01%2F011321_lg_cold_quasar_feat.jpg&w=640&h=400&fit=cover&we&output=jpg"
       }
     ]
   }

@@ -5,7 +5,11 @@ on:
     branches: [main]
   workflow_dispatch:
   workflow_run:
-    workflows: ["Auto-Scan News", "Restore Archive"]
+    workflows:
+      - Auto-Scan News
+      - Restore Archive
+      - Daily Editorial Draft (9pm ET)
+      - Daily Editorial Publish (8am ET)
     types: [completed]
 
 permissions:

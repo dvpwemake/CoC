@@ -1,394 +1,763 @@
 [
   {
-    "batchId": "auto_2026-07-13T20-45",
-    "scannedAt": "2026-07-13T20:45:36.490Z",
+    "batchId": "auto_2026-07-06T21-16",
+    "scannedAt": "2026-07-06T21:16:53.423Z",
     "items": [
       {
-        "id": "auto_2026-07-13T20-45_1",
+        "id": "auto_2026-07-06T21-16_1",
         "rank": 1,
-        "title": "Testosterone Drives Early Pubertal Distress in Girls",
-        "category": "neuroscience",
-        "summary": "A new study demonstrates that rising testosterone levels are a primary predictor of anxiety and depression symptoms in preteens aged 10 to 12.",
-        "image": "https://neurosciencenews.com/files/2026/07/testosterone-pubity-emotion-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/testosterone-puberty-girls-emotional-distress-31042/"
-      },
-      {
-        "id": "auto_2026-07-13T20-45_2",
-        "rank": 2,
-        "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
-        "category": "ai",
-        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/thinking2.jpg?resize=1200,600",
-        "source": "MIT Technology Review",
-        "sourceUrl": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/"
-      },
-      {
-        "id": "auto_2026-07-13T20-45_3",
-        "rank": 3,
-        "title": "STAT+: Dementia study replicates promising outcomes following risk-reduction strategies",
+        "title": "STAT+: Vertex acquires Crinetics Pharmaceuticals for $10 billion as biotech M&#038;A booms",
         "category": "biotech",
-        "summary": "A dementia prevention trial praised as a \"landmark\" effort further demonstrated the promise of structured programs tailored to local cultures.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/07/unnamed-1-4-1024x576.jpg",
+        "summary": "Vertex Pharmaceuticals will spend $10 billion to acquire Crinetics Pharmaceuticals and its drug for a rare endocrine disorder, the companies announced.",
+        "image": "https://www.statnews.com/wp-content/uploads/2024/07/AP20023802262338-1024x576.jpg",
         "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/07/13/aaic-in-30-alzheimers-treaatments-dementia-day-2-conference/?utm_campaign=rss"
+        "sourceUrl": "https://www.statnews.com/2026/07/06/vertex-acquires-crinetics-pharmaceuticals/?utm_campaign=rss",
+        "imageProxy": "https://images.weserv.nl/?url=www.statnews.com%2Fwp-content%2Fuploads%2F2024%2F07%2FAP20023802262338-1024x576.jpg&w=640&h=400&fit=cover&we&output=jpg"
       },
       {
-        "id": "auto_2026-07-13T20-45_4",
-        "rank": 4,
-        "title": "NASA Astronaut Anil Menon",
+        "id": "auto_2026-07-06T21-16_2",
+        "rank": 2,
+        "title": "Mediterranean Diet Boosts Psychological Well-Being Over Age 50",
+        "category": "neuroscience",
+        "summary": "A new study demonstrates that adherence to a Mediterranean diet significantly boosts positive psychological well-being (autonomy, purpose, and self-realization) in people over 50. The research proved this protective…",
+        "image": "https://neurosciencenews.com/files/2026/07/med-diet-wellbeing-aging-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/mediterranean-diet-psychological-well-being-31003/",
+        "imageProxy": "https://images.weserv.nl/?url=neurosciencenews.com%2Ffiles%2F2026%2F07%2Fmed-diet-wellbeing-aging-neuroscience-1155x770.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-07-06T21-16_3",
+        "rank": 3,
+        "title": "NASA Takes Flight For America's 250th",
         "category": "space",
-        "summary": "NASA astronaut Anil Menon poses in a spacesuit for a portrait at NASA's Johnson Space Center in Houston, Texas on Jan. 8, 2026. Menon will launch aboard the Roscosmos Soyuz MS-29 spacecraft to the International Space…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/07/jsc2026e000758orig.jpg",
+        "summary": "NASA Administrator Jared Isaacman leads a flyover featuring his personally owned Northrop F-5 Tiger during the Great American State Fair on July 4, 2026, on the National Mall in Washington, D.C. For 250 years, America…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/07/55374566234-d7c31b6e97-o.jpg",
         "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/image-article/nasa-astronaut-anil-menon/"
+        "sourceUrl": "https://www.nasa.gov/image-article/nasa-takes-flight-for-americas-250th/",
+        "imageProxy": "https://images.weserv.nl/?url=www.nasa.gov%2Fwp-content%2Fuploads%2F2026%2F07%2F55374566234-d7c31b6e97-o.jpg&w=640&h=400&fit=cover&we&output=jpg"
       },
       {
-        "id": "auto_2026-07-13T20-45_5",
+        "id": "auto_2026-07-06T21-16_4",
+        "rank": 4,
+        "title": "Your family's $300 stake in OpenAI",
+        "category": "ai",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/openai-money.jpg?resize=1200,600",
+        "source": "MIT Technology Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+        "imageProxy": "https://images.weserv.nl/?url=wp.technologyreview.com%2Fwp-content%2Fuploads%2F2026%2F07%2Fopenai-money.jpg%3Fresize%3D1200%2C600&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-07-06T21-16_5",
         "rank": 5,
-        "title": "A new deal on balcony solar just dropped in the US",
+        "title": "Duke Energy proposes special rules for data centers in North Carolina",
         "category": "energy",
-        "summary": "Do you live in the U.S. and want balcony solar ? A new initiative could help you get a deal on one of these small but mighty systems that plug into a standard outlet and push clean power into your home. Today,…",
-        "image": "https://img.canarymedia.com/content/uploads/Balcony-Solar-on-Deck.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=a9a2ae85c3d9e6f8c36ffaad3590cef4",
+        "summary": "For months, clean energy and consumer advocates in North Carolina have pressed Duke Energy to follow the national trend and create special rules and prices for data centers. The state’s predominant utility insisted such…",
+        "image": "https://img.canarymedia.com/content/uploads/GettyImages-1235716373-copy.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=e38c5f8952dedbee4f8ce130af32bf5e",
         "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/solar/balcony-panel-bright-saver-deal"
+        "sourceUrl": "https://www.canarymedia.com/articles/data-centers/duke-energy-proposes-special-rules-for-data-centers-in-north-carolina",
+        "imageProxy": "https://images.weserv.nl/?url=img.canarymedia.com%2Fcontent%2Fuploads%2FGettyImages-1235716373-copy.jpeg%3Fauto%3Dcompress%252Cformat%26crop%3Dfocalpoint%26fit%3Dcrop%26fp-x%3D0.5%26fp-y%3D0.5%26h%3D630%26q%3D82%26w%3D1200%26s%3De38c5f8952dedbee4f8ce130af32bf5e&w=640&h=400&fit=cover&we&output=jpg"
       }
     ]
   },
   {
-    "batchId": "auto_2026-07-12T20-32",
-    "scannedAt": "2026-07-12T20:32:43.736Z",
+    "batchId": "auto_2026-07-05T20-43",
+    "scannedAt": "2026-07-05T20:43:42.103Z",
     "items": [
       {
-        "id": "auto_2026-07-12T20-32_1",
+        "id": "auto_2026-07-05T20-43_1",
         "rank": 1,
-        "title": "STAT+: Tau in the spotlight at Alzheimer’s conference",
-        "category": "biotech",
-        "summary": "From STAT's AAIC in 30 newsletter: Researchers focus on tau, and progress on crossing the blood-brain barrier.",
-        "image": "https://www.statnews.com/wp-content/uploads/2025/10/AdobeStock_127445117-1024x576.jpeg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/07/12/aaic-in-30-alzheimers-treaatments-focus-on-tau-blood-brain-barrier/?utm_campaign=rss"
-      },
-      {
-        "id": "auto_2026-07-12T20-32_2",
-        "rank": 2,
-        "title": "Decreasing Productivity Can Precede a Dementia Diagnosis by Years",
+        "title": "Psychedelic Trips Can Halt Political Hate",
         "category": "neuroscience",
-        "summary": "A new study demonstrates that early-onset dementia is associated with severe work productivity losses up to 15 years before a formal diagnosis.",
-        "image": "https://neurosciencenews.com/files/2026/07/demenita-productivity-neuroscience-1155x770.jpg",
+        "summary": "The collective cultural mood surrounding a psychedelic experience shapes its psychological aftermath. Participants whose most intense trips occurred on the Fourth of July reported a long-term decrease in support for…",
+        "image": "https://neurosciencenews.com/files/2026/07/psychedelic-political-violence-neuroscience-1155x770.jpg",
         "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/early-onset-dementia-work-productivity-31039/"
+        "sourceUrl": "https://neurosciencenews.com/psychedelics-cultural-political-psychology-30993/",
+        "imageProxy": "https://images.weserv.nl/?url=neurosciencenews.com%2Ffiles%2F2026%2F07%2Fpsychedelic-political-violence-neuroscience-1155x770.jpg&w=640&h=400&fit=cover&we&output=jpg"
       },
       {
-        "id": "auto_2026-07-12T20-32_3",
-        "rank": 3,
-        "title": "Parabilis tests propulsion system for maneuverable cubesats",
+        "id": "auto_2026-07-05T20-43_2",
+        "rank": 2,
+        "title": "NASA’s Hubble Spies Stellar Sparkler for July 4th",
         "category": "space",
-        "summary": "The Space Force is backing the development of the company’s hybrid engine technology for small satellites The post Parabilis tests propulsion system for maneuverable cubesats appeared first on SpaceNews .",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/DOTS-1.jpg?fit=786%2C576&ssl=1",
+        "summary": "Red, white, and blue stars glitter like a sparkler being waved on a dark night in this new image from NASA’s Hubble Space Telescope.",
+        "image": "https://assets.science.nasa.gov/content/dam/science/missions/hubble/stars/globular-clusters/Hubble_NGC6426_3_July4_FINAL2.tif/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "source": "NASA",
+        "sourceUrl": "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-stellar-sparkler-for-july-4th/",
+        "imageProxy": "https://images.weserv.nl/?url=assets.science.nasa.gov%2Fcontent%2Fdam%2Fscience%2Fmissions%2Fhubble%2Fstars%2Fglobular-clusters%2FHubble_NGC6426_3_July4_FINAL2.tif%2Fjcr%3Acontent%2Frenditions%2Fcq5dam.web.1280.1280.jpeg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-07-05T20-43_3",
+        "rank": 3,
+        "title": "Video Friday: An Earthbound Mars Rover for the Moon",
+        "category": "robotics",
+        "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us…",
+        "image": "https://spectrum.ieee.org/media-library/mars-style-rover-prototype-on-rugged-ground-under-a-clear-sky-with-the-moon-visible.png?id=67083121&width=980",
+        "source": "IEEE Spectrum",
+        "sourceUrl": "https://spectrum.ieee.org/video-friday-nasa-lunar-rover",
+        "imageProxy": "https://images.weserv.nl/?url=spectrum.ieee.org%2Fmedia-library%2Fmars-style-rover-prototype-on-rugged-ground-under-a-clear-sky-with-the-moon-visible.png%3Fid%3D67083121%26width%3D980&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-07-05T20-43_4",
+        "rank": 4,
+        "title": "Data centers use more power in the US than in any other country",
+        "category": "energy",
+        "summary": "This article is part of our ​“Chart of the Week” series . Data centers use more electricity in the U.S. than in any other country — China included. In 2025, nearly 40% of all power demand from data centers came from…",
+        "image": "https://img.canarymedia.com/content/uploads/COTW-Data-centers.png?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=80&w=1200&s=6ab88e95914464011c02c651929f39c5",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/data-centers/data-centers-use-more-power-in-the-us-than-anywhere-else",
+        "imageProxy": "https://images.weserv.nl/?url=img.canarymedia.com%2Fcontent%2Fuploads%2FCOTW-Data-centers.png%3Fauto%3Dcompress%252Cformat%26crop%3Dfocalpoint%26fit%3Dcrop%26fp-x%3D0.5%26fp-y%3D0.5%26h%3D630%26q%3D80%26w%3D1200%26s%3D6ab88e95914464011c02c651929f39c5&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-07-05T20-43_5",
+        "rank": 5,
+        "title": "STAT+: Medicare takes another swing at 340B cuts to hospitals",
+        "category": "biotech",
+        "summary": "Reducing Medicare payments for 340B drugs is the latest proposal focused on the hotly debated drug discount program.",
+        "image": "https://www.statnews.com/wp-content/uploads/2023/08/AdobeStock_385917483-1024x576.jpeg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/07/02/medicare-hospital-payment-340b-drugs-cut/?utm_campaign=rss",
+        "imageProxy": "https://images.weserv.nl/?url=www.statnews.com%2Fwp-content%2Fuploads%2F2023%2F08%2FAdobeStock_385917483-1024x576.jpeg&w=640&h=400&fit=cover&we&output=jpg"
+      }
+    ]
+  },
+  {
+    "batchId": "auto_2026-07-04T20-40",
+    "scannedAt": "2026-07-04T20:40:21.296Z",
+    "items": [
+      {
+        "id": "auto_2026-07-04T20-40_1",
+        "rank": 1,
+        "title": "GAO flags satellite costs, launch risks in Space Force portfolio",
+        "category": "space",
+        "summary": "Watchdog cites growing costs for missile-warning satellites, digital engineering gaps and workforce reductions that could slow national security launches The post GAO flags satellite costs, launch risks in Space Force…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2022/07/FYsxAiQVQAE6yUJ.jpg?fit=800%2C467&ssl=1",
         "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/parabilis-tests-propulsion-system-for-maneuverable-cubesats/"
+        "sourceUrl": "https://spacenews.com/gao-flags-satellite-costs-launch-risks-in-space-force-portfolio/",
+        "imageProxy": "https://images.weserv.nl/?url=i0.wp.com%2Fspacenews.com%2Fwp-content%2Fuploads%2F2022%2F07%2FFYsxAiQVQAE6yUJ.jpg%3Ffit%3D800%252C467%26ssl%3D1&w=640&h=400&fit=cover&we&output=jpg"
       },
       {
-        "id": "auto_2026-07-12T20-32_4",
-        "rank": 4,
-        "title": "A pioneering grid-battery factory is headed for this California city",
-        "category": "energy",
-        "summary": "Startup Peak Energy launched in 2023 with a promise to bring the up-and-coming sodium-ion battery chemistry to American shores. Now, it’s building a gigafactory in Sacramento, California, that will be the country’s…",
-        "image": "https://img.canarymedia.com/content/uploads/Peak-Energy-Sacramento_image-7.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=e3a891cdd9ff9c40fbdbb805c25701b6",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/batteries/pioneering-grid-battery-factory-california"
-      },
-      {
-        "id": "auto_2026-07-12T20-32_5",
-        "rank": 5,
-        "title": "Video Friday: A World Cup for Robots",
-        "category": "robotics",
-        "summary": "Video Friday is your weekly selection of awesome robotics videos , collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us…",
-        "image": "https://spectrum.ieee.org/media-library/humanoid-robots-play-soccer-as-a-ball-flies-toward-the-goal-in-a-tournament-arena.jpg?id=67119515&width=980",
-        "source": "IEEE Spectrum",
-        "sourceUrl": "https://spectrum.ieee.org/video-friday-robot-world-cup"
+        "id": "auto_2026-07-04T20-40_2",
+        "rank": 2,
+        "title": "LLMs and Math Combine to Map Human Decision-Making",
+        "category": "neuroscience",
+        "summary": "A new research framework that combines large language models (LLMs) with choice mathematics to evaluate human decision-making. By deploying LLMs to automatically interpret and code thousands of free-text participant…",
+        "image": "https://neurosciencenews.com/files/2026/07/llm-math-decision-making-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/llm-cognitive-mapping-decision-making-30992/",
+        "imageProxy": "https://images.weserv.nl/?url=neurosciencenews.com%2Ffiles%2F2026%2F07%2Fllm-math-decision-making-neuroscience-1155x770.jpg&w=640&h=400&fit=cover&we&output=jpg"
       }
     ]
   },
   {
-    "batchId": "auto_2026-07-11T20-35",
-    "scannedAt": "2026-07-11T20:35:03.236Z",
+    "batchId": "auto_2026-07-03T20-49",
+    "scannedAt": "2026-07-03T20:49:06.343Z",
     "items": [
       {
-        "id": "auto_2026-07-11T20-35_1",
+        "id": "auto_2026-07-03T20-49_1",
         "rank": 1,
-        "title": "Study Maps the 9 Distinct Types of Procrastinators",
+        "title": "Zero-Computational Path to High-Resolution Robotic Touch",
         "category": "neuroscience",
-        "summary": "A new study identifies 9 distinct archetypes of procrastinators, ranging from the control-seeking Rebel to the distraction-prone Zigzagger.",
-        "image": "https://neurosciencenews.com/files/2026/07/procrastination-neuroscience-1155x770.jpg",
+        "summary": "A new study introduces a soft robotic sensing skin made from mechanochromic materials. The polymer automatically converts mechanical strain into distinct structural color fields, allowing a low-cost camera to map…",
+        "image": "https://neurosciencenews.com/files/2026/07/robotic-touch-neuroscience-1155x770.jpg",
         "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/9-procrastination-types-31038/"
+        "sourceUrl": "https://neurosciencenews.com/mechanochromic-skin-robotic-tactile-30990/",
+        "imageProxy": "https://images.weserv.nl/?url=neurosciencenews.com%2Ffiles%2F2026%2F07%2Frobotic-touch-neuroscience-1155x770.jpg&w=640&h=400&fit=cover&we&output=jpg"
       },
       {
-        "id": "auto_2026-07-11T20-35_2",
-        "rank": 2,
-        "title": "A pioneering grid-battery factory is headed for this California city",
-        "category": "energy",
-        "summary": "Startup Peak Energy launched in 2023 with a promise to bring the up-and-coming sodium-ion battery chemistry to American shores. Now, it’s building a gigafactory in Sacramento, California, that will be the country’s…",
-        "image": "https://img.canarymedia.com/content/uploads/Peak-Energy-Sacramento_image-7.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=e3a891cdd9ff9c40fbdbb805c25701b6",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/batteries/pioneering-grid-battery-factory-california"
-      },
-      {
-        "id": "auto_2026-07-11T20-35_3",
+        "id": "auto_2026-07-03T20-49_3",
         "rank": 3,
-        "title": "Nominee for key federal health role has a history of questioning vaccines",
-        "category": "biotech",
-        "summary": "Sean Kaufman's views on vaccines may put him at odds with Sen. Bill Cassidy during next week's confirmation hearing.",
-        "image": "https://www.statnews.com/wp-content/uploads/2025/04/GettyImages-2207186375-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/07/10/sean-kaufman-hhs-nominee-past-statements-question-vaccine-safety/?utm_campaign=rss"
-      },
-      {
-        "id": "auto_2026-07-11T20-35_4",
-        "rank": 4,
-        "title": "Early Career Faculty (ECF) 2025 Awards",
+        "title": "Chinese satellite manufacturer Hongqing raises $191 million",
         "category": "space",
-        "summary": "Back to ECF Home Advanced Diagnostics for High-Enthalpy Test Facilities Simulating Spacecraft Atmospheric Entry Planning for Autonomous Spacecraft Using Machine Learning Methods to Enable Onboard Guidance, Navigation,…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/03/nsmerger-illus-ns.jpg",
-        "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/directorates/stmd/space-tech-research-grants/ecf/early-career-faculty-ecf-2025-awards/"
-      },
-      {
-        "id": "auto_2026-07-11T20-35_5",
-        "rank": 5,
-        "title": "Video Friday: A World Cup for Robots",
-        "category": "robotics",
-        "summary": "Video Friday is your weekly selection of awesome robotics videos , collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us…",
-        "image": "https://spectrum.ieee.org/media-library/humanoid-robots-play-soccer-as-a-ball-flies-toward-the-goal-in-a-tournament-arena.jpg?id=67119515&width=980",
-        "source": "IEEE Spectrum",
-        "sourceUrl": "https://spectrum.ieee.org/video-friday-robot-world-cup"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-07-10T20-57",
-    "scannedAt": "2026-07-10T20:57:18.094Z",
-    "items": [
-      {
-        "id": "auto_2026-07-10T20-57_1",
-        "rank": 1,
-        "title": "Study Overturns Decades of External Axon Growth Theory",
-        "category": "neuroscience",
-        "summary": "A new study demonstrates that axon generation is driven by autonomous internal cellular mechanisms rather than external factors.",
-        "image": "https://neurosciencenews.com/files/2026/07/axon-growth-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/axon-formation-arp23-molecule-31035/"
-      },
-      {
-        "id": "auto_2026-07-10T20-57_2",
-        "rank": 2,
-        "title": "Nominee for key federal health role has a history of questioning vaccines",
-        "category": "biotech",
-        "summary": "Sean Kaufman's views on vaccines may put him at odds with Sen. Bill Cassidy during next week's confirmation hearing.",
-        "image": "https://www.statnews.com/wp-content/uploads/2025/04/GettyImages-2207186375-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/07/10/sean-kaufman-hhs-nominee-past-statements-question-vaccine-safety/?utm_campaign=rss"
-      },
-      {
-        "id": "auto_2026-07-10T20-57_3",
-        "rank": 3,
-        "title": "Early Career Faculty (ECF) 2025 Awards",
-        "category": "space",
-        "summary": "Back to ECF Home Advanced Diagnostics for High-Enthalpy Test Facilities Simulating Spacecraft Atmospheric Entry Planning for Autonomous Spacecraft Using Machine Learning Methods to Enable Onboard Guidance, Navigation,…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/03/nsmerger-illus-ns.jpg",
-        "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/directorates/stmd/space-tech-research-grants/ecf/early-career-faculty-ecf-2025-awards/"
-      },
-      {
-        "id": "auto_2026-07-10T20-57_4",
-        "rank": 4,
-        "title": "Clean energy helped the grid avoid heat-wave catastrophe",
-        "category": "energy",
-        "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter. Sign up to get it every Friday. Last week brought soaring temperatures to much of the U.S., forcing Americans to switch on their air…",
-        "image": "https://img.canarymedia.com/content/uploads/NYC-heat-wave-people-with-umbrellas_GettyImages-2284372317.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=27708a61be9da4ad33d8a18f1fcaba11",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/grid-edge/clean-energy-grid-heat-wave"
-      },
-      {
-        "id": "auto_2026-07-10T20-57_5",
-        "rank": 5,
-        "title": "Video Friday: A World Cup for Robots",
-        "category": "robotics",
-        "summary": "Video Friday is your weekly selection of awesome robotics videos , collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us…",
-        "image": "https://spectrum.ieee.org/media-library/humanoid-robots-play-soccer-as-a-ball-flies-toward-the-goal-in-a-tournament-arena.jpg?id=67119515&width=980",
-        "source": "IEEE Spectrum",
-        "sourceUrl": "https://spectrum.ieee.org/video-friday-robot-world-cup"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-07-09T21-08",
-    "scannedAt": "2026-07-09T21:08:26.697Z",
-    "items": [
-      {
-        "id": "auto_2026-07-09T21-08_1",
-        "rank": 1,
-        "title": "1,000-Subject Trial Maps Brain Aging in the Real World",
-        "category": "neuroscience",
-        "summary": "A technologically ambitious partnership between UCSF Neuroscape and Samsung launches the TAH-DA study, a massive remote longitudinal trial utilizing consumer wearables to predict and track cognitive decline across the…",
-        "image": "https://neurosciencenews.com/files/2026/07/neurotech-cognitive-decline-lifespan-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/brain-aging-cognition-neurotech-31028/"
-      },
-      {
-        "id": "auto_2026-07-09T21-08_2",
-        "rank": 2,
-        "title": "Anthropic found a hidden space where Claude puzzles over concepts",
-        "category": "ai",
-        "summary": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/llm-crystal-globe_1.jpg?resize=1200,600",
-        "source": "MIT Technology Review",
-        "sourceUrl": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/"
-      },
-      {
-        "id": "auto_2026-07-09T21-08_3",
-        "rank": 3,
-        "title": "The Exploration Company establishes US entity to pursue government contracts",
-        "category": "space",
-        "summary": "JOHANNESBURG — The Exploration Company, a space transportation company based in Germany, established TEC Federal, a United States-based entity that will enable it to compete for government programs and contracts. […]…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/nyx-droptest.jpeg?fit=1024%2C683&ssl=1",
+        "summary": "HELSINKI — Hongqing Technology, the satellite manufacturing affiliate of launch firm Landspace, has secured one of the largest single raises for a Chinese commercial satellite maker. The funding round, announced […] The…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/Zhuque-2E-Spacesail-DTC-ChinaMobile02-9june2026-landspace.jpg?fit=1024%2C576&ssl=1",
         "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/the-exploration-company-establishes-us-entity-to-pursue-government-contracts/"
-      },
-      {
-        "id": "auto_2026-07-09T21-08_4",
-        "rank": 4,
-        "title": "Whistleblower takes on health insurance and FDA commissioner candidates",
-        "category": "biotech",
-        "summary": "This week on \"The Readout LOUD\" podcast: Why does getting family health insurance through a job cost as much as buying a new car? And who might be the new…",
-        "image": "https://www.statnews.com/wp-content/uploads/2024/07/ROL_Rectangle-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/07/09/readout-loud-podcast-fda-commissioner-candidates-health-insurance-costs/?utm_campaign=rss"
-      },
-      {
-        "id": "auto_2026-07-09T21-08_5",
-        "rank": 5,
-        "title": "Ohio Power Siting Board asks court to punt on high-stakes solar case",
-        "category": "energy",
-        "summary": "For more than a year, the Ohio Supreme Court has been set to make a landmark ruling in a case with high stakes for renewable energy development. But now, the Ohio Power Siting Board has asked the court to skip that and…",
-        "image": "https://img.canarymedia.com/content/uploads/Ohio_Judicial_Center_façade_Wikipedia.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=64cbf2a9010769a921f78f8852307d1f",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/solar/ohio-power-siting-board-solar-case"
+        "sourceUrl": "https://spacenews.com/chinese-satellite-manufacturer-hongqing-raises-191-million/",
+        "imageProxy": "https://images.weserv.nl/?url=i0.wp.com%2Fspacenews.com%2Fwp-content%2Fuploads%2F2026%2F06%2FZhuque-2E-Spacesail-DTC-ChinaMobile02-9june2026-landspace.jpg%3Ffit%3D1024%252C576%26ssl%3D1&w=640&h=400&fit=cover&we&output=jpg"
       }
     ]
   },
   {
-    "batchId": "auto_2026-07-08T20-51",
-    "scannedAt": "2026-07-08T20:51:54.549Z",
+    "batchId": "auto_2026-07-02T20-48",
+    "scannedAt": "2026-07-02T20:48:30.541Z",
     "items": [
       {
-        "id": "auto_2026-07-08T20-51_1",
+        "id": "auto_2026-07-02T20-48_1",
         "rank": 1,
-        "title": "STAT+: RFK Jr. plans to create list of injuries caused by Covid-19 vaccines",
-        "category": "biotech",
-        "summary": "It's not clear what conditions may make the list, but outside experts are watching it closely.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/07/GettyImages-1230308380-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/07/08/hhs-to-propose-covid-19-countermeasures-injury-table/?utm_campaign=rss"
-      },
-      {
-        "id": "auto_2026-07-08T20-51_2",
-        "rank": 2,
-        "title": "Tears Can Be Used to Detect Dopamine Levels",
+        "title": "Study Aims to Stop Alzheimer’s Inflammation in APOE4 Carriers",
         "category": "neuroscience",
-        "summary": "A new study introduces a low-cost, laser-induced graphene electrochemical sensor designed to detect dopamine levels in human tears.",
-        "image": "https://neurosciencenews.com/files/2026/07/tears-dopamine-neurosceince-1155x770.jpg",
+        "summary": "The project uses artificial intelligence and small-molecule targeting to inhibit the cPLA2 enzyme, providing a novel pathway to shut down brain inflammation in high-risk APOE4 gene carriers.",
+        "image": "https://neurosciencenews.com/files/2026/07/apoe4-alzheimers-neuroscience-1155x770.jpg",
         "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/tears-dopamine-parkinsons-neurotech-31017/"
+        "sourceUrl": "https://neurosciencenews.com/apoe4-alzheimers-inflammation-30984/",
+        "imageProxy": "https://images.weserv.nl/?url=neurosciencenews.com%2Ffiles%2F2026%2F07%2Fapoe4-alzheimers-neuroscience-1155x770.jpg&w=640&h=400&fit=cover&we&output=jpg"
       },
       {
-        "id": "auto_2026-07-08T20-51_3",
+        "id": "auto_2026-07-02T20-48_3",
         "rank": 3,
-        "title": "Hubble Captures Star-Studded Cluster",
+        "title": "Perovskite solar panel startup Verde Technologies shifts focus to space",
         "category": "space",
-        "summary": "This image from NASA’s&#160;Hubble Space Telescope showcases&#160;Messier 3&#160;(M3), one of the Milky Way galaxy’s most massive globular clusters, or spherical collections of gravitationally bound stars.&#160;Globular…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/07/hubble-m3-july4-final.jpg",
-        "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/image-article/hubble-captures-star-studded-cluster/"
+        "summary": "Verde Technologies is turning to space to commercialize perovskite-based solar panels, shifting its initial focus away from rooftops in a bet that the thin-film material can help power orbital data centers and other…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/RTR-perovskite-manufaturing-scaled.jpeg?fit=1024%2C768&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/perovskite-solar-panel-startup-verde-technologies-shifts-focus-to-space/",
+        "imageProxy": "https://images.weserv.nl/?url=i0.wp.com%2Fspacenews.com%2Fwp-content%2Fuploads%2F2026%2F07%2FRTR-perovskite-manufaturing-scaled.jpeg%3Ffit%3D1024%252C768%26ssl%3D1&w=640&h=400&fit=cover&we&output=jpg"
       },
       {
-        "id": "auto_2026-07-08T20-51_4",
+        "id": "auto_2026-07-02T20-48_4",
         "rank": 4,
-        "title": "Southern California clean-heat rule survives key legal challenge",
+        "title": "Trump's ‘big, beautiful’ law was supposed to kill clean energy. It didn't.",
         "category": "energy",
-        "summary": "Southern California’s landmark rule to slash emissions from industrial heating sources just notched a major victory in court. The region has some of the worst air quality in the U.S., and the gas-fueled boilers and…",
-        "image": "https://img.canarymedia.com/content/uploads/Gas-flames_GettyImages-539260384.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=b3fad5caa70e9f95fcbe54f021ee10c6",
+        "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter. Sign up to get it every Friday. One year ago, President Donald Trump got his Fourth-of-July wish. Republicans rammed a massive tax and…",
+        "image": "https://img.canarymedia.com/content/uploads/GettyImages-2222880692.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=1d94a7e45d1cfc35364ef105103ba083",
         "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/electrification/southern-california-clean-heat-rule-survives"
+        "sourceUrl": "https://www.canarymedia.com/articles/clean-energy/trumps-big-beautiful-law-was-supposed-to-kill-clean-energy-it-didnt",
+        "imageProxy": "https://images.weserv.nl/?url=img.canarymedia.com%2Fcontent%2Fuploads%2FGettyImages-2222880692.jpg%3Fauto%3Dcompress%252Cformat%26crop%3Dfocalpoint%26fit%3Dcrop%26fp-x%3D0.5%26fp-y%3D0.5%26h%3D630%26q%3D82%26w%3D1200%26s%3D1d94a7e45d1cfc35364ef105103ba083&w=640&h=400&fit=cover&we&output=jpg"
       },
       {
-        "id": "auto_2026-07-08T20-51_5",
+        "id": "auto_2026-07-02T20-48_5",
         "rank": 5,
-        "title": "IEEE Honors Robotics Pioneer Toshio Fukuda",
-        "category": "robotics",
-        "summary": "Toshio Fukuda has been blazing trails for most of his career. He is considered to be one of the most prolific scholars in robotics , writing more than 2,000 research papers and authoring several books on the field. He’s…",
-        "image": "https://spectrum.ieee.org/media-library/three-men-in-suits-onstage-smiling-as-one-presents-an-award-medal-in-a-box.jpg?id=67107362&width=980",
-        "source": "IEEE Spectrum",
-        "sourceUrl": "https://spectrum.ieee.org/ieee-honors-toshio-fukuda"
+        "title": "Achieving operational excellence with AI",
+        "category": "ai",
+        "summary": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, sprawling operations. Lean Six Sigma…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/MITTR2026_TP2_1200SocialCover.png?resize=1200,600",
+        "source": "MIT Technology Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
+        "imageProxy": "https://images.weserv.nl/?url=wp.technologyreview.com%2Fwp-content%2Fuploads%2F2026%2F07%2FMITTR2026_TP2_1200SocialCover.png%3Fresize%3D1200%2C600&w=640&h=400&fit=cover&we&output=jpg"
       }
     ]
   },
   {
-    "batchId": "auto_2026-07-07T21-11",
-    "scannedAt": "2026-07-07T21:11:48.248Z",
+    "batchId": "auto_2026-07-01T21-14",
+    "scannedAt": "2026-07-01T21:14:12.055Z",
     "items": [
       {
-        "id": "auto_2026-07-07T21-11_1",
+        "id": "auto_2026-07-01T21-14_1",
         "rank": 1,
-        "title": "Quaise Energy raises $134M to fuel superhot geothermal ambitions",
-        "category": "energy",
-        "summary": "Startup Quaise Energy has raised $134 million to advance its first superhot geothermal power plant in central Oregon. On Tuesday, the Houston-based company announced the first tranche of its Series B financing round,…",
-        "image": "https://img.canarymedia.com/content/uploads/QUAISE0-00-43-08.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=708c5436eef1c33f18a9c60e57544b02",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/geothermal/quaise-energy-raises-134m"
-      },
-      {
-        "id": "auto_2026-07-07T21-11_2",
-        "rank": 2,
-        "title": "NASA Transfers ‘Hundred Acre Wood’ to Patuxent Research Refuge",
-        "category": "space",
-        "summary": "NASA ceremonially transferred ownership of about 105 acres of wooded land at its Goddard Space Flight Center’s Greenbelt, Maryland, campus Tuesday to the adjoining Patuxent Research Refuge, managed by the U.S. Fish and…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/07/gsfc-20260707-signingevent-2026-10452-13.jpg",
-        "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/centers-and-facilities/goddard/nasa-transfers-hundred-acre-wood-to-patuxent-research-refuge/"
-      },
-      {
-        "id": "auto_2026-07-07T21-11_3",
-        "rank": 3,
-        "title": "STAT+: FDA approves Vera Therapeutics kidney disease treatment",
-        "category": "biotech",
-        "summary": "The FDA approved a new medicine from the biotech company Vera Therapeutics for patients with a type of chronic autoimmune kidney disease.",
-        "image": "https://www.statnews.com/wp-content/uploads/2022/12/AdobeStock_61891029-1024x576.jpeg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/07/07/vera-therapeutics-kidney-disease-treatment-approval/?utm_campaign=rss"
-      },
-      {
-        "id": "auto_2026-07-07T21-11_4",
-        "rank": 4,
-        "title": "The foundational elements of AI architecture that IT leaders need to scale",
-        "category": "ai",
-        "summary": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces risk, leaving IT…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/iStock-2216481617_7fbe0d.jpg?resize=1200,600",
-        "source": "MIT Technology Review",
-        "sourceUrl": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/"
-      },
-      {
-        "id": "auto_2026-07-07T21-11_5",
-        "rank": 5,
-        "title": "Hypothalamic specification in a dish",
+        "title": "Slow Maternal Response Time Linked to ADHD in Kids",
         "category": "neuroscience",
-        "summary": "Nature Neuroscience, Published online: 06 July 2026; doi:10.1038/s41593-026-02370-5 Hypothalamic specification in a dish",
-        "image": "",
-        "source": "Nature Neuroscience",
-        "sourceUrl": "https://www.nature.com/articles/s41593-026-02370-5"
+        "summary": "Slower maternal vocal response times to 12-month-old infants predict an increased risk of ADHD and disruptive behavior disorders by age 7. For every 10% increase in the probability of a maternal response within one…",
+        "image": "https://neurosciencenews.com/files/2026/07/maternal-response-adhd-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/maternal-response-latency-childhood-adhd-30976/",
+        "imageProxy": "https://images.weserv.nl/?url=neurosciencenews.com%2Ffiles%2F2026%2F07%2Fmaternal-response-adhd-neuroscience-1155x770.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-07-01T21-14_2",
+        "rank": 2,
+        "title": "FCC to vote on satellite licensing overhaul July 22",
+        "category": "space",
+        "summary": "The FCC is set to vote July 22 on an order to overhaul its satellite application process, creating a “licensing assembly line” to keep up with increasingly large and complex constellation plans. The post FCC to vote on…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/FCC-chairman-scaled.jpeg?fit=1024%2C704&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/fcc-to-vote-on-satellite-licensing-overhaul-july-22/",
+        "imageProxy": "https://images.weserv.nl/?url=i0.wp.com%2Fspacenews.com%2Fwp-content%2Fuploads%2F2025%2F10%2FFCC-chairman-scaled.jpeg%3Ffit%3D1024%252C704%26ssl%3D1&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-07-01T21-14_3",
+        "rank": 3,
+        "title": "STAT+: The moment Anthropic convinced me it’s serious about science",
+        "category": "biotech",
+        "summary": "AI Prognosis: The release of Claude Science suggests big model makers are getting serious about real science, and not just flashy problems.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/06/AIPrognosis_Wordpress_Anthropic-1024x576.png",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/07/01/anthropic-claude-science-convinced-me-its-serious-ai-prognosis/?utm_campaign=rss",
+        "imageProxy": "https://images.weserv.nl/?url=www.statnews.com%2Fwp-content%2Fuploads%2F2026%2F06%2FAIPrognosis_Wordpress_Anthropic-1024x576.png&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-07-01T21-14_4",
+        "rank": 4,
+        "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+        "category": "ai",
+        "summary": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll get 3 or 4. Type…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/260626_LLMhallucinations.jpg?resize=1200,600",
+        "source": "MIT Technology Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+        "imageProxy": "https://images.weserv.nl/?url=wp.technologyreview.com%2Fwp-content%2Fuploads%2F2026%2F06%2F260626_LLMhallucinations.jpg%3Fresize%3D1200%2C600&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-07-01T21-14_5",
+        "rank": 5,
+        "title": "Martha’s Vineyard solar array will cut bills for low-income islanders",
+        "category": "energy",
+        "summary": "A new solar installation on Martha’s Vineyard is set to lower utility costs for hundreds of low-income, year-round residents on the island best known as an upscale vacation destination. The project is the first to come…",
+        "image": "https://img.canarymedia.com/content/uploads/MVH-Workforce-Housing-SolarShare-Image-1.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=86b7d7ffde719ca4f606655ca9c587cd",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/solar/marthas-vineyard-rooftop-array-cut-bills",
+        "imageProxy": "https://images.weserv.nl/?url=img.canarymedia.com%2Fcontent%2Fuploads%2FMVH-Workforce-Housing-SolarShare-Image-1.jpg%3Fauto%3Dcompress%252Cformat%26crop%3Dfocalpoint%26fit%3Dcrop%26fp-x%3D0.5%26fp-y%3D0.5%26h%3D630%26q%3D82%26w%3D1200%26s%3D86b7d7ffde719ca4f606655ca9c587cd&w=640&h=400&fit=cover&we&output=jpg"
       }
     ]
+  },
+  {
+    "batchId": "auto_2026-06-30T21-20",
+    "scannedAt": "2026-06-30T21:20:34.158Z",
+    "items": [
+      {
+        "id": "auto_2026-06-30T21-20_1",
+        "rank": 1,
+        "title": "Does Melatonin Help Reduce Chronic Pain?",
+        "category": "neuroscience",
+        "summary": "Melatonin can reduce chronic musculoskeletal pain by 9 to 10 points on a 100-point scale. This therapeutic relief matches the efficacy of opioids and NSAIDs while bypassing their severe risks of organ toxicity and…",
+        "image": "https://neurosciencenews.com/files/2026/06/melotonin-pain-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/melatonin-chronic-pain-management-30973/",
+        "imageProxy": "https://images.weserv.nl/?url=neurosciencenews.com%2Ffiles%2F2026%2F06%2Fmelotonin-pain-neuroscience-1155x770.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-06-30T21-20_2",
+        "rank": 2,
+        "title": "NASA’s Chandra Reveals ‘Red, White, Blue’ Universe for US 250th",
+        "category": "space",
+        "summary": "In celebration of the 250th birthday of the United States, NASA has unveiled four cosmic images from its Chandra X-ray Observatory rendered in red, white, and blue that represent the wonders of the universe the agency…",
+        "image": "https://assets.science.nasa.gov/content/dam/science/missions/chandra/2026/250th_ngc3603.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "source": "NASA",
+        "sourceUrl": "https://science.nasa.gov/missions/chandra/nasas-chandra-reveals-red-white-blue-universe-for-us-250th/",
+        "imageProxy": "https://images.weserv.nl/?url=assets.science.nasa.gov%2Fcontent%2Fdam%2Fscience%2Fmissions%2Fchandra%2F2026%2F250th_ngc3603.jpg%2Fjcr%3Acontent%2Frenditions%2Fcq5dam.web.1280.1280.jpeg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-06-30T21-20_3",
+        "rank": 3,
+        "title": "Republican Tom Kean Jr. reveals depression diagnosis after his four-month absence from Congress",
+        "category": "biotech",
+        "summary": "Depression, the New Jersey congressman said, “is physical, it is emotional, and until you experience it yourself, it is difficult to fully understand how powerful this illness can be.”",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/06/AP26181659823884-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/06/30/republican-tom-kean-jr-reveals-depression-after-absence-from-congress/?utm_campaign=rss",
+        "imageProxy": "https://images.weserv.nl/?url=www.statnews.com%2Fwp-content%2Fuploads%2F2026%2F06%2FAP26181659823884-1024x576.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-06-30T21-20_4",
+        "rank": 4,
+        "title": "Agriculture is ready for AI, but its data isn't",
+        "category": "ai",
+        "summary": "Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the groundwork.&#160; The use cases are promising, especially for an…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/Reltio-iStock-2279127589.jpg?resize=1200,600",
+        "source": "MIT Technology Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
+        "imageProxy": "https://images.weserv.nl/?url=wp.technologyreview.com%2Fwp-content%2Fuploads%2F2026%2F06%2FReltio-iStock-2279127589.jpg%3Fresize%3D1200%2C600&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-06-30T21-20_5",
+        "rank": 5,
+        "title": "Vermont is boosting new homes that can cut energy use in half",
+        "category": "energy",
+        "summary": "Vermont just got its biggest delivery of superefficient manufactured homes — the latest example of how a pioneering state program can lower energy bills for residents of this type of affordable housing. The…",
+        "image": "https://img.canarymedia.com/content/uploads/evt-advanced-manufactured-homes-0020-6000x4000.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=f3f3fff23338d0c5ef5d20fba24646e0",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/energy-efficiency/vermont-cut-utility-bills-manufactured-homes",
+        "imageProxy": "https://images.weserv.nl/?url=img.canarymedia.com%2Fcontent%2Fuploads%2Fevt-advanced-manufactured-homes-0020-6000x4000.jpg%3Fauto%3Dcompress%252Cformat%26crop%3Dfocalpoint%26fit%3Dcrop%26fp-x%3D0.5%26fp-y%3D0.5%26h%3D630%26q%3D82%26w%3D1200%26s%3Df3f3fff23338d0c5ef5d20fba24646e0&w=640&h=400&fit=cover&we&output=jpg"
+      }
+    ]
+  },
+  {
+    "batchId": "auto_2026-06-29T21-14",
+    "scannedAt": "2026-06-29T21:14:46.695Z",
+    "items": [
+      {
+        "id": "auto_2026-06-29T21-14_1",
+        "rank": 1,
+        "title": "Comforting Others Is a Cultural Trait, Not a Universal Instinct",
+        "category": "neuroscience",
+        "summary": "Comforting others is a culturally bounded motive rather than a universal human instinct. While individualistic societies actively try to eliminate a peer's distress to foster intimacy, collectivistic cultures…",
+        "image": "https://neurosciencenews.com/files/2026/06/cultural-empathy-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/culture-empathy-interpersonal-emotion-30963/",
+        "imageProxy": "https://images.weserv.nl/?url=neurosciencenews.com%2Ffiles%2F2026%2F06%2Fcultural-empathy-neuroscience-1155x770.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-06-29T21-14_2",
+        "rank": 2,
+        "title": "STAT+: AstraZeneca to pay $34 million to settle kickback charges filed by Texas attorney general",
+        "category": "biotech",
+        "summary": "AstraZeneca agreed to pay $34 million to settle claims that the company paid kickbacks to improperly influence prescriptions paid for by Texas Medicaid.",
+        "image": "https://www.statnews.com/wp-content/uploads/2024/03/GettyImages-1213413730-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/pharmalot/2026/06/29/astrazeneca-kickback-charges-texas-settlement/?utm_campaign=rss",
+        "imageProxy": "https://images.weserv.nl/?url=www.statnews.com%2Fwp-content%2Fuploads%2F2024%2F03%2FGettyImages-1213413730-1024x576.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-06-29T21-14_3",
+        "rank": 3,
+        "title": "AI agents are not your \"coworkers\"",
+        "category": "ai",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine coming in to work to learn that a new underling will report to you. The…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/260625_AIAgents.jpg?resize=1200,600",
+        "source": "MIT Technology Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
+        "imageProxy": "https://images.weserv.nl/?url=wp.technologyreview.com%2Fwp-content%2Fuploads%2F2026%2F06%2F260625_AIAgents.jpg%3Fresize%3D1200%2C600&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-06-29T21-14_4",
+        "rank": 4,
+        "title": "ESA to seek lunar mapping capability for Argonaut lander",
+        "category": "space",
+        "summary": "MILAN — The European Space Agency will rely on external lunar topographic data during the design phase of its Argonaut lunar lander, and possibly for its first mission, while working […] The post ESA to seek lunar…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/Artist_s_view_of_the_Argonaut_lunar_lander-scaled.jpg?fit=1024%2C625&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/esa-to-seek-lunar-mapping-capability-for-argonaut-lander/",
+        "imageProxy": "https://images.weserv.nl/?url=i0.wp.com%2Fspacenews.com%2Fwp-content%2Fuploads%2F2025%2F11%2FArtist_s_view_of_the_Argonaut_lunar_lander-scaled.jpg%3Ffit%3D1024%252C625%26ssl%3D1&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-06-29T21-14_5",
+        "rank": 5,
+        "title": "A year after US Steel was sold, communities push for clean investment",
+        "category": "energy",
+        "summary": "A year ago this month, Japan’s Nippon Steel acquired U.S. Steel, promising to plow $14 billion into America’s legendary but long-declining steel industry. The hard-fought deal was controversial and highly politicized .…",
+        "image": "https://img.canarymedia.com/content/uploads/Gary-Works-rooftop-view.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=04a83af6341e3db8a87833029e1c8b3f",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/green-steel/year-after-us-steel-sold",
+        "imageProxy": "https://images.weserv.nl/?url=img.canarymedia.com%2Fcontent%2Fuploads%2FGary-Works-rooftop-view.jpeg%3Fauto%3Dcompress%252Cformat%26crop%3Dfocalpoint%26fit%3Dcrop%26fp-x%3D0.5%26fp-y%3D0.5%26h%3D630%26q%3D82%26w%3D1200%26s%3D04a83af6341e3db8a87833029e1c8b3f&w=640&h=400&fit=cover&we&output=jpg"
+      }
+    ]
+  },
+  {
+    "batchId": "auto_2026-06-28T20-48",
+    "scannedAt": "2026-06-28T20:48:02.864Z",
+    "items": [
+      {
+        "id": "auto_2026-06-28T20-48_1",
+        "rank": 1,
+        "title": "Hearing Aids Linked to 23% Lower Dementia Risk in Epilepsy",
+        "category": "neuroscience",
+        "summary": "Hearing aid use is associated with a 23% lower risk of dementia exclusively in adults with both epilepsy and hearing loss, likely due to the critical preservation of depleted cognitive reserve.",
+        "image": "https://neurosciencenews.com/files/2026/06/hearing-aid-dementia-epilepsy-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/hearing-aids-epilepsy-dementia-30956/",
+        "imageProxy": "https://images.weserv.nl/?url=neurosciencenews.com%2Ffiles%2F2026%2F06%2Fhearing-aid-dementia-epilepsy-neuroscience-1155x770.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-06-28T20-48_2",
+        "rank": 2,
+        "title": "Opinion: Supreme Court ruling on Roundup points to a confusing difference between the law and science",
+        "category": "biotech",
+        "summary": "The Supreme Court’s ruling on Roundup shows science and law use the same word — causation — while asking different questions, writes epidemiologist.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/06/GettyImages-2283306424-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/06/27/roundup-glyphosate-cancer-monsanto-v-durnell-supreme-court/?utm_campaign=rss",
+        "imageProxy": "https://images.weserv.nl/?url=www.statnews.com%2Fwp-content%2Fuploads%2F2026%2F06%2FGettyImages-2283306424-1024x576.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-06-28T20-48_3",
+        "rank": 3,
+        "title": "Rocket Lab launches 10th Synspective satellite",
+        "category": "space",
+        "summary": "Rocket Lab launched a radar-imaging satellite for Japanese company Synspective on June 26, a flight delayed by a responsive space mission. The post Rocket Lab launches 10th Synspective satellite appeared first on…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/electron-strix10.jpeg?fit=1024%2C556&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/rocket-lab-launches-10th-synspective-satellite/",
+        "imageProxy": "https://images.weserv.nl/?url=i0.wp.com%2Fspacenews.com%2Fwp-content%2Fuploads%2F2026%2F06%2Felectron-strix10.jpeg%3Ffit%3D1024%252C556%26ssl%3D1&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-06-28T20-48_4",
+        "rank": 4,
+        "title": "These states are the best for EV buyers and drivers",
+        "category": "energy",
+        "summary": "America’s EV industry has suffered a series of bad breaks over the last year and a half. The end of federal tax credits for electric vehicles sent sales of new EVs off a cliff last fall. A nationwide buildout of…",
+        "image": "https://img.canarymedia.com/content/uploads/GettyImages-2269134706.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=7598837099e3c9f365da521da01718f1",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/electric-vehicles/these-states-are-the-best-for-ev-buyers-and-drivers",
+        "imageProxy": "https://images.weserv.nl/?url=img.canarymedia.com%2Fcontent%2Fuploads%2FGettyImages-2269134706.jpg%3Fauto%3Dcompress%252Cformat%26crop%3Dfocalpoint%26fit%3Dcrop%26fp-x%3D0.5%26fp-y%3D0.5%26h%3D630%26q%3D82%26w%3D1200%26s%3D7598837099e3c9f365da521da01718f1&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-06-28T20-48_5",
+        "rank": 5,
+        "title": "Video Friday: Give Robots a Hand",
+        "category": "robotics",
+        "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us…",
+        "image": "https://spectrum.ieee.org/media-library/three-fingered-robotic-gripper-arm-crawls-upright-on-a-white-table.gif?id=67036633&width=980",
+        "source": "IEEE Spectrum",
+        "sourceUrl": "https://spectrum.ieee.org/video-friday-robot-grippers",
+        "imageProxy": "https://images.weserv.nl/?url=spectrum.ieee.org%2Fmedia-library%2Fthree-fingered-robotic-gripper-arm-crawls-upright-on-a-white-table.gif%3Fid%3D67036633%26width%3D980&w=640&h=400&fit=cover&we&output=jpg"
+      }
+    ]
+  },
+  {
+    "batchId": "auto_2026-06-27T20-45",
+    "scannedAt": "2026-06-27T20:45:56.064Z",
+    "items": [
+      {
+        "id": "auto_2026-06-27T20-45_3",
+        "rank": 3,
+        "title": "NASA Announces Winners for 2026 Human Lander Challenge",
+        "category": "space",
+        "summary": "NASA has announced the top student-developed solutions for environmental control and life support systems in future crewed lunar landers from participants in the 2026 Human Lander Challenge. The announcement marks the…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/06/ceb-6192.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-announces-winners-for-2026-human-lander-challenge/",
+        "imageProxy": "https://images.weserv.nl/?url=www.nasa.gov%2Fwp-content%2Fuploads%2F2026%2F06%2Fceb-6192.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      }
+    ]
+  },
+  {
+    "batchId": "auto_2026-06-26T21-10",
+    "scannedAt": "2026-06-26T21:10:46.383Z",
+    "items": [
+      {
+        "id": "auto_2026-06-26T21-10_2",
+        "rank": 2,
+        "title": "Dual Brain-Machine Interfaces Unlock Bionic Hand Kinesthesia",
+        "category": "neuroscience",
+        "summary": "A new study combining data from two distinct brain-machine interfaces has revealed that the human brain processes artificial movement sensations as coordinated, subconscious hand synergies rather than isolated muscle…",
+        "image": "https://neurosciencenews.com/files/2026/06/bionic-arm-movement-bmi-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/prosthetic-kinesthesia-brain-machine-interface-30954/",
+        "imageProxy": "https://images.weserv.nl/?url=neurosciencenews.com%2Ffiles%2F2026%2F06%2Fbionic-arm-movement-bmi-neuroscience-1155x770.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-06-26T21-10_4",
+        "rank": 4,
+        "title": "BIO 2026: AI, federal policy impacts, and general vibes",
+        "category": "biotech",
+        "summary": "What were the vibes like at BIO 2026? STAT reporters take you inside the annual industry conference on the latest episode of STATus Report.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/06/SR_41_STILL-2-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/06/26/bio-2026-san-diego-key-takeaways-status-report-alex-hogan/?utm_campaign=rss",
+        "imageProxy": "https://images.weserv.nl/?url=www.statnews.com%2Fwp-content%2Fuploads%2F2026%2F06%2FSR_41_STILL-2-1024x576.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      }
+    ]
+  },
+  {
+    "batchId": "auto_2026-06-25T21-19",
+    "scannedAt": "2026-06-25T21:19:33.819Z",
+    "items": [
+      {
+        "id": "auto_2026-06-25T21-19_1",
+        "rank": 1,
+        "title": "NASA, US Small Business Administration to Announce Partnership",
+        "category": "space",
+        "summary": "NASA and the U.S. Small Business Administration will sign a memorandum of agreement during a ceremony at 1 p.m. EDT, Monday, June 29, at NASA Headquarters in Washington. The agreement will create a new interagency…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/news-release/nasa-us-small-business-administration-to-announce-partnership/",
+        "imageProxy": "https://images.weserv.nl/?url=www.nasa.gov%2Fwp-content%2Fuploads%2F2022%2F02%2Fnasa_meatball_large.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-06-25T21-19_2",
+        "rank": 2,
+        "title": "Canine Cognitive Decline Alters Gait",
+        "category": "neuroscience",
+        "summary": "Researchers established that canine cognitive decline is directly associated with a shortened stride length in dogs' front limbs. Because thoracic limbs require heavy cortical control for balance and spatial awareness,…",
+        "image": "https://neurosciencenews.com/files/2026/06/canine-gait-cognitive-decline-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/dog-dementia-gait-stride-length-30955/",
+        "imageProxy": "https://images.weserv.nl/?url=neurosciencenews.com%2Ffiles%2F2026%2F06%2Fcanine-gait-cognitive-decline-neuroscience-1155x770.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-06-25T21-19_3",
+        "rank": 3,
+        "title": "New ACIP charter broadens criteria for members, calls for review of alternatives to vaccines",
+        "category": "biotech",
+        "summary": "A new charter for the panel that advises the CDC on vaccine use substantially refocuses the responsibilities of the committee, downplaying its role in recommending the use of new vaccines.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/06/GettyImages-2249461848-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/06/25/acip-charter-responsibilities-rfk-jr/?utm_campaign=rss",
+        "imageProxy": "https://images.weserv.nl/?url=www.statnews.com%2Fwp-content%2Fuploads%2F2026%2F06%2FGettyImages-2249461848-1024x576.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-06-25T21-19_4",
+        "rank": 4,
+        "title": "Massachusetts Senate preserves energy-efficiency funding in new bill",
+        "category": "energy",
+        "summary": "The Massachusetts Senate on Wednesday unveiled its long-awaited energy legislation, a wide-ranging bill that touches on dozens of topics from plug-in solar to renewable energy procurement. Sponsors say the measures…",
+        "image": "https://img.canarymedia.com/content/uploads/Massachusetts-statehouse-golden-dome_GettyImages-2264475594.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=45304341fb72fc57b59e14b5dfd36bbb",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/energy-efficiency/massachusetts-senate-preserves-energy-efficiency-funding",
+        "imageProxy": "https://images.weserv.nl/?url=img.canarymedia.com%2Fcontent%2Fuploads%2FMassachusetts-statehouse-golden-dome_GettyImages-2264475594.jpg%3Fauto%3Dcompress%252Cformat%26crop%3Dfocalpoint%26fit%3Dcrop%26fp-x%3D0.5%26fp-y%3D0.5%26h%3D630%26q%3D82%26w%3D1200%26s%3D45304341fb72fc57b59e14b5dfd36bbb&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-06-25T21-19_5",
+        "rank": 5,
+        "title": "Repositioning retail for the AI era",
+        "category": "ai",
+        "summary": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/MITTRIInfosysMacys-social-1200px.png?resize=1200,600",
+        "source": "MIT Technology Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
+        "imageProxy": "https://images.weserv.nl/?url=wp.technologyreview.com%2Fwp-content%2Fuploads%2F2026%2F05%2FMITTRIInfosysMacys-social-1200px.png%3Fresize%3D1200%2C600&w=640&h=400&fit=cover&we&output=jpg"
+      }
+    ]
+  },
+  {
+    "batchId": "auto_2026-06-25T07-30",
+    "scannedAt": "2026-06-25T07:30:30.711Z",
+    "items": [
+      {
+        "id": "auto_2026-06-25T07-30_1",
+        "rank": 1,
+        "title": "A Turquoise Tint for the Black Sea",
+        "category": "space",
+        "summary": "Phytoplankton added a milky blue hue to the waters of the Black Sea and nearby waterways in spring and summer 2026.",
+        "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/a-turquoise-tint-for-the-black-sea/ISS074-E-619520_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "source": "NASA",
+        "sourceUrl": "https://science.nasa.gov/earth/earth-observatory/a-turquoise-tint-for-the-black-sea/",
+        "imageProxy": "https://images.weserv.nl/?url=assets.science.nasa.gov%2Fcontent%2Fdam%2Fscience%2Fesd%2Feo%2Fimages%2Fiotd%2F2026%2Fa-turquoise-tint-for-the-black-sea%2FISS074-E-619520_th.jpg%2Fjcr%3Acontent%2Frenditions%2Fcq5dam.web.1280.1280.jpeg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-06-25T07-30_2",
+        "rank": 2,
+        "title": "Pop Music Echoes a Growing Culture of Vices",
+        "category": "neuroscience",
+        "summary": "An extensive computational analysis of over 380,000 songs spanning 1960 to 2023 has revealed that popular music lyrics have become increasingly negative, showcasing a steady historical decline in language related to…",
+        "image": "https://neurosciencenews.com/files/2026/06/music-morality-psychology-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/music-lyrics-vices-cultural-barometer-30956/",
+        "imageProxy": "https://images.weserv.nl/?url=neurosciencenews.com%2Ffiles%2F2026%2F06%2Fmusic-morality-psychology-neuroscience-1155x770.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-06-25T07-30_3",
+        "rank": 3,
+        "title": "STAT+: Eli Lilly dives into hair loss treatments with investment in AI startup Absci",
+        "category": "biotech",
+        "summary": "Eli Lilly is investing in a small startup developing a medication to spur hair growth, and potentially also treat endometriosis.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/06/AdobeStock_175910024-1024x576.jpeg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/06/24/eli-lilly-absci-hair-loss-treatments/?utm_campaign=rss",
+        "imageProxy": "https://images.weserv.nl/?url=www.statnews.com%2Fwp-content%2Fuploads%2F2026%2F06%2FAdobeStock_175910024-1024x576.jpeg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-06-25T07-30_4",
+        "rank": 4,
+        "title": "Base Power brings cheap batteries to residents in power-starved PJM",
+        "category": "energy",
+        "summary": "PJM Interconnection, which serves 67 million people across 13 states from the mid-Atlantic to the Midwest, has become a poster child for how not to keep up with soaring energy demand. Startup Base Power is taking a…",
+        "image": "https://img.canarymedia.com/content/uploads/Chicago-skyline-with-Chicago-sign_GettyImages-2277954000-1.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=e26ffebd840a7ad1989546c9b657992c",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/batteries/base-power-cheap-batteries-pjm",
+        "imageProxy": "https://images.weserv.nl/?url=img.canarymedia.com%2Fcontent%2Fuploads%2FChicago-skyline-with-Chicago-sign_GettyImages-2277954000-1.jpg%3Fauto%3Dcompress%252Cformat%26crop%3Dfocalpoint%26fit%3Dcrop%26fp-x%3D0.5%26fp-y%3D0.5%26h%3D630%26q%3D82%26w%3D1200%26s%3De26ffebd840a7ad1989546c9b657992c&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-06-25T07-30_5",
+        "rank": 5,
+        "title": "The emergence of the web data infrastructure layer for AI",
+        "category": "ai",
+        "summary": "AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstructured, which…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/iStock-1714934690.jpg?resize=1200,600",
+        "source": "MIT Technology Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
+        "imageProxy": "https://images.weserv.nl/?url=wp.technologyreview.com%2Fwp-content%2Fuploads%2F2026%2F06%2FiStock-1714934690.jpg%3Fresize%3D1200%2C600&w=640&h=400&fit=cover&we&output=jpg"
+      }
+    ]
+  },
+  {
+    "scannedAt": "2026-06-12T18:19:32.258Z",
+    "items": [
+      {
+        "id": "b1781288372258_1",
+        "rank": 1,
+        "title": "Stanford Scientists Regrow Lost Cartilage and Reverse Arthritis in Major Breakthrough",
+        "category": "biotech",
+        "summary": "Stanford Medicine researchers achieved a groundbreaking treatment that blocks an aging-related protein, successfully restoring lost cartilage in old mice and helping prevent arthritis after knee injuries. Human cartilage samples showed similar signs of regeneration, raising hopes for future drugs that could replace joint surgery. The therapy dramatically improved movement and joint function by targeting the 15-PGDH protein linked to aging.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260612021604.htm",
+        "image": "https://www.sciencedaily.com/images/1920/3d-knee-joint-inflammation-osteoarthritis.webp",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2F3d-knee-joint-inflammation-osteoarthritis.webp&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1781288372258_2",
+        "rank": 2,
+        "title": "Prometheus AI Company Raises $12 Billion for Artificial General Engineers",
+        "category": "ai",
+        "summary": "Biotech AI startup Prometheus secured a massive $12 billion funding round to develop artificial general engineers that can automate complex engineering tasks in drug discovery and biotechnology. The company aims to create AI systems capable of independent scientific reasoning and experimental design, potentially revolutionizing pharmaceutical research and development timelines.",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/06/12/biotech-news-prometheus-raises-12-billion-for-artificial-engineers/",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/04/AdobeStock_573445441-1024x576.jpeg",
+        "imageProxy": "https://images.weserv.nl/?url=www.statnews.com%2Fwp-content%2Fuploads%2F2026%2F04%2FAdobeStock_573445441-1024x576.jpeg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1781288372258_3",
+        "rank": 3,
+        "title": "Giant Underground Neutrino Detector Achieves Precision Breakthrough in China",
+        "category": "neuroscience",
+        "summary": "The massive JUNO neutrino observatory deep beneath the ground in China delivered its first major scientific breakthrough, achieving one of the most precise measurements yet of how elusive neutrino particles behave. This advancement brings scientists closer to cracking fundamental mysteries about neutrinos and could revolutionize our understanding of particle physics and the universe.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/",
+        "image": "https://www.sciencedaily.com/images/scidaily-icon.png",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2Fscidaily-icon.png&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1781288372258_4",
+        "rank": 4,
+        "title": "NASA Announces Artemis III Crew for Critical Moon Mission Testing",
+        "category": "space",
+        "summary": "NASA revealed the four-astronaut crew selected for the crucial Artemis III mission, designed to test rendezvous and docking procedures with lunar landers in Earth orbit next year. The mission represents a critical milestone before sending astronauts back to the Moon for landing in 2028, involving both SpaceX Starship and Blue Origin's Blue Moon Mark 2 landers.",
+        "source": "Spaceflight Now",
+        "sourceUrl": "https://www.nasa.gov/missions/artemis/artemis-iii/",
+        "image": "https://www.nasa.gov/wp-content/uploads/2022/11/52508358665_efb8a65d31_o.jpg",
+        "imageProxy": "https://images.weserv.nl/?url=www.nasa.gov%2Fwp-content%2Fuploads%2F2022%2F11%2F52508358665_efb8a65d31_o.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1781288372258_5",
+        "rank": 5,
+        "title": "Brain-Inspired Chip Functions Near Absolute Zero for Quantum Computing",
+        "category": "energy",
+        "summary": "Scientists at the University of Hong Kong created a remarkable brain-inspired chip that can function just above absolute zero temperature, representing one of the coldest operational environments ever achieved. This breakthrough could transform quantum computing by enabling ultra-efficient processing in cryogenic conditions, potentially solving major energy challenges in quantum systems.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/",
+        "image": "https://www.sciencedaily.com/images/scidaily-icon.png",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2Fscidaily-icon.png&w=640&h=400&fit=cover&we&output=jpg"
+      }
+    ],
+    "batchId": "b1781288372258"
+  },
+  {
+    "scannedAt": "2026-06-11T22:54:37.365Z",
+    "items": [
+      {
+        "id": "b1781218477364_1",
+        "rank": 1,
+        "title": "Scientists Discover Hidden Cause of Aging Cells That Can Be Reversed",
+        "category": "biotech",
+        "summary": "Researchers discovered that declining levels of phosphatidylcholine may be a major cause of age-related mitochondrial dysfunction and loss of cellular energy. Remarkably, boosting this nutrient restored more youthful mitochondrial performance in aging organisms, suggesting some aspects of aging can be slowed or reversed. This breakthrough from the Leibniz Institute on Aging offers hope for developing treatments to slow cellular aging processes.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260610003119.htm",
+        "image": "https://www.sciencedaily.com/images/1920/glowing-mitochondria-cell-biology.webp",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fglowing-mitochondria-cell-biology.webp&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1781218477364_2",
+        "rank": 2,
+        "title": "Battery-Free Device Turns Sunlight Into Fuel Using Self-Regulating System",
+        "category": "energy",
+        "summary": "Scientists have developed an artificial photosynthesis system that essentially regulates itself, eliminating the need for batteries used in many current designs. The key innovation is an electrolyzer that automatically adapts to changing sunlight by altering its electrical properties as it heats up. This keeps solar fuel production more stable while reducing cost and complexity. The system produces formic acid from carbon dioxide and water.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260611024601.htm",
+        "image": "https://www.sciencedaily.com/images/1920/artificial-photosynthesis-electrochemical-fuel-production-system.webp",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fartificial-photosynthesis-electrochemical-fuel-production-system.webp&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1781218477364_3",
+        "rank": 3,
+        "title": "Revolutionary AI Cuts Robot Energy Use by 100x While Boosting Accuracy",
+        "category": "ai",
+        "summary": "Researchers at Tufts University developed a neuro-symbolic AI system that combines neural networks with human-like symbolic reasoning, slashing energy consumption by up to 100 times compared to conventional approaches while dramatically improving performance. In robotic task tests using the Tower of Hanoi puzzle, the hybrid system achieved a 95% success rate versus 34% for standard models and trained in just 34 minutes versus more than a day and a half for traditional systems.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/04/260405003952.htm",
+        "image": "https://www.sciencedaily.com/images/1920/server-facility-at-sandia-national-laboratory.webp",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fserver-facility-at-sandia-national-laboratory.webp&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1781218477364_4",
+        "rank": 4,
+        "title": "NASA's Next-Gen AI Space Chip Could Let Spacecraft Think for Themselves",
+        "category": "space",
+        "summary": "NASA is testing a next-generation space computer chip that could give spacecraft the ability to operate far more independently in deep space. With onboard artificial intelligence, spacecraft could respond to unexpected situations in real time when communication delays make human control impractical. The chip could also help deep space missions process, store, and transmit massive amounts of scientific data back to Earth more efficiently. The radiation-hardened processor shows performance levels hundreds of times beyond current spaceflight technology.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
+        "image": "https://www.sciencedaily.com/images/1920/nasa-high-performance-spaceflight-computing-processor.webp",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fnasa-high-performance-spaceflight-computing-processor.webp&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1781218477364_5",
+        "rank": 5,
+        "title": "Scientists Reverse Anxiety by Fixing Tiny Brain Circuit in Breakthrough Study",
+        "category": "neuroscience",
+        "summary": "A newly identified group of amygdala neurons appears to play a central role in anxiety and social behavior. Restoring normal activity in this tiny brain circuit reversed anxiety and social deficits in mice, revealing a promising new target for treating anxiety disorders. The research offers hope for developing more targeted treatments for anxiety and social behavioral disorders by focusing on specific neural circuits rather than broad brain regions.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260603001847.htm",
+        "image": "https://www.sciencedaily.com/images/1920/brain-scan-color-black-and-white.webp",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fbrain-scan-color-black-and-white.webp&w=640&h=400&fit=cover&we&output=jpg"
+      }
+    ],
+    "batchId": "b1781218477364"
   }
 ]
