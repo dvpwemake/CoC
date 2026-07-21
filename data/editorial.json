@@ -4,7 +4,7 @@
     "publishDate": "2026-07-20",
     "status": "published",
     "createdAt": "2026-07-20T16:03:59.649Z",
-    "updatedAt": "2026-07-20T19:25:00.086627Z",
+    "updatedAt": "2026-07-21T00:38:53.629952Z",
     "title": "Sacred rooms and civic streets",
     "dek": "Sacred rooms and civic streets—a short editorial on attention under pressure.",
     "body": "Faith and public life share sidewalks. One offers silence and ritual; the other offers policy and trade. Both shape how a people spends its attention.\n\nChronicle of Convergence is not a digest of destinations or a ranking of trends. It is a daily attempt to read American life where culture, society, technology, and faith already share the same rooms. On Monday, July 20, 2026, we hold that reading to one pressure point: sacred rooms and civic streets.\n\nThe news offers a concrete case. NASA reports on “A Turquoise Tint for the Black Sea.” Advances rarely stay inside their original field. They migrate into manners, markets, worship, and work.\n\nA second dispatch complicates the first. “Pop Music Echoes a Growing Culture of Vices” (Neuroscience News) does not cancel the earlier signal; it shows the braid. Technical claims arrive with aesthetic moods, commercial incentives, and moral hesitation. An editorial that picks only one strand is advertising, not judgment.\n\nBetween laboratory and gallery, congregation and city hall, the same question returns: what should be kept, and what should be risked. Instruments change how we see; seeing changes which instruments we fund. A culture that celebrates only the tool forgets the hand.\n\nHeritage, practiced as skill rather than costume, still teaches judgment. Innovation, practiced as care rather than novelty for its own sake, still expands what is possible. Silicon can accelerate pattern recognition. Carbon still carries cost, fatigue, and consequence. Pretending otherwise is not optimism. It is negligence.\n\nWhat should a reader do with a day like this? Neither panic at machine scale nor invent a pure past that never existed. Name the forces in the room. Ask what each can give. Ask what each must not be allowed to take. Then look again tomorrow. Proportion, not panic, is the discipline. The headlines remain their publishers’. The synthesis is ours.",
@@ -57,7 +57,9 @@
       }
     ],
     "publishedAt": "2026-07-20T16:03:59.666Z",
-    "heroImageProxy": "https://images.weserv.nl/?url=images-assets.nasa.gov%2Fimage%2FPIA18033%2FPIA18033~medium.jpg&w=1200&h=675&fit=cover&we&output=jpg"
+    "heroImageProxy": "https://images.weserv.nl/?url=images-assets.nasa.gov%2Fimage%2FPIA18033%2FPIA18033~medium.jpg&w=1200&h=675&fit=cover&we&output=jpg",
+    "authorName": "Dr. Wallace Lynch",
+    "authorTitle": "Editor in Chief"
   },
   "drafts": {
     "2026-07-21": {
@@ -316,5 +318,7 @@
     "https://images-assets.nasa.gov/image/as11-40-5874/as11-40-5874~medium.jpg",
     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Leonardo_da_Vinci_-_Vitruvian_Man_%28WGA12798%29.jpg/800px-Leonardo_da_Vinci_-_Vitruvian_Man_%28WGA12798%29.jpg",
     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Mona_Lisa.jpg/800px-Mona_Lisa.jpg"
-  ]
+  ],
+  "defaultAuthorName": "Dr. Wallace Lynch",
+  "defaultAuthorTitle": "Editor in Chief"
 }

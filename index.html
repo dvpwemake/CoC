@@ -2,15 +2,33 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<meta http-equiv="X-Content-Type-Options" content="nosniff">
+<meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=5">
 <title>Chronicle of Convergence — Daily Editorial &amp; Field Signals</title>
-<meta name="description" content="Chronicle of Convergence: a digital multimedia chronicle of culture, society, technology, and faith in American life. Daily editorial and curated news.">
-<meta name="robots" content="index,follow">
+<meta name="description" content="Chronicle of Convergence: daily editorial and field signals on culture, society, technology, and faith in American life. Editor in Chief: Dr. Wallace Lynch.">
+<meta name="author" content="Dr. Wallace Lynch">
+<meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1">
+<meta name="theme-color" content="#f3efe6">
+<meta name="application-name" content="Chronicle of Convergence">
 <link rel="canonical" href="https://chronicleofconvergence.com/">
-<link rel="icon" href="img/logo-mark.png">
-<meta property="og:title" content="Chronicle of Convergence">
-<meta property="og:description" content="How culture, society, technology, and faith intersect in American life.">
+<link rel="icon" href="img/logo-mark.png" type="image/png">
+<link rel="apple-touch-icon" href="img/logo-mark.png">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Chronicle of Convergence">
+<meta property="og:locale" content="en_US">
+<meta property="og:url" content="https://chronicleofconvergence.com/">
+<meta property="og:title" content="Chronicle of Convergence — Daily Editorial & Field Signals">
+<meta property="og:description" content="How culture, society, technology, and faith intersect in American life. Daily editorial by Dr. Wallace Lynch, Editor in Chief.">
 <meta property="og:image" content="https://chronicleofconvergence.com/img/logo-mark.png">
+<meta property="og:image:alt" content="Chronicle of Convergence">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Chronicle of Convergence">
+<meta name="twitter:description" content="Daily editorial and field signals — culture, society, technology, and faith.">
+<meta name="twitter:image" content="https://chronicleofconvergence.com/img/logo-mark.png">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"NewsMediaOrganization","name":"Chronicle of Convergence","url":"https://chronicleofconvergence.com/","logo":"https://chronicleofconvergence.com/img/logo-mark.png","description":"Digital multimedia chronicle of culture, society, technology, and faith in American life.","editor":{"@type":"Person","name":"Dr. Wallace Lynch","jobTitle":"Editor in Chief"}}
+</script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Source+Sans+3:ital,wght@0,300;0,400;0,500;0,600;1,400&display=swap">
@@ -179,6 +197,13 @@ nav.cats::-webkit-scrollbar{display:none}
   color:var(--muted);line-height:1.45;margin-bottom:1rem;
   max-width:none;
 }
+.ed-byline{
+  font-family:var(--serif);font-size:.95rem;font-style:italic;
+  color:var(--ink);margin:0 0 .65rem;line-height:1.4;
+}
+.ed-byline .role{font-style:normal;font-family:var(--sans);font-size:.72rem;
+  letter-spacing:.08em;text-transform:uppercase;color:var(--gold-deep);font-weight:600;
+  margin-left:.35rem}
 .ed-meta{
   font-size:.72rem;letter-spacing:.08em;text-transform:uppercase;
   color:var(--muted);margin-bottom:1.5rem;padding-bottom:1rem;
@@ -331,8 +356,6 @@ footer a{color:var(--gold-deep);text-decoration:underline;text-underline-offset:
     <a href="privacy.html">Privacy Policy</a>
     <span aria-hidden="true">·</span>
     <a href="mailto:contact@chronicleofconvergence.com">Contact</a>
-    <span aria-hidden="true">·</span>
-    <a href="editor.html" rel="nofollow">E</a>
   </div>
 </footer>
 
@@ -346,6 +369,8 @@ const EMBEDDED_EDITORIAL = {
   "status": "published",
   "createdAt": "2026-07-20T16:03:59.649Z",
   "updatedAt": "2026-07-20T19:25:00.086627Z",
+  "authorName": "Dr. Wallace Lynch",
+  "authorTitle": "Editor in Chief",
   "title": "Sacred rooms and civic streets",
   "dek": "Sacred rooms and civic streets—a short editorial on attention under pressure.",
   "paragraphs": [
@@ -496,16 +521,42 @@ function renderEditorial(){
     ? `<div class="ed-hero"><img src="${esc(heroUrl)}" alt="${esc(ed.heroCredit||'Editorial image')}" width="1040" height="585" decoding="async" fetchpriority="high" referrerpolicy="no-referrer" data-proxy="${esc(ed.heroImageProxy||proxyUrl(ed.heroImage))}" onerror="heroFail(this)"></div>
        <div class="ed-credit">Photo: ${esc(ed.heroCredit||'—')} · ${esc(ed.heroSource||'')} ${ed.heroSourceUrl?'· <a href="'+esc(ed.heroSourceUrl)+'" target="_blank" rel="noopener">Source</a>':''}</div>`
     : `<div class="ed-hero"><div class="ph">Chronicle of Convergence</div></div>`;
+  const authorName=plainText(ed.authorName||'Dr. Wallace Lynch');
+  const authorTitle=plainText(ed.authorTitle||'Editor in Chief');
+  const byline=authorName
+    ? `<p class="ed-byline">By ${esc(authorName)}<span class="role">${esc(authorTitle)}</span></p>`
+    : '';
   el.innerHTML=`<div class="ed-kicker">Daily editorial · ${esc(ed.publishDate||'')}</div>
-  <article class="ed-card">
+  <article class="ed-card" itemscope itemtype="https://schema.org/NewsArticle">
     ${hero}
     <div class="ed-body">
-      <h2>${esc(ed.title||'Editorial')}</h2>
-      <p class="ed-dek">${esc(ed.dek||'')}</p>
+      <h2 itemprop="headline">${esc(ed.title||'Editorial')}</h2>
+      <p class="ed-dek" itemprop="description">${esc(ed.dek||'')}</p>
+      ${byline}
       <div class="ed-meta">${esc(ed.themeLabel||'Convergence')} · about ${ed.wordCount||paras.join(' ').split(/\s+/).length} words</div>
-      <div class="ed-prose">${prose}</div>
+      <div class="ed-prose" itemprop="articleBody">${prose}</div>
     </div>
   </article>`;
+  // SEO: NewsArticle JSON-LD (DOM append — innerHTML strips <script>)
+  try{
+    document.querySelectorAll('script[data-coc-editorial-ld]').forEach(n=>n.remove());
+    const ldEl=document.createElement('script');
+    ldEl.type='application/ld+json';
+    ldEl.setAttribute('data-coc-editorial-ld','1');
+    ldEl.textContent=JSON.stringify({
+      '@context':'https://schema.org','@type':'NewsArticle',
+      headline:ed.title||'Daily editorial',
+      description:ed.dek||'',
+      datePublished:ed.publishDate||ed.publishedAt||'',
+      dateModified:ed.updatedAt||ed.publishedAt||ed.publishDate||'',
+      author:{'@type':'Person',name:authorName,jobTitle:authorTitle},
+      publisher:{'@type':'NewsMediaOrganization',name:'Chronicle of Convergence',url:'https://chronicleofconvergence.com/',logo:'https://chronicleofconvergence.com/img/logo-mark.png'},
+      mainEntityOfPage:'https://chronicleofconvergence.com/',
+      image:ed.heroImage||'https://chronicleofconvergence.com/img/logo-mark.png'
+    });
+    document.head.appendChild(ldEl);
+  }catch(e){}
+
 }
 function heroFail(img){
   if(img.dataset.proxy && !img.dataset.triedProxy){

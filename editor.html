@@ -3,10 +3,16 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Editor — Chronicle of Convergence</title>
-<meta name="robots" content="noindex,nofollow">
+<title>Editor — Chronicle of Convergence (private)</title>
+<meta name="robots" content="noindex,nofollow,noarchive,nosnippet">
+<meta name="googlebot" content="noindex,nofollow">
+<meta http-equiv="X-Content-Type-Options" content="nosniff">
+<meta name="referrer" content="no-referrer">
+<link rel="canonical" href="https://chronicleofconvergence.com/">
+<link rel="icon" href="img/logo-mark.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Outfit:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Outfit:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
 <style>
 :root{--bg:#060609;--bg-card:#0e0e14;--bg-input:#12121a;--bg-hover:#15151e;--text:#eae8e3;--text-dim:#7a7a88;--border:#1e1e2a;--accent:#00e5ff;--danger:#ff2d87;--success:#39ff14;--warning:#ffd600;--ai:#00e5ff;--robotics:#ff2d87;--biotech:#39ff14;--space:#b388ff;--energy:#ffd600;--neuro:#ff6e40;--art:#c4a882;--font-serif:'Instrument Serif',Georgia,serif;--font-sans:'Outfit',system-ui,sans-serif;--font-mono:'JetBrains Mono',monospace}
 *,*::before,*::after{margin:0;padding:0;box-sizing:border-box}
@@ -18,7 +24,7 @@ a{color:inherit;text-decoration:none}
 .side{background:var(--bg-card);border-right:1px solid var(--border);display:flex;flex-direction:column;position:sticky;top:0;height:100vh;overflow-y:auto}
 .side-hdr{padding:1.2rem 1.4rem;border-bottom:1px solid var(--border);display:flex;align-items:center;gap:.8rem}
 .side-hdr img{height:28px;width:auto}
-.side-hdr .tag{font-family:var(--font-mono);font-size:.5rem;letter-spacing:.18em;text-transform:uppercase;color:var(--accent);margin-left:auto}
+.side-hdr .tag{font-family:var(--font-mono);font-size:.5rem;letter-spacing:.18em;text-transform:uppercase;color:var(--accent);margin-left:.5rem}
 
 .sec{padding:.8rem 1.2rem;border-bottom:1px solid var(--border)}
 .sec-t{font-family:var(--font-mono);font-size:.52rem;letter-spacing:.14em;text-transform:uppercase;color:var(--text-dim);margin-bottom:.5rem}
@@ -115,16 +121,44 @@ a{color:inherit;text-decoration:none}
 .md-a{display:flex;gap:.6rem;margin-top:1.2rem}
 
 @media(max-width:900px){.layout{grid-template-columns:1fr}.side{position:relative;height:auto;max-height:50vh}.main{padding:1.2rem}.fr{grid-template-columns:1fr}}
+
+/* Login gate */
+#editorGate{min-height:100vh;display:flex;align-items:center;justify-content:center;padding:2rem;background:var(--bg)}
+#editorGate[hidden],#editorApp[hidden]{display:none!important}
+.gate-card{width:100%;max-width:360px;background:var(--bg-card);border:1px solid var(--border);border-radius:10px;padding:1.5rem 1.4rem;box-shadow:0 12px 40px rgba(0,0,0,.35)}
+.gate-card h1{font-family:var(--font-serif);font-size:1.35rem;margin:0 0 .35rem}
+.gate-card p{font-size:.72rem;color:var(--text-dim);margin:0 0 1rem;line-height:1.5}
+.gate-card label{display:block;font-family:var(--font-mono);font-size:.5rem;letter-spacing:.12em;text-transform:uppercase;color:var(--text-dim);margin-bottom:.35rem}
+.gate-card input[type=password]{width:100%;padding:.65rem .75rem;background:var(--bg-input);border:1px solid var(--border);border-radius:6px;color:var(--text);font-family:var(--font-mono);font-size:.8rem;margin-bottom:.75rem;outline:none}
+.gate-card input:focus{border-color:var(--accent)}
+.gate-err{color:var(--danger);font-family:var(--font-mono);font-size:.55rem;min-height:1.1rem;margin-bottom:.5rem}
+.gate-note{font-family:var(--font-mono);font-size:.48rem;color:var(--text-dim);margin-top:.85rem;line-height:1.5}
+
 </style>
 </head>
 <body>
-<div class="layout">
+<div id="editorGate" hidden>
+  <div class="gate-card">
+    <h1>CoC Editor</h1>
+    <p>Private admin console. Authorized staff only.</p>
+    <form id="gateForm" autocomplete="off">
+      <label for="gatePass">Password</label>
+      <input id="gatePass" type="password" name="password" autocomplete="current-password" required>
+      <div class="gate-err" id="gateErr" role="alert"></div>
+      <button type="submit" class="btn btn-p" style="width:100%">Unlock editor</button>
+    </form>
+    <p class="gate-note">Session lasts for this browser tab only. Public site does not link here.</p>
+  </div>
+</div>
+<div id="editorApp" class="layout" hidden>
+
 <aside class="side">
   <div class="side-hdr">
     <a class="logo-home" href="index.html" aria-label="Home — Chronicle of Convergence" title="Home" style="display:inline-flex;line-height:0">
       <img class="day-logo" src="img/logo-mark.png" alt="Chronicle of Convergence" height="28">
     </a>
     <span class="tag">Editor</span>
+    <button type="button" class="btn" id="logoutBtn" onclick="CoCEditorAuth.clearSession();location.reload()" style="margin-left:auto;padding:.25rem .45rem;font-size:.48rem">Lock</button>
   </div>
 
   <div class="sec">
@@ -183,6 +217,10 @@ a{color:inherit;text-decoration:none}
     <div class="fg"><label class="fl">Title</label><input type="text" class="fi" id="edTitle"></div>
     <div class="fg"><label class="fl">Dek / subtitle</label><input type="text" class="fi" id="edDek"></div>
     <div class="fg"><label class="fl">Theme label</label><input type="text" class="fi" id="edTheme"></div>
+    <div class="fr">
+      <div class="fg"><label class="fl">Author name</label><input type="text" class="fi" id="edAuthor" placeholder="Dr. Wallace Lynch"></div>
+      <div class="fg"><label class="fl">Author title</label><input type="text" class="fi" id="edAuthorTitle" placeholder="Editor in Chief"></div>
+    </div>
     <div class="fg"><label class="fl">Body (~300 words, band 280–320)</label><textarea class="fta" id="edBody" style="min-height:180px;font-family:var(--font-serif);font-size:.9rem;line-height:1.6"></textarea>
       <div style="font-family:var(--font-mono);font-size:.5rem;color:var(--text-dim);margin-top:.3rem">Words: <span id="edWC">0</span></div>
     </div>
@@ -203,14 +241,18 @@ a{color:inherit;text-decoration:none}
   </div>
 <div id="logP" style="display:none"><div class="ph"><h2 class="pt">Scan Log</h2><button class="btn btn-d" onclick="clearLog()">Clear</button></div><div class="log-e" id="logE"></div></div>
 </main>
-</div>
+</div><!-- /editorApp layout -->
 
 <div class="mo" id="expM"><div class="md"><h3>Export</h3><p style="font-size:.65rem;color:var(--text-dim);margin-bottom:.8rem">Replace <code>EMBEDDED_DATA</code> in <code>index.html</code>.</p><pre id="expJ"></pre><div class="md-a"><button class="btn btn-p" onclick="cpExp()">Copy</button><button class="btn" onclick="dlExp()">⤓ Download</button><button class="btn" onclick="closeM('expM')">Close</button></div></div></div>
 <div class="mo" id="impM"><div class="md"><h3>Import</h3><p style="font-size:.65rem;color:var(--text-dim);margin-bottom:.8rem">Paste batches JSON. <b>Replaces</b> all data.</p><textarea class="fta" id="impJ" style="min-height:180px;font-family:var(--font-mono);font-size:.5rem"></textarea><div class="md-a"><button class="btn btn-p" onclick="doImp()">Import</button><button class="btn" onclick="closeM('impM')">Cancel</button></div></div></div>
 <div class="toast" id="tst"></div>
 
+<script src="scripts/editor-auth.js"></script>
 <script src="scripts/crawler-lib.js"></script>
 <script>
+// Defer app init until gate unlocks
+function __cocBootEditor(){
+
 const SK='coc_editor_batches',PK='coc_news_data',LK='coc_scan_log',ATK='coc_auto_scan',APK='coc_auto_pub';
 let B=[],eId=null,scanning=false,sTimer=null,cTimer=null,nxt=null,logs=[],sourcesCfg=null;
 
@@ -418,6 +460,8 @@ function fillEditorialForm(ed){
   document.getElementById('edTitle').value=ed.title||'';
   document.getElementById('edDek').value=ed.dek||'';
   document.getElementById('edTheme').value=ed.themeLabel||'';
+  document.getElementById('edAuthor').value=ed.authorName||ED.defaultAuthorName||'Dr. Wallace Lynch';
+  document.getElementById('edAuthorTitle').value=ed.authorTitle||ED.defaultAuthorTitle||'Editor in Chief';
   document.getElementById('edBody').value=body;
   document.getElementById('edHero').value=ed.heroImage||'';
   document.getElementById('edHeroCredit').value=ed.heroCredit||'';
@@ -514,6 +558,8 @@ function collectEditorial(){
     title:document.getElementById('edTitle').value.trim(),
     dek:document.getElementById('edDek').value.trim(),
     themeLabel:document.getElementById('edTheme').value.trim(),
+    authorName:document.getElementById('edAuthor').value.trim()||'Dr. Wallace Lynch',
+    authorTitle:document.getElementById('edAuthorTitle').value.trim()||'Editor in Chief',
     body:body,
     paragraphs:paragraphs,
     wordCount:wc,
@@ -578,10 +624,20 @@ ensureEditorialLoaded(true).then(()=>{
   const n=(pub?1:0)+Object.keys(ED.drafts||{}).length;
   if(n) addLog('ok','Editorial ready · today '+todayET()+' · published '+(pub&&pub.publishDate||'—')+' · ~'+(body?body.split(/\s+/).filter(Boolean).length:0)+'w · '+n+' item(s)');
 });
+} // end __cocBootEditor
 
-
+document.addEventListener('DOMContentLoaded',function(){
+  if(window.CoCEditorAuth){
+    CoCEditorAuth.mountGate(function(){
+      __cocBootEditor();
+      try{CoCLogoDay&&CoCLogoDay.applyDayLogo('.day-logo',{mode:'dark'})}catch(e){}
+    });
+  }else{
+    document.getElementById('editorApp')&&document.getElementById('editorApp').removeAttribute('hidden');
+    __cocBootEditor();
+  }
+});
 </script>
 <script src="scripts/logo-day.js"></script>
-<script>try{CoCLogoDay.applyDayLogo('.day-logo',{mode:'dark'})}catch(e){}</script>
 </body>
 </html>

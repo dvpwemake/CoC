@@ -6,13 +6,33 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://chronicleofconvergence.com/data/archive.json</loc>
-    <changefreq>hourly</changefreq>
-    <priority>0.6</priority>
+    <loc>https://chronicleofconvergence.com/terms.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://chronicleofconvergence.com/privacy.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://chronicleofconvergence.com/cafe.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://chronicleofconvergence.com/museum.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://chronicleofconvergence.com/church.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://chronicleofconvergence.com/llms.txt</loc>
     <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
+    <priority>0.3</priority>
   </url>
 </urlset>

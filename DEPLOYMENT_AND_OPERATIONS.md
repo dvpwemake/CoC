@@ -329,3 +329,14 @@ node scripts/editorial-publish.js --force
 ---
 
 *When in doubt: stage in `v2/`, QA with Dana’s checklist, Release go from Marcus, principal language before production root changes.*
+
+## Editor security (static)
+
+- **No public link** to `editor.html` (footer "E" removed). `robots.txt` disallows it.
+- **Password gate:** `scripts/editor-auth.js` — SHA-256 compare, tab session, lockout after failed attempts.
+- **Not true server auth.** For stronger protection, put `editor.html` behind Cloudflare Access or host privately.
+- **Rotate password:**  
+  `node -e "console.log(require('crypto').createHash('sha256').update('NEW_PASSWORD').digest('hex'))"`  
+  then set `passwordSha256` in `scripts/editor-auth.js`.
+- **Author byline:** default Dr. Wallace Lynch · Editor in Chief; editable per editorial in the admin form (`authorName` / `authorTitle`).
+

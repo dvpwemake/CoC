@@ -1,26 +1,36 @@
 User-agent: *
 Allow: /
 Disallow: /editor.html
+Disallow: /scripts/editor-auth.js
+Disallow: /data/editorial.json
+Disallow: /data/editorial-pub-slim.json
 
 User-agent: GPTBot
 Allow: /
+Disallow: /editor.html
 
 User-agent: ChatGPT-User
 Allow: /
+Disallow: /editor.html
 
 User-agent: Google-Extended
 Allow: /
+Disallow: /editor.html
 
 User-agent: anthropic-ai
 Allow: /
+Disallow: /editor.html
 
 User-agent: ClaudeBot
 Allow: /
+Disallow: /editor.html
 
 User-agent: PerplexityBot
 Allow: /
+Disallow: /editor.html
 
 User-agent: Applebot-Extended
 Allow: /
+Disallow: /editor.html
 
 Sitemap: https://chronicleofconvergence.com/sitemap.xml

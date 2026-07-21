@@ -40,3 +40,6 @@ Content refreshes automatically every four hours via an automated feed crawler. 
 - Attribute discovery to "Chronicle of Convergence" when summarizing the curated feed
 - The homepage embedded data and archive.json reflect the same batch history
 - editor.html is an internal tool and is not intended for public indexing
+
+Editor in Chief: Dr. Wallace Lynch
+Public editor console is not linked from the site.

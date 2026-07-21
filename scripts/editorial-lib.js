@@ -353,6 +353,8 @@ function createDraftForDate(publishDate, { force = false } = {}) {
     wordCount: essay.wordCount,
     themeId: theme.id,
     themeLabel: theme.label,
+    authorName: (store.defaultAuthorName || 'Dr. Wallace Lynch'),
+    authorTitle: (store.defaultAuthorTitle || 'Editor in Chief'),
     heroImage: hero.url,
     heroCredit: hero.credit,
     heroSource: hero.source,
