@@ -1,57 +1,57 @@
 [
   {
-    "batchId": "auto_2026-07-22T06-18",
-    "scannedAt": "2026-07-22T06:18:20.695Z",
+    "batchId": "auto_2026-07-22T10-09",
+    "scannedAt": "2026-07-22T10:09:47.172Z",
     "items": [
       {
-        "id": "auto_2026-07-22T06-18_1",
+        "id": "auto_2026-07-22T10-09_1",
         "rank": 1,
-        "title": "STAT+: More workers hate their jobs, but keep them for the health insurance",
-        "category": "biotech",
-        "summary": "A new survey reveals 24% of U.S. workers stay in unwanted jobs to keep health insurance. Experts call it 'job lock.'",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/07/GettyImages-2265588063-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/07/22/gallup-poll-24-percent-workers-job-lock-keep-job-health-insurance/?utm_campaign=rss"
-      },
-      {
-        "id": "auto_2026-07-22T06-18_2",
-        "rank": 2,
-        "title": "Zenno Astronautics to relocate to the United States",
+        "title": "Artemis 2 astronaut advocates for equatorial lunar landings",
         "category": "space",
-        "summary": "SAN FRANCISCO – Zenno Astronautics, a New Zealand startup focused on applying superconducting magnets for spacecraft attitude control and acceleration, plans to redomicile to the United States. “It is obvious […] The…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/rsz_max_action_1.jpg?fit=879%2C456&ssl=1",
+        "summary": "The pilot of Artemis 2 says NASA’s return to the moon should start with human landings in less challenging equatorial regions rather than go directly to the south pole. The post Artemis 2 astronaut advocates for…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/55196961359_8b5adcd329_k.jpg?fit=1024%2C683&ssl=1",
         "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/zenno-astronautics-to-relocate-to-the-united-states/"
+        "sourceUrl": "https://spacenews.com/artemis-2-astronaut-advocates-for-equatorial-lunar-landings/"
       },
       {
-        "id": "auto_2026-07-22T06-18_3",
+        "id": "auto_2026-07-22T10-09_2",
+        "rank": 2,
+        "title": "Jimothy, Meme and Muse",
+        "category": "art",
+        "summary": "Artists share tributes to the beloved raccoon, plus Sabri Sundos’s odes to Palestinian diaspora and memory.",
+        "image": "",
+        "source": "Hyperallergic",
+        "sourceUrl": "https://hyperallergic.com/jimothy-meme-and-muse/"
+      },
+      {
+        "id": "auto_2026-07-22T10-09_3",
         "rank": 3,
+        "title": "STAT+: ‘Cochlear implant for blindness’ debuts in Europe, could launch in U.S. in 2027",
+        "category": "biotech",
+        "summary": "Science Corporation announced the European launch of its retinal implant for patients with age-related macular degeneration.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/07/prima-implant-2026-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/07/22/prima-retinal-implant-for-macular-degeneration-us-timeline/?utm_campaign=rss"
+      },
+      {
+        "id": "auto_2026-07-22T10-09_4",
+        "rank": 4,
+        "title": "State legislatures are getting better at clean-energy permitting policy",
+        "category": "energy",
+        "summary": "Solar, wind, and batteries are the cheapest, fastest ways to add much-needed electricity to America’s grid. And across the country, more state legislatures are passing laws to streamline renewable development than are…",
+        "image": "https://img.canarymedia.com/content/uploads/Wyoming-New-York-landscape-with-wind-turbines_GettyImages-2284742636.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=0ac00c5bc328dba92ecb8f289ba88069",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/clean-energy/state-legislatures-clean-energy-permitting"
+      },
+      {
+        "id": "auto_2026-07-22T10-09_5",
+        "rank": 5,
         "title": "Why Food Tastes Different After Coffee",
         "category": "neuroscience",
         "summary": "Researchers developed a biomimetic taste sensor combining 3D taste bud organoids with custom 200 mu-tall 3D microelectrode arrays.",
         "image": "https://neurosciencenews.com/files/2026/07/taste-perception-caffeine-neurotech-1155x770.jpg",
         "source": "Neuroscience News",
         "sourceUrl": "https://neurosciencenews.com/taste-perception-caffeine-neurotech-31102/"
-      },
-      {
-        "id": "auto_2026-07-22T06-18_4",
-        "rank": 4,
-        "title": "Sabri Sundos Faces Catastrophe With Flowers",
-        "category": "art",
-        "summary": "“I am obsessed with autonomy and movement,” the Palestinian-American artist tells Hyperallergic in an interview.",
-        "image": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/07/Portrait-of-Sundos-in-his-studio-in-Greenpoint--Brooklyn.-Photographs-by-Samantha-Jensen-2.jpg",
-        "source": "Hyperallergic",
-        "sourceUrl": "https://hyperallergic.com/sabri-sundos-faces-catastrophe-with-flowers/"
-      },
-      {
-        "id": "auto_2026-07-22T06-18_5",
-        "rank": 5,
-        "title": "Startup offers low-cost home batteries to Massachusetts residents",
-        "category": "energy",
-        "summary": "Haven Energy is the newest company offering home battery service in Massachusetts for a low monthly payment, a model supporters say could accelerate adoption of residential storage. Starting in four counties in the…",
-        "image": "https://img.canarymedia.com/content/uploads/Tesla-batteris-in-Canada-home_GettyImages-967233426.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=d3ef0d003b9eaa23273e8dcbafef9b02",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/batteries/haven-energy-low-cost-batteries-massachusetts"
       }
     ]
   },
