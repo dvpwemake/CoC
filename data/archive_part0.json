@@ -1,21 +1,31 @@
 [
   {
-    "batchId": "auto_2026-07-22T10-09",
-    "scannedAt": "2026-07-22T10:09:47.172Z",
+    "batchId": "auto_2026-07-22T13-13",
+    "scannedAt": "2026-07-22T13:13:17.955Z",
     "items": [
       {
-        "id": "auto_2026-07-22T10-09_1",
+        "id": "auto_2026-07-22T13-13_1",
         "rank": 1,
-        "title": "Artemis 2 astronaut advocates for equatorial lunar landings",
+        "title": "The strategic competition with China: winning the multi-domain race",
         "category": "space",
-        "summary": "The pilot of Artemis 2 says NASA’s return to the moon should start with human landings in less challenging equatorial regions rather than go directly to the south pole. The post Artemis 2 astronaut advocates for…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/55196961359_8b5adcd329_k.jpg?fit=1024%2C683&ssl=1",
+        "summary": "History demonstrates military innovation continually rewrites the rules of combat, reshaping warfare and rendering strategies from past conflicts obsolete. The introduction of repeating rifles transformed infantry…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/CZ6A-Qianfan-6th-18-TSLC-17oct2025-CASC1.jpg?fit=1024%2C604&ssl=1",
         "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/artemis-2-astronaut-advocates-for-equatorial-lunar-landings/"
+        "sourceUrl": "https://spacenews.com/the-strategic-competition-with-china-winning-the-multi-domain-race/"
       },
       {
-        "id": "auto_2026-07-22T10-09_2",
+        "id": "auto_2026-07-22T13-13_2",
         "rank": 2,
+        "title": "Job dissatisfaction and health care access uncertainty grows in the U.S., new study finds",
+        "category": "biotech",
+        "summary": "What Hawaii's wildfires can teach the nation about health recovery, 4.5 million people disenrolled from SNAP, and more health news",
+        "image": "https://www.statnews.com/wp-content/uploads/2024/01/AdobeStock_537731316-1024x576.jpeg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/07/22/health-news-job-dissatisfaction-health-care-access-grows/?utm_campaign=rss"
+      },
+      {
+        "id": "auto_2026-07-22T13-13_3",
+        "rank": 3,
         "title": "Jimothy, Meme and Muse",
         "category": "art",
         "summary": "Artists share tributes to the beloved raccoon, plus Sabri Sundos’s odes to Palestinian diaspora and memory.",
@@ -24,17 +34,7 @@
         "sourceUrl": "https://hyperallergic.com/jimothy-meme-and-muse/"
       },
       {
-        "id": "auto_2026-07-22T10-09_3",
-        "rank": 3,
-        "title": "STAT+: ‘Cochlear implant for blindness’ debuts in Europe, could launch in U.S. in 2027",
-        "category": "biotech",
-        "summary": "Science Corporation announced the European launch of its retinal implant for patients with age-related macular degeneration.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/07/prima-implant-2026-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/07/22/prima-retinal-implant-for-macular-degeneration-us-timeline/?utm_campaign=rss"
-      },
-      {
-        "id": "auto_2026-07-22T10-09_4",
+        "id": "auto_2026-07-22T13-13_4",
         "rank": 4,
         "title": "State legislatures are getting better at clean-energy permitting policy",
         "category": "energy",
@@ -44,7 +44,7 @@
         "sourceUrl": "https://www.canarymedia.com/articles/clean-energy/state-legislatures-clean-energy-permitting"
       },
       {
-        "id": "auto_2026-07-22T10-09_5",
+        "id": "auto_2026-07-22T13-13_5",
         "rank": 5,
         "title": "Why Food Tastes Different After Coffee",
         "category": "neuroscience",
