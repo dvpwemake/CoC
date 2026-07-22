@@ -68,25 +68,25 @@
       "status": "draft",
       "draftKind": "outline",
       "createdAt": "2026-07-22T13:14:55.388Z",
-      "updatedAt": "2026-07-22T13:32:23.432Z",
+      "updatedAt": "2026-07-22T20:50:38.546Z",
       "title": "Editorial brief — 2026-07-22",
       "dek": "Outline of selected article titles and key points for admin to write the final editorial.",
-      "body": "EDITORIAL BRIEF (outline only — not for publication as-is)\nPublish date: 2026-07-22\nInstruction: Use the titles and key points below to write the final ~300-word CoC editorial. Replace this entire brief with your finished prose before publishing.\n\n— Selected articles of the day (8) —\n\n1. [AI] China’s AI models have Trump’s AI world at war with itself\n   Source: MIT Technology Review\n   URL: https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/\n   Key points:\n   • Over the weekend, several current and former advisors to President Donald…\n\n2. [Art] Jimothy, Meme and Muse\n   Source: Hyperallergic\n   URL: https://hyperallergic.com/jimothy-meme-and-muse/\n   Key points:\n   • Artists share tributes to the beloved raccoon, plus Sabri Sundos’s odes to Palestinian diaspora and memory.\n\n3. [Biotech] Job dissatisfaction and health care access uncertainty grows in the U.S., new study finds\n   Source: STAT News\n   URL: https://www.statnews.com/2026/07/22/health-news-job-dissatisfaction-health-care-access-grows/?utm_campaign=rss\n   Key points:\n   • What Hawaii's wildfires can teach the nation about health recovery, 4.5 million people disenrolled from SNAP, and more health news\n\n4. [Energy] State legislatures are getting better at clean-energy permitting policy\n   Source: Canary Media\n   URL: https://www.canarymedia.com/articles/clean-energy/state-legislatures-clean-energy-permitting\n   Key points:\n   • Solar, wind, and batteries are the cheapest, fastest ways to add much-needed electricity to America’s grid.\n   • And across the country, more state legislatures are passing laws to streamline renewable development than are…\n\n5. [Neuroscience] Why Food Tastes Different After Coffee\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/taste-perception-caffeine-neurotech-31102/\n   Key points:\n   • Researchers developed a biomimetic taste sensor combining 3D taste bud organoids with custom 200 mu-tall 3D microelectrode arrays.\n\n6. [Robotics] This Graduate Student Equips NASA’s Robots With Assembly Skills\n   Source: IEEE Spectrum\n   URL: https://spectrum.ieee.org/graduate-student-nasas-robots-assembly\n   Key points:\n   • Like many engineers, Sarah Downs says she knew she wanted to pursue a STEM career from a young age.\n   • As a teenager, she discovered robotics through her Tulsa, Okla., middle school’s First Lego League team, and she fell…\n\n7. [Space] The strategic competition with China: winning the multi-domain race\n   Source: SpaceNews\n   URL: https://spacenews.com/the-strategic-competition-with-china-winning-the-multi-domain-race/\n   Key points:\n   • History demonstrates military innovation continually rewrites the rules of combat, reshaping warfare and rendering strategies from past conflicts obsolete.\n   • The introduction of repeating rifles transformed infantry…\n\n8. [Neuroscience] Digital Media Alters Cognitive Willingness\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/digital-media-cognitive-willingness-31099/\n   Key points:\n   • A new study proposes that digital media usage alters human focus through a mechanism called \"effort recalibration.\"\n\n— Categories present —\nAI · Art · Biotech · Energy · Neuroscience · Robotics · Space\n\n— Admin checklist —\n• Draft original title + dek\n• Write body (~280–320 words) in CoC voice\n• Set hero image URL + credit\n• Mark published when ready",
+      "body": "EDITORIAL BRIEF (outline only — not for publication as-is)\nPublish date: 2026-07-22\nInstruction: Use the titles and key points below to write the final ~300-word CoC editorial. Replace this entire brief with your finished prose before publishing.\n\n— Selected articles of the day (8) —\n\n1. [AI] Gemini 3.6 Flash and 3.5 Flash-Lite now available through official API for developers and AI agents\n   Source: X · @web3l0var\n   URL: https://x.com/web3l0var/status/2079909448219271368\n   Key points:\n   • Model ecosystem expansion: Gemini 3.6 Flash and Gemini 3.5 Flash-Lite via official API access.\n\n2. [Art] Tate Names Dia Leader Jessica Morgan as Next Director\n   Source: Hyperallergic\n   URL: https://hyperallergic.com/tate-names-dia-leader-jessica-morgan-as-next-director/\n   Key points:\n   • The British curator will return to London to helm the museum network beginning next year.\n\n3. [Biotech] Trump administration says it's deferring $1B in Medicaid payments to California and Minnesota\n   Source: STAT News\n   URL: https://www.statnews.com/2026/07/21/medicaid-payments-1-billion-deferred-california-minnesota/?utm_campaign=rss\n   Key points:\n   • The Trump administration said it was deferring more than $1 billion in Medicaid payments to Minnesota and California because of “suspected fraud and noncompliance.”\n\n4. [Energy] Startup offers low-cost home batteries to Massachusetts residents\n   Source: Canary Media\n   URL: https://www.canarymedia.com/articles/batteries/haven-energy-low-cost-batteries-massachusetts\n   Key points:\n   • Haven Energy is the newest company offering home battery service in Massachusetts for a low monthly payment, a model supporters say could accelerate adoption of residential storage.\n   • Starting in four counties in the…\n\n5. [Neuroscience] New Chip Matches Real-Time Human Brain Speed\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/memristor-chip-brain-speed-neurotech-31110/\n   Key points:\n   • A new study presents the world's first neuromorphic chip capable of matching the operational speed of the human brain.\n\n6. [Robotics] Orania Limited’s 5-Layer Approach to Platform Data Governance\n   Source: Robotics & Automation News\n   URL: https://roboticsandautomationnews.com/2026/07/22/platform-data-governance-orania-limited/103600/\n   Key points:\n   • Data governance is one of those disciplines that most platforms know they need and few feel they've actually figured out.\n   • The concept is straightforward enough: ensure data is managed properly, protected appropriately,…\n\n7. [Space] NASA to Showcase Agency’s Newest Wind Tunnel in Virginia\n   Source: NASA\n   URL: https://www.nasa.gov/news-release/nasa-to-showcase-agencys-newest-wind-tunnel-in-virginia/\n   Key points:\n   • Media are invited to NASA’s Langley Research Center in Hampton, Virginia, on Friday, July 31, to attend a media tour and ribbon-cutting ceremony for the Flight Dynamics Research Facility, the agency’s first new wind…\n\n8. [Neuroscience] Digital Media Alters Cognitive Willingness\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/digital-media-cognitive-willingness-31099/\n   Key points:\n   • A new study proposes that digital media usage alters human focus through a mechanism called \"effort recalibration.\"\n\n— Categories present —\nAI · Art · Biotech · Energy · Neuroscience · Robotics · Space\n\n— Admin checklist —\n• Draft original title + dek\n• Write body (~280–320 words) in CoC voice\n• Set hero image URL + credit\n• Mark published when ready",
       "paragraphs": [
         "EDITORIAL BRIEF (outline only — not for publication as-is)\nPublish date: 2026-07-22\nInstruction: Use the titles and key points below to write the final ~300-word CoC editorial. Replace this entire brief with your finished prose before publishing.",
         "— Selected articles of the day (8) —",
-        "1. [AI] China’s AI models have Trump’s AI world at war with itself\n   Source: MIT Technology Review\n   URL: https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/\n   Key points:\n   • Over the weekend, several current and former advisors to President Donald…",
-        "2. [Art] Jimothy, Meme and Muse\n   Source: Hyperallergic\n   URL: https://hyperallergic.com/jimothy-meme-and-muse/\n   Key points:\n   • Artists share tributes to the beloved raccoon, plus Sabri Sundos’s odes to Palestinian diaspora and memory.",
-        "3. [Biotech] Job dissatisfaction and health care access uncertainty grows in the U.S., new study finds\n   Source: STAT News\n   URL: https://www.statnews.com/2026/07/22/health-news-job-dissatisfaction-health-care-access-grows/?utm_campaign=rss\n   Key points:\n   • What Hawaii's wildfires can teach the nation about health recovery, 4.5 million people disenrolled from SNAP, and more health news",
-        "4. [Energy] State legislatures are getting better at clean-energy permitting policy\n   Source: Canary Media\n   URL: https://www.canarymedia.com/articles/clean-energy/state-legislatures-clean-energy-permitting\n   Key points:\n   • Solar, wind, and batteries are the cheapest, fastest ways to add much-needed electricity to America’s grid.\n   • And across the country, more state legislatures are passing laws to streamline renewable development than are…",
-        "5. [Neuroscience] Why Food Tastes Different After Coffee\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/taste-perception-caffeine-neurotech-31102/\n   Key points:\n   • Researchers developed a biomimetic taste sensor combining 3D taste bud organoids with custom 200 mu-tall 3D microelectrode arrays.",
-        "6. [Robotics] This Graduate Student Equips NASA’s Robots With Assembly Skills\n   Source: IEEE Spectrum\n   URL: https://spectrum.ieee.org/graduate-student-nasas-robots-assembly\n   Key points:\n   • Like many engineers, Sarah Downs says she knew she wanted to pursue a STEM career from a young age.\n   • As a teenager, she discovered robotics through her Tulsa, Okla., middle school’s First Lego League team, and she fell…",
-        "7. [Space] The strategic competition with China: winning the multi-domain race\n   Source: SpaceNews\n   URL: https://spacenews.com/the-strategic-competition-with-china-winning-the-multi-domain-race/\n   Key points:\n   • History demonstrates military innovation continually rewrites the rules of combat, reshaping warfare and rendering strategies from past conflicts obsolete.\n   • The introduction of repeating rifles transformed infantry…",
+        "1. [AI] Gemini 3.6 Flash and 3.5 Flash-Lite now available through official API for developers and AI agents\n   Source: X · @web3l0var\n   URL: https://x.com/web3l0var/status/2079909448219271368\n   Key points:\n   • Model ecosystem expansion: Gemini 3.6 Flash and Gemini 3.5 Flash-Lite via official API access.",
+        "2. [Art] Tate Names Dia Leader Jessica Morgan as Next Director\n   Source: Hyperallergic\n   URL: https://hyperallergic.com/tate-names-dia-leader-jessica-morgan-as-next-director/\n   Key points:\n   • The British curator will return to London to helm the museum network beginning next year.",
+        "3. [Biotech] Trump administration says it's deferring $1B in Medicaid payments to California and Minnesota\n   Source: STAT News\n   URL: https://www.statnews.com/2026/07/21/medicaid-payments-1-billion-deferred-california-minnesota/?utm_campaign=rss\n   Key points:\n   • The Trump administration said it was deferring more than $1 billion in Medicaid payments to Minnesota and California because of “suspected fraud and noncompliance.”",
+        "4. [Energy] Startup offers low-cost home batteries to Massachusetts residents\n   Source: Canary Media\n   URL: https://www.canarymedia.com/articles/batteries/haven-energy-low-cost-batteries-massachusetts\n   Key points:\n   • Haven Energy is the newest company offering home battery service in Massachusetts for a low monthly payment, a model supporters say could accelerate adoption of residential storage.\n   • Starting in four counties in the…",
+        "5. [Neuroscience] New Chip Matches Real-Time Human Brain Speed\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/memristor-chip-brain-speed-neurotech-31110/\n   Key points:\n   • A new study presents the world's first neuromorphic chip capable of matching the operational speed of the human brain.",
+        "6. [Robotics] Orania Limited’s 5-Layer Approach to Platform Data Governance\n   Source: Robotics & Automation News\n   URL: https://roboticsandautomationnews.com/2026/07/22/platform-data-governance-orania-limited/103600/\n   Key points:\n   • Data governance is one of those disciplines that most platforms know they need and few feel they've actually figured out.\n   • The concept is straightforward enough: ensure data is managed properly, protected appropriately,…",
+        "7. [Space] NASA to Showcase Agency’s Newest Wind Tunnel in Virginia\n   Source: NASA\n   URL: https://www.nasa.gov/news-release/nasa-to-showcase-agencys-newest-wind-tunnel-in-virginia/\n   Key points:\n   • Media are invited to NASA’s Langley Research Center in Hampton, Virginia, on Friday, July 31, to attend a media tour and ribbon-cutting ceremony for the Flight Dynamics Research Facility, the agency’s first new wind…",
         "8. [Neuroscience] Digital Media Alters Cognitive Willingness\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/digital-media-cognitive-willingness-31099/\n   Key points:\n   • A new study proposes that digital media usage alters human focus through a mechanism called \"effort recalibration.\"",
         "— Categories present —\nAI · Art · Biotech · Energy · Neuroscience · Robotics · Space",
         "— Admin checklist —\n• Draft original title + dek\n• Write body (~280–320 words) in CoC voice\n• Set hero image URL + credit\n• Mark published when ready"
       ],
-      "wordCount": 419,
+      "wordCount": 438,
       "themeId": "outline",
       "themeLabel": "Admin outline (titles + key points)",
       "formId": "outline_brief",
@@ -99,76 +99,75 @@
       "heroSourceUrl": "https://images.nasa.gov/details/PIA01492",
       "headlines": [
         {
-          "title": "China’s AI models have Trump’s AI world at war with itself",
-          "source": "MIT Technology Review",
+          "title": "Gemini 3.6 Flash and 3.5 Flash-Lite now available through official API for developers and AI agents",
+          "source": "X · @web3l0var",
           "category": "ai",
-          "sourceUrl": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
-          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Over the weekend, several current and former advisors to President Donald…",
+          "sourceUrl": "https://x.com/web3l0var/status/2079909448219271368",
+          "summary": "Model ecosystem expansion: Gemini 3.6 Flash and Gemini 3.5 Flash-Lite via official API access.",
           "keyPoints": [
-            "Over the weekend, several current and former advisors to President Donald…"
+            "Model ecosystem expansion: Gemini 3.6 Flash and Gemini 3.5 Flash-Lite via official API access."
           ]
         },
         {
-          "title": "Jimothy, Meme and Muse",
+          "title": "Tate Names Dia Leader Jessica Morgan as Next Director",
           "source": "Hyperallergic",
           "category": "art",
-          "sourceUrl": "https://hyperallergic.com/jimothy-meme-and-muse/",
-          "summary": "Artists share tributes to the beloved raccoon, plus Sabri Sundos’s odes to Palestinian diaspora and memory.",
+          "sourceUrl": "https://hyperallergic.com/tate-names-dia-leader-jessica-morgan-as-next-director/",
+          "summary": "The British curator will return to London to helm the museum network beginning next year.",
           "keyPoints": [
-            "Artists share tributes to the beloved raccoon, plus Sabri Sundos’s odes to Palestinian diaspora and memory."
+            "The British curator will return to London to helm the museum network beginning next year."
           ]
         },
         {
-          "title": "Job dissatisfaction and health care access uncertainty grows in the U.S., new study finds",
+          "title": "Trump administration says it's deferring $1B in Medicaid payments to California and Minnesota",
           "source": "STAT News",
           "category": "biotech",
-          "sourceUrl": "https://www.statnews.com/2026/07/22/health-news-job-dissatisfaction-health-care-access-grows/?utm_campaign=rss",
-          "summary": "What Hawaii's wildfires can teach the nation about health recovery, 4.5 million people disenrolled from SNAP, and more health news",
+          "sourceUrl": "https://www.statnews.com/2026/07/21/medicaid-payments-1-billion-deferred-california-minnesota/?utm_campaign=rss",
+          "summary": "The Trump administration said it was deferring more than $1 billion in Medicaid payments to Minnesota and California because of “suspected fraud and noncompliance.”",
           "keyPoints": [
-            "What Hawaii's wildfires can teach the nation about health recovery, 4.5 million people disenrolled from SNAP, and more health news"
+            "The Trump administration said it was deferring more than $1 billion in Medicaid payments to Minnesota and California because of “suspected fraud and noncompliance.”"
           ]
         },
         {
-          "title": "State legislatures are getting better at clean-energy permitting policy",
+          "title": "Startup offers low-cost home batteries to Massachusetts residents",
           "source": "Canary Media",
           "category": "energy",
-          "sourceUrl": "https://www.canarymedia.com/articles/clean-energy/state-legislatures-clean-energy-permitting",
-          "summary": "Solar, wind, and batteries are the cheapest, fastest ways to add much-needed electricity to America’s grid. And across the country, more state legislatures are passing laws to streamline renewable development than are…",
+          "sourceUrl": "https://www.canarymedia.com/articles/batteries/haven-energy-low-cost-batteries-massachusetts",
+          "summary": "Haven Energy is the newest company offering home battery service in Massachusetts for a low monthly payment, a model supporters say could accelerate adoption of residential storage. Starting in four counties in the…",
           "keyPoints": [
-            "Solar, wind, and batteries are the cheapest, fastest ways to add much-needed electricity to America’s grid.",
-            "And across the country, more state legislatures are passing laws to streamline renewable development than are…"
+            "Haven Energy is the newest company offering home battery service in Massachusetts for a low monthly payment, a model supporters say could accelerate adoption of residential storage.",
+            "Starting in four counties in the…"
           ]
         },
         {
-          "title": "Why Food Tastes Different After Coffee",
+          "title": "New Chip Matches Real-Time Human Brain Speed",
           "source": "Neuroscience News",
           "category": "neuroscience",
-          "sourceUrl": "https://neurosciencenews.com/taste-perception-caffeine-neurotech-31102/",
-          "summary": "Researchers developed a biomimetic taste sensor combining 3D taste bud organoids with custom 200 mu-tall 3D microelectrode arrays.",
+          "sourceUrl": "https://neurosciencenews.com/memristor-chip-brain-speed-neurotech-31110/",
+          "summary": "A new study presents the world's first neuromorphic chip capable of matching the operational speed of the human brain.",
           "keyPoints": [
-            "Researchers developed a biomimetic taste sensor combining 3D taste bud organoids with custom 200 mu-tall 3D microelectrode arrays."
+            "A new study presents the world's first neuromorphic chip capable of matching the operational speed of the human brain."
           ]
         },
         {
-          "title": "This Graduate Student Equips NASA’s Robots With Assembly Skills",
-          "source": "IEEE Spectrum",
+          "title": "Orania Limited’s 5-Layer Approach to Platform Data Governance",
+          "source": "Robotics & Automation News",
           "category": "robotics",
-          "sourceUrl": "https://spectrum.ieee.org/graduate-student-nasas-robots-assembly",
-          "summary": "Like many engineers, Sarah Downs says she knew she wanted to pursue a STEM career from a young age. As a teenager, she discovered robotics through her Tulsa, Okla., middle school’s First Lego League team, and she fell…",
+          "sourceUrl": "https://roboticsandautomationnews.com/2026/07/22/platform-data-governance-orania-limited/103600/",
+          "summary": "Data governance is one of those disciplines that most platforms know they need and few feel they've actually figured out. The concept is straightforward enough: ensure data is managed properly, protected appropriately,…",
           "keyPoints": [
-            "Like many engineers, Sarah Downs says she knew she wanted to pursue a STEM career from a young age.",
-            "As a teenager, she discovered robotics through her Tulsa, Okla., middle school’s First Lego League team, and she fell…"
+            "Data governance is one of those disciplines that most platforms know they need and few feel they've actually figured out.",
+            "The concept is straightforward enough: ensure data is managed properly, protected appropriately,…"
           ]
         },
         {
-          "title": "The strategic competition with China: winning the multi-domain race",
-          "source": "SpaceNews",
+          "title": "NASA to Showcase Agency’s Newest Wind Tunnel in Virginia",
+          "source": "NASA",
           "category": "space",
-          "sourceUrl": "https://spacenews.com/the-strategic-competition-with-china-winning-the-multi-domain-race/",
-          "summary": "History demonstrates military innovation continually rewrites the rules of combat, reshaping warfare and rendering strategies from past conflicts obsolete. The introduction of repeating rifles transformed infantry…",
+          "sourceUrl": "https://www.nasa.gov/news-release/nasa-to-showcase-agencys-newest-wind-tunnel-in-virginia/",
+          "summary": "Media are invited to NASA’s Langley Research Center in Hampton, Virginia, on Friday, July 31, to attend a media tour and ribbon-cutting ceremony for the Flight Dynamics Research Facility, the agency’s first new wind…",
           "keyPoints": [
-            "History demonstrates military innovation continually rewrites the rules of combat, reshaping warfare and rendering strategies from past conflicts obsolete.",
-            "The introduction of repeating rifles transformed infantry…"
+            "Media are invited to NASA’s Langley Research Center in Hampton, Virginia, on Friday, July 31, to attend a media tour and ribbon-cutting ceremony for the Flight Dynamics Research Facility, the agency’s first new wind…"
           ]
         },
         {
@@ -189,25 +188,25 @@
       "status": "draft",
       "draftKind": "outline",
       "createdAt": "2026-07-22T13:14:55.413Z",
-      "updatedAt": "2026-07-22T14:00:54.383Z",
+      "updatedAt": "2026-07-22T20:50:38.555Z",
       "title": "Editorial brief — 2026-07-23",
       "dek": "Outline of selected article titles and key points for admin to write the final editorial.",
-      "body": "EDITORIAL BRIEF (outline only — not for publication as-is)\nPublish date: 2026-07-23\nInstruction: Use the titles and key points below to write the final ~300-word CoC editorial. Replace this entire brief with your finished prose before publishing.\n\n— Selected articles of the day (8) —\n\n1. [AI] China’s AI models have Trump’s AI world at war with itself\n   Source: MIT Technology Review\n   URL: https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/\n   Key points:\n   • Over the weekend, several current and former advisors to President Donald…\n\n2. [Art] Jimothy, Meme and Muse\n   Source: Hyperallergic\n   URL: https://hyperallergic.com/jimothy-meme-and-muse/\n   Key points:\n   • Artists share tributes to the beloved raccoon, plus Sabri Sundos’s odes to Palestinian diaspora and memory.\n\n3. [Biotech] Job dissatisfaction and health care access uncertainty grows in the U.S., new study finds\n   Source: STAT News\n   URL: https://www.statnews.com/2026/07/22/health-news-job-dissatisfaction-health-care-access-grows/?utm_campaign=rss\n   Key points:\n   • What Hawaii's wildfires can teach the nation about health recovery, 4.5 million people disenrolled from SNAP, and more health news\n\n4. [Energy] State legislatures are getting better at clean-energy permitting policy\n   Source: Canary Media\n   URL: https://www.canarymedia.com/articles/clean-energy/state-legislatures-clean-energy-permitting\n   Key points:\n   • Solar, wind, and batteries are the cheapest, fastest ways to add much-needed electricity to America’s grid.\n   • And across the country, more state legislatures are passing laws to streamline renewable development than are…\n\n5. [Neuroscience] Why Food Tastes Different After Coffee\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/taste-perception-caffeine-neurotech-31102/\n   Key points:\n   • Researchers developed a biomimetic taste sensor combining 3D taste bud organoids with custom 200 mu-tall 3D microelectrode arrays.\n\n6. [Robotics] This Graduate Student Equips NASA’s Robots With Assembly Skills\n   Source: IEEE Spectrum\n   URL: https://spectrum.ieee.org/graduate-student-nasas-robots-assembly\n   Key points:\n   • Like many engineers, Sarah Downs says she knew she wanted to pursue a STEM career from a young age.\n   • As a teenager, she discovered robotics through her Tulsa, Okla., middle school’s First Lego League team, and she fell…\n\n7. [Space] The strategic competition with China: winning the multi-domain race\n   Source: SpaceNews\n   URL: https://spacenews.com/the-strategic-competition-with-china-winning-the-multi-domain-race/\n   Key points:\n   • History demonstrates military innovation continually rewrites the rules of combat, reshaping warfare and rendering strategies from past conflicts obsolete.\n   • The introduction of repeating rifles transformed infantry…\n\n8. [Neuroscience] Digital Media Alters Cognitive Willingness\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/digital-media-cognitive-willingness-31099/\n   Key points:\n   • A new study proposes that digital media usage alters human focus through a mechanism called \"effort recalibration.\"\n\n— Categories present —\nAI · Art · Biotech · Energy · Neuroscience · Robotics · Space\n\n— Admin checklist —\n• Draft original title + dek\n• Write body (~280–320 words) in CoC voice\n• Set hero image URL + credit\n• Mark published when ready",
+      "body": "EDITORIAL BRIEF (outline only — not for publication as-is)\nPublish date: 2026-07-23\nInstruction: Use the titles and key points below to write the final ~300-word CoC editorial. Replace this entire brief with your finished prose before publishing.\n\n— Selected articles of the day (8) —\n\n1. [AI] Gemini 3.6 Flash and 3.5 Flash-Lite now available through official API for developers and AI agents\n   Source: X · @web3l0var\n   URL: https://x.com/web3l0var/status/2079909448219271368\n   Key points:\n   • Model ecosystem expansion: Gemini 3.6 Flash and Gemini 3.5 Flash-Lite via official API access.\n\n2. [Art] Tate Names Dia Leader Jessica Morgan as Next Director\n   Source: Hyperallergic\n   URL: https://hyperallergic.com/tate-names-dia-leader-jessica-morgan-as-next-director/\n   Key points:\n   • The British curator will return to London to helm the museum network beginning next year.\n\n3. [Biotech] Trump administration says it's deferring $1B in Medicaid payments to California and Minnesota\n   Source: STAT News\n   URL: https://www.statnews.com/2026/07/21/medicaid-payments-1-billion-deferred-california-minnesota/?utm_campaign=rss\n   Key points:\n   • The Trump administration said it was deferring more than $1 billion in Medicaid payments to Minnesota and California because of “suspected fraud and noncompliance.”\n\n4. [Energy] Startup offers low-cost home batteries to Massachusetts residents\n   Source: Canary Media\n   URL: https://www.canarymedia.com/articles/batteries/haven-energy-low-cost-batteries-massachusetts\n   Key points:\n   • Haven Energy is the newest company offering home battery service in Massachusetts for a low monthly payment, a model supporters say could accelerate adoption of residential storage.\n   • Starting in four counties in the…\n\n5. [Neuroscience] New Chip Matches Real-Time Human Brain Speed\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/memristor-chip-brain-speed-neurotech-31110/\n   Key points:\n   • A new study presents the world's first neuromorphic chip capable of matching the operational speed of the human brain.\n\n6. [Robotics] Orania Limited’s 5-Layer Approach to Platform Data Governance\n   Source: Robotics & Automation News\n   URL: https://roboticsandautomationnews.com/2026/07/22/platform-data-governance-orania-limited/103600/\n   Key points:\n   • Data governance is one of those disciplines that most platforms know they need and few feel they've actually figured out.\n   • The concept is straightforward enough: ensure data is managed properly, protected appropriately,…\n\n7. [Space] NASA to Showcase Agency’s Newest Wind Tunnel in Virginia\n   Source: NASA\n   URL: https://www.nasa.gov/news-release/nasa-to-showcase-agencys-newest-wind-tunnel-in-virginia/\n   Key points:\n   • Media are invited to NASA’s Langley Research Center in Hampton, Virginia, on Friday, July 31, to attend a media tour and ribbon-cutting ceremony for the Flight Dynamics Research Facility, the agency’s first new wind…\n\n8. [Neuroscience] Digital Media Alters Cognitive Willingness\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/digital-media-cognitive-willingness-31099/\n   Key points:\n   • A new study proposes that digital media usage alters human focus through a mechanism called \"effort recalibration.\"\n\n— Categories present —\nAI · Art · Biotech · Energy · Neuroscience · Robotics · Space\n\n— Admin checklist —\n• Draft original title + dek\n• Write body (~280–320 words) in CoC voice\n• Set hero image URL + credit\n• Mark published when ready",
       "paragraphs": [
         "EDITORIAL BRIEF (outline only — not for publication as-is)\nPublish date: 2026-07-23\nInstruction: Use the titles and key points below to write the final ~300-word CoC editorial. Replace this entire brief with your finished prose before publishing.",
         "— Selected articles of the day (8) —",
-        "1. [AI] China’s AI models have Trump’s AI world at war with itself\n   Source: MIT Technology Review\n   URL: https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/\n   Key points:\n   • Over the weekend, several current and former advisors to President Donald…",
-        "2. [Art] Jimothy, Meme and Muse\n   Source: Hyperallergic\n   URL: https://hyperallergic.com/jimothy-meme-and-muse/\n   Key points:\n   • Artists share tributes to the beloved raccoon, plus Sabri Sundos’s odes to Palestinian diaspora and memory.",
-        "3. [Biotech] Job dissatisfaction and health care access uncertainty grows in the U.S., new study finds\n   Source: STAT News\n   URL: https://www.statnews.com/2026/07/22/health-news-job-dissatisfaction-health-care-access-grows/?utm_campaign=rss\n   Key points:\n   • What Hawaii's wildfires can teach the nation about health recovery, 4.5 million people disenrolled from SNAP, and more health news",
-        "4. [Energy] State legislatures are getting better at clean-energy permitting policy\n   Source: Canary Media\n   URL: https://www.canarymedia.com/articles/clean-energy/state-legislatures-clean-energy-permitting\n   Key points:\n   • Solar, wind, and batteries are the cheapest, fastest ways to add much-needed electricity to America’s grid.\n   • And across the country, more state legislatures are passing laws to streamline renewable development than are…",
-        "5. [Neuroscience] Why Food Tastes Different After Coffee\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/taste-perception-caffeine-neurotech-31102/\n   Key points:\n   • Researchers developed a biomimetic taste sensor combining 3D taste bud organoids with custom 200 mu-tall 3D microelectrode arrays.",
-        "6. [Robotics] This Graduate Student Equips NASA’s Robots With Assembly Skills\n   Source: IEEE Spectrum\n   URL: https://spectrum.ieee.org/graduate-student-nasas-robots-assembly\n   Key points:\n   • Like many engineers, Sarah Downs says she knew she wanted to pursue a STEM career from a young age.\n   • As a teenager, she discovered robotics through her Tulsa, Okla., middle school’s First Lego League team, and she fell…",
-        "7. [Space] The strategic competition with China: winning the multi-domain race\n   Source: SpaceNews\n   URL: https://spacenews.com/the-strategic-competition-with-china-winning-the-multi-domain-race/\n   Key points:\n   • History demonstrates military innovation continually rewrites the rules of combat, reshaping warfare and rendering strategies from past conflicts obsolete.\n   • The introduction of repeating rifles transformed infantry…",
+        "1. [AI] Gemini 3.6 Flash and 3.5 Flash-Lite now available through official API for developers and AI agents\n   Source: X · @web3l0var\n   URL: https://x.com/web3l0var/status/2079909448219271368\n   Key points:\n   • Model ecosystem expansion: Gemini 3.6 Flash and Gemini 3.5 Flash-Lite via official API access.",
+        "2. [Art] Tate Names Dia Leader Jessica Morgan as Next Director\n   Source: Hyperallergic\n   URL: https://hyperallergic.com/tate-names-dia-leader-jessica-morgan-as-next-director/\n   Key points:\n   • The British curator will return to London to helm the museum network beginning next year.",
+        "3. [Biotech] Trump administration says it's deferring $1B in Medicaid payments to California and Minnesota\n   Source: STAT News\n   URL: https://www.statnews.com/2026/07/21/medicaid-payments-1-billion-deferred-california-minnesota/?utm_campaign=rss\n   Key points:\n   • The Trump administration said it was deferring more than $1 billion in Medicaid payments to Minnesota and California because of “suspected fraud and noncompliance.”",
+        "4. [Energy] Startup offers low-cost home batteries to Massachusetts residents\n   Source: Canary Media\n   URL: https://www.canarymedia.com/articles/batteries/haven-energy-low-cost-batteries-massachusetts\n   Key points:\n   • Haven Energy is the newest company offering home battery service in Massachusetts for a low monthly payment, a model supporters say could accelerate adoption of residential storage.\n   • Starting in four counties in the…",
+        "5. [Neuroscience] New Chip Matches Real-Time Human Brain Speed\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/memristor-chip-brain-speed-neurotech-31110/\n   Key points:\n   • A new study presents the world's first neuromorphic chip capable of matching the operational speed of the human brain.",
+        "6. [Robotics] Orania Limited’s 5-Layer Approach to Platform Data Governance\n   Source: Robotics & Automation News\n   URL: https://roboticsandautomationnews.com/2026/07/22/platform-data-governance-orania-limited/103600/\n   Key points:\n   • Data governance is one of those disciplines that most platforms know they need and few feel they've actually figured out.\n   • The concept is straightforward enough: ensure data is managed properly, protected appropriately,…",
+        "7. [Space] NASA to Showcase Agency’s Newest Wind Tunnel in Virginia\n   Source: NASA\n   URL: https://www.nasa.gov/news-release/nasa-to-showcase-agencys-newest-wind-tunnel-in-virginia/\n   Key points:\n   • Media are invited to NASA’s Langley Research Center in Hampton, Virginia, on Friday, July 31, to attend a media tour and ribbon-cutting ceremony for the Flight Dynamics Research Facility, the agency’s first new wind…",
         "8. [Neuroscience] Digital Media Alters Cognitive Willingness\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/digital-media-cognitive-willingness-31099/\n   Key points:\n   • A new study proposes that digital media usage alters human focus through a mechanism called \"effort recalibration.\"",
         "— Categories present —\nAI · Art · Biotech · Energy · Neuroscience · Robotics · Space",
         "— Admin checklist —\n• Draft original title + dek\n• Write body (~280–320 words) in CoC voice\n• Set hero image URL + credit\n• Mark published when ready"
       ],
-      "wordCount": 419,
+      "wordCount": 438,
       "themeId": "outline",
       "themeLabel": "Admin outline (titles + key points)",
       "formId": "outline_brief",
@@ -220,76 +219,75 @@
       "heroSourceUrl": "https://images.nasa.gov/details/PIA15416",
       "headlines": [
         {
-          "title": "China’s AI models have Trump’s AI world at war with itself",
-          "source": "MIT Technology Review",
+          "title": "Gemini 3.6 Flash and 3.5 Flash-Lite now available through official API for developers and AI agents",
+          "source": "X · @web3l0var",
           "category": "ai",
-          "sourceUrl": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
-          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Over the weekend, several current and former advisors to President Donald…",
+          "sourceUrl": "https://x.com/web3l0var/status/2079909448219271368",
+          "summary": "Model ecosystem expansion: Gemini 3.6 Flash and Gemini 3.5 Flash-Lite via official API access.",
           "keyPoints": [
-            "Over the weekend, several current and former advisors to President Donald…"
+            "Model ecosystem expansion: Gemini 3.6 Flash and Gemini 3.5 Flash-Lite via official API access."
           ]
         },
         {
-          "title": "Jimothy, Meme and Muse",
+          "title": "Tate Names Dia Leader Jessica Morgan as Next Director",
           "source": "Hyperallergic",
           "category": "art",
-          "sourceUrl": "https://hyperallergic.com/jimothy-meme-and-muse/",
-          "summary": "Artists share tributes to the beloved raccoon, plus Sabri Sundos’s odes to Palestinian diaspora and memory.",
+          "sourceUrl": "https://hyperallergic.com/tate-names-dia-leader-jessica-morgan-as-next-director/",
+          "summary": "The British curator will return to London to helm the museum network beginning next year.",
           "keyPoints": [
-            "Artists share tributes to the beloved raccoon, plus Sabri Sundos’s odes to Palestinian diaspora and memory."
+            "The British curator will return to London to helm the museum network beginning next year."
           ]
         },
         {
-          "title": "Job dissatisfaction and health care access uncertainty grows in the U.S., new study finds",
+          "title": "Trump administration says it's deferring $1B in Medicaid payments to California and Minnesota",
           "source": "STAT News",
           "category": "biotech",
-          "sourceUrl": "https://www.statnews.com/2026/07/22/health-news-job-dissatisfaction-health-care-access-grows/?utm_campaign=rss",
-          "summary": "What Hawaii's wildfires can teach the nation about health recovery, 4.5 million people disenrolled from SNAP, and more health news",
+          "sourceUrl": "https://www.statnews.com/2026/07/21/medicaid-payments-1-billion-deferred-california-minnesota/?utm_campaign=rss",
+          "summary": "The Trump administration said it was deferring more than $1 billion in Medicaid payments to Minnesota and California because of “suspected fraud and noncompliance.”",
           "keyPoints": [
-            "What Hawaii's wildfires can teach the nation about health recovery, 4.5 million people disenrolled from SNAP, and more health news"
+            "The Trump administration said it was deferring more than $1 billion in Medicaid payments to Minnesota and California because of “suspected fraud and noncompliance.”"
           ]
         },
         {
-          "title": "State legislatures are getting better at clean-energy permitting policy",
+          "title": "Startup offers low-cost home batteries to Massachusetts residents",
           "source": "Canary Media",
           "category": "energy",
-          "sourceUrl": "https://www.canarymedia.com/articles/clean-energy/state-legislatures-clean-energy-permitting",
-          "summary": "Solar, wind, and batteries are the cheapest, fastest ways to add much-needed electricity to America’s grid. And across the country, more state legislatures are passing laws to streamline renewable development than are…",
+          "sourceUrl": "https://www.canarymedia.com/articles/batteries/haven-energy-low-cost-batteries-massachusetts",
+          "summary": "Haven Energy is the newest company offering home battery service in Massachusetts for a low monthly payment, a model supporters say could accelerate adoption of residential storage. Starting in four counties in the…",
           "keyPoints": [
-            "Solar, wind, and batteries are the cheapest, fastest ways to add much-needed electricity to America’s grid.",
-            "And across the country, more state legislatures are passing laws to streamline renewable development than are…"
+            "Haven Energy is the newest company offering home battery service in Massachusetts for a low monthly payment, a model supporters say could accelerate adoption of residential storage.",
+            "Starting in four counties in the…"
           ]
         },
         {
-          "title": "Why Food Tastes Different After Coffee",
+          "title": "New Chip Matches Real-Time Human Brain Speed",
           "source": "Neuroscience News",
           "category": "neuroscience",
-          "sourceUrl": "https://neurosciencenews.com/taste-perception-caffeine-neurotech-31102/",
-          "summary": "Researchers developed a biomimetic taste sensor combining 3D taste bud organoids with custom 200 mu-tall 3D microelectrode arrays.",
+          "sourceUrl": "https://neurosciencenews.com/memristor-chip-brain-speed-neurotech-31110/",
+          "summary": "A new study presents the world's first neuromorphic chip capable of matching the operational speed of the human brain.",
           "keyPoints": [
-            "Researchers developed a biomimetic taste sensor combining 3D taste bud organoids with custom 200 mu-tall 3D microelectrode arrays."
+            "A new study presents the world's first neuromorphic chip capable of matching the operational speed of the human brain."
           ]
         },
         {
-          "title": "This Graduate Student Equips NASA’s Robots With Assembly Skills",
-          "source": "IEEE Spectrum",
+          "title": "Orania Limited’s 5-Layer Approach to Platform Data Governance",
+          "source": "Robotics & Automation News",
           "category": "robotics",
-          "sourceUrl": "https://spectrum.ieee.org/graduate-student-nasas-robots-assembly",
-          "summary": "Like many engineers, Sarah Downs says she knew she wanted to pursue a STEM career from a young age. As a teenager, she discovered robotics through her Tulsa, Okla., middle school’s First Lego League team, and she fell…",
+          "sourceUrl": "https://roboticsandautomationnews.com/2026/07/22/platform-data-governance-orania-limited/103600/",
+          "summary": "Data governance is one of those disciplines that most platforms know they need and few feel they've actually figured out. The concept is straightforward enough: ensure data is managed properly, protected appropriately,…",
           "keyPoints": [
-            "Like many engineers, Sarah Downs says she knew she wanted to pursue a STEM career from a young age.",
-            "As a teenager, she discovered robotics through her Tulsa, Okla., middle school’s First Lego League team, and she fell…"
+            "Data governance is one of those disciplines that most platforms know they need and few feel they've actually figured out.",
+            "The concept is straightforward enough: ensure data is managed properly, protected appropriately,…"
           ]
         },
         {
-          "title": "The strategic competition with China: winning the multi-domain race",
-          "source": "SpaceNews",
+          "title": "NASA to Showcase Agency’s Newest Wind Tunnel in Virginia",
+          "source": "NASA",
           "category": "space",
-          "sourceUrl": "https://spacenews.com/the-strategic-competition-with-china-winning-the-multi-domain-race/",
-          "summary": "History demonstrates military innovation continually rewrites the rules of combat, reshaping warfare and rendering strategies from past conflicts obsolete. The introduction of repeating rifles transformed infantry…",
+          "sourceUrl": "https://www.nasa.gov/news-release/nasa-to-showcase-agencys-newest-wind-tunnel-in-virginia/",
+          "summary": "Media are invited to NASA’s Langley Research Center in Hampton, Virginia, on Friday, July 31, to attend a media tour and ribbon-cutting ceremony for the Flight Dynamics Research Facility, the agency’s first new wind…",
           "keyPoints": [
-            "History demonstrates military innovation continually rewrites the rules of combat, reshaping warfare and rendering strategies from past conflicts obsolete.",
-            "The introduction of repeating rifles transformed infantry…"
+            "Media are invited to NASA’s Langley Research Center in Hampton, Virginia, on Friday, July 31, to attend a media tour and ribbon-cutting ceremony for the Flight Dynamics Research Facility, the agency’s first new wind…"
           ]
         },
         {
