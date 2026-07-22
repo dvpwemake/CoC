@@ -1,11 +1,21 @@
 [
   {
-    "batchId": "auto_2026-07-22T01-13",
-    "scannedAt": "2026-07-22T01:13:35.961Z",
+    "batchId": "auto_2026-07-22T06-18",
+    "scannedAt": "2026-07-22T06:18:20.695Z",
     "items": [
       {
-        "id": "auto_2026-07-22T01-13_1",
+        "id": "auto_2026-07-22T06-18_1",
         "rank": 1,
+        "title": "STAT+: More workers hate their jobs, but keep them for the health insurance",
+        "category": "biotech",
+        "summary": "A new survey reveals 24% of U.S. workers stay in unwanted jobs to keep health insurance. Experts call it 'job lock.'",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/07/GettyImages-2265588063-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/07/22/gallup-poll-24-percent-workers-job-lock-keep-job-health-insurance/?utm_campaign=rss"
+      },
+      {
+        "id": "auto_2026-07-22T06-18_2",
+        "rank": 2,
         "title": "Zenno Astronautics to relocate to the United States",
         "category": "space",
         "summary": "SAN FRANCISCO – Zenno Astronautics, a New Zealand startup focused on applying superconducting magnets for spacecraft attitude control and acceleration, plans to redomicile to the United States. “It is obvious […] The…",
@@ -14,8 +24,8 @@
         "sourceUrl": "https://spacenews.com/zenno-astronautics-to-relocate-to-the-united-states/"
       },
       {
-        "id": "auto_2026-07-22T01-13_2",
-        "rank": 2,
+        "id": "auto_2026-07-22T06-18_3",
+        "rank": 3,
         "title": "Why Food Tastes Different After Coffee",
         "category": "neuroscience",
         "summary": "Researchers developed a biomimetic taste sensor combining 3D taste bud organoids with custom 200 mu-tall 3D microelectrode arrays.",
@@ -24,8 +34,8 @@
         "sourceUrl": "https://neurosciencenews.com/taste-perception-caffeine-neurotech-31102/"
       },
       {
-        "id": "auto_2026-07-22T01-13_3",
-        "rank": 3,
+        "id": "auto_2026-07-22T06-18_4",
+        "rank": 4,
         "title": "Sabri Sundos Faces Catastrophe With Flowers",
         "category": "art",
         "summary": "“I am obsessed with autonomy and movement,” the Palestinian-American artist tells Hyperallergic in an interview.",
@@ -34,17 +44,7 @@
         "sourceUrl": "https://hyperallergic.com/sabri-sundos-faces-catastrophe-with-flowers/"
       },
       {
-        "id": "auto_2026-07-22T01-13_4",
-        "rank": 4,
-        "title": "Trump administration says it's deferring $1B in Medicaid payments to California and Minnesota",
-        "category": "biotech",
-        "summary": "The Trump administration said it was deferring more than $1 billion in Medicaid payments to Minnesota and California because of “suspected fraud and noncompliance.”",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/07/AP26189616840412-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/07/21/medicaid-payments-1-billion-deferred-california-minnesota/?utm_campaign=rss"
-      },
-      {
-        "id": "auto_2026-07-22T01-13_5",
+        "id": "auto_2026-07-22T06-18_5",
         "rank": 5,
         "title": "Startup offers low-cost home batteries to Massachusetts residents",
         "category": "energy",
