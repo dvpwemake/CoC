@@ -170,12 +170,13 @@ a{color:inherit;text-decoration:none}
     </div>
     <div class="toggle-row"><span>Auto-crawl every 4h</span><label class="tsw"><input type="checkbox" id="autoT" onchange="toggleAuto()"><span class="tsl"></span></label></div>
     <div class="toggle-row"><span>Auto-publish after crawl</span><label class="tsw"><input type="checkbox" id="autoPub" onchange="saveAutoPub()" checked><span class="tsl"></span></label></div>
-    <p style="font-family:var(--font-mono);font-size:.48rem;color:var(--text-dim);line-height:1.6;margin-top:.5rem">MIT TR · IEEE · STAT · NASA · Canary · Neuro · Art (Hyperallergic / Colossal) + ScienceDaily</p>
+    <p style="font-family:var(--font-mono);font-size:.48rem;color:var(--text-dim);line-height:1.6;margin-top:.5rem">RSS + <b>X MCP</b> signals (all categories) · MIT TR · IEEE · STAT · NASA · Canary · Neuro · Art</p>
   </div>
 
   <div class="sec" id="edSec">
     <div class="sec-t">Daily Editorial</div>
-    <p style="font-family:var(--font-mono);font-size:.48rem;color:var(--text-dim);line-height:1.55;margin-bottom:.5rem">Draft by 9pm ET · Auto-publish 8am ET<br>CLI: <code style="font-size:.45rem">node scripts/editorial-draft.js --force</code></p>
+    <p style="font-family:var(--font-mono);font-size:.48rem;color:var(--text-dim);line-height:1.55;margin-bottom:.5rem">Draft by 9pm ET · Auto-publish 8am ET<br><b>✦ Draft</b> = outline only (article titles + key points). You write the final prose.</p>
+    <button class="btn btn-s" id="edDraftBtn" onclick="forceEditorialDraft()" style="width:100%;margin-bottom:.4rem">✦ Editorial Draft</button>
     <button class="btn btn-p" onclick="openEditorial()" style="width:100%;margin-bottom:.4rem">✎ Edit Editorial</button>
     <button class="btn" onclick="loadEditorialFile()" style="width:100%">↻ Load data/editorial.json</button>
   </div>
@@ -195,7 +196,7 @@ a{color:inherit;text-decoration:none}
   <div class="ws" id="ws">
     <div class="ic">◇</div>
     <h2>Welcome, Editor</h2>
-    <p><span class="sn">1</span> <b>✎ Edit Editorial</b> — loads <code>data/editorial.json</code> automatically<br><span class="sn">2</span> <b>⚡ Crawl &amp; Publish</b> — news feeds (+ Art)<br><span class="sn">3</span> Serve via local HTTP if file:// blocks fetch<br><span class="sn">4</span> CLI: <code style="font-size:.5rem">node scripts/editorial-draft.js --force</code></p>
+    <p><span class="sn">1</span> <b>⚡ Crawl</b> — pull today’s articles (RSS + X)<br><span class="sn">2</span> <b>✦ Editorial Draft</b> — compile titles + key points outline (no auto-essay)<br><span class="sn">3</span> <b>✎ Edit Editorial</b> — write final ~300w prose from the outline<br><span class="sn">4</span> Save downloads <code>editorial.json</code> → put in <code>data/</code> when ready</p>
   </div>
   <div id="eForm" style="display:none">
     <div class="ph"><h2 class="pt" id="fTitle">New Entry</h2><button class="btn btn-d" onclick="delE()" id="delBtn">✕ Delete</button></div>
@@ -221,8 +222,8 @@ a{color:inherit;text-decoration:none}
       <div class="fg"><label class="fl">Author name</label><input type="text" class="fi" id="edAuthor" placeholder="Dr. Wallace Lynch"></div>
       <div class="fg"><label class="fl">Author title</label><input type="text" class="fi" id="edAuthorTitle" placeholder="Editor in Chief"></div>
     </div>
-    <div class="fg"><label class="fl">Body (~300 words, band 280–320)</label><textarea class="fta" id="edBody" style="min-height:180px;font-family:var(--font-serif);font-size:.9rem;line-height:1.6"></textarea>
-      <div style="font-family:var(--font-mono);font-size:.5rem;color:var(--text-dim);margin-top:.3rem">Words: <span id="edWC">0</span></div>
+    <div class="fg"><label class="fl">Body — outline starts as titles/key points; replace with final ~300w prose before publish</label><textarea class="fta" id="edBody" style="min-height:220px;font-family:var(--font-mono);font-size:.72rem;line-height:1.55"></textarea>
+      <div style="font-family:var(--font-mono);font-size:.5rem;color:var(--text-dim);margin-top:.3rem">Words: <span id="edWC">0</span> · Outline drafts are not publication-ready</div>
     </div>
     <div class="fg"><label class="fl">Hero image URL</label><input type="url" class="fi" id="edHero" placeholder="https://… public domain image">
       <div class="ip" id="edImgP" style="margin-top:.4rem"><span class="ph-t">Hero preview</span></div>
@@ -249,6 +250,7 @@ a{color:inherit;text-decoration:none}
 
 <script src="scripts/editor-auth.js"></script>
 <script src="scripts/crawler-lib.js"></script>
+<script src="scripts/editorial-client.js"></script>
 <script>
 /* Global scope required: HTML onclick="doScan()" etc. must resolve on window. */
 const SK='coc_editor_batches',PK='coc_news_data',LK='coc_scan_log',ATK='coc_auto_scan',APK='coc_auto_pub';
@@ -357,27 +359,103 @@ function browserFetch(url,opts){
   return fetch(proxied,opts);
 }
 
+/* ═══ X MCP signals (agent-refreshed cache) ═══ */
+async function loadXSignals(){
+  try{
+    const r=await fetch('data/x-signals.json',{cache:'no-cache'});
+    if(!r.ok) return null;
+    const data=await r.json();
+    const n=Array.isArray(data)?data.length:(data.items||[]).length;
+    addLog('inf','X MCP signals: '+n+' item(s) from data/x-signals.json');
+    return data;
+  }catch(e){
+    addLog('inf','X MCP signals unavailable ('+e.message+') — RSS only');
+    return null;
+  }
+}
+
 /* ═══ CRAWL ═══ */
 async function doScan(){
   if(scanning)return;
   if(!window.CocCrawler){toast('Crawler script not loaded','error');return}
   scanning=true;const b=document.getElementById('sBtn');b.classList.add('ld');b.disabled=true;
-  setSt('on','Crawling feeds…');addLog('inf','Crawl started…');
+  setSt('on','Crawling feeds + X…');addLog('inf','Crawl started (RSS + X MCP)…');
   try{
     const cfg=await loadSources();
-    addLog('inf','Fetching MIT TR, IEEE, STAT, NASA, Canary Media, Neuroscience News…');
-    const items=await CocCrawler.crawl(cfg,{fetch:browserFetch});
+    const xSignals=await loadXSignals();
+    addLog('inf','Fetching feeds (AI/Art/Robotics/Biotech/Space/Energy/Neuro) + X signals…');
+    const items=await CocCrawler.crawl(cfg,{fetch:browserFetch,xSignals:xSignals});
     if(!items.length)throw new Error('No articles found');
     const now=new Date(),bId='batch_'+now.toISOString().replace(/[:.]/g,'-').slice(0,16);
-    const nb={batchId:bId,scannedAt:now.toISOString(),items:items.map((x,i)=>scrubItem({id:bId+'_'+(i+1),rank:x.rank||(i+1),title:(x.title||'').slice(0,150),category:['ai','art','robotics','biotech','space','energy','neuroscience'].includes(x.category)?x.category:'ai',summary:x.summary||'',image:x.image||'',source:x.source||'',sourceUrl:x.sourceUrl||'#'}))};
-    items.forEach(it=>addLog('ok',`#${it.rank} [${it.category}] ${it.source}: ${it.title.slice(0,50)}`));
+    const nb={batchId:bId,scannedAt:now.toISOString(),items:items.map((x,i)=>scrubItem({id:bId+'_'+(i+1),rank:x.rank||(i+1),title:(x.title||'').slice(0,150),category:['ai','art','robotics','biotech','space','energy','neuroscience'].includes(x.category)?x.category:'ai',summary:x.summary||'',image:x.image||'',source:x.source||'',sourceUrl:x.sourceUrl||'#',fromX:!!x.fromX}))};
+    items.forEach(it=>addLog('ok',`#${it.rank} [${it.category}]${it.fromX?' [X]':''} ${it.source}: ${it.title.slice(0,50)}`));
     B.unshift(nb);persist();renderBL();
-    addLog('ok',`Done — ${nb.items.length} items. Batch: ${bId}`);
+    const xN=items.filter(it=>it.fromX).length;
+    addLog('ok',`Done — ${nb.items.length} items (${xN} from X). Batch: ${bId}`);
     setSt('idle','Last: '+now.toLocaleTimeString());
-    toast(nb.items.length+' stories crawled!','success');
+    toast(nb.items.length+' stories crawled'+(xN?' · '+xN+' from X':'')+'!','success');
     if(document.getElementById('autoPub').checked){pub();toast('Auto-published!','success')}
   }catch(e){addLog('er2','Failed: '+e.message);setSt('err','Failed');toast(e.message,'error')}
   finally{scanning=false;b.classList.remove('ld');b.disabled=false}
+}
+
+/* ═══ FORCE EDITORIAL DRAFT (admin) ═══ */
+let drafting=false;
+async function loadHeadlinesForDraft(){
+  let headlines=[];
+  try{
+    const r=await fetch('data/archive.json',{cache:'no-cache'});
+    if(r.ok) headlines=CocEditorial.headlinesFromArchive(await r.json(),6);
+  }catch(e){/* optional */}
+  if(!headlines.length && B.length) headlines=CocEditorial.headlinesFromBatches(B,6);
+  return headlines;
+}
+function openEdFormWith(ed){
+  hide();
+  document.getElementById('ws').style.display='none';
+  document.getElementById('eForm').style.display='none';
+  document.getElementById('logP').style.display='none';
+  document.getElementById('edForm').style.display='block';
+  fillEditorialForm(ed||{});
+}
+async function forceEditorialDraft(){
+  if(drafting)return;
+  if(!window.CocEditorial){toast('editorial-client.js not loaded','error');return}
+  drafting=true;
+  const btn=document.getElementById('edDraftBtn');
+  if(btn){btn.disabled=true;btn.textContent='✦ Drafting…'}
+  try{
+    toast('Compiling article outline (titles + key points)…','info');
+    addLog('inf','Editorial Draft — outline only (no creative prose)…');
+    await ensureEditorialLoaded(true);
+    const headlines=await loadHeadlinesForDraft();
+    if(!headlines.length){
+      toast('No articles found — run ⚡ Crawl first, then Draft','warning');
+      addLog('er2','Outline draft aborted: no headlines/archive items');
+      return;
+    }
+    const today=CocEditorial.nyParts().dateStr;
+    const tomorrow=CocEditorial.nextPublishDate();
+    let r=CocEditorial.createDraftForDate(ED,today,headlines,{force:true});
+    ED=r.store;
+    const draftToday=r.draft;
+    r=CocEditorial.createDraftForDate(ED,tomorrow,headlines,{force:true});
+    ED=r.store;
+    const draftTom=r.draft;
+    ED_FILE_LOADED=true;
+    localStorage.setItem(EK,JSON.stringify(ED));
+    dlEditorialStore();
+    const n=(draftToday.headlines||[]).length;
+    addLog('ok','Outline briefs · '+today+' + '+tomorrow+' · '+n+' article(s) · admin writes final prose');
+    toast('Outline ready ('+n+' articles). Write final editorial in the form.','success');
+    openEdFormWith(draftToday);
+  }catch(e){
+    addLog('er2','Editorial Draft failed: '+e.message);
+    toast(e.message||'Draft failed','error');
+  }finally{
+    drafting=false;
+    if(btn){btn.disabled=false;btn.textContent='✦ Editorial Draft'}
+  }
 }
 
 function toggleAuto(){const on=document.getElementById('autoT').checked;localStorage.setItem(ATK,on);if(on){startAuto();toast('Auto ON (4h)','info')}else{stopAuto();toast('Auto OFF','info')}}
@@ -462,22 +540,40 @@ function editorialBodyText(ed){
   return '';
 }
 /**
- * Today's editorial first (backend contract):
+ * Admin form picker — drafts for approval beat stale published:
  * 1) draft dated today ET
- * 2) published dated today ET
- * 3) live published (any date)
- * 4) nearest draft (not future-first bias)
+ * 2) draft dated tomorrow ET (nightly pipeline target)
+ * 3) newest other draft (by date key, then updatedAt)
+ * 4) published dated today ET
+ * 5) live published (any date) — last resort for empty draft queue
  */
+function hasEdContent(ed){
+  return !!(ed&&(ed.title||editorialBodyText(ed)));
+}
 function pickEditorialForForm(){
   const today=todayET();
+  const tom=window.CocEditorial?CocEditorial.addDaysNy(today,1):today;
   const drafts=ED.drafts||{};
-  if(drafts[today]&&(drafts[today].title||editorialBodyText(drafts[today]))) return drafts[today];
-  if(ED.published&&ED.published.publishDate===today&&(ED.published.title||editorialBodyText(ED.published))) return ED.published;
-  if(ED.published&&(ED.published.title||editorialBodyText(ED.published))) return ED.published;
-  const keys=Object.keys(drafts).sort().reverse();
+  if(hasEdContent(drafts[today])) return drafts[today];
+  if(hasEdContent(drafts[tom])) return drafts[tom];
+  // Newest draft by calendar key, prefer higher updatedAt on ties
+  const keys=Object.keys(drafts).sort((a,b)=>{
+    if(a===b) return 0;
+    if(a>b) return -1;
+    return 1;
+  });
+  let best=null;
   for(const k of keys){
-    if(drafts[k]&&(drafts[k].title||editorialBodyText(drafts[k]))) return drafts[k];
+    const d=drafts[k];
+    if(!hasEdContent(d)) continue;
+    if(!best){best=d;continue}
+    const bu=best.updatedAt||best.createdAt||'';
+    const du=d.updatedAt||d.createdAt||'';
+    if((d.publishDate||k)>(best.publishDate||'') || ((d.publishDate||k)===(best.publishDate||'') && du>bu)) best=d;
   }
+  if(best) return best;
+  if(ED.published&&ED.published.publishDate===today&&hasEdContent(ED.published)) return ED.published;
+  if(hasEdContent(ED.published)) return ED.published;
   return {};
 }
 function fillEditorialForm(ed){
@@ -534,20 +630,17 @@ async function ensureEditorialLoaded(force){
   return ED;
 }
 async function openEditorial(){
-  hide();
-  document.getElementById('ws').style.display='none';
-  document.getElementById('eForm').style.display='none';
-  document.getElementById('logP').style.display='none';
-  document.getElementById('edForm').style.display='block';
-  toast('Loading today’s editorial…','info');
+  toast('Loading editorial for approval…','info');
   await ensureEditorialLoaded(true); // always revalidate from backend file
   const ed=pickEditorialForForm();
-  fillEditorialForm(ed);
+  openEdFormWith(ed);
   const body=editorialBodyText(ed);
+  const draftN=Object.keys(ED.drafts||{}).length;
   if(ed.title||body){
-    toast('Loaded '+(ed.publishDate||'')+' · '+(ed.status||'')+' · ~'+(body.split(/\s+/).filter(Boolean).length)+' words','success');
+    toast('Loaded '+(ed.publishDate||'')+' · '+(ed.status||'')+' · ~'+(body.split(/\s+/).filter(Boolean).length)+'w · '+draftN+' draft(s) in queue','success');
+    addLog('ok','Edit Editorial opened · '+ (ed.publishDate||'?')+' · '+(ed.status||'?')+' · drafts: '+Object.keys(ED.drafts||{}).sort().join(', '));
   }else{
-    toast('No editorial for today — run draft CLI or paste body','warning');
+    toast('No draft in queue — click ✦ Editorial Draft','warning');
   }
 }
 function hideEd(){document.getElementById('edForm').style.display='none';hide()}
@@ -596,26 +689,60 @@ function collectEditorial(){
     heroSourceUrl:document.getElementById('edHeroSourceUrl').value.trim()
   };
 }
+function isOutlineBrief(ed){
+  if(!ed) return false;
+  if(ed.draftKind==='outline'||ed.formId==='outline_brief'||ed.themeId==='outline') return true;
+  const blob=String(ed.title||'')+'\n'+String(ed.body||'');
+  return /EDITORIAL BRIEF\s*\(outline only/i.test(blob)||/^Editorial brief\s*[—–-]/i.test(String(ed.title||'').trim());
+}
 function saveEditorial(){
   const ed=collectEditorial();
   if(!ed.title||!ed.body){toast('Title and body required','warning');return}
   if(!ED.drafts)ED.drafts={};
   if(ed.status==='published'){
+    if(isOutlineBrief(ed)){
+      toast('Cannot publish outline brief to the public site. Replace body with final prose first.','warning');
+      document.getElementById('edStatus').value='draft';
+      ed.status='draft';
+      ED.drafts[ed.publishDate]=Object.assign(ed,{draftKind:'outline',themeId:'outline',formId:'outline_brief',themeLabel:'Admin outline (titles + key points)'});
+      localStorage.setItem(EK,JSON.stringify(ED));
+      dlEditorialStore();
+      return;
+    }
+    delete ed.draftKind;
+    ed.status='published';
     ED.published=ed;
     localStorage.setItem('coc_editorial_pub',JSON.stringify(ed));
   }else{
+    if(isOutlineBrief(ed)){
+      ed.draftKind='outline';
+      ed.themeId=ed.themeId||'outline';
+      ed.formId=ed.formId||'outline_brief';
+    }
     ED.drafts[ed.publishDate]=ed;
   }
   localStorage.setItem(EK,JSON.stringify(ED));
   dlEditorialStore();
   toast('Editorial saved (~'+ed.wordCount+' words)','success');
-  addLog('ok','Editorial saved '+ed.publishDate);
+  addLog('ok','Editorial saved '+ed.publishDate+' · '+ed.status);
 }
 function markPublished(){
-  document.getElementById('edStatus').value='published';
   const ed=collectEditorial();
+  if(isOutlineBrief(ed)){
+    toast('Blocked: outline briefs are not public editorials. Write final prose, then Mark published.','error');
+    addLog('er2','Publish blocked — body is still an outline brief');
+    return;
+  }
+  if(!ed.title||!ed.body||ed.wordCount<120){
+    toast('Final prose required (~300 words) before publish','warning');
+    return;
+  }
+  document.getElementById('edStatus').value='published';
   ed.status='published';
   ed.publishedAt=new Date().toISOString();
+  delete ed.draftKind;
+  if(ed.themeId==='outline') delete ed.themeId;
+  if(ed.formId==='outline_brief') delete ed.formId;
   ED.published=ed;
   if(ED.drafts)delete ED.drafts[ed.publishDate];
   ED.history=[ed].concat(ED.history||[]).slice(0,40);
@@ -628,7 +755,8 @@ function markPublished(){
   a.href=URL.createObjectURL(new Blob([snip],{type:'text/javascript'}));
   a.download='EMBEDDED_EDITORIAL-'+ed.publishDate+'.js';
   a.click();
-  toast('Marked published + exports ready','success');
+  toast('Marked published + exports ready — deploy editorial.json + embed to go live','success');
+  addLog('ok','Published '+ed.publishDate+' (~'+ed.wordCount+'w)');
 }
 function dlEditorialStore(){
   const a=document.createElement('a');
@@ -667,6 +795,7 @@ window.saveAutoPub=saveAutoPub;
 window.openEditorial=openEditorial;
 window.hideEd=hideEd;
 window.loadEditorialFile=loadEditorialFile;
+window.forceEditorialDraft=forceEditorialDraft;
 window.saveEditorial=saveEditorial;
 window.markPublished=markPublished;
 window.updImg=updImg;

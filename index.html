@@ -586,8 +586,19 @@ function paragraphsFromEditorial(ed){
   if(parts.length>1) return parts;
   return [body];
 }
+/** Outline briefs are admin-only; never treat as public editorial. */
+function isOutlineBrief(ed){
+  if(!ed||typeof ed!=='object') return false;
+  if(ed.draftKind==='outline'||ed.formId==='outline_brief'||ed.themeId==='outline') return true;
+  if(ed.status&&ed.status!=='published') return true;
+  const blob=String(ed.title||'')+'\n'+String(ed.body||'')+'\n'+(ed.paragraphs||[]).join('\n');
+  if(/EDITORIAL BRIEF\s*\(outline only/i.test(blob)) return true;
+  if(/^Editorial brief\s*[—–-]/i.test(String(ed.title||'').trim())) return true;
+  return false;
+}
 function hasEditorial(ed){
-  return !!(ed && ((ed.paragraphs&&ed.paragraphs.length) || (ed.body&&String(ed.body).trim())));
+  if(!ed||isOutlineBrief(ed)) return false;
+  return !!( (ed.paragraphs&&ed.paragraphs.length) || (ed.body&&String(ed.body).trim()) );
 }
 
 
@@ -975,23 +986,25 @@ function mergeBatches(a,b){
   document.getElementById('curDate').textContent=now.toLocaleDateString('en-US',{weekday:'long',year:'numeric',month:'long',day:'numeric'});
   document.getElementById('y').textContent=now.getFullYear();
 
-  // Editorial resolve: file → localStorage if newer → embed
-  activeEditorial=EMBEDDED_EDITORIAL;
+  // Editorial resolve: published only (never drafts/outlines) → file → localStorage if newer → embed
+  activeEditorial=hasEditorial(EMBEDDED_EDITORIAL)?EMBEDDED_EDITORIAL:null;
   try{
-    const r=await fetch('data/editorial.json',{cache:'default'});
+    const r=await fetch('data/editorial.json',{cache:'no-cache'});
     if(r.ok){
       const pack=await r.json();
-      if(hasEditorial(pack.published||pack)) activeEditorial=pack.published||pack;
+      const pub=pack&&pack.published?pack.published:null;
+      if(hasEditorial(pub)) activeEditorial=pub;
     }
   }catch(e){}
   try{
     const ls=JSON.parse(localStorage.getItem('coc_editorial_pub')||'null');
     if(hasEditorial(ls)){
       const a=ls.updatedAt||ls.publishedAt||'';
-      const b=activeEditorial.updatedAt||activeEditorial.publishedAt||'';
-      if(a>=b) activeEditorial=ls;
+      const b=(activeEditorial&&(activeEditorial.updatedAt||activeEditorial.publishedAt))||'';
+      if(!activeEditorial||a>=b) activeEditorial=ls;
     }
   }catch(e){}
+  if(!hasEditorial(activeEditorial)&&hasEditorial(EMBEDDED_EDITORIAL)) activeEditorial=EMBEDDED_EDITORIAL;
 
   // News: archive (full history) merged with localStorage publishes
   let d=null;

@@ -198,51 +198,93 @@ async function fetchFeed(feed, fetchFn) {
   return parseFeedItems(xml);
 }
 
-async function pickForCategory(category, catConfig, config, fetchFn, usedUrls) {
+/**
+ * Normalize X MCP / x-signals cache items into crawler feed-item shape.
+ * Expected cache: { items: [{ category, title, summary, source, sourceUrl, image, pubDate }] }
+ * or a flat array of the same.
+ */
+function normalizeXItems(xSignals, category) {
+  if (!xSignals) return [];
+  const raw = Array.isArray(xSignals) ? xSignals : xSignals.items || [];
+  return raw
+    .filter((it) => it && (!category || it.category === category))
+    .map((it) => {
+      const link = it.sourceUrl || it.link || it.url || '';
+      const title = stripHtml(it.title || '').slice(0, 150);
+      if (!title || !link) return null;
+      let pubDate = null;
+      if (it.pubDate) {
+        const d = it.pubDate instanceof Date ? it.pubDate : new Date(it.pubDate);
+        if (!Number.isNaN(d.getTime())) pubDate = d;
+      }
+      const sourceName = it.source || (it.username ? 'X · @' + String(it.username).replace(/^@/, '') : 'X');
+      return {
+        title,
+        link,
+        pubDate,
+        description: stripHtml(it.summary || it.description || it.text || ''),
+        image: it.image || '',
+        categories: [category || it.category || ''].filter(Boolean),
+        source: sourceName,
+        fromX: true
+      };
+    })
+    .filter(Boolean);
+}
+
+async function pickForCategory(category, catConfig, config, fetchFn, usedUrls, options = {}) {
   const maxAgeMs = (config.maxAgeHours || 336) * 3600000;
   const cutoff = Date.now() - maxAgeMs;
-  let best = null;
+  const candidates = [];
 
-  for (const feed of catConfig.feeds) {
+  // RSS / Atom feeds
+  for (const feed of catConfig.feeds || []) {
     let items;
     try {
       items = await fetchFeed(feed, fetchFn);
     } catch (e) {
       continue;
     }
-
-    const valid = items
-      .filter((it) => !shouldSkip(it, config))
-      .filter((it) => it.pubDate && it.pubDate.getTime() >= cutoff)
-      .filter((it) => !usedUrls.has(it.link))
-      .sort((a, b) => b.pubDate - a.pubDate);
-
-    if (valid.length) {
-      best = { ...valid[0], category, source: feed.name };
-      break;
+    for (const it of items) {
+      if (shouldSkip(it, config)) continue;
+      if (usedUrls.has(it.link)) continue;
+      candidates.push({ ...it, category, source: feed.name, fromX: false });
     }
   }
 
-  if (!best) {
-    for (const feed of catConfig.feeds) {
-      let items;
+  // X MCP signals (per-category queries live in sources.json; cache in data/x-signals.json)
+  const xCfg = catConfig.x || {};
+  const xEnabled = xCfg.enabled !== false && (config.xMcp ? config.xMcp.enabled !== false : true);
+  if (xEnabled) {
+    let xItems = [];
+    if (typeof options.xSearch === 'function') {
       try {
-        items = await fetchFeed(feed, fetchFn);
+        const live = await options.xSearch({ category, x: xCfg, config });
+        xItems = normalizeXItems(live, category);
       } catch (e) {
-        continue;
+        /* optional live provider */
       }
-      const valid = items
-        .filter((it) => !shouldSkip(it, config))
-        .filter((it) => !usedUrls.has(it.link))
-        .sort((a, b) => (b.pubDate || 0) - (a.pubDate || 0));
-      if (valid.length) {
-        best = { ...valid[0], category, source: feed.name };
-        break;
-      }
+    }
+    if (!xItems.length && options.xSignals) {
+      xItems = normalizeXItems(options.xSignals, category);
+    }
+    for (const it of xItems) {
+      if (shouldSkip(it, config)) continue;
+      if (usedUrls.has(it.link)) continue;
+      candidates.push({ ...it, category });
     }
   }
 
-  return best;
+  const fresh = candidates
+    .filter((it) => it.pubDate && it.pubDate.getTime() >= cutoff)
+    .sort((a, b) => b.pubDate - a.pubDate);
+  if (fresh.length) return fresh[0];
+
+  // Fallback: any age, newest first
+  const any = candidates
+    .filter((it) => !usedUrls.has(it.link))
+    .sort((a, b) => (b.pubDate || 0) - (a.pubDate || 0));
+  return any[0] || null;
 }
 
 async function enrichItem(item, fetchFn) {
@@ -264,7 +306,8 @@ async function enrichItem(item, fetchFn) {
     image: image || '',
     source: item.source,
     sourceUrl: item.link,
-    pubDate: item.pubDate
+    pubDate: item.pubDate,
+    fromX: !!item.fromX
   };
 }
 
@@ -274,7 +317,7 @@ async function crawl(config, options = {}) {
   const picks = [];
 
   for (const [category, catConfig] of Object.entries(config.categories)) {
-    const pick = await pickForCategory(category, catConfig, config, fetchFn, usedUrls);
+    const pick = await pickForCategory(category, catConfig, config, fetchFn, usedUrls, options);
     if (pick) {
       usedUrls.add(pick.link);
       picks.push(pick);
@@ -282,7 +325,18 @@ async function crawl(config, options = {}) {
   }
 
   picks.sort((a, b) => (b.pubDate || 0) - (a.pubDate || 0));
-  const top = picks.slice(0, config.pickCount || 5);
+  // Prefer diversity: keep up to pickCount, but try to retain one X hit if present among picks
+  const pickCount = config.pickCount || 5;
+  let top = picks.slice(0, pickCount);
+  const hasX = top.some((p) => p.fromX);
+  if (!hasX) {
+    const xPick = picks.find((p) => p.fromX && !top.includes(p));
+    if (xPick && top.length) {
+      top = top.slice(0, Math.max(0, pickCount - 1)).concat([xPick]);
+    } else if (xPick) {
+      top = [xPick];
+    }
+  }
 
   const enriched = await Promise.all(top.map((item) => enrichItem(item, fetchFn)));
 
@@ -293,7 +347,8 @@ async function crawl(config, options = {}) {
     summary: it.summary,
     image: it.image,
     source: it.source,
-    sourceUrl: it.sourceUrl
+    sourceUrl: it.sourceUrl,
+    fromX: !!it.fromX
   }));
 }
 
@@ -302,6 +357,7 @@ const CocCrawler = {
   parseFeedItems,
   parseOgImage,
   stripHtml,
+  normalizeXItems,
   BAD_IMG_RE
 };
 

@@ -4,6 +4,7 @@ Disallow: /editor.html
 Disallow: /scripts/editor-auth.js
 Disallow: /data/editorial.json
 Disallow: /data/editorial-pub-slim.json
+Disallow: /data/x-signals.json
 
 User-agent: GPTBot
 Allow: /

@@ -2,46 +2,111 @@
   "maxAgeHours": 336,
   "pickCount": 5,
   "skipTitlePatterns": ["sponsored", "advertisement", "partner content", "white paper", "webinar replay"],
+  "xMcp": {
+    "enabled": true,
+    "cachePath": "data/x-signals.json",
+    "note": "X posts are ingested via Grok X MCP (agent/refresh) into data/x-signals.json, then merged on crawl for every category."
+  },
   "categories": {
     "ai": {
       "feeds": [
         { "name": "MIT Technology Review", "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed/" },
         { "name": "ScienceDaily", "url": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml" }
-      ]
+      ],
+      "x": {
+        "enabled": true,
+        "queries": [
+          "(AI OR \"artificial intelligence\" OR LLM) (research OR breakthrough OR model) -is:reply -is:retweet filter:has_engagement",
+          "from:OpenAI OR from:DeepMind OR from:AnthropicAI OR from:MIT_CSAIL -is:reply"
+        ],
+        "accounts": ["OpenAI", "DeepMind", "AnthropicAI", "MIT_CSAIL", "GoogleDeepMind"],
+        "limit": 5,
+        "min_faves": 10
+      }
     },
     "robotics": {
       "feeds": [
         { "name": "IEEE Spectrum", "url": "https://spectrum.ieee.org/feeds/topic/robotics.rss" },
         { "name": "Robotics & Automation News", "url": "https://roboticsandautomationnews.com/feed/" },
         { "name": "ScienceDaily", "url": "https://www.sciencedaily.com/rss/computers_math/robotics.xml" }
-      ]
+      ],
+      "x": {
+        "enabled": true,
+        "queries": [
+          "(robot OR robotics OR humanoid) (AI OR automation OR launch OR demo) -is:reply -is:retweet filter:has_engagement",
+          "from:BostonDynamics OR from:Figure_robot OR from:Tesla_AI -is:reply"
+        ],
+        "accounts": ["BostonDynamics", "Figure_robot", "Tesla_AI", "IEEESpectrum"],
+        "limit": 5,
+        "min_faves": 10
+      }
     },
     "biotech": {
       "feeds": [
         { "name": "STAT News", "url": "https://www.statnews.com/feed/" },
         { "name": "Fierce Biotech", "url": "https://www.fiercebiotech.com/rss/xml" },
         { "name": "Nature", "url": "https://www.nature.com/nature.rss" }
-      ]
+      ],
+      "x": {
+        "enabled": true,
+        "queries": [
+          "(biotech OR CRISPR OR \"gene therapy\" OR FDA) (trial OR drug OR therapy) -is:reply -is:retweet filter:has_engagement",
+          "from:statnews OR from:Nature OR from:NIH -is:reply"
+        ],
+        "accounts": ["statnews", "Nature", "NIH", "FDA"],
+        "limit": 5,
+        "min_faves": 5
+      }
     },
     "space": {
       "feeds": [
         { "name": "NASA", "url": "https://www.nasa.gov/rss/dyn/breaking_news.rss" },
         { "name": "SpaceNews", "url": "https://spacenews.com/feed/" },
         { "name": "ScienceDaily", "url": "https://www.sciencedaily.com/rss/space_time/astronomy.xml" }
-      ]
+      ],
+      "x": {
+        "enabled": true,
+        "queries": [
+          "(NASA OR SpaceX OR Artemis OR astronomy) (mission OR launch OR discovery) -is:reply -is:retweet filter:has_engagement",
+          "from:NASA OR from:SpaceX OR from:esa -is:reply"
+        ],
+        "accounts": ["NASA", "SpaceX", "esa", "Space_Station"],
+        "limit": 5,
+        "min_faves": 10
+      }
     },
     "energy": {
       "feeds": [
         { "name": "Canary Media", "url": "https://www.canarymedia.com/rss" },
         { "name": "ScienceDaily", "url": "https://www.sciencedaily.com/rss/matter_energy/solar_energy.xml" },
         { "name": "ScienceDaily", "url": "https://www.sciencedaily.com/rss/matter_energy/technology.xml" }
-      ]
+      ],
+      "x": {
+        "enabled": true,
+        "queries": [
+          "(solar OR battery OR \"clean energy\" OR grid) (energy OR power OR storage) -is:reply -is:retweet filter:has_engagement",
+          "from:CanaryMedia OR from:IEA OR from:DOE -is:reply"
+        ],
+        "accounts": ["CanaryMedia", "IEA", "ENERGY"],
+        "limit": 5,
+        "min_faves": 5
+      }
     },
     "neuroscience": {
       "feeds": [
         { "name": "Neuroscience News", "url": "https://neurosciencenews.com/feed/" },
         { "name": "ScienceDaily", "url": "https://www.sciencedaily.com/rss/mind_brain/neuroscience.xml" }
-      ]
+      ],
+      "x": {
+        "enabled": true,
+        "queries": [
+          "(neuroscience OR brain OR Alzheimer OR neural) (study OR research OR therapy) -is:reply -is:retweet filter:has_engagement",
+          "from:NeuroscienceNew OR from:NatureNeuro -is:reply"
+        ],
+        "accounts": ["NeuroscienceNew", "NatureNeuro", "SfNtweets"],
+        "limit": 5,
+        "min_faves": 5
+      }
     },
     "art": {
       "feeds": [
@@ -49,7 +114,17 @@
         { "name": "The Art Newspaper", "url": "https://www.theartnewspaper.com/rss" },
         { "name": "Colossal", "url": "https://www.thisiscolossal.com/feed/" },
         { "name": "Artsy", "url": "https://www.artsy.net/rss/news" }
-      ]
+      ],
+      "x": {
+        "enabled": true,
+        "queries": [
+          "(art OR museum OR exhibition OR artist) (AI OR digital OR culture OR opens) -is:reply -is:retweet filter:has_engagement",
+          "from:Hyperallergic OR from:TheArtNewspaper OR from:colossal OR from:artsy -is:reply"
+        ],
+        "accounts": ["Hyperallergic", "TheArtNewspaper", "colossal", "artsy"],
+        "limit": 5,
+        "min_faves": 5
+      }
     }
   }
 }

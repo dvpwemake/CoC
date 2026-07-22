@@ -62,61 +62,247 @@
     "authorTitle": "Editor in Chief"
   },
   "drafts": {
-    "2026-07-21": {
-      "id": "ed_2026-07-21",
-      "publishDate": "2026-07-21",
+    "2026-07-22": {
+      "id": "ed_2026-07-22",
+      "publishDate": "2026-07-22",
       "status": "draft",
-      "createdAt": "2026-07-20T15:32:02.130Z",
-      "updatedAt": "2026-07-20T15:32:02.130Z",
-      "title": "Daily Convergence: Heritage & Innovation",
-      "dek": "A field note on heritage & innovation — rooms that remember and instruments that invent.",
-      "body": "On 2026-07-21, Chronicle of Convergence returns to a single insistence: American life is not a set of sealed silos. Culture, society, technology, and faith keep arriving in the same rooms—sometimes as argument, sometimes as collaboration, almost always as unfinished work. Today’s lens is **Heritage & Innovation**: rooms that remember and instruments that invent. We do not compile destinations to win a ranking. We write to restore a way of looking. Convergence, as we use the word, is not a polite middle ground. It is the honest recognition that forces long treated as opposites—human judgment and artificial intelligence, carbon-based life and silicon-based systems, heritage and innovation, art and technology, faith and secular life, one culture and another—already share civic space. The question is whether we will meet them with attention or with noise. Consider the signal of the day. In “A Turquoise Tint for the Black Sea” (NASA), the public is invited to watch a frontier move. Whatever the domain—AI, robotics, biotech, space, energy, neuroscience, or art—the pattern is familiar: a technical advance arrives with a cultural aftertaste. Who benefits? Who is left outside the room? What older knowledge is suddenly legible again? A second note, “Pop Music Echoes a Growing Culture of Vices” (Neuroscience News), complicates the first. Convergence rarely arrives as a single headline. It arrives as a braid: a scientific claim, an aesthetic response, a market reaction, a moral hesitation. Our work is to keep those strands visible at once, without forcing a premature verdict. Heritage is not nostalgia when it is practiced as skill. Innovation is not vandalism when it is practiced as care. Between them sits the daily work of American institutions—universities, studios, houses of worship, independent cafés, public museums—where people still gather to test what should be kept and what should be risked. Silicon can accelerate pattern; carbon still carries consequence. The editorial desk of CoC refuses to pretend either truth is optional. Art and technology meet again in the surrounding coverage, including “STAT+: Eli Lilly dives into hair loss treatments with investment in AI startup Absci” (STAT News). Tools reshape seeing; seeing reshapes tools. A culture that only celebrates the instrument forgets the hand. A culture that only celebrates the hand forgets the instrument’s new questions. Convergence insists on both memories. Faith and secular life share sidewalks in every American city. One offers liturgy and silence; the other offers policy and marketplace. Neither owns the whole of meaning. When CoC visits a church threshold or a museum stair, the point is not tourism. The point is to witness how a community still practices attention under pressure—how a room holds both the sacred and the civic without dissolving either into spectacle. Different cultures do not converge by erasure. They converge by encounter: translation, friction, hospitality, refusal, and the slow work of shared vocabulary. A multimedia chronicle that flattens difference into a single tone has already failed. Our form is therefore modest: human voice, human touch, a quiet host on the sidelines, and a subject—the convergence itself—held in the center of the frame. What, then, is the reader asked to do with this day? Not to panic at machine scale, nor to romanticize a past that never was pure. Rather: to practice looking. Name the forces in the room. Ask what each can give. Ask what each must not be allowed to take. Return tomorrow with the same discipline. The archive of science and art will keep speaking; the question is whether we will answer as citizens of convergence or as consumers of noise. Sources informing today’s reflection include: (1) “A Turquoise Tint for the Black Sea” — NASA; (2) “Pop Music Echoes a Growing Culture of Vices” — Neuroscience News; (3) “STAT+: Eli Lilly dives into hair loss treatments with investment in AI startup Absci” — STAT News; (4) “Base Power brings cheap batteries to residents in power-starved PJM” — Canary Media; (5) “The emergence",
-      "wordCount": 650,
-      "themeId": "heritage_innovation",
-      "themeLabel": "Heritage & Innovation",
-      "heroImage": "https://images-assets.nasa.gov/image/as11-40-5874/as11-40-5874~medium.jpg",
-      "heroCredit": "Buzz Aldrin on the Moon",
-      "heroSource": "NASA (public domain)",
-      "heroSourceUrl": "https://images.nasa.gov/details/as11-40-5874",
+      "draftKind": "outline",
+      "createdAt": "2026-07-22T13:14:55.388Z",
+      "updatedAt": "2026-07-22T13:32:23.432Z",
+      "title": "Editorial brief — 2026-07-22",
+      "dek": "Outline of selected article titles and key points for admin to write the final editorial.",
+      "body": "EDITORIAL BRIEF (outline only — not for publication as-is)\nPublish date: 2026-07-22\nInstruction: Use the titles and key points below to write the final ~300-word CoC editorial. Replace this entire brief with your finished prose before publishing.\n\n— Selected articles of the day (8) —\n\n1. [AI] China’s AI models have Trump’s AI world at war with itself\n   Source: MIT Technology Review\n   URL: https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/\n   Key points:\n   • Over the weekend, several current and former advisors to President Donald…\n\n2. [Art] Jimothy, Meme and Muse\n   Source: Hyperallergic\n   URL: https://hyperallergic.com/jimothy-meme-and-muse/\n   Key points:\n   • Artists share tributes to the beloved raccoon, plus Sabri Sundos’s odes to Palestinian diaspora and memory.\n\n3. [Biotech] Job dissatisfaction and health care access uncertainty grows in the U.S., new study finds\n   Source: STAT News\n   URL: https://www.statnews.com/2026/07/22/health-news-job-dissatisfaction-health-care-access-grows/?utm_campaign=rss\n   Key points:\n   • What Hawaii's wildfires can teach the nation about health recovery, 4.5 million people disenrolled from SNAP, and more health news\n\n4. [Energy] State legislatures are getting better at clean-energy permitting policy\n   Source: Canary Media\n   URL: https://www.canarymedia.com/articles/clean-energy/state-legislatures-clean-energy-permitting\n   Key points:\n   • Solar, wind, and batteries are the cheapest, fastest ways to add much-needed electricity to America’s grid.\n   • And across the country, more state legislatures are passing laws to streamline renewable development than are…\n\n5. [Neuroscience] Why Food Tastes Different After Coffee\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/taste-perception-caffeine-neurotech-31102/\n   Key points:\n   • Researchers developed a biomimetic taste sensor combining 3D taste bud organoids with custom 200 mu-tall 3D microelectrode arrays.\n\n6. [Robotics] This Graduate Student Equips NASA’s Robots With Assembly Skills\n   Source: IEEE Spectrum\n   URL: https://spectrum.ieee.org/graduate-student-nasas-robots-assembly\n   Key points:\n   • Like many engineers, Sarah Downs says she knew she wanted to pursue a STEM career from a young age.\n   • As a teenager, she discovered robotics through her Tulsa, Okla., middle school’s First Lego League team, and she fell…\n\n7. [Space] The strategic competition with China: winning the multi-domain race\n   Source: SpaceNews\n   URL: https://spacenews.com/the-strategic-competition-with-china-winning-the-multi-domain-race/\n   Key points:\n   • History demonstrates military innovation continually rewrites the rules of combat, reshaping warfare and rendering strategies from past conflicts obsolete.\n   • The introduction of repeating rifles transformed infantry…\n\n8. [Neuroscience] Digital Media Alters Cognitive Willingness\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/digital-media-cognitive-willingness-31099/\n   Key points:\n   • A new study proposes that digital media usage alters human focus through a mechanism called \"effort recalibration.\"\n\n— Categories present —\nAI · Art · Biotech · Energy · Neuroscience · Robotics · Space\n\n— Admin checklist —\n• Draft original title + dek\n• Write body (~280–320 words) in CoC voice\n• Set hero image URL + credit\n• Mark published when ready",
+      "paragraphs": [
+        "EDITORIAL BRIEF (outline only — not for publication as-is)\nPublish date: 2026-07-22\nInstruction: Use the titles and key points below to write the final ~300-word CoC editorial. Replace this entire brief with your finished prose before publishing.",
+        "— Selected articles of the day (8) —",
+        "1. [AI] China’s AI models have Trump’s AI world at war with itself\n   Source: MIT Technology Review\n   URL: https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/\n   Key points:\n   • Over the weekend, several current and former advisors to President Donald…",
+        "2. [Art] Jimothy, Meme and Muse\n   Source: Hyperallergic\n   URL: https://hyperallergic.com/jimothy-meme-and-muse/\n   Key points:\n   • Artists share tributes to the beloved raccoon, plus Sabri Sundos’s odes to Palestinian diaspora and memory.",
+        "3. [Biotech] Job dissatisfaction and health care access uncertainty grows in the U.S., new study finds\n   Source: STAT News\n   URL: https://www.statnews.com/2026/07/22/health-news-job-dissatisfaction-health-care-access-grows/?utm_campaign=rss\n   Key points:\n   • What Hawaii's wildfires can teach the nation about health recovery, 4.5 million people disenrolled from SNAP, and more health news",
+        "4. [Energy] State legislatures are getting better at clean-energy permitting policy\n   Source: Canary Media\n   URL: https://www.canarymedia.com/articles/clean-energy/state-legislatures-clean-energy-permitting\n   Key points:\n   • Solar, wind, and batteries are the cheapest, fastest ways to add much-needed electricity to America’s grid.\n   • And across the country, more state legislatures are passing laws to streamline renewable development than are…",
+        "5. [Neuroscience] Why Food Tastes Different After Coffee\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/taste-perception-caffeine-neurotech-31102/\n   Key points:\n   • Researchers developed a biomimetic taste sensor combining 3D taste bud organoids with custom 200 mu-tall 3D microelectrode arrays.",
+        "6. [Robotics] This Graduate Student Equips NASA’s Robots With Assembly Skills\n   Source: IEEE Spectrum\n   URL: https://spectrum.ieee.org/graduate-student-nasas-robots-assembly\n   Key points:\n   • Like many engineers, Sarah Downs says she knew she wanted to pursue a STEM career from a young age.\n   • As a teenager, she discovered robotics through her Tulsa, Okla., middle school’s First Lego League team, and she fell…",
+        "7. [Space] The strategic competition with China: winning the multi-domain race\n   Source: SpaceNews\n   URL: https://spacenews.com/the-strategic-competition-with-china-winning-the-multi-domain-race/\n   Key points:\n   • History demonstrates military innovation continually rewrites the rules of combat, reshaping warfare and rendering strategies from past conflicts obsolete.\n   • The introduction of repeating rifles transformed infantry…",
+        "8. [Neuroscience] Digital Media Alters Cognitive Willingness\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/digital-media-cognitive-willingness-31099/\n   Key points:\n   • A new study proposes that digital media usage alters human focus through a mechanism called \"effort recalibration.\"",
+        "— Categories present —\nAI · Art · Biotech · Energy · Neuroscience · Robotics · Space",
+        "— Admin checklist —\n• Draft original title + dek\n• Write body (~280–320 words) in CoC voice\n• Set hero image URL + credit\n• Mark published when ready"
+      ],
+      "wordCount": 419,
+      "themeId": "outline",
+      "themeLabel": "Admin outline (titles + key points)",
+      "formId": "outline_brief",
+      "formLabel": "outline brief",
+      "authorName": "Dr. Wallace Lynch",
+      "authorTitle": "Editor in Chief",
+      "heroImage": "https://images-assets.nasa.gov/image/PIA01492/PIA01492~medium.jpg",
+      "heroCredit": "Jupiter with Io",
+      "heroSource": "NASA / JPL / University of Arizona (public domain)",
+      "heroSourceUrl": "https://images.nasa.gov/details/PIA01492",
       "headlines": [
         {
-          "title": "A Turquoise Tint for the Black Sea",
-          "source": "NASA",
-          "category": "space",
-          "sourceUrl": "https://science.nasa.gov/earth/earth-observatory/a-turquoise-tint-for-the-black-sea/"
-        },
-        {
-          "title": "Pop Music Echoes a Growing Culture of Vices",
-          "source": "Neuroscience News",
-          "category": "neuroscience",
-          "sourceUrl": "https://neurosciencenews.com/music-lyrics-vices-cultural-barometer-30956/"
-        },
-        {
-          "title": "STAT+: Eli Lilly dives into hair loss treatments with investment in AI startup Absci",
-          "source": "STAT News",
-          "category": "biotech",
-          "sourceUrl": "https://www.statnews.com/2026/06/24/eli-lilly-absci-hair-loss-treatments/?utm_campaign=rss"
-        },
-        {
-          "title": "Base Power brings cheap batteries to residents in power-starved PJM",
-          "source": "Canary Media",
-          "category": "energy",
-          "sourceUrl": "https://www.canarymedia.com/articles/batteries/base-power-cheap-batteries-pjm"
-        },
-        {
-          "title": "The emergence of the web data infrastructure layer for AI",
+          "title": "China’s AI models have Trump’s AI world at war with itself",
           "source": "MIT Technology Review",
           "category": "ai",
-          "sourceUrl": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/"
+          "sourceUrl": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Over the weekend, several current and former advisors to President Donald…",
+          "keyPoints": [
+            "Over the weekend, several current and former advisors to President Donald…"
+          ]
         },
         {
-          "title": "A Turquoise Tint for the Black Sea",
-          "source": "NASA",
+          "title": "Jimothy, Meme and Muse",
+          "source": "Hyperallergic",
+          "category": "art",
+          "sourceUrl": "https://hyperallergic.com/jimothy-meme-and-muse/",
+          "summary": "Artists share tributes to the beloved raccoon, plus Sabri Sundos’s odes to Palestinian diaspora and memory.",
+          "keyPoints": [
+            "Artists share tributes to the beloved raccoon, plus Sabri Sundos’s odes to Palestinian diaspora and memory."
+          ]
+        },
+        {
+          "title": "Job dissatisfaction and health care access uncertainty grows in the U.S., new study finds",
+          "source": "STAT News",
+          "category": "biotech",
+          "sourceUrl": "https://www.statnews.com/2026/07/22/health-news-job-dissatisfaction-health-care-access-grows/?utm_campaign=rss",
+          "summary": "What Hawaii's wildfires can teach the nation about health recovery, 4.5 million people disenrolled from SNAP, and more health news",
+          "keyPoints": [
+            "What Hawaii's wildfires can teach the nation about health recovery, 4.5 million people disenrolled from SNAP, and more health news"
+          ]
+        },
+        {
+          "title": "State legislatures are getting better at clean-energy permitting policy",
+          "source": "Canary Media",
+          "category": "energy",
+          "sourceUrl": "https://www.canarymedia.com/articles/clean-energy/state-legislatures-clean-energy-permitting",
+          "summary": "Solar, wind, and batteries are the cheapest, fastest ways to add much-needed electricity to America’s grid. And across the country, more state legislatures are passing laws to streamline renewable development than are…",
+          "keyPoints": [
+            "Solar, wind, and batteries are the cheapest, fastest ways to add much-needed electricity to America’s grid.",
+            "And across the country, more state legislatures are passing laws to streamline renewable development than are…"
+          ]
+        },
+        {
+          "title": "Why Food Tastes Different After Coffee",
+          "source": "Neuroscience News",
+          "category": "neuroscience",
+          "sourceUrl": "https://neurosciencenews.com/taste-perception-caffeine-neurotech-31102/",
+          "summary": "Researchers developed a biomimetic taste sensor combining 3D taste bud organoids with custom 200 mu-tall 3D microelectrode arrays.",
+          "keyPoints": [
+            "Researchers developed a biomimetic taste sensor combining 3D taste bud organoids with custom 200 mu-tall 3D microelectrode arrays."
+          ]
+        },
+        {
+          "title": "This Graduate Student Equips NASA’s Robots With Assembly Skills",
+          "source": "IEEE Spectrum",
+          "category": "robotics",
+          "sourceUrl": "https://spectrum.ieee.org/graduate-student-nasas-robots-assembly",
+          "summary": "Like many engineers, Sarah Downs says she knew she wanted to pursue a STEM career from a young age. As a teenager, she discovered robotics through her Tulsa, Okla., middle school’s First Lego League team, and she fell…",
+          "keyPoints": [
+            "Like many engineers, Sarah Downs says she knew she wanted to pursue a STEM career from a young age.",
+            "As a teenager, she discovered robotics through her Tulsa, Okla., middle school’s First Lego League team, and she fell…"
+          ]
+        },
+        {
+          "title": "The strategic competition with China: winning the multi-domain race",
+          "source": "SpaceNews",
           "category": "space",
-          "sourceUrl": "https://science.nasa.gov/earth/earth-observatory/a-turquoise-tint-for-the-black-sea/"
+          "sourceUrl": "https://spacenews.com/the-strategic-competition-with-china-winning-the-multi-domain-race/",
+          "summary": "History demonstrates military innovation continually rewrites the rules of combat, reshaping warfare and rendering strategies from past conflicts obsolete. The introduction of repeating rifles transformed infantry…",
+          "keyPoints": [
+            "History demonstrates military innovation continually rewrites the rules of combat, reshaping warfare and rendering strategies from past conflicts obsolete.",
+            "The introduction of repeating rifles transformed infantry…"
+          ]
+        },
+        {
+          "title": "Digital Media Alters Cognitive Willingness",
+          "source": "Neuroscience News",
+          "category": "neuroscience",
+          "sourceUrl": "https://neurosciencenews.com/digital-media-cognitive-willingness-31099/",
+          "summary": "A new study proposes that digital media usage alters human focus through a mechanism called \"effort recalibration.\"",
+          "keyPoints": [
+            "A new study proposes that digital media usage alters human focus through a mechanism called \"effort recalibration.\""
+          ]
         }
+      ]
+    },
+    "2026-07-23": {
+      "id": "ed_2026-07-23",
+      "publishDate": "2026-07-23",
+      "status": "draft",
+      "draftKind": "outline",
+      "createdAt": "2026-07-22T13:14:55.413Z",
+      "updatedAt": "2026-07-22T13:32:23.442Z",
+      "title": "Editorial brief — 2026-07-23",
+      "dek": "Outline of selected article titles and key points for admin to write the final editorial.",
+      "body": "EDITORIAL BRIEF (outline only — not for publication as-is)\nPublish date: 2026-07-23\nInstruction: Use the titles and key points below to write the final ~300-word CoC editorial. Replace this entire brief with your finished prose before publishing.\n\n— Selected articles of the day (8) —\n\n1. [AI] China’s AI models have Trump’s AI world at war with itself\n   Source: MIT Technology Review\n   URL: https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/\n   Key points:\n   • Over the weekend, several current and former advisors to President Donald…\n\n2. [Art] Jimothy, Meme and Muse\n   Source: Hyperallergic\n   URL: https://hyperallergic.com/jimothy-meme-and-muse/\n   Key points:\n   • Artists share tributes to the beloved raccoon, plus Sabri Sundos’s odes to Palestinian diaspora and memory.\n\n3. [Biotech] Job dissatisfaction and health care access uncertainty grows in the U.S., new study finds\n   Source: STAT News\n   URL: https://www.statnews.com/2026/07/22/health-news-job-dissatisfaction-health-care-access-grows/?utm_campaign=rss\n   Key points:\n   • What Hawaii's wildfires can teach the nation about health recovery, 4.5 million people disenrolled from SNAP, and more health news\n\n4. [Energy] State legislatures are getting better at clean-energy permitting policy\n   Source: Canary Media\n   URL: https://www.canarymedia.com/articles/clean-energy/state-legislatures-clean-energy-permitting\n   Key points:\n   • Solar, wind, and batteries are the cheapest, fastest ways to add much-needed electricity to America’s grid.\n   • And across the country, more state legislatures are passing laws to streamline renewable development than are…\n\n5. [Neuroscience] Why Food Tastes Different After Coffee\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/taste-perception-caffeine-neurotech-31102/\n   Key points:\n   • Researchers developed a biomimetic taste sensor combining 3D taste bud organoids with custom 200 mu-tall 3D microelectrode arrays.\n\n6. [Robotics] This Graduate Student Equips NASA’s Robots With Assembly Skills\n   Source: IEEE Spectrum\n   URL: https://spectrum.ieee.org/graduate-student-nasas-robots-assembly\n   Key points:\n   • Like many engineers, Sarah Downs says she knew she wanted to pursue a STEM career from a young age.\n   • As a teenager, she discovered robotics through her Tulsa, Okla., middle school’s First Lego League team, and she fell…\n\n7. [Space] The strategic competition with China: winning the multi-domain race\n   Source: SpaceNews\n   URL: https://spacenews.com/the-strategic-competition-with-china-winning-the-multi-domain-race/\n   Key points:\n   • History demonstrates military innovation continually rewrites the rules of combat, reshaping warfare and rendering strategies from past conflicts obsolete.\n   • The introduction of repeating rifles transformed infantry…\n\n8. [Neuroscience] Digital Media Alters Cognitive Willingness\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/digital-media-cognitive-willingness-31099/\n   Key points:\n   • A new study proposes that digital media usage alters human focus through a mechanism called \"effort recalibration.\"\n\n— Categories present —\nAI · Art · Biotech · Energy · Neuroscience · Robotics · Space\n\n— Admin checklist —\n• Draft original title + dek\n• Write body (~280–320 words) in CoC voice\n• Set hero image URL + credit\n• Mark published when ready",
+      "paragraphs": [
+        "EDITORIAL BRIEF (outline only — not for publication as-is)\nPublish date: 2026-07-23\nInstruction: Use the titles and key points below to write the final ~300-word CoC editorial. Replace this entire brief with your finished prose before publishing.",
+        "— Selected articles of the day (8) —",
+        "1. [AI] China’s AI models have Trump’s AI world at war with itself\n   Source: MIT Technology Review\n   URL: https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/\n   Key points:\n   • Over the weekend, several current and former advisors to President Donald…",
+        "2. [Art] Jimothy, Meme and Muse\n   Source: Hyperallergic\n   URL: https://hyperallergic.com/jimothy-meme-and-muse/\n   Key points:\n   • Artists share tributes to the beloved raccoon, plus Sabri Sundos’s odes to Palestinian diaspora and memory.",
+        "3. [Biotech] Job dissatisfaction and health care access uncertainty grows in the U.S., new study finds\n   Source: STAT News\n   URL: https://www.statnews.com/2026/07/22/health-news-job-dissatisfaction-health-care-access-grows/?utm_campaign=rss\n   Key points:\n   • What Hawaii's wildfires can teach the nation about health recovery, 4.5 million people disenrolled from SNAP, and more health news",
+        "4. [Energy] State legislatures are getting better at clean-energy permitting policy\n   Source: Canary Media\n   URL: https://www.canarymedia.com/articles/clean-energy/state-legislatures-clean-energy-permitting\n   Key points:\n   • Solar, wind, and batteries are the cheapest, fastest ways to add much-needed electricity to America’s grid.\n   • And across the country, more state legislatures are passing laws to streamline renewable development than are…",
+        "5. [Neuroscience] Why Food Tastes Different After Coffee\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/taste-perception-caffeine-neurotech-31102/\n   Key points:\n   • Researchers developed a biomimetic taste sensor combining 3D taste bud organoids with custom 200 mu-tall 3D microelectrode arrays.",
+        "6. [Robotics] This Graduate Student Equips NASA’s Robots With Assembly Skills\n   Source: IEEE Spectrum\n   URL: https://spectrum.ieee.org/graduate-student-nasas-robots-assembly\n   Key points:\n   • Like many engineers, Sarah Downs says she knew she wanted to pursue a STEM career from a young age.\n   • As a teenager, she discovered robotics through her Tulsa, Okla., middle school’s First Lego League team, and she fell…",
+        "7. [Space] The strategic competition with China: winning the multi-domain race\n   Source: SpaceNews\n   URL: https://spacenews.com/the-strategic-competition-with-china-winning-the-multi-domain-race/\n   Key points:\n   • History demonstrates military innovation continually rewrites the rules of combat, reshaping warfare and rendering strategies from past conflicts obsolete.\n   • The introduction of repeating rifles transformed infantry…",
+        "8. [Neuroscience] Digital Media Alters Cognitive Willingness\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/digital-media-cognitive-willingness-31099/\n   Key points:\n   • A new study proposes that digital media usage alters human focus through a mechanism called \"effort recalibration.\"",
+        "— Categories present —\nAI · Art · Biotech · Energy · Neuroscience · Robotics · Space",
+        "— Admin checklist —\n• Draft original title + dek\n• Write body (~280–320 words) in CoC voice\n• Set hero image URL + credit\n• Mark published when ready"
       ],
-      "heroImageProxy": "https://images.weserv.nl/?url=images-assets.nasa.gov%2Fimage%2Fas11-40-5874%2Fas11-40-5874~medium.jpg&w=1200&h=675&fit=cover&we&output=jpg"
+      "wordCount": 419,
+      "themeId": "outline",
+      "themeLabel": "Admin outline (titles + key points)",
+      "formId": "outline_brief",
+      "formLabel": "outline brief",
+      "authorName": "Dr. Wallace Lynch",
+      "authorTitle": "Editor in Chief",
+      "heroImage": "https://images-assets.nasa.gov/image/PIA15416/PIA15416~medium.jpg",
+      "heroCredit": "Galaxy cluster",
+      "heroSource": "NASA / JPL-Caltech (public domain)",
+      "heroSourceUrl": "https://images.nasa.gov/details/PIA15416",
+      "headlines": [
+        {
+          "title": "China’s AI models have Trump’s AI world at war with itself",
+          "source": "MIT Technology Review",
+          "category": "ai",
+          "sourceUrl": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Over the weekend, several current and former advisors to President Donald…",
+          "keyPoints": [
+            "Over the weekend, several current and former advisors to President Donald…"
+          ]
+        },
+        {
+          "title": "Jimothy, Meme and Muse",
+          "source": "Hyperallergic",
+          "category": "art",
+          "sourceUrl": "https://hyperallergic.com/jimothy-meme-and-muse/",
+          "summary": "Artists share tributes to the beloved raccoon, plus Sabri Sundos’s odes to Palestinian diaspora and memory.",
+          "keyPoints": [
+            "Artists share tributes to the beloved raccoon, plus Sabri Sundos’s odes to Palestinian diaspora and memory."
+          ]
+        },
+        {
+          "title": "Job dissatisfaction and health care access uncertainty grows in the U.S., new study finds",
+          "source": "STAT News",
+          "category": "biotech",
+          "sourceUrl": "https://www.statnews.com/2026/07/22/health-news-job-dissatisfaction-health-care-access-grows/?utm_campaign=rss",
+          "summary": "What Hawaii's wildfires can teach the nation about health recovery, 4.5 million people disenrolled from SNAP, and more health news",
+          "keyPoints": [
+            "What Hawaii's wildfires can teach the nation about health recovery, 4.5 million people disenrolled from SNAP, and more health news"
+          ]
+        },
+        {
+          "title": "State legislatures are getting better at clean-energy permitting policy",
+          "source": "Canary Media",
+          "category": "energy",
+          "sourceUrl": "https://www.canarymedia.com/articles/clean-energy/state-legislatures-clean-energy-permitting",
+          "summary": "Solar, wind, and batteries are the cheapest, fastest ways to add much-needed electricity to America’s grid. And across the country, more state legislatures are passing laws to streamline renewable development than are…",
+          "keyPoints": [
+            "Solar, wind, and batteries are the cheapest, fastest ways to add much-needed electricity to America’s grid.",
+            "And across the country, more state legislatures are passing laws to streamline renewable development than are…"
+          ]
+        },
+        {
+          "title": "Why Food Tastes Different After Coffee",
+          "source": "Neuroscience News",
+          "category": "neuroscience",
+          "sourceUrl": "https://neurosciencenews.com/taste-perception-caffeine-neurotech-31102/",
+          "summary": "Researchers developed a biomimetic taste sensor combining 3D taste bud organoids with custom 200 mu-tall 3D microelectrode arrays.",
+          "keyPoints": [
+            "Researchers developed a biomimetic taste sensor combining 3D taste bud organoids with custom 200 mu-tall 3D microelectrode arrays."
+          ]
+        },
+        {
+          "title": "This Graduate Student Equips NASA’s Robots With Assembly Skills",
+          "source": "IEEE Spectrum",
+          "category": "robotics",
+          "sourceUrl": "https://spectrum.ieee.org/graduate-student-nasas-robots-assembly",
+          "summary": "Like many engineers, Sarah Downs says she knew she wanted to pursue a STEM career from a young age. As a teenager, she discovered robotics through her Tulsa, Okla., middle school’s First Lego League team, and she fell…",
+          "keyPoints": [
+            "Like many engineers, Sarah Downs says she knew she wanted to pursue a STEM career from a young age.",
+            "As a teenager, she discovered robotics through her Tulsa, Okla., middle school’s First Lego League team, and she fell…"
+          ]
+        },
+        {
+          "title": "The strategic competition with China: winning the multi-domain race",
+          "source": "SpaceNews",
+          "category": "space",
+          "sourceUrl": "https://spacenews.com/the-strategic-competition-with-china-winning-the-multi-domain-race/",
+          "summary": "History demonstrates military innovation continually rewrites the rules of combat, reshaping warfare and rendering strategies from past conflicts obsolete. The introduction of repeating rifles transformed infantry…",
+          "keyPoints": [
+            "History demonstrates military innovation continually rewrites the rules of combat, reshaping warfare and rendering strategies from past conflicts obsolete.",
+            "The introduction of repeating rifles transformed infantry…"
+          ]
+        },
+        {
+          "title": "Digital Media Alters Cognitive Willingness",
+          "source": "Neuroscience News",
+          "category": "neuroscience",
+          "sourceUrl": "https://neurosciencenews.com/digital-media-cognitive-willingness-31099/",
+          "summary": "A new study proposes that digital media usage alters human focus through a mechanism called \"effort recalibration.\"",
+          "keyPoints": [
+            "A new study proposes that digital media usage alters human focus through a mechanism called \"effort recalibration.\""
+          ]
+        }
+      ]
     }
   },
   "history": [
@@ -317,7 +503,13 @@
     "https://images-assets.nasa.gov/image/PIA18033/PIA18033~medium.jpg",
     "https://images-assets.nasa.gov/image/as11-40-5874/as11-40-5874~medium.jpg",
     "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Leonardo_da_Vinci_-_Vitruvian_Man_%28WGA12798%29.jpg/800px-Leonardo_da_Vinci_-_Vitruvian_Man_%28WGA12798%29.jpg",
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Mona_Lisa.jpg/800px-Mona_Lisa.jpg"
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Mona_Lisa.jpg/800px-Mona_Lisa.jpg",
+    "https://images-assets.nasa.gov/image/PIA01492/PIA01492~medium.jpg",
+    "https://images-assets.nasa.gov/image/sts061-98-050/sts061-98-050~medium.jpg",
+    "https://images-assets.nasa.gov/image/PIA16884/PIA16884~medium.jpg",
+    "https://images-assets.nasa.gov/image/PIA15416/PIA15416~medium.jpg",
+    "https://images-assets.nasa.gov/image/PIA04921/PIA04921~medium.jpg",
+    "https://images-assets.nasa.gov/image/PIA00122/PIA00122~medium.jpg"
   ],
   "defaultAuthorName": "Dr. Wallace Lynch",
   "defaultAuthorTitle": "Editor in Chief"

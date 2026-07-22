@@ -31,19 +31,38 @@ function scrubItem(it) {
   };
 }
 
+function loadXSignals() {
+  const p = path.join(ROOT, 'data', 'x-signals.json');
+  try {
+    if (fs.existsSync(p)) {
+      const data = JSON.parse(fs.readFileSync(p, 'utf8'));
+      const n = Array.isArray(data) ? data.length : (data.items || []).length;
+      console.log('X MCP signals loaded:', n, 'items from data/x-signals.json');
+      return data;
+    }
+  } catch (e) {
+    console.warn('x-signals.json:', e.message);
+  }
+  console.log('X MCP signals: none (data/x-signals.json missing)');
+  return null;
+}
+
 async function main() {
   const dryRun = process.argv.includes('--dry-run') || process.argv.includes('--json');
   const config = JSON.parse(fs.readFileSync(SOURCES_PATH, 'utf8'));
+  const xSignals = loadXSignals();
 
-  console.log('Crawling science + art feeds…');
-  const items = await CocCrawler.crawl(config, { fetch: globalThis.fetch });
+  console.log('Crawling science + art feeds + X MCP signals…');
+  const items = await CocCrawler.crawl(config, { fetch: globalThis.fetch, xSignals });
 
   if (!items.length) {
     console.error('No articles found from any feed.');
     process.exit(1);
   }
 
-  items.forEach((it) => console.log(`  #${it.rank} [${it.category}] ${it.source}: ${it.title}`));
+  items.forEach((it) =>
+    console.log(`  #${it.rank} [${it.category}]${it.fromX ? ' [X]' : ''} ${it.source}: ${it.title}`)
+  );
 
   if (dryRun) {
     console.log(JSON.stringify(items, null, 2));
@@ -64,7 +83,8 @@ async function main() {
         summary: it.summary,
         image: it.image,
         source: it.source,
-        sourceUrl: it.sourceUrl
+        sourceUrl: it.sourceUrl,
+        fromX: !!it.fromX
       })
     )
   };

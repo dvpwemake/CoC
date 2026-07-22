@@ -1,0 +1,85 @@
+{
+  "schema": "coc.x-signals/v1",
+  "source": "x-mcp",
+  "refreshedAt": "2026-07-22T12:45:00.000Z",
+  "note": "Populated via Grok X MCP (x_keyword_search). Crawler merges these with RSS per category. Refresh with agent or scripts that write this file.",
+  "items": [
+    {
+      "category": "ai",
+      "title": "Gemini 3.6 Flash and 3.5 Flash-Lite now available through official API for developers and AI agents",
+      "summary": "Model ecosystem expansion: Gemini 3.6 Flash and Gemini 3.5 Flash-Lite via official API access.",
+      "source": "X · @web3l0var",
+      "sourceUrl": "https://x.com/web3l0var/status/2079909448219271368",
+      "image": "https://pbs.twimg.com/media/HN1SnDCWEAA2hmA.jpg",
+      "pubDate": "2026-07-22T12:40:29.000Z",
+      "postId": "2079909448219271368",
+      "engagement": { "likes": 0, "reposts": 0, "replies": 1 }
+    },
+    {
+      "category": "robotics",
+      "title": "Teleoperating robots rewires instincts: operators begin predicting reach, grip, and speed",
+      "summary": "Operators report a shift from reactive control to predicting robot capability after practice on teleop systems.",
+      "source": "X · @Ordinalsbit",
+      "sourceUrl": "https://x.com/Ordinalsbit/status/2079909548224336349",
+      "image": "https://pbs.twimg.com/media/HN1SiOMakAAScg6.jpg",
+      "pubDate": "2026-07-22T12:40:53.000Z",
+      "postId": "2079909548224336349",
+      "engagement": { "likes": 1, "reposts": 0, "replies": 0 }
+    },
+    {
+      "category": "biotech",
+      "title": "Biotech lobby seeks rare-disease carve-outs from Medicare brand-drug price programs",
+      "summary": "STAT: industry coalition pushes Trump administration to exclude rare-disease treatments from Medicare price pilots.",
+      "source": "X · @statnews",
+      "sourceUrl": "https://x.com/statnews/status/2079908750031216953",
+      "image": "",
+      "pubDate": "2026-07-22T12:37:43.000Z",
+      "postId": "2079908750031216953",
+      "engagement": { "likes": 0, "reposts": 1, "replies": 0 }
+    },
+    {
+      "category": "space",
+      "title": "SpaceX launches Northrop Mission Robotic Vehicle for multi-satellite life extension",
+      "summary": "Falcon 9 lofted Northrop’s MRV and three Mission Extension Pods to service GEO satellites without refueling.",
+      "source": "X · @OwenGregorian",
+      "sourceUrl": "https://x.com/OwenGregorian/status/2079907069138809294",
+      "image": "https://pbs.twimg.com/media/HN1Qc0pXIAAM7jy.png",
+      "pubDate": "2026-07-22T12:31:02.000Z",
+      "postId": "2079907069138809294",
+      "engagement": { "likes": 3, "reposts": 0, "replies": 0 }
+    },
+    {
+      "category": "energy",
+      "title": "ESS Tech LOI: 500+ MWh sodium-ion storage with Juniper Energy through 2032",
+      "summary": "Bridge modular sodium-ion system; first 10 MW / 80 MWh California project targeting 2027 COD.",
+      "source": "X · @StocksDaily",
+      "sourceUrl": "https://x.com/StocksDaily/status/2079907312186380507",
+      "image": "",
+      "pubDate": "2026-07-22T12:32:00.000Z",
+      "postId": "2079907312186380507",
+      "engagement": { "likes": 1, "reposts": 1, "replies": 0 }
+    },
+    {
+      "category": "neuroscience",
+      "title": "Exercise reshapes the heart’s autonomic nerves, rat study finds",
+      "summary": "Autonomic Neuroscience: trained rats showed large right stellate ganglion neuron growth—possible arrhythmia-protection pathway.",
+      "source": "X · @DrKristieLeong",
+      "sourceUrl": "https://x.com/DrKristieLeong/status/2079908838375915604",
+      "image": "",
+      "pubDate": "2026-07-22T12:38:04.000Z",
+      "postId": "2079908838375915604",
+      "engagement": { "likes": 4, "reposts": 2, "replies": 0 }
+    },
+    {
+      "category": "art",
+      "title": "Cot’s 1879 Portrait of a Lady: craft, status, and material culture at Chrysler Museum",
+      "summary": "Culture Explorer on Pierre-Auguste Cot’s Portrait of a Lady (Mme H.S.)—pearls, silk, and 19th-century craftsmanship as social record.",
+      "source": "X · @CultureExploreX",
+      "sourceUrl": "https://x.com/CultureExploreX/status/2079909023755948304",
+      "image": "",
+      "pubDate": "2026-07-22T12:38:48.000Z",
+      "postId": "2079909023755948304",
+      "engagement": { "likes": 2, "reposts": 0, "replies": 0 }
+    }
+  ]
+}
