@@ -1,5 +1,55 @@
 [
   {
+    "scannedAt": "2026-06-06T14:05:29.391Z",
+    "items": [
+      {
+        "id": "b1780754729391_2",
+        "rank": 2,
+        "title": "Scientists Discover Hidden Quantum Complexity Inside Common Cobalt Metal",
+        "category": "ai",
+        "summary": "Researchers uncovered unexpected quantum complexity in cobalt, revealing a dense network of topological electronic states that remain robust at room temperature. These quantum states enable extremely fast electron behavior and can be switched or controlled using magnetism, potentially opening new paths toward next-generation computing and spin-based devices. Cobalt can now be considered a highly tunable topological platform, opening new perspectives for exploiting magnetic topological states in future information technologies.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260604044255.htm",
+        "image": "https://www.sciencedaily.com/images/1920/crystal-blue-moonstone-labradorite-stone-cobalt.webp",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fcrystal-blue-moonstone-labradorite-stone-cobalt.webp&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780754729391_3",
+        "rank": 3,
+        "title": "Revolutionary Pancreatic Cancer Drug Nearly Doubles Patient Survival",
+        "category": "biotech",
+        "summary": "A new drug called daraxonrasib targets the KRAS mutation that drives most pancreatic tumors, nearly doubling survival for patients with advanced disease and reducing death risk by 60%. In a Phase 3 trial of 500 patients, daraxonrasib increased overall survival from 6.7 months to 13.2 months compared to standard chemotherapy. By successfully targeting the specific genetic mutation that drives the vast majority of pancreatic cancers, researchers demonstrated that this previously \"undruggable\" disease is treatable with targeted therapy.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260604044247.htm",
+        "image": "https://www.sciencedaily.com/images/1920/bright-glowing-cancer-cell-destruction.webp",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fbright-glowing-cancer-cell-destruction.webp&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780754729391_4",
+        "rank": 4,
+        "title": "Breakthrough Hydrogen Production Method Cuts Energy Requirements by 500°C",
+        "category": "energy",
+        "summary": "University of Birmingham researchers developed a perovskite-based catalyst that splits water into hydrogen at much lower temperatures than existing technologies, potentially allowing factories, steel plants, and renewable energy sites to turn waste heat into valuable hydrogen. The new catalyst generates substantial amounts of hydrogen at temperatures between 150-500°C, compared to conventional systems requiring 700-1000°C. This creates a more energy-efficient system that can integrate with industrial waste heat, opening the door to decentralised hydrogen production.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260601025345.htm",
+        "image": "https://www.sciencedaily.com/images/1920/green-energy-hydrogen-pipelines-wind-turbines.webp",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fgreen-energy-hydrogen-pipelines-wind-turbines.webp&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780754729391_5",
+        "rank": 5,
+        "title": "Controlled Fire Whirls Clean Oil Spills 95% More Effectively Than Traditional Methods",
+        "category": "energy",
+        "summary": "Researchers demonstrated that controlled fire whirls can clean up oil spills faster and more cleanly than traditional burning methods, with spinning flames consuming up to 95% of oil and cutting soot emissions by 40%. The breakthrough technique could help prevent environmental damage from oil spills by providing a more efficient cleanup method that reduces both residual oil and air pollution. This represents a significant advance in environmental remediation technology for marine and coastal oil spill disasters.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/news/",
+        "image": "https://www.sciencedaily.com/images/scidaily-icon.png",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2Fscidaily-icon.png&w=640&h=400&fit=cover&we&output=jpg"
+      }
+    ],
+    "batchId": "b1780754729391"
+  },
+  {
     "scannedAt": "2026-06-05T22:22:55.371Z",
     "items": [
       {

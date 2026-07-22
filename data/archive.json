@@ -1,5 +1,61 @@
 [
   {
+    "batchId": "auto_2026-07-22T01-13",
+    "scannedAt": "2026-07-22T01:13:35.961Z",
+    "items": [
+      {
+        "id": "auto_2026-07-22T01-13_1",
+        "rank": 1,
+        "title": "Zenno Astronautics to relocate to the United States",
+        "category": "space",
+        "summary": "SAN FRANCISCO – Zenno Astronautics, a New Zealand startup focused on applying superconducting magnets for spacecraft attitude control and acceleration, plans to redomicile to the United States. “It is obvious […] The…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/rsz_max_action_1.jpg?fit=879%2C456&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/zenno-astronautics-to-relocate-to-the-united-states/"
+      },
+      {
+        "id": "auto_2026-07-22T01-13_2",
+        "rank": 2,
+        "title": "Why Food Tastes Different After Coffee",
+        "category": "neuroscience",
+        "summary": "Researchers developed a biomimetic taste sensor combining 3D taste bud organoids with custom 200 mu-tall 3D microelectrode arrays.",
+        "image": "https://neurosciencenews.com/files/2026/07/taste-perception-caffeine-neurotech-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/taste-perception-caffeine-neurotech-31102/"
+      },
+      {
+        "id": "auto_2026-07-22T01-13_3",
+        "rank": 3,
+        "title": "Sabri Sundos Faces Catastrophe With Flowers",
+        "category": "art",
+        "summary": "“I am obsessed with autonomy and movement,” the Palestinian-American artist tells Hyperallergic in an interview.",
+        "image": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/07/Portrait-of-Sundos-in-his-studio-in-Greenpoint--Brooklyn.-Photographs-by-Samantha-Jensen-2.jpg",
+        "source": "Hyperallergic",
+        "sourceUrl": "https://hyperallergic.com/sabri-sundos-faces-catastrophe-with-flowers/"
+      },
+      {
+        "id": "auto_2026-07-22T01-13_4",
+        "rank": 4,
+        "title": "Trump administration says it's deferring $1B in Medicaid payments to California and Minnesota",
+        "category": "biotech",
+        "summary": "The Trump administration said it was deferring more than $1 billion in Medicaid payments to Minnesota and California because of “suspected fraud and noncompliance.”",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/07/AP26189616840412-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/07/21/medicaid-payments-1-billion-deferred-california-minnesota/?utm_campaign=rss"
+      },
+      {
+        "id": "auto_2026-07-22T01-13_5",
+        "rank": 5,
+        "title": "Startup offers low-cost home batteries to Massachusetts residents",
+        "category": "energy",
+        "summary": "Haven Energy is the newest company offering home battery service in Massachusetts for a low monthly payment, a model supporters say could accelerate adoption of residential storage. Starting in four counties in the…",
+        "image": "https://img.canarymedia.com/content/uploads/Tesla-batteris-in-Canada-home_GettyImages-967233426.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=d3ef0d003b9eaa23273e8dcbafef9b02",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/batteries/haven-energy-low-cost-batteries-massachusetts"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-07-21T20-55",
     "scannedAt": "2026-07-21T20:55:13.597Z",
     "items": [

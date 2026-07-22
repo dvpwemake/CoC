@@ -1,5 +1,61 @@
 [
   {
+    "batchId": "auto_2026-07-22T01-13",
+    "scannedAt": "2026-07-22T01:13:35.961Z",
+    "items": [
+      {
+        "id": "auto_2026-07-22T01-13_1",
+        "rank": 1,
+        "title": "Zenno Astronautics to relocate to the United States",
+        "category": "space",
+        "summary": "SAN FRANCISCO – Zenno Astronautics, a New Zealand startup focused on applying superconducting magnets for spacecraft attitude control and acceleration, plans to redomicile to the United States. “It is obvious […] The…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/rsz_max_action_1.jpg?fit=879%2C456&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/zenno-astronautics-to-relocate-to-the-united-states/"
+      },
+      {
+        "id": "auto_2026-07-22T01-13_2",
+        "rank": 2,
+        "title": "Why Food Tastes Different After Coffee",
+        "category": "neuroscience",
+        "summary": "Researchers developed a biomimetic taste sensor combining 3D taste bud organoids with custom 200 mu-tall 3D microelectrode arrays.",
+        "image": "https://neurosciencenews.com/files/2026/07/taste-perception-caffeine-neurotech-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/taste-perception-caffeine-neurotech-31102/"
+      },
+      {
+        "id": "auto_2026-07-22T01-13_3",
+        "rank": 3,
+        "title": "Sabri Sundos Faces Catastrophe With Flowers",
+        "category": "art",
+        "summary": "“I am obsessed with autonomy and movement,” the Palestinian-American artist tells Hyperallergic in an interview.",
+        "image": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/07/Portrait-of-Sundos-in-his-studio-in-Greenpoint--Brooklyn.-Photographs-by-Samantha-Jensen-2.jpg",
+        "source": "Hyperallergic",
+        "sourceUrl": "https://hyperallergic.com/sabri-sundos-faces-catastrophe-with-flowers/"
+      },
+      {
+        "id": "auto_2026-07-22T01-13_4",
+        "rank": 4,
+        "title": "Trump administration says it's deferring $1B in Medicaid payments to California and Minnesota",
+        "category": "biotech",
+        "summary": "The Trump administration said it was deferring more than $1 billion in Medicaid payments to Minnesota and California because of “suspected fraud and noncompliance.”",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/07/AP26189616840412-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/07/21/medicaid-payments-1-billion-deferred-california-minnesota/?utm_campaign=rss"
+      },
+      {
+        "id": "auto_2026-07-22T01-13_5",
+        "rank": 5,
+        "title": "Startup offers low-cost home batteries to Massachusetts residents",
+        "category": "energy",
+        "summary": "Haven Energy is the newest company offering home battery service in Massachusetts for a low monthly payment, a model supporters say could accelerate adoption of residential storage. Starting in four counties in the…",
+        "image": "https://img.canarymedia.com/content/uploads/Tesla-batteris-in-Canada-home_GettyImages-967233426.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=d3ef0d003b9eaa23273e8dcbafef9b02",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/batteries/haven-energy-low-cost-batteries-massachusetts"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-07-21T20-55",
     "scannedAt": "2026-07-21T20:55:13.597Z",
     "items": [
@@ -796,66 +852,6 @@
         "source": "IEEE Spectrum",
         "sourceUrl": "https://spectrum.ieee.org/ieee-honors-toshio-fukuda",
         "imageProxy": "https://images.weserv.nl/?url=spectrum.ieee.org%2Fmedia-library%2Fthree-men-in-suits-onstage-smiling-as-one-presents-an-award-medal-in-a-box.jpg%3Fid%3D67107362%26width%3D980&w=640&h=400&fit=cover&we&output=jpg"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-07-07T21-11",
-    "scannedAt": "2026-07-07T21:11:48.248Z",
-    "items": [
-      {
-        "id": "auto_2026-07-07T21-11_1",
-        "rank": 1,
-        "title": "Quaise Energy raises $134M to fuel superhot geothermal ambitions",
-        "category": "energy",
-        "summary": "Startup Quaise Energy has raised $134 million to advance its first superhot geothermal power plant in central Oregon. On Tuesday, the Houston-based company announced the first tranche of its Series B financing round,…",
-        "image": "https://img.canarymedia.com/content/uploads/QUAISE0-00-43-08.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=708c5436eef1c33f18a9c60e57544b02",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/geothermal/quaise-energy-raises-134m",
-        "imageProxy": "https://images.weserv.nl/?url=img.canarymedia.com%2Fcontent%2Fuploads%2FQUAISE0-00-43-08.jpg%3Fauto%3Dcompress%252Cformat%26crop%3Dfocalpoint%26fit%3Dcrop%26fp-x%3D0.5%26fp-y%3D0.5%26h%3D630%26q%3D82%26w%3D1200%26s%3D708c5436eef1c33f18a9c60e57544b02&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-07T21-11_2",
-        "rank": 2,
-        "title": "NASA Transfers ‘Hundred Acre Wood’ to Patuxent Research Refuge",
-        "category": "space",
-        "summary": "NASA ceremonially transferred ownership of about 105 acres of wooded land at its Goddard Space Flight Center’s Greenbelt, Maryland, campus Tuesday to the adjoining Patuxent Research Refuge, managed by the U.S. Fish and…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/07/gsfc-20260707-signingevent-2026-10452-13.jpg",
-        "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/centers-and-facilities/goddard/nasa-transfers-hundred-acre-wood-to-patuxent-research-refuge/",
-        "imageProxy": "https://images.weserv.nl/?url=www.nasa.gov%2Fwp-content%2Fuploads%2F2026%2F07%2Fgsfc-20260707-signingevent-2026-10452-13.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-07T21-11_3",
-        "rank": 3,
-        "title": "STAT+: FDA approves Vera Therapeutics kidney disease treatment",
-        "category": "biotech",
-        "summary": "The FDA approved a new medicine from the biotech company Vera Therapeutics for patients with a type of chronic autoimmune kidney disease.",
-        "image": "https://www.statnews.com/wp-content/uploads/2022/12/AdobeStock_61891029-1024x576.jpeg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/07/07/vera-therapeutics-kidney-disease-treatment-approval/?utm_campaign=rss",
-        "imageProxy": "https://images.weserv.nl/?url=www.statnews.com%2Fwp-content%2Fuploads%2F2022%2F12%2FAdobeStock_61891029-1024x576.jpeg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-07T21-11_4",
-        "rank": 4,
-        "title": "The foundational elements of AI architecture that IT leaders need to scale",
-        "category": "ai",
-        "summary": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces risk, leaving IT…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/iStock-2216481617_7fbe0d.jpg?resize=1200,600",
-        "source": "MIT Technology Review",
-        "sourceUrl": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
-        "imageProxy": "https://images.weserv.nl/?url=wp.technologyreview.com%2Fwp-content%2Fuploads%2F2026%2F06%2FiStock-2216481617_7fbe0d.jpg%3Fresize%3D1200%2C600&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-07T21-11_5",
-        "rank": 5,
-        "title": "Hypothalamic specification in a dish",
-        "category": "neuroscience",
-        "summary": "Nature Neuroscience, Published online: 06 July 2026; doi:10.1038/s41593-026-02370-5 Hypothalamic specification in a dish",
-        "image": "",
-        "source": "Nature Neuroscience",
-        "sourceUrl": "https://www.nature.com/articles/s41593-026-02370-5"
       }
     ]
   }
