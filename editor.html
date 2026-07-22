@@ -175,10 +175,11 @@ a{color:inherit;text-decoration:none}
 
   <div class="sec" id="edSec">
     <div class="sec-t">Daily Editorial</div>
-    <p style="font-family:var(--font-mono);font-size:.48rem;color:var(--text-dim);line-height:1.55;margin-bottom:.5rem">Draft by 9pm ET · Auto-publish 8am ET<br><b>✦ Draft</b> = outline only (article titles + key points). You write the final prose.</p>
+    <p style="font-family:var(--font-mono);font-size:.48rem;color:var(--text-dim);line-height:1.55;margin-bottom:.5rem">After crawl → outline draft (titles, URLs, key points).<br>Write prose → Preview → <b>Publish Editorial</b> (GitHub / live).</p>
     <button class="btn btn-s" id="edDraftBtn" onclick="forceEditorialDraft()" style="width:100%;margin-bottom:.4rem">✦ Editorial Draft</button>
     <button class="btn btn-p" onclick="openEditorial()" style="width:100%;margin-bottom:.4rem">✎ Edit Editorial</button>
-    <button class="btn" onclick="loadEditorialFile()" style="width:100%">↻ Load data/editorial.json</button>
+    <button class="btn" onclick="previewEditorial()" style="width:100%;margin-bottom:.4rem">◎ Preview Editorial</button>
+    <button class="btn btn-s" id="edPubBtn" onclick="publishEditorialToGitHub()" style="width:100%">↑ Publish Editorial</button>
   </div>
 
   <div class="sec side-acts">
@@ -196,11 +197,11 @@ a{color:inherit;text-decoration:none}
   <div class="ws" id="ws">
     <div class="ic">◇</div>
     <h2>Welcome, Editor</h2>
-    <p><span class="sn">1</span> <b>⚡ Crawl</b> — pull today’s articles (RSS + X)<br><span class="sn">2</span> <b>✦ Editorial Draft</b> — compile titles + key points outline (no auto-essay)<br><span class="sn">3</span> <b>✎ Edit Editorial</b> — write final ~300w prose from the outline<br><span class="sn">4</span> Save downloads <code>editorial.json</code> → put in <code>data/</code> when ready</p>
+    <p><span class="sn">1</span> <b>⚡ Crawl</b> — news (also auto-fills outline draft on server crawl)<br><span class="sn">2</span> <b>✦ Editorial Draft</b> — load outline (titles · URLs · key points)<br><span class="sn">3</span> Write final prose · <b>◎ Preview</b><br><span class="sn">4</span> <b>↑ Publish Editorial</b> — push to GitHub / live (no download)</p>
   </div>
   <div id="eForm" style="display:none">
     <div class="ph"><h2 class="pt" id="fTitle">New Entry</h2><button class="btn btn-d" onclick="delE()" id="delBtn">✕ Delete</button></div>
-    <div class="fr"><div class="fg"><label class="fl">Rank</label><input type="number" class="fi" id="fR" min="1" max="5" value="1"></div><div class="fg"><label class="fl">Category</label><select class="fsel" id="fC"><option value="ai">AI</option><option value="art">Art</option><option value="robotics">Robotics</option><option value="biotech">Biotech</option><option value="space">Space Tech</option><option value="energy">Energy</option><option value="neuroscience">Neuroscience</option></select></div></div>
+    <div class="fr"><div class="fg"><label class="fl">Rank</label><input type="number" class="fi" id="fR" min="1" max="5" value="1"></div><div class="fg"><label class="fl">Category</label><select class="fsel" id="fC"><option value="ai">AI</option><option value="art">Art</option><option value="robotics">Robotics</option><option value="biotech">Biotech</option><option value="space">Space Tech</option><option value="energy">Energy</option><option value="neuroscience">Neuroscience</option><option value="editorial">Editorial</option></select></div></div>
     <div class="fg"><label class="fl">Headline</label><textarea class="fta" id="fT" placeholder="Breakthrough headline…"></textarea></div>
     <div class="fg"><label class="fl">Summary</label><textarea class="fta" id="fS" placeholder="1–2 sentence summary…" style="min-height:40px"></textarea></div>
     <div class="fg"><label class="fl">Image URL</label><div style="display:flex;gap:.4rem;margin-bottom:.3rem"><input type="url" class="fi" id="fI" placeholder="https://…" style="flex:1"><button type="button" class="btn" onclick="pullImg()" title="Fetch og:image from Source URL">↻ From article</button></div><div class="ip" id="imgP"><span class="ph-t">Preview</span></div></div>
@@ -217,12 +218,11 @@ a{color:inherit;text-decoration:none}
     </div>
     <div class="fg"><label class="fl">Title</label><input type="text" class="fi" id="edTitle"></div>
     <div class="fg"><label class="fl">Dek / subtitle</label><input type="text" class="fi" id="edDek"></div>
-    <div class="fg"><label class="fl">Theme label</label><input type="text" class="fi" id="edTheme"></div>
     <div class="fr">
       <div class="fg"><label class="fl">Author name</label><input type="text" class="fi" id="edAuthor" placeholder="Dr. Wallace Lynch"></div>
       <div class="fg"><label class="fl">Author title</label><input type="text" class="fi" id="edAuthorTitle" placeholder="Editor in Chief"></div>
     </div>
-    <div class="fg"><label class="fl">Body — outline starts as titles/key points; replace with final ~300w prose before publish</label><textarea class="fta" id="edBody" style="min-height:220px;font-family:var(--font-mono);font-size:.72rem;line-height:1.55"></textarea>
+    <div class="fg"><label class="fl">Body — outline = titles/URLs/key points; replace with final ~300w prose before publish</label><textarea class="fta" id="edBody" style="min-height:220px;font-family:var(--font-mono);font-size:.72rem;line-height:1.55"></textarea>
       <div style="font-family:var(--font-mono);font-size:.5rem;color:var(--text-dim);margin-top:.3rem">Words: <span id="edWC">0</span> · Outline drafts are not publication-ready</div>
     </div>
     <div class="fg"><label class="fl">Hero image URL</label><input type="url" class="fi" id="edHero" placeholder="https://… public domain image">
@@ -233,12 +233,13 @@ a{color:inherit;text-decoration:none}
       <div class="fg"><label class="fl">Hero source</label><input type="text" class="fi" id="edHeroSource"></div>
     </div>
     <div class="fg"><label class="fl">Hero source URL</label><input type="url" class="fi" id="edHeroSourceUrl"></div>
-    <div class="fa">
-      <button class="btn btn-p" onclick="saveEditorial()">Save Editorial (local + export)</button>
-      <button class="btn btn-s" onclick="markPublished()">Mark published + export for index</button>
+    <div class="fa" style="flex-wrap:wrap;gap:.4rem">
+      <button class="btn btn-p" onclick="saveEditorial()">Save (browser only)</button>
+      <button class="btn" onclick="previewEditorial()">◎ Preview Editorial</button>
+      <button class="btn btn-s" id="edPubBtn2" onclick="publishEditorialToGitHub()">↑ Publish Editorial</button>
       <button class="btn" onclick="hideEd()">Cancel</button>
     </div>
-    <p style="font-family:var(--font-mono);font-size:.48rem;color:var(--text-dim);margin-top:1rem;line-height:1.6">Saves to browser localStorage and downloads <code>editorial.json</code> for deploy into <code>data/editorial.json</code>. Publish inject: place published object as <code>EMBEDDED_EDITORIAL</code> in index.html or run <code>node scripts/editorial-publish.js --force</code>.</p>
+    <p style="font-family:var(--font-mono);font-size:.48rem;color:var(--text-dim);margin-top:1rem;line-height:1.6"><b>Publish Editorial</b> commits to GitHub <code>main</code> (no file download). Requires a fine-scoped GitHub PAT with <code>contents:write</code> on dvpwemake/CoC (prompted once per session). Previous live editorial becomes an <b>Editorial</b> card in Field signals.</p>
   </div>
 <div id="logP" style="display:none"><div class="ph"><h2 class="pt">Scan Log</h2><button class="btn btn-d" onclick="clearLog()">Clear</button></div><div class="log-e" id="logE"></div></div>
 </main>
@@ -246,11 +247,13 @@ a{color:inherit;text-decoration:none}
 
 <div class="mo" id="expM"><div class="md"><h3>Export</h3><p style="font-size:.65rem;color:var(--text-dim);margin-bottom:.8rem">Replace <code>EMBEDDED_DATA</code> in <code>index.html</code>.</p><pre id="expJ"></pre><div class="md-a"><button class="btn btn-p" onclick="cpExp()">Copy</button><button class="btn" onclick="dlExp()">⤓ Download</button><button class="btn" onclick="closeM('expM')">Close</button></div></div></div>
 <div class="mo" id="impM"><div class="md"><h3>Import</h3><p style="font-size:.65rem;color:var(--text-dim);margin-bottom:.8rem">Paste batches JSON. <b>Replaces</b> all data.</p><textarea class="fta" id="impJ" style="min-height:180px;font-family:var(--font-mono);font-size:.5rem"></textarea><div class="md-a"><button class="btn btn-p" onclick="doImp()">Import</button><button class="btn" onclick="closeM('impM')">Cancel</button></div></div></div>
+<div class="mo" id="edPrevM"><div class="md" style="max-width:720px;max-height:90vh;overflow:auto"><h3>Editorial preview</h3><div id="edPrevBody" style="font-family:var(--font-serif);font-size:.95rem;line-height:1.65;color:var(--text)"></div><div class="md-a"><button class="btn" onclick="closeM('edPrevM')">Close</button></div></div></div>
 <div class="toast" id="tst"></div>
 
 <script src="scripts/editor-auth.js"></script>
 <script src="scripts/crawler-lib.js"></script>
 <script src="scripts/editorial-client.js"></script>
+<script src="scripts/github-publish-client.js"></script>
 <script>
 /* Global scope required: HTML onclick="doScan()" etc. must resolve on window. */
 const SK='coc_editor_batches',PK='coc_news_data',LK='coc_scan_log',ATK='coc_auto_scan',APK='coc_auto_pub';
@@ -392,9 +395,21 @@ async function doScan(){
     B.unshift(nb);persist();renderBL();
     const xN=items.filter(it=>it.fromX).length;
     addLog('ok',`Done — ${nb.items.length} items (${xN} from X). Batch: ${bId}`);
+    // After crawl: compile editorial outline from selected stories (browser store)
+    try{
+      if(window.CocEditorial){
+        await ensureEditorialLoaded(false);
+        const hl=items.map(x=>({title:x.title,source:x.source,category:x.category,sourceUrl:x.sourceUrl,summary:x.summary}));
+        const today=CocEditorial.nyParts().dateStr;
+        const r=CocEditorial.createDraftForDate(ED,today,hl,{force:true});
+        ED=r.store;
+        localStorage.setItem(EK,JSON.stringify(ED));
+        addLog('ok','Editorial outline filled for '+today+' from crawl ('+hl.length+' stories)');
+      }
+    }catch(oe){ addLog('er2','Outline after crawl: '+oe.message); }
     setSt('idle','Last: '+now.toLocaleTimeString());
-    toast(nb.items.length+' stories crawled'+(xN?' · '+xN+' from X':'')+'!','success');
-    if(document.getElementById('autoPub').checked){pub();toast('Auto-published!','success')}
+    toast(nb.items.length+' stories crawled'+(xN?' · '+xN+' from X':'')+' · outline ready','success');
+    if(document.getElementById('autoPub').checked){pub();toast('News published to browser feed','success')}
   }catch(e){addLog('er2','Failed: '+e.message);setSt('err','Failed');toast(e.message,'error')}
   finally{scanning=false;b.classList.remove('ld');b.disabled=false}
 }
@@ -405,9 +420,9 @@ async function loadHeadlinesForDraft(){
   let headlines=[];
   try{
     const r=await fetch('data/archive.json',{cache:'no-cache'});
-    if(r.ok) headlines=CocEditorial.headlinesFromArchive(await r.json(),6);
+    if(r.ok) headlines=CocEditorial.headlinesFromArchive(await r.json(),12);
   }catch(e){/* optional */}
-  if(!headlines.length && B.length) headlines=CocEditorial.headlinesFromBatches(B,6);
+  if(!headlines.length && B.length) headlines=CocEditorial.headlinesFromBatches(B,12);
   return headlines;
 }
 function openEdFormWith(ed){
@@ -425,8 +440,8 @@ async function forceEditorialDraft(){
   const btn=document.getElementById('edDraftBtn');
   if(btn){btn.disabled=true;btn.textContent='✦ Drafting…'}
   try{
-    toast('Compiling article outline (titles + key points)…','info');
-    addLog('inf','Editorial Draft — outline only (no creative prose)…');
+    toast('Compiling outline (titles · URLs · key points)…','info');
+    addLog('inf','Editorial Draft — load outline only (no download)…');
     await ensureEditorialLoaded(true);
     const headlines=await loadHeadlinesForDraft();
     if(!headlines.length){
@@ -435,19 +450,15 @@ async function forceEditorialDraft(){
       return;
     }
     const today=CocEditorial.nyParts().dateStr;
-    const tomorrow=CocEditorial.nextPublishDate();
     let r=CocEditorial.createDraftForDate(ED,today,headlines,{force:true});
     ED=r.store;
     const draftToday=r.draft;
-    r=CocEditorial.createDraftForDate(ED,tomorrow,headlines,{force:true});
-    ED=r.store;
-    const draftTom=r.draft;
     ED_FILE_LOADED=true;
+    // Browser only — no JSON download
     localStorage.setItem(EK,JSON.stringify(ED));
-    dlEditorialStore();
     const n=(draftToday.headlines||[]).length;
-    addLog('ok','Outline briefs · '+today+' + '+tomorrow+' · '+n+' article(s) · admin writes final prose');
-    toast('Outline ready ('+n+' articles). Write final editorial in the form.','success');
+    addLog('ok','Outline loaded · '+today+' · '+n+' article(s) · no file download');
+    toast('Outline loaded ('+n+' articles) — write final prose when ready','success');
     openEdFormWith(draftToday);
   }catch(e){
     addLog('er2','Editorial Draft failed: '+e.message);
@@ -514,7 +525,7 @@ function showF(){document.getElementById('ws').style.display='none';document.get
 function hide(){document.getElementById('eForm').style.display='none';document.getElementById('logP').style.display='none';const ef=document.getElementById('edForm');if(ef)ef.style.display='none';document.getElementById('ws').style.display='flex'}
 function clrF(){['fR','fT','fS','fI','fSr','fSu','fB'].forEach(id=>document.getElementById(id).value='');document.getElementById('fC').value='ai';updImg('')}
 function updImg(u){const a=document.getElementById('imgP');if(!u){a.innerHTML='<span class="ph-t">Preview</span>';return}a.innerHTML='<img referrerpolicy="no-referrer">';const img=a.querySelector('img');img.src=u;img.onerror=function(){if(!this.dataset.proxy){this.dataset.proxy='1';this.src='https://images.weserv.nl/?url='+encodeURIComponent(u.replace(/^https?:\/\//,''))+'&w=640&fit=cover';return}this.parentElement.innerHTML='<span class="ph-t">Failed</span>'}}
-function fC(c){return{ai:'AI',art:'Art',robotics:'Robotics',biotech:'Biotech',space:'Space Tech',energy:'Energy',neuroscience:'Neuroscience'}[c]||c}
+function fC(c){return{ai:'AI',art:'Art',robotics:'Robotics',biotech:'Biotech',space:'Space Tech',energy:'Energy',neuroscience:'Neuroscience',editorial:'Editorial'}[c]||c}
 function toast(m,t='info'){const e=document.getElementById('tst');e.textContent=m;e.className='toast '+t+' sh';setTimeout(()=>e.classList.remove('sh'),2500)}
 /* modal dismiss bound in initEditorApp */
 
@@ -583,7 +594,6 @@ function fillEditorialForm(ed){
   document.getElementById('edStatus').value=ed.status||(ed.publishDate===todayET()&&ED.published&&ED.published.publishDate===todayET()?'published':'draft');
   document.getElementById('edTitle').value=ed.title||'';
   document.getElementById('edDek').value=ed.dek||'';
-  document.getElementById('edTheme').value=ed.themeLabel||'';
   document.getElementById('edAuthor').value=ed.authorName||ED.defaultAuthorName||'Dr. Wallace Lynch';
   document.getElementById('edAuthorTitle').value=ed.authorTitle||ED.defaultAuthorTitle||'Editor in Chief';
   document.getElementById('edBody').value=body;
@@ -593,6 +603,12 @@ function fillEditorialForm(ed){
   document.getElementById('edHeroSourceUrl').value=ed.heroSourceUrl||'';
   updEdImg(ed.heroImageProxy||ed.heroImage||'');
   countEdWords();
+  // monospaced for outlines; serif-friendly size for final prose
+  const ta=document.getElementById('edBody');
+  if(ta){
+    if(isOutlineBrief(ed)){ ta.style.fontFamily='var(--font-mono)'; ta.style.fontSize='.72rem'; }
+    else { ta.style.fontFamily='var(--font-serif)'; ta.style.fontSize='.9rem'; }
+  }
 }
 /**
  * Backend: always fetch data/editorial.json (source of truth).
@@ -677,7 +693,6 @@ function collectEditorial(){
     updatedAt:new Date().toISOString(),
     title:document.getElementById('edTitle').value.trim(),
     dek:document.getElementById('edDek').value.trim(),
-    themeLabel:document.getElementById('edTheme').value.trim(),
     authorName:document.getElementById('edAuthor').value.trim()||'Dr. Wallace Lynch',
     authorTitle:document.getElementById('edAuthorTitle').value.trim()||'Editor in Chief',
     body:body,
@@ -695,82 +710,190 @@ function isOutlineBrief(ed){
   const blob=String(ed.title||'')+'\n'+String(ed.body||'');
   return /EDITORIAL BRIEF\s*\(outline only/i.test(blob)||/^Editorial brief\s*[—–-]/i.test(String(ed.title||'').trim());
 }
+function escHtml(s){
+  return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
 function saveEditorial(){
   const ed=collectEditorial();
   if(!ed.title||!ed.body){toast('Title and body required','warning');return}
   if(!ED.drafts)ED.drafts={};
   if(ed.status==='published'){
     if(isOutlineBrief(ed)){
-      toast('Cannot publish outline brief to the public site. Replace body with final prose first.','warning');
+      toast('Cannot set status published while body is still an outline.','warning');
       document.getElementById('edStatus').value='draft';
       ed.status='draft';
-      ED.drafts[ed.publishDate]=Object.assign(ed,{draftKind:'outline',themeId:'outline',formId:'outline_brief',themeLabel:'Admin outline (titles + key points)'});
-      localStorage.setItem(EK,JSON.stringify(ED));
-      dlEditorialStore();
-      return;
+    }else{
+      delete ed.draftKind;
+      ED.published=ed;
+      localStorage.setItem('coc_editorial_pub',JSON.stringify(ed));
     }
-    delete ed.draftKind;
-    ed.status='published';
-    ED.published=ed;
-    localStorage.setItem('coc_editorial_pub',JSON.stringify(ed));
-  }else{
+  }
+  if(ed.status!=='published'){
     if(isOutlineBrief(ed)){
       ed.draftKind='outline';
-      ed.themeId=ed.themeId||'outline';
-      ed.formId=ed.formId||'outline_brief';
+      ed.themeId='outline';
+      ed.formId='outline_brief';
     }
     ED.drafts[ed.publishDate]=ed;
   }
   localStorage.setItem(EK,JSON.stringify(ED));
-  dlEditorialStore();
-  toast('Editorial saved (~'+ed.wordCount+' words)','success');
-  addLog('ok','Editorial saved '+ed.publishDate+' · '+ed.status);
+  // No download — browser store only
+  toast('Saved in browser (~'+ed.wordCount+' words)','success');
+  addLog('ok','Editorial saved locally '+ed.publishDate+' · '+ed.status);
 }
-function markPublished(){
+function previewEditorial(){
+  const ed=collectEditorial();
+  const body=editorialBodyText(ed);
+  if(!ed.title&&!body){toast('Nothing to preview','warning');return}
+  const paras=(ed.paragraphs&&ed.paragraphs.length?ed.paragraphs:body.split(/\n\n+/).filter(Boolean))
+    .map(p=>'<p style="margin:0 0 1em">'+escHtml(p).replace(/\n/g,'<br>')+'</p>').join('');
+  const hero=ed.heroImage
+    ? '<div style="margin:0 0 1rem"><img src="'+escHtml(ed.heroImage)+'" alt="" style="width:100%;max-height:280px;object-fit:cover;border-radius:8px" referrerpolicy="no-referrer" onerror="this.style.display=\'none\'"></div>'
+    : '';
+  const html=
+    '<div style="font-family:var(--font-mono);font-size:.55rem;color:var(--text-dim);margin-bottom:.75rem">PREVIEW · '+(ed.status||'draft')+' · '+(ed.publishDate||'')+' · ~'+ed.wordCount+' words'+(isOutlineBrief(ed)?' · OUTLINE (not live-ready)':'')+'</div>'+
+    hero+
+    '<h2 style="font-family:var(--font-serif);font-size:1.45rem;margin:0 0 .35rem;font-weight:600">'+escHtml(ed.title||'Untitled')+'</h2>'+
+    (ed.dek?'<p style="font-style:italic;color:var(--text-dim);margin:0 0 .75rem">'+escHtml(ed.dek)+'</p>':'')+
+    '<p style="font-family:var(--font-mono);font-size:.55rem;color:var(--text-dim);margin:0 0 1rem">By '+escHtml(ed.authorName||'')+(ed.authorTitle?' · '+escHtml(ed.authorTitle):'')+'</p>'+
+    '<div style="font-family:var(--font-serif)">'+paras+'</div>';
+  document.getElementById('edPrevBody').innerHTML=html;
+  document.getElementById('edPrevM').classList.add('sh');
+}
+function previousEditorialAsNewsItem(ed){
+  if(!ed||!ed.title) return null;
+  const paras=ed.paragraphs&&ed.paragraphs.length?ed.paragraphs:String(ed.body||'').split(/\n\n+/).map(p=>p.trim()).filter(Boolean);
+  let summary=String(ed.dek||paras[0]||'').replace(/\s+/g,' ').trim();
+  if(summary.length>220){const c=summary.slice(0,220);const sp=c.lastIndexOf(' ');summary=(sp>120?c.slice(0,sp):c).trim()+'…';}
+  const date=ed.publishDate||(ed.publishedAt||'').slice(0,10)||'unknown';
+  return{
+    id:'editorial_'+date,
+    rank:0,
+    title:ed.title,
+    category:'editorial',
+    summary,
+    image:ed.heroImage||'',
+    source:'Chronicle of Convergence · Editorial',
+    sourceUrl:'https://chronicleofconvergence.com/#editorial',
+    isEditorialArchive:true,
+    publishDate:date,
+    authorName:ed.authorName||'Dr. Wallace Lynch'
+  };
+}
+/**
+ * Publish Editorial → GitHub main (no file download).
+ * Updates data/editorial.json, archives previous editorial into news timeline,
+ * injects EMBEDDED_EDITORIAL into index.html.
+ */
+async function publishEditorialToGitHub(){
+  if(!window.CocGitHubPublish){toast('github-publish-client.js not loaded','error');return}
   const ed=collectEditorial();
   if(isOutlineBrief(ed)){
-    toast('Blocked: outline briefs are not public editorials. Write final prose, then Mark published.','error');
-    addLog('er2','Publish blocked — body is still an outline brief');
+    toast('Blocked: still an outline. Write final prose first.','error');
     return;
   }
   if(!ed.title||!ed.body||ed.wordCount<120){
     toast('Final prose required (~300 words) before publish','warning');
     return;
   }
-  document.getElementById('edStatus').value='published';
-  ed.status='published';
-  ed.publishedAt=new Date().toISOString();
-  delete ed.draftKind;
-  if(ed.themeId==='outline') delete ed.themeId;
-  if(ed.formId==='outline_brief') delete ed.formId;
-  ED.published=ed;
-  if(ED.drafts)delete ED.drafts[ed.publishDate];
-  ED.history=[ed].concat(ED.history||[]).slice(0,40);
-  localStorage.setItem(EK,JSON.stringify(ED));
-  localStorage.setItem('coc_editorial_pub',JSON.stringify(ed));
-  dlEditorialStore();
-  // also download EMBEDDED snippet
-  const snip='const EMBEDDED_EDITORIAL = '+JSON.stringify(ed,null,2)+';';
-  const a=document.createElement('a');
-  a.href=URL.createObjectURL(new Blob([snip],{type:'text/javascript'}));
-  a.download='EMBEDDED_EDITORIAL-'+ed.publishDate+'.js';
-  a.click();
-  toast('Marked published + exports ready — deploy editorial.json + embed to go live','success');
-  addLog('ok','Published '+ed.publishDate+' (~'+ed.wordCount+'w)');
-}
-function dlEditorialStore(){
-  const a=document.createElement('a');
-  a.href=URL.createObjectURL(new Blob([JSON.stringify(ED,null,2)],{type:'application/json'}));
-  a.download='editorial.json';
-  a.click();
-}
-async function loadEditorialFile(){
-  ED_FILE_LOADED=false;
-  await ensureEditorialLoaded(true);
-  if(ED.published||Object.keys(ED.drafts||{}).length){
-    toast('Loaded editorial.json (backend)','success');
-    openEditorial();
-  }else toast('data/editorial.json empty or missing — use a local server (not file://)','warning');
+  let token=CocGitHubPublish.getToken();
+  if(!token){
+    token=window.prompt('GitHub personal access token (repo contents:write on dvpwemake/CoC).\nStored in this browser session only — never committed.');
+    if(!token){toast('Publish cancelled — no token','warning');return}
+    CocGitHubPublish.setToken(token.trim());
+  }
+  const btn=document.getElementById('edPubBtn');
+  const btn2=document.getElementById('edPubBtn2');
+  [btn,btn2].forEach(b=>{if(b){b.disabled=true;b.textContent='↑ Publishing…';}});
+  try{
+    toast('Publishing to GitHub…','info');
+    addLog('inf','Publish Editorial → GitHub started');
+    await ensureEditorialLoaded(true);
+
+    // Normalize published object
+    ed.status='published';
+    ed.publishedAt=new Date().toISOString();
+    ed.updatedAt=ed.publishedAt;
+    delete ed.draftKind;
+    delete ed.themeId;
+    delete ed.formId;
+    if(!ed.paragraphs||!ed.paragraphs.length){
+      ed.paragraphs=ed.body.split(/\n\n+/).map(p=>p.trim()).filter(Boolean);
+    }
+
+    const prev=ED.published && ED.published.publishDate!==ed.publishDate ? ED.published : null;
+
+    // Build new editorial store
+    const store={
+      published:ed,
+      drafts:Object.assign({},ED.drafts||{}),
+      history:[ed].concat((ED.history||[]).filter(h=>h&&h.id!==ed.id)).slice(0,60),
+      usedHeroImages:ED.usedHeroImages||[]
+    };
+    delete store.drafts[ed.publishDate];
+    if(ed.heroImage){
+      const used=new Set(store.usedHeroImages);
+      used.add(ed.heroImage);
+      store.usedHeroImages=[...used];
+    }
+
+    // Fetch remote files
+    const edFile=await CocGitHubPublish.getFile('data/editorial.json');
+    const idxFile=await CocGitHubPublish.getFile('index.html');
+    let archFile=null;
+    try{ archFile=await CocGitHubPublish.getFile('data/archive.json'); }catch(e){ addLog('inf','archive.json fetch: '+e.message); }
+
+    let archive=null;
+    let editorialNewsItem=null;
+    if(prev&&!isOutlineBrief(prev)){
+      editorialNewsItem=previousEditorialAsNewsItem(prev);
+      if(editorialNewsItem&&archFile){
+        try{
+          archive=JSON.parse(archFile.text);
+          if(!Array.isArray(archive)) archive=[];
+          const batchId='editorial_'+(editorialNewsItem.publishDate||'');
+          archive=archive.filter(b=>String(b.batchId||'')!==batchId);
+          archive.unshift({
+            batchId,
+            scannedAt:prev.publishedAt||prev.updatedAt||new Date().toISOString(),
+            kind:'editorial_archive',
+            items:[editorialNewsItem]
+          });
+        }catch(e){
+          addLog('er2','archive parse: '+e.message);
+          archive=null;
+        }
+      }
+    }
+
+    let indexHtml=CocGitHubPublish.injectEmbeddedEditorial(idxFile.text, ed);
+    if(archive&&archive[0]){
+      try{ indexHtml=CocGitHubPublish.injectEmbeddedDataHead(indexHtml, archive.find(b=>String(b.batchId||'').startsWith('auto_'))||archive[0]); }catch(e){}
+    }
+
+    const msg='Editorial publish: '+ed.publishDate+' — '+(ed.title||'').slice(0,60);
+    await CocGitHubPublish.putFile('data/editorial.json', JSON.stringify(store,null,2)+'\n', edFile.sha, msg);
+    if(archive&&archFile){
+      await CocGitHubPublish.putFile('data/archive.json', JSON.stringify(archive,null,2)+'\n', archFile.sha, msg+' (archive previous editorial)');
+    }
+    await CocGitHubPublish.putFile('index.html', indexHtml, idxFile.sha, msg+' (embed)');
+
+    ED=store;
+    localStorage.setItem(EK,JSON.stringify(ED));
+    localStorage.setItem('coc_editorial_pub',JSON.stringify(ed));
+    document.getElementById('edStatus').value='published';
+    addLog('ok','Published to GitHub · '+ed.publishDate+' · '+(editorialNewsItem?'previous → field signals':'no prior archive'));
+    toast('Published to GitHub — live after Pages deploy (~1 min)','success');
+  }catch(e){
+    addLog('er2','Publish failed: '+e.message);
+    toast(e.message||'Publish failed','error');
+    if(/Bad credentials|401|403/i.test(String(e.message||''))){
+      try{CocGitHubPublish.setToken('');}catch(x){}
+      toast('Token rejected — re-try Publish and enter a valid PAT','warning');
+    }
+  }finally{
+    [btn,btn2].forEach(b=>{if(b){b.disabled=false;b.textContent='↑ Publish Editorial';}});
+  }
 }
 // Expose handlers for inline onclick= (global)
 window.doScan=doScan;
@@ -794,10 +917,10 @@ window.pullImg=pullImg;
 window.saveAutoPub=saveAutoPub;
 window.openEditorial=openEditorial;
 window.hideEd=hideEd;
-window.loadEditorialFile=loadEditorialFile;
 window.forceEditorialDraft=forceEditorialDraft;
 window.saveEditorial=saveEditorial;
-window.markPublished=markPublished;
+window.previewEditorial=previewEditorial;
+window.publishEditorialToGitHub=publishEditorialToGitHub;
 window.updImg=updImg;
 window.updEdImg=updEdImg;
 window.hide=hide;

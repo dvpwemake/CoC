@@ -364,6 +364,7 @@ nav.cats::-webkit-scrollbar{display:none}
 .tag.space{color:var(--space);background:rgba(106,98,136,.1)}
 .tag.energy{color:var(--energy);background:rgba(138,122,72,.12)}
 .tag.neuroscience{color:var(--neuro);background:rgba(138,101,80,.1)}
+.tag.editorial{color:var(--gold);background:rgba(184,145,58,.14)}
 .n-title{font-family:var(--serif);font-size:1.12rem;font-weight:700;line-height:1.3;margin-bottom:.4rem;color:var(--ink)}
 .n-sum{font-size:.9rem;color:var(--muted);line-height:1.5;flex:1}
 .n-src{margin-top:.75rem;font-size:.7rem;letter-spacing:.08em;text-transform:uppercase;color:var(--gold-deep);font-weight:600}
@@ -421,6 +422,7 @@ footer a{color:var(--gold-deep);text-decoration:underline;text-underline-offset:
     <button type="button" class="cat-pill" data-cat="space">Space</button>
     <button type="button" class="cat-pill" data-cat="energy">Energy</button>
     <button type="button" class="cat-pill" data-cat="neuroscience">Neuro</button>
+    <button type="button" class="cat-pill" data-cat="editorial">Editorial</button>
   </nav>
 </div>
 
@@ -545,7 +547,7 @@ const EMBEDDED_DATA = [
   }
 ];
 
-const CATS={ai:'AI',art:'Art',robotics:'Robotics',biotech:'Biotech',space:'Space',energy:'Energy',neuroscience:'Neuroscience'};
+const CATS={ai:'AI',art:'Art',robotics:'Robotics',biotech:'Biotech',space:'Space',energy:'Energy',neuroscience:'Neuroscience',editorial:'Editorial'};
 const PAGE_SIZE=12;
 let allB=[], aCat='all', shown=0, activeEditorial=null;
 
@@ -869,7 +871,7 @@ function renderEditorial(){
       <h2 itemprop="headline">${esc(ed.title||'Editorial')}</h2>
       <p class="ed-dek" itemprop="description">${esc(ed.dek||'')}</p>
       ${byline}
-      <div class="ed-meta">${esc(ed.themeLabel||'Convergence')} · about ${ed.wordCount||paras.join(' ').split(/\s+/).length} words</div>
+      <div class="ed-meta">Daily editorial · about ${ed.wordCount||paras.join(' ').split(/\s+/).length} words</div>
       <div class="ed-prose" itemprop="articleBody">${prose}</div>
     </div>
   </article>`;

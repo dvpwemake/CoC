@@ -68,7 +68,7 @@ function createDraftForDate(publishDate, { force = false } = {}) {
     console.log('Draft already exists for', publishDate);
     return store.drafts[publishDate];
   }
-  const headlines = recentHeadlines(8);
+  const headlines = recentHeadlines(12);
   const result = CocEditorial.createDraftForDate(store, publishDate, headlines, { force: true });
   saveJson(EDITORIAL_PATH, result.store);
   const draft = result.draft;
@@ -79,16 +79,129 @@ function createDraftForDate(publishDate, { force = false } = {}) {
   return draft;
 }
 
-function publishDate(dateStr) {
-  const store = ensureStore();
-  if (!store.drafts[dateStr]) {
-    console.warn('No draft for', dateStr, '— generating then publishing');
-    createDraftForDate(dateStr, { force: true });
+function isOutlineBrief(ed) {
+  if (!ed) return false;
+  if (ed.draftKind === 'outline' || ed.formId === 'outline_brief' || ed.themeId === 'outline') return true;
+  const blob = String(ed.title || '') + '\n' + String(ed.body || '');
+  return (
+    /EDITORIAL BRIEF\s*\(outline only/i.test(blob) ||
+    /^Editorial brief\s*[—–-]/i.test(String(ed.title || '').trim())
+  );
+}
+
+/** Previous published editorial → field-signal card for the news timeline. */
+function previousEditorialAsNewsItem(ed) {
+  if (!ed || !ed.title) return null;
+  const paras =
+    ed.paragraphs && ed.paragraphs.length
+      ? ed.paragraphs
+      : String(ed.body || '')
+          .split(/\n\n+/)
+          .map((p) => p.trim())
+          .filter(Boolean);
+  let summary = String(ed.dek || paras[0] || '').replace(/\s+/g, ' ').trim();
+  if (summary.length > 220) {
+    const cut = summary.slice(0, 220);
+    const sp = cut.lastIndexOf(' ');
+    summary = (sp > 120 ? cut.slice(0, sp) : cut).trim() + '…';
   }
-  const ed = store.drafts[dateStr];
+  const date = ed.publishDate || (ed.publishedAt || '').slice(0, 10) || 'unknown';
+  return {
+    id: 'editorial_' + date,
+    rank: 0,
+    title: ed.title,
+    category: 'editorial',
+    summary,
+    image: ed.heroImage || '',
+    source: 'Chronicle of Convergence · Editorial',
+    sourceUrl: 'https://chronicleofconvergence.com/#editorial',
+    isEditorialArchive: true,
+    publishDate: date,
+    authorName: ed.authorName || 'Dr. Wallace Lynch'
+  };
+}
+
+/**
+ * Append previous live editorial into data/archive.json as a timeline card batch.
+ */
+function archivePreviousEditorialAsNews(prevEd) {
+  const item = previousEditorialAsNewsItem(prevEd);
+  if (!item) return null;
+  const {
+    loadArchive,
+    saveArchive,
+    replaceEmbeddedData,
+    dayKey
+  } = require('./archive-utils.js');
+  let existing = loadArchive(ROOT);
+  const batchId = 'editorial_' + (item.publishDate || dayKey(new Date().toISOString()));
+  // Replace same-day editorial archive card if republishing
+  existing = existing.filter((b) => String(b.batchId || '') !== batchId);
+  const batch = {
+    batchId,
+    scannedAt: (prevEd.publishedAt || prevEd.updatedAt || new Date().toISOString()),
+    kind: 'editorial_archive',
+    items: [item]
+  };
+  existing.unshift(batch);
+  const saved = saveArchive(ROOT, existing);
+  // Keep slim embed as newest non-editorial scan when possible
+  const head =
+    saved.find((b) => String(b.batchId || '').startsWith('auto_')) || saved[0];
+  if (fs.existsSync(INDEX_PATH) && head) {
+    let html = fs.readFileSync(INDEX_PATH, 'utf8');
+    try {
+      html = replaceEmbeddedData(html, [head]);
+      fs.writeFileSync(INDEX_PATH, html);
+    } catch (e) {
+      console.warn('archive embed update:', e.message);
+    }
+  }
+  console.log('Archived previous editorial as news card:', item.title);
+  return item;
+}
+
+/**
+ * Publish final prose for dateStr.
+ * - Rejects outline briefs
+ * - Moves current published → history + field-signal archive card
+ * - Sets new published + injects index embed
+ */
+function publishDate(dateStr, { allowOutline = false } = {}) {
+  const store = ensureStore();
+  let ed = store.drafts[dateStr];
+  if (!ed && store.published && store.published.publishDate === dateStr) {
+    ed = store.published;
+  }
+  if (!ed) {
+    console.warn('No draft for', dateStr, '— cannot publish empty day');
+    return null;
+  }
+  if (!allowOutline && isOutlineBrief(ed)) {
+    console.warn('Refuse to auto-publish outline brief for', dateStr);
+    return null;
+  }
+  const wc = CocEditorial.wordCount(ed.body || (ed.paragraphs || []).join(' '));
+  if (wc < 120 && !allowOutline) {
+    console.warn('Refuse to publish short body for', dateStr, 'words=', wc);
+    return null;
+  }
+
+  const prev = store.published;
+  if (prev && prev.publishDate && prev.publishDate !== dateStr && !isOutlineBrief(prev)) {
+    try {
+      archivePreviousEditorialAsNews(prev);
+    } catch (e) {
+      console.warn('Could not archive previous editorial to news timeline:', e.message);
+    }
+  }
+
   ed.status = 'published';
   ed.publishedAt = new Date().toISOString();
   ed.updatedAt = ed.publishedAt;
+  delete ed.draftKind;
+  if (ed.themeId === 'outline') delete ed.themeId;
+  if (ed.formId === 'outline_brief') delete ed.formId;
   if (!ed.paragraphs || !ed.paragraphs.length) {
     ed.paragraphs = String(ed.body || '')
       .split(/\n\n+/)
@@ -111,8 +224,8 @@ function publishDate(dateStr) {
     ed.body = chunks.join('\n\n');
   }
   store.published = ed;
-  store.history = [ed, ...(store.history || [])].slice(0, 60);
-  delete store.drafts[dateStr];
+  store.history = [ed, ...(store.history || []).filter((h) => h && h.id !== ed.id)].slice(0, 60);
+  if (store.drafts) delete store.drafts[dateStr];
   if (ed.heroImage) {
     const used = new Set(store.usedHeroImages || []);
     used.add(ed.heroImage);
@@ -120,7 +233,7 @@ function publishDate(dateStr) {
   }
   saveJson(EDITORIAL_PATH, store);
   injectIntoIndex(ed);
-  console.log('Published editorial for', dateStr, 'paras=', ed.paragraphs.length, 'form=', ed.formId || '—');
+  console.log('Published editorial for', dateStr, 'paras=', ed.paragraphs.length);
   return ed;
 }
 
@@ -155,20 +268,34 @@ function injectIntoIndex(ed) {
 
 function draftIfDue() {
   const ny = nyParts();
-  if (ny.hour !== 21 && process.env.FORCE_EDITORIAL !== '1') {
-    console.log(`Skip draft: NY hour is ${ny.hour}, need 21 (or FORCE_EDITORIAL=1)`);
-    return null;
+  // After news exists, always allow next-day outline in a wide evening window
+  // (GitHub Actions is often 1–3h late; exact hour===21 was the skip bug).
+  if (process.env.FORCE_EDITORIAL !== '1') {
+    if (ny.hour < 20 || ny.hour > 23) {
+      console.log(`Skip draft: NY hour is ${ny.hour}, need 20–23 ET (or FORCE_EDITORIAL=1)`);
+      return null;
+    }
   }
-  return createDraftForDate(addDaysNy(ny.dateStr, 1));
+  // Next calendar day outline for admin (9pm pipeline)
+  return createDraftForDate(addDaysNy(ny.dateStr, 1), { force: false });
 }
 
 function publishIfDue() {
   const ny = nyParts();
-  if (ny.hour !== 8 && process.env.FORCE_EDITORIAL !== '1') {
-    console.log(`Skip publish: NY hour is ${ny.hour}, need 8 (or FORCE_EDITORIAL=1)`);
-    return null;
+  // Wide morning window: 7–10 ET (Actions delay)
+  if (process.env.FORCE_EDITORIAL !== '1') {
+    if (ny.hour < 7 || ny.hour > 10) {
+      console.log(`Skip publish: NY hour is ${ny.hour}, need 7–10 ET (or FORCE_EDITORIAL=1)`);
+      return null;
+    }
   }
   return publishDate(ny.dateStr);
+}
+
+/** After a news crawl: force outline for today from latest archive headlines. */
+function outlineAfterCrawl() {
+  const ny = nyParts();
+  return createDraftForDate(ny.dateStr, { force: true });
 }
 
 module.exports = {
@@ -181,8 +308,12 @@ module.exports = {
   publishDate,
   draftIfDue,
   publishIfDue,
+  outlineAfterCrawl,
   injectIntoIndex,
   ensureStore,
   EDITORIAL_PATH,
+  isOutlineBrief,
+  previousEditorialAsNewsItem,
+  archivePreviousEditorialAsNews,
   wordCount
 };

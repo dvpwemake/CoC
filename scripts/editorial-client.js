@@ -145,7 +145,7 @@
    * Prefer latest scan batches; one story per category when possible, then fill.
    */
   function headlinesFromArchive(archive, n) {
-    n = n || 8;
+    n = n || 12;
     const list = Array.isArray(archive) ? archive.slice() : [];
     list.sort((a, b) => new Date(b.scannedAt || 0) - new Date(a.scannedAt || 0));
     const seen = new Set();

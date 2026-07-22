@@ -30,7 +30,8 @@ jobs:
         run: |
           git config user.name "Chronicle Bot"
           git config user.email "bot@chronicleofconvergence.com"
-          git add index.html data/archive.json data/archive_part*.json
+          # Crawl updates archive + index; also writes editorial outline draft
+          git add index.html data/archive.json data/archive_part*.json data/editorial.json
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else

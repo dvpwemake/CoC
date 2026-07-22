@@ -39,7 +39,8 @@ jobs:
         run: |
           git config user.name "Chronicle Bot"
           git config user.email "bot@chronicleofconvergence.com"
-          git add data/editorial.json index.html
+          # Publish may archive previous editorial into news timeline (archive.json)
+          git add data/editorial.json data/archive.json data/archive_part*.json index.html
           if git diff --cached --quiet; then
             echo "No publish changes"
           else
