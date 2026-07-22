@@ -1,5 +1,25 @@
 [
   {
+    "batchId": "editorial_2026-07-20",
+    "scannedAt": "2026-07-20T16:03:59.666Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-07-20",
+        "rank": 0,
+        "title": "Sacred rooms and civic streets",
+        "category": "editorial",
+        "summary": "Sacred rooms and civic streets—a short editorial on attention under pressure.",
+        "image": "https://images-assets.nasa.gov/image/PIA18033/PIA18033~medium.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/#editorial",
+        "isEditorialArchive": true,
+        "publishDate": "2026-07-20",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-07-22T20-50",
     "scannedAt": "2026-07-22T20:50:38.346Z",
     "items": [
