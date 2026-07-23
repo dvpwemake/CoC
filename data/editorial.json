@@ -31,29 +31,29 @@
       "status": "draft",
       "draftKind": "outline",
       "createdAt": "2026-07-22T13:14:55.413Z",
-      "updatedAt": "2026-07-23T10:08:11.411Z",
+      "updatedAt": "2026-07-23T13:16:02.971Z",
       "title": "Editorial brief — 2026-07-23",
       "dek": "Outline of selected article titles and key points for admin to write the final editorial.",
-      "body": "EDITORIAL BRIEF (outline only — not for publication as-is)\nPublish date: 2026-07-23\nInstruction: Use the titles and key points below to write the final ~300-word CoC editorial. Replace this entire brief with your finished prose before publishing.\n\n— Selected articles of the day (12) —\n\n1. [AI] Gemini 3.6 Flash and 3.5 Flash-Lite now available through official API for developers and AI agents\n   Source: X · @web3l0var\n   URL: https://x.com/web3l0var/status/2079909448219271368\n   Key points:\n   • Model ecosystem expansion: Gemini 3.6 Flash and Gemini 3.5 Flash-Lite via official API access.\n\n2. [Art] David Hockney’s Endless Scroll\n   Source: Hyperallergic\n   URL: https://hyperallergic.com/david-hockneys-endless-scroll/\n   Key points:\n   • The late artist’s digital paintings at Serpentine, Tate gets a new director, beyond the myth of Brazilian modernist Chico da Silva, and more.\n\n3. [Biotech] Filing of bipartisan Senate bill boosts momentum for office of men’s health\n   Source: STAT News\n   URL: https://www.statnews.com/2026/07/23/federal-office-mens-health-bipartisan-bill-filed-momentum-grows/?utm_campaign=rss\n   Key points:\n   • Mirroring the bipartisan bill introduced in the House, the measure would require a study from the GAO on the state of men’s health in the U.S.\n\n4. [editorial] Sacred rooms and civic streets\n   Source: Chronicle of Convergence · Editorial\n   URL: https://chronicleofconvergence.com/#editorial\n   Key points:\n   • Sacred rooms and civic streets—a short editorial on attention under pressure.\n\n5. [Energy] Solar is booming in Indiana. Not everyone is happy about it.\n   Source: Canary Media\n   URL: https://www.canarymedia.com/articles/solar/indiana-quietly-became-a-solar-giant-not-everyone-is-happy\n   Key points:\n   • When the largest solar farm in Indiana came online in early 2025, nearby residents in rural Jasper County were not exactly excited.\n   • “It will mess up their fields,” said long-time resident Gena Carlson, referring to…\n\n6. [Neuroscience] New Chip Matches Real-Time Human Brain Speed\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/memristor-chip-brain-speed-neurotech-31110/\n   Key points:\n   • A new study presents the world's first neuromorphic chip capable of matching the operational speed of the human brain.\n\n7. [Robotics] How Small Waco Businesses Are Competing With National Chains Online\n   Source: Robotics & Automation News\n   URL: https://roboticsandautomationnews.com/2026/07/23/how-small-waco-businesses-are-competing-with-national-chains-online/103611/\n   Key points:\n   • A common misconception among small business owners is that competing online against national chains requires a comparable marketing budget – that SEO is a game for companies with large teams and deep resources.\n\n8. [Space] NASA to Showcase Agency’s Newest Wind Tunnel in Virginia\n   Source: NASA\n   URL: https://www.nasa.gov/news-release/nasa-to-showcase-agencys-newest-wind-tunnel-in-virginia/\n   Key points:\n   • Media are invited to NASA’s Langley Research Center in Hampton, Virginia, on Friday, July 31, to attend a media tour and ribbon-cutting ceremony for the Flight Dynamics Research Facility, the agency’s first new wind…\n\n9. [Art] Tate Names Dia Leader Jessica Morgan as Next Director\n   Source: Hyperallergic\n   URL: https://hyperallergic.com/tate-names-dia-leader-jessica-morgan-as-next-director/\n   Key points:\n   • The British curator will return to London to helm the museum network beginning next year.\n\n10. [Robotics] Orania Limited’s 5-Layer Approach to Platform Data Governance\n   Source: Robotics & Automation News\n   URL: https://roboticsandautomationnews.com/2026/07/22/platform-data-governance-orania-limited/103600/\n   Key points:\n   • Data governance is one of those disciplines that most platforms know they need and few feel they've actually figured out.\n   • The concept is straightforward enough: ensure data is managed properly, protected appropriately,…\n\n11. [Neuroscience] Digital Media Alters Cognitive Willingness\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/digital-media-cognitive-willingness-31099/\n   Key points:\n   • A new study proposes that digital media usage alters human focus through a mechanism called \"effort recalibration.\"\n\n12. [Art] SVA Grads Make Art out of History’s Rubble\n   Source: Hyperallergic\n   URL: https://hyperallergic.com/sva-grads-make-art-out-of-historys-rubble/\n   Key points:\n   • The Art Practice MFA thesis exhibition rewrites what came before, pushing back against harmful systems and inventing better ways of living together.\n\n— Categories present —\nAI · Art · Biotech · editorial · Energy · Neuroscience · Robotics · Space\n\n— Admin checklist —\n• Draft original title + dek\n• Write body (~280–320 words) in CoC voice\n• Set hero image URL + credit\n• Mark published when ready",
+      "body": "EDITORIAL BRIEF (outline only — not for publication as-is)\nPublish date: 2026-07-23\nInstruction: Use the titles and key points below to write the final ~300-word CoC editorial. Replace this entire brief with your finished prose before publishing.\n\n— Selected articles of the day (12) —\n\n1. [AI] Gemini 3.6 Flash and 3.5 Flash-Lite now available through official API for developers and AI agents\n   Source: X · @web3l0var\n   URL: https://x.com/web3l0var/status/2079909448219271368\n   Key points:\n   • Model ecosystem expansion: Gemini 3.6 Flash and Gemini 3.5 Flash-Lite via official API access.\n\n2. [Art] David Hockney’s Endless Scroll\n   Source: Hyperallergic\n   URL: https://hyperallergic.com/david-hockneys-endless-scroll/\n   Key points:\n   • The late artist’s digital paintings at Serpentine, Tate gets a new director, beyond the myth of Brazilian modernist Chico da Silva, and more.\n\n3. [Biotech] STAT+: HHS to convene experts on standards for clinical AI\n   Source: STAT News\n   URL: https://www.statnews.com/2026/07/23/hhs-convenes-experts-on-clinical-ai-health-tech/?utm_campaign=rss\n   Key points:\n   • In this edition of STAT Health Tech: HHS is inviting experts to shape policy on clinical AI, Whoop's new CMO, news about brain implants, and more.\n\n4. [editorial] Sacred rooms and civic streets\n   Source: Chronicle of Convergence · Editorial\n   URL: https://chronicleofconvergence.com/#editorial\n   Key points:\n   • Sacred rooms and civic streets—a short editorial on attention under pressure.\n\n5. [Energy] Startup offers low-cost home batteries to Massachusetts residents\n   Source: Canary Media\n   URL: https://www.canarymedia.com/articles/batteries/haven-energy-low-cost-batteries-massachusetts\n   Key points:\n   • Haven Energy is the newest company offering home battery service in Massachusetts for a low monthly payment, a model supporters say could accelerate adoption of residential storage.\n   • Starting in four counties in the…\n\n6. [Neuroscience] New Chip Matches Real-Time Human Brain Speed\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/memristor-chip-brain-speed-neurotech-31110/\n   Key points:\n   • A new study presents the world's first neuromorphic chip capable of matching the operational speed of the human brain.\n\n7. [Robotics] How Small Waco Businesses Are Competing With National Chains Online\n   Source: Robotics & Automation News\n   URL: https://roboticsandautomationnews.com/2026/07/23/how-small-waco-businesses-are-competing-with-national-chains-online/103611/\n   Key points:\n   • A common misconception among small business owners is that competing online against national chains requires a comparable marketing budget – that SEO is a game for companies with large teams and deep resources.\n\n8. [Space] Airbus space business takes advantage of growing demand for satellite systems\n   Source: SpaceNews\n   URL: https://spacenews.com/airbus-space-business-takes-advantage-of-growing-demand-for-satellite-systems/\n   Key points:\n   • Airbus executives say the turnaround in the company’s space business came just in time to tap growing demand, particularly from Europe, for space capabilities as it pursues a joint venture.\n\n9. [Art] Tate Names Dia Leader Jessica Morgan as Next Director\n   Source: Hyperallergic\n   URL: https://hyperallergic.com/tate-names-dia-leader-jessica-morgan-as-next-director/\n   Key points:\n   • The British curator will return to London to helm the museum network beginning next year.\n\n10. [Robotics] Orania Limited’s 5-Layer Approach to Platform Data Governance\n   Source: Robotics & Automation News\n   URL: https://roboticsandautomationnews.com/2026/07/22/platform-data-governance-orania-limited/103600/\n   Key points:\n   • Data governance is one of those disciplines that most platforms know they need and few feel they've actually figured out.\n   • The concept is straightforward enough: ensure data is managed properly, protected appropriately,…\n\n11. [Space] NASA to Showcase Agency’s Newest Wind Tunnel in Virginia\n   Source: NASA\n   URL: https://www.nasa.gov/news-release/nasa-to-showcase-agencys-newest-wind-tunnel-in-virginia/\n   Key points:\n   • Media are invited to NASA’s Langley Research Center in Hampton, Virginia, on Friday, July 31, to attend a media tour and ribbon-cutting ceremony for the Flight Dynamics Research Facility, the agency’s first new wind…\n\n12. [Neuroscience] Digital Media Alters Cognitive Willingness\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/digital-media-cognitive-willingness-31099/\n   Key points:\n   • A new study proposes that digital media usage alters human focus through a mechanism called \"effort recalibration.\"\n\n— Categories present —\nAI · Art · Biotech · editorial · Energy · Neuroscience · Robotics · Space\n\n— Admin checklist —\n• Draft original title + dek\n• Write body (~280–320 words) in CoC voice\n• Set hero image URL + credit\n• Mark published when ready",
       "paragraphs": [
         "EDITORIAL BRIEF (outline only — not for publication as-is)\nPublish date: 2026-07-23\nInstruction: Use the titles and key points below to write the final ~300-word CoC editorial. Replace this entire brief with your finished prose before publishing.",
         "— Selected articles of the day (12) —",
         "1. [AI] Gemini 3.6 Flash and 3.5 Flash-Lite now available through official API for developers and AI agents\n   Source: X · @web3l0var\n   URL: https://x.com/web3l0var/status/2079909448219271368\n   Key points:\n   • Model ecosystem expansion: Gemini 3.6 Flash and Gemini 3.5 Flash-Lite via official API access.",
         "2. [Art] David Hockney’s Endless Scroll\n   Source: Hyperallergic\n   URL: https://hyperallergic.com/david-hockneys-endless-scroll/\n   Key points:\n   • The late artist’s digital paintings at Serpentine, Tate gets a new director, beyond the myth of Brazilian modernist Chico da Silva, and more.",
-        "3. [Biotech] Filing of bipartisan Senate bill boosts momentum for office of men’s health\n   Source: STAT News\n   URL: https://www.statnews.com/2026/07/23/federal-office-mens-health-bipartisan-bill-filed-momentum-grows/?utm_campaign=rss\n   Key points:\n   • Mirroring the bipartisan bill introduced in the House, the measure would require a study from the GAO on the state of men’s health in the U.S.",
+        "3. [Biotech] STAT+: HHS to convene experts on standards for clinical AI\n   Source: STAT News\n   URL: https://www.statnews.com/2026/07/23/hhs-convenes-experts-on-clinical-ai-health-tech/?utm_campaign=rss\n   Key points:\n   • In this edition of STAT Health Tech: HHS is inviting experts to shape policy on clinical AI, Whoop's new CMO, news about brain implants, and more.",
         "4. [editorial] Sacred rooms and civic streets\n   Source: Chronicle of Convergence · Editorial\n   URL: https://chronicleofconvergence.com/#editorial\n   Key points:\n   • Sacred rooms and civic streets—a short editorial on attention under pressure.",
-        "5. [Energy] Solar is booming in Indiana. Not everyone is happy about it.\n   Source: Canary Media\n   URL: https://www.canarymedia.com/articles/solar/indiana-quietly-became-a-solar-giant-not-everyone-is-happy\n   Key points:\n   • When the largest solar farm in Indiana came online in early 2025, nearby residents in rural Jasper County were not exactly excited.\n   • “It will mess up their fields,” said long-time resident Gena Carlson, referring to…",
+        "5. [Energy] Startup offers low-cost home batteries to Massachusetts residents\n   Source: Canary Media\n   URL: https://www.canarymedia.com/articles/batteries/haven-energy-low-cost-batteries-massachusetts\n   Key points:\n   • Haven Energy is the newest company offering home battery service in Massachusetts for a low monthly payment, a model supporters say could accelerate adoption of residential storage.\n   • Starting in four counties in the…",
         "6. [Neuroscience] New Chip Matches Real-Time Human Brain Speed\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/memristor-chip-brain-speed-neurotech-31110/\n   Key points:\n   • A new study presents the world's first neuromorphic chip capable of matching the operational speed of the human brain.",
         "7. [Robotics] How Small Waco Businesses Are Competing With National Chains Online\n   Source: Robotics & Automation News\n   URL: https://roboticsandautomationnews.com/2026/07/23/how-small-waco-businesses-are-competing-with-national-chains-online/103611/\n   Key points:\n   • A common misconception among small business owners is that competing online against national chains requires a comparable marketing budget – that SEO is a game for companies with large teams and deep resources.",
-        "8. [Space] NASA to Showcase Agency’s Newest Wind Tunnel in Virginia\n   Source: NASA\n   URL: https://www.nasa.gov/news-release/nasa-to-showcase-agencys-newest-wind-tunnel-in-virginia/\n   Key points:\n   • Media are invited to NASA’s Langley Research Center in Hampton, Virginia, on Friday, July 31, to attend a media tour and ribbon-cutting ceremony for the Flight Dynamics Research Facility, the agency’s first new wind…",
+        "8. [Space] Airbus space business takes advantage of growing demand for satellite systems\n   Source: SpaceNews\n   URL: https://spacenews.com/airbus-space-business-takes-advantage-of-growing-demand-for-satellite-systems/\n   Key points:\n   • Airbus executives say the turnaround in the company’s space business came just in time to tap growing demand, particularly from Europe, for space capabilities as it pursues a joint venture.",
         "9. [Art] Tate Names Dia Leader Jessica Morgan as Next Director\n   Source: Hyperallergic\n   URL: https://hyperallergic.com/tate-names-dia-leader-jessica-morgan-as-next-director/\n   Key points:\n   • The British curator will return to London to helm the museum network beginning next year.",
         "10. [Robotics] Orania Limited’s 5-Layer Approach to Platform Data Governance\n   Source: Robotics & Automation News\n   URL: https://roboticsandautomationnews.com/2026/07/22/platform-data-governance-orania-limited/103600/\n   Key points:\n   • Data governance is one of those disciplines that most platforms know they need and few feel they've actually figured out.\n   • The concept is straightforward enough: ensure data is managed properly, protected appropriately,…",
-        "11. [Neuroscience] Digital Media Alters Cognitive Willingness\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/digital-media-cognitive-willingness-31099/\n   Key points:\n   • A new study proposes that digital media usage alters human focus through a mechanism called \"effort recalibration.\"",
-        "12. [Art] SVA Grads Make Art out of History’s Rubble\n   Source: Hyperallergic\n   URL: https://hyperallergic.com/sva-grads-make-art-out-of-historys-rubble/\n   Key points:\n   • The Art Practice MFA thesis exhibition rewrites what came before, pushing back against harmful systems and inventing better ways of living together.",
+        "11. [Space] NASA to Showcase Agency’s Newest Wind Tunnel in Virginia\n   Source: NASA\n   URL: https://www.nasa.gov/news-release/nasa-to-showcase-agencys-newest-wind-tunnel-in-virginia/\n   Key points:\n   • Media are invited to NASA’s Langley Research Center in Hampton, Virginia, on Friday, July 31, to attend a media tour and ribbon-cutting ceremony for the Flight Dynamics Research Facility, the agency’s first new wind…",
+        "12. [Neuroscience] Digital Media Alters Cognitive Willingness\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/digital-media-cognitive-willingness-31099/\n   Key points:\n   • A new study proposes that digital media usage alters human focus through a mechanism called \"effort recalibration.\"",
         "— Categories present —\nAI · Art · Biotech · editorial · Energy · Neuroscience · Robotics · Space",
         "— Admin checklist —\n• Draft original title + dek\n• Write body (~280–320 words) in CoC voice\n• Set hero image URL + credit\n• Mark published when ready"
       ],
-      "wordCount": 605,
+      "wordCount": 609,
       "themeId": "outline",
       "themeLabel": "Admin outline (titles + key points)",
       "formId": "outline_brief",
@@ -86,13 +86,13 @@
           ]
         },
         {
-          "title": "Filing of bipartisan Senate bill boosts momentum for office of men’s health",
+          "title": "STAT+: HHS to convene experts on standards for clinical AI",
           "source": "STAT News",
           "category": "biotech",
-          "sourceUrl": "https://www.statnews.com/2026/07/23/federal-office-mens-health-bipartisan-bill-filed-momentum-grows/?utm_campaign=rss",
-          "summary": "Mirroring the bipartisan bill introduced in the House, the measure would require a study from the GAO on the state of men’s health in the U.S. to be presented within…",
+          "sourceUrl": "https://www.statnews.com/2026/07/23/hhs-convenes-experts-on-clinical-ai-health-tech/?utm_campaign=rss",
+          "summary": "In this edition of STAT Health Tech: HHS is inviting experts to shape policy on clinical AI, Whoop's new CMO, news about brain implants, and more.",
           "keyPoints": [
-            "Mirroring the bipartisan bill introduced in the House, the measure would require a study from the GAO on the state of men’s health in the U.S."
+            "In this edition of STAT Health Tech: HHS is inviting experts to shape policy on clinical AI, Whoop's new CMO, news about brain implants, and more."
           ]
         },
         {
@@ -106,14 +106,14 @@
           ]
         },
         {
-          "title": "Solar is booming in Indiana. Not everyone is happy about it.",
+          "title": "Startup offers low-cost home batteries to Massachusetts residents",
           "source": "Canary Media",
           "category": "energy",
-          "sourceUrl": "https://www.canarymedia.com/articles/solar/indiana-quietly-became-a-solar-giant-not-everyone-is-happy",
-          "summary": "When the largest solar farm in Indiana came online in early 2025, nearby residents in rural Jasper County were not exactly excited. “It will mess up their fields,” said long-time resident Gena Carlson, referring to…",
+          "sourceUrl": "https://www.canarymedia.com/articles/batteries/haven-energy-low-cost-batteries-massachusetts",
+          "summary": "Haven Energy is the newest company offering home battery service in Massachusetts for a low monthly payment, a model supporters say could accelerate adoption of residential storage. Starting in four counties in the…",
           "keyPoints": [
-            "When the largest solar farm in Indiana came online in early 2025, nearby residents in rural Jasper County were not exactly excited.",
-            "“It will mess up their fields,” said long-time resident Gena Carlson, referring to…"
+            "Haven Energy is the newest company offering home battery service in Massachusetts for a low monthly payment, a model supporters say could accelerate adoption of residential storage.",
+            "Starting in four counties in the…"
           ]
         },
         {
@@ -137,13 +137,13 @@
           ]
         },
         {
-          "title": "NASA to Showcase Agency’s Newest Wind Tunnel in Virginia",
-          "source": "NASA",
+          "title": "Airbus space business takes advantage of growing demand for satellite systems",
+          "source": "SpaceNews",
           "category": "space",
-          "sourceUrl": "https://www.nasa.gov/news-release/nasa-to-showcase-agencys-newest-wind-tunnel-in-virginia/",
-          "summary": "Media are invited to NASA’s Langley Research Center in Hampton, Virginia, on Friday, July 31, to attend a media tour and ribbon-cutting ceremony for the Flight Dynamics Research Facility, the agency’s first new wind…",
+          "sourceUrl": "https://spacenews.com/airbus-space-business-takes-advantage-of-growing-demand-for-satellite-systems/",
+          "summary": "Airbus executives say the turnaround in the company’s space business came just in time to tap growing demand, particularly from Europe, for space capabilities as it pursues a joint venture. The post Airbus space…",
           "keyPoints": [
-            "Media are invited to NASA’s Langley Research Center in Hampton, Virginia, on Friday, July 31, to attend a media tour and ribbon-cutting ceremony for the Flight Dynamics Research Facility, the agency’s first new wind…"
+            "Airbus executives say the turnaround in the company’s space business came just in time to tap growing demand, particularly from Europe, for space capabilities as it pursues a joint venture."
           ]
         },
         {
@@ -168,6 +168,16 @@
           ]
         },
         {
+          "title": "NASA to Showcase Agency’s Newest Wind Tunnel in Virginia",
+          "source": "NASA",
+          "category": "space",
+          "sourceUrl": "https://www.nasa.gov/news-release/nasa-to-showcase-agencys-newest-wind-tunnel-in-virginia/",
+          "summary": "Media are invited to NASA’s Langley Research Center in Hampton, Virginia, on Friday, July 31, to attend a media tour and ribbon-cutting ceremony for the Flight Dynamics Research Facility, the agency’s first new wind…",
+          "keyPoints": [
+            "Media are invited to NASA’s Langley Research Center in Hampton, Virginia, on Friday, July 31, to attend a media tour and ribbon-cutting ceremony for the Flight Dynamics Research Facility, the agency’s first new wind…"
+          ]
+        },
+        {
           "title": "Digital Media Alters Cognitive Willingness",
           "source": "Neuroscience News",
           "category": "neuroscience",
@@ -175,16 +185,6 @@
           "summary": "A new study proposes that digital media usage alters human focus through a mechanism called \"effort recalibration.\"",
           "keyPoints": [
             "A new study proposes that digital media usage alters human focus through a mechanism called \"effort recalibration.\""
-          ]
-        },
-        {
-          "title": "SVA Grads Make Art out of History’s Rubble",
-          "source": "Hyperallergic",
-          "category": "art",
-          "sourceUrl": "https://hyperallergic.com/sva-grads-make-art-out-of-historys-rubble/",
-          "summary": "The Art Practice MFA thesis exhibition rewrites what came before, pushing back against harmful systems and inventing better ways of living together.",
-          "keyPoints": [
-            "The Art Practice MFA thesis exhibition rewrites what came before, pushing back against harmful systems and inventing better ways of living together."
           ]
         }
       ]
