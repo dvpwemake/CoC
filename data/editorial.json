@@ -31,23 +31,29 @@
       "status": "draft",
       "draftKind": "outline",
       "createdAt": "2026-07-22T13:14:55.413Z",
-      "updatedAt": "2026-07-22T21:11:08.359Z",
+      "updatedAt": "2026-07-23T06:21:46.070Z",
       "title": "Editorial brief — 2026-07-23",
       "dek": "Outline of selected article titles and key points for admin to write the final editorial.",
-      "body": "EDITORIAL BRIEF (outline only — not for publication as-is)\nPublish date: 2026-07-23\nInstruction: Use the titles and key points below to write the final ~300-word CoC editorial. Replace this entire brief with your finished prose before publishing.\n\n— Selected articles of the day (6) —\n\n1. [AI] Gemini 3.6 Flash and 3.5 Flash-Lite now available through official API for developers and AI agents\n   Source: X · @web3l0var\n   URL: https://x.com/web3l0var/status/2079909448219271368\n   Key points:\n   • Model ecosystem expansion: Gemini 3.6 Flash and Gemini 3.5 Flash-Lite via official API access.\n\n2. [Art] Tate Names Dia Leader Jessica Morgan as Next Director\n   Source: Hyperallergic\n   URL: https://hyperallergic.com/tate-names-dia-leader-jessica-morgan-as-next-director/\n   Key points:\n   • The British curator will return to London to helm the museum network beginning next year.\n\n3. [Biotech] Trump administration says it's deferring $1B in Medicaid payments to California and Minnesota\n   Source: STAT News\n   URL: https://www.statnews.com/2026/07/21/medicaid-payments-1-billion-deferred-california-minnesota/?utm_campaign=rss\n   Key points:\n   • The Trump administration said it was deferring more than $1 billion in Medicaid payments to Minnesota and California because of “suspected fraud and noncompliance.”\n\n4. [Energy] Startup offers low-cost home batteries to Massachusetts residents\n   Source: Canary Media\n   URL: https://www.canarymedia.com/articles/batteries/haven-energy-low-cost-batteries-massachusetts\n   Key points:\n   • Haven Energy is the newest company offering home battery service in Massachusetts for a low monthly payment, a model supporters say could accelerate adoption of residential storage.\n   • Starting in four counties in the…\n\n5. [Neuroscience] New Chip Matches Real-Time Human Brain Speed\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/memristor-chip-brain-speed-neurotech-31110/\n   Key points:\n   • A new study presents the world's first neuromorphic chip capable of matching the operational speed of the human brain.\n\n6. [Robotics] Orania Limited’s 5-Layer Approach to Platform Data Governance\n   Source: Robotics & Automation News\n   URL: https://roboticsandautomationnews.com/2026/07/22/platform-data-governance-orania-limited/103600/\n   Key points:\n   • Data governance is one of those disciplines that most platforms know they need and few feel they've actually figured out.\n   • The concept is straightforward enough: ensure data is managed properly, protected appropriately,…\n\n— Categories present —\nAI · Art · Biotech · Energy · Neuroscience · Robotics\n\n— Admin checklist —\n• Draft original title + dek\n• Write body (~280–320 words) in CoC voice\n• Set hero image URL + credit\n• Mark published when ready",
+      "body": "EDITORIAL BRIEF (outline only — not for publication as-is)\nPublish date: 2026-07-23\nInstruction: Use the titles and key points below to write the final ~300-word CoC editorial. Replace this entire brief with your finished prose before publishing.\n\n— Selected articles of the day (12) —\n\n1. [AI] Gemini 3.6 Flash and 3.5 Flash-Lite now available through official API for developers and AI agents\n   Source: X · @web3l0var\n   URL: https://x.com/web3l0var/status/2079909448219271368\n   Key points:\n   • Model ecosystem expansion: Gemini 3.6 Flash and Gemini 3.5 Flash-Lite via official API access.\n\n2. [Art] Protesters Decry Chinatown Museum’s Acceptance of “Jail Money” at Town Hall\n   Source: Hyperallergic\n   URL: https://hyperallergic.com/protesters-decry-chinatown-museums-acceptance-of-jail-money-at-town-hall/\n   Key points:\n   • Leaders of New York’s Museum of Chinese failed to persuade protesters that a $35 million grant from the city was not tied to the construction of a borough jail.\n\n3. [Biotech] Could small-team science be dying out?\n   Source: Nature\n   URL: https://www.nature.com/articles/d41586-026-02174-4\n   Key points:\n   • Nature, Published online: 23 July 2026; doi:10.1038/d41586-026-02174-4 The proportion of one- and two-author papers in the Nature Index is shrinking rapidly, as science done by big teams continues to surge.\n\n4. [editorial] Sacred rooms and civic streets\n   Source: Chronicle of Convergence · Editorial\n   URL: https://chronicleofconvergence.com/#editorial\n   Key points:\n   • Sacred rooms and civic streets—a short editorial on attention under pressure.\n\n5. [Energy] Startup offers low-cost home batteries to Massachusetts residents\n   Source: Canary Media\n   URL: https://www.canarymedia.com/articles/batteries/haven-energy-low-cost-batteries-massachusetts\n   Key points:\n   • Haven Energy is the newest company offering home battery service in Massachusetts for a low monthly payment, a model supporters say could accelerate adoption of residential storage.\n   • Starting in four counties in the…\n\n6. [Neuroscience] Fruit Flies Use Memory to Track Smells\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/memory-olfaction-navigation-31111/\n   Key points:\n   • A new study reveals that fruit flies use spatial memory, rather than simple reflexes, to track odors.\n\n7. [Robotics] Orania Limited’s 5-Layer Approach to Platform Data Governance\n   Source: Robotics & Automation News\n   URL: https://roboticsandautomationnews.com/2026/07/22/platform-data-governance-orania-limited/103600/\n   Key points:\n   • Data governance is one of those disciplines that most platforms know they need and few feel they've actually figured out.\n   • The concept is straightforward enough: ensure data is managed properly, protected appropriately,…\n\n8. [Space] China’s Shijian-31 satellite is sweeping GEO using a unique orbit\n   Source: SpaceNews\n   URL: https://spacenews.com/chinas-shijian-31-satellite-is-sweeping-geo-using-a-unique-orbit/\n   Key points:\n   • HELSINKI — A classified satellite launched by China in June is operating in a creative orbit, giving it a unique vantage point over the geostationary belt.\n   • Shijian-31 launched on a […] The post China’s Shijian-31…\n\n9. [Neuroscience] New Chip Matches Real-Time Human Brain Speed\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/memristor-chip-brain-speed-neurotech-31110/\n   Key points:\n   • A new study presents the world's first neuromorphic chip capable of matching the operational speed of the human brain.\n\n10. [Art] Tate Names Dia Leader Jessica Morgan as Next Director\n   Source: Hyperallergic\n   URL: https://hyperallergic.com/tate-names-dia-leader-jessica-morgan-as-next-director/\n   Key points:\n   • The British curator will return to London to helm the museum network beginning next year.\n\n11. [Space] NASA to Showcase Agency’s Newest Wind Tunnel in Virginia\n   Source: NASA\n   URL: https://www.nasa.gov/news-release/nasa-to-showcase-agencys-newest-wind-tunnel-in-virginia/\n   Key points:\n   • Media are invited to NASA’s Langley Research Center in Hampton, Virginia, on Friday, July 31, to attend a media tour and ribbon-cutting ceremony for the Flight Dynamics Research Facility, the agency’s first new wind…\n\n12. [Neuroscience] Digital Media Alters Cognitive Willingness\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/digital-media-cognitive-willingness-31099/\n   Key points:\n   • A new study proposes that digital media usage alters human focus through a mechanism called \"effort recalibration.\"\n\n— Categories present —\nAI · Art · Biotech · editorial · Energy · Neuroscience · Robotics · Space\n\n— Admin checklist —\n• Draft original title + dek\n• Write body (~280–320 words) in CoC voice\n• Set hero image URL + credit\n• Mark published when ready",
       "paragraphs": [
         "EDITORIAL BRIEF (outline only — not for publication as-is)\nPublish date: 2026-07-23\nInstruction: Use the titles and key points below to write the final ~300-word CoC editorial. Replace this entire brief with your finished prose before publishing.",
-        "— Selected articles of the day (6) —",
+        "— Selected articles of the day (12) —",
         "1. [AI] Gemini 3.6 Flash and 3.5 Flash-Lite now available through official API for developers and AI agents\n   Source: X · @web3l0var\n   URL: https://x.com/web3l0var/status/2079909448219271368\n   Key points:\n   • Model ecosystem expansion: Gemini 3.6 Flash and Gemini 3.5 Flash-Lite via official API access.",
-        "2. [Art] Tate Names Dia Leader Jessica Morgan as Next Director\n   Source: Hyperallergic\n   URL: https://hyperallergic.com/tate-names-dia-leader-jessica-morgan-as-next-director/\n   Key points:\n   • The British curator will return to London to helm the museum network beginning next year.",
-        "3. [Biotech] Trump administration says it's deferring $1B in Medicaid payments to California and Minnesota\n   Source: STAT News\n   URL: https://www.statnews.com/2026/07/21/medicaid-payments-1-billion-deferred-california-minnesota/?utm_campaign=rss\n   Key points:\n   • The Trump administration said it was deferring more than $1 billion in Medicaid payments to Minnesota and California because of “suspected fraud and noncompliance.”",
-        "4. [Energy] Startup offers low-cost home batteries to Massachusetts residents\n   Source: Canary Media\n   URL: https://www.canarymedia.com/articles/batteries/haven-energy-low-cost-batteries-massachusetts\n   Key points:\n   • Haven Energy is the newest company offering home battery service in Massachusetts for a low monthly payment, a model supporters say could accelerate adoption of residential storage.\n   • Starting in four counties in the…",
-        "5. [Neuroscience] New Chip Matches Real-Time Human Brain Speed\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/memristor-chip-brain-speed-neurotech-31110/\n   Key points:\n   • A new study presents the world's first neuromorphic chip capable of matching the operational speed of the human brain.",
-        "6. [Robotics] Orania Limited’s 5-Layer Approach to Platform Data Governance\n   Source: Robotics & Automation News\n   URL: https://roboticsandautomationnews.com/2026/07/22/platform-data-governance-orania-limited/103600/\n   Key points:\n   • Data governance is one of those disciplines that most platforms know they need and few feel they've actually figured out.\n   • The concept is straightforward enough: ensure data is managed properly, protected appropriately,…",
-        "— Categories present —\nAI · Art · Biotech · Energy · Neuroscience · Robotics",
+        "2. [Art] Protesters Decry Chinatown Museum’s Acceptance of “Jail Money” at Town Hall\n   Source: Hyperallergic\n   URL: https://hyperallergic.com/protesters-decry-chinatown-museums-acceptance-of-jail-money-at-town-hall/\n   Key points:\n   • Leaders of New York’s Museum of Chinese failed to persuade protesters that a $35 million grant from the city was not tied to the construction of a borough jail.",
+        "3. [Biotech] Could small-team science be dying out?\n   Source: Nature\n   URL: https://www.nature.com/articles/d41586-026-02174-4\n   Key points:\n   • Nature, Published online: 23 July 2026; doi:10.1038/d41586-026-02174-4 The proportion of one- and two-author papers in the Nature Index is shrinking rapidly, as science done by big teams continues to surge.",
+        "4. [editorial] Sacred rooms and civic streets\n   Source: Chronicle of Convergence · Editorial\n   URL: https://chronicleofconvergence.com/#editorial\n   Key points:\n   • Sacred rooms and civic streets—a short editorial on attention under pressure.",
+        "5. [Energy] Startup offers low-cost home batteries to Massachusetts residents\n   Source: Canary Media\n   URL: https://www.canarymedia.com/articles/batteries/haven-energy-low-cost-batteries-massachusetts\n   Key points:\n   • Haven Energy is the newest company offering home battery service in Massachusetts for a low monthly payment, a model supporters say could accelerate adoption of residential storage.\n   • Starting in four counties in the…",
+        "6. [Neuroscience] Fruit Flies Use Memory to Track Smells\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/memory-olfaction-navigation-31111/\n   Key points:\n   • A new study reveals that fruit flies use spatial memory, rather than simple reflexes, to track odors.",
+        "7. [Robotics] Orania Limited’s 5-Layer Approach to Platform Data Governance\n   Source: Robotics & Automation News\n   URL: https://roboticsandautomationnews.com/2026/07/22/platform-data-governance-orania-limited/103600/\n   Key points:\n   • Data governance is one of those disciplines that most platforms know they need and few feel they've actually figured out.\n   • The concept is straightforward enough: ensure data is managed properly, protected appropriately,…",
+        "8. [Space] China’s Shijian-31 satellite is sweeping GEO using a unique orbit\n   Source: SpaceNews\n   URL: https://spacenews.com/chinas-shijian-31-satellite-is-sweeping-geo-using-a-unique-orbit/\n   Key points:\n   • HELSINKI — A classified satellite launched by China in June is operating in a creative orbit, giving it a unique vantage point over the geostationary belt.\n   • Shijian-31 launched on a […] The post China’s Shijian-31…",
+        "9. [Neuroscience] New Chip Matches Real-Time Human Brain Speed\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/memristor-chip-brain-speed-neurotech-31110/\n   Key points:\n   • A new study presents the world's first neuromorphic chip capable of matching the operational speed of the human brain.",
+        "10. [Art] Tate Names Dia Leader Jessica Morgan as Next Director\n   Source: Hyperallergic\n   URL: https://hyperallergic.com/tate-names-dia-leader-jessica-morgan-as-next-director/\n   Key points:\n   • The British curator will return to London to helm the museum network beginning next year.",
+        "11. [Space] NASA to Showcase Agency’s Newest Wind Tunnel in Virginia\n   Source: NASA\n   URL: https://www.nasa.gov/news-release/nasa-to-showcase-agencys-newest-wind-tunnel-in-virginia/\n   Key points:\n   • Media are invited to NASA’s Langley Research Center in Hampton, Virginia, on Friday, July 31, to attend a media tour and ribbon-cutting ceremony for the Flight Dynamics Research Facility, the agency’s first new wind…",
+        "12. [Neuroscience] Digital Media Alters Cognitive Willingness\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/digital-media-cognitive-willingness-31099/\n   Key points:\n   • A new study proposes that digital media usage alters human focus through a mechanism called \"effort recalibration.\"",
+        "— Categories present —\nAI · Art · Biotech · editorial · Energy · Neuroscience · Robotics · Space",
         "— Admin checklist —\n• Draft original title + dek\n• Write body (~280–320 words) in CoC voice\n• Set hero image URL + credit\n• Mark published when ready"
       ],
-      "wordCount": 352,
+      "wordCount": 605,
       "themeId": "outline",
       "themeLabel": "Admin outline (titles + key points)",
       "formId": "outline_brief",
@@ -70,23 +76,33 @@
           ]
         },
         {
-          "title": "Tate Names Dia Leader Jessica Morgan as Next Director",
+          "title": "Protesters Decry Chinatown Museum’s Acceptance of “Jail Money” at Town Hall",
           "source": "Hyperallergic",
           "category": "art",
-          "sourceUrl": "https://hyperallergic.com/tate-names-dia-leader-jessica-morgan-as-next-director/",
-          "summary": "The British curator will return to London to helm the museum network beginning next year.",
+          "sourceUrl": "https://hyperallergic.com/protesters-decry-chinatown-museums-acceptance-of-jail-money-at-town-hall/",
+          "summary": "Leaders of New York’s Museum of Chinese failed to persuade protesters that a $35 million grant from the city was not tied to the construction of a borough jail.",
           "keyPoints": [
-            "The British curator will return to London to helm the museum network beginning next year."
+            "Leaders of New York’s Museum of Chinese failed to persuade protesters that a $35 million grant from the city was not tied to the construction of a borough jail."
           ]
         },
         {
-          "title": "Trump administration says it's deferring $1B in Medicaid payments to California and Minnesota",
-          "source": "STAT News",
+          "title": "Could small-team science be dying out?",
+          "source": "Nature",
           "category": "biotech",
-          "sourceUrl": "https://www.statnews.com/2026/07/21/medicaid-payments-1-billion-deferred-california-minnesota/?utm_campaign=rss",
-          "summary": "The Trump administration said it was deferring more than $1 billion in Medicaid payments to Minnesota and California because of “suspected fraud and noncompliance.”",
+          "sourceUrl": "https://www.nature.com/articles/d41586-026-02174-4",
+          "summary": "Nature, Published online: 23 July 2026; doi:10.1038/d41586-026-02174-4 The proportion of one- and two-author papers in the Nature Index is shrinking rapidly, as science done by big teams continues to surge.",
           "keyPoints": [
-            "The Trump administration said it was deferring more than $1 billion in Medicaid payments to Minnesota and California because of “suspected fraud and noncompliance.”"
+            "Nature, Published online: 23 July 2026; doi:10.1038/d41586-026-02174-4 The proportion of one- and two-author papers in the Nature Index is shrinking rapidly, as science done by big teams continues to surge."
+          ]
+        },
+        {
+          "title": "Sacred rooms and civic streets",
+          "source": "Chronicle of Convergence · Editorial",
+          "category": "editorial",
+          "sourceUrl": "https://chronicleofconvergence.com/#editorial",
+          "summary": "Sacred rooms and civic streets—a short editorial on attention under pressure.",
+          "keyPoints": [
+            "Sacred rooms and civic streets—a short editorial on attention under pressure."
           ]
         },
         {
@@ -101,13 +117,13 @@
           ]
         },
         {
-          "title": "New Chip Matches Real-Time Human Brain Speed",
+          "title": "Fruit Flies Use Memory to Track Smells",
           "source": "Neuroscience News",
           "category": "neuroscience",
-          "sourceUrl": "https://neurosciencenews.com/memristor-chip-brain-speed-neurotech-31110/",
-          "summary": "A new study presents the world's first neuromorphic chip capable of matching the operational speed of the human brain.",
+          "sourceUrl": "https://neurosciencenews.com/memory-olfaction-navigation-31111/",
+          "summary": "A new study reveals that fruit flies use spatial memory, rather than simple reflexes, to track odors.",
           "keyPoints": [
-            "A new study presents the world's first neuromorphic chip capable of matching the operational speed of the human brain."
+            "A new study reveals that fruit flies use spatial memory, rather than simple reflexes, to track odors."
           ]
         },
         {
@@ -119,6 +135,57 @@
           "keyPoints": [
             "Data governance is one of those disciplines that most platforms know they need and few feel they've actually figured out.",
             "The concept is straightforward enough: ensure data is managed properly, protected appropriately,…"
+          ]
+        },
+        {
+          "title": "China’s Shijian-31 satellite is sweeping GEO using a unique orbit",
+          "source": "SpaceNews",
+          "category": "space",
+          "sourceUrl": "https://spacenews.com/chinas-shijian-31-satellite-is-sweeping-geo-using-a-unique-orbit/",
+          "summary": "HELSINKI — A classified satellite launched by China in June is operating in a creative orbit, giving it a unique vantage point over the geostationary belt. Shijian-31 launched on a […] The post China’s Shijian-31…",
+          "keyPoints": [
+            "HELSINKI — A classified satellite launched by China in June is operating in a creative orbit, giving it a unique vantage point over the geostationary belt.",
+            "Shijian-31 launched on a […] The post China’s Shijian-31…"
+          ]
+        },
+        {
+          "title": "New Chip Matches Real-Time Human Brain Speed",
+          "source": "Neuroscience News",
+          "category": "neuroscience",
+          "sourceUrl": "https://neurosciencenews.com/memristor-chip-brain-speed-neurotech-31110/",
+          "summary": "A new study presents the world's first neuromorphic chip capable of matching the operational speed of the human brain.",
+          "keyPoints": [
+            "A new study presents the world's first neuromorphic chip capable of matching the operational speed of the human brain."
+          ]
+        },
+        {
+          "title": "Tate Names Dia Leader Jessica Morgan as Next Director",
+          "source": "Hyperallergic",
+          "category": "art",
+          "sourceUrl": "https://hyperallergic.com/tate-names-dia-leader-jessica-morgan-as-next-director/",
+          "summary": "The British curator will return to London to helm the museum network beginning next year.",
+          "keyPoints": [
+            "The British curator will return to London to helm the museum network beginning next year."
+          ]
+        },
+        {
+          "title": "NASA to Showcase Agency’s Newest Wind Tunnel in Virginia",
+          "source": "NASA",
+          "category": "space",
+          "sourceUrl": "https://www.nasa.gov/news-release/nasa-to-showcase-agencys-newest-wind-tunnel-in-virginia/",
+          "summary": "Media are invited to NASA’s Langley Research Center in Hampton, Virginia, on Friday, July 31, to attend a media tour and ribbon-cutting ceremony for the Flight Dynamics Research Facility, the agency’s first new wind…",
+          "keyPoints": [
+            "Media are invited to NASA’s Langley Research Center in Hampton, Virginia, on Friday, July 31, to attend a media tour and ribbon-cutting ceremony for the Flight Dynamics Research Facility, the agency’s first new wind…"
+          ]
+        },
+        {
+          "title": "Digital Media Alters Cognitive Willingness",
+          "source": "Neuroscience News",
+          "category": "neuroscience",
+          "sourceUrl": "https://neurosciencenews.com/digital-media-cognitive-willingness-31099/",
+          "summary": "A new study proposes that digital media usage alters human focus through a mechanism called \"effort recalibration.\"",
+          "keyPoints": [
+            "A new study proposes that digital media usage alters human focus through a mechanism called \"effort recalibration.\""
           ]
         }
       ]
