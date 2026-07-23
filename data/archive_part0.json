@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-07-23T01-21",
+    "scannedAt": "2026-07-23T01:21:06.333Z",
+    "items": [
+      {
+        "id": "auto_2026-07-23T01-21_1",
+        "rank": 1,
+        "title": "Protesters Decry Chinatown Museum’s Acceptance of “Jail Money” at Town Hall",
+        "category": "art",
+        "summary": "Leaders of New York’s Museum of Chinese failed to persuade protesters that a $35 million grant from the city was not tied to the construction of a borough jail.",
+        "image": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/07/IMG_7199-2-1.jpg",
+        "source": "Hyperallergic",
+        "sourceUrl": "https://hyperallergic.com/protesters-decry-chinatown-museums-acceptance-of-jail-money-at-town-hall/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-23T01-21_2",
+        "rank": 2,
+        "title": "STAT+: What is a ‘world model’? Nabla's Alex LeBrun explains",
+        "category": "biotech",
+        "summary": "In this edition of AI Prognosis, Brittany Trang talks to Alex LeBrun, AI scribe company Nabla's executive chairman, about an alternative to LLMs",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/07/AIPrognosis_Wordpress_Alex-LeBrun-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/07/22/what-is-a-world-model-nabla-alex-lebrun-explains-ai-prognosis/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-23T01-21_3",
+        "rank": 3,
+        "title": "China’s Shijian-31 satellite is sweeping GEO using a unique orbit",
+        "category": "space",
+        "summary": "HELSINKI — A classified satellite launched by China in June is operating in a creative orbit, giving it a unique vantage point over the geostationary belt. Shijian-31 launched on a […] The post China’s Shijian-31…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/Shijian31-CZ3B-XSLC-16june2026-CASC.jpg?fit=1024%2C599&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/chinas-shijian-31-satellite-is-sweeping-geo-using-a-unique-orbit/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-23T01-21_4",
+        "rank": 4,
+        "title": "Fruit Flies Use Memory to Track Smells",
+        "category": "neuroscience",
+        "summary": "A new study reveals that fruit flies use spatial memory, rather than simple reflexes, to track odors.",
+        "image": "https://neurosciencenews.com/files/2026/07/olfaction-memory-navigation-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/memory-olfaction-navigation-31111/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-23T01-21_5",
+        "rank": 5,
+        "title": "Gemini 3.6 Flash and 3.5 Flash-Lite now available through official API for developers and AI agents",
+        "category": "ai",
+        "summary": "Model ecosystem expansion: Gemini 3.6 Flash and Gemini 3.5 Flash-Lite via official API access.",
+        "image": "https://pbs.twimg.com/media/HN1SnDCWEAA2hmA.jpg",
+        "source": "X · @web3l0var",
+        "sourceUrl": "https://x.com/web3l0var/status/2079909448219271368",
+        "fromX": true
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-07-22T20-50",
     "scannedAt": "2026-07-22T20:50:38.346Z",
     "items": [
@@ -174,6 +235,26 @@
         "source": "Canary Media",
         "sourceUrl": "https://www.canarymedia.com/articles/wind/states-lawsuit-trump-defense-permitting-freeze",
         "imageProxy": "https://images.weserv.nl/?url=img.canarymedia.com%2Fcontent%2Fuploads%2FGettyImages-2284679445.jpg%3Fauto%3Dcompress%252Cformat%26crop%3Dfocalpoint%26fit%3Dcrop%26fp-x%3D0.5%26fp-y%3D0.5%26h%3D630%26q%3D82%26w%3D1200%26s%3D1631f1ba3c3e2c2428a65eada6de81e6&w=640&h=400&fit=cover&we&output=jpg"
+      }
+    ]
+  },
+  {
+    "batchId": "editorial_2026-07-20",
+    "scannedAt": "2026-07-20T16:03:59.666Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-07-20",
+        "rank": 0,
+        "title": "Sacred rooms and civic streets",
+        "category": "editorial",
+        "summary": "Sacred rooms and civic streets—a short editorial on attention under pressure.",
+        "image": "https://images-assets.nasa.gov/image/PIA18033/PIA18033~medium.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/#editorial",
+        "isEditorialArchive": true,
+        "publishDate": "2026-07-20",
+        "authorName": "Dr. Wallace Lynch"
       }
     ]
   },
@@ -735,128 +816,6 @@
         "source": "Canary Media",
         "sourceUrl": "https://www.canarymedia.com/articles/grid-edge/clean-energy-grid-heat-wave",
         "imageProxy": "https://images.weserv.nl/?url=img.canarymedia.com%2Fcontent%2Fuploads%2FNYC-heat-wave-people-with-umbrellas_GettyImages-2284372317.jpg%3Fauto%3Dcompress%252Cformat%26crop%3Dfocalpoint%26fit%3Dcrop%26fp-x%3D0.5%26fp-y%3D0.5%26h%3D630%26q%3D82%26w%3D1200%26s%3D27708a61be9da4ad33d8a18f1fcaba11&w=640&h=400&fit=cover&we&output=jpg"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-07-09T21-08",
-    "scannedAt": "2026-07-09T21:08:26.697Z",
-    "items": [
-      {
-        "id": "auto_2026-07-09T21-08_1",
-        "rank": 1,
-        "title": "1,000-Subject Trial Maps Brain Aging in the Real World",
-        "category": "neuroscience",
-        "summary": "A technologically ambitious partnership between UCSF Neuroscape and Samsung launches the TAH-DA study, a massive remote longitudinal trial utilizing consumer wearables to predict and track cognitive decline across the…",
-        "image": "https://neurosciencenews.com/files/2026/07/neurotech-cognitive-decline-lifespan-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/brain-aging-cognition-neurotech-31028/",
-        "imageProxy": "https://images.weserv.nl/?url=neurosciencenews.com%2Ffiles%2F2026%2F07%2Fneurotech-cognitive-decline-lifespan-neuroscience-1155x770.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-09T21-08_2",
-        "rank": 2,
-        "title": "Anthropic found a hidden space where Claude puzzles over concepts",
-        "category": "ai",
-        "summary": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/llm-crystal-globe_1.jpg?resize=1200,600",
-        "source": "MIT Technology Review",
-        "sourceUrl": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
-        "imageProxy": "https://images.weserv.nl/?url=wp.technologyreview.com%2Fwp-content%2Fuploads%2F2026%2F07%2Fllm-crystal-globe_1.jpg%3Fresize%3D1200%2C600&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-09T21-08_3",
-        "rank": 3,
-        "title": "The Exploration Company establishes US entity to pursue government contracts",
-        "category": "space",
-        "summary": "JOHANNESBURG — The Exploration Company, a space transportation company based in Germany, established TEC Federal, a United States-based entity that will enable it to compete for government programs and contracts. […]…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/nyx-droptest.jpeg?fit=1024%2C683&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/the-exploration-company-establishes-us-entity-to-pursue-government-contracts/",
-        "imageProxy": "https://images.weserv.nl/?url=i0.wp.com%2Fspacenews.com%2Fwp-content%2Fuploads%2F2026%2F06%2Fnyx-droptest.jpeg%3Ffit%3D1024%252C683%26ssl%3D1&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-09T21-08_4",
-        "rank": 4,
-        "title": "Whistleblower takes on health insurance and FDA commissioner candidates",
-        "category": "biotech",
-        "summary": "This week on \"The Readout LOUD\" podcast: Why does getting family health insurance through a job cost as much as buying a new car? And who might be the new…",
-        "image": "https://www.statnews.com/wp-content/uploads/2024/07/ROL_Rectangle-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/07/09/readout-loud-podcast-fda-commissioner-candidates-health-insurance-costs/?utm_campaign=rss",
-        "imageProxy": "https://images.weserv.nl/?url=www.statnews.com%2Fwp-content%2Fuploads%2F2024%2F07%2FROL_Rectangle-1024x576.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-09T21-08_5",
-        "rank": 5,
-        "title": "Ohio Power Siting Board asks court to punt on high-stakes solar case",
-        "category": "energy",
-        "summary": "For more than a year, the Ohio Supreme Court has been set to make a landmark ruling in a case with high stakes for renewable energy development. But now, the Ohio Power Siting Board has asked the court to skip that and…",
-        "image": "https://img.canarymedia.com/content/uploads/Ohio_Judicial_Center_façade_Wikipedia.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=64cbf2a9010769a921f78f8852307d1f",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/solar/ohio-power-siting-board-solar-case",
-        "imageProxy": "https://images.weserv.nl/?url=img.canarymedia.com%2Fcontent%2Fuploads%2FOhio_Judicial_Center_fac%CC%A7ade_Wikipedia.jpg%3Fauto%3Dcompress%252Cformat%26crop%3Dfocalpoint%26fit%3Dcrop%26fp-x%3D0.5%26fp-y%3D0.5%26h%3D630%26q%3D82%26w%3D1200%26s%3D64cbf2a9010769a921f78f8852307d1f&w=640&h=400&fit=cover&we&output=jpg"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-07-08T20-51",
-    "scannedAt": "2026-07-08T20:51:54.549Z",
-    "items": [
-      {
-        "id": "auto_2026-07-08T20-51_1",
-        "rank": 1,
-        "title": "STAT+: RFK Jr. plans to create list of injuries caused by Covid-19 vaccines",
-        "category": "biotech",
-        "summary": "It's not clear what conditions may make the list, but outside experts are watching it closely.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/07/GettyImages-1230308380-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/07/08/hhs-to-propose-covid-19-countermeasures-injury-table/?utm_campaign=rss",
-        "imageProxy": "https://images.weserv.nl/?url=www.statnews.com%2Fwp-content%2Fuploads%2F2026%2F07%2FGettyImages-1230308380-1024x576.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-08T20-51_2",
-        "rank": 2,
-        "title": "Tears Can Be Used to Detect Dopamine Levels",
-        "category": "neuroscience",
-        "summary": "A new study introduces a low-cost, laser-induced graphene electrochemical sensor designed to detect dopamine levels in human tears.",
-        "image": "https://neurosciencenews.com/files/2026/07/tears-dopamine-neurosceince-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/tears-dopamine-parkinsons-neurotech-31017/",
-        "imageProxy": "https://images.weserv.nl/?url=neurosciencenews.com%2Ffiles%2F2026%2F07%2Ftears-dopamine-neurosceince-1155x770.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-08T20-51_3",
-        "rank": 3,
-        "title": "Hubble Captures Star-Studded Cluster",
-        "category": "space",
-        "summary": "This image from NASA’s&#160;Hubble Space Telescope showcases&#160;Messier 3&#160;(M3), one of the Milky Way galaxy’s most massive globular clusters, or spherical collections of gravitationally bound stars.&#160;Globular…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/07/hubble-m3-july4-final.jpg",
-        "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/image-article/hubble-captures-star-studded-cluster/",
-        "imageProxy": "https://images.weserv.nl/?url=www.nasa.gov%2Fwp-content%2Fuploads%2F2026%2F07%2Fhubble-m3-july4-final.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-08T20-51_4",
-        "rank": 4,
-        "title": "Southern California clean-heat rule survives key legal challenge",
-        "category": "energy",
-        "summary": "Southern California’s landmark rule to slash emissions from industrial heating sources just notched a major victory in court. The region has some of the worst air quality in the U.S., and the gas-fueled boilers and…",
-        "image": "https://img.canarymedia.com/content/uploads/Gas-flames_GettyImages-539260384.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=b3fad5caa70e9f95fcbe54f021ee10c6",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/electrification/southern-california-clean-heat-rule-survives",
-        "imageProxy": "https://images.weserv.nl/?url=img.canarymedia.com%2Fcontent%2Fuploads%2FGas-flames_GettyImages-539260384.jpg%3Fauto%3Dcompress%252Cformat%26crop%3Dfocalpoint%26fit%3Dcrop%26fp-x%3D0.5%26fp-y%3D0.5%26h%3D630%26q%3D82%26w%3D1200%26s%3Db3fad5caa70e9f95fcbe54f021ee10c6&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-08T20-51_5",
-        "rank": 5,
-        "title": "IEEE Honors Robotics Pioneer Toshio Fukuda",
-        "category": "robotics",
-        "summary": "Toshio Fukuda has been blazing trails for most of his career. He is considered to be one of the most prolific scholars in robotics , writing more than 2,000 research papers and authoring several books on the field. He’s…",
-        "image": "https://spectrum.ieee.org/media-library/three-men-in-suits-onstage-smiling-as-one-presents-an-award-medal-in-a-box.jpg?id=67107362&width=980",
-        "source": "IEEE Spectrum",
-        "sourceUrl": "https://spectrum.ieee.org/ieee-honors-toshio-fukuda",
-        "imageProxy": "https://images.weserv.nl/?url=spectrum.ieee.org%2Fmedia-library%2Fthree-men-in-suits-onstage-smiling-as-one-presents-an-award-medal-in-a-box.jpg%3Fid%3D67107362%26width%3D980&w=640&h=400&fit=cover&we&output=jpg"
       }
     ]
   }

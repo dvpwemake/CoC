@@ -1,21 +1,62 @@
 [
   {
-    "batchId": "editorial_2026-07-20",
-    "scannedAt": "2026-07-20T16:03:59.666Z",
-    "kind": "editorial_archive",
+    "batchId": "auto_2026-07-23T01-21",
+    "scannedAt": "2026-07-23T01:21:06.333Z",
     "items": [
       {
-        "id": "editorial_2026-07-20",
-        "rank": 0,
-        "title": "Sacred rooms and civic streets",
-        "category": "editorial",
-        "summary": "Sacred rooms and civic streets—a short editorial on attention under pressure.",
-        "image": "https://images-assets.nasa.gov/image/PIA18033/PIA18033~medium.jpg",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/#editorial",
-        "isEditorialArchive": true,
-        "publishDate": "2026-07-20",
-        "authorName": "Dr. Wallace Lynch"
+        "id": "auto_2026-07-23T01-21_1",
+        "rank": 1,
+        "title": "Protesters Decry Chinatown Museum’s Acceptance of “Jail Money” at Town Hall",
+        "category": "art",
+        "summary": "Leaders of New York’s Museum of Chinese failed to persuade protesters that a $35 million grant from the city was not tied to the construction of a borough jail.",
+        "image": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/07/IMG_7199-2-1.jpg",
+        "source": "Hyperallergic",
+        "sourceUrl": "https://hyperallergic.com/protesters-decry-chinatown-museums-acceptance-of-jail-money-at-town-hall/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-23T01-21_2",
+        "rank": 2,
+        "title": "STAT+: What is a ‘world model’? Nabla's Alex LeBrun explains",
+        "category": "biotech",
+        "summary": "In this edition of AI Prognosis, Brittany Trang talks to Alex LeBrun, AI scribe company Nabla's executive chairman, about an alternative to LLMs",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/07/AIPrognosis_Wordpress_Alex-LeBrun-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/07/22/what-is-a-world-model-nabla-alex-lebrun-explains-ai-prognosis/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-23T01-21_3",
+        "rank": 3,
+        "title": "China’s Shijian-31 satellite is sweeping GEO using a unique orbit",
+        "category": "space",
+        "summary": "HELSINKI — A classified satellite launched by China in June is operating in a creative orbit, giving it a unique vantage point over the geostationary belt. Shijian-31 launched on a […] The post China’s Shijian-31…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/Shijian31-CZ3B-XSLC-16june2026-CASC.jpg?fit=1024%2C599&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/chinas-shijian-31-satellite-is-sweeping-geo-using-a-unique-orbit/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-23T01-21_4",
+        "rank": 4,
+        "title": "Fruit Flies Use Memory to Track Smells",
+        "category": "neuroscience",
+        "summary": "A new study reveals that fruit flies use spatial memory, rather than simple reflexes, to track odors.",
+        "image": "https://neurosciencenews.com/files/2026/07/olfaction-memory-navigation-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/memory-olfaction-navigation-31111/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-23T01-21_5",
+        "rank": 5,
+        "title": "Gemini 3.6 Flash and 3.5 Flash-Lite now available through official API for developers and AI agents",
+        "category": "ai",
+        "summary": "Model ecosystem expansion: Gemini 3.6 Flash and Gemini 3.5 Flash-Lite via official API access.",
+        "image": "https://pbs.twimg.com/media/HN1SnDCWEAA2hmA.jpg",
+        "source": "X · @web3l0var",
+        "sourceUrl": "https://x.com/web3l0var/status/2079909448219271368",
+        "fromX": true
       }
     ]
   },
@@ -194,6 +235,26 @@
         "source": "Canary Media",
         "sourceUrl": "https://www.canarymedia.com/articles/wind/states-lawsuit-trump-defense-permitting-freeze",
         "imageProxy": "https://images.weserv.nl/?url=img.canarymedia.com%2Fcontent%2Fuploads%2FGettyImages-2284679445.jpg%3Fauto%3Dcompress%252Cformat%26crop%3Dfocalpoint%26fit%3Dcrop%26fp-x%3D0.5%26fp-y%3D0.5%26h%3D630%26q%3D82%26w%3D1200%26s%3D1631f1ba3c3e2c2428a65eada6de81e6&w=640&h=400&fit=cover&we&output=jpg"
+      }
+    ]
+  },
+  {
+    "batchId": "editorial_2026-07-20",
+    "scannedAt": "2026-07-20T16:03:59.666Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-07-20",
+        "rank": 0,
+        "title": "Sacred rooms and civic streets",
+        "category": "editorial",
+        "summary": "Sacred rooms and civic streets—a short editorial on attention under pressure.",
+        "image": "https://images-assets.nasa.gov/image/PIA18033/PIA18033~medium.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/#editorial",
+        "isEditorialArchive": true,
+        "publishDate": "2026-07-20",
+        "authorName": "Dr. Wallace Lynch"
       }
     ]
   },
