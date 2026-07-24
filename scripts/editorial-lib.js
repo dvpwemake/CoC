@@ -106,6 +106,11 @@ function previousEditorialAsNewsItem(ed) {
     summary = (sp > 120 ? cut.slice(0, sp) : cut).trim() + '…';
   }
   const date = ed.publishDate || (ed.publishedAt || '').slice(0, 10) || 'unknown';
+  // Deep-link to THIS day's archive view — never bare #editorial (that is always today's live piece)
+  const sourceUrl =
+    date && date !== 'unknown'
+      ? 'https://chronicleofconvergence.com/#editorial-' + date
+      : 'https://chronicleofconvergence.com/#editorial';
   return {
     id: 'editorial_' + date,
     rank: 0,
@@ -114,7 +119,7 @@ function previousEditorialAsNewsItem(ed) {
     summary,
     image: ed.heroImage || '',
     source: 'Chronicle of Convergence · Editorial',
-    sourceUrl: 'https://chronicleofconvergence.com/#editorial',
+    sourceUrl,
     isEditorialArchive: true,
     publishDate: date,
     authorName: ed.authorName || 'Dr. Wallace Lynch'

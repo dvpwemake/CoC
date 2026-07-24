@@ -766,6 +766,10 @@ function previousEditorialAsNewsItem(ed){
   let summary=String(ed.dek||paras[0]||'').replace(/\s+/g,' ').trim();
   if(summary.length>220){const c=summary.slice(0,220);const sp=c.lastIndexOf(' ');summary=(sp>120?c.slice(0,sp):c).trim()+'…';}
   const date=ed.publishDate||(ed.publishedAt||'').slice(0,10)||'unknown';
+  // Must deep-link the archived date — bare #editorial always shows the live/current piece
+  const sourceUrl=(date&&date!=='unknown')
+    ?('https://chronicleofconvergence.com/#editorial-'+date)
+    :'https://chronicleofconvergence.com/#editorial';
   return{
     id:'editorial_'+date,
     rank:0,
@@ -774,7 +778,7 @@ function previousEditorialAsNewsItem(ed){
     summary,
     image:ed.heroImage||'',
     source:'Chronicle of Convergence · Editorial',
-    sourceUrl:'https://chronicleofconvergence.com/#editorial',
+    sourceUrl,
     isEditorialArchive:true,
     publishDate:date,
     authorName:ed.authorName||'Dr. Wallace Lynch'

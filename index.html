@@ -546,6 +546,10 @@ const EMBEDDED_DATA = [
 const CATS={ai:'AI',art:'Art',robotics:'Robotics',biotech:'Biotech',space:'Space',energy:'Energy',neuroscience:'Neuroscience',editorial:'Editorial'};
 const PAGE_SIZE=12;
 let allB=[], aCat='all', shown=0, activeEditorial=null;
+/** Live published piece (always "today's" desk) */
+let liveEditorial=null;
+/** publishDate → full editorial object (history + live) for archive deep-links */
+let editorialByDate={};
 
 function esc(s){return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/"/g,'&quot;')}
 
@@ -824,6 +828,73 @@ function bindHeroCarousel(root, slides){
 }
 
 
+/** Hash routes: #editorial (live) | #editorial-YYYY-MM-DD (archive from history) */
+function parseEditorialHashDate(){
+  const h=String(location.hash||'').replace(/^#/,'');
+  if(!h || h==='editorial') return null; // live desk
+  const m=h.match(/^editorial[-/](\d{4}-\d{2}-\d{2})$/i);
+  return m?m[1]:null;
+}
+function preferRicherEditorial(a,b){
+  if(!a) return b;
+  if(!b) return a;
+  const sa=(a.paragraphs&&a.paragraphs.length)||0;
+  const sb=(b.paragraphs&&b.paragraphs.length)||0;
+  if(sb!==sa) return sb>sa?b:a;
+  const ta=a.updatedAt||a.publishedAt||'';
+  const tb=b.updatedAt||b.publishedAt||'';
+  return tb>=ta?b:a;
+}
+function indexEditorialByDate(pack, live){
+  const map={};
+  function put(ed){
+    if(!hasEditorial(ed)) return;
+    const d=dayKeyFromAny(ed.publishDate||ed.publishedAt);
+    if(!d) return;
+    map[d]=preferRicherEditorial(map[d], ed);
+  }
+  put(live);
+  if(pack&&Array.isArray(pack.history)) pack.history.forEach(put);
+  if(pack&&pack.published) put(pack.published);
+  return map;
+}
+function resolveActiveEditorialFromRoute(){
+  const date=parseEditorialHashDate();
+  if(date){
+    if(editorialByDate[date] && hasEditorial(editorialByDate[date])){
+      activeEditorial=editorialByDate[date];
+      return {mode:'archive', date};
+    }
+    // Do NOT fall back to live desk — that was the Field-signal card bug
+    activeEditorial={
+      publishDate:date,
+      title:'Editorial not found in archive',
+      dek:'The full text for this date is not stored in editorial history yet.',
+      paragraphs:[
+        'This Field signal points to a past daily editorial, but the full prose is not available in data/editorial.json history for '+date+'.',
+        'Return to today’s editorial, or contact the desk if this archive card should be restored.'
+      ],
+      authorName:'Chronicle of Convergence',
+      authorTitle:'Archive',
+      status:'published',
+      wordCount:40,
+      _archiveMissing:true
+    };
+    return {mode:'missing', date};
+  }
+  activeEditorial=liveEditorial;
+  return {mode:'live', date: liveEditorial && (liveEditorial.publishDate||'')};
+}
+function applyEditorialRoute(scroll){
+  const route=resolveActiveEditorialFromRoute();
+  renderEditorial();
+  if(scroll){
+    const el=document.getElementById('editorial');
+    if(el) el.scrollIntoView({behavior:'smooth', block:'start'});
+  }
+  return route;
+}
+
 function renderEditorial(){
   const el=document.getElementById('editorial');
   const ed=activeEditorial;
@@ -831,6 +902,9 @@ function renderEditorial(){
     el.innerHTML='<div class="ed-kicker">Daily editorial</div><div class="ed-card" style="padding:2rem;text-align:center;color:var(--muted);font-family:var(--serif);font-style:italic">The daily editorial publishes at 8:00 a.m. Eastern.</div>';
     return;
   }
+  const archiveDate=parseEditorialHashDate();
+  const isArchive=!!(archiveDate && dayKeyFromAny(ed.publishDate||ed.publishedAt)===archiveDate);
+  const liveDate=liveEditorial && dayKeyFromAny(liveEditorial.publishDate||liveEditorial.publishedAt);
   const paras=paragraphsFromEditorial(ed);
   const prose=paras.map(p=>'<p>'+esc(p).replace(/\*\*(.+?)\*\*/g,'<strong>$1</strong>')+'</p>').join('');
   const slides=carouselSlidesFromDay(ed);
@@ -860,14 +934,22 @@ function renderEditorial(){
   const byline=authorName
     ? `<p class="ed-byline">By ${esc(authorName)}<span class="role">${esc(authorTitle)}</span></p>`
     : '';
-  el.innerHTML=`<div class="ed-kicker">Daily editorial · ${esc(ed.publishDate||'')}</div>
+  const kicker=isArchive
+    ? `From the archive · ${esc(ed.publishDate||archiveDate||'')}`
+    : `Daily editorial · ${esc(ed.publishDate||'')}`;
+  const backLink=isArchive
+    ? `<p class="ed-meta" style="margin-top:.35rem"><a href="#editorial" style="color:var(--gold);text-decoration:none">← Back to today’s editorial${liveDate?' ('+esc(liveDate)+')':''}</a></p>`
+    : '';
+  const metaLabel=isArchive?'Archived editorial':'Daily editorial';
+  el.innerHTML=`<div class="ed-kicker">${kicker}</div>
   <article class="ed-card" itemscope itemtype="https://schema.org/NewsArticle">
     ${hero}
     <div class="ed-body">
       <h2 itemprop="headline">${esc(ed.title||'Editorial')}</h2>
       <p class="ed-dek" itemprop="description">${esc(ed.dek||'')}</p>
       ${byline}
-      <div class="ed-meta">Daily editorial · about ${ed.wordCount||paras.join(' ').split(/\s+/).length} words</div>
+      <div class="ed-meta">${metaLabel} · about ${ed.wordCount||paras.join(' ').split(/\s+/).length} words</div>
+      ${backLink}
       <div class="ed-prose" itemprop="articleBody">${prose}</div>
     </div>
   </article>`;
@@ -877,6 +959,9 @@ function renderEditorial(){
     const ldEl=document.createElement('script');
     ldEl.type='application/ld+json';
     ldEl.setAttribute('data-coc-editorial-ld','1');
+    const pageUrl=isArchive
+      ?('https://chronicleofconvergence.com/#editorial-'+esc(archiveDate))
+      :'https://chronicleofconvergence.com/#editorial';
     ldEl.textContent=JSON.stringify({
       '@context':'https://schema.org','@type':'NewsArticle',
       headline:ed.title||'Daily editorial',
@@ -885,7 +970,7 @@ function renderEditorial(){
       dateModified:ed.updatedAt||ed.publishedAt||ed.publishDate||'',
       author:{'@type':'Person',name:authorName,jobTitle:authorTitle},
       publisher:{'@type':'NewsMediaOrganization',name:'Chronicle of Convergence',url:'https://chronicleofconvergence.com/',logo:'https://chronicleofconvergence.com/img/logo-mark.png'},
-      mainEntityOfPage:'https://chronicleofconvergence.com/',
+      mainEntityOfPage:pageUrl,
       image:ed.heroImage||'https://chronicleofconvergence.com/img/logo-mark.png'
     });
     document.head.appendChild(ldEl);
@@ -905,6 +990,21 @@ function heroFail(img){
   img.parentElement.appendChild(ph);
 }
 
+/** Editorial field-signal cards deep-link by date (not bare #editorial = live desk). */
+function editorialCardDate(it){
+  const d=dayKeyFromAny(it.publishDate)||dayKeyFromAny(it.id&&String(it.id).replace(/^editorial[_-]/i,''));
+  return /^\d{4}-\d{2}-\d{2}$/.test(d)?d:'';
+}
+function cardHref(it){
+  if(it.isEditorialArchive || it.category==='editorial'){
+    const d=editorialCardDate(it);
+    if(d) return '#editorial-'+d;
+  }
+  return it.sourceUrl||'#';
+}
+function cardIsInternalEditorial(it){
+  return !!(it.isEditorialArchive || it.category==='editorial');
+}
 function card(it, usedImgs){
   it=scrubItem(it);
   const raw=it.image||'';
@@ -916,13 +1016,17 @@ function card(it, usedImgs){
   const imgH=src
     ? `<div class="n-img"><img src="${esc(src)}" alt="" width="640" height="400" loading="lazy" decoding="async" referrerpolicy="no-referrer" data-proxy="${esc(it.imageProxy||proxyUrl(raw))}" onerror="thumbFail(this)"></div>`
     : `<div class="n-img"><div class="fallback">${esc(CATS[it.category]||'News')}</div></div>`;
-  return `<a class="n-card" href="${esc(it.sourceUrl||'#')}" target="_blank" rel="noopener">
+  const href=cardHref(it);
+  const internal=cardIsInternalEditorial(it);
+  const tgt=internal?'':` target="_blank" rel="noopener"`;
+  const srcLabel=internal?'Read full editorial →':((it.source||'Source')+' →');
+  return `<a class="n-card" href="${esc(href)}"${tgt}>
     ${imgH}
     <div class="n-body">
       <div class="n-meta"><span class="tag ${esc(it.category||'')}">${esc(CATS[it.category]||it.category||'News')}</span></div>
       <h3 class="n-title">${esc(it.title)}</h3>
       <p class="n-sum">${esc(it.summary||'')}</p>
-      <div class="n-src">${esc(it.source||'Source')} →</div>
+      <div class="n-src">${esc(srcLabel)}</div>
     </div>
   </a>`;
 }
@@ -990,24 +1094,28 @@ function mergeBatches(a,b){
   document.getElementById('y').textContent=now.getFullYear();
 
   // Editorial resolve: published only (never drafts/outlines) → file → localStorage if newer → embed
-  activeEditorial=hasEditorial(EMBEDDED_EDITORIAL)?EMBEDDED_EDITORIAL:null;
+  // Also index history[] so Field signal editorial cards can open the matching past piece.
+  liveEditorial=hasEditorial(EMBEDDED_EDITORIAL)?EMBEDDED_EDITORIAL:null;
+  let editorialPack=null;
   try{
     const r=await fetch('data/editorial.json',{cache:'no-cache'});
     if(r.ok){
-      const pack=await r.json();
-      const pub=pack&&pack.published?pack.published:null;
-      if(hasEditorial(pub)) activeEditorial=pub;
+      editorialPack=await r.json();
+      const pub=editorialPack&&editorialPack.published?editorialPack.published:null;
+      if(hasEditorial(pub)) liveEditorial=pub;
     }
   }catch(e){}
   try{
     const ls=JSON.parse(localStorage.getItem('coc_editorial_pub')||'null');
     if(hasEditorial(ls)){
       const a=ls.updatedAt||ls.publishedAt||'';
-      const b=(activeEditorial&&(activeEditorial.updatedAt||activeEditorial.publishedAt))||'';
-      if(!activeEditorial||a>=b) activeEditorial=ls;
+      const b=(liveEditorial&&(liveEditorial.updatedAt||liveEditorial.publishedAt))||'';
+      if(!liveEditorial||a>=b) liveEditorial=ls;
     }
   }catch(e){}
-  if(!hasEditorial(activeEditorial)&&hasEditorial(EMBEDDED_EDITORIAL)) activeEditorial=EMBEDDED_EDITORIAL;
+  if(!hasEditorial(liveEditorial)&&hasEditorial(EMBEDDED_EDITORIAL)) liveEditorial=EMBEDDED_EDITORIAL;
+  editorialByDate=indexEditorialByDate(editorialPack, liveEditorial);
+  activeEditorial=liveEditorial;
 
   // News: archive (full history) merged with localStorage publishes
   let d=null;
@@ -1021,14 +1129,28 @@ function mergeBatches(a,b){
   }catch(e){}
   if(!d||!d.length) d=EMBEDDED_DATA;
   d=scrubBatches(d);
+  // Heal editorial archive card links that still point at bare #editorial
+  for(const b of d){
+    for(const it of (b.items||[])){
+      if(!(it.isEditorialArchive || it.category==='editorial')) continue;
+      const date=editorialCardDate(it);
+      if(date){
+        it.sourceUrl='https://chronicleofconvergence.com/#editorial-'+date;
+        it.isEditorialArchive=true;
+      }
+    }
+  }
   // Heal localStorage without dropping history: store merge result only if LS existed
   try{
     if(localStorage.getItem('coc_news_data')) localStorage.setItem('coc_news_data', JSON.stringify(d));
   }catch(e){}
 
   allB=d.sort((a,b)=>new Date(b.scannedAt)-new Date(a.scannedAt));
-  renderEditorial();
+  applyEditorialRoute(false);
   renderNews(true);
+  window.addEventListener('hashchange',()=>{
+    applyEditorialRoute(true);
+  });
   document.getElementById('catNav').addEventListener('click',e=>{
     const p=e.target.closest('.cat-pill'); if(!p) return;
     document.querySelectorAll('.cat-pill').forEach(x=>x.classList.remove('active'));
