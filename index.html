@@ -26,6 +26,8 @@
 <meta name="twitter:title" content="Chronicle of Convergence">
 <meta name="twitter:description" content="Daily editorial and field signals — culture, society, technology, and faith.">
 <meta name="twitter:image" content="https://chronicleofconvergence.com/img/logo-mark.png">
+<link rel="alternate" type="application/rss+xml" title="CoC — use editorial permalinks" href="https://chronicleofconvergence.com/e/">
+<script src="scripts/analytics.js" defer></script>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"NewsMediaOrganization","name":"Chronicle of Convergence","url":"https://chronicleofconvergence.com/","logo":"https://chronicleofconvergence.com/img/logo-mark.png","description":"Digital multimedia chronicle of culture, society, technology, and faith in American life.","editor":{"@type":"Person","name":"Dr. Wallace Lynch","jobTitle":"Editor in Chief"}}
 </script>
@@ -445,6 +447,10 @@ footer a{color:var(--gold-deep);text-decoration:underline;text-underline-offset:
     <a href="terms.html">Terms of Use</a>
     <span aria-hidden="true">·</span>
     <a href="privacy.html">Privacy Policy</a>
+    <span aria-hidden="true">·</span>
+    <a href="go.html">Links</a>
+    <span aria-hidden="true">·</span>
+    <a href="e/index.html">Editorials</a>
     <span aria-hidden="true">·</span>
     <a href="mailto:contact@chronicleofconvergence.com">Contact</a>
   </div>
@@ -937,9 +943,16 @@ function renderEditorial(){
   const kicker=isArchive
     ? `From the archive · ${esc(ed.publishDate||archiveDate||'')}`
     : `Daily editorial · ${esc(ed.publishDate||'')}`;
+  const edDate=dayKeyFromAny(ed.publishDate||ed.publishedAt||'');
+  const perm=edDate?('e/'+edDate+'.html'):'';
   const backLink=isArchive
     ? `<p class="ed-meta" style="margin-top:.35rem"><a href="#editorial" style="color:var(--gold);text-decoration:none">← Back to today’s editorial${liveDate?' ('+esc(liveDate)+')':''}</a></p>`
     : '';
+  const shareRow=perm?`<div class="ed-meta" style="margin:.65rem 0 0;display:flex;flex-wrap:wrap;gap:.5rem">
+      <a href="${esc(perm)}" style="color:var(--gold-deep)">Permalink</a>
+      <a href="https://twitter.com/intent/tweet?url=${encodeURIComponent('https://chronicleofconvergence.com/'+perm)}&text=${encodeURIComponent((ed.title||'')+' — CoC')}" target="_blank" rel="noopener" style="color:var(--gold-deep)">Share on X</a>
+      <a href="go.html" style="color:var(--gold-deep)">Link hub</a>
+    </div>`:'';
   const metaLabel=isArchive?'Archived editorial':'Daily editorial';
   el.innerHTML=`<div class="ed-kicker">${kicker}</div>
   <article class="ed-card" itemscope itemtype="https://schema.org/NewsArticle">
@@ -949,6 +962,7 @@ function renderEditorial(){
       <p class="ed-dek" itemprop="description">${esc(ed.dek||'')}</p>
       ${byline}
       <div class="ed-meta">${metaLabel} · about ${ed.wordCount||paras.join(' ').split(/\s+/).length} words</div>
+      ${shareRow}
       ${backLink}
       <div class="ed-prose" itemprop="articleBody">${prose}</div>
     </div>
@@ -990,7 +1004,7 @@ function heroFail(img){
   img.parentElement.appendChild(ph);
 }
 
-/** Editorial field-signal cards deep-link by date (not bare #editorial = live desk). */
+/** Editorial field-signal cards → static permalink e/YYYY-MM-DD.html (SEO + share). */
 function editorialCardDate(it){
   const d=dayKeyFromAny(it.publishDate)||dayKeyFromAny(it.id&&String(it.id).replace(/^editorial[_-]/i,''));
   return /^\d{4}-\d{2}-\d{2}$/.test(d)?d:'';
@@ -998,7 +1012,7 @@ function editorialCardDate(it){
 function cardHref(it){
   if(it.isEditorialArchive || it.category==='editorial'){
     const d=editorialCardDate(it);
-    if(d) return '#editorial-'+d;
+    if(d) return 'e/'+d+'.html';
   }
   return it.sourceUrl||'#';
 }
@@ -1135,7 +1149,7 @@ function mergeBatches(a,b){
       if(!(it.isEditorialArchive || it.category==='editorial')) continue;
       const date=editorialCardDate(it);
       if(date){
-        it.sourceUrl='https://chronicleofconvergence.com/#editorial-'+date;
+        it.sourceUrl='https://chronicleofconvergence.com/e/'+date+'.html';
         it.isEditorialArchive=true;
       }
     }

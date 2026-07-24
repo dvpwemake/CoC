@@ -1,0 +1,27 @@
+{
+  "schema": "coc.site-config/v1",
+  "updated": "2026-07-24",
+  "cost": "$0 free tier only — no paid analytics SaaS required",
+  "analytics": {
+    "ga4MeasurementId": "",
+    "ga4MeasurementId_help": "Free: https://analytics.google.com → Admin → Data streams → Web → Measurement ID (G-XXXXXXXX). Paste here, commit, deploy. $0.",
+    "cloudflareWebAnalyticsToken": "",
+    "cloudflareWebAnalyticsToken_help": "Free: Cloudflare dashboard → Web Analytics → Add site (can be DNS-only or beacon-only) → copy token. $0."
+  },
+  "brand": {
+    "siteUrl": "https://chronicleofconvergence.com",
+    "name": "Chronicle of Convergence",
+    "short": "CoC",
+    "defaultAuthor": "Dr. Wallace Lynch",
+    "defaultAuthorTitle": "Editor in Chief",
+    "defaultOgImage": "https://chronicleofconvergence.com/img/logo-mark.png"
+  },
+  "linkHub": {
+    "path": "/go.html",
+    "purpose": "Single URL for all social bios (TikTok/YouTube/X/IG/LinkedIn)"
+  },
+  "editorialPermalinks": {
+    "pattern": "/e/YYYY-MM-DD.html",
+    "example": "https://chronicleofconvergence.com/e/2026-07-23.html"
+  }
+}

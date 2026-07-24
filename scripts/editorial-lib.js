@@ -106,10 +106,10 @@ function previousEditorialAsNewsItem(ed) {
     summary = (sp > 120 ? cut.slice(0, sp) : cut).trim() + '…';
   }
   const date = ed.publishDate || (ed.publishedAt || '').slice(0, 10) || 'unknown';
-  // Deep-link to THIS day's archive view — never bare #editorial (that is always today's live piece)
+  // Permalink static page (SEO + share) — never bare #editorial (live desk only)
   const sourceUrl =
     date && date !== 'unknown'
-      ? 'https://chronicleofconvergence.com/#editorial-' + date
+      ? 'https://chronicleofconvergence.com/e/' + date + '.html'
       : 'https://chronicleofconvergence.com/#editorial';
   return {
     id: 'editorial_' + date,
@@ -238,6 +238,12 @@ function publishDate(dateStr, { allowOutline = false } = {}) {
   }
   saveJson(EDITORIAL_PATH, store);
   injectIntoIndex(ed);
+  try {
+    const gen = require('./generate-editorial-pages.js');
+    gen.generateAll();
+  } catch (e) {
+    console.warn('generate-editorial-pages:', e.message);
+  }
   console.log('Published editorial for', dateStr, 'paras=', ed.paragraphs.length);
   return ed;
 }

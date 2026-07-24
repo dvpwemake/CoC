@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-Content-Type-Options" content="nosniff">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=5">
+<title>CoC Links — Chronicle of Convergence</title>
+<meta name="description" content="Official link hub for Chronicle of Convergence: today’s editorial, field signals, cultural rooms. Use this URL in every social bio.">
+<meta name="robots" content="index,follow">
+<link rel="canonical" href="https://chronicleofconvergence.com/go.html">
+<link rel="icon" href="img/logo-mark.png" type="image/png">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Chronicle of Convergence">
+<meta property="og:url" content="https://chronicleofconvergence.com/go.html">
+<meta property="og:title" content="CoC Links — Chronicle of Convergence">
+<meta property="og:description" content="Today’s editorial · Field signals · Cultural GPS rooms. One link for every platform bio.">
+<meta property="og:image" content="https://chronicleofconvergence.com/img/logo-mark.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="CoC Links">
+<meta name="twitter:description" content="Official Chronicle of Convergence link hub — free, one URL for all bios.">
+<meta name="twitter:image" content="https://chronicleofconvergence.com/img/logo-mark.png">
+<link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Source+Sans+3:wght@400;600&display=swap" rel="stylesheet">
+<script src="scripts/analytics.js" defer></script>
+<style>
+:root{--bg:#f3efe6;--paper:#faf7f1;--ink:#1a1714;--muted:#6a635a;--line:#d9d1c3;--gold:#8f7340;--gold-deep:#6e582e;--serif:'Libre Baskerville',Georgia,serif;--sans:'Source Sans 3',system-ui,sans-serif}
+*{box-sizing:border-box}body{margin:0;min-height:100vh;background:radial-gradient(800px 400px at 50% 0%,#ebe4d4,transparent),var(--bg);color:var(--ink);font-family:var(--sans)}
+.wrap{max-width:420px;margin:0 auto;padding:2rem 1.15rem 3rem;text-align:center}
+.logo{width:72px;height:72px;border-radius:12px;margin:0 auto .85rem;display:block;box-shadow:0 8px 24px rgba(40,32,20,.08)}
+h1{font-family:var(--serif);font-size:1.35rem;font-weight:600;margin:0 0 .35rem}
+.sub{color:var(--muted);font-size:.9rem;line-height:1.45;margin:0 0 1.5rem}
+.links{display:flex;flex-direction:column;gap:.65rem}
+.links a{display:block;padding:.9rem 1rem;background:var(--paper);border:1px solid var(--line);border-radius:8px;color:var(--gold-deep);font-weight:600;font-size:.92rem;text-decoration:none;box-shadow:0 1px 2px rgba(40,32,20,.04)}
+.links a:hover{border-color:var(--gold);background:#fffef9}
+.links a span{display:block;font-weight:400;font-size:.75rem;color:var(--muted);margin-top:.2rem}
+.note{margin-top:1.75rem;font-size:.72rem;color:var(--muted);line-height:1.5}
+.note code{font-size:.7rem;background:rgba(143,115,64,.1);padding:.1rem .35rem;border-radius:3px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <img class="logo" src="img/logo-mark.png" alt="Chronicle of Convergence" width="72" height="72">
+  <h1>Chronicle of Convergence</h1>
+  <p class="sub">Culture · society · technology · faith — through a lens of convergence.</p>
+  <nav class="links" aria-label="CoC destinations">
+    <a id="linkToday" href="index.html#editorial">Today’s editorial<span>Daily ~300-word desk</span></a>
+    <a href="e/index.html">Editorial archive<span>Past daily editorials</span></a>
+    <a href="index.html">Field signals<span>AI · Art · Space · Biotech · more</span></a>
+    <a href="cafe.html">Cultural GPS · Café<span>Rooms where culture meets</span></a>
+    <a href="museum.html">Cultural GPS · Museum<span>Looking as practice</span></a>
+    <a href="church.html">Cultural GPS · Church<span>Sacred rooms &amp; civic life</span></a>
+  </nav>
+  <p class="note">
+    <strong>Creators / ops:</strong> set every platform bio to<br>
+    <code>https://chronicleofconvergence.com/go.html</code><br>
+    $0 link hub · no third-party link-in-bio fee.
+  </p>
+</div>
+<script>
+(function(){
+  // Point "Today’s editorial" at latest permalink when known
+  fetch('data/editorial.json',{cache:'no-cache'}).then(function(r){return r.ok?r.json():null}).then(function(pack){
+    var d=pack&&pack.published&&pack.published.publishDate;
+    var a=document.getElementById('linkToday');
+    if(a&&d&&/^\d{4}-\d{2}-\d{2}$/.test(d)){
+      a.href='e/'+d+'.html';
+      a.querySelector('span').textContent='Published '+d;
+    }
+  }).catch(function(){});
+})();
+</script>
+</body>
+</html>

@@ -5,6 +5,7 @@ Disallow: /scripts/editor-auth.js
 Disallow: /data/editorial.json
 Disallow: /data/editorial-pub-slim.json
 Disallow: /data/x-signals.json
+# Public: /e/*.html editorial permalinks, /go.html link hub, data/site-config.json (analytics IDs only)
 
 User-agent: GPTBot
 Allow: /
