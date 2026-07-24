@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-07-24T01-17",
+    "scannedAt": "2026-07-24T01:17:02.859Z",
+    "items": [
+      {
+        "id": "auto_2026-07-24T01-17_1",
+        "rank": 1,
+        "title": "NASA programs feel effects of workforce reductions",
+        "category": "space",
+        "summary": "More than two dozen major NASA projects say they have been affected by the loss of a fifth of NASA’s civil servant workforce in the last year. The post NASA programs feel effects of workforce reductions appeared first…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/isaacman-ames.jpeg?fit=1024%2C683&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/nasa-programs-feel-effects-of-workforce-reductions/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-24T01-17_2",
+        "rank": 2,
+        "title": "Study Maps Motor Abnormalities Across Mental Health Spectrums",
+        "category": "neuroscience",
+        "summary": "A new study uses the HiToP framework to map motor symptoms to mental health dimensions in nearly 3,500 individuals.",
+        "image": "https://neurosciencenews.com/files/2026/07/motor-function-mental-health-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/moto-abnormalities-mental-health-31119/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-24T01-17_3",
+        "rank": 3,
+        "title": "132 New York Artists Receive $903,000 in Grants",
+        "category": "art",
+        "summary": "The NYSCA/NYFA Artist Fellowship program awards each recipient $8,000 in unrestricted cash.",
+        "image": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/07/Tatiana_Arocha_AFP2026_3.jpg",
+        "source": "Hyperallergic",
+        "sourceUrl": "https://hyperallergic.com/132-new-york-artists-receive-903-000-in-grants/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-24T01-17_4",
+        "rank": 4,
+        "title": "STAT+: In win for RFK Jr., FDA advisory panel narrowly votes to allow compounding of unapproved peptides",
+        "category": "biotech",
+        "summary": "The panel recommended allowing compounding pharmacies to produce popular but unproven BPC-157 and KPV peptides.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/07/AdobeStock_419763193-1024x576.jpeg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/07/23/fda-panel-okays-peptides-compound-pharmacies-bpc-157-kpv/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-24T01-17_5",
+        "rank": 5,
+        "title": "Gemini 3.6 Flash and 3.5 Flash-Lite now available through official API for developers and AI agents",
+        "category": "ai",
+        "summary": "Model ecosystem expansion: Gemini 3.6 Flash and Gemini 3.5 Flash-Lite via official API access.",
+        "image": "https://pbs.twimg.com/media/HN1SnDCWEAA2hmA.jpg",
+        "source": "X · @web3l0var",
+        "sourceUrl": "https://x.com/web3l0var/status/2079909448219271368",
+        "fromX": true
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-07-23T20-47",
     "scannedAt": "2026-07-23T20:47:32.101Z",
     "items": [
