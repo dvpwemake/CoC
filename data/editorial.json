@@ -253,29 +253,29 @@
       "status": "draft",
       "draftKind": "outline",
       "createdAt": "2026-07-24T06:16:14.307Z",
-      "updatedAt": "2026-07-24T17:17:24.875Z",
+      "updatedAt": "2026-07-24T20:52:56.482Z",
       "title": "Editorial brief — 2026-07-24",
       "dek": "Outline of selected article titles and key points for admin to write the final editorial.",
-      "body": "EDITORIAL BRIEF (outline only — not for publication as-is)\nPublish date: 2026-07-24\nInstruction: Use the titles and key points below to write the final ~300-word CoC editorial. Replace this entire brief with your finished prose before publishing.\n\n— Selected articles of the day (12) —\n\n1. [AI] Gemini 3.6 Flash and 3.5 Flash-Lite now available through official API for developers and AI agents\n   Source: X · @web3l0var\n   URL: https://x.com/web3l0var/status/2079909448219271368\n   Key points:\n   • Model ecosystem expansion: Gemini 3.6 Flash and Gemini 3.5 Flash-Lite via official API access.\n\n2. [Art] 7 Unforgettable Art Day Trips Worth Taking in Summer 2026\n   Source: Artsy\n   URL: https://www.artsy.net/article/artsy-editorial-7-unforgettable-art-day-trips-worth-summer-2026\n   Key points:\n   • Summer 2026 is in full swing, and it’s been an exciting one so far, with highlights ranging from the FIFA World Cup to The Odyssey .\n   • But as we enter the quieter phase of the season, your calendar might be a little more…\n\n3. [Biotech] There are already more U.S. measles cases this year than in all of 2025\n   Source: STAT News\n   URL: https://www.statnews.com/2026/07/24/measles-cases-surpass-2025-total-national-vaccination-rate-now-below-key-threshold/?utm_campaign=rss\n   Key points:\n   • The number of measles cases in the U.S.\n   • has surpassed the record-breaking tally for all of 2025, with five more months of 2026 still to come.\n\n4. [editorial] The Referee Problem: Civilization's Defining Test\n   Source: Chronicle of Convergence · Editorial\n   URL: https://chronicleofconvergence.com/e/2026-07-22.html\n   Key points:\n   • When the Machine Outruns the Referee\n\n5. [Energy] Startup offers low-cost home batteries to Massachusetts residents\n   Source: Canary Media\n   URL: https://www.canarymedia.com/articles/batteries/haven-energy-low-cost-batteries-massachusetts\n   Key points:\n   • Haven Energy is the newest company offering home battery service in Massachusetts for a low monthly payment, a model supporters say could accelerate adoption of residential storage.\n   • Starting in four counties in the…\n\n6. [Neuroscience] New Study Flips Core Rule of Evolution\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/social-behavior-evolution-31122/\n   Key points:\n   • A long-term hyena study reveals female reproductive inequality exceeds male inequality over multiple generations.\n\n7. [Robotics] Video Friday: An Italian Humanoid Comes to Life\n   Source: IEEE Spectrum\n   URL: https://spectrum.ieee.org/video-friday-physical-ai-robotics\n   Key points:\n   • Your weekly selection of awesome robot videos Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics.\n   • We also post a weekly calendar of upcoming robotics…\n\n8. [Space] Mark Matossian co-founds Whipsmart Ventures to fund space and deep tech\n   Source: SpaceNews\n   URL: https://spacenews.com/mark-matossian-co-founds-whipsmart-ventures-for-space-and-deep-tech/\n   Key points:\n   • SAN FRANCISCO – Space startup veteran Mark Matossian has joined forces with a software engineer and a best-selling author to establish Whipsmart Ventures, a venture capital fund focused on space […] The post Mark…\n\n9. [Art] 132 New York Artists Receive $903,000 in Grants\n   Source: Hyperallergic\n   URL: https://hyperallergic.com/132-new-york-artists-receive-903-000-in-grants/\n   Key points:\n   • The NYSCA/NYFA Artist Fellowship program awards each recipient $8,000 in unrestricted cash.\n\n10. [Neuroscience] Engineers Redefined Light Delivery to Track Neural Firing\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/light-delivery-neural-firing-31117/\n   Key points:\n   • A new study introduces FlatMux, a two-photon voltage imaging platform that records electrical signals from nearly 200 neurons at up to 2,000 frames per second.\n\n11. [Biotech] STAT+: In win for RFK Jr., FDA advisory panel narrowly votes to allow compounding of unapproved peptides\n   Source: STAT News\n   URL: https://www.statnews.com/2026/07/23/fda-panel-okays-peptides-compound-pharmacies-bpc-157-kpv/?utm_campaign=rss\n   Key points:\n   • The panel recommended allowing compounding pharmacies to produce popular but unproven BPC-157 and KPV peptides.\n\n12. [Neuroscience] New Chip Matches Real-Time Human Brain Speed\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/memristor-chip-brain-speed-neurotech-31110/\n   Key points:\n   • A new study presents the world's first neuromorphic chip capable of matching the operational speed of the human brain.\n\n— Categories present —\nAI · Art · Biotech · editorial · Energy · Neuroscience · Robotics · Space\n\n— Admin checklist —\n• Draft original title + dek\n• Write body (~280–320 words) in CoC voice\n• Set hero image URL + credit\n• Mark published when ready",
+      "body": "EDITORIAL BRIEF (outline only — not for publication as-is)\nPublish date: 2026-07-24\nInstruction: Use the titles and key points below to write the final ~300-word CoC editorial. Replace this entire brief with your finished prose before publishing.\n\n— Selected articles of the day (12) —\n\n1. [AI] Gemini 3.6 Flash and 3.5 Flash-Lite now available through official API for developers and AI agents\n   Source: X · @web3l0var\n   URL: https://x.com/web3l0var/status/2079909448219271368\n   Key points:\n   • Model ecosystem expansion: Gemini 3.6 Flash and Gemini 3.5 Flash-Lite via official API access.\n\n2. [Art] Trump Installs Thomas Jefferson Statue in the Rose Garden\n   Source: Hyperallergic\n   URL: https://hyperallergic.com/trump-installs-thomas-jefferson-statue-in-the-rose-garden/\n   Key points:\n   • The artist behind the piece is also responsible for a MAGA-friendly Trump statue.\n\n3. [Biotech] Opinion: I led the FDA’s food safety and nutrition center. Here’s what people are missing about the cyclospora outbreak\n   Source: STAT News\n   URL: https://www.statnews.com/2026/07/24/cyclospora-outbreak-contradiction-eat-real-food-less-safety-monitoring/?utm_campaign=rss\n   Key points:\n   • “Consumers should not be faced with a trade-off between nutrition and food safety,” writes Susan Mayne, former director of the FDA Center for Food Safety and Applied Nutrition.\n\n4. [editorial] The Referee Problem: Civilization's Defining Test\n   Source: Chronicle of Convergence · Editorial\n   URL: https://chronicleofconvergence.com/e/2026-07-22.html\n   Key points:\n   • When the Machine Outruns the Referee\n\n5. [Energy] Startup offers low-cost home batteries to Massachusetts residents\n   Source: Canary Media\n   URL: https://www.canarymedia.com/articles/batteries/haven-energy-low-cost-batteries-massachusetts\n   Key points:\n   • Haven Energy is the newest company offering home battery service in Massachusetts for a low monthly payment, a model supporters say could accelerate adoption of residential storage.\n   • Starting in four counties in the…\n\n6. [Neuroscience] Detailed Robot Feedback Can Overload Human Learners\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/robot-feedback-overload-human-learners-31126/\n   Key points:\n   • A new study reveals that detailed personalized feedback from humanoid robots causes immediate cognitive overload after errors, slowing immediate recovery despite improving long-term task performance.\n\n7. [Robotics] Orania Limited’s 5-Layer Approach to Platform Data Governance\n   Source: Robotics & Automation News\n   URL: https://roboticsandautomationnews.com/2026/07/22/platform-data-governance-orania-limited/103600/\n   Key points:\n   • Data governance is one of those disciplines that most platforms know they need and few feel they've actually figured out.\n   • The concept is straightforward enough: ensure data is managed properly, protected appropriately,…\n\n8. [Space] ULA deals with financial challenges caused by Vulcan grounding\n   Source: SpaceNews\n   URL: https://spacenews.com/ula-deals-with-financial-challenges-caused-by-vulcan-grounding/\n   Key points:\n   • United Launch Alliance’s corporate parents have guaranteed a loan to the company as it addresses “financial challenges” caused by the grounding of its Vulcan Centaur rocket.\n   • The post ULA deals with financial challenges…\n\n9. [Art] 132 New York Artists Receive $903,000 in Grants\n   Source: Hyperallergic\n   URL: https://hyperallergic.com/132-new-york-artists-receive-903-000-in-grants/\n   Key points:\n   • The NYSCA/NYFA Artist Fellowship program awards each recipient $8,000 in unrestricted cash.\n\n10. [Neuroscience] Engineers Redefined Light Delivery to Track Neural Firing\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/light-delivery-neural-firing-31117/\n   Key points:\n   • A new study introduces FlatMux, a two-photon voltage imaging platform that records electrical signals from nearly 200 neurons at up to 2,000 frames per second.\n\n11. [Biotech] STAT+: In win for RFK Jr., FDA advisory panel narrowly votes to allow compounding of unapproved peptides\n   Source: STAT News\n   URL: https://www.statnews.com/2026/07/23/fda-panel-okays-peptides-compound-pharmacies-bpc-157-kpv/?utm_campaign=rss\n   Key points:\n   • The panel recommended allowing compounding pharmacies to produce popular but unproven BPC-157 and KPV peptides.\n\n12. [Space] Mark Matossian co-founds Whipsmart Ventures to fund space and deep tech\n   Source: SpaceNews\n   URL: https://spacenews.com/mark-matossian-co-founds-whipsmart-ventures-for-space-and-deep-tech/\n   Key points:\n   • SAN FRANCISCO – Space startup veteran Mark Matossian has joined forces with a software engineer and a best-selling author to establish Whipsmart Ventures, a venture capital fund focused on space […] The post Mark…\n\n— Categories present —\nAI · Art · Biotech · editorial · Energy · Neuroscience · Robotics · Space\n\n— Admin checklist —\n• Draft original title + dek\n• Write body (~280–320 words) in CoC voice\n• Set hero image URL + credit\n• Mark published when ready",
       "paragraphs": [
         "EDITORIAL BRIEF (outline only — not for publication as-is)\nPublish date: 2026-07-24\nInstruction: Use the titles and key points below to write the final ~300-word CoC editorial. Replace this entire brief with your finished prose before publishing.",
         "— Selected articles of the day (12) —",
         "1. [AI] Gemini 3.6 Flash and 3.5 Flash-Lite now available through official API for developers and AI agents\n   Source: X · @web3l0var\n   URL: https://x.com/web3l0var/status/2079909448219271368\n   Key points:\n   • Model ecosystem expansion: Gemini 3.6 Flash and Gemini 3.5 Flash-Lite via official API access.",
-        "2. [Art] 7 Unforgettable Art Day Trips Worth Taking in Summer 2026\n   Source: Artsy\n   URL: https://www.artsy.net/article/artsy-editorial-7-unforgettable-art-day-trips-worth-summer-2026\n   Key points:\n   • Summer 2026 is in full swing, and it’s been an exciting one so far, with highlights ranging from the FIFA World Cup to The Odyssey .\n   • But as we enter the quieter phase of the season, your calendar might be a little more…",
-        "3. [Biotech] There are already more U.S. measles cases this year than in all of 2025\n   Source: STAT News\n   URL: https://www.statnews.com/2026/07/24/measles-cases-surpass-2025-total-national-vaccination-rate-now-below-key-threshold/?utm_campaign=rss\n   Key points:\n   • The number of measles cases in the U.S.\n   • has surpassed the record-breaking tally for all of 2025, with five more months of 2026 still to come.",
+        "2. [Art] Trump Installs Thomas Jefferson Statue in the Rose Garden\n   Source: Hyperallergic\n   URL: https://hyperallergic.com/trump-installs-thomas-jefferson-statue-in-the-rose-garden/\n   Key points:\n   • The artist behind the piece is also responsible for a MAGA-friendly Trump statue.",
+        "3. [Biotech] Opinion: I led the FDA’s food safety and nutrition center. Here’s what people are missing about the cyclospora outbreak\n   Source: STAT News\n   URL: https://www.statnews.com/2026/07/24/cyclospora-outbreak-contradiction-eat-real-food-less-safety-monitoring/?utm_campaign=rss\n   Key points:\n   • “Consumers should not be faced with a trade-off between nutrition and food safety,” writes Susan Mayne, former director of the FDA Center for Food Safety and Applied Nutrition.",
         "4. [editorial] The Referee Problem: Civilization's Defining Test\n   Source: Chronicle of Convergence · Editorial\n   URL: https://chronicleofconvergence.com/e/2026-07-22.html\n   Key points:\n   • When the Machine Outruns the Referee",
         "5. [Energy] Startup offers low-cost home batteries to Massachusetts residents\n   Source: Canary Media\n   URL: https://www.canarymedia.com/articles/batteries/haven-energy-low-cost-batteries-massachusetts\n   Key points:\n   • Haven Energy is the newest company offering home battery service in Massachusetts for a low monthly payment, a model supporters say could accelerate adoption of residential storage.\n   • Starting in four counties in the…",
-        "6. [Neuroscience] New Study Flips Core Rule of Evolution\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/social-behavior-evolution-31122/\n   Key points:\n   • A long-term hyena study reveals female reproductive inequality exceeds male inequality over multiple generations.",
-        "7. [Robotics] Video Friday: An Italian Humanoid Comes to Life\n   Source: IEEE Spectrum\n   URL: https://spectrum.ieee.org/video-friday-physical-ai-robotics\n   Key points:\n   • Your weekly selection of awesome robot videos Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics.\n   • We also post a weekly calendar of upcoming robotics…",
-        "8. [Space] Mark Matossian co-founds Whipsmart Ventures to fund space and deep tech\n   Source: SpaceNews\n   URL: https://spacenews.com/mark-matossian-co-founds-whipsmart-ventures-for-space-and-deep-tech/\n   Key points:\n   • SAN FRANCISCO – Space startup veteran Mark Matossian has joined forces with a software engineer and a best-selling author to establish Whipsmart Ventures, a venture capital fund focused on space […] The post Mark…",
+        "6. [Neuroscience] Detailed Robot Feedback Can Overload Human Learners\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/robot-feedback-overload-human-learners-31126/\n   Key points:\n   • A new study reveals that detailed personalized feedback from humanoid robots causes immediate cognitive overload after errors, slowing immediate recovery despite improving long-term task performance.",
+        "7. [Robotics] Orania Limited’s 5-Layer Approach to Platform Data Governance\n   Source: Robotics & Automation News\n   URL: https://roboticsandautomationnews.com/2026/07/22/platform-data-governance-orania-limited/103600/\n   Key points:\n   • Data governance is one of those disciplines that most platforms know they need and few feel they've actually figured out.\n   • The concept is straightforward enough: ensure data is managed properly, protected appropriately,…",
+        "8. [Space] ULA deals with financial challenges caused by Vulcan grounding\n   Source: SpaceNews\n   URL: https://spacenews.com/ula-deals-with-financial-challenges-caused-by-vulcan-grounding/\n   Key points:\n   • United Launch Alliance’s corporate parents have guaranteed a loan to the company as it addresses “financial challenges” caused by the grounding of its Vulcan Centaur rocket.\n   • The post ULA deals with financial challenges…",
         "9. [Art] 132 New York Artists Receive $903,000 in Grants\n   Source: Hyperallergic\n   URL: https://hyperallergic.com/132-new-york-artists-receive-903-000-in-grants/\n   Key points:\n   • The NYSCA/NYFA Artist Fellowship program awards each recipient $8,000 in unrestricted cash.",
         "10. [Neuroscience] Engineers Redefined Light Delivery to Track Neural Firing\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/light-delivery-neural-firing-31117/\n   Key points:\n   • A new study introduces FlatMux, a two-photon voltage imaging platform that records electrical signals from nearly 200 neurons at up to 2,000 frames per second.",
         "11. [Biotech] STAT+: In win for RFK Jr., FDA advisory panel narrowly votes to allow compounding of unapproved peptides\n   Source: STAT News\n   URL: https://www.statnews.com/2026/07/23/fda-panel-okays-peptides-compound-pharmacies-bpc-157-kpv/?utm_campaign=rss\n   Key points:\n   • The panel recommended allowing compounding pharmacies to produce popular but unproven BPC-157 and KPV peptides.",
-        "12. [Neuroscience] New Chip Matches Real-Time Human Brain Speed\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/memristor-chip-brain-speed-neurotech-31110/\n   Key points:\n   • A new study presents the world's first neuromorphic chip capable of matching the operational speed of the human brain.",
+        "12. [Space] Mark Matossian co-founds Whipsmart Ventures to fund space and deep tech\n   Source: SpaceNews\n   URL: https://spacenews.com/mark-matossian-co-founds-whipsmart-ventures-for-space-and-deep-tech/\n   Key points:\n   • SAN FRANCISCO – Space startup veteran Mark Matossian has joined forces with a software engineer and a best-selling author to establish Whipsmart Ventures, a venture capital fund focused on space […] The post Mark…",
         "— Categories present —\nAI · Art · Biotech · editorial · Energy · Neuroscience · Robotics · Space",
         "— Admin checklist —\n• Draft original title + dek\n• Write body (~280–320 words) in CoC voice\n• Set hero image URL + credit\n• Mark published when ready"
       ],
-      "wordCount": 614,
+      "wordCount": 615,
       "themeId": "outline",
       "themeLabel": "Admin outline (titles + key points)",
       "formId": "outline_brief",
@@ -298,25 +298,23 @@
           ]
         },
         {
-          "title": "7 Unforgettable Art Day Trips Worth Taking in Summer 2026",
-          "source": "Artsy",
+          "title": "Trump Installs Thomas Jefferson Statue in the Rose Garden",
+          "source": "Hyperallergic",
           "category": "art",
-          "sourceUrl": "https://www.artsy.net/article/artsy-editorial-7-unforgettable-art-day-trips-worth-summer-2026",
-          "summary": "Summer 2026 is in full swing, and it’s been an exciting one so far, with highlights ranging from the FIFA World Cup to The Odyssey . But as we enter the quieter phase of the season, your calendar might be a little more…",
+          "sourceUrl": "https://hyperallergic.com/trump-installs-thomas-jefferson-statue-in-the-rose-garden/",
+          "summary": "The artist behind the piece is also responsible for a MAGA-friendly Trump statue.",
           "keyPoints": [
-            "Summer 2026 is in full swing, and it’s been an exciting one so far, with highlights ranging from the FIFA World Cup to The Odyssey .",
-            "But as we enter the quieter phase of the season, your calendar might be a little more…"
+            "The artist behind the piece is also responsible for a MAGA-friendly Trump statue."
           ]
         },
         {
-          "title": "There are already more U.S. measles cases this year than in all of 2025",
+          "title": "Opinion: I led the FDA’s food safety and nutrition center. Here’s what people are missing about the cyclospora outbreak",
           "source": "STAT News",
           "category": "biotech",
-          "sourceUrl": "https://www.statnews.com/2026/07/24/measles-cases-surpass-2025-total-national-vaccination-rate-now-below-key-threshold/?utm_campaign=rss",
-          "summary": "The number of measles cases in the U.S. has surpassed the record-breaking tally for all of 2025, with five more months of 2026 still to come.",
+          "sourceUrl": "https://www.statnews.com/2026/07/24/cyclospora-outbreak-contradiction-eat-real-food-less-safety-monitoring/?utm_campaign=rss",
+          "summary": "“Consumers should not be faced with a trade-off between nutrition and food safety,” writes Susan Mayne, former director of the FDA Center for Food Safety and Applied Nutrition.",
           "keyPoints": [
-            "The number of measles cases in the U.S.",
-            "has surpassed the record-breaking tally for all of 2025, with five more months of 2026 still to come."
+            "“Consumers should not be faced with a trade-off between nutrition and food safety,” writes Susan Mayne, former director of the FDA Center for Food Safety and Applied Nutrition."
           ]
         },
         {
@@ -341,34 +339,35 @@
           ]
         },
         {
-          "title": "New Study Flips Core Rule of Evolution",
+          "title": "Detailed Robot Feedback Can Overload Human Learners",
           "source": "Neuroscience News",
           "category": "neuroscience",
-          "sourceUrl": "https://neurosciencenews.com/social-behavior-evolution-31122/",
-          "summary": "A long-term hyena study reveals female reproductive inequality exceeds male inequality over multiple generations.",
+          "sourceUrl": "https://neurosciencenews.com/robot-feedback-overload-human-learners-31126/",
+          "summary": "A new study reveals that detailed personalized feedback from humanoid robots causes immediate cognitive overload after errors, slowing immediate recovery despite improving long-term task performance.",
           "keyPoints": [
-            "A long-term hyena study reveals female reproductive inequality exceeds male inequality over multiple generations."
+            "A new study reveals that detailed personalized feedback from humanoid robots causes immediate cognitive overload after errors, slowing immediate recovery despite improving long-term task performance."
           ]
         },
         {
-          "title": "Video Friday: An Italian Humanoid Comes to Life",
-          "source": "IEEE Spectrum",
+          "title": "Orania Limited’s 5-Layer Approach to Platform Data Governance",
+          "source": "Robotics & Automation News",
           "category": "robotics",
-          "sourceUrl": "https://spectrum.ieee.org/video-friday-physical-ai-robotics",
-          "summary": "Your weekly selection of awesome robot videos Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics…",
+          "sourceUrl": "https://roboticsandautomationnews.com/2026/07/22/platform-data-governance-orania-limited/103600/",
+          "summary": "Data governance is one of those disciplines that most platforms know they need and few feel they've actually figured out. The concept is straightforward enough: ensure data is managed properly, protected appropriately,…",
           "keyPoints": [
-            "Your weekly selection of awesome robot videos Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics.",
-            "We also post a weekly calendar of upcoming robotics…"
+            "Data governance is one of those disciplines that most platforms know they need and few feel they've actually figured out.",
+            "The concept is straightforward enough: ensure data is managed properly, protected appropriately,…"
           ]
         },
         {
-          "title": "Mark Matossian co-founds Whipsmart Ventures to fund space and deep tech",
+          "title": "ULA deals with financial challenges caused by Vulcan grounding",
           "source": "SpaceNews",
           "category": "space",
-          "sourceUrl": "https://spacenews.com/mark-matossian-co-founds-whipsmart-ventures-for-space-and-deep-tech/",
-          "summary": "SAN FRANCISCO – Space startup veteran Mark Matossian has joined forces with a software engineer and a best-selling author to establish Whipsmart Ventures, a venture capital fund focused on space […] The post Mark…",
+          "sourceUrl": "https://spacenews.com/ula-deals-with-financial-challenges-caused-by-vulcan-grounding/",
+          "summary": "United Launch Alliance’s corporate parents have guaranteed a loan to the company as it addresses “financial challenges” caused by the grounding of its Vulcan Centaur rocket. The post ULA deals with financial challenges…",
           "keyPoints": [
-            "SAN FRANCISCO – Space startup veteran Mark Matossian has joined forces with a software engineer and a best-selling author to establish Whipsmart Ventures, a venture capital fund focused on space […] The post Mark…"
+            "United Launch Alliance’s corporate parents have guaranteed a loan to the company as it addresses “financial challenges” caused by the grounding of its Vulcan Centaur rocket.",
+            "The post ULA deals with financial challenges…"
           ]
         },
         {
@@ -402,13 +401,13 @@
           ]
         },
         {
-          "title": "New Chip Matches Real-Time Human Brain Speed",
-          "source": "Neuroscience News",
-          "category": "neuroscience",
-          "sourceUrl": "https://neurosciencenews.com/memristor-chip-brain-speed-neurotech-31110/",
-          "summary": "A new study presents the world's first neuromorphic chip capable of matching the operational speed of the human brain.",
+          "title": "Mark Matossian co-founds Whipsmart Ventures to fund space and deep tech",
+          "source": "SpaceNews",
+          "category": "space",
+          "sourceUrl": "https://spacenews.com/mark-matossian-co-founds-whipsmart-ventures-for-space-and-deep-tech/",
+          "summary": "SAN FRANCISCO – Space startup veteran Mark Matossian has joined forces with a software engineer and a best-selling author to establish Whipsmart Ventures, a venture capital fund focused on space […] The post Mark…",
           "keyPoints": [
-            "A new study presents the world's first neuromorphic chip capable of matching the operational speed of the human brain."
+            "SAN FRANCISCO – Space startup veteran Mark Matossian has joined forces with a software engineer and a best-selling author to establish Whipsmart Ventures, a venture capital fund focused on space […] The post Mark…"
           ]
         }
       ]
