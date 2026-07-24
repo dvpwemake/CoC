@@ -32,6 +32,12 @@ This folder is the only place v2 work may live until principal says **cut over /
 3. Draft **9pm ET** / publish **8am ET** (script-gated)  
 4. Editor can edit body + hero image URL  
 5. Text wordmark + real mark logo  
+6. **Path S $0 growth:** `go.html` link hub · `e/YYYY-MM-DD.html` permalinks + OG · free GA4/Cloudflare hooks (`data/site-config.json`)  
+
+```bash
+node scripts/generate-editorial-pages.js   # rebuild e/* + sitemap
+# Bios → https://chronicleofconvergence.com/go.html
+```
 
 ## Local preview (required)
 
