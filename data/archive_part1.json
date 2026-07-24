@@ -1,5 +1,33 @@
 [
   {
+    "batchId": "auto_2026-07-10T20-57",
+    "scannedAt": "2026-07-10T20:57:18.094Z",
+    "items": [
+      {
+        "id": "auto_2026-07-10T20-57_1",
+        "rank": 1,
+        "title": "Study Overturns Decades of External Axon Growth Theory",
+        "category": "neuroscience",
+        "summary": "A new study demonstrates that axon generation is driven by autonomous internal cellular mechanisms rather than external factors.",
+        "image": "https://neurosciencenews.com/files/2026/07/axon-growth-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/axon-formation-arp23-molecule-31035/",
+        "imageProxy": "https://images.weserv.nl/?url=neurosciencenews.com%2Ffiles%2F2026%2F07%2Faxon-growth-neuroscience-1155x770.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-07-10T20-57_4",
+        "rank": 4,
+        "title": "Clean energy helped the grid avoid heat-wave catastrophe",
+        "category": "energy",
+        "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter. Sign up to get it every Friday. Last week brought soaring temperatures to much of the U.S., forcing Americans to switch on their air…",
+        "image": "https://img.canarymedia.com/content/uploads/NYC-heat-wave-people-with-umbrellas_GettyImages-2284372317.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=27708a61be9da4ad33d8a18f1fcaba11",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/grid-edge/clean-energy-grid-heat-wave",
+        "imageProxy": "https://images.weserv.nl/?url=img.canarymedia.com%2Fcontent%2Fuploads%2FNYC-heat-wave-people-with-umbrellas_GettyImages-2284372317.jpg%3Fauto%3Dcompress%252Cformat%26crop%3Dfocalpoint%26fit%3Dcrop%26fp-x%3D0.5%26fp-y%3D0.5%26h%3D630%26q%3D82%26w%3D1200%26s%3D27708a61be9da4ad33d8a18f1fcaba11&w=640&h=400&fit=cover&we&output=jpg"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-07-09T21-08",
     "scannedAt": "2026-07-09T21:08:26.697Z",
     "items": [
@@ -819,66 +847,5 @@
         "imageProxy": "https://images.weserv.nl/?url=wp.technologyreview.com%2Fwp-content%2Fuploads%2F2026%2F06%2FiStock-1714934690.jpg%3Fresize%3D1200%2C600&w=640&h=400&fit=cover&we&output=jpg"
       }
     ]
-  },
-  {
-    "scannedAt": "2026-06-12T18:19:32.258Z",
-    "items": [
-      {
-        "id": "b1781288372258_1",
-        "rank": 1,
-        "title": "Stanford Scientists Regrow Lost Cartilage and Reverse Arthritis in Major Breakthrough",
-        "category": "biotech",
-        "summary": "Stanford Medicine researchers achieved a groundbreaking treatment that blocks an aging-related protein, successfully restoring lost cartilage in old mice and helping prevent arthritis after knee injuries. Human cartilage samples showed similar signs of regeneration, raising hopes for future drugs that could replace joint surgery. The therapy dramatically improved movement and joint function by targeting the 15-PGDH protein linked to aging.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260612021604.htm",
-        "image": "https://www.sciencedaily.com/images/1920/3d-knee-joint-inflammation-osteoarthritis.webp",
-        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2F3d-knee-joint-inflammation-osteoarthritis.webp&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "b1781288372258_2",
-        "rank": 2,
-        "title": "Prometheus AI Company Raises $12 Billion for Artificial General Engineers",
-        "category": "ai",
-        "summary": "Biotech AI startup Prometheus secured a massive $12 billion funding round to develop artificial general engineers that can automate complex engineering tasks in drug discovery and biotechnology. The company aims to create AI systems capable of independent scientific reasoning and experimental design, potentially revolutionizing pharmaceutical research and development timelines.",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/06/12/biotech-news-prometheus-raises-12-billion-for-artificial-engineers/",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/04/AdobeStock_573445441-1024x576.jpeg",
-        "imageProxy": "https://images.weserv.nl/?url=www.statnews.com%2Fwp-content%2Fuploads%2F2026%2F04%2FAdobeStock_573445441-1024x576.jpeg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "b1781288372258_3",
-        "rank": 3,
-        "title": "Giant Underground Neutrino Detector Achieves Precision Breakthrough in China",
-        "category": "neuroscience",
-        "summary": "The massive JUNO neutrino observatory deep beneath the ground in China delivered its first major scientific breakthrough, achieving one of the most precise measurements yet of how elusive neutrino particles behave. This advancement brings scientists closer to cracking fundamental mysteries about neutrinos and could revolutionize our understanding of particle physics and the universe.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/",
-        "image": "https://www.sciencedaily.com/images/scidaily-icon.png",
-        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2Fscidaily-icon.png&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "b1781288372258_4",
-        "rank": 4,
-        "title": "NASA Announces Artemis III Crew for Critical Moon Mission Testing",
-        "category": "space",
-        "summary": "NASA revealed the four-astronaut crew selected for the crucial Artemis III mission, designed to test rendezvous and docking procedures with lunar landers in Earth orbit next year. The mission represents a critical milestone before sending astronauts back to the Moon for landing in 2028, involving both SpaceX Starship and Blue Origin's Blue Moon Mark 2 landers.",
-        "source": "Spaceflight Now",
-        "sourceUrl": "https://www.nasa.gov/missions/artemis/artemis-iii/",
-        "image": "https://www.nasa.gov/wp-content/uploads/2022/11/52508358665_efb8a65d31_o.jpg",
-        "imageProxy": "https://images.weserv.nl/?url=www.nasa.gov%2Fwp-content%2Fuploads%2F2022%2F11%2F52508358665_efb8a65d31_o.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "b1781288372258_5",
-        "rank": 5,
-        "title": "Brain-Inspired Chip Functions Near Absolute Zero for Quantum Computing",
-        "category": "energy",
-        "summary": "Scientists at the University of Hong Kong created a remarkable brain-inspired chip that can function just above absolute zero temperature, representing one of the coldest operational environments ever achieved. This breakthrough could transform quantum computing by enabling ultra-efficient processing in cryogenic conditions, potentially solving major energy challenges in quantum systems.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/",
-        "image": "https://www.sciencedaily.com/images/scidaily-icon.png",
-        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2Fscidaily-icon.png&w=640&h=400&fit=cover&we&output=jpg"
-      }
-    ],
-    "batchId": "b1781288372258"
   }
 ]

@@ -1,5 +1,66 @@
 [
   {
+    "scannedAt": "2026-06-06T17:34:10.417Z",
+    "items": [
+      {
+        "id": "b1780767250417_1",
+        "rank": 1,
+        "title": "OpenAI Unveils Revolutionary Memory Architecture in ChatGPT Plus with Dreaming V3",
+        "category": "ai",
+        "summary": "OpenAI launched its most significant memory upgrade since the original ChatGPT rollout. The new Dreaming V3 architecture began reaching ChatGPT Plus and Pro users in the United States on June 4, 2026, featuring enhanced contextual understanding and persistent memory capabilities that allow AI to maintain conversations across sessions. This breakthrough addresses the longstanding limitation of working memory in large language models.",
+        "source": "BuildFastWithAI",
+        "sourceUrl": "https://www.buildfastwithai.com/blogs/ai-news-today-june-6-2026",
+        "image": "https://oukdqujzonxvqhiefdsv.supabase.co/storage/v1/object/public/blogs/b3f3ef52-ed94-4a00-8373-6ed95b1bf177.png",
+        "imageProxy": "https://images.weserv.nl/?url=oukdqujzonxvqhiefdsv.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fblogs%2Fb3f3ef52-ed94-4a00-8373-6ed95b1bf177.png&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780767250417_2",
+        "rank": 2,
+        "title": "NVIDIA Releases New Physical AI Models for Next-Generation Humanoid Robots",
+        "category": "robotics",
+        "summary": "NVIDIA unveiled breakthrough physical AI models including Cosmos Predict 2.5 and Isaac GR00T N1.6, purpose-built for humanoid robots. The new models enable full body control and use NVIDIA Cosmos Reason for better reasoning and contextual understanding in real-world environments. Figure AI achieved a major production milestone with its BotQ factory now producing Figure 03 robots at 1 robot per hour.",
+        "source": "NVIDIA Newsroom",
+        "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-releases-new-physical-ai-models-as-global-partners-unveil-next-generation-robots",
+        "image": "https://iprsoftwaremedia.com/219/files/202601/695aea8f3d63328b7eb8544b_ces-2026-global-robotics-partners/ces-2026-global-robotics-partners_5fce44ba-1bd9-4171-88ed-b508cdfe0103-prv.jpg",
+        "imageProxy": "https://images.weserv.nl/?url=iprsoftwaremedia.com%2F219%2Ffiles%2F202601%2F695aea8f3d63328b7eb8544b_ces-2026-global-robotics-partners%2Fces-2026-global-robotics-partners_5fce44ba-1bd9-4171-88ed-b508cdfe0103-prv.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780767250417_3",
+        "rank": 3,
+        "title": "Revolutionary Hydrogen Breakthrough Turns Waste Heat Into Clean Fuel",
+        "category": "energy",
+        "summary": "Researchers at the University of Birmingham developed a perovskite-based catalyst that splits water into hydrogen at much lower temperatures than existing technologies. This breakthrough allows factories, steel plants, and renewable energy sites to turn waste heat into valuable hydrogen, potentially making clean fuel far cheaper and easier to generate at industrial scale.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260601025345.htm",
+        "image": "https://www.sciencedaily.com/images/1920/green-energy-hydrogen-pipelines-wind-turbines.webp",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fgreen-energy-hydrogen-pipelines-wind-turbines.webp&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780767250417_4",
+        "rank": 4,
+        "title": "Gates-Backed Commonwealth Fusion Validates Physics for Commercial Power Plant",
+        "category": "energy",
+        "summary": "Commonwealth Fusion Systems, which has raised almost $3 billion from investors including Bill Gates' Breakthrough Energy Ventures and Nvidia's venture arm, announced that five peer-reviewed papers validate the physics underpinning its first commercial-scale fusion power plant. The company is targeting the early 2030s to put energy on the grid from a 400-megawatt facility in Virginia, enough to power 280,000 homes.",
+        "source": "Bloomberg",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-04/gates-backed-commonwealth-fusion-says-its-tech-validated-to-make-power",
+        "image": "https://www.sciencedaily.com/images/1920/bessy-ii-superconducting-tes-array-x-ray-spectrometer.webp",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fbessy-ii-superconducting-tes-array-x-ray-spectrometer.webp&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780767250417_5",
+        "rank": 5,
+        "title": "Scientists Discover Hidden Neural Circuit Controlling Anxiety and Social Behavior",
+        "category": "neuroscience",
+        "summary": "A newly identified group of amygdala neurons appears to play a central role in anxiety and social behavior. Researchers found that restoring normal activity in this tiny brain circuit reversed anxiety and social deficits in mice, revealing a promising therapeutic target. This breakthrough could lead to new treatments for anxiety disorders and autism spectrum conditions by targeting specific neural circuits rather than broad brain regions.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/news/mind_brain/neuroscience/",
+        "image": "https://www.sciencedaily.com/images/scidaily-icon.png",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2Fscidaily-icon.png&w=640&h=400&fit=cover&we&output=jpg"
+      }
+    ],
+    "batchId": "b1780767250417"
+  },
+  {
     "scannedAt": "2026-06-06T14:05:29.391Z",
     "items": [
       {

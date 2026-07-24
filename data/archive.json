@@ -1,30 +1,10 @@
 [
   {
-    "batchId": "editorial_2026-07-22",
-    "scannedAt": "2026-07-22T22:06:30.754Z",
-    "kind": "editorial_archive",
+    "batchId": "auto_2026-07-24T06-16",
+    "scannedAt": "2026-07-24T06:16:14.265Z",
     "items": [
       {
-        "id": "editorial_2026-07-22",
-        "rank": 0,
-        "title": "The Referee Problem: Civilization's Defining Test",
-        "category": "editorial",
-        "summary": "When the Machine Outruns the Referee",
-        "image": "https://images-assets.nasa.gov/image/PIA01492/PIA01492~medium.jpg",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-07-22.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-07-22",
-        "authorName": "Dr. Wallace Lynch"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-07-24T01-17",
-    "scannedAt": "2026-07-24T01:17:02.859Z",
-    "items": [
-      {
-        "id": "auto_2026-07-24T01-17_1",
+        "id": "auto_2026-07-24T06-16_1",
         "rank": 1,
         "title": "NASA programs feel effects of workforce reductions",
         "category": "space",
@@ -35,7 +15,7 @@
         "fromX": false
       },
       {
-        "id": "auto_2026-07-24T01-17_2",
+        "id": "auto_2026-07-24T06-16_2",
         "rank": 2,
         "title": "Study Maps Motor Abnormalities Across Mental Health Spectrums",
         "category": "neuroscience",
@@ -46,7 +26,7 @@
         "fromX": false
       },
       {
-        "id": "auto_2026-07-24T01-17_3",
+        "id": "auto_2026-07-24T06-16_3",
         "rank": 3,
         "title": "132 New York Artists Receive $903,000 in Grants",
         "category": "art",
@@ -57,7 +37,7 @@
         "fromX": false
       },
       {
-        "id": "auto_2026-07-24T01-17_4",
+        "id": "auto_2026-07-24T06-16_4",
         "rank": 4,
         "title": "STAT+: In win for RFK Jr., FDA advisory panel narrowly votes to allow compounding of unapproved peptides",
         "category": "biotech",
@@ -68,7 +48,7 @@
         "fromX": false
       },
       {
-        "id": "auto_2026-07-24T01-17_5",
+        "id": "auto_2026-07-24T06-16_5",
         "rank": 5,
         "title": "Gemini 3.6 Flash and 3.5 Flash-Lite now available through official API for developers and AI agents",
         "category": "ai",
@@ -138,6 +118,26 @@
         "source": "X · @web3l0var",
         "sourceUrl": "https://x.com/web3l0var/status/2079909448219271368",
         "fromX": true
+      }
+    ]
+  },
+  {
+    "batchId": "editorial_2026-07-22",
+    "scannedAt": "2026-07-22T22:06:30.754Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-07-22",
+        "rank": 0,
+        "title": "The Referee Problem: Civilization's Defining Test",
+        "category": "editorial",
+        "summary": "When the Machine Outruns the Referee",
+        "image": "https://images-assets.nasa.gov/image/PIA01492/PIA01492~medium.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-07-22.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-07-22",
+        "authorName": "Dr. Wallace Lynch"
       }
     ]
   },

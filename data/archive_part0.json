@@ -1,10 +1,10 @@
 [
   {
-    "batchId": "auto_2026-07-24T01-17",
-    "scannedAt": "2026-07-24T01:17:02.859Z",
+    "batchId": "auto_2026-07-24T06-16",
+    "scannedAt": "2026-07-24T06:16:14.265Z",
     "items": [
       {
-        "id": "auto_2026-07-24T01-17_1",
+        "id": "auto_2026-07-24T06-16_1",
         "rank": 1,
         "title": "NASA programs feel effects of workforce reductions",
         "category": "space",
@@ -15,7 +15,7 @@
         "fromX": false
       },
       {
-        "id": "auto_2026-07-24T01-17_2",
+        "id": "auto_2026-07-24T06-16_2",
         "rank": 2,
         "title": "Study Maps Motor Abnormalities Across Mental Health Spectrums",
         "category": "neuroscience",
@@ -26,7 +26,7 @@
         "fromX": false
       },
       {
-        "id": "auto_2026-07-24T01-17_3",
+        "id": "auto_2026-07-24T06-16_3",
         "rank": 3,
         "title": "132 New York Artists Receive $903,000 in Grants",
         "category": "art",
@@ -37,7 +37,7 @@
         "fromX": false
       },
       {
-        "id": "auto_2026-07-24T01-17_4",
+        "id": "auto_2026-07-24T06-16_4",
         "rank": 4,
         "title": "STAT+: In win for RFK Jr., FDA advisory panel narrowly votes to allow compounding of unapproved peptides",
         "category": "biotech",
@@ -48,7 +48,7 @@
         "fromX": false
       },
       {
-        "id": "auto_2026-07-24T01-17_5",
+        "id": "auto_2026-07-24T06-16_5",
         "rank": 5,
         "title": "Gemini 3.6 Flash and 3.5 Flash-Lite now available through official API for developers and AI agents",
         "category": "ai",
@@ -118,6 +118,26 @@
         "source": "X · @web3l0var",
         "sourceUrl": "https://x.com/web3l0var/status/2079909448219271368",
         "fromX": true
+      }
+    ]
+  },
+  {
+    "batchId": "editorial_2026-07-22",
+    "scannedAt": "2026-07-22T22:06:30.754Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-07-22",
+        "rank": 0,
+        "title": "The Referee Problem: Civilization's Defining Test",
+        "category": "editorial",
+        "summary": "When the Machine Outruns the Referee",
+        "image": "https://images-assets.nasa.gov/image/PIA01492/PIA01492~medium.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-07-22.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-07-22",
+        "authorName": "Dr. Wallace Lynch"
       }
     ]
   },
@@ -312,7 +332,7 @@
         "summary": "Sacred rooms and civic streets—a short editorial on attention under pressure.",
         "image": "https://images-assets.nasa.gov/image/PIA18033/PIA18033~medium.jpg",
         "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/#editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-07-20.html",
         "isEditorialArchive": true,
         "publishDate": "2026-07-20",
         "authorName": "Dr. Wallace Lynch"
@@ -849,34 +869,6 @@
         "source": "NASA",
         "sourceUrl": "https://www.nasa.gov/directorates/stmd/space-tech-research-grants/ecf/early-career-faculty-ecf-2025-awards/",
         "imageProxy": "https://images.weserv.nl/?url=www.nasa.gov%2Fwp-content%2Fuploads%2F2026%2F03%2Fnsmerger-illus-ns.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-07-10T20-57",
-    "scannedAt": "2026-07-10T20:57:18.094Z",
-    "items": [
-      {
-        "id": "auto_2026-07-10T20-57_1",
-        "rank": 1,
-        "title": "Study Overturns Decades of External Axon Growth Theory",
-        "category": "neuroscience",
-        "summary": "A new study demonstrates that axon generation is driven by autonomous internal cellular mechanisms rather than external factors.",
-        "image": "https://neurosciencenews.com/files/2026/07/axon-growth-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/axon-formation-arp23-molecule-31035/",
-        "imageProxy": "https://images.weserv.nl/?url=neurosciencenews.com%2Ffiles%2F2026%2F07%2Faxon-growth-neuroscience-1155x770.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-10T20-57_4",
-        "rank": 4,
-        "title": "Clean energy helped the grid avoid heat-wave catastrophe",
-        "category": "energy",
-        "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter. Sign up to get it every Friday. Last week brought soaring temperatures to much of the U.S., forcing Americans to switch on their air…",
-        "image": "https://img.canarymedia.com/content/uploads/NYC-heat-wave-people-with-umbrellas_GettyImages-2284372317.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=27708a61be9da4ad33d8a18f1fcaba11",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/grid-edge/clean-energy-grid-heat-wave",
-        "imageProxy": "https://images.weserv.nl/?url=img.canarymedia.com%2Fcontent%2Fuploads%2FNYC-heat-wave-people-with-umbrellas_GettyImages-2284372317.jpg%3Fauto%3Dcompress%252Cformat%26crop%3Dfocalpoint%26fit%3Dcrop%26fp-x%3D0.5%26fp-y%3D0.5%26h%3D630%26q%3D82%26w%3D1200%26s%3D27708a61be9da4ad33d8a18f1fcaba11&w=640&h=400&fit=cover&we&output=jpg"
       }
     ]
   }
