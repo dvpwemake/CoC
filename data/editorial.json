@@ -253,29 +253,29 @@
       "status": "draft",
       "draftKind": "outline",
       "createdAt": "2026-07-24T06:16:14.307Z",
-      "updatedAt": "2026-07-24T13:09:44.865Z",
+      "updatedAt": "2026-07-24T17:17:24.875Z",
       "title": "Editorial brief — 2026-07-24",
       "dek": "Outline of selected article titles and key points for admin to write the final editorial.",
-      "body": "EDITORIAL BRIEF (outline only — not for publication as-is)\nPublish date: 2026-07-24\nInstruction: Use the titles and key points below to write the final ~300-word CoC editorial. Replace this entire brief with your finished prose before publishing.\n\n— Selected articles of the day (12) —\n\n1. [AI] Gemini 3.6 Flash and 3.5 Flash-Lite now available through official API for developers and AI agents\n   Source: X · @web3l0var\n   URL: https://x.com/web3l0var/status/2079909448219271368\n   Key points:\n   • Model ecosystem expansion: Gemini 3.6 Flash and Gemini 3.5 Flash-Lite via official API access.\n\n2. [Art] The Biggest American Wiener\n   Source: Hyperallergic\n   URL: https://hyperallergic.com/the-biggest-american-wiener/\n   Key points:\n   • A visit to the “Most American Pageant Ever!” and the story of a broken Jefferson statue’s quill.\n\n3. [Biotech] A new, separate outbreak of the diarrhea-causing parasite\n   Source: STAT News\n   URL: https://www.statnews.com/2026/07/24/health-news-new-separate-cyclospora-diarrhea-outbreak/?utm_campaign=rss\n   Key points:\n   • A win for peptide proponents, autism advisory committees clash, and more health news from Morning Rounds\n\n4. [editorial] The Referee Problem: Civilization's Defining Test\n   Source: Chronicle of Convergence · Editorial\n   URL: https://chronicleofconvergence.com/e/2026-07-22.html\n   Key points:\n   • When the Machine Outruns the Referee\n\n5. [Energy] Startup offers low-cost home batteries to Massachusetts residents\n   Source: Canary Media\n   URL: https://www.canarymedia.com/articles/batteries/haven-energy-low-cost-batteries-massachusetts\n   Key points:\n   • Haven Energy is the newest company offering home battery service in Massachusetts for a low monthly payment, a model supporters say could accelerate adoption of residential storage.\n   • Starting in four counties in the…\n\n6. [Neuroscience] Engineers Redefined Light Delivery to Track Neural Firing\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/light-delivery-neural-firing-31117/\n   Key points:\n   • A new study introduces FlatMux, a two-photon voltage imaging platform that records electrical signals from nearly 200 neurons at up to 2,000 frames per second.\n\n7. [Robotics] How is Technology Changing Recreational Boating?\n   Source: Robotics & Automation News\n   URL: https://roboticsandautomationnews.com/2026/07/24/how-is-technology-changing-recreational-boating/103632/\n   Key points:\n   • For decades, a boat was a simple thing: a hull, an engine, and a captain's judgment.\n   • That picture is changing fast.\n   • The same wave of automation, electrification, and smart software reshaping cars and factories has…\n\n8. [Space] Office of Space Commerce to move ahead on mission authorization\n   Source: SpaceNews\n   URL: https://spacenews.com/office-of-space-commerce-to-move-ahead-on-mission-authorization/\n   Key points:\n   • The Commerce Department is moving ahead with plans to implement a voluntary mission authorization system for novel space activities that are not regulated by other agencies.\n   • The post Office of Space Commerce to move…\n\n9. [Art] 132 New York Artists Receive $903,000 in Grants\n   Source: Hyperallergic\n   URL: https://hyperallergic.com/132-new-york-artists-receive-903-000-in-grants/\n   Key points:\n   • The NYSCA/NYFA Artist Fellowship program awards each recipient $8,000 in unrestricted cash.\n\n10. [Biotech] STAT+: In win for RFK Jr., FDA advisory panel narrowly votes to allow compounding of unapproved peptides\n   Source: STAT News\n   URL: https://www.statnews.com/2026/07/23/fda-panel-okays-peptides-compound-pharmacies-bpc-157-kpv/?utm_campaign=rss\n   Key points:\n   • The panel recommended allowing compounding pharmacies to produce popular but unproven BPC-157 and KPV peptides.\n\n11. [Space] Mark Matossian co-founds Whipsmart Ventures to fund space and deep tech\n   Source: SpaceNews\n   URL: https://spacenews.com/mark-matossian-co-founds-whipsmart-ventures-for-space-and-deep-tech/\n   Key points:\n   • SAN FRANCISCO – Space startup veteran Mark Matossian has joined forces with a software engineer and a best-selling author to establish Whipsmart Ventures, a venture capital fund focused on space […] The post Mark…\n\n12. [Neuroscience] New Chip Matches Real-Time Human Brain Speed\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/memristor-chip-brain-speed-neurotech-31110/\n   Key points:\n   • A new study presents the world's first neuromorphic chip capable of matching the operational speed of the human brain.\n\n— Categories present —\nAI · Art · Biotech · editorial · Energy · Neuroscience · Robotics · Space\n\n— Admin checklist —\n• Draft original title + dek\n• Write body (~280–320 words) in CoC voice\n• Set hero image URL + credit\n• Mark published when ready",
+      "body": "EDITORIAL BRIEF (outline only — not for publication as-is)\nPublish date: 2026-07-24\nInstruction: Use the titles and key points below to write the final ~300-word CoC editorial. Replace this entire brief with your finished prose before publishing.\n\n— Selected articles of the day (12) —\n\n1. [AI] Gemini 3.6 Flash and 3.5 Flash-Lite now available through official API for developers and AI agents\n   Source: X · @web3l0var\n   URL: https://x.com/web3l0var/status/2079909448219271368\n   Key points:\n   • Model ecosystem expansion: Gemini 3.6 Flash and Gemini 3.5 Flash-Lite via official API access.\n\n2. [Art] 7 Unforgettable Art Day Trips Worth Taking in Summer 2026\n   Source: Artsy\n   URL: https://www.artsy.net/article/artsy-editorial-7-unforgettable-art-day-trips-worth-summer-2026\n   Key points:\n   • Summer 2026 is in full swing, and it’s been an exciting one so far, with highlights ranging from the FIFA World Cup to The Odyssey .\n   • But as we enter the quieter phase of the season, your calendar might be a little more…\n\n3. [Biotech] There are already more U.S. measles cases this year than in all of 2025\n   Source: STAT News\n   URL: https://www.statnews.com/2026/07/24/measles-cases-surpass-2025-total-national-vaccination-rate-now-below-key-threshold/?utm_campaign=rss\n   Key points:\n   • The number of measles cases in the U.S.\n   • has surpassed the record-breaking tally for all of 2025, with five more months of 2026 still to come.\n\n4. [editorial] The Referee Problem: Civilization's Defining Test\n   Source: Chronicle of Convergence · Editorial\n   URL: https://chronicleofconvergence.com/e/2026-07-22.html\n   Key points:\n   • When the Machine Outruns the Referee\n\n5. [Energy] Startup offers low-cost home batteries to Massachusetts residents\n   Source: Canary Media\n   URL: https://www.canarymedia.com/articles/batteries/haven-energy-low-cost-batteries-massachusetts\n   Key points:\n   • Haven Energy is the newest company offering home battery service in Massachusetts for a low monthly payment, a model supporters say could accelerate adoption of residential storage.\n   • Starting in four counties in the…\n\n6. [Neuroscience] New Study Flips Core Rule of Evolution\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/social-behavior-evolution-31122/\n   Key points:\n   • A long-term hyena study reveals female reproductive inequality exceeds male inequality over multiple generations.\n\n7. [Robotics] Video Friday: An Italian Humanoid Comes to Life\n   Source: IEEE Spectrum\n   URL: https://spectrum.ieee.org/video-friday-physical-ai-robotics\n   Key points:\n   • Your weekly selection of awesome robot videos Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics.\n   • We also post a weekly calendar of upcoming robotics…\n\n8. [Space] Mark Matossian co-founds Whipsmart Ventures to fund space and deep tech\n   Source: SpaceNews\n   URL: https://spacenews.com/mark-matossian-co-founds-whipsmart-ventures-for-space-and-deep-tech/\n   Key points:\n   • SAN FRANCISCO – Space startup veteran Mark Matossian has joined forces with a software engineer and a best-selling author to establish Whipsmart Ventures, a venture capital fund focused on space […] The post Mark…\n\n9. [Art] 132 New York Artists Receive $903,000 in Grants\n   Source: Hyperallergic\n   URL: https://hyperallergic.com/132-new-york-artists-receive-903-000-in-grants/\n   Key points:\n   • The NYSCA/NYFA Artist Fellowship program awards each recipient $8,000 in unrestricted cash.\n\n10. [Neuroscience] Engineers Redefined Light Delivery to Track Neural Firing\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/light-delivery-neural-firing-31117/\n   Key points:\n   • A new study introduces FlatMux, a two-photon voltage imaging platform that records electrical signals from nearly 200 neurons at up to 2,000 frames per second.\n\n11. [Biotech] STAT+: In win for RFK Jr., FDA advisory panel narrowly votes to allow compounding of unapproved peptides\n   Source: STAT News\n   URL: https://www.statnews.com/2026/07/23/fda-panel-okays-peptides-compound-pharmacies-bpc-157-kpv/?utm_campaign=rss\n   Key points:\n   • The panel recommended allowing compounding pharmacies to produce popular but unproven BPC-157 and KPV peptides.\n\n12. [Neuroscience] New Chip Matches Real-Time Human Brain Speed\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/memristor-chip-brain-speed-neurotech-31110/\n   Key points:\n   • A new study presents the world's first neuromorphic chip capable of matching the operational speed of the human brain.\n\n— Categories present —\nAI · Art · Biotech · editorial · Energy · Neuroscience · Robotics · Space\n\n— Admin checklist —\n• Draft original title + dek\n• Write body (~280–320 words) in CoC voice\n• Set hero image URL + credit\n• Mark published when ready",
       "paragraphs": [
         "EDITORIAL BRIEF (outline only — not for publication as-is)\nPublish date: 2026-07-24\nInstruction: Use the titles and key points below to write the final ~300-word CoC editorial. Replace this entire brief with your finished prose before publishing.",
         "— Selected articles of the day (12) —",
         "1. [AI] Gemini 3.6 Flash and 3.5 Flash-Lite now available through official API for developers and AI agents\n   Source: X · @web3l0var\n   URL: https://x.com/web3l0var/status/2079909448219271368\n   Key points:\n   • Model ecosystem expansion: Gemini 3.6 Flash and Gemini 3.5 Flash-Lite via official API access.",
-        "2. [Art] The Biggest American Wiener\n   Source: Hyperallergic\n   URL: https://hyperallergic.com/the-biggest-american-wiener/\n   Key points:\n   • A visit to the “Most American Pageant Ever!” and the story of a broken Jefferson statue’s quill.",
-        "3. [Biotech] A new, separate outbreak of the diarrhea-causing parasite\n   Source: STAT News\n   URL: https://www.statnews.com/2026/07/24/health-news-new-separate-cyclospora-diarrhea-outbreak/?utm_campaign=rss\n   Key points:\n   • A win for peptide proponents, autism advisory committees clash, and more health news from Morning Rounds",
+        "2. [Art] 7 Unforgettable Art Day Trips Worth Taking in Summer 2026\n   Source: Artsy\n   URL: https://www.artsy.net/article/artsy-editorial-7-unforgettable-art-day-trips-worth-summer-2026\n   Key points:\n   • Summer 2026 is in full swing, and it’s been an exciting one so far, with highlights ranging from the FIFA World Cup to The Odyssey .\n   • But as we enter the quieter phase of the season, your calendar might be a little more…",
+        "3. [Biotech] There are already more U.S. measles cases this year than in all of 2025\n   Source: STAT News\n   URL: https://www.statnews.com/2026/07/24/measles-cases-surpass-2025-total-national-vaccination-rate-now-below-key-threshold/?utm_campaign=rss\n   Key points:\n   • The number of measles cases in the U.S.\n   • has surpassed the record-breaking tally for all of 2025, with five more months of 2026 still to come.",
         "4. [editorial] The Referee Problem: Civilization's Defining Test\n   Source: Chronicle of Convergence · Editorial\n   URL: https://chronicleofconvergence.com/e/2026-07-22.html\n   Key points:\n   • When the Machine Outruns the Referee",
         "5. [Energy] Startup offers low-cost home batteries to Massachusetts residents\n   Source: Canary Media\n   URL: https://www.canarymedia.com/articles/batteries/haven-energy-low-cost-batteries-massachusetts\n   Key points:\n   • Haven Energy is the newest company offering home battery service in Massachusetts for a low monthly payment, a model supporters say could accelerate adoption of residential storage.\n   • Starting in four counties in the…",
-        "6. [Neuroscience] Engineers Redefined Light Delivery to Track Neural Firing\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/light-delivery-neural-firing-31117/\n   Key points:\n   • A new study introduces FlatMux, a two-photon voltage imaging platform that records electrical signals from nearly 200 neurons at up to 2,000 frames per second.",
-        "7. [Robotics] How is Technology Changing Recreational Boating?\n   Source: Robotics & Automation News\n   URL: https://roboticsandautomationnews.com/2026/07/24/how-is-technology-changing-recreational-boating/103632/\n   Key points:\n   • For decades, a boat was a simple thing: a hull, an engine, and a captain's judgment.\n   • That picture is changing fast.\n   • The same wave of automation, electrification, and smart software reshaping cars and factories has…",
-        "8. [Space] Office of Space Commerce to move ahead on mission authorization\n   Source: SpaceNews\n   URL: https://spacenews.com/office-of-space-commerce-to-move-ahead-on-mission-authorization/\n   Key points:\n   • The Commerce Department is moving ahead with plans to implement a voluntary mission authorization system for novel space activities that are not regulated by other agencies.\n   • The post Office of Space Commerce to move…",
+        "6. [Neuroscience] New Study Flips Core Rule of Evolution\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/social-behavior-evolution-31122/\n   Key points:\n   • A long-term hyena study reveals female reproductive inequality exceeds male inequality over multiple generations.",
+        "7. [Robotics] Video Friday: An Italian Humanoid Comes to Life\n   Source: IEEE Spectrum\n   URL: https://spectrum.ieee.org/video-friday-physical-ai-robotics\n   Key points:\n   • Your weekly selection of awesome robot videos Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics.\n   • We also post a weekly calendar of upcoming robotics…",
+        "8. [Space] Mark Matossian co-founds Whipsmart Ventures to fund space and deep tech\n   Source: SpaceNews\n   URL: https://spacenews.com/mark-matossian-co-founds-whipsmart-ventures-for-space-and-deep-tech/\n   Key points:\n   • SAN FRANCISCO – Space startup veteran Mark Matossian has joined forces with a software engineer and a best-selling author to establish Whipsmart Ventures, a venture capital fund focused on space […] The post Mark…",
         "9. [Art] 132 New York Artists Receive $903,000 in Grants\n   Source: Hyperallergic\n   URL: https://hyperallergic.com/132-new-york-artists-receive-903-000-in-grants/\n   Key points:\n   • The NYSCA/NYFA Artist Fellowship program awards each recipient $8,000 in unrestricted cash.",
-        "10. [Biotech] STAT+: In win for RFK Jr., FDA advisory panel narrowly votes to allow compounding of unapproved peptides\n   Source: STAT News\n   URL: https://www.statnews.com/2026/07/23/fda-panel-okays-peptides-compound-pharmacies-bpc-157-kpv/?utm_campaign=rss\n   Key points:\n   • The panel recommended allowing compounding pharmacies to produce popular but unproven BPC-157 and KPV peptides.",
-        "11. [Space] Mark Matossian co-founds Whipsmart Ventures to fund space and deep tech\n   Source: SpaceNews\n   URL: https://spacenews.com/mark-matossian-co-founds-whipsmart-ventures-for-space-and-deep-tech/\n   Key points:\n   • SAN FRANCISCO – Space startup veteran Mark Matossian has joined forces with a software engineer and a best-selling author to establish Whipsmart Ventures, a venture capital fund focused on space […] The post Mark…",
+        "10. [Neuroscience] Engineers Redefined Light Delivery to Track Neural Firing\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/light-delivery-neural-firing-31117/\n   Key points:\n   • A new study introduces FlatMux, a two-photon voltage imaging platform that records electrical signals from nearly 200 neurons at up to 2,000 frames per second.",
+        "11. [Biotech] STAT+: In win for RFK Jr., FDA advisory panel narrowly votes to allow compounding of unapproved peptides\n   Source: STAT News\n   URL: https://www.statnews.com/2026/07/23/fda-panel-okays-peptides-compound-pharmacies-bpc-157-kpv/?utm_campaign=rss\n   Key points:\n   • The panel recommended allowing compounding pharmacies to produce popular but unproven BPC-157 and KPV peptides.",
         "12. [Neuroscience] New Chip Matches Real-Time Human Brain Speed\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/memristor-chip-brain-speed-neurotech-31110/\n   Key points:\n   • A new study presents the world's first neuromorphic chip capable of matching the operational speed of the human brain.",
         "— Categories present —\nAI · Art · Biotech · editorial · Energy · Neuroscience · Robotics · Space",
         "— Admin checklist —\n• Draft original title + dek\n• Write body (~280–320 words) in CoC voice\n• Set hero image URL + credit\n• Mark published when ready"
       ],
-      "wordCount": 589,
+      "wordCount": 614,
       "themeId": "outline",
       "themeLabel": "Admin outline (titles + key points)",
       "formId": "outline_brief",
@@ -298,23 +298,25 @@
           ]
         },
         {
-          "title": "The Biggest American Wiener",
-          "source": "Hyperallergic",
+          "title": "7 Unforgettable Art Day Trips Worth Taking in Summer 2026",
+          "source": "Artsy",
           "category": "art",
-          "sourceUrl": "https://hyperallergic.com/the-biggest-american-wiener/",
-          "summary": "A visit to the “Most American Pageant Ever!” and the story of a broken Jefferson statue’s quill.",
+          "sourceUrl": "https://www.artsy.net/article/artsy-editorial-7-unforgettable-art-day-trips-worth-summer-2026",
+          "summary": "Summer 2026 is in full swing, and it’s been an exciting one so far, with highlights ranging from the FIFA World Cup to The Odyssey . But as we enter the quieter phase of the season, your calendar might be a little more…",
           "keyPoints": [
-            "A visit to the “Most American Pageant Ever!” and the story of a broken Jefferson statue’s quill."
+            "Summer 2026 is in full swing, and it’s been an exciting one so far, with highlights ranging from the FIFA World Cup to The Odyssey .",
+            "But as we enter the quieter phase of the season, your calendar might be a little more…"
           ]
         },
         {
-          "title": "A new, separate outbreak of the diarrhea-causing parasite",
+          "title": "There are already more U.S. measles cases this year than in all of 2025",
           "source": "STAT News",
           "category": "biotech",
-          "sourceUrl": "https://www.statnews.com/2026/07/24/health-news-new-separate-cyclospora-diarrhea-outbreak/?utm_campaign=rss",
-          "summary": "A win for peptide proponents, autism advisory committees clash, and more health news from Morning Rounds",
+          "sourceUrl": "https://www.statnews.com/2026/07/24/measles-cases-surpass-2025-total-national-vaccination-rate-now-below-key-threshold/?utm_campaign=rss",
+          "summary": "The number of measles cases in the U.S. has surpassed the record-breaking tally for all of 2025, with five more months of 2026 still to come.",
           "keyPoints": [
-            "A win for peptide proponents, autism advisory committees clash, and more health news from Morning Rounds"
+            "The number of measles cases in the U.S.",
+            "has surpassed the record-breaking tally for all of 2025, with five more months of 2026 still to come."
           ]
         },
         {
@@ -339,36 +341,34 @@
           ]
         },
         {
-          "title": "Engineers Redefined Light Delivery to Track Neural Firing",
+          "title": "New Study Flips Core Rule of Evolution",
           "source": "Neuroscience News",
           "category": "neuroscience",
-          "sourceUrl": "https://neurosciencenews.com/light-delivery-neural-firing-31117/",
-          "summary": "A new study introduces FlatMux, a two-photon voltage imaging platform that records electrical signals from nearly 200 neurons at up to 2,000 frames per second.",
+          "sourceUrl": "https://neurosciencenews.com/social-behavior-evolution-31122/",
+          "summary": "A long-term hyena study reveals female reproductive inequality exceeds male inequality over multiple generations.",
           "keyPoints": [
-            "A new study introduces FlatMux, a two-photon voltage imaging platform that records electrical signals from nearly 200 neurons at up to 2,000 frames per second."
+            "A long-term hyena study reveals female reproductive inequality exceeds male inequality over multiple generations."
           ]
         },
         {
-          "title": "How is Technology Changing Recreational Boating?",
-          "source": "Robotics & Automation News",
+          "title": "Video Friday: An Italian Humanoid Comes to Life",
+          "source": "IEEE Spectrum",
           "category": "robotics",
-          "sourceUrl": "https://roboticsandautomationnews.com/2026/07/24/how-is-technology-changing-recreational-boating/103632/",
-          "summary": "For decades, a boat was a simple thing: a hull, an engine, and a captain's judgment. That picture is changing fast. The same wave of automation, electrification, and smart software reshaping cars and factories has…",
+          "sourceUrl": "https://spectrum.ieee.org/video-friday-physical-ai-robotics",
+          "summary": "Your weekly selection of awesome robot videos Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics…",
           "keyPoints": [
-            "For decades, a boat was a simple thing: a hull, an engine, and a captain's judgment.",
-            "That picture is changing fast.",
-            "The same wave of automation, electrification, and smart software reshaping cars and factories has…"
+            "Your weekly selection of awesome robot videos Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics.",
+            "We also post a weekly calendar of upcoming robotics…"
           ]
         },
         {
-          "title": "Office of Space Commerce to move ahead on mission authorization",
+          "title": "Mark Matossian co-founds Whipsmart Ventures to fund space and deep tech",
           "source": "SpaceNews",
           "category": "space",
-          "sourceUrl": "https://spacenews.com/office-of-space-commerce-to-move-ahead-on-mission-authorization/",
-          "summary": "The Commerce Department is moving ahead with plans to implement a voluntary mission authorization system for novel space activities that are not regulated by other agencies. The post Office of Space Commerce to move…",
+          "sourceUrl": "https://spacenews.com/mark-matossian-co-founds-whipsmart-ventures-for-space-and-deep-tech/",
+          "summary": "SAN FRANCISCO – Space startup veteran Mark Matossian has joined forces with a software engineer and a best-selling author to establish Whipsmart Ventures, a venture capital fund focused on space […] The post Mark…",
           "keyPoints": [
-            "The Commerce Department is moving ahead with plans to implement a voluntary mission authorization system for novel space activities that are not regulated by other agencies.",
-            "The post Office of Space Commerce to move…"
+            "SAN FRANCISCO – Space startup veteran Mark Matossian has joined forces with a software engineer and a best-selling author to establish Whipsmart Ventures, a venture capital fund focused on space […] The post Mark…"
           ]
         },
         {
@@ -382,6 +382,16 @@
           ]
         },
         {
+          "title": "Engineers Redefined Light Delivery to Track Neural Firing",
+          "source": "Neuroscience News",
+          "category": "neuroscience",
+          "sourceUrl": "https://neurosciencenews.com/light-delivery-neural-firing-31117/",
+          "summary": "A new study introduces FlatMux, a two-photon voltage imaging platform that records electrical signals from nearly 200 neurons at up to 2,000 frames per second.",
+          "keyPoints": [
+            "A new study introduces FlatMux, a two-photon voltage imaging platform that records electrical signals from nearly 200 neurons at up to 2,000 frames per second."
+          ]
+        },
+        {
           "title": "STAT+: In win for RFK Jr., FDA advisory panel narrowly votes to allow compounding of unapproved peptides",
           "source": "STAT News",
           "category": "biotech",
@@ -389,16 +399,6 @@
           "summary": "The panel recommended allowing compounding pharmacies to produce popular but unproven BPC-157 and KPV peptides.",
           "keyPoints": [
             "The panel recommended allowing compounding pharmacies to produce popular but unproven BPC-157 and KPV peptides."
-          ]
-        },
-        {
-          "title": "Mark Matossian co-founds Whipsmart Ventures to fund space and deep tech",
-          "source": "SpaceNews",
-          "category": "space",
-          "sourceUrl": "https://spacenews.com/mark-matossian-co-founds-whipsmart-ventures-for-space-and-deep-tech/",
-          "summary": "SAN FRANCISCO – Space startup veteran Mark Matossian has joined forces with a software engineer and a best-selling author to establish Whipsmart Ventures, a venture capital fund focused on space […] The post Mark…",
-          "keyPoints": [
-            "SAN FRANCISCO – Space startup veteran Mark Matossian has joined forces with a software engineer and a best-selling author to establish Whipsmart Ventures, a venture capital fund focused on space […] The post Mark…"
           ]
         },
         {
