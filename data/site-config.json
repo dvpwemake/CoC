@@ -3,7 +3,7 @@
   "updated": "2026-07-24",
   "cost": "$0 free tier only — no paid analytics SaaS required",
   "analytics": {
-    "ga4MeasurementId": "",
+    "ga4MeasurementId": "G-MR30B62G0V",
     "ga4MeasurementId_help": "Free: https://analytics.google.com → Admin → Data streams → Web → Measurement ID (G-XXXXXXXX). Paste here, commit, deploy. $0.",
     "cloudflareWebAnalyticsToken": "",
     "cloudflareWebAnalyticsToken_help": "Free: Cloudflare dashboard → Web Analytics → Add site (can be DNS-only or beacon-only) → copy token. $0."
