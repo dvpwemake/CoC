@@ -1,11 +1,22 @@
 [
   {
-    "batchId": "auto_2026-07-25T09-23",
-    "scannedAt": "2026-07-25T09:23:07.685Z",
+    "batchId": "auto_2026-07-25T12-52",
+    "scannedAt": "2026-07-25T12:52:32.819Z",
     "items": [
       {
-        "id": "auto_2026-07-25T09-23_1",
+        "id": "auto_2026-07-25T12-52_1",
         "rank": 1,
+        "title": "Christopher Nolan, David Hockney, Luis Manuel Otero Alcántara",
+        "category": "art",
+        "summary": "A political prisoner is freed, a Homerist reviews Nolan’s “The Odyssey,” and do we have to pretend to like David Hockney’s iPad paintings?",
+        "image": "",
+        "source": "Hyperallergic",
+        "sourceUrl": "https://hyperallergic.com/christopher-nolan-david-hockney-luis-manuel-otero-alcantara/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-25T12-52_2",
+        "rank": 2,
         "title": "SpaceX conducts 13th Starship test flight",
         "category": "space",
         "summary": "SpaceX launched Starship on its 13th suborbital test flight July 24, correcting some of the issues seen on the previous flight while deploying functioning satellites for the first time. The post SpaceX conducts 13th…",
@@ -15,8 +26,8 @@
         "fromX": false
       },
       {
-        "id": "auto_2026-07-25T09-23_2",
-        "rank": 2,
+        "id": "auto_2026-07-25T12-52_3",
+        "rank": 3,
         "title": "Duh, solar power doesn't work at night — but it excels during the day",
         "category": "energy",
         "summary": "Yesterday, the Department of Energy took to social media to try and make a scandal out of a well-known fact: Solar panels do not generate power at night. It’s an old and lazy swipe that critics of renewable energy love…",
@@ -26,18 +37,7 @@
         "fromX": false
       },
       {
-        "id": "auto_2026-07-25T09-23_3",
-        "rank": 3,
-        "title": "Joyce Kozloff Reveals Herself as Guerrilla Girls Founding Member",
-        "category": "art",
-        "summary": "After decades of anonymity, the feminist artist and activist disclosed in an interview that she is the woman behind the mask of “Liubov Popova.”",
-        "image": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/07/GettyImages-949580188-1.jpg",
-        "source": "Hyperallergic",
-        "sourceUrl": "https://hyperallergic.com/joyce-kozloff-reveals-herself-as-guerrilla-girls-founding-member/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-07-25T09-23_4",
+        "id": "auto_2026-07-25T12-52_4",
         "rank": 4,
         "title": "Opinion: I led the FDA’s food safety and nutrition center. Here’s what people are missing about the cyclospora outbreak",
         "category": "biotech",
@@ -48,7 +48,7 @@
         "fromX": false
       },
       {
-        "id": "auto_2026-07-25T09-23_5",
+        "id": "auto_2026-07-25T12-52_5",
         "rank": 5,
         "title": "Gemini 3.6 Flash and 3.5 Flash-Lite now available through official API for developers and AI agents",
         "category": "ai",
