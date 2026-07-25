@@ -1,5 +1,25 @@
 [
   {
+    "batchId": "editorial_2026-07-23",
+    "scannedAt": "2026-07-24T03:04:09.511Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-07-23",
+        "rank": 0,
+        "title": "Brain speed and slow rooms",
+        "category": "editorial",
+        "summary": "Neuromorphic clocks, agent APIs, and the institutions still measured in people",
+        "image": "https://images-assets.nasa.gov/image/PIA15416/PIA15416~medium.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-07-23.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-07-23",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-07-25T01-18",
     "scannedAt": "2026-07-25T01:18:10.685Z",
     "items": [
