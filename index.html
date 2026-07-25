@@ -692,6 +692,7 @@ function bindHeroCarousel(root, slides){
   stopHeroCarousel();
   if(!root||!slides||slides.length<1) return;
   const viewport=root.querySelector('.carousel-viewport');
+  if(!viewport) return; // never throw — index controls must stay alive
   const creditEl=document.getElementById('edHeroCredit');
   const dotsEl=root.querySelector('.carousel-dots');
   const prevBtn=root.querySelector('.carousel-prev');
@@ -715,7 +716,7 @@ function bindHeroCarousel(root, slides){
       '<button type="button" class="carousel-dot" aria-label="Slide '+(n+1)+'" '+(n===i?'aria-current="true"':'')+' data-i="'+n+'"></button>'
     ).join('');
   }
-  function slideEls(){ return [...viewport.querySelectorAll('.carousel-slide')]; }
+  function slideEls(){ return viewport ? [...viewport.querySelectorAll('.carousel-slide')] : []; }
 
   function goFade(to){
     if(slides.length<2) return;
@@ -1159,18 +1160,25 @@ function mergeBatches(a,b){
   }catch(e){}
 
   allB=d.sort((a,b)=>new Date(b.scannedAt)-new Date(a.scannedAt));
-  applyEditorialRoute(false);
-  renderNews(true);
+
+  // Bind controls FIRST so a render throw cannot leave every button dead.
   window.addEventListener('hashchange',()=>{
-    applyEditorialRoute(true);
+    try{ applyEditorialRoute(true); }catch(err){ console.error('CoC hashchange', err); }
   });
-  document.getElementById('catNav').addEventListener('click',e=>{
+  const catNav=document.getElementById('catNav');
+  if(catNav) catNav.addEventListener('click',e=>{
     const p=e.target.closest('.cat-pill'); if(!p) return;
     document.querySelectorAll('.cat-pill').forEach(x=>x.classList.remove('active'));
-    p.classList.add('active'); aCat=p.dataset.cat; renderNews(true);
+    p.classList.add('active'); aCat=p.dataset.cat;
+    try{ renderNews(true); }catch(err){ console.error('CoC renderNews', err); }
   });
   const lm=document.getElementById('loadMore');
-  if(lm) lm.addEventListener('click',()=>renderNews(false));
+  if(lm) lm.addEventListener('click',()=>{
+    try{ renderNews(false); }catch(err){ console.error('CoC loadMore', err); }
+  });
+
+  try{ applyEditorialRoute(false); }catch(err){ console.error('CoC applyEditorialRoute', err); }
+  try{ renderNews(true); }catch(err){ console.error('CoC renderNews', err); }
 })();
 </script>
 </body>
