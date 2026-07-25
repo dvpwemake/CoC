@@ -1,21 +1,21 @@
 [
   {
-    "batchId": "auto_2026-07-25T16-40",
-    "scannedAt": "2026-07-25T16:40:41.545Z",
+    "batchId": "auto_2026-07-25T20-37",
+    "scannedAt": "2026-07-25T20:37:31.736Z",
     "items": [
       {
-        "id": "auto_2026-07-25T16-40_1",
+        "id": "auto_2026-07-25T20-37_1",
         "rank": 1,
-        "title": "Recall-By-Genotype for Precision Psychiatry",
+        "title": "Alzheimer Genetic Risk Scores Do Not Explain SuperAging",
         "category": "neuroscience",
-        "summary": "A new study demonstrates the feasibility of recall-by-genotype research using the diverse BioMe biobank.",
-        "image": "https://neurosciencenews.com/files/2026/07/geneotype-mental-health-neuroscience-1155x770.jpg",
+        "summary": "A new study demonstrates that SuperAgers cannot be distinguished from cognitively average peers by APOE status or polygenic risk scores.",
+        "image": "https://neurosciencenews.com/files/2026/07/alzhimers-genetics-superagers-neuroscience-1155x770.jpg",
         "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/recall-by-genotype-mental-health-31127/",
+        "sourceUrl": "https://neurosciencenews.com/alzheimer-genetic-superager-memory-31129/",
         "fromX": false
       },
       {
-        "id": "auto_2026-07-25T16-40_2",
+        "id": "auto_2026-07-25T20-37_2",
         "rank": 2,
         "title": "The Universe can outrun light without breaking Einstein’s rules",
         "category": "space",
@@ -26,7 +26,7 @@
         "fromX": false
       },
       {
-        "id": "auto_2026-07-25T16-40_3",
+        "id": "auto_2026-07-25T20-37_3",
         "rank": 3,
         "title": "Christopher Nolan, David Hockney, Luis Manuel Otero Alcántara",
         "category": "art",
@@ -37,7 +37,7 @@
         "fromX": false
       },
       {
-        "id": "auto_2026-07-25T16-40_4",
+        "id": "auto_2026-07-25T20-37_4",
         "rank": 4,
         "title": "Duh, solar power doesn't work at night — but it excels during the day",
         "category": "energy",
@@ -48,7 +48,7 @@
         "fromX": false
       },
       {
-        "id": "auto_2026-07-25T16-40_5",
+        "id": "auto_2026-07-25T20-37_5",
         "rank": 5,
         "title": "Gemini 3.6 Flash and 3.5 Flash-Lite now available through official API for developers and AI agents",
         "category": "ai",
