@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-07-25T01-18",
+    "scannedAt": "2026-07-25T01:18:10.685Z",
+    "items": [
+      {
+        "id": "auto_2026-07-25T01-18_1",
+        "rank": 1,
+        "title": "SpaceX conducts 13th Starship test flight",
+        "category": "space",
+        "summary": "SpaceX launched Starship on its 13th suborbital test flight July 24, correcting some of the issues seen on the previous flight while deploying functioning satellites for the first time. The post SpaceX conducts 13th…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/starship-flt13-liftoff.jpeg?fit=1024%2C569&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/spacex-conducts-13th-starship-test-flight/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-25T01-18_2",
+        "rank": 2,
+        "title": "Duh, solar power doesn't work at night — but it excels during the day",
+        "category": "energy",
+        "summary": "Yesterday, the Department of Energy took to social media to try and make a scandal out of a well-known fact: Solar panels do not generate power at night. It’s an old and lazy swipe that critics of renewable energy love…",
+        "image": "https://img.canarymedia.com/content/uploads/panels-sun-getty.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=50eb58f573f1cb6a2f4b673098529eb7",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/solar/doe-solar-power-day-night-texas",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-25T01-18_3",
+        "rank": 3,
+        "title": "Joyce Kozloff Reveals Herself as Guerrilla Girls Founding Member",
+        "category": "art",
+        "summary": "After decades of anonymity, the feminist artist and activist disclosed in an interview that she is the woman behind the mask of “Liubov Popova.”",
+        "image": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/07/GettyImages-949580188-1.jpg",
+        "source": "Hyperallergic",
+        "sourceUrl": "https://hyperallergic.com/joyce-kozloff-reveals-herself-as-guerrilla-girls-founding-member/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-25T01-18_4",
+        "rank": 4,
+        "title": "Opinion: I led the FDA’s food safety and nutrition center. Here’s what people are missing about the cyclospora outbreak",
+        "category": "biotech",
+        "summary": "“Consumers should not be faced with a trade-off between nutrition and food safety,” writes Susan Mayne, former director of the FDA Center for Food Safety and Applied Nutrition.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/07/AP26131788035261-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/07/24/cyclospora-outbreak-contradiction-eat-real-food-less-safety-monitoring/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-25T01-18_5",
+        "rank": 5,
+        "title": "Gemini 3.6 Flash and 3.5 Flash-Lite now available through official API for developers and AI agents",
+        "category": "ai",
+        "summary": "Model ecosystem expansion: Gemini 3.6 Flash and Gemini 3.5 Flash-Lite via official API access.",
+        "image": "https://pbs.twimg.com/media/HN1SnDCWEAA2hmA.jpg",
+        "source": "X · @web3l0var",
+        "sourceUrl": "https://x.com/web3l0var/status/2079909448219271368",
+        "fromX": true
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-07-24T20-52",
     "scannedAt": "2026-07-24T20:52:56.207Z",
     "items": [
@@ -830,45 +891,6 @@
         "source": "IEEE Spectrum",
         "sourceUrl": "https://spectrum.ieee.org/video-friday-robot-world-cup",
         "imageProxy": "https://images.weserv.nl/?url=spectrum.ieee.org%2Fmedia-library%2Fhumanoid-robots-play-soccer-as-a-ball-flies-toward-the-goal-in-a-tournament-arena.jpg%3Fid%3D67119515%26width%3D980&w=640&h=400&fit=cover&we&output=jpg"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-07-11T20-35",
-    "scannedAt": "2026-07-11T20:35:03.236Z",
-    "items": [
-      {
-        "id": "auto_2026-07-11T20-35_1",
-        "rank": 1,
-        "title": "Study Maps the 9 Distinct Types of Procrastinators",
-        "category": "neuroscience",
-        "summary": "A new study identifies 9 distinct archetypes of procrastinators, ranging from the control-seeking Rebel to the distraction-prone Zigzagger.",
-        "image": "https://neurosciencenews.com/files/2026/07/procrastination-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/9-procrastination-types-31038/",
-        "imageProxy": "https://images.weserv.nl/?url=neurosciencenews.com%2Ffiles%2F2026%2F07%2Fprocrastination-neuroscience-1155x770.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-11T20-35_3",
-        "rank": 3,
-        "title": "Nominee for key federal health role has a history of questioning vaccines",
-        "category": "biotech",
-        "summary": "Sean Kaufman's views on vaccines may put him at odds with Sen. Bill Cassidy during next week's confirmation hearing.",
-        "image": "https://www.statnews.com/wp-content/uploads/2025/04/GettyImages-2207186375-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/07/10/sean-kaufman-hhs-nominee-past-statements-question-vaccine-safety/?utm_campaign=rss",
-        "imageProxy": "https://images.weserv.nl/?url=www.statnews.com%2Fwp-content%2Fuploads%2F2025%2F04%2FGettyImages-2207186375-1024x576.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-11T20-35_4",
-        "rank": 4,
-        "title": "Early Career Faculty (ECF) 2025 Awards",
-        "category": "space",
-        "summary": "Back to ECF Home Advanced Diagnostics for High-Enthalpy Test Facilities Simulating Spacecraft Atmospheric Entry Planning for Autonomous Spacecraft Using Machine Learning Methods to Enable Onboard Guidance, Navigation,…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/03/nsmerger-illus-ns.jpg",
-        "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/directorates/stmd/space-tech-research-grants/ecf/early-career-faculty-ecf-2025-awards/",
-        "imageProxy": "https://images.weserv.nl/?url=www.nasa.gov%2Fwp-content%2Fuploads%2F2026%2F03%2Fnsmerger-illus-ns.jpg&w=640&h=400&fit=cover&we&output=jpg"
       }
     ]
   }
