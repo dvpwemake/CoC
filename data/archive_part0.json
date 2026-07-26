@@ -1,11 +1,33 @@
 [
   {
-    "batchId": "auto_2026-07-26T12-49",
-    "scannedAt": "2026-07-26T12:49:23.334Z",
+    "batchId": "auto_2026-07-26T16-41",
+    "scannedAt": "2026-07-26T16:41:29.105Z",
     "items": [
       {
-        "id": "auto_2026-07-26T12-49_1",
+        "id": "auto_2026-07-26T16-41_1",
         "rank": 1,
+        "title": "Optical Tech Would Update a Robot’s AI on the Fly",
+        "category": "robotics",
+        "summary": "Atop a lab bench, Cornell Tech postdoctoral researcher Yifan He positions the lens of an optical receiver almost a meter away from an LED emitting a beam of red light. The computer monitor attached to the receiver takes…",
+        "image": "https://spectrum.ieee.org/media-library/an-asian-man-positions-the-lens-of-an-optical-receiver-a-meter-away-from-a-beam-of-led-light-in-a-lab.jpg?id=67530602&width=980",
+        "source": "IEEE Spectrum",
+        "sourceUrl": "https://spectrum.ieee.org/ai-in-robotics",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-26T16-41_2",
+        "rank": 2,
+        "title": "NASA Astronaut Chris Williams, Crewmates Return from Space Station",
+        "category": "space",
+        "summary": "Concluding an eight-month science mission aboard the International Space Station, NASA astronaut Chris Williams returned to Earth on Sunday alongside Roscosmos cosmonauts Sergey Kud-Sverchkov and Sergei Mikaev. The crew…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/07/ms28soyuzjuly26.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-crewmates-return-from-space-station/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-26T16-41_3",
+        "rank": 3,
         "title": "A hidden Alzheimer’s tipping point may decide who gets dementia",
         "category": "neuroscience",
         "summary": "Scientists have identified a possible tipping point that helps determine whether Alzheimer’s-related brain changes lead to dementia. The key may lie in how the brain’s immune cells respond to plaques and tau, offering a…",
@@ -15,19 +37,8 @@
         "fromX": false
       },
       {
-        "id": "auto_2026-07-26T12-49_2",
-        "rank": 2,
-        "title": "NASA and ESA facilities avoid major damage from wildfires in Spain",
-        "category": "space",
-        "summary": "Key ground stations in Spain operated by NASA and the European Space Agency have avoided serious damage from major wildfires in the country. The post NASA and ESA facilities avoid major damage from wildfires in Spain…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/dsn-madrid-fire.jpeg?fit=1024%2C576&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/nasa-and-esa-facilities-avoid-major-damage-from-wildfires-in-spain/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-07-26T12-49_3",
-        "rank": 3,
+        "id": "auto_2026-07-26T16-41_4",
+        "rank": 4,
         "title": "Christopher Nolan, David Hockney, Luis Manuel Otero Alcántara",
         "category": "art",
         "summary": "A political prisoner is freed, a Homerist reviews Nolan’s “The Odyssey,” and do we have to pretend to like David Hockney’s iPad paintings?",
@@ -37,18 +48,7 @@
         "fromX": false
       },
       {
-        "id": "auto_2026-07-26T12-49_4",
-        "rank": 4,
-        "title": "Duh, solar power doesn't work at night — but it excels during the day",
-        "category": "energy",
-        "summary": "Yesterday, the Department of Energy took to social media to try and make a scandal out of a well-known fact: Solar panels do not generate power at night. It’s an old and lazy swipe that critics of renewable energy love…",
-        "image": "https://img.canarymedia.com/content/uploads/panels-sun-getty.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=50eb58f573f1cb6a2f4b673098529eb7",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/solar/doe-solar-power-day-night-texas",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-07-26T12-49_5",
+        "id": "auto_2026-07-26T16-41_5",
         "rank": 5,
         "title": "Gemini 3.6 Flash and 3.5 Flash-Lite now available through official API for developers and AI agents",
         "category": "ai",
@@ -57,6 +57,26 @@
         "source": "X · @web3l0var",
         "sourceUrl": "https://x.com/web3l0var/status/2079909448219271368",
         "fromX": true
+      }
+    ]
+  },
+  {
+    "batchId": "editorial_2026-07-25",
+    "scannedAt": "2026-07-26T00:19:26.201Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-07-25",
+        "rank": 0,
+        "title": "Ancient Light",
+        "category": "editorial",
+        "summary": "What expands faster than our scores can explain",
+        "image": "https://images-assets.nasa.gov/image/PIA15416/PIA15416~medium.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-07-25.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-07-25",
+        "authorName": "Dr. Wallace Lynch"
       }
     ]
   },
@@ -820,67 +840,6 @@
         "source": "Canary Media",
         "sourceUrl": "https://www.canarymedia.com/articles/corporate-procurement/google-solar-battery-site-arkansas",
         "imageProxy": "https://images.weserv.nl/?url=img.canarymedia.com%2Fcontent%2Fuploads%2FSteelRiver_Groundbreaking-36.jpg%3Fauto%3Dcompress%252Cformat%26crop%3Dfocalpoint%26fit%3Dcrop%26fp-x%3D0.5%26fp-y%3D0.5%26h%3D630%26q%3D82%26w%3D1200%26s%3Da02435a355e5e422a16dfda1b8338bf6&w=640&h=400&fit=cover&we&output=jpg"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-07-14T20-46",
-    "scannedAt": "2026-07-14T20:46:51.211Z",
-    "items": [
-      {
-        "id": "auto_2026-07-14T20-46_1",
-        "rank": 1,
-        "title": "The Amygdala Predicts Teen Isolation Years in Advance",
-        "category": "neuroscience",
-        "summary": "A new study reveals that childhood amygdala reactivity to emotional faces isolates future social health profiles two years later.",
-        "image": "https://neurosciencenews.com/files/2026/07/amygdala-teen-isolation-nueroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/adolescent-amygdala-isolation-31051/",
-        "imageProxy": "https://images.weserv.nl/?url=neurosciencenews.com%2Ffiles%2F2026%2F07%2Famygdala-teen-isolation-nueroscience-1155x770.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-14T20-46_2",
-        "rank": 2,
-        "title": "STAT+: Sales from controversial U.S. drug discount program rose to $100 billion last year",
-        "category": "biotech",
-        "summary": "Prescription drugs purchased under a controversial government discount program amounted to $100 billion in 2025, a 22.8% increase from the previous year.",
-        "image": "https://www.statnews.com/wp-content/uploads/2022/08/AdobeStock_183329702-1024x576.jpeg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/pharmalot/2026/07/14/sales-from-controversial-drug-discount-program-rose-to-100-billion-last-year/?utm_campaign=rss",
-        "imageProxy": "https://images.weserv.nl/?url=www.statnews.com%2Fwp-content%2Fuploads%2F2022%2F08%2FAdobeStock_183329702-1024x576.jpeg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-14T20-46_3",
-        "rank": 3,
-        "title": "NASA Astronaut Anil Menon, Crewmates Arrive at Space Station",
-        "category": "space",
-        "summary": "NASA astronaut Anil Menon, along with Roscosmos cosmonauts Pyotr Dubrov and Anna Kikina, arrived safely at the International Space Station Tuesday, bringing the orbiting laboratory’s crew to 10 for about the next two…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/07/55393472670-5194b57b7f-k.jpg",
-        "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/news-release/nasa-astronaut-anil-menon-crewmates-arrive-at-space-station/",
-        "imageProxy": "https://images.weserv.nl/?url=www.nasa.gov%2Fwp-content%2Fuploads%2F2026%2F07%2F55393472670-5194b57b7f-k.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-14T20-46_4",
-        "rank": 4,
-        "title": "Here’s how offshore wind helped New England beat record heat",
-        "category": "energy",
-        "summary": "America’s offshore wind farms have already shown their ability to keep electricity flowing during brutal winter storms. Now, the clean energy resource has proved it can also bolster the grid during major heat waves.…",
-        "image": "https://img.canarymedia.com/content/uploads/Revolution-wind-April-2023-with-boat_AP26113527293997.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=01a28c990c3c1b26ca2dc590046773d9",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/offshore-wind/offshore-wind-new-england-heat",
-        "imageProxy": "https://images.weserv.nl/?url=img.canarymedia.com%2Fcontent%2Fuploads%2FRevolution-wind-April-2023-with-boat_AP26113527293997.jpg%3Fauto%3Dcompress%252Cformat%26crop%3Dfocalpoint%26fit%3Dcrop%26fp-x%3D0.5%26fp-y%3D0.5%26h%3D630%26q%3D82%26w%3D1200%26s%3D01a28c990c3c1b26ca2dc590046773d9&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-14T20-46_5",
-        "rank": 5,
-        "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
-        "category": "ai",
-        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/thinking2.jpg?resize=1200,600",
-        "source": "MIT Technology Review",
-        "sourceUrl": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
-        "imageProxy": "https://images.weserv.nl/?url=wp.technologyreview.com%2Fwp-content%2Fuploads%2F2026%2F07%2Fthinking2.jpg%3Fresize%3D1200%2C600&w=640&h=400&fit=cover&we&output=jpg"
       }
     ]
   }

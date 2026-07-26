@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-07-14T20-46",
+    "scannedAt": "2026-07-14T20:46:51.211Z",
+    "items": [
+      {
+        "id": "auto_2026-07-14T20-46_1",
+        "rank": 1,
+        "title": "The Amygdala Predicts Teen Isolation Years in Advance",
+        "category": "neuroscience",
+        "summary": "A new study reveals that childhood amygdala reactivity to emotional faces isolates future social health profiles two years later.",
+        "image": "https://neurosciencenews.com/files/2026/07/amygdala-teen-isolation-nueroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/adolescent-amygdala-isolation-31051/",
+        "imageProxy": "https://images.weserv.nl/?url=neurosciencenews.com%2Ffiles%2F2026%2F07%2Famygdala-teen-isolation-nueroscience-1155x770.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-07-14T20-46_2",
+        "rank": 2,
+        "title": "STAT+: Sales from controversial U.S. drug discount program rose to $100 billion last year",
+        "category": "biotech",
+        "summary": "Prescription drugs purchased under a controversial government discount program amounted to $100 billion in 2025, a 22.8% increase from the previous year.",
+        "image": "https://www.statnews.com/wp-content/uploads/2022/08/AdobeStock_183329702-1024x576.jpeg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/pharmalot/2026/07/14/sales-from-controversial-drug-discount-program-rose-to-100-billion-last-year/?utm_campaign=rss",
+        "imageProxy": "https://images.weserv.nl/?url=www.statnews.com%2Fwp-content%2Fuploads%2F2022%2F08%2FAdobeStock_183329702-1024x576.jpeg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-07-14T20-46_3",
+        "rank": 3,
+        "title": "NASA Astronaut Anil Menon, Crewmates Arrive at Space Station",
+        "category": "space",
+        "summary": "NASA astronaut Anil Menon, along with Roscosmos cosmonauts Pyotr Dubrov and Anna Kikina, arrived safely at the International Space Station Tuesday, bringing the orbiting laboratory’s crew to 10 for about the next two…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/07/55393472670-5194b57b7f-k.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/news-release/nasa-astronaut-anil-menon-crewmates-arrive-at-space-station/",
+        "imageProxy": "https://images.weserv.nl/?url=www.nasa.gov%2Fwp-content%2Fuploads%2F2026%2F07%2F55393472670-5194b57b7f-k.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-07-14T20-46_4",
+        "rank": 4,
+        "title": "Here’s how offshore wind helped New England beat record heat",
+        "category": "energy",
+        "summary": "America’s offshore wind farms have already shown their ability to keep electricity flowing during brutal winter storms. Now, the clean energy resource has proved it can also bolster the grid during major heat waves.…",
+        "image": "https://img.canarymedia.com/content/uploads/Revolution-wind-April-2023-with-boat_AP26113527293997.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=01a28c990c3c1b26ca2dc590046773d9",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/offshore-wind/offshore-wind-new-england-heat",
+        "imageProxy": "https://images.weserv.nl/?url=img.canarymedia.com%2Fcontent%2Fuploads%2FRevolution-wind-April-2023-with-boat_AP26113527293997.jpg%3Fauto%3Dcompress%252Cformat%26crop%3Dfocalpoint%26fit%3Dcrop%26fp-x%3D0.5%26fp-y%3D0.5%26h%3D630%26q%3D82%26w%3D1200%26s%3D01a28c990c3c1b26ca2dc590046773d9&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-07-14T20-46_5",
+        "rank": 5,
+        "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
+        "category": "ai",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/thinking2.jpg?resize=1200,600",
+        "source": "MIT Technology Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+        "imageProxy": "https://images.weserv.nl/?url=wp.technologyreview.com%2Fwp-content%2Fuploads%2F2026%2F07%2Fthinking2.jpg%3Fresize%3D1200%2C600&w=640&h=400&fit=cover&we&output=jpg"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-07-13T20-45",
     "scannedAt": "2026-07-13T20:45:36.490Z",
     "items": [
@@ -845,34 +906,6 @@
         "source": "NASA",
         "sourceUrl": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-announces-winners-for-2026-human-lander-challenge/",
         "imageProxy": "https://images.weserv.nl/?url=www.nasa.gov%2Fwp-content%2Fuploads%2F2026%2F06%2Fceb-6192.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-06-26T21-10",
-    "scannedAt": "2026-06-26T21:10:46.383Z",
-    "items": [
-      {
-        "id": "auto_2026-06-26T21-10_2",
-        "rank": 2,
-        "title": "Dual Brain-Machine Interfaces Unlock Bionic Hand Kinesthesia",
-        "category": "neuroscience",
-        "summary": "A new study combining data from two distinct brain-machine interfaces has revealed that the human brain processes artificial movement sensations as coordinated, subconscious hand synergies rather than isolated muscle…",
-        "image": "https://neurosciencenews.com/files/2026/06/bionic-arm-movement-bmi-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/prosthetic-kinesthesia-brain-machine-interface-30954/",
-        "imageProxy": "https://images.weserv.nl/?url=neurosciencenews.com%2Ffiles%2F2026%2F06%2Fbionic-arm-movement-bmi-neuroscience-1155x770.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-06-26T21-10_4",
-        "rank": 4,
-        "title": "BIO 2026: AI, federal policy impacts, and general vibes",
-        "category": "biotech",
-        "summary": "What were the vibes like at BIO 2026? STAT reporters take you inside the annual industry conference on the latest episode of STATus Report.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/06/SR_41_STILL-2-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/06/26/bio-2026-san-diego-key-takeaways-status-report-alex-hogan/?utm_campaign=rss",
-        "imageProxy": "https://images.weserv.nl/?url=www.statnews.com%2Fwp-content%2Fuploads%2F2026%2F06%2FSR_41_STILL-2-1024x576.jpg&w=640&h=400&fit=cover&we&output=jpg"
       }
     ]
   }
