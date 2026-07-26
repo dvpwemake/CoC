@@ -1,10 +1,10 @@
 [
   {
-    "batchId": "auto_2026-07-26T06-26",
-    "scannedAt": "2026-07-26T06:26:26.493Z",
+    "batchId": "auto_2026-07-26T09-48",
+    "scannedAt": "2026-07-26T09:48:33.137Z",
     "items": [
       {
-        "id": "auto_2026-07-26T06-26_1",
+        "id": "auto_2026-07-26T09-48_1",
         "rank": 1,
         "title": "NASA and ESA facilities avoid major damage from wildfires in Spain",
         "category": "space",
@@ -15,7 +15,7 @@
         "fromX": false
       },
       {
-        "id": "auto_2026-07-26T06-26_2",
+        "id": "auto_2026-07-26T09-48_2",
         "rank": 2,
         "title": "Alzheimer Genetic Risk Scores Do Not Explain SuperAging",
         "category": "neuroscience",
@@ -26,7 +26,7 @@
         "fromX": false
       },
       {
-        "id": "auto_2026-07-26T06-26_3",
+        "id": "auto_2026-07-26T09-48_3",
         "rank": 3,
         "title": "Christopher Nolan, David Hockney, Luis Manuel Otero Alcántara",
         "category": "art",
@@ -37,7 +37,7 @@
         "fromX": false
       },
       {
-        "id": "auto_2026-07-26T06-26_4",
+        "id": "auto_2026-07-26T09-48_4",
         "rank": 4,
         "title": "Duh, solar power doesn't work at night — but it excels during the day",
         "category": "energy",
@@ -48,7 +48,7 @@
         "fromX": false
       },
       {
-        "id": "auto_2026-07-26T06-26_5",
+        "id": "auto_2026-07-26T09-48_5",
         "rank": 5,
         "title": "Gemini 3.6 Flash and 3.5 Flash-Lite now available through official API for developers and AI agents",
         "category": "ai",
