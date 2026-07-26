@@ -1,11 +1,22 @@
 [
   {
-    "batchId": "auto_2026-07-26T16-41",
-    "scannedAt": "2026-07-26T16:41:29.105Z",
+    "batchId": "auto_2026-07-26T20-42",
+    "scannedAt": "2026-07-26T20:42:29.589Z",
     "items": [
       {
-        "id": "auto_2026-07-26T16-41_1",
+        "id": "auto_2026-07-26T20-42_1",
         "rank": 1,
+        "title": "Restricted Eating Windows Aid Cognitive Function",
+        "category": "neuroscience",
+        "summary": "Restricting daily eating to an 8 to 9 hour window yields cognitive improvements in spatial planning and problem-solving for older, overweight women beyond the benefits of caloric reduction alone.",
+        "image": "https://neurosciencenews.com/files/2026/07/restricted-eating-cognition-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/restricted-eating-cognition-aging-31130/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-26T20-42_2",
+        "rank": 2,
         "title": "Optical Tech Would Update a Robot’s AI on the Fly",
         "category": "robotics",
         "summary": "Atop a lab bench, Cornell Tech postdoctoral researcher Yifan He positions the lens of an optical receiver almost a meter away from an LED emitting a beam of red light. The computer monitor attached to the receiver takes…",
@@ -15,29 +26,18 @@
         "fromX": false
       },
       {
-        "id": "auto_2026-07-26T16-41_2",
-        "rank": 2,
-        "title": "NASA Astronaut Chris Williams, Crewmates Return from Space Station",
-        "category": "space",
-        "summary": "Concluding an eight-month science mission aboard the International Space Station, NASA astronaut Chris Williams returned to Earth on Sunday alongside Roscosmos cosmonauts Sergey Kud-Sverchkov and Sergei Mikaev. The crew…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/07/ms28soyuzjuly26.jpg",
-        "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-crewmates-return-from-space-station/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-07-26T16-41_3",
+        "id": "auto_2026-07-26T20-42_3",
         "rank": 3,
-        "title": "A hidden Alzheimer’s tipping point may decide who gets dementia",
-        "category": "neuroscience",
-        "summary": "Scientists have identified a possible tipping point that helps determine whether Alzheimer’s-related brain changes lead to dementia. The key may lie in how the brain’s immune cells respond to plaques and tau, offering a…",
-        "image": "https://www.sciencedaily.com/images/1920/dementia-brain-iceberg.webp",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/07/260726015257.htm",
+        "title": "NASA and ESA facilities avoid major damage from wildfires in Spain",
+        "category": "space",
+        "summary": "Key ground stations in Spain operated by NASA and the European Space Agency have avoided serious damage from major wildfires in the country. The post NASA and ESA facilities avoid major damage from wildfires in Spain…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/dsn-madrid-fire.jpeg?fit=1024%2C576&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/nasa-and-esa-facilities-avoid-major-damage-from-wildfires-in-spain/",
         "fromX": false
       },
       {
-        "id": "auto_2026-07-26T16-41_4",
+        "id": "auto_2026-07-26T20-42_4",
         "rank": 4,
         "title": "Christopher Nolan, David Hockney, Luis Manuel Otero Alcántara",
         "category": "art",
@@ -48,7 +48,7 @@
         "fromX": false
       },
       {
-        "id": "auto_2026-07-26T16-41_5",
+        "id": "auto_2026-07-26T20-42_5",
         "rank": 5,
         "title": "Gemini 3.6 Flash and 3.5 Flash-Lite now available through official API for developers and AI agents",
         "category": "ai",
