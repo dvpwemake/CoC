@@ -134,6 +134,22 @@ a{color:inherit;text-decoration:none}
 .gate-err{color:var(--danger);font-family:var(--font-mono);font-size:.55rem;min-height:1.1rem;margin-bottom:.5rem}
 .gate-note{font-family:var(--font-mono);font-size:.48rem;color:var(--text-dim);margin-top:.85rem;line-height:1.5}
 
+/* Image Adjustment panel — head thumbs + editable URLs */
+#imgAdjP{display:none;max-width:920px}
+.img-adj-hint{font-family:var(--font-mono);font-size:.52rem;color:var(--text-dim);line-height:1.55;margin:0 0 1rem}
+.img-adj-list{display:flex;flex-direction:column;gap:.75rem}
+.img-adj-row{display:grid;grid-template-columns:96px 1fr;gap:.85rem;padding:.75rem;background:var(--bg-input);border:1px solid var(--border);border-radius:8px;align-items:start}
+.img-adj-row.changed{border-color:var(--warning)}
+.img-adj-thumb{width:96px;height:72px;border-radius:6px;object-fit:cover;background:var(--bg);border:1px solid var(--border);display:block}
+.img-adj-thumb.fail{opacity:.35}
+.img-adj-meta{min-width:0}
+.img-adj-title{font-size:.78rem;font-weight:600;line-height:1.3;margin-bottom:.25rem}
+.img-adj-sub{font-family:var(--font-mono);font-size:.48rem;color:var(--text-dim);letter-spacing:.06em;text-transform:uppercase;margin-bottom:.45rem}
+.img-adj-url-row{display:flex;gap:.4rem;align-items:center}
+.img-adj-url-row .fi{flex:1;font-family:var(--font-mono);font-size:.58rem}
+.img-adj-actions{display:flex;flex-wrap:wrap;gap:.4rem;margin-top:.45rem}
+.img-adj-empty{padding:2rem 1rem;text-align:center;color:var(--text-dim);font-family:var(--font-mono);font-size:.58rem;border:1px dashed var(--border);border-radius:8px}
+
 </style>
 </head>
 <body>
@@ -183,7 +199,7 @@ a{color:inherit;text-decoration:none}
   </div>
 
   <div class="sec side-acts">
-    <button class="btn btn-p" onclick="createNew()">＋ Manual Entry</button>
+    <button class="btn btn-p" onclick="openImageAdjustment()">🖼 Image Adjustment</button>
     <button class="btn btn-s" onclick="pub()">↑ Publish Now</button>
     <div style="display:flex;gap:.4rem"><button class="btn" onclick="showExp()" style="flex:1">⤓ Export</button><button class="btn" onclick="showImp()" style="flex:1">⤒ Import</button></div>
     <button class="btn" onclick="window.open('index.html','_blank')">◎ Preview</button>
@@ -197,7 +213,20 @@ a{color:inherit;text-decoration:none}
   <div class="ws" id="ws">
     <div class="ic">◇</div>
     <h2>Welcome, Editor</h2>
-    <p><span class="sn">1</span> <b>⚡ Crawl</b> — news (also auto-fills outline draft on server crawl)<br><span class="sn">2</span> <b>✦ Editorial Draft</b> — load outline (titles · URLs · key points)<br><span class="sn">3</span> Write final prose · <b>◎ Preview</b><br><span class="sn">4</span> <b>↑ Publish Editorial</b> — push to GitHub / live (no download)</p>
+    <p><span class="sn">1</span> <b>⚡ Crawl</b> — news (also auto-fills outline draft on server crawl)<br><span class="sn">2</span> <b>🖼 Image Adjustment</b> — fix today’s head image URLs<br><span class="sn">3</span> <b>✦ Editorial Draft</b> — load outline · write prose · <b>◎ Preview</b><br><span class="sn">4</span> <b>↑ Publish Editorial</b> — push to GitHub / live (no download)</p>
+  </div>
+  <div id="imgAdjP">
+    <div class="ph">
+      <h2 class="pt">Image Adjustment</h2>
+      <button class="btn" type="button" onclick="hideImageAdjustment()">← Back</button>
+    </div>
+    <p class="img-adj-hint">Today’s field-signal head images (thumbs + URLs). Edit a broken link, click <b>Apply</b> on the row or <b>Save all</b>. Changes write to editor batches and the local public feed (<code>Publish Now</code> merges for preview). Live GitHub still requires export / crawl publish path.</p>
+    <div class="fa" style="margin-top:0;padding-top:0;border-top:none;margin-bottom:1rem">
+      <button class="btn btn-p" type="button" onclick="saveAllImageAdj()">Save all image URLs</button>
+      <button class="btn btn-s" type="button" onclick="saveAllImageAdj(true)">Save all + Publish feed</button>
+      <button class="btn" type="button" onclick="openImageAdjustment()">↻ Refresh list</button>
+    </div>
+    <div class="img-adj-list" id="imgAdjList"></div>
   </div>
   <div id="eForm" style="display:none">
     <div class="ph"><h2 class="pt" id="fTitle">New Entry</h2><button class="btn btn-d" onclick="delE()" id="delBtn">✕ Delete</button></div>
@@ -426,10 +455,7 @@ async function loadHeadlinesForDraft(){
   return headlines;
 }
 function openEdFormWith(ed){
-  hide();
-  document.getElementById('ws').style.display='none';
-  document.getElementById('eForm').style.display='none';
-  document.getElementById('logP').style.display='none';
+  hidePanelsKeepAside();
   document.getElementById('edForm').style.display='block';
   fillEditorialForm(ed||{});
 }
@@ -521,11 +547,227 @@ function delE(){if(!eId||!confirm('Delete?'))return;for(const b of B){const i=b.
 function cancelE(){eId=null;hide();renderBL()}
 
 function persist(){localStorage.setItem(SK,JSON.stringify(B))}
-function showF(){document.getElementById('ws').style.display='none';document.getElementById('logP').style.display='none';document.getElementById('eForm').style.display='block'}
-function hide(){document.getElementById('eForm').style.display='none';document.getElementById('logP').style.display='none';const ef=document.getElementById('edForm');if(ef)ef.style.display='none';document.getElementById('ws').style.display='flex'}
+function showF(){hidePanelsKeepAside();document.getElementById('eForm').style.display='block'}
+function hidePanelsKeepAside(){
+  document.getElementById('ws').style.display='none';
+  document.getElementById('logP').style.display='none';
+  document.getElementById('eForm').style.display='none';
+  const ef=document.getElementById('edForm'); if(ef) ef.style.display='none';
+  const ia=document.getElementById('imgAdjP'); if(ia) ia.style.display='none';
+}
+function hide(){
+  document.getElementById('eForm').style.display='none';
+  document.getElementById('logP').style.display='none';
+  const ef=document.getElementById('edForm'); if(ef) ef.style.display='none';
+  const ia=document.getElementById('imgAdjP'); if(ia) ia.style.display='none';
+  document.getElementById('ws').style.display='flex';
+}
 function clrF(){['fR','fT','fS','fI','fSr','fSu','fB'].forEach(id=>document.getElementById(id).value='');document.getElementById('fC').value='ai';updImg('')}
 function updImg(u){const a=document.getElementById('imgP');if(!u){a.innerHTML='<span class="ph-t">Preview</span>';return}a.innerHTML='<img referrerpolicy="no-referrer">';const img=a.querySelector('img');img.src=u;img.onerror=function(){if(!this.dataset.proxy){this.dataset.proxy='1';this.src='https://images.weserv.nl/?url='+encodeURIComponent(u.replace(/^https?:\/\//,''))+'&w=640&fit=cover';return}this.parentElement.innerHTML='<span class="ph-t">Failed</span>'}}
 function fC(c){return{ai:'AI',art:'Art',robotics:'Robotics',biotech:'Biotech',space:'Space Tech',energy:'Energy',neuroscience:'Neuroscience',editorial:'Editorial'}[c]||c}
+
+/* ═══ IMAGE ADJUSTMENT — today's head images ═══ */
+function escAttr(s){return String(s||'').replace(/&/g,'&amp;').replace(/"/g,'&quot;').replace(/</g,'&lt;')}
+function dayKeyFromScan(scannedAt){
+  if(!scannedAt) return '';
+  try{
+    const parts=new Intl.DateTimeFormat('en-CA',{timeZone:'America/New_York',year:'numeric',month:'2-digit',day:'2-digit'}).formatToParts(new Date(scannedAt));
+    let y,m,d; parts.forEach(p=>{if(p.type==='year')y=p.value;if(p.type==='month')m=p.value;if(p.type==='day')d=p.value});
+    return y+'-'+m+'-'+d;
+  }catch(e){return String(scannedAt).slice(0,10)}
+}
+/** Collect today's field-signal items (live / ET calendar day), newest batch first. */
+function collectTodayImageItems(){
+  const day=typeof todayET==='function'?todayET():new Date().toISOString().slice(0,10);
+  const now=Date.now();
+  const rows=[];
+  const seen=new Set();
+  function push(batchId, it, scannedAt){
+    if(!it||!it.id) return;
+    const k=String(it.id);
+    if(seen.has(k)) return;
+    seen.add(k);
+    rows.push({
+      batchId,
+      id:it.id,
+      rank:it.rank||99,
+      title:it.title||'Untitled',
+      category:it.category||'',
+      image:it.image||'',
+      source:it.source||'',
+      sourceUrl:it.sourceUrl||'',
+      scannedAt:scannedAt||''
+    });
+  }
+  for(const b of B){
+    const live=(now-new Date(b.scannedAt).getTime())<864e5;
+    const batchDay=dayKeyFromScan(b.scannedAt);
+    if(!(live||batchDay===day)) continue;
+    for(const it of (b.items||[])) push(b.batchId, it, b.scannedAt);
+  }
+  // Fallback: most recent batch only
+  if(!rows.length && B[0]){
+    for(const it of (B[0].items||[])) push(B[0].batchId, it, B[0].scannedAt);
+  }
+  // Also surface public feed items from today if editor batches thin
+  if(rows.length<3){
+    try{
+      const prev=JSON.parse(localStorage.getItem(PK)||'[]')||[];
+      for(const b of prev){
+        const live=(now-new Date(b.scannedAt).getTime())<864e5;
+        const batchDay=dayKeyFromScan(b.scannedAt);
+        if(!(live||batchDay===day)) continue;
+        // ensure batch exists in B for save path
+        if(!B.find(x=>x.batchId===b.batchId)){
+          B.unshift(JSON.parse(JSON.stringify(b)));
+        }
+        for(const it of (b.items||[])) push(b.batchId, it, b.scannedAt);
+      }
+      if(B.length) persist();
+    }catch(e){}
+  }
+  rows.sort((a,b)=>(a.rank||99)-(b.rank||99)||String(a.title).localeCompare(String(b.title)));
+  return rows;
+}
+function openImageAdjustment(){
+  hidePanelsKeepAside();
+  const panel=document.getElementById('imgAdjP');
+  if(panel) panel.style.display='block';
+  renderImageAdjustment();
+}
+function hideImageAdjustment(){hide()}
+function thumbProxy(u){
+  if(!u) return '';
+  return 'https://images.weserv.nl/?url='+encodeURIComponent(String(u).replace(/^https?:\/\//,''))+'&w=192&h=144&fit=cover&we&output=jpg';
+}
+function renderImageAdjustment(){
+  const list=document.getElementById('imgAdjList');
+  if(!list) return;
+  const rows=collectTodayImageItems();
+  if(!rows.length){
+    list.innerHTML='<div class="img-adj-empty">No today\'s articles in editor batches.<br>Run <b>⚡ Crawl</b> first, or import a batch.</div>';
+    return;
+  }
+  list.innerHTML=rows.map((r,idx)=>{
+    const img=r.image||'';
+    const src=img||'';
+    return `<div class="img-adj-row" data-batch="${escAttr(r.batchId)}" data-id="${escAttr(r.id)}" id="imgAdjRow_${idx}">
+      <img class="img-adj-thumb" alt="" referrerpolicy="no-referrer" src="${escAttr(src)}" data-orig="${escAttr(img)}"
+        onerror="if(!this.dataset.proxy&&this.dataset.orig){this.dataset.proxy='1';this.src='${escAttr(thumbProxy(img))}';return;} this.classList.add('fail');">
+      <div class="img-adj-meta">
+        <div class="img-adj-title">${escAttr(r.title)}</div>
+        <div class="img-adj-sub">#${r.rank||'—'} · ${escAttr(fC(r.category))} · ${escAttr(r.source||'—')}</div>
+        <div class="img-adj-url-row">
+          <input type="url" class="fi img-adj-input" value="${escAttr(img)}" placeholder="https://… image URL" data-orig="${escAttr(img)}"
+            oninput="onImgAdjInput(this)">
+        </div>
+        <div class="img-adj-actions">
+          <button type="button" class="btn btn-p" onclick="applyImageAdjRow(this)">Apply</button>
+          <button type="button" class="btn" onclick="pullImgAdjRow(this)" title="Fetch og:image from article Source URL">↻ From article</button>
+          <button type="button" class="btn" onclick="selE('${String(r.batchId).replace(/'/g,"\\'")}','${String(r.id).replace(/'/g,"\\'")}')">Open full edit</button>
+          ${r.sourceUrl?`<a class="btn" href="${escAttr(r.sourceUrl)}" target="_blank" rel="noopener">Article ↗</a>`:''}
+        </div>
+      </div>
+    </div>`;
+  }).join('');
+}
+function onImgAdjInput(inp){
+  const row=inp.closest('.img-adj-row');
+  if(!row) return;
+  const changed=String(inp.value||'').trim()!==String(inp.dataset.orig||'').trim();
+  row.classList.toggle('changed', changed);
+  const thumb=row.querySelector('.img-adj-thumb');
+  const u=String(inp.value||'').trim();
+  if(thumb){
+    thumb.classList.remove('fail');
+    delete thumb.dataset.proxy;
+    thumb.dataset.orig=u;
+    if(!u){ thumb.removeAttribute('src'); thumb.classList.add('fail'); return; }
+    thumb.src=u;
+  }
+}
+function applyImageAdjRow(btn){
+  const row=btn.closest('.img-adj-row');
+  if(!row) return;
+  const batchId=row.dataset.batch;
+  const itemId=row.dataset.id;
+  const inp=row.querySelector('.img-adj-input');
+  const url=String(inp&&inp.value||'').trim();
+  if(!patchItemImage(batchId, itemId, url)){
+    toast('Item not found in batches','warning');
+    return;
+  }
+  if(inp){ inp.dataset.orig=url; }
+  row.classList.remove('changed');
+  onImgAdjInput(inp);
+  toast('Image URL saved','success');
+  renderBL();
+}
+async function pullImgAdjRow(btn){
+  const row=btn.closest('.img-adj-row');
+  if(!row) return;
+  const batchId=row.dataset.batch;
+  const itemId=row.dataset.id;
+  const batch=B.find(b=>b.batchId===batchId);
+  const it=batch&&(batch.items||[]).find(x=>x.id===itemId);
+  const articleUrl=it&&it.sourceUrl;
+  if(!articleUrl||articleUrl==='#'){ toast('No source URL on this item','warning'); return; }
+  toast('Fetching og:image…','info');
+  const og=await fetchOgImage(articleUrl);
+  if(!og){ toast('No og:image found','warning'); return; }
+  const inp=row.querySelector('.img-adj-input');
+  if(inp){ inp.value=og; onImgAdjInput(inp); }
+  toast('Image URL loaded — click Apply to save','info');
+}
+function patchItemImage(batchId, itemId, url){
+  const batch=B.find(b=>b.batchId===batchId);
+  if(!batch) return false;
+  const it=(batch.items||[]).find(x=>x.id===itemId);
+  if(!it) return false;
+  it.image=url;
+  persist();
+  // Mirror into public local feed so index preview can pick up swaps
+  try{
+    let prev=JSON.parse(localStorage.getItem(PK)||'[]')||[];
+    let hit=false;
+    for(const b of prev){
+      if(b.batchId!==batchId) continue;
+      const x=(b.items||[]).find(i=>i.id===itemId);
+      if(x){ x.image=url; hit=true; }
+    }
+    if(!hit){
+      // upsert batch from editor
+      const copy=JSON.parse(JSON.stringify(batch));
+      prev=prev.filter(b=>b.batchId!==batchId);
+      prev.unshift(copy);
+    }
+    localStorage.setItem(PK, JSON.stringify(prev));
+  }catch(e){}
+  return true;
+}
+function saveAllImageAdj(andPublish){
+  const list=document.getElementById('imgAdjList');
+  if(!list) return;
+  let n=0, fail=0;
+  list.querySelectorAll('.img-adj-row').forEach(row=>{
+    const batchId=row.dataset.batch;
+    const itemId=row.dataset.id;
+    const inp=row.querySelector('.img-adj-input');
+    const url=String(inp&&inp.value||'').trim();
+    if(patchItemImage(batchId, itemId, url)){
+      n++;
+      if(inp) inp.dataset.orig=url;
+      row.classList.remove('changed');
+    }else fail++;
+  });
+  renderBL();
+  if(andPublish){
+    pub();
+    toast('Saved '+n+' image URL(s) + published local feed','success');
+  }else{
+    toast(fail?'Saved '+n+' · '+fail+' failed':'Saved '+n+' image URL(s)','success');
+  }
+}
 function toast(m,t='info'){const e=document.getElementById('tst');e.textContent=m;e.className='toast '+t+' sh';setTimeout(()=>e.classList.remove('sh'),2500)}
 /* modal dismiss bound in initEditorApp */
 
@@ -978,6 +1220,12 @@ window.toggleAuto=toggleAuto;
 window.showLog=showLog;
 window.clearLog=clearLog;
 window.createNew=createNew;
+window.openImageAdjustment=openImageAdjustment;
+window.hideImageAdjustment=hideImageAdjustment;
+window.applyImageAdjRow=applyImageAdjRow;
+window.pullImgAdjRow=pullImgAdjRow;
+window.saveAllImageAdj=saveAllImageAdj;
+window.onImgAdjInput=onImgAdjInput;
 window.pub=pub;
 window.showExp=showExp;
 window.showImp=showImp;
