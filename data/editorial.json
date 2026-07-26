@@ -410,6 +410,172 @@
           ]
         }
       ]
+    },
+    "2026-07-25": {
+      "id": "ed_2026-07-25",
+      "publishDate": "2026-07-25",
+      "status": "draft",
+      "draftKind": "outline",
+      "createdAt": "2026-07-26T01:21:45.782Z",
+      "updatedAt": "2026-07-26T01:21:45.782Z",
+      "title": "Editorial brief — 2026-07-25",
+      "dek": "Outline of selected article titles and key points for admin to write the final editorial.",
+      "body": "EDITORIAL BRIEF (outline only — not for publication as-is)\nPublish date: 2026-07-25\nInstruction: Use the titles and key points below to write the final ~300-word CoC editorial. Replace this entire brief with your finished prose before publishing.\n\n— Selected articles of the day (12) —\n\n1. [AI] Gemini 3.6 Flash and 3.5 Flash-Lite now available through official API for developers and AI agents\n   Source: X · @web3l0var\n   URL: https://x.com/web3l0var/status/2079909448219271368\n   Key points:\n   • Model ecosystem expansion: Gemini 3.6 Flash and Gemini 3.5 Flash-Lite via official API access.\n\n2. [Art] Christopher Nolan, David Hockney, Luis Manuel Otero Alcántara\n   Source: Hyperallergic\n   URL: https://hyperallergic.com/christopher-nolan-david-hockney-luis-manuel-otero-alcantara/\n   Key points:\n   • A political prisoner is freed, a Homerist reviews Nolan’s “The Odyssey,” and do we have to pretend to like David Hockney’s iPad paintings?\n\n3. [Biotech] Opinion: I led the FDA’s food safety and nutrition center. Here’s what people are missing about the cyclospora outbreak\n   Source: STAT News\n   URL: https://www.statnews.com/2026/07/24/cyclospora-outbreak-contradiction-eat-real-food-less-safety-monitoring/?utm_campaign=rss\n   Key points:\n   • “Consumers should not be faced with a trade-off between nutrition and food safety,” writes Susan Mayne, former director of the FDA Center for Food Safety and Applied Nutrition.\n\n4. [editorial] After the Error\n   Source: Chronicle of Convergence · Editorial\n   URL: https://chronicleofconvergence.com/e/2026-07-24.html\n   Key points:\n   • When machines flood the interval that judgment needs most.\n\n5. [Energy] Duh, solar power doesn't work at night — but it excels during the day\n   Source: Canary Media\n   URL: https://www.canarymedia.com/articles/solar/doe-solar-power-day-night-texas\n   Key points:\n   • Yesterday, the Department of Energy took to social media to try and make a scandal out of a well-known fact: Solar panels do not generate power at night.\n   • It’s an old and lazy swipe that critics of renewable energy love…\n\n6. [Neuroscience] Alzheimer Genetic Risk Scores Do Not Explain SuperAging\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/alzheimer-genetic-superager-memory-31129/\n   Key points:\n   • A new study demonstrates that SuperAgers cannot be distinguished from cognitively average peers by APOE status or polygenic risk scores.\n\n7. [Robotics] Orania Limited’s 5-Layer Approach to Platform Data Governance\n   Source: Robotics & Automation News\n   URL: https://roboticsandautomationnews.com/2026/07/22/platform-data-governance-orania-limited/103600/\n   Key points:\n   • Data governance is one of those disciplines that most platforms know they need and few feel they've actually figured out.\n   • The concept is straightforward enough: ensure data is managed properly, protected appropriately,…\n\n8. [Space] The Universe can outrun light without breaking Einstein’s rules\n   Source: ScienceDaily\n   URL: https://www.sciencedaily.com/releases/2026/07/260724061444.htm\n   Key points:\n   • Cosmic expansion allows distant galaxies to move away faster than light, while still letting us see ancient light they emitted when they were much closer.\n   • Eventually, accelerating expansion will push nearly every galaxy…\n\n9. [Space] ULA deals with financial challenges caused by Vulcan grounding\n   Source: SpaceNews\n   URL: https://spacenews.com/ula-deals-with-financial-challenges-caused-by-vulcan-grounding/\n   Key points:\n   • United Launch Alliance’s corporate parents have guaranteed a loan to the company as it addresses “financial challenges” caused by the grounding of its Vulcan Centaur rocket.\n   • The post ULA deals with financial challenges…\n\n10. [Art] Trump Installs Thomas Jefferson Statue in the Rose Garden\n   Source: Hyperallergic\n   URL: https://hyperallergic.com/trump-installs-thomas-jefferson-statue-in-the-rose-garden/\n   Key points:\n   • The artist behind the piece is also responsible for a MAGA-friendly Trump statue.\n\n11. [Neuroscience] Detailed Robot Feedback Can Overload Human Learners\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/robot-feedback-overload-human-learners-31126/\n   Key points:\n   • A new study reveals that detailed personalized feedback from humanoid robots causes immediate cognitive overload after errors, slowing immediate recovery despite improving long-term task performance.\n\n12. [editorial] Brain speed and slow rooms\n   Source: Chronicle of Convergence · Editorial\n   URL: https://chronicleofconvergence.com/e/2026-07-23.html\n   Key points:\n   • Neuromorphic clocks, agent APIs, and the institutions still measured in people\n\n— Categories present —\nAI · Art · Biotech · editorial · Energy · Neuroscience · Robotics · Space\n\n— Admin checklist —\n• Draft original title + dek\n• Write body (~280–320 words) in CoC voice\n• Set hero image URL + credit\n• Mark published when ready",
+      "paragraphs": [
+        "EDITORIAL BRIEF (outline only — not for publication as-is)\nPublish date: 2026-07-25\nInstruction: Use the titles and key points below to write the final ~300-word CoC editorial. Replace this entire brief with your finished prose before publishing.",
+        "— Selected articles of the day (12) —",
+        "1. [AI] Gemini 3.6 Flash and 3.5 Flash-Lite now available through official API for developers and AI agents\n   Source: X · @web3l0var\n   URL: https://x.com/web3l0var/status/2079909448219271368\n   Key points:\n   • Model ecosystem expansion: Gemini 3.6 Flash and Gemini 3.5 Flash-Lite via official API access.",
+        "2. [Art] Christopher Nolan, David Hockney, Luis Manuel Otero Alcántara\n   Source: Hyperallergic\n   URL: https://hyperallergic.com/christopher-nolan-david-hockney-luis-manuel-otero-alcantara/\n   Key points:\n   • A political prisoner is freed, a Homerist reviews Nolan’s “The Odyssey,” and do we have to pretend to like David Hockney’s iPad paintings?",
+        "3. [Biotech] Opinion: I led the FDA’s food safety and nutrition center. Here’s what people are missing about the cyclospora outbreak\n   Source: STAT News\n   URL: https://www.statnews.com/2026/07/24/cyclospora-outbreak-contradiction-eat-real-food-less-safety-monitoring/?utm_campaign=rss\n   Key points:\n   • “Consumers should not be faced with a trade-off between nutrition and food safety,” writes Susan Mayne, former director of the FDA Center for Food Safety and Applied Nutrition.",
+        "4. [editorial] After the Error\n   Source: Chronicle of Convergence · Editorial\n   URL: https://chronicleofconvergence.com/e/2026-07-24.html\n   Key points:\n   • When machines flood the interval that judgment needs most.",
+        "5. [Energy] Duh, solar power doesn't work at night — but it excels during the day\n   Source: Canary Media\n   URL: https://www.canarymedia.com/articles/solar/doe-solar-power-day-night-texas\n   Key points:\n   • Yesterday, the Department of Energy took to social media to try and make a scandal out of a well-known fact: Solar panels do not generate power at night.\n   • It’s an old and lazy swipe that critics of renewable energy love…",
+        "6. [Neuroscience] Alzheimer Genetic Risk Scores Do Not Explain SuperAging\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/alzheimer-genetic-superager-memory-31129/\n   Key points:\n   • A new study demonstrates that SuperAgers cannot be distinguished from cognitively average peers by APOE status or polygenic risk scores.",
+        "7. [Robotics] Orania Limited’s 5-Layer Approach to Platform Data Governance\n   Source: Robotics & Automation News\n   URL: https://roboticsandautomationnews.com/2026/07/22/platform-data-governance-orania-limited/103600/\n   Key points:\n   • Data governance is one of those disciplines that most platforms know they need and few feel they've actually figured out.\n   • The concept is straightforward enough: ensure data is managed properly, protected appropriately,…",
+        "8. [Space] The Universe can outrun light without breaking Einstein’s rules\n   Source: ScienceDaily\n   URL: https://www.sciencedaily.com/releases/2026/07/260724061444.htm\n   Key points:\n   • Cosmic expansion allows distant galaxies to move away faster than light, while still letting us see ancient light they emitted when they were much closer.\n   • Eventually, accelerating expansion will push nearly every galaxy…",
+        "9. [Space] ULA deals with financial challenges caused by Vulcan grounding\n   Source: SpaceNews\n   URL: https://spacenews.com/ula-deals-with-financial-challenges-caused-by-vulcan-grounding/\n   Key points:\n   • United Launch Alliance’s corporate parents have guaranteed a loan to the company as it addresses “financial challenges” caused by the grounding of its Vulcan Centaur rocket.\n   • The post ULA deals with financial challenges…",
+        "10. [Art] Trump Installs Thomas Jefferson Statue in the Rose Garden\n   Source: Hyperallergic\n   URL: https://hyperallergic.com/trump-installs-thomas-jefferson-statue-in-the-rose-garden/\n   Key points:\n   • The artist behind the piece is also responsible for a MAGA-friendly Trump statue.",
+        "11. [Neuroscience] Detailed Robot Feedback Can Overload Human Learners\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/robot-feedback-overload-human-learners-31126/\n   Key points:\n   • A new study reveals that detailed personalized feedback from humanoid robots causes immediate cognitive overload after errors, slowing immediate recovery despite improving long-term task performance.",
+        "12. [editorial] Brain speed and slow rooms\n   Source: Chronicle of Convergence · Editorial\n   URL: https://chronicleofconvergence.com/e/2026-07-23.html\n   Key points:\n   • Neuromorphic clocks, agent APIs, and the institutions still measured in people",
+        "— Categories present —\nAI · Art · Biotech · editorial · Energy · Neuroscience · Robotics · Space",
+        "— Admin checklist —\n• Draft original title + dek\n• Write body (~280–320 words) in CoC voice\n• Set hero image URL + credit\n• Mark published when ready"
+      ],
+      "wordCount": 619,
+      "themeId": "outline",
+      "themeLabel": "Admin outline (titles + key points)",
+      "formId": "outline_brief",
+      "formLabel": "outline brief",
+      "authorName": "Dr. Wallace Lynch",
+      "authorTitle": "Editor in Chief",
+      "heroImage": "https://images-assets.nasa.gov/image/PIA15416/PIA15416~medium.jpg",
+      "heroCredit": "Galaxy cluster",
+      "heroSource": "NASA / JPL-Caltech (public domain)",
+      "heroSourceUrl": "https://images.nasa.gov/details/PIA15416",
+      "headlines": [
+        {
+          "title": "Gemini 3.6 Flash and 3.5 Flash-Lite now available through official API for developers and AI agents",
+          "source": "X · @web3l0var",
+          "category": "ai",
+          "sourceUrl": "https://x.com/web3l0var/status/2079909448219271368",
+          "summary": "Model ecosystem expansion: Gemini 3.6 Flash and Gemini 3.5 Flash-Lite via official API access.",
+          "keyPoints": [
+            "Model ecosystem expansion: Gemini 3.6 Flash and Gemini 3.5 Flash-Lite via official API access."
+          ]
+        },
+        {
+          "title": "Christopher Nolan, David Hockney, Luis Manuel Otero Alcántara",
+          "source": "Hyperallergic",
+          "category": "art",
+          "sourceUrl": "https://hyperallergic.com/christopher-nolan-david-hockney-luis-manuel-otero-alcantara/",
+          "summary": "A political prisoner is freed, a Homerist reviews Nolan’s “The Odyssey,” and do we have to pretend to like David Hockney’s iPad paintings?",
+          "keyPoints": [
+            "A political prisoner is freed, a Homerist reviews Nolan’s “The Odyssey,” and do we have to pretend to like David Hockney’s iPad paintings?"
+          ]
+        },
+        {
+          "title": "Opinion: I led the FDA’s food safety and nutrition center. Here’s what people are missing about the cyclospora outbreak",
+          "source": "STAT News",
+          "category": "biotech",
+          "sourceUrl": "https://www.statnews.com/2026/07/24/cyclospora-outbreak-contradiction-eat-real-food-less-safety-monitoring/?utm_campaign=rss",
+          "summary": "“Consumers should not be faced with a trade-off between nutrition and food safety,” writes Susan Mayne, former director of the FDA Center for Food Safety and Applied Nutrition.",
+          "keyPoints": [
+            "“Consumers should not be faced with a trade-off between nutrition and food safety,” writes Susan Mayne, former director of the FDA Center for Food Safety and Applied Nutrition."
+          ]
+        },
+        {
+          "title": "After the Error",
+          "source": "Chronicle of Convergence · Editorial",
+          "category": "editorial",
+          "sourceUrl": "https://chronicleofconvergence.com/e/2026-07-24.html",
+          "summary": "When machines flood the interval that judgment needs most.",
+          "keyPoints": [
+            "When machines flood the interval that judgment needs most."
+          ]
+        },
+        {
+          "title": "Duh, solar power doesn't work at night — but it excels during the day",
+          "source": "Canary Media",
+          "category": "energy",
+          "sourceUrl": "https://www.canarymedia.com/articles/solar/doe-solar-power-day-night-texas",
+          "summary": "Yesterday, the Department of Energy took to social media to try and make a scandal out of a well-known fact: Solar panels do not generate power at night. It’s an old and lazy swipe that critics of renewable energy love…",
+          "keyPoints": [
+            "Yesterday, the Department of Energy took to social media to try and make a scandal out of a well-known fact: Solar panels do not generate power at night.",
+            "It’s an old and lazy swipe that critics of renewable energy love…"
+          ]
+        },
+        {
+          "title": "Alzheimer Genetic Risk Scores Do Not Explain SuperAging",
+          "source": "Neuroscience News",
+          "category": "neuroscience",
+          "sourceUrl": "https://neurosciencenews.com/alzheimer-genetic-superager-memory-31129/",
+          "summary": "A new study demonstrates that SuperAgers cannot be distinguished from cognitively average peers by APOE status or polygenic risk scores.",
+          "keyPoints": [
+            "A new study demonstrates that SuperAgers cannot be distinguished from cognitively average peers by APOE status or polygenic risk scores."
+          ]
+        },
+        {
+          "title": "Orania Limited’s 5-Layer Approach to Platform Data Governance",
+          "source": "Robotics & Automation News",
+          "category": "robotics",
+          "sourceUrl": "https://roboticsandautomationnews.com/2026/07/22/platform-data-governance-orania-limited/103600/",
+          "summary": "Data governance is one of those disciplines that most platforms know they need and few feel they've actually figured out. The concept is straightforward enough: ensure data is managed properly, protected appropriately,…",
+          "keyPoints": [
+            "Data governance is one of those disciplines that most platforms know they need and few feel they've actually figured out.",
+            "The concept is straightforward enough: ensure data is managed properly, protected appropriately,…"
+          ]
+        },
+        {
+          "title": "The Universe can outrun light without breaking Einstein’s rules",
+          "source": "ScienceDaily",
+          "category": "space",
+          "sourceUrl": "https://www.sciencedaily.com/releases/2026/07/260724061444.htm",
+          "summary": "Cosmic expansion allows distant galaxies to move away faster than light, while still letting us see ancient light they emitted when they were much closer. Eventually, accelerating expansion will push nearly every galaxy…",
+          "keyPoints": [
+            "Cosmic expansion allows distant galaxies to move away faster than light, while still letting us see ancient light they emitted when they were much closer.",
+            "Eventually, accelerating expansion will push nearly every galaxy…"
+          ]
+        },
+        {
+          "title": "ULA deals with financial challenges caused by Vulcan grounding",
+          "source": "SpaceNews",
+          "category": "space",
+          "sourceUrl": "https://spacenews.com/ula-deals-with-financial-challenges-caused-by-vulcan-grounding/",
+          "summary": "United Launch Alliance’s corporate parents have guaranteed a loan to the company as it addresses “financial challenges” caused by the grounding of its Vulcan Centaur rocket. The post ULA deals with financial challenges…",
+          "keyPoints": [
+            "United Launch Alliance’s corporate parents have guaranteed a loan to the company as it addresses “financial challenges” caused by the grounding of its Vulcan Centaur rocket.",
+            "The post ULA deals with financial challenges…"
+          ]
+        },
+        {
+          "title": "Trump Installs Thomas Jefferson Statue in the Rose Garden",
+          "source": "Hyperallergic",
+          "category": "art",
+          "sourceUrl": "https://hyperallergic.com/trump-installs-thomas-jefferson-statue-in-the-rose-garden/",
+          "summary": "The artist behind the piece is also responsible for a MAGA-friendly Trump statue.",
+          "keyPoints": [
+            "The artist behind the piece is also responsible for a MAGA-friendly Trump statue."
+          ]
+        },
+        {
+          "title": "Detailed Robot Feedback Can Overload Human Learners",
+          "source": "Neuroscience News",
+          "category": "neuroscience",
+          "sourceUrl": "https://neurosciencenews.com/robot-feedback-overload-human-learners-31126/",
+          "summary": "A new study reveals that detailed personalized feedback from humanoid robots causes immediate cognitive overload after errors, slowing immediate recovery despite improving long-term task performance.",
+          "keyPoints": [
+            "A new study reveals that detailed personalized feedback from humanoid robots causes immediate cognitive overload after errors, slowing immediate recovery despite improving long-term task performance."
+          ]
+        },
+        {
+          "title": "Brain speed and slow rooms",
+          "source": "Chronicle of Convergence · Editorial",
+          "category": "editorial",
+          "sourceUrl": "https://chronicleofconvergence.com/e/2026-07-23.html",
+          "summary": "Neuromorphic clocks, agent APIs, and the institutions still measured in people",
+          "keyPoints": [
+            "Neuromorphic clocks, agent APIs, and the institutions still measured in people"
+          ]
+        }
+      ]
     }
   },
   "history": [

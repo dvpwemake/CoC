@@ -1,21 +1,62 @@
 [
   {
-    "batchId": "editorial_2026-07-24",
-    "scannedAt": "2026-07-25T02:54:54.620Z",
-    "kind": "editorial_archive",
+    "batchId": "auto_2026-07-26T01-21",
+    "scannedAt": "2026-07-26T01:21:45.448Z",
     "items": [
       {
-        "id": "editorial_2026-07-24",
-        "rank": 0,
-        "title": "After the Error",
-        "category": "editorial",
-        "summary": "When machines flood the interval that judgment needs most.",
-        "image": "https://images-assets.nasa.gov/image/PIA01492/PIA01492~medium.jpg",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-07-24.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-07-24",
-        "authorName": "Dr. Wallace Lynch"
+        "id": "auto_2026-07-26T01-21_1",
+        "rank": 1,
+        "title": "Alzheimer Genetic Risk Scores Do Not Explain SuperAging",
+        "category": "neuroscience",
+        "summary": "A new study demonstrates that SuperAgers cannot be distinguished from cognitively average peers by APOE status or polygenic risk scores.",
+        "image": "https://neurosciencenews.com/files/2026/07/alzhimers-genetics-superagers-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/alzheimer-genetic-superager-memory-31129/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-26T01-21_2",
+        "rank": 2,
+        "title": "The Universe can outrun light without breaking Einstein’s rules",
+        "category": "space",
+        "summary": "Cosmic expansion allows distant galaxies to move away faster than light, while still letting us see ancient light they emitted when they were much closer. Eventually, accelerating expansion will push nearly every galaxy…",
+        "image": "https://www.sciencedaily.com/images/1920/universe-expansion-funnel-evolution-timeline.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/07/260724061444.htm",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-26T01-21_3",
+        "rank": 3,
+        "title": "Christopher Nolan, David Hockney, Luis Manuel Otero Alcántara",
+        "category": "art",
+        "summary": "A political prisoner is freed, a Homerist reviews Nolan’s “The Odyssey,” and do we have to pretend to like David Hockney’s iPad paintings?",
+        "image": "",
+        "source": "Hyperallergic",
+        "sourceUrl": "https://hyperallergic.com/christopher-nolan-david-hockney-luis-manuel-otero-alcantara/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-26T01-21_4",
+        "rank": 4,
+        "title": "Duh, solar power doesn't work at night — but it excels during the day",
+        "category": "energy",
+        "summary": "Yesterday, the Department of Energy took to social media to try and make a scandal out of a well-known fact: Solar panels do not generate power at night. It’s an old and lazy swipe that critics of renewable energy love…",
+        "image": "https://img.canarymedia.com/content/uploads/panels-sun-getty.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=50eb58f573f1cb6a2f4b673098529eb7",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/solar/doe-solar-power-day-night-texas",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-26T01-21_5",
+        "rank": 5,
+        "title": "Gemini 3.6 Flash and 3.5 Flash-Lite now available through official API for developers and AI agents",
+        "category": "ai",
+        "summary": "Model ecosystem expansion: Gemini 3.6 Flash and Gemini 3.5 Flash-Lite via official API access.",
+        "image": "https://pbs.twimg.com/media/HN1SnDCWEAA2hmA.jpg",
+        "source": "X · @web3l0var",
+        "sourceUrl": "https://x.com/web3l0var/status/2079909448219271368",
+        "fromX": true
       }
     ]
   },
@@ -77,6 +118,26 @@
         "source": "X · @web3l0var",
         "sourceUrl": "https://x.com/web3l0var/status/2079909448219271368",
         "fromX": true
+      }
+    ]
+  },
+  {
+    "batchId": "editorial_2026-07-24",
+    "scannedAt": "2026-07-25T02:54:54.620Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-07-24",
+        "rank": 0,
+        "title": "After the Error",
+        "category": "editorial",
+        "summary": "When machines flood the interval that judgment needs most.",
+        "image": "https://images-assets.nasa.gov/image/PIA01492/PIA01492~medium.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-07-24.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-07-24",
+        "authorName": "Dr. Wallace Lynch"
       }
     ]
   },
