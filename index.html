@@ -1086,18 +1086,43 @@ function renderNews(reset){
 }
 
 function mergeBatches(a,b){
+  // Later batches win on per-item fields (esp. image URL after Image Adjustment).
   const map=new Map();
   for(const batch of [...(a||[]),...(b||[])]){
     const id=batch.batchId||batch.scannedAt;
     if(!id) continue;
-    if(!map.has(id)) map.set(id, batch);
-    else {
-      // merge items by title
-      const cur=map.get(id);
-      const titles=new Set((cur.items||[]).map(x=>(x.title||'').toLowerCase()));
-      const extra=(batch.items||[]).filter(x=>!titles.has((x.title||'').toLowerCase()));
-      if(extra.length) cur.items=(cur.items||[]).concat(extra);
+    if(!map.has(id)){
+      map.set(id, JSON.parse(JSON.stringify(batch)));
+      continue;
     }
+    const cur=map.get(id);
+    if(!Array.isArray(cur.items)) cur.items=[];
+    const byKey=new Map();
+    for(const x of cur.items){
+      const k=(x.id||'')||('t:'+(x.title||'').toLowerCase());
+      byKey.set(k, x);
+      if(x.title) byKey.set('t:'+(x.title||'').toLowerCase(), x);
+    }
+    for(const x of (batch.items||[])){
+      const idk=x.id||'';
+      const tk='t:'+(x.title||'').toLowerCase();
+      const old=(idk&&byKey.get(idk))||byKey.get(tk);
+      if(old){
+        // Prefer non-empty image/summary/source from later source
+        if(x.image!=null && String(x.image).trim()!=='') old.image=x.image;
+        if(x.summary!=null && String(x.summary).trim()!=='') old.summary=x.summary;
+        if(x.source!=null && String(x.source).trim()!=='') old.source=x.source;
+        if(x.sourceUrl!=null && String(x.sourceUrl).trim()!=='' && x.sourceUrl!=='#') old.sourceUrl=x.sourceUrl;
+        if(x.rank!=null) old.rank=x.rank;
+        if(x.category) old.category=x.category;
+      }else{
+        cur.items.push(JSON.parse(JSON.stringify(x)));
+        const nx=cur.items[cur.items.length-1];
+        if(nx.id) byKey.set(nx.id, nx);
+        if(nx.title) byKey.set('t:'+(nx.title||'').toLowerCase(), nx);
+      }
+    }
+    if(batch.scannedAt) cur.scannedAt=batch.scannedAt;
   }
   return [...map.values()];
 }

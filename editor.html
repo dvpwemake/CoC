@@ -200,7 +200,7 @@ a{color:inherit;text-decoration:none}
 
   <div class="sec side-acts">
     <button class="btn btn-p" onclick="openImageAdjustment()">🖼 Image Adjustment</button>
-    <button class="btn btn-s" onclick="pub()">↑ Publish Now</button>
+    <button class="btn btn-s" onclick="pub()" title="Browser localStorage only — not live GitHub">↑ Publish Now (local)</button>
     <div style="display:flex;gap:.4rem"><button class="btn" onclick="showExp()" style="flex:1">⤓ Export</button><button class="btn" onclick="showImp()" style="flex:1">⤒ Import</button></div>
     <button class="btn" onclick="window.open('index.html','_blank')">◎ Preview</button>
   </div>
@@ -213,19 +213,24 @@ a{color:inherit;text-decoration:none}
   <div class="ws" id="ws">
     <div class="ic">◇</div>
     <h2>Welcome, Editor</h2>
-    <p><span class="sn">1</span> <b>⚡ Crawl</b> — news (also auto-fills outline draft on server crawl)<br><span class="sn">2</span> <b>🖼 Image Adjustment</b> — fix today’s head image URLs<br><span class="sn">3</span> <b>✦ Editorial Draft</b> — load outline · write prose · <b>◎ Preview</b><br><span class="sn">4</span> <b>↑ Publish Editorial</b> — push to GitHub / live (no download)</p>
+    <p><span class="sn">1</span> <b>⚡ Crawl</b> — news (also auto-fills outline draft on server crawl)<br><span class="sn">2</span> <b>🖼 Image Adjustment</b> — fix head image URLs (all articles)<br><span class="sn">3</span> <b>✦ Editorial Draft</b> — load outline · write prose · <b>◎ Preview</b><br><span class="sn">4</span> <b>↑ Publish Editorial</b> — push to GitHub / live (no download)</p>
   </div>
   <div id="imgAdjP">
     <div class="ph">
       <h2 class="pt">Image Adjustment</h2>
       <button class="btn" type="button" onclick="hideImageAdjustment()">← Back</button>
     </div>
-    <p class="img-adj-hint">Today’s field-signal head images (thumbs + URLs). Edit a broken link, click <b>Apply</b> on the row or <b>Save all</b>. Changes write to editor batches and the local public feed (<code>Publish Now</code> merges for preview). Live GitHub still requires export / crawl publish path.</p>
-    <div class="fa" style="margin-top:0;padding-top:0;border-top:none;margin-bottom:1rem">
-      <button class="btn btn-p" type="button" onclick="saveAllImageAdj()">Save all image URLs</button>
-      <button class="btn btn-s" type="button" onclick="saveAllImageAdj(true)">Save all + Publish feed</button>
-      <button class="btn" type="button" onclick="openImageAdjustment()">↻ Refresh list</button>
+    <p class="img-adj-hint">All field-signal head images (every batch in the archive / editor). <b>Apply / Save all</b> = this browser only. <b>↑ Publish images to live</b> writes <code>data/archive.json</code> + <code>EMBEDDED_DATA</code> on GitHub (same PAT as Editorial publish). Without that step, the live site keeps old crawl images.</p>
+    <div class="fg" style="margin-bottom:.75rem">
+      <label class="fl" for="imgAdjFilter">Filter (title · source · category · date)</label>
+      <input type="search" class="fi" id="imgAdjFilter" placeholder="Type to filter…" oninput="renderImageAdjustment()">
     </div>
+    <div class="fa" style="margin-top:0;padding-top:0;border-top:none;margin-bottom:1rem">
+      <button class="btn btn-p" type="button" onclick="saveAllImageAdj()">Save all (browser)</button>
+      <button class="btn btn-s" type="button" id="imgAdjGhBtn" onclick="publishImageAdjToGitHub()">↑ Publish images to live</button>
+      <button class="btn" type="button" onclick="openImageAdjustment(true)">↻ Reload from archive</button>
+    </div>
+    <p class="img-adj-hint" id="imgAdjCount" style="margin-bottom:.5rem"></p>
     <div class="img-adj-list" id="imgAdjList"></div>
   </div>
   <div id="eForm" style="display:none">
@@ -513,25 +518,49 @@ function renderBL(){
 }
 function delB(id){if(!confirm('Delete batch?'))return;B=B.filter(b=>b.batchId!==id);persist();renderBL();hide();toast('Deleted','info')}
 
+function mergeBatchesLocal(a,b){
+  // Same rules as index.html: later source wins on image/summary for matching items
+  const map=new Map();
+  for(const batch of [...(a||[]),...(b||[])]){
+    const id=batch.batchId||batch.scannedAt;
+    if(!id) continue;
+    if(!map.has(id)){ map.set(id, JSON.parse(JSON.stringify(batch))); continue; }
+    const cur=map.get(id);
+    if(!Array.isArray(cur.items)) cur.items=[];
+    const byKey=new Map();
+    for(const x of cur.items){
+      if(x.id) byKey.set(x.id, x);
+      if(x.title) byKey.set('t:'+(x.title||'').toLowerCase(), x);
+    }
+    for(const x of (batch.items||[])){
+      const old=(x.id&&byKey.get(x.id))||byKey.get('t:'+(x.title||'').toLowerCase());
+      if(old){
+        if(x.image!=null && String(x.image).trim()!=='') old.image=x.image;
+        if(x.summary!=null && String(x.summary).trim()!=='') old.summary=x.summary;
+        if(x.source!=null && String(x.source).trim()!=='') old.source=x.source;
+        if(x.sourceUrl!=null && String(x.sourceUrl).trim()!=='' && x.sourceUrl!=='#') old.sourceUrl=x.sourceUrl;
+        if(x.rank!=null) old.rank=x.rank;
+        if(x.category) old.category=x.category;
+      }else{
+        const nx=JSON.parse(JSON.stringify(x));
+        cur.items.push(nx);
+        if(nx.id) byKey.set(nx.id, nx);
+        if(nx.title) byKey.set('t:'+(nx.title||'').toLowerCase(), nx);
+      }
+    }
+    if(batch.scannedAt) cur.scannedAt=batch.scannedAt;
+  }
+  return [...map.values()];
+}
 function pub(){
   B=scrubBatches(B);persist();
   // Merge with any existing public feed so prior cards are never wiped on publish
   let prev=[];
   try{prev=JSON.parse(localStorage.getItem(PK)||'[]')||[]}catch(e){}
-  const map=new Map();
-  for(const b of [...prev,...B]){
-    const id=b.batchId||b.scannedAt; if(!id) continue;
-    if(!map.has(id)) map.set(id,b);
-    else{
-      const cur=map.get(id);
-      const titles=new Set((cur.items||[]).map(x=>(x.title||'').toLowerCase()));
-      const extra=(b.items||[]).filter(x=>!titles.has((x.title||'').toLowerCase()));
-      if(extra.length) cur.items=(cur.items||[]).concat(extra);
-    }
-  }
-  const merged=[...map.values()].sort((a,b)=>new Date(b.scannedAt)-new Date(a.scannedAt));
+  const merged=mergeBatchesLocal(prev, B).sort((a,b)=>new Date(b.scannedAt)-new Date(a.scannedAt));
   localStorage.setItem(PK,JSON.stringify(merged));
-  toast('Published!','success');addLog('ok','Published (merged + sanitized).');
+  toast('Local feed updated (this browser only — not GitHub live)','success');
+  addLog('ok','Publish Now = localStorage only (not live site). Use ↑ Publish images to live for GitHub.');
 }
 function showExp(){document.getElementById('expJ').textContent=JSON.stringify(B,null,2);document.getElementById('expM').classList.add('sh')}
 function cpExp(){navigator.clipboard.writeText(document.getElementById('expJ').textContent).then(()=>toast('Copied','success'))}
@@ -566,7 +595,7 @@ function clrF(){['fR','fT','fS','fI','fSr','fSu','fB'].forEach(id=>document.getE
 function updImg(u){const a=document.getElementById('imgP');if(!u){a.innerHTML='<span class="ph-t">Preview</span>';return}a.innerHTML='<img referrerpolicy="no-referrer">';const img=a.querySelector('img');img.src=u;img.onerror=function(){if(!this.dataset.proxy){this.dataset.proxy='1';this.src='https://images.weserv.nl/?url='+encodeURIComponent(u.replace(/^https?:\/\//,''))+'&w=640&fit=cover';return}this.parentElement.innerHTML='<span class="ph-t">Failed</span>'}}
 function fC(c){return{ai:'AI',art:'Art',robotics:'Robotics',biotech:'Biotech',space:'Space Tech',energy:'Energy',neuroscience:'Neuroscience',editorial:'Editorial'}[c]||c}
 
-/* ═══ IMAGE ADJUSTMENT — today's head images ═══ */
+/* ═══ IMAGE ADJUSTMENT — all field-signal head images ═══ */
 function escAttr(s){return String(s||'').replace(/&/g,'&amp;').replace(/"/g,'&quot;').replace(/</g,'&lt;')}
 function dayKeyFromScan(scannedAt){
   if(!scannedAt) return '';
@@ -576,10 +605,54 @@ function dayKeyFromScan(scannedAt){
     return y+'-'+m+'-'+d;
   }catch(e){return String(scannedAt).slice(0,10)}
 }
-/** Collect today's field-signal items (live / ET calendar day), newest batch first. */
-function collectTodayImageItems(){
-  const day=typeof todayET==='function'?todayET():new Date().toISOString().slice(0,10);
-  const now=Date.now();
+/** Merge external batches into editor B so every article can be saved by id. */
+function upsertBatchesIntoEditor(batches){
+  if(!Array.isArray(batches)||!batches.length) return 0;
+  let added=0;
+  for(const b of batches){
+    if(!b||!(b.batchId||b.scannedAt)) continue;
+    const id=b.batchId||b.scannedAt;
+    const bi=B.findIndex(x=>(x.batchId||x.scannedAt)===id);
+    if(bi<0){
+      B.push(JSON.parse(JSON.stringify(b)));
+      added++;
+      continue;
+    }
+    // Merge items into existing batch (do not wipe local image edits that are newer by keeping non-empty image preference from either side carefully)
+    const dest=B[bi];
+    if(!Array.isArray(dest.items)) dest.items=[];
+    const byId=new Map(dest.items.map(x=>[x.id,x]));
+    const byTitle=new Map(dest.items.map(x=>[String(x.title||'').toLowerCase(),x]));
+    for(const it of (b.items||[])){
+      if(!it) continue;
+      let cur=(it.id&&byId.get(it.id))||byTitle.get(String(it.title||'').toLowerCase());
+      if(cur){
+        // Fill missing fields from archive; do not clobber a non-empty local image with empty
+        if((!cur.image||!String(cur.image).trim()) && it.image) cur.image=it.image;
+        if(!cur.summary && it.summary) cur.summary=it.summary;
+        if(!cur.source && it.source) cur.source=it.source;
+        if((!cur.sourceUrl||cur.sourceUrl==='#') && it.sourceUrl) cur.sourceUrl=it.sourceUrl;
+        if(cur.rank==null && it.rank!=null) cur.rank=it.rank;
+        if(!cur.category && it.category) cur.category=it.category;
+      }else{
+        const nx=JSON.parse(JSON.stringify(it));
+        dest.items.push(nx);
+        if(nx.id) byId.set(nx.id, nx);
+        if(nx.title) byTitle.set(String(nx.title).toLowerCase(), nx);
+        added++;
+      }
+    }
+    if(b.scannedAt && (!dest.scannedAt || new Date(b.scannedAt)>new Date(dest.scannedAt))) dest.scannedAt=b.scannedAt;
+  }
+  B.sort((a,c)=>new Date(c.scannedAt||0)-new Date(a.scannedAt||0));
+  persist();
+  return added;
+}
+/**
+ * Collect ALL field-signal items from every editor batch (not only today).
+ * Newest batches first; stable rank within batch.
+ */
+function collectAllImageItems(){
   const rows=[];
   const seen=new Set();
   function push(batchId, it, scannedAt){
@@ -587,6 +660,7 @@ function collectTodayImageItems(){
     const k=String(it.id);
     if(seen.has(k)) return;
     seen.add(k);
+    const day=dayKeyFromScan(scannedAt);
     rows.push({
       batchId,
       id:it.id,
@@ -596,43 +670,53 @@ function collectTodayImageItems(){
       image:it.image||'',
       source:it.source||'',
       sourceUrl:it.sourceUrl||'',
-      scannedAt:scannedAt||''
+      scannedAt:scannedAt||'',
+      day
     });
   }
+  // Full public feed in browser (if any)
+  try{
+    const prev=JSON.parse(localStorage.getItem(PK)||'[]')||[];
+    if(prev.length) upsertBatchesIntoEditor(prev);
+  }catch(e){}
   for(const b of B){
-    const live=(now-new Date(b.scannedAt).getTime())<864e5;
-    const batchDay=dayKeyFromScan(b.scannedAt);
-    if(!(live||batchDay===day)) continue;
     for(const it of (b.items||[])) push(b.batchId, it, b.scannedAt);
   }
-  // Fallback: most recent batch only
-  if(!rows.length && B[0]){
-    for(const it of (B[0].items||[])) push(B[0].batchId, it, B[0].scannedAt);
-  }
-  // Also surface public feed items from today if editor batches thin
-  if(rows.length<3){
-    try{
-      const prev=JSON.parse(localStorage.getItem(PK)||'[]')||[];
-      for(const b of prev){
-        const live=(now-new Date(b.scannedAt).getTime())<864e5;
-        const batchDay=dayKeyFromScan(b.scannedAt);
-        if(!(live||batchDay===day)) continue;
-        // ensure batch exists in B for save path
-        if(!B.find(x=>x.batchId===b.batchId)){
-          B.unshift(JSON.parse(JSON.stringify(b)));
-        }
-        for(const it of (b.items||[])) push(b.batchId, it, b.scannedAt);
-      }
-      if(B.length) persist();
-    }catch(e){}
-  }
-  rows.sort((a,b)=>(a.rank||99)-(b.rank||99)||String(a.title).localeCompare(String(b.title)));
+  rows.sort((a,b)=>{
+    const ta=new Date(a.scannedAt||0).getTime();
+    const tb=new Date(b.scannedAt||0).getTime();
+    if(tb!==ta) return tb-ta;
+    return (a.rank||99)-(b.rank||99)||String(a.title).localeCompare(String(b.title));
+  });
   return rows;
 }
-function openImageAdjustment(){
+/** @deprecated name kept as alias */
+function collectTodayImageItems(){ return collectAllImageItems(); }
+
+async function loadArchiveForImageAdj(){
+  try{
+    const r=await fetch('data/archive.json',{cache:'no-cache'});
+    if(!r.ok) return {ok:false, n:0};
+    const arch=await r.json();
+    if(!Array.isArray(arch)) return {ok:false, n:0};
+    const n=upsertBatchesIntoEditor(arch);
+    renderBL();
+    return {ok:true, n, batches:arch.length};
+  }catch(e){
+    addLog('er2','Image adj archive load: '+e.message);
+    return {ok:false, n:0, err:e.message};
+  }
+}
+
+async function openImageAdjustment(forceReload){
   hidePanelsKeepAside();
   const panel=document.getElementById('imgAdjP');
   if(panel) panel.style.display='block';
+  toast(forceReload?'Loading full archive…':'Loading articles…','info');
+  // Always hydrate from archive so older cards are editable, not only today's crawl
+  const res=await loadArchiveForImageAdj();
+  if(res.ok) toast('Archive loaded · '+B.length+' batch(es) in editor','success');
+  else if(forceReload) toast('Could not load archive.json — showing local batches only','warning');
   renderImageAdjustment();
 }
 function hideImageAdjustment(){hide()}
@@ -642,23 +726,51 @@ function thumbProxy(u){
 }
 function renderImageAdjustment(){
   const list=document.getElementById('imgAdjList');
+  const countEl=document.getElementById('imgAdjCount');
   if(!list) return;
-  const rows=collectTodayImageItems();
+  // Preserve unsaved URL edits across re-filter/re-render
+  const draftUrls=new Map();
+  list.querySelectorAll('.img-adj-row').forEach(row=>{
+    const inp=row.querySelector('.img-adj-input');
+    if(!inp) return;
+    const key=(row.dataset.batch||'')+'|'+(row.dataset.id||'');
+    draftUrls.set(key, String(inp.value||''));
+  });
+  const q=String((document.getElementById('imgAdjFilter')||{}).value||'').trim().toLowerCase();
+  let rows=collectAllImageItems();
+  const total=rows.length;
+  if(q){
+    rows=rows.filter(r=>{
+      const blob=[r.title,r.source,r.category,r.day,r.batchId,r.image,fC(r.category)].join(' ').toLowerCase();
+      return blob.includes(q);
+    });
+  }
+  if(countEl){
+    countEl.textContent=q
+      ?('Showing '+rows.length+' of '+total+' article(s) · filter “'+q+'”')
+      :('Showing all '+total+' article(s) across '+(B.length||0)+' batch(es)');
+  }
   if(!rows.length){
-    list.innerHTML='<div class="img-adj-empty">No today\'s articles in editor batches.<br>Run <b>⚡ Crawl</b> first, or import a batch.</div>';
+    list.innerHTML=total
+      ?('<div class="img-adj-empty">No matches for filter.<br>Clear the search box to see all '+total+' articles.</div>')
+      :('<div class="img-adj-empty">No articles in editor batches.<br>Run <b>⚡ Crawl</b>, or click <b>↻ Reload from archive</b>.</div>');
     return;
   }
   list.innerHTML=rows.map((r,idx)=>{
-    const img=r.image||'';
+    const key=(r.batchId||'')+'|'+(r.id||'');
+    const img=draftUrls.has(key)?draftUrls.get(key):(r.image||'');
+    const orig=r.image||'';
     const src=img||'';
-    return `<div class="img-adj-row" data-batch="${escAttr(r.batchId)}" data-id="${escAttr(r.id)}" id="imgAdjRow_${idx}">
+    const dayLabel=r.day||dayKeyFromScan(r.scannedAt)||'—';
+    const changed=String(img||'').trim()!==String(orig||'').trim();
+    return `<div class="img-adj-row${changed?' changed':''}" data-batch="${escAttr(r.batchId)}" data-id="${escAttr(r.id)}" id="imgAdjRow_${idx}">
       <img class="img-adj-thumb" alt="" referrerpolicy="no-referrer" src="${escAttr(src)}" data-orig="${escAttr(img)}"
         onerror="if(!this.dataset.proxy&&this.dataset.orig){this.dataset.proxy='1';this.src='${escAttr(thumbProxy(img))}';return;} this.classList.add('fail');">
       <div class="img-adj-meta">
         <div class="img-adj-title">${escAttr(r.title)}</div>
-        <div class="img-adj-sub">#${r.rank||'—'} · ${escAttr(fC(r.category))} · ${escAttr(r.source||'—')}</div>
+        <div class="img-adj-sub">${escAttr(dayLabel)} · #${r.rank||'—'} · ${escAttr(fC(r.category))} · ${escAttr(r.source||'—')}</div>
         <div class="img-adj-url-row">
-          <input type="url" class="fi img-adj-input" value="${escAttr(img)}" placeholder="https://… image URL" data-orig="${escAttr(img)}"
+          <input type="url" class="fi img-adj-input" value="${escAttr(img)}" placeholder="https://… image URL" data-orig="${escAttr(orig)}"
             oninput="onImgAdjInput(this)">
         </div>
         <div class="img-adj-actions">
@@ -747,7 +859,7 @@ function patchItemImage(batchId, itemId, url){
 }
 function saveAllImageAdj(andPublish){
   const list=document.getElementById('imgAdjList');
-  if(!list) return;
+  if(!list) return 0;
   let n=0, fail=0;
   list.querySelectorAll('.img-adj-row').forEach(row=>{
     const batchId=row.dataset.batch;
@@ -763,9 +875,123 @@ function saveAllImageAdj(andPublish){
   renderBL();
   if(andPublish){
     pub();
-    toast('Saved '+n+' image URL(s) + published local feed','success');
+    toast('Saved '+n+' image URL(s) to browser feed only','success');
   }else{
-    toast(fail?'Saved '+n+' · '+fail+' failed':'Saved '+n+' image URL(s)','success');
+    toast(fail?'Saved '+n+' · '+fail+' failed':'Saved '+n+' image URL(s) (browser only)','success');
+  }
+  return n;
+}
+/**
+ * Push adjusted image URLs to live GitHub Pages sources:
+ * data/archive.json + index.html EMBEDDED_DATA head batch.
+ * (↑ Publish Now does NOT do this — that is localStorage only.)
+ */
+async function publishImageAdjToGitHub(){
+  if(!window.CocGitHubPublish){ toast('github-publish-client.js not loaded','error'); return; }
+  // Capture current form fields first
+  saveAllImageAdj(false);
+  const patches=[];
+  for(const b of B){
+    for(const it of (b.items||[])){
+      if(!it||!it.id) continue;
+      patches.push({
+        batchId:b.batchId,
+        id:it.id,
+        title:it.title||'',
+        image:it.image||'',
+        sourceUrl:it.sourceUrl||''
+      });
+    }
+  }
+  if(!patches.length){ toast('No items to publish — crawl first','warning'); return; }
+
+  let token=CocGitHubPublish.getToken();
+  if(!token){
+    token=window.prompt('GitHub personal access token (contents:write on dvpwemake/CoC).\nStored in this browser session only — never committed.');
+    if(!token){ toast('Publish cancelled — no token','warning'); return; }
+    CocGitHubPublish.setToken(token.trim());
+  }
+
+  const btn=document.getElementById('imgAdjGhBtn');
+  if(btn){ btn.disabled=true; btn.textContent='↑ Publishing images…'; }
+  try{
+    toast('Publishing image URLs to GitHub…','info');
+    addLog('inf','Publish images → GitHub started ('+patches.length+' editor items)');
+
+    const archFile=await CocGitHubPublish.getFile('data/archive.json');
+    let archive=JSON.parse(archFile.text);
+    if(!Array.isArray(archive)) archive=[];
+
+    // Index patches by id and by title (lowercase)
+    const byId=new Map();
+    const byTitle=new Map();
+    for(const p of patches){
+      if(p.id) byId.set(p.id, p);
+      if(p.title) byTitle.set(String(p.title).toLowerCase().trim(), p);
+    }
+
+    let nUpd=0;
+    for(const batch of archive){
+      for(const it of (batch.items||[])){
+        const p=(it.id&&byId.get(it.id))||byTitle.get(String(it.title||'').toLowerCase().trim());
+        if(!p) continue;
+        const next=String(p.image||'').trim();
+        const prev=String(it.image||'').trim();
+        if(next!==prev){
+          it.image=next;
+          nUpd++;
+        }else if(next && next===prev){
+          // still count as applied (idempotent)
+        }
+      }
+    }
+
+    // Also ensure editor batches exist / update head in archive for today's batch ids
+    for(const b of B){
+      const bi=archive.findIndex(x=>x.batchId===b.batchId);
+      if(bi>=0){
+        // replace items images already done by id/title; sync full items images from B
+        const srcItems=b.items||[];
+        const dest=archive[bi];
+        if(!Array.isArray(dest.items)) dest.items=[];
+        for(const sit of srcItems){
+          let dit=dest.items.find(x=>x.id===sit.id)||dest.items.find(x=>String(x.title||'').toLowerCase()===String(sit.title||'').toLowerCase());
+          if(dit){
+            if(String(sit.image||'')!==String(dit.image||'')){ dit.image=sit.image||''; nUpd++; }
+          }
+        }
+      }
+    }
+
+    const msg='Image adjustment: update '+nUpd+' field-signal image URL(s)';
+    await CocGitHubPublish.putFile('data/archive.json', JSON.stringify(archive,null,2)+'\n', archFile.sha, msg);
+
+    // Refresh offline embed head (latest archive batch)
+    try{
+      const idxFile=await CocGitHubPublish.getFile('index.html');
+      const head=archive[0]||(B[0]&&JSON.parse(JSON.stringify(B[0])));
+      if(head){
+        const nextHtml=CocGitHubPublish.injectEmbeddedDataHead(idxFile.text, head);
+        if(nextHtml!==idxFile.text){
+          await CocGitHubPublish.putFile('index.html', nextHtml, idxFile.sha, msg+' (EMBEDDED_DATA head)');
+        }
+      }
+    }catch(e){
+      addLog('er2','EMBEDDED_DATA inject: '+e.message);
+    }
+
+    pub(); // keep local feed in sync
+    addLog('ok','Published images to GitHub · archive updates≈'+nUpd);
+    toast('Live images queued — Pages ~1 min. Hard-refresh the site.','success');
+  }catch(e){
+    addLog('er2','Image publish failed: '+e.message);
+    toast(e.message||'Image publish failed','error');
+    if(/Bad credentials|401|403/i.test(String(e.message||''))){
+      try{CocGitHubPublish.setToken('');}catch(x){}
+      toast('Token rejected — re-try with a valid PAT','warning');
+    }
+  }finally{
+    if(btn){ btn.disabled=false; btn.textContent='↑ Publish images to live'; }
   }
 }
 function toast(m,t='info'){const e=document.getElementById('tst');e.textContent=m;e.className='toast '+t+' sh';setTimeout(()=>e.classList.remove('sh'),2500)}
@@ -1225,6 +1451,7 @@ window.hideImageAdjustment=hideImageAdjustment;
 window.applyImageAdjRow=applyImageAdjRow;
 window.pullImgAdjRow=pullImgAdjRow;
 window.saveAllImageAdj=saveAllImageAdj;
+window.publishImageAdjToGitHub=publishImageAdjToGitHub;
 window.onImgAdjInput=onImgAdjInput;
 window.pub=pub;
 window.showExp=showExp;
