@@ -748,29 +748,29 @@
       "status": "draft",
       "draftKind": "outline",
       "createdAt": "2026-07-27T06:52:30.527Z",
-      "updatedAt": "2026-07-27T17:25:29.514Z",
+      "updatedAt": "2026-07-27T20:57:37.513Z",
       "title": "Editorial brief — 2026-07-27",
       "dek": "Outline of selected article titles and key points for admin to write the final editorial.",
-      "body": "EDITORIAL BRIEF (outline only — not for publication as-is)\nPublish date: 2026-07-27\nInstruction: Use the titles and key points below to write the final ~300-word CoC editorial. Replace this entire brief with your finished prose before publishing.\n\n— Selected articles of the day (12) —\n\n1. [AI] Gemini 3.6 Flash and 3.5 Flash-Lite now available through official API for developers and AI agents\n   Source: X · @web3l0var\n   URL: https://x.com/web3l0var/status/2079909448219271368\n   Key points:\n   • Model ecosystem expansion: Gemini 3.6 Flash and Gemini 3.5 Flash-Lite via official API access.\n\n2. [Art] National Portrait Gallery acquires Harley Weir’s portrait of Charli XCX.\n   Source: Artsy\n   URL: https://www.artsy.net/article/artsy-editorial-national-portrait-gallery-acquires-harley-weirs-portrait-charli-xcx\n   Key points:\n   • The National Portrait Gallery in London has acquired a portrait of pop star Charli XCX by British photographer Harley Weir .\n   • The photograph, which was shot in 2024, will be added to the museum’s collection this week.…\n\n3. [Biotech] STAT+: Sarepta names Michael Severino, former Tessera CEO, as new chief executive\n   Source: STAT News\n   URL: https://www.statnews.com/2026/07/27/sarepta-therapeutics-michael-severino-doug-ingram-duchenne-muscular-dystrophy/?utm_campaign=rss\n   Key points:\n   • The beleaguered Sarepta Therapeutics named Michael Severino, who previously led Tessera Therapeutics, as its new CEO.\n\n4. [editorial] Ancient Light\n   Source: Chronicle of Convergence · Editorial\n   URL: https://chronicleofconvergence.com/e/2026-07-25.html\n   Key points:\n   • What expands faster than our scores can explain\n\n5. [Energy] Duh, solar power doesn't work at night — but it excels during the day\n   Source: Canary Media\n   URL: https://www.canarymedia.com/articles/solar/doe-solar-power-day-night-texas\n   Key points:\n   • Yesterday, the Department of Energy took to social media to try and make a scandal out of a well-known fact: Solar panels do not generate power at night.\n   • It’s an old and lazy swipe that critics of renewable energy love…\n\n6. [Neuroscience] Dual Brain Circuits Drive Habit Formation\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/ofc-acc-ocd-habit-31133/\n   Key points:\n   • While the ACC-to-RSC pathway determines if a behavior becomes a habit, the lOFC-to-central striatum circuit regulates execution intensity, explaining individual habit differences.\n\n7. [Robotics] Optical Tech Would Update a Robot’s AI on the Fly\n   Source: IEEE Spectrum\n   URL: https://spectrum.ieee.org/ai-in-robotics\n   Key points:\n   • Atop a lab bench, Cornell Tech postdoctoral researcher Yifan He positions the lens of an optical receiver almost a meter away from an LED emitting a beam of red light.\n   • The computer monitor attached to the receiver takes…\n\n8. [Space] Orbes unveils Exo-ORB and agreement with Symphony Space\n   Source: SpaceNews\n   URL: https://spacenews.com/orbes-unveils-exo-orb-and-agreement-with-symphony-space/\n   Key points:\n   • SAN FRANCISCO – Southern California startup Orbes announced an agreement July 27 to send Exo-ORB, a free-flying satellite, to gather imagery of an uncrewed Symphony Space station.\n   • Exo-ORB, which is […] The post Orbes…\n\n9. [Neuroscience] Restricted Eating Windows Aid Cognitive Function\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/restricted-eating-cognition-aging-31130/\n   Key points:\n   • Restricting daily eating to an 8 to 9 hour window yields cognitive improvements in spatial planning and problem-solving for older, overweight women beyond the benefits of caloric reduction alone.\n\n10. [Space] NASA and ESA facilities avoid major damage from wildfires in Spain\n   Source: SpaceNews\n   URL: https://spacenews.com/nasa-and-esa-facilities-avoid-major-damage-from-wildfires-in-spain/\n   Key points:\n   • Key ground stations in Spain operated by NASA and the European Space Agency have avoided serious damage from major wildfires in the country.\n   • The post NASA and ESA facilities avoid major damage from wildfires in Spain…\n\n11. [Art] Christopher Nolan, David Hockney, Luis Manuel Otero Alcántara\n   Source: Hyperallergic\n   URL: https://hyperallergic.com/christopher-nolan-david-hockney-luis-manuel-otero-alcantara/\n   Key points:\n   • A political prisoner is freed, a Homerist reviews Nolan’s “The Odyssey,” and do we have to pretend to like David Hockney’s iPad paintings?\n\n12. [Neuroscience] Alzheimer Genetic Risk Scores Do Not Explain SuperAging\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/alzheimer-genetic-superager-memory-31129/\n   Key points:\n   • A new study demonstrates that SuperAgers cannot be distinguished from cognitively average peers by APOE status or polygenic risk scores.\n\n— Categories present —\nAI · Art · Biotech · editorial · Energy · Neuroscience · Robotics · Space\n\n— Admin checklist —\n• Draft original title + dek\n• Write body (~280–320 words) in CoC voice\n• Set hero image URL + credit\n• Mark published when ready",
+      "body": "EDITORIAL BRIEF (outline only — not for publication as-is)\nPublish date: 2026-07-27\nInstruction: Use the titles and key points below to write the final ~300-word CoC editorial. Replace this entire brief with your finished prose before publishing.\n\n— Selected articles of the day (12) —\n\n1. [AI] Gemini 3.6 Flash and 3.5 Flash-Lite now available through official API for developers and AI agents\n   Source: X · @web3l0var\n   URL: https://x.com/web3l0var/status/2079909448219271368\n   Key points:\n   • Model ecosystem expansion: Gemini 3.6 Flash and Gemini 3.5 Flash-Lite via official API access.\n\n2. [Art] The Smithsonian Is Not the President's Museum\n   Source: Hyperallergic\n   URL: https://hyperallergic.com/the-smithsonian-is-not-the-presidents-museum/\n   Key points:\n   • The Trump administration’s latest order marks an unprecedented effort to subordinate one of America's foremost public institutions to partisan power.\n\n3. [Biotech] STAT+: HIV resurgence is feared as global funding to combat the disease falls 18%\n   Source: STAT News\n   URL: https://www.statnews.com/pharmalot/2026/07/27/hiv-resurgence-is-feared-as-global-fund-to-combat-the-disease-falls-18-percent/?utm_campaign=rss\n   Key points:\n   • The world risks a resurgence of the HIV epidemic after international financing to combat the disease suffered a “profound shock” last year, according to a new report from UNAIDS.\n\n4. [editorial] Ancient Light\n   Source: Chronicle of Convergence · Editorial\n   URL: https://chronicleofconvergence.com/e/2026-07-25.html\n   Key points:\n   • What expands faster than our scores can explain\n\n5. [Energy] Duh, solar power doesn't work at night — but it excels during the day\n   Source: Canary Media\n   URL: https://www.canarymedia.com/articles/solar/doe-solar-power-day-night-texas\n   Key points:\n   • Yesterday, the Department of Energy took to social media to try and make a scandal out of a well-known fact: Solar panels do not generate power at night.\n   • It’s an old and lazy swipe that critics of renewable energy love…\n\n6. [Neuroscience] 3-Region Neural Circuit Required for Sleep Memory\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/sleep-memory-epilepsy-neuroscience-31138/\n   Key points:\n   • A new study reveals that memory consolidation during sleep requires coordinated signaling among the orbitofrontal cortex, thalamus, and hippocampus, and shows how epileptic spikes break this circuit.\n\n7. [Robotics] What Problems Can Raspberry Pi Solve for Businesses Using Multiple Displays?\n   Source: Robotics & Automation News\n   URL: https://roboticsandautomationnews.com/2026/07/27/what-problems-can-raspberry-pi-solve-for-businesses-using-multiple-displays/103641/\n   Key points:\n   • Managing several display screens across one location or multiple sites can become difficult without the right system.\n   • Different content, inconsistent updates, and manual changes take valuable time away from daily…\n\n8. [Space] Upper C-band auction offers another lift for GEO industry\n   Source: SpaceNews\n   URL: https://spacenews.com/upper-c-band-auction-offers-another-lift-for-geo-industry/\n   Key points:\n   • Satellite operators have welcomed the prospect of reaping more than $6 billion for quickly clearing upper C-band spectrum the FCC aims to auction next year, with billions more set to cover new geostationary spacecraft…\n\n9. [Neuroscience] Restricted Eating Windows Aid Cognitive Function\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/restricted-eating-cognition-aging-31130/\n   Key points:\n   • Restricting daily eating to an 8 to 9 hour window yields cognitive improvements in spatial planning and problem-solving for older, overweight women beyond the benefits of caloric reduction alone.\n\n10. [Robotics] Optical Tech Would Update a Robot’s AI on the Fly\n   Source: IEEE Spectrum\n   URL: https://spectrum.ieee.org/ai-in-robotics\n   Key points:\n   • Atop a lab bench, Cornell Tech postdoctoral researcher Yifan He positions the lens of an optical receiver almost a meter away from an LED emitting a beam of red light.\n   • The computer monitor attached to the receiver takes…\n\n11. [Space] NASA and ESA facilities avoid major damage from wildfires in Spain\n   Source: SpaceNews\n   URL: https://spacenews.com/nasa-and-esa-facilities-avoid-major-damage-from-wildfires-in-spain/\n   Key points:\n   • Key ground stations in Spain operated by NASA and the European Space Agency have avoided serious damage from major wildfires in the country.\n   • The post NASA and ESA facilities avoid major damage from wildfires in Spain…\n\n12. [Art] Christopher Nolan, David Hockney, Luis Manuel Otero Alcántara\n   Source: Hyperallergic\n   URL: https://hyperallergic.com/christopher-nolan-david-hockney-luis-manuel-otero-alcantara/\n   Key points:\n   • A political prisoner is freed, a Homerist reviews Nolan’s “The Odyssey,” and do we have to pretend to like David Hockney’s iPad paintings?\n\n— Categories present —\nAI · Art · Biotech · editorial · Energy · Neuroscience · Robotics · Space\n\n— Admin checklist —\n• Draft original title + dek\n• Write body (~280–320 words) in CoC voice\n• Set hero image URL + credit\n• Mark published when ready",
       "paragraphs": [
         "EDITORIAL BRIEF (outline only — not for publication as-is)\nPublish date: 2026-07-27\nInstruction: Use the titles and key points below to write the final ~300-word CoC editorial. Replace this entire brief with your finished prose before publishing.",
         "— Selected articles of the day (12) —",
         "1. [AI] Gemini 3.6 Flash and 3.5 Flash-Lite now available through official API for developers and AI agents\n   Source: X · @web3l0var\n   URL: https://x.com/web3l0var/status/2079909448219271368\n   Key points:\n   • Model ecosystem expansion: Gemini 3.6 Flash and Gemini 3.5 Flash-Lite via official API access.",
-        "2. [Art] National Portrait Gallery acquires Harley Weir’s portrait of Charli XCX.\n   Source: Artsy\n   URL: https://www.artsy.net/article/artsy-editorial-national-portrait-gallery-acquires-harley-weirs-portrait-charli-xcx\n   Key points:\n   • The National Portrait Gallery in London has acquired a portrait of pop star Charli XCX by British photographer Harley Weir .\n   • The photograph, which was shot in 2024, will be added to the museum’s collection this week.…",
-        "3. [Biotech] STAT+: Sarepta names Michael Severino, former Tessera CEO, as new chief executive\n   Source: STAT News\n   URL: https://www.statnews.com/2026/07/27/sarepta-therapeutics-michael-severino-doug-ingram-duchenne-muscular-dystrophy/?utm_campaign=rss\n   Key points:\n   • The beleaguered Sarepta Therapeutics named Michael Severino, who previously led Tessera Therapeutics, as its new CEO.",
+        "2. [Art] The Smithsonian Is Not the President's Museum\n   Source: Hyperallergic\n   URL: https://hyperallergic.com/the-smithsonian-is-not-the-presidents-museum/\n   Key points:\n   • The Trump administration’s latest order marks an unprecedented effort to subordinate one of America's foremost public institutions to partisan power.",
+        "3. [Biotech] STAT+: HIV resurgence is feared as global funding to combat the disease falls 18%\n   Source: STAT News\n   URL: https://www.statnews.com/pharmalot/2026/07/27/hiv-resurgence-is-feared-as-global-fund-to-combat-the-disease-falls-18-percent/?utm_campaign=rss\n   Key points:\n   • The world risks a resurgence of the HIV epidemic after international financing to combat the disease suffered a “profound shock” last year, according to a new report from UNAIDS.",
         "4. [editorial] Ancient Light\n   Source: Chronicle of Convergence · Editorial\n   URL: https://chronicleofconvergence.com/e/2026-07-25.html\n   Key points:\n   • What expands faster than our scores can explain",
         "5. [Energy] Duh, solar power doesn't work at night — but it excels during the day\n   Source: Canary Media\n   URL: https://www.canarymedia.com/articles/solar/doe-solar-power-day-night-texas\n   Key points:\n   • Yesterday, the Department of Energy took to social media to try and make a scandal out of a well-known fact: Solar panels do not generate power at night.\n   • It’s an old and lazy swipe that critics of renewable energy love…",
-        "6. [Neuroscience] Dual Brain Circuits Drive Habit Formation\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/ofc-acc-ocd-habit-31133/\n   Key points:\n   • While the ACC-to-RSC pathway determines if a behavior becomes a habit, the lOFC-to-central striatum circuit regulates execution intensity, explaining individual habit differences.",
-        "7. [Robotics] Optical Tech Would Update a Robot’s AI on the Fly\n   Source: IEEE Spectrum\n   URL: https://spectrum.ieee.org/ai-in-robotics\n   Key points:\n   • Atop a lab bench, Cornell Tech postdoctoral researcher Yifan He positions the lens of an optical receiver almost a meter away from an LED emitting a beam of red light.\n   • The computer monitor attached to the receiver takes…",
-        "8. [Space] Orbes unveils Exo-ORB and agreement with Symphony Space\n   Source: SpaceNews\n   URL: https://spacenews.com/orbes-unveils-exo-orb-and-agreement-with-symphony-space/\n   Key points:\n   • SAN FRANCISCO – Southern California startup Orbes announced an agreement July 27 to send Exo-ORB, a free-flying satellite, to gather imagery of an uncrewed Symphony Space station.\n   • Exo-ORB, which is […] The post Orbes…",
+        "6. [Neuroscience] 3-Region Neural Circuit Required for Sleep Memory\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/sleep-memory-epilepsy-neuroscience-31138/\n   Key points:\n   • A new study reveals that memory consolidation during sleep requires coordinated signaling among the orbitofrontal cortex, thalamus, and hippocampus, and shows how epileptic spikes break this circuit.",
+        "7. [Robotics] What Problems Can Raspberry Pi Solve for Businesses Using Multiple Displays?\n   Source: Robotics & Automation News\n   URL: https://roboticsandautomationnews.com/2026/07/27/what-problems-can-raspberry-pi-solve-for-businesses-using-multiple-displays/103641/\n   Key points:\n   • Managing several display screens across one location or multiple sites can become difficult without the right system.\n   • Different content, inconsistent updates, and manual changes take valuable time away from daily…",
+        "8. [Space] Upper C-band auction offers another lift for GEO industry\n   Source: SpaceNews\n   URL: https://spacenews.com/upper-c-band-auction-offers-another-lift-for-geo-industry/\n   Key points:\n   • Satellite operators have welcomed the prospect of reaping more than $6 billion for quickly clearing upper C-band spectrum the FCC aims to auction next year, with billions more set to cover new geostationary spacecraft…",
         "9. [Neuroscience] Restricted Eating Windows Aid Cognitive Function\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/restricted-eating-cognition-aging-31130/\n   Key points:\n   • Restricting daily eating to an 8 to 9 hour window yields cognitive improvements in spatial planning and problem-solving for older, overweight women beyond the benefits of caloric reduction alone.",
-        "10. [Space] NASA and ESA facilities avoid major damage from wildfires in Spain\n   Source: SpaceNews\n   URL: https://spacenews.com/nasa-and-esa-facilities-avoid-major-damage-from-wildfires-in-spain/\n   Key points:\n   • Key ground stations in Spain operated by NASA and the European Space Agency have avoided serious damage from major wildfires in the country.\n   • The post NASA and ESA facilities avoid major damage from wildfires in Spain…",
-        "11. [Art] Christopher Nolan, David Hockney, Luis Manuel Otero Alcántara\n   Source: Hyperallergic\n   URL: https://hyperallergic.com/christopher-nolan-david-hockney-luis-manuel-otero-alcantara/\n   Key points:\n   • A political prisoner is freed, a Homerist reviews Nolan’s “The Odyssey,” and do we have to pretend to like David Hockney’s iPad paintings?",
-        "12. [Neuroscience] Alzheimer Genetic Risk Scores Do Not Explain SuperAging\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/alzheimer-genetic-superager-memory-31129/\n   Key points:\n   • A new study demonstrates that SuperAgers cannot be distinguished from cognitively average peers by APOE status or polygenic risk scores.",
+        "10. [Robotics] Optical Tech Would Update a Robot’s AI on the Fly\n   Source: IEEE Spectrum\n   URL: https://spectrum.ieee.org/ai-in-robotics\n   Key points:\n   • Atop a lab bench, Cornell Tech postdoctoral researcher Yifan He positions the lens of an optical receiver almost a meter away from an LED emitting a beam of red light.\n   • The computer monitor attached to the receiver takes…",
+        "11. [Space] NASA and ESA facilities avoid major damage from wildfires in Spain\n   Source: SpaceNews\n   URL: https://spacenews.com/nasa-and-esa-facilities-avoid-major-damage-from-wildfires-in-spain/\n   Key points:\n   • Key ground stations in Spain operated by NASA and the European Space Agency have avoided serious damage from major wildfires in the country.\n   • The post NASA and ESA facilities avoid major damage from wildfires in Spain…",
+        "12. [Art] Christopher Nolan, David Hockney, Luis Manuel Otero Alcántara\n   Source: Hyperallergic\n   URL: https://hyperallergic.com/christopher-nolan-david-hockney-luis-manuel-otero-alcantara/\n   Key points:\n   • A political prisoner is freed, a Homerist reviews Nolan’s “The Odyssey,” and do we have to pretend to like David Hockney’s iPad paintings?",
         "— Categories present —\nAI · Art · Biotech · editorial · Energy · Neuroscience · Robotics · Space",
         "— Admin checklist —\n• Draft original title + dek\n• Write body (~280–320 words) in CoC voice\n• Set hero image URL + credit\n• Mark published when ready"
       ],
-      "wordCount": 647,
+      "wordCount": 663,
       "themeId": "outline",
       "themeLabel": "Admin outline (titles + key points)",
       "formId": "outline_brief",
@@ -793,24 +793,23 @@
           ]
         },
         {
-          "title": "National Portrait Gallery acquires Harley Weir’s portrait of Charli XCX.",
-          "source": "Artsy",
+          "title": "The Smithsonian Is Not the President's Museum",
+          "source": "Hyperallergic",
           "category": "art",
-          "sourceUrl": "https://www.artsy.net/article/artsy-editorial-national-portrait-gallery-acquires-harley-weirs-portrait-charli-xcx",
-          "summary": "The National Portrait Gallery in London has acquired a portrait of pop star Charli XCX by British photographer Harley Weir . The photograph, which was shot in 2024, will be added to the museum’s collection this week.…",
+          "sourceUrl": "https://hyperallergic.com/the-smithsonian-is-not-the-presidents-museum/",
+          "summary": "The Trump administration’s latest order marks an unprecedented effort to subordinate one of America's foremost public institutions to partisan power.",
           "keyPoints": [
-            "The National Portrait Gallery in London has acquired a portrait of pop star Charli XCX by British photographer Harley Weir .",
-            "The photograph, which was shot in 2024, will be added to the museum’s collection this week.…"
+            "The Trump administration’s latest order marks an unprecedented effort to subordinate one of America's foremost public institutions to partisan power."
           ]
         },
         {
-          "title": "STAT+: Sarepta names Michael Severino, former Tessera CEO, as new chief executive",
+          "title": "STAT+: HIV resurgence is feared as global funding to combat the disease falls 18%",
           "source": "STAT News",
           "category": "biotech",
-          "sourceUrl": "https://www.statnews.com/2026/07/27/sarepta-therapeutics-michael-severino-doug-ingram-duchenne-muscular-dystrophy/?utm_campaign=rss",
-          "summary": "The beleaguered Sarepta Therapeutics named Michael Severino, who previously led Tessera Therapeutics, as its new CEO.",
+          "sourceUrl": "https://www.statnews.com/pharmalot/2026/07/27/hiv-resurgence-is-feared-as-global-fund-to-combat-the-disease-falls-18-percent/?utm_campaign=rss",
+          "summary": "The world risks a resurgence of the HIV epidemic after international financing to combat the disease suffered a “profound shock” last year, according to a new report from UNAIDS.",
           "keyPoints": [
-            "The beleaguered Sarepta Therapeutics named Michael Severino, who previously led Tessera Therapeutics, as its new CEO."
+            "The world risks a resurgence of the HIV epidemic after international financing to combat the disease suffered a “profound shock” last year, according to a new report from UNAIDS."
           ]
         },
         {
@@ -835,13 +834,44 @@
           ]
         },
         {
-          "title": "Dual Brain Circuits Drive Habit Formation",
+          "title": "3-Region Neural Circuit Required for Sleep Memory",
           "source": "Neuroscience News",
           "category": "neuroscience",
-          "sourceUrl": "https://neurosciencenews.com/ofc-acc-ocd-habit-31133/",
-          "summary": "While the ACC-to-RSC pathway determines if a behavior becomes a habit, the lOFC-to-central striatum circuit regulates execution intensity, explaining individual habit differences.",
+          "sourceUrl": "https://neurosciencenews.com/sleep-memory-epilepsy-neuroscience-31138/",
+          "summary": "A new study reveals that memory consolidation during sleep requires coordinated signaling among the orbitofrontal cortex, thalamus, and hippocampus, and shows how epileptic spikes break this circuit.",
           "keyPoints": [
-            "While the ACC-to-RSC pathway determines if a behavior becomes a habit, the lOFC-to-central striatum circuit regulates execution intensity, explaining individual habit differences."
+            "A new study reveals that memory consolidation during sleep requires coordinated signaling among the orbitofrontal cortex, thalamus, and hippocampus, and shows how epileptic spikes break this circuit."
+          ]
+        },
+        {
+          "title": "What Problems Can Raspberry Pi Solve for Businesses Using Multiple Displays?",
+          "source": "Robotics & Automation News",
+          "category": "robotics",
+          "sourceUrl": "https://roboticsandautomationnews.com/2026/07/27/what-problems-can-raspberry-pi-solve-for-businesses-using-multiple-displays/103641/",
+          "summary": "Managing several display screens across one location or multiple sites can become difficult without the right system. Different content, inconsistent updates, and manual changes take valuable time away from daily…",
+          "keyPoints": [
+            "Managing several display screens across one location or multiple sites can become difficult without the right system.",
+            "Different content, inconsistent updates, and manual changes take valuable time away from daily…"
+          ]
+        },
+        {
+          "title": "Upper C-band auction offers another lift for GEO industry",
+          "source": "SpaceNews",
+          "category": "space",
+          "sourceUrl": "https://spacenews.com/upper-c-band-auction-offers-another-lift-for-geo-industry/",
+          "summary": "Satellite operators have welcomed the prospect of reaping more than $6 billion for quickly clearing upper C-band spectrum the FCC aims to auction next year, with billions more set to cover new geostationary spacecraft…",
+          "keyPoints": [
+            "Satellite operators have welcomed the prospect of reaping more than $6 billion for quickly clearing upper C-band spectrum the FCC aims to auction next year, with billions more set to cover new geostationary spacecraft…"
+          ]
+        },
+        {
+          "title": "Restricted Eating Windows Aid Cognitive Function",
+          "source": "Neuroscience News",
+          "category": "neuroscience",
+          "sourceUrl": "https://neurosciencenews.com/restricted-eating-cognition-aging-31130/",
+          "summary": "Restricting daily eating to an 8 to 9 hour window yields cognitive improvements in spatial planning and problem-solving for older, overweight women beyond the benefits of caloric reduction alone.",
+          "keyPoints": [
+            "Restricting daily eating to an 8 to 9 hour window yields cognitive improvements in spatial planning and problem-solving for older, overweight women beyond the benefits of caloric reduction alone."
           ]
         },
         {
@@ -853,27 +883,6 @@
           "keyPoints": [
             "Atop a lab bench, Cornell Tech postdoctoral researcher Yifan He positions the lens of an optical receiver almost a meter away from an LED emitting a beam of red light.",
             "The computer monitor attached to the receiver takes…"
-          ]
-        },
-        {
-          "title": "Orbes unveils Exo-ORB and agreement with Symphony Space",
-          "source": "SpaceNews",
-          "category": "space",
-          "sourceUrl": "https://spacenews.com/orbes-unveils-exo-orb-and-agreement-with-symphony-space/",
-          "summary": "SAN FRANCISCO – Southern California startup Orbes announced an agreement July 27 to send Exo-ORB, a free-flying satellite, to gather imagery of an uncrewed Symphony Space station. Exo-ORB, which is […] The post Orbes…",
-          "keyPoints": [
-            "SAN FRANCISCO – Southern California startup Orbes announced an agreement July 27 to send Exo-ORB, a free-flying satellite, to gather imagery of an uncrewed Symphony Space station.",
-            "Exo-ORB, which is […] The post Orbes…"
-          ]
-        },
-        {
-          "title": "Restricted Eating Windows Aid Cognitive Function",
-          "source": "Neuroscience News",
-          "category": "neuroscience",
-          "sourceUrl": "https://neurosciencenews.com/restricted-eating-cognition-aging-31130/",
-          "summary": "Restricting daily eating to an 8 to 9 hour window yields cognitive improvements in spatial planning and problem-solving for older, overweight women beyond the benefits of caloric reduction alone.",
-          "keyPoints": [
-            "Restricting daily eating to an 8 to 9 hour window yields cognitive improvements in spatial planning and problem-solving for older, overweight women beyond the benefits of caloric reduction alone."
           ]
         },
         {
@@ -895,16 +904,6 @@
           "summary": "A political prisoner is freed, a Homerist reviews Nolan’s “The Odyssey,” and do we have to pretend to like David Hockney’s iPad paintings?",
           "keyPoints": [
             "A political prisoner is freed, a Homerist reviews Nolan’s “The Odyssey,” and do we have to pretend to like David Hockney’s iPad paintings?"
-          ]
-        },
-        {
-          "title": "Alzheimer Genetic Risk Scores Do Not Explain SuperAging",
-          "source": "Neuroscience News",
-          "category": "neuroscience",
-          "sourceUrl": "https://neurosciencenews.com/alzheimer-genetic-superager-memory-31129/",
-          "summary": "A new study demonstrates that SuperAgers cannot be distinguished from cognitively average peers by APOE status or polygenic risk scores.",
-          "keyPoints": [
-            "A new study demonstrates that SuperAgers cannot be distinguished from cognitively average peers by APOE status or polygenic risk scores."
           ]
         }
       ]
