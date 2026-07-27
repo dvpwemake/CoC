@@ -1,5 +1,25 @@
 [
   {
+    "batchId": "editorial_2026-07-26",
+    "scannedAt": "2026-07-26T15:02:31.678Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-07-26",
+        "rank": 0,
+        "title": "What Tips: Convergence of biological threshold and civic near-miss",
+        "category": "editorial",
+        "summary": "Thresholds in the brain, on the fire line, and in the public room.",
+        "image": "https://images-assets.nasa.gov/image/PIA01492/PIA01492~medium.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-07-26.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-07-26",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-07-27T20-57",
     "scannedAt": "2026-07-27T20:57:37.248Z",
     "items": [
