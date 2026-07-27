@@ -8,12 +8,14 @@
 <title>Chronicle of Convergence — Daily Editorial &amp; Field Signals</title>
 <meta name="description" content="Chronicle of Convergence: daily editorial and field signals on culture, society, technology, and faith in American life. Editor in Chief: Dr. Wallace Lynch.">
 <meta name="author" content="Dr. Wallace Lynch">
-<meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1">
+<meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1">
+<meta name="keywords" content="Chronicle of Convergence, daily editorial, culture, society, technology, faith, AI, neuroscience, space, energy, biotech, robotics, field signals">
 <meta name="theme-color" content="#f3efe6">
 <meta name="application-name" content="Chronicle of Convergence">
 <link rel="canonical" href="https://chronicleofconvergence.com/">
 <link rel="icon" href="img/logo-mark.png" type="image/png">
 <link rel="apple-touch-icon" href="img/logo-mark.png">
+<link rel="alternate" type="text/plain" title="llms.txt" href="https://chronicleofconvergence.com/llms.txt">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Chronicle of Convergence">
 <meta property="og:locale" content="en_US">
@@ -29,7 +31,10 @@
 <link rel="alternate" type="application/rss+xml" title="CoC — use editorial permalinks" href="https://chronicleofconvergence.com/e/">
 <script src="scripts/analytics.js" defer></script>
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"NewsMediaOrganization","name":"Chronicle of Convergence","url":"https://chronicleofconvergence.com/","logo":"https://chronicleofconvergence.com/img/logo-mark.png","description":"Digital multimedia chronicle of culture, society, technology, and faith in American life.","editor":{"@type":"Person","name":"Dr. Wallace Lynch","jobTitle":"Editor in Chief"}}
+{"@context":"https://schema.org","@type":"NewsMediaOrganization","name":"Chronicle of Convergence","url":"https://chronicleofconvergence.com/","logo":{"@type":"ImageObject","url":"https://chronicleofconvergence.com/img/logo-mark.png"},"description":"Digital multimedia chronicle of culture, society, technology, and faith in American life.","editor":{"@type":"Person","name":"Dr. Wallace Lynch","jobTitle":"Editor in Chief"},"sameAs":["https://chronicleofconvergence.com/go.html"],"publishingPrinciples":"https://chronicleofconvergence.com/llms.txt"}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","name":"Chronicle of Convergence","url":"https://chronicleofconvergence.com/","description":"Daily editorial and field signals — culture, society, technology, and faith.","publisher":{"@type":"NewsMediaOrganization","name":"Chronicle of Convergence"},"inLanguage":"en-US","potentialAction":{"@type":"ReadAction","target":"https://chronicleofconvergence.com/#editorial"}}
 </script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -295,6 +300,10 @@ nav.cats::-webkit-scrollbar{display:none}
 .ed-byline .role{font-style:normal;font-family:var(--sans);font-size:.72rem;
   letter-spacing:.08em;text-transform:uppercase;color:var(--gold-deep);font-weight:600;
   margin-left:.35rem}
+.ed-share{margin:.75rem 0 0;display:flex;flex-wrap:wrap;gap:.4rem;align-items:center}
+.ed-share-label{width:100%;font-family:var(--sans);font-size:.65rem;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:0 0 .1rem}
+.ed-share-btn{appearance:none;display:inline-flex;align-items:center;border:1px solid var(--line);background:var(--paper,#faf7f1);color:var(--gold-deep);font:600 .68rem var(--sans);letter-spacing:.03em;text-transform:uppercase;padding:.45rem .7rem;border-radius:4px;cursor:pointer;text-decoration:none;line-height:1.2}
+.ed-share-btn:hover{border-color:var(--gold);background:#fff}
 .ed-meta{
   font-size:.72rem;letter-spacing:.08em;text-transform:uppercase;
   color:var(--muted);margin-bottom:1.5rem;padding-bottom:1rem;
@@ -948,11 +957,23 @@ function renderEditorial(){
   const backLink=isArchive
     ? `<p class="ed-meta" style="margin-top:.35rem"><a href="#editorial" style="color:var(--gold);text-decoration:none">← Back to today’s editorial${liveDate?' ('+esc(liveDate)+')':''}</a></p>`
     : '';
-  const shareRow=perm?`<div class="ed-meta" style="margin:.65rem 0 0;display:flex;flex-wrap:wrap;gap:.5rem">
-      <a href="${esc(perm)}" style="color:var(--gold-deep)">Permalink</a>
-      <a href="https://twitter.com/intent/tweet?url=${encodeURIComponent('https://chronicleofconvergence.com/'+perm)}&text=${encodeURIComponent((ed.title||'')+' — CoC')}" target="_blank" rel="noopener" style="color:var(--gold-deep)">Share on X</a>
-      <a href="go.html" style="color:var(--gold-deep)">Link hub</a>
-    </div>`:'';
+  const fullUrl=perm?('https://chronicleofconvergence.com/'+perm):'https://chronicleofconvergence.com/#editorial';
+  const shareTitle=encodeURIComponent((ed.title||'Daily editorial')+' — Chronicle of Convergence');
+  const shareU=encodeURIComponent(fullUrl);
+  const shareBody=encodeURIComponent(((ed.title||'Daily editorial')+' — Chronicle of Convergence')+'\n\n'+fullUrl);
+  const shareRow=`<div class="ed-share" aria-label="Share this editorial">
+      <span class="ed-share-label">Share</span>
+      ${perm?`<a href="${esc(perm)}" class="ed-share-btn">Permalink</a>`:''}
+      <a class="ed-share-btn" href="https://twitter.com/intent/tweet?url=${shareU}&text=${shareTitle}" target="_blank" rel="noopener noreferrer">X</a>
+      <a class="ed-share-btn" href="https://www.linkedin.com/sharing/share-offsite/?url=${shareU}" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+      <a class="ed-share-btn" href="https://www.facebook.com/sharer/sharer.php?u=${shareU}" target="_blank" rel="noopener noreferrer">Facebook</a>
+      <a class="ed-share-btn" href="https://www.threads.net/intent/post?text=${shareTitle}%20${shareU}" target="_blank" rel="noopener noreferrer">Threads</a>
+      <a class="ed-share-btn" href="https://www.reddit.com/submit?url=${shareU}&title=${shareTitle}" target="_blank" rel="noopener noreferrer">Reddit</a>
+      <a class="ed-share-btn" href="https://api.whatsapp.com/send?text=${shareBody}" target="_blank" rel="noopener noreferrer">WhatsApp</a>
+      <a class="ed-share-btn" href="mailto:?subject=${shareTitle}&body=${shareBody}">Email</a>
+      <button type="button" class="ed-share-btn" data-copy-url="${esc(fullUrl)}" onclick="copyEditorialShare(this)">Copy link</button>
+      <a class="ed-share-btn" href="go.html">Link hub</a>
+    </div>`;
   const metaLabel=isArchive?'Archived editorial':'Daily editorial';
   el.innerHTML=`<div class="ed-kicker">${kicker}</div>
   <article class="ed-card" itemscope itemtype="https://schema.org/NewsArticle">
@@ -1004,6 +1025,14 @@ function heroFail(img){
   img.parentElement.appendChild(ph);
 }
 
+function copyEditorialShare(btn){
+  const url=btn&&btn.getAttribute('data-copy-url');
+  if(!url) return;
+  const done=()=>{const t=btn.textContent;btn.textContent='Copied';setTimeout(()=>{btn.textContent=t||'Copy link'},1500)};
+  if(navigator.clipboard&&navigator.clipboard.writeText){
+    navigator.clipboard.writeText(url).then(done).catch(()=>prompt('Copy link',url));
+  }else prompt('Copy link',url);
+}
 /** Editorial field-signal cards → static permalink e/YYYY-MM-DD.html (SEO + share). */
 function editorialCardDate(it){
   const d=dayKeyFromAny(it.publishDate)||dayKeyFromAny(it.id&&String(it.id).replace(/^editorial[_-]/i,''));

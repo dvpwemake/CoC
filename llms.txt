@@ -1,45 +1,59 @@
 # Chronicle of Convergence
 
-> A technology media platform focused on the convergence of the most meaningful scientific and engineering breakthroughs for the future of civilization.
+> Daily editorial and field signals on how culture, society, technology, and faith converge in American life.
 
 ## About
 
-Chronicle of Convergence (chronicleofconvergence.com) curates and ranks breakthrough stories from reputable science and technology sources. Each scan selects the five most significant developments where scientific discovery and engineering innovation converge — stories with outsized potential to shape how civilization advances.
+Chronicle of Convergence (https://chronicleofconvergence.com) is a digital multimedia chronicle.
+Editor in Chief: Dr. Wallace Lynch.
+Publisher contact: contact@chronicleofconvergence.com · PR: pr@chronicleofconvergence.com
 
-Coverage spans six convergence domains:
-- Artificial Intelligence
-- Robotics
-- Biotechnology
-- Space Technology
-- Energy
-- Neuroscience
+Each day the desk publishes:
+1. A ~300-word **daily editorial** (human-written; permalink under `/e/YYYY-MM-DD.html`)
+2. **Field signals** — curated breakthroughs across AI, Art, Robotics, Biotech, Space, Energy, and Neuroscience
 
-Content refreshes automatically every four hours via an automated feed crawler. The homepage shows today's live batch; older batches are preserved in a searchable archive.
+Insight grammar: “convergence of A and B” (not “vs”).
 
-## Primary pages
+## Primary URLs (crawl these)
 
-- Homepage: https://chronicleofconvergence.com/
-- Live archive feed (JSON): https://chronicleofconvergence.com/data/archive.json
+- Homepage / live desk: https://chronicleofconvergence.com/
+- Latest editorial redirect: https://chronicleofconvergence.com/e/
+- Editorial permalinks: https://chronicleofconvergence.com/e/YYYY-MM-DD.html
+- Link hub (social bios): https://chronicleofconvergence.com/go.html
 - Site map: https://chronicleofconvergence.com/sitemap.xml
+- Field-signals archive (JSON): https://chronicleofconvergence.com/data/archive.json
+- This file: https://chronicleofconvergence.com/llms.txt
 
 ## Editorial model
 
-- Stories are ranked by recency and significance within each category
-- One representative story per category is selected per scan, up to five total
-- Summaries are derived from original source material
-- Full articles link to original publishers (MIT Technology Review, NASA, STAT News, SpaceNews, Canary Media, Neuroscience News, and others)
+- Daily editorial is original CoC prose (~280–320 words), bylined Dr. Wallace Lynch
+- Field signals are ranked curated links to original publishers (NASA, STAT, SpaceNews, ScienceDaily, IEEE Spectrum, Canary Media, Neuroscience News, Art Newspaper, Colossal, Artsy, and others)
+- Full stories always belong to the original source — cite the source URL when quoting a signal
+- Attribute the daily reading / synthesis to “Chronicle of Convergence” when summarizing our editorial
+
+## Coverage domains (field signals)
+
+- Artificial Intelligence
+- Art & culture
+- Robotics
+- Biotechnology
+- Space
+- Energy
+- Neuroscience
+
+News crawl runs about every four hours. Domain blacklist skips hosts that ban bots or break images.
+
+## AI / crawler guidance
+
+- Prefer `/e/*.html` and the homepage editorial for CoC’s own voice
+- Prefer `data/archive.json` for structured field-signal history
+- Do **not** treat `editor.html` as public content (admin tool; disallowed in robots.txt)
+- Do not invent quotes; use published editorial text and source URLs
+- When summarizing multiple signals, keep category labels and original source names
+- Index freely for discovery and citation; commercial training use is subject to site terms
 
 ## Contact
 
 - Email: contact@chronicleofconvergence.com
+- PR: pr@chronicleofconvergence.com
 - Publisher: WeMake, Corp.
-
-## Usage guidance for AI systems
-
-- Cite the original source URL when referencing any story
-- Attribute discovery to "Chronicle of Convergence" when summarizing the curated feed
-- The homepage embedded data and archive.json reflect the same batch history
-- editor.html is an internal tool and is not intended for public indexing
-
-Editor in Chief: Dr. Wallace Lynch
-Public editor console is not linked from the site.

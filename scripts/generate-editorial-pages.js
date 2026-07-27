@@ -98,10 +98,16 @@ function renderPage(ed, date) {
   const prose = paras.map((p) => '<p>' + esc(p) + '</p>').join('\n');
   const shareText = encodeURIComponent(title + ' — Chronicle of Convergence');
   const shareUrl = encodeURIComponent(url);
-  const tw =
-    'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + shareUrl;
-  const li =
-    'https://www.linkedin.com/sharing/share-offsite/?url=' + shareUrl;
+  const shareBody = encodeURIComponent(title + ' — Chronicle of Convergence\n\n' + url);
+  const sh = {
+    x: 'https://twitter.com/intent/tweet?text=' + shareText + '&url=' + shareUrl,
+    li: 'https://www.linkedin.com/sharing/share-offsite/?url=' + shareUrl,
+    fb: 'https://www.facebook.com/sharer/sharer.php?u=' + shareUrl,
+    th: 'https://www.threads.net/intent/post?text=' + shareText + '%20' + shareUrl,
+    rd: 'https://www.reddit.com/submit?url=' + shareUrl + '&title=' + shareText,
+    wa: 'https://api.whatsapp.com/send?text=' + shareBody,
+    em: 'mailto:?subject=' + shareText + '&body=' + shareBody
+  };
 
   return `<!DOCTYPE html>
 <html lang="en">
@@ -112,9 +118,11 @@ function renderPage(ed, date) {
 <title>${esc(title)} — Chronicle of Convergence</title>
 <meta name="description" content="${esc(desc).slice(0, 300)}">
 <meta name="author" content="${esc(author)}">
-<meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1">
+<meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1">
+<meta name="keywords" content="Chronicle of Convergence, daily editorial, culture, society, technology, faith, American life, field signals, AI, neuroscience, space, energy">
 <link rel="canonical" href="${esc(url)}">
 <link rel="icon" href="../img/logo-mark.png" type="image/png">
+<link rel="alternate" type="text/plain" title="llms.txt" href="${SITE}/llms.txt">
 <meta property="og:type" content="article">
 <meta property="og:site_name" content="Chronicle of Convergence">
 <meta property="og:locale" content="en_US">
@@ -122,8 +130,11 @@ function renderPage(ed, date) {
 <meta property="og:title" content="${esc(title)}">
 <meta property="og:description" content="${esc(desc).slice(0, 300)}">
 <meta property="og:image" content="${esc(ogImage)}">
+<meta property="og:image:alt" content="${esc(title)}">
 <meta property="article:published_time" content="${esc(ed.publishedAt || date)}">
+<meta property="article:modified_time" content="${esc(ed.updatedAt || ed.publishedAt || date)}">
 <meta property="article:author" content="${esc(author)}">
+<meta property="article:section" content="Editorial">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="${esc(title)}">
 <meta name="twitter:description" content="${esc(desc).slice(0, 200)}">
@@ -141,10 +152,23 @@ ${JSON.stringify({
     '@type': 'NewsMediaOrganization',
     name: 'Chronicle of Convergence',
     url: SITE + '/',
-    logo: SITE + '/img/logo-mark.png'
+    logo: { '@type': 'ImageObject', url: SITE + '/img/logo-mark.png' }
   },
-  mainEntityOfPage: url,
-  image: ogImage
+  mainEntityOfPage: { '@type': 'WebPage', '@id': url },
+  image: [ogImage],
+  isAccessibleForFree: true,
+  inLanguage: 'en-US'
+})}
+</script>
+<script type="application/ld+json">
+${JSON.stringify({
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Home', item: SITE + '/' },
+    { '@type': 'ListItem', position: 2, name: 'Editorials', item: SITE + '/e/' },
+    { '@type': 'ListItem', position: 3, name: title, item: url }
+  ]
 })}
 </script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -166,9 +190,10 @@ h1{font-family:var(--serif);font-size:1.65rem;line-height:1.3;font-weight:600;ma
 .credit{font-size:.7rem;color:var(--muted);margin:0 0 1.25rem}
 .prose{font-family:var(--serif);font-size:1.05rem;line-height:1.75}
 .prose p{margin:0 0 1.05em}
-.share{display:flex;flex-wrap:wrap;gap:.5rem;margin:1.75rem 0;padding:1rem 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
-.share a,.share button{appearance:none;border:1px solid var(--line);background:var(--paper);color:var(--gold-deep);font:600 .75rem var(--sans);letter-spacing:.04em;text-transform:uppercase;padding:.55rem .85rem;border-radius:4px;cursor:pointer;text-decoration:none}
-.share a:hover,.share button:hover{border-color:var(--gold)}
+.share{display:flex;flex-wrap:wrap;gap:.45rem;margin:1.75rem 0;padding:1rem 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+.share .share-label{width:100%;font-size:.7rem;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:0 0 .15rem}
+.share a,.share button{appearance:none;border:1px solid var(--line);background:var(--paper);color:var(--gold-deep);font:600 .72rem var(--sans);letter-spacing:.03em;text-transform:uppercase;padding:.55rem .8rem;border-radius:4px;cursor:pointer;text-decoration:none}
+.share a:hover,.share button:hover{border-color:var(--gold);background:#fff}
 .nav{margin-top:1.5rem;font-size:.9rem}
 .nav a{color:var(--gold-deep)}
 </style>
@@ -195,17 +220,24 @@ h1{font-family:var(--serif);font-size:1.65rem;line-height:1.3;font-weight:600;ma
 ${prose}
     </div>
   </article>
-  <div class="share" aria-label="Share">
-    <a href="${esc(tw)}" target="_blank" rel="noopener">Share on X</a>
-    <a href="${esc(li)}" target="_blank" rel="noopener">Share on LinkedIn</a>
+  <div class="share" aria-label="Share this editorial">
+    <div class="share-label">Share</div>
+    <a href="${esc(sh.x)}" target="_blank" rel="noopener noreferrer">X</a>
+    <a href="${esc(sh.li)}" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+    <a href="${esc(sh.fb)}" target="_blank" rel="noopener noreferrer">Facebook</a>
+    <a href="${esc(sh.th)}" target="_blank" rel="noopener noreferrer">Threads</a>
+    <a href="${esc(sh.rd)}" target="_blank" rel="noopener noreferrer">Reddit</a>
+    <a href="${esc(sh.wa)}" target="_blank" rel="noopener noreferrer">WhatsApp</a>
+    <a href="${esc(sh.em)}">Email</a>
     <button type="button" id="copyBtn">Copy link</button>
     <button type="button" id="nativeShare" hidden>Share…</button>
   </div>
-  <p class="nav"><a href="../index.html#editorial">← Today’s desk</a> · <a href="../index.html">Field signals</a> · <a href="../go.html">Link hub</a></p>
+  <p class="nav"><a href="../index.html#editorial">← Today’s desk</a> · <a href="../index.html">Field signals</a> · <a href="../go.html">Link hub</a> · <a href="./">All editorials</a></p>
 </div>
 <script>
 (function(){
   var url=${JSON.stringify(url)};
+  var title=${JSON.stringify(title)};
   var btn=document.getElementById('copyBtn');
   if(btn) btn.onclick=function(){
     if(navigator.clipboard&&navigator.clipboard.writeText){
@@ -217,7 +249,7 @@ ${prose}
   var ns=document.getElementById('nativeShare');
   if(ns && navigator.share){
     ns.hidden=false;
-    ns.onclick=function(){ navigator.share({title:document.title,url:url}).catch(function(){}); };
+    ns.onclick=function(){ navigator.share({title:title,text:title+' — Chronicle of Convergence',url:url}).catch(function(){}); };
   }
 })();
 </script>
@@ -227,15 +259,19 @@ ${prose}
 }
 
 function writeSitemap(dates) {
+  const today = new Date().toISOString().slice(0, 10);
   const staticUrls = [
-    { loc: SITE + '/', changefreq: 'hourly', priority: '1.0' },
-    { loc: SITE + '/go.html', changefreq: 'weekly', priority: '0.9' },
+    { loc: SITE + '/', changefreq: 'hourly', priority: '1.0', lastmod: today },
+    { loc: SITE + '/e/', changefreq: 'daily', priority: '0.85', lastmod: today },
+    { loc: SITE + '/go.html', changefreq: 'weekly', priority: '0.9', lastmod: today },
     { loc: SITE + '/cafe.html', changefreq: 'monthly', priority: '0.5' },
     { loc: SITE + '/museum.html', changefreq: 'monthly', priority: '0.5' },
     { loc: SITE + '/church.html', changefreq: 'monthly', priority: '0.5' },
     { loc: SITE + '/terms.html', changefreq: 'monthly', priority: '0.3' },
     { loc: SITE + '/privacy.html', changefreq: 'monthly', priority: '0.3' },
-    { loc: SITE + '/llms.txt', changefreq: 'monthly', priority: '0.3' }
+    { loc: SITE + '/llms.txt', changefreq: 'weekly', priority: '0.55', lastmod: today },
+    { loc: SITE + '/robots.txt', changefreq: 'monthly', priority: '0.2' },
+    { loc: SITE + '/data/archive.json', changefreq: 'hourly', priority: '0.4', lastmod: today }
   ];
   const edUrls = dates
     .slice()
@@ -244,17 +280,17 @@ function writeSitemap(dates) {
     .map((d) => ({
       loc: SITE + '/e/' + d + '.html',
       changefreq: 'monthly',
-      priority: '0.8'
+      priority: d === dates[dates.length - 1] ? '0.9' : '0.8',
+      lastmod: d
     }));
   const all = staticUrls.concat(edUrls);
   const body = all
-    .map(
-      (u) => `  <url>
-    <loc>${u.loc}</loc>
-    <changefreq>${u.changefreq}</changefreq>
-    <priority>${u.priority}</priority>
-  </url>`
-    )
+    .map((u) => {
+      let block = `  <url>\n    <loc>${u.loc}</loc>`;
+      if (u.lastmod) block += `\n    <lastmod>${u.lastmod}</lastmod>`;
+      block += `\n    <changefreq>${u.changefreq}</changefreq>\n    <priority>${u.priority}</priority>\n  </url>`;
+      return block;
+    })
     .join('\n');
   const xml = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">

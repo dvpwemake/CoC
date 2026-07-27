@@ -2,6 +2,15 @@
   "maxAgeHours": 336,
   "pickCount": 5,
   "skipTitlePatterns": ["sponsored", "advertisement", "partner content", "white paper", "webinar replay"],
+  "domainBlacklist": [
+    "hyperallergic.com",
+    "www.hyperallergic.com"
+  ],
+  "imageDomainBlacklist": [
+    "hyperallergic.com",
+    "www.hyperallergic.com"
+  ],
+  "blacklistNote": "Hosts that ban bots, serve broken images, or fail og:image fetch. Feeds and article URLs on these hosts are skipped; image URLs from these hosts are discarded. Edit in admin → Edit crawl list.",
   "xMcp": {
     "enabled": true,
     "cachePath": "data/x-signals.json",
@@ -110,7 +119,6 @@
     },
     "art": {
       "feeds": [
-        { "name": "Hyperallergic", "url": "https://hyperallergic.com/feed/" },
         { "name": "The Art Newspaper", "url": "https://www.theartnewspaper.com/rss" },
         { "name": "Colossal", "url": "https://www.thisiscolossal.com/feed/" },
         { "name": "Artsy", "url": "https://www.artsy.net/rss/news" }
@@ -119,9 +127,9 @@
         "enabled": true,
         "queries": [
           "(art OR museum OR exhibition OR artist) (AI OR digital OR culture OR opens) -is:reply -is:retweet filter:has_engagement",
-          "from:Hyperallergic OR from:TheArtNewspaper OR from:colossal OR from:artsy -is:reply"
+          "from:TheArtNewspaper OR from:colossal OR from:artsy -is:reply"
         ],
-        "accounts": ["Hyperallergic", "TheArtNewspaper", "colossal", "artsy"],
+        "accounts": ["TheArtNewspaper", "colossal", "artsy"],
         "limit": 5,
         "min_faves": 5
       }

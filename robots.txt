@@ -1,38 +1,118 @@
+# Chronicle of Convergence — https://chronicleofconvergence.com/
+# Public index; editor and private admin paths stay closed.
+
 User-agent: *
 Allow: /
+Allow: /e/
+Allow: /e/*
+Allow: /llms.txt
+Allow: /data/archive.json
+Allow: /data/site-config.json
+Allow: /go.html
 Disallow: /editor.html
 Disallow: /scripts/editor-auth.js
 Disallow: /data/editorial.json
 Disallow: /data/editorial-pub-slim.json
+Disallow: /data/editorial-draft-
 Disallow: /data/x-signals.json
-# Public: /e/*.html editorial permalinks, /go.html link hub, data/site-config.json (analytics IDs only)
+Disallow: /scripts/sources.json
 
+# --- AI / answer-engine crawlers: welcome on public pages ---
 User-agent: GPTBot
 Allow: /
+Allow: /e/
+Allow: /llms.txt
+Allow: /data/archive.json
 Disallow: /editor.html
+Disallow: /data/editorial.json
+Disallow: /data/x-signals.json
 
 User-agent: ChatGPT-User
 Allow: /
+Allow: /e/
+Allow: /llms.txt
+Disallow: /editor.html
+
+User-agent: OAI-SearchBot
+Allow: /
+Allow: /e/
+Allow: /llms.txt
 Disallow: /editor.html
 
 User-agent: Google-Extended
 Allow: /
+Allow: /e/
+Allow: /llms.txt
+Disallow: /editor.html
+
+User-agent: Googlebot
+Allow: /
+Allow: /e/
+Disallow: /editor.html
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+Allow: /e/
 Disallow: /editor.html
 
 User-agent: anthropic-ai
 Allow: /
+Allow: /e/
+Allow: /llms.txt
 Disallow: /editor.html
 
 User-agent: ClaudeBot
 Allow: /
+Allow: /e/
+Allow: /llms.txt
+Disallow: /editor.html
+
+User-agent: Claude-Web
+Allow: /
+Allow: /e/
 Disallow: /editor.html
 
 User-agent: PerplexityBot
+Allow: /
+Allow: /e/
+Allow: /llms.txt
+Disallow: /editor.html
+
+User-agent: Applebot
 Allow: /
 Disallow: /editor.html
 
 User-agent: Applebot-Extended
 Allow: /
+Allow: /e/
+Disallow: /editor.html
+
+User-agent: Bytespider
+Allow: /
+Allow: /e/
+Disallow: /editor.html
+
+User-agent: CCBot
+Allow: /
+Allow: /e/
+Allow: /llms.txt
+Disallow: /editor.html
+
+User-agent: meta-externalagent
+Allow: /
+Allow: /e/
+Disallow: /editor.html
+
+User-agent: FacebookBot
+Allow: /
+Disallow: /editor.html
+
+User-agent: cohere-ai
+Allow: /
+Allow: /llms.txt
 Disallow: /editor.html
 
 Sitemap: https://chronicleofconvergence.com/sitemap.xml

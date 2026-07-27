@@ -62,6 +62,17 @@ a{color:inherit;text-decoration:none}
 
 .side-acts{display:flex;flex-direction:column;gap:.4rem}
 
+/* Crawl list editor */
+#srcP{display:none;padding:1rem 1.2rem 2rem;max-width:920px}
+.src-cat{border:1px solid var(--border);border-radius:8px;padding:.75rem;margin-bottom:.75rem;background:var(--bg-card,var(--bg))}
+.src-cat h3{font-family:var(--font-mono);font-size:.62rem;letter-spacing:.08em;text-transform:uppercase;color:var(--accent);margin:0 0 .55rem}
+.src-row{display:grid;grid-template-columns:1fr 2fr auto;gap:.4rem;margin-bottom:.4rem;align-items:center}
+.src-row .fi{margin:0;font-size:.62rem}
+.src-bl{display:flex;flex-wrap:wrap;gap:.35rem;margin:.4rem 0}
+.src-chip{display:inline-flex;align-items:center;gap:.3rem;padding:.25rem .5rem;border:1px solid var(--border);border-radius:999px;font-family:var(--font-mono);font-size:.52rem;background:var(--bg-hover)}
+.src-chip button{border:none;background:none;color:var(--danger);cursor:pointer;font-size:.7rem;line-height:1;padding:0}
+@media(max-width:720px){.src-row{grid-template-columns:1fr}}
+
 .bl-t{font-family:var(--font-mono);font-size:.5rem;letter-spacing:.14em;text-transform:uppercase;color:var(--text-dim);padding:.8rem 1.2rem .3rem}
 .bl{flex:1;overflow-y:auto;padding:0 .4rem .4rem}
 .bg{margin-bottom:2px}
@@ -184,9 +195,10 @@ a{color:inherit;text-decoration:none}
       <button class="btn btn-scan" id="sBtn" onclick="doScan()" style="flex:1"><span class="sp"></span><span class="bl">⚡ Crawl &amp; Publish</span></button>
       <button class="btn" onclick="showLog()">Log</button>
     </div>
+    <button class="btn" onclick="openCrawlList()" style="width:100%;margin-bottom:.5rem" title="Edit RSS feeds and domain blacklist">☰ Edit crawl list</button>
     <div class="toggle-row"><span>Auto-crawl every 4h</span><label class="tsw"><input type="checkbox" id="autoT" onchange="toggleAuto()"><span class="tsl"></span></label></div>
     <div class="toggle-row"><span>Auto-publish after crawl</span><label class="tsw"><input type="checkbox" id="autoPub" onchange="saveAutoPub()" checked><span class="tsl"></span></label></div>
-    <p style="font-family:var(--font-mono);font-size:.48rem;color:var(--text-dim);line-height:1.6;margin-top:.5rem">RSS + <b>X MCP</b> signals (all categories) · MIT TR · IEEE · STAT · NASA · Canary · Neuro · Art</p>
+    <p style="font-family:var(--font-mono);font-size:.48rem;color:var(--text-dim);line-height:1.6;margin-top:.5rem">RSS + <b>X MCP</b> · blacklist skips banned hosts · edit sources in crawl list</p>
   </div>
 
   <div class="sec" id="edSec">
@@ -213,7 +225,29 @@ a{color:inherit;text-decoration:none}
   <div class="ws" id="ws">
     <div class="ic">◇</div>
     <h2>Welcome, Editor</h2>
-    <p><span class="sn">1</span> <b>⚡ Crawl</b> — news (also auto-fills outline draft on server crawl)<br><span class="sn">2</span> <b>🖼 Image Adjustment</b> — fix head image URLs (all articles)<br><span class="sn">3</span> <b>✦ Editorial Draft</b> — load outline · write prose · <b>◎ Preview</b><br><span class="sn">4</span> <b>↑ Publish Editorial</b> — push to GitHub / live (no download)</p>
+    <p><span class="sn">1</span> <b>⚡ Crawl</b> — news (also auto-fills outline draft on server crawl)<br><span class="sn">2</span> <b>☰ Edit crawl list</b> — add/remove RSS feeds · domain blacklist<br><span class="sn">3</span> <b>🖼 Image Adjustment</b> — fix head image URLs (all articles)<br><span class="sn">4</span> <b>✦ Editorial Draft</b> — load outline · write prose · <b>◎ Preview</b><br><span class="sn">5</span> <b>↑ Publish Editorial</b> — push to GitHub / live (no download)</p>
+  </div>
+  <div id="srcP">
+    <div class="ph">
+      <button class="btn" type="button" onclick="hideCrawlList()">← Back</button>
+      <h2 class="pt" style="margin:0">Edit crawl list</h2>
+    </div>
+    <p class="img-adj-hint">RSS feeds per category + <b>domain blacklist</b> (hosts that ban bots or break card images). <b>Save (browser)</b> applies to this session’s crawl. <b>↑ Publish sources to live</b> writes <code>scripts/sources.json</code> on GitHub (same PAT as Editorial publish) so Actions crawls pick up the list.</p>
+    <div class="src-cat">
+      <h3>Domain blacklist</h3>
+      <p style="font-family:var(--font-mono);font-size:.5rem;color:var(--text-dim);margin:0 0 .5rem;line-height:1.5">Skip feeds, articles, and images from these hosts (e.g. hyperallergic.com). One host per entry; www. is normalized.</p>
+      <div class="src-bl" id="srcBlacklist"></div>
+      <div style="display:flex;gap:.4rem;margin-top:.35rem;flex-wrap:wrap">
+        <input type="text" class="fi" id="srcBlInput" placeholder="example.com" style="flex:1;min-width:140px;margin:0">
+        <button type="button" class="btn btn-p" onclick="addBlacklistHost()">+ Add host</button>
+      </div>
+    </div>
+    <div id="srcCats"></div>
+    <div style="display:flex;gap:.4rem;flex-wrap:wrap;margin-top:.5rem">
+      <button type="button" class="btn btn-p" onclick="saveCrawlListLocal()">Save (browser)</button>
+      <button type="button" class="btn btn-s" id="srcPubBtn" onclick="publishCrawlListToGitHub()">↑ Publish sources to live</button>
+      <button type="button" class="btn" onclick="reloadCrawlList()">↻ Reload from file</button>
+    </div>
   </div>
   <div id="imgAdjP">
     <div class="ph">
@@ -383,12 +417,180 @@ async function pullImg(){
 }
 function saveAutoPub(){localStorage.setItem(APK,document.getElementById('autoPub').checked)}
 
-async function loadSources(){
-  if(sourcesCfg)return sourcesCfg;
-  const r=await fetch('scripts/sources.json');
+const SRC_LS_KEY='coc_sources_override';
+const SRC_CATS=['ai','robotics','biotech','space','energy','neuroscience','art'];
+
+async function loadSources(force){
+  if(!force && sourcesCfg)return sourcesCfg;
+  // Prefer admin browser override (after Save), else repo file
+  try{
+    const raw=localStorage.getItem(SRC_LS_KEY);
+    if(raw){
+      const parsed=JSON.parse(raw);
+      if(parsed && parsed.categories){
+        sourcesCfg=parsed;
+        return sourcesCfg;
+      }
+    }
+  }catch(e){}
+  const r=await fetch('scripts/sources.json',{cache:'no-cache'});
   if(!r.ok)throw new Error('Could not load sources.json');
   sourcesCfg=await r.json();
   return sourcesCfg;
+}
+
+function hideAllMainPanels(){
+  document.getElementById('ws').style.display='none';
+  document.getElementById('imgAdjP').style.display='none';
+  const ef=document.getElementById('edForm'); if(ef) ef.style.display='none';
+  const fp=document.getElementById('eForm'); if(fp) fp.style.display='none';
+  const lp=document.getElementById('logP'); if(lp) lp.style.display='none';
+  const sp=document.getElementById('srcP'); if(sp) sp.style.display='none';
+}
+function hideCrawlList(){
+  document.getElementById('srcP').style.display='none';
+  document.getElementById('ws').style.display='';
+}
+async function openCrawlList(){
+  hideAllMainPanels();
+  document.getElementById('srcP').style.display='block';
+  try{
+    await loadSources(true);
+    // If override empty, ensure from file
+    if(!sourcesCfg) await loadSources(true);
+    renderCrawlList();
+  }catch(e){
+    toast('Could not load sources: '+e.message,'error');
+  }
+}
+function ensureSourcesShape(cfg){
+  if(!cfg.categories) cfg.categories={};
+  if(!Array.isArray(cfg.domainBlacklist)) cfg.domainBlacklist=[];
+  if(!Array.isArray(cfg.imageDomainBlacklist)) cfg.imageDomainBlacklist=cfg.domainBlacklist.slice();
+  SRC_CATS.forEach(c=>{
+    if(!cfg.categories[c]) cfg.categories[c]={feeds:[],x:{enabled:true,queries:[],accounts:[],limit:5}};
+    if(!Array.isArray(cfg.categories[c].feeds)) cfg.categories[c].feeds=[];
+  });
+  return cfg;
+}
+function normHostInput(h){
+  let s=String(h||'').trim().toLowerCase();
+  s=s.replace(/^https?:\/\//,'').replace(/\/.*$/,'').replace(/^www\./,'');
+  return s;
+}
+function renderCrawlList(){
+  if(!sourcesCfg) return;
+  ensureSourcesShape(sourcesCfg);
+  const bl=document.getElementById('srcBlacklist');
+  const hosts=[...new Set([...(sourcesCfg.domainBlacklist||[]),...(sourcesCfg.imageDomainBlacklist||[])].map(normHostInput).filter(Boolean))];
+  bl.innerHTML=hosts.length
+    ? hosts.map(h=>`<span class="src-chip"><span>${escAttr(h)}</span><button type="button" title="Remove" onclick="removeBlacklistHost('${escAttr(h).replace(/'/g,"\\'")}')">×</button></span>`).join('')
+    : '<span style="font-family:var(--font-mono);font-size:.5rem;color:var(--text-dim)">No blacklisted hosts</span>';
+  const box=document.getElementById('srcCats');
+  box.innerHTML=SRC_CATS.map(cat=>{
+    const feeds=(sourcesCfg.categories[cat]&&sourcesCfg.categories[cat].feeds)||[];
+    const rows=feeds.map((f,i)=>`
+      <div class="src-row" data-cat="${cat}" data-i="${i}">
+        <input type="text" class="fi src-name" value="${escAttr(f.name||'')}" placeholder="Source name" onchange="onFeedField('${cat}',${i},'name',this.value)">
+        <input type="url" class="fi src-url" value="${escAttr(f.url||'')}" placeholder="https://…/feed/" onchange="onFeedField('${cat}',${i},'url',this.value)">
+        <button type="button" class="btn btn-d" onclick="removeFeed('${cat}',${i})">✕</button>
+      </div>`).join('')||'<p style="font-family:var(--font-mono);font-size:.5rem;color:var(--text-dim);margin:.25rem 0">No feeds — add one</p>';
+    return `<div class="src-cat" data-cat="${cat}">
+      <h3>${cat}</h3>
+      ${rows}
+      <button type="button" class="btn" onclick="addFeed('${cat}')" style="margin-top:.25rem">+ Add feed</button>
+    </div>`;
+  }).join('');
+}
+function onFeedField(cat,i,field,val){
+  ensureSourcesShape(sourcesCfg);
+  const feeds=sourcesCfg.categories[cat].feeds;
+  if(!feeds[i]) return;
+  feeds[i][field]=String(val||'').trim();
+}
+function addFeed(cat){
+  ensureSourcesShape(sourcesCfg);
+  sourcesCfg.categories[cat].feeds.push({name:'',url:''});
+  renderCrawlList();
+}
+function removeFeed(cat,i){
+  ensureSourcesShape(sourcesCfg);
+  sourcesCfg.categories[cat].feeds.splice(i,1);
+  renderCrawlList();
+}
+function addBlacklistHost(){
+  ensureSourcesShape(sourcesCfg);
+  const h=normHostInput(document.getElementById('srcBlInput').value);
+  if(!h){toast('Enter a host like hyperallergic.com','warning');return}
+  const set=new Set((sourcesCfg.domainBlacklist||[]).map(normHostInput));
+  set.add(h);
+  sourcesCfg.domainBlacklist=[...set];
+  sourcesCfg.imageDomainBlacklist=[...set];
+  document.getElementById('srcBlInput').value='';
+  renderCrawlList();
+}
+function removeBlacklistHost(h){
+  ensureSourcesShape(sourcesCfg);
+  const n=normHostInput(h);
+  sourcesCfg.domainBlacklist=(sourcesCfg.domainBlacklist||[]).map(normHostInput).filter(x=>x&&x!==n);
+  sourcesCfg.imageDomainBlacklist=(sourcesCfg.imageDomainBlacklist||[]).map(normHostInput).filter(x=>x&&x!==n);
+  renderCrawlList();
+}
+function collectCrawlListFromDom(){
+  // Fields already synced via onchange; prune empty feeds
+  ensureSourcesShape(sourcesCfg);
+  SRC_CATS.forEach(cat=>{
+    sourcesCfg.categories[cat].feeds=(sourcesCfg.categories[cat].feeds||[]).filter(f=>f&&(f.url||f.name));
+  });
+  const bl=[...new Set((sourcesCfg.domainBlacklist||[]).map(normHostInput).filter(Boolean))];
+  sourcesCfg.domainBlacklist=bl;
+  sourcesCfg.imageDomainBlacklist=bl.slice();
+  return sourcesCfg;
+}
+function saveCrawlListLocal(){
+  collectCrawlListFromDom();
+  try{
+    localStorage.setItem(SRC_LS_KEY,JSON.stringify(sourcesCfg));
+  }catch(e){toast('localStorage failed','error');return}
+  addLog('ok','Crawl list saved in browser · '+blCount()+' blacklist · feeds ready for next ⚡ Crawl');
+  toast('Crawl list saved (browser) — next crawl uses this list','success');
+}
+function blCount(){
+  return (sourcesCfg&&sourcesCfg.domainBlacklist||[]).length;
+}
+async function reloadCrawlList(){
+  try{localStorage.removeItem(SRC_LS_KEY);}catch(e){}
+  sourcesCfg=null;
+  await loadSources(true);
+  renderCrawlList();
+  toast('Reloaded sources.json from disk','success');
+}
+async function publishCrawlListToGitHub(){
+  if(!window.CocGitHubPublish){toast('github-publish-client.js not loaded','error');return}
+  collectCrawlListFromDom();
+  let token=CocGitHubPublish.getToken();
+  if(!token){
+    token=prompt('GitHub fine-grained PAT (Contents: Read/Write on dvpwemake/CoC):');
+    if(!token){toast('Publish cancelled — no token','warning');return}
+    CocGitHubPublish.setToken(token.trim());
+  }
+  const btn=document.getElementById('srcPubBtn');
+  if(btn){btn.disabled=true;btn.textContent='↑ Publishing…';}
+  try{
+    const path='scripts/sources.json';
+    const file=await CocGitHubPublish.getFile(path);
+    const text=JSON.stringify(sourcesCfg,null,2)+'\n';
+    await CocGitHubPublish.putFile(path,text,file.sha,'Editor: update crawl list + domain blacklist');
+    try{localStorage.setItem(SRC_LS_KEY,JSON.stringify(sourcesCfg));}catch(e){}
+    addLog('ok','Published scripts/sources.json to GitHub');
+    toast('Crawl list live on GitHub','success');
+  }catch(e){
+    addLog('er2','Sources publish failed: '+e.message);
+    toast(e.message||'Sources publish failed','error');
+    try{CocGitHubPublish.setToken('');}catch(x){}
+  }finally{
+    if(btn){btn.disabled=false;btn.textContent='↑ Publish sources to live';}
+  }
 }
 
 function browserFetch(url,opts){
@@ -583,12 +785,14 @@ function hidePanelsKeepAside(){
   document.getElementById('eForm').style.display='none';
   const ef=document.getElementById('edForm'); if(ef) ef.style.display='none';
   const ia=document.getElementById('imgAdjP'); if(ia) ia.style.display='none';
+  const sp=document.getElementById('srcP'); if(sp) sp.style.display='none';
 }
 function hide(){
   document.getElementById('eForm').style.display='none';
   document.getElementById('logP').style.display='none';
   const ef=document.getElementById('edForm'); if(ef) ef.style.display='none';
   const ia=document.getElementById('imgAdjP'); if(ia) ia.style.display='none';
+  const sp=document.getElementById('srcP'); if(sp) sp.style.display='none';
   document.getElementById('ws').style.display='flex';
 }
 function clrF(){['fR','fT','fS','fI','fSr','fSu','fB'].forEach(id=>document.getElementById(id).value='');document.getElementById('fC').value='ai';updImg('')}
@@ -1244,14 +1448,26 @@ function buildStaticEditorialHtml(ed, date){
   const desc=(dek||paras[0]||'').slice(0,300);
   const prose=paras.map(p=>'<p>'+esc(p)+'</p>').join('\n');
   const wc=ed.wordCount||paras.join(' ').split(/\s+/).filter(Boolean).length;
-  const tw='https://twitter.com/intent/tweet?text='+encodeURIComponent(title+' — Chronicle of Convergence')+'&url='+encodeURIComponent(url);
-  const li='https://www.linkedin.com/sharing/share-offsite/?url='+encodeURIComponent(url);
+  const st=encodeURIComponent(title+' — Chronicle of Convergence');
+  const su=encodeURIComponent(url);
+  const sb=encodeURIComponent(title+' — Chronicle of Convergence\n\n'+url);
+  const sh={
+    x:'https://twitter.com/intent/tweet?text='+st+'&url='+su,
+    li:'https://www.linkedin.com/sharing/share-offsite/?url='+su,
+    fb:'https://www.facebook.com/sharer/sharer.php?u='+su,
+    th:'https://www.threads.net/intent/post?text='+st+'%20'+su,
+    rd:'https://www.reddit.com/submit?url='+su+'&title='+st,
+    wa:'https://api.whatsapp.com/send?text='+sb,
+    em:'mailto:?subject='+st+'&body='+sb
+  };
   return `<!DOCTYPE html>
 <html lang="en"><head>
 <meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>${esc(title)} — Chronicle of Convergence</title>
 <meta name="description" content="${esc(desc)}">
+<meta name="robots" content="index,follow,max-image-preview:large">
 <link rel="canonical" href="${esc(url)}">
+<link rel="alternate" type="text/plain" title="llms.txt" href="https://chronicleofconvergence.com/llms.txt">
 <meta property="og:type" content="article">
 <meta property="og:url" content="${esc(url)}">
 <meta property="og:title" content="${esc(title)}">
@@ -1273,7 +1489,8 @@ h1{font-family:var(--serif);font-size:1.65rem;line-height:1.3}
 .prose p{margin:0 0 1.05em}
 .hero{width:100%;max-height:380px;object-fit:cover;border-radius:8px}
 a{color:var(--gold-deep)}
-.share a{margin-right:.75rem}
+.share{display:flex;flex-wrap:wrap;gap:.45rem;margin:1.5rem 0;padding:1rem 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+.share a,.share button{border:1px solid var(--line);background:var(--paper);color:var(--gold-deep);font:600 .72rem var(--sans);letter-spacing:.03em;text-transform:uppercase;padding:.5rem .75rem;border-radius:4px;text-decoration:none;cursor:pointer}
 </style></head><body><div class="wrap">
 <p><a href="../index.html">Chronicle of Convergence</a> · Daily editorial · ${esc(date)}</p>
 ${hero?`<img class="hero" src="${esc(hero)}" alt="" referrerpolicy="no-referrer">`:''}
@@ -1282,9 +1499,16 @@ ${heroCredit?`<p style="font-size:.7rem;color:var(--muted)">Photo: ${esc(heroCre
 ${dek?`<p class="dek">${esc(dek)}</p>`:''}
 <p style="color:var(--muted);font-size:.85rem">By ${esc(author)}${authorTitle?' · '+esc(authorTitle):''} · ~${wc} words</p>
 <div class="prose">${prose}</div>
-<p class="share"><a href="${esc(tw)}" target="_blank" rel="noopener">Share on X</a>
-<a href="${esc(li)}" target="_blank" rel="noopener">LinkedIn</a>
-<a href="../go.html">Link hub</a></p>
+<div class="share" aria-label="Share">
+<a href="${esc(sh.x)}" target="_blank" rel="noopener noreferrer">X</a>
+<a href="${esc(sh.li)}" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+<a href="${esc(sh.fb)}" target="_blank" rel="noopener noreferrer">Facebook</a>
+<a href="${esc(sh.th)}" target="_blank" rel="noopener noreferrer">Threads</a>
+<a href="${esc(sh.rd)}" target="_blank" rel="noopener noreferrer">Reddit</a>
+<a href="${esc(sh.wa)}" target="_blank" rel="noopener noreferrer">WhatsApp</a>
+<a href="${esc(sh.em)}">Email</a>
+<a href="../go.html">Link hub</a>
+</div>
 <p><a href="../index.html#editorial">← Today’s desk</a></p>
 </div></body></html>`;
 }

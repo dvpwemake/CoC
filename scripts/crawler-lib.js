@@ -3,6 +3,50 @@
 const UA = 'Mozilla/5.0 (compatible; ChronicleOfConvergence/2.0; +https://chronicleofconvergence.com)';
 const BAD_IMG_RE = /unsplash\.com|placeholder|photo-xxx|picsum|loremflickr|logo-rss|favicon/i;
 
+/** Normalize host for blacklist match (strip www., lowercase). */
+function normalizeHost(host) {
+  return String(host || '')
+    .toLowerCase()
+    .replace(/^www\./, '')
+    .trim();
+}
+
+function hostFromUrl(url) {
+  try {
+    return normalizeHost(new URL(String(url || ''), 'https://example.com').hostname);
+  } catch (e) {
+    return '';
+  }
+}
+
+/**
+ * Domain blacklist: sources that ban bots, break images, or poison the card grid.
+ * Config keys: domainBlacklist, imageDomainBlacklist (arrays of hosts).
+ */
+function blacklistHosts(config, kind) {
+  const primary = config && Array.isArray(config.domainBlacklist) ? config.domainBlacklist : [];
+  const images =
+    config && Array.isArray(config.imageDomainBlacklist) ? config.imageDomainBlacklist : primary;
+  const list = kind === 'image' ? images : primary;
+  return list.map(normalizeHost).filter(Boolean);
+}
+
+function isHostBlacklisted(urlOrHost, config, kind) {
+  const host = urlOrHost && String(urlOrHost).includes('/')
+    ? hostFromUrl(urlOrHost)
+    : normalizeHost(urlOrHost);
+  if (!host) return false;
+  const list = blacklistHosts(config, kind || 'domain');
+  return list.some((b) => host === b || host.endsWith('.' + b));
+}
+
+function isImageUrlAllowed(url, config) {
+  if (!url) return false;
+  if (BAD_IMG_RE.test(url)) return false;
+  if (config && isHostBlacklisted(url, config, 'image')) return false;
+  return true;
+}
+
 function decodeEntities(str) {
   return String(str || '')
     .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1')
@@ -68,7 +112,7 @@ function extractCategories(block) {
   return cats;
 }
 
-function extractImage(block) {
+function extractImage(block, config) {
   const patterns = [
     /<media:content[^>]+url=["']([^"']+)["']/i,
     /<media:thumbnail[^>]+url=["']([^"']+)["']/i,
@@ -77,11 +121,17 @@ function extractImage(block) {
   ];
   for (const p of patterns) {
     const m = block.match(p);
-    if (m && !BAD_IMG_RE.test(m[1])) return m[1].replace(/&amp;/g, '&');
+    if (m) {
+      const u = m[1].replace(/&amp;/g, '&');
+      if (isImageUrlAllowed(u, config)) return u;
+    }
   }
   const desc = extractTag(block, 'description') || extractTag(block, 'content:encoded') || extractTag(block, 'summary');
   const img = desc.match(/<img[^>]+src=["']([^"']+)["']/i);
-  if (img && !BAD_IMG_RE.test(img[1])) return img[1].replace(/&amp;/g, '&');
+  if (img) {
+    const u = img[1].replace(/&amp;/g, '&');
+    if (isImageUrlAllowed(u, config)) return u;
+  }
   return '';
 }
 
@@ -91,12 +141,13 @@ function parseDate(str) {
   return Number.isNaN(d.getTime()) ? null : d;
 }
 
-function parseFeedItems(xml) {
+function parseFeedItems(xml, config) {
   const items = [];
   const blocks = [...(xml.match(/<item[\s>][\s\S]*?<\/item>/gi) || []), ...(xml.match(/<entry[\s>][\s\S]*?<\/entry>/gi) || [])];
   for (const block of blocks) {
     const title = stripHtml(extractTag(block, 'title'));
     const link = extractLink(block);
+    if (config && isHostBlacklisted(link, config, 'domain')) continue;
     const pubDate = parseDate(
       extractTag(block, 'pubDate') ||
       extractTag(block, 'published') ||
@@ -114,14 +165,14 @@ function parseFeedItems(xml) {
       link,
       pubDate,
       description,
-      image: extractImage(block),
+      image: extractImage(block, config),
       categories: extractCategories(block)
     });
   }
   return items;
 }
 
-function parseOgImage(html) {
+function parseOgImage(html, config) {
   const patterns = [
     /<meta[^>]+property=["']og:image(?::secure_url)?["'][^>]+content=["']([^"']+)["']/i,
     /<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image(?::secure_url)?["']/i,
@@ -130,7 +181,10 @@ function parseOgImage(html) {
   ];
   for (const pattern of patterns) {
     const match = html.match(pattern);
-    if (match && !BAD_IMG_RE.test(match[1])) return match[1].replace(/&amp;/g, '&').trim();
+    if (match) {
+      const u = match[1].replace(/&amp;/g, '&').trim();
+      if (isImageUrlAllowed(u, config)) return u;
+    }
   }
   return '';
 }
@@ -181,11 +235,14 @@ async function fetchText(url, fetchFn, timeoutMs = 15000) {
   }
 }
 
-async function fetchArticleMeta(url, fetchFn) {
+async function fetchArticleMeta(url, fetchFn, config) {
+  if (config && isHostBlacklisted(url, config, 'domain')) {
+    return { image: '', description: '' };
+  }
   try {
     const html = await fetchText(url, fetchFn, 12000);
     return {
-      image: parseOgImage(html),
+      image: parseOgImage(html, config),
       description: parseOgDescription(html)
     };
   } catch (e) {
@@ -193,9 +250,12 @@ async function fetchArticleMeta(url, fetchFn) {
   }
 }
 
-async function fetchFeed(feed, fetchFn) {
+async function fetchFeed(feed, fetchFn, config) {
+  if (config && isHostBlacklisted(feed.url, config, 'domain')) {
+    return [];
+  }
   const xml = await fetchText(feed.url, fetchFn, 15000);
-  return parseFeedItems(xml);
+  return parseFeedItems(xml, config);
 }
 
 /**
@@ -239,15 +299,19 @@ async function pickForCategory(category, catConfig, config, fetchFn, usedUrls, o
 
   // RSS / Atom feeds
   for (const feed of catConfig.feeds || []) {
+    if (isHostBlacklisted(feed.url, config, 'domain')) continue;
     let items;
     try {
-      items = await fetchFeed(feed, fetchFn);
+      items = await fetchFeed(feed, fetchFn, config);
     } catch (e) {
       continue;
     }
     for (const it of items) {
       if (shouldSkip(it, config)) continue;
+      if (isHostBlacklisted(it.link, config, 'domain')) continue;
       if (usedUrls.has(it.link)) continue;
+      // Drop images from banned hosts even if the article host is allowed
+      if (it.image && !isImageUrlAllowed(it.image, config)) it.image = '';
       candidates.push({ ...it, category, source: feed.name, fromX: false });
     }
   }
@@ -270,7 +334,9 @@ async function pickForCategory(category, catConfig, config, fetchFn, usedUrls, o
     }
     for (const it of xItems) {
       if (shouldSkip(it, config)) continue;
+      if (isHostBlacklisted(it.link, config, 'domain')) continue;
       if (usedUrls.has(it.link)) continue;
+      if (it.image && !isImageUrlAllowed(it.image, config)) it.image = '';
       candidates.push({ ...it, category });
     }
   }
@@ -287,17 +353,20 @@ async function pickForCategory(category, catConfig, config, fetchFn, usedUrls, o
   return any[0] || null;
 }
 
-async function enrichItem(item, fetchFn) {
+async function enrichItem(item, fetchFn, config) {
   let image = item.image || '';
   let summary = summarize(item.description);
 
+  if (image && !isImageUrlAllowed(image, config)) image = '';
+
   if (!image || BAD_IMG_RE.test(image)) {
-    const meta = await fetchArticleMeta(item.link, fetchFn);
-    if (meta.image) image = meta.image;
+    const meta = await fetchArticleMeta(item.link, fetchFn, config);
+    if (meta.image && isImageUrlAllowed(meta.image, config)) image = meta.image;
     if (!summary && meta.description) summary = summarize(meta.description);
   }
 
   if (!summary) summary = summarize(item.title, 160);
+  if (image && !isImageUrlAllowed(image, config)) image = '';
 
   return {
     title: item.title.slice(0, 150),
@@ -338,7 +407,7 @@ async function crawl(config, options = {}) {
     }
   }
 
-  const enriched = await Promise.all(top.map((item) => enrichItem(item, fetchFn)));
+  const enriched = await Promise.all(top.map((item) => enrichItem(item, fetchFn, config)));
 
   return enriched.map((it, i) => ({
     rank: i + 1,
@@ -358,6 +427,9 @@ const CocCrawler = {
   parseOgImage,
   stripHtml,
   normalizeXItems,
+  isHostBlacklisted,
+  isImageUrlAllowed,
+  hostFromUrl,
   BAD_IMG_RE
 };
 
