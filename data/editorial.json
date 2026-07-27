@@ -748,29 +748,29 @@
       "status": "draft",
       "draftKind": "outline",
       "createdAt": "2026-07-27T06:52:30.527Z",
-      "updatedAt": "2026-07-27T10:58:29.932Z",
+      "updatedAt": "2026-07-27T14:03:04.352Z",
       "title": "Editorial brief — 2026-07-27",
       "dek": "Outline of selected article titles and key points for admin to write the final editorial.",
-      "body": "EDITORIAL BRIEF (outline only — not for publication as-is)\nPublish date: 2026-07-27\nInstruction: Use the titles and key points below to write the final ~300-word CoC editorial. Replace this entire brief with your finished prose before publishing.\n\n— Selected articles of the day (12) —\n\n1. [AI] Gemini 3.6 Flash and 3.5 Flash-Lite now available through official API for developers and AI agents\n   Source: X · @web3l0var\n   URL: https://x.com/web3l0var/status/2079909448219271368\n   Key points:\n   • Model ecosystem expansion: Gemini 3.6 Flash and Gemini 3.5 Flash-Lite via official API access.\n\n2. [Art] A Guerrilla Girl Drops Her Mask\n   Source: Hyperallergic\n   URL: https://hyperallergic.com/a-guerrilla-girl-drops-her-mask/\n   Key points:\n   • Joyce Kozloff becomes the first public member of the feminist collective.\n   • Also: Why is an AI company stamping its name onto an art school?\n\n3. [Biotech] Opinion: E-bikes, e-scooters are a burgeoning pediatric public health emergency\n   Source: STAT News\n   URL: https://www.statnews.com/2026/07/27/e-bikes-scooters-children-teens-safety-orthopedics-research/?utm_campaign=rss\n   Key points:\n   • “Emergency departments across America report dramatic increases in serious injuries from e-bikes and e-scooters,” write CHOP’s J.\n\n4. [editorial] Ancient Light\n   Source: Chronicle of Convergence · Editorial\n   URL: https://chronicleofconvergence.com/e/2026-07-25.html\n   Key points:\n   • What expands faster than our scores can explain\n\n5. [Energy] California to offer a novel $3,500 rebate for first-time EV buyers\n   Source: Canary Media\n   URL: https://www.canarymedia.com/articles/electric-vehicles/california-rebate-ev-buyers\n   Key points:\n   • California is making a bet: Once you’ve driven an EV, you won’t want to go back to a gas-powered car.\n   • Gavin Newsom (D) signed legislation creating the MyFirstEV program.\n\n6. [Neuroscience] Restricted Eating Windows Aid Cognitive Function\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/restricted-eating-cognition-aging-31130/\n   Key points:\n   • Restricting daily eating to an 8 to 9 hour window yields cognitive improvements in spatial planning and problem-solving for older, overweight women beyond the benefits of caloric reduction alone.\n\n7. [Robotics] Optical Tech Would Update a Robot’s AI on the Fly\n   Source: IEEE Spectrum\n   URL: https://spectrum.ieee.org/ai-in-robotics\n   Key points:\n   • Atop a lab bench, Cornell Tech postdoctoral researcher Yifan He positions the lens of an optical receiver almost a meter away from an LED emitting a beam of red light.\n   • The computer monitor attached to the receiver takes…\n\n8. [Space] Blue Origin to test New Glenn upper stages at Stennis\n   Source: SpaceNews\n   URL: https://spacenews.com/blue-origin-to-test-new-glenn-upper-stages-at-stennis/\n   Key points:\n   • Blue Origin will use NASA’s Stennis Space Center to test New Glenn upper stages as it rebuilds its Cape Canaveral launch complex.\n   • The post Blue Origin to test New Glenn upper stages at Stennis appeared first on…\n\n9. [Space] NASA and ESA facilities avoid major damage from wildfires in Spain\n   Source: SpaceNews\n   URL: https://spacenews.com/nasa-and-esa-facilities-avoid-major-damage-from-wildfires-in-spain/\n   Key points:\n   • Key ground stations in Spain operated by NASA and the European Space Agency have avoided serious damage from major wildfires in the country.\n   • The post NASA and ESA facilities avoid major damage from wildfires in Spain…\n\n10. [Art] Christopher Nolan, David Hockney, Luis Manuel Otero Alcántara\n   Source: Hyperallergic\n   URL: https://hyperallergic.com/christopher-nolan-david-hockney-luis-manuel-otero-alcantara/\n   Key points:\n   • A political prisoner is freed, a Homerist reviews Nolan’s “The Odyssey,” and do we have to pretend to like David Hockney’s iPad paintings?\n\n11. [Neuroscience] Alzheimer Genetic Risk Scores Do Not Explain SuperAging\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/alzheimer-genetic-superager-memory-31129/\n   Key points:\n   • A new study demonstrates that SuperAgers cannot be distinguished from cognitively average peers by APOE status or polygenic risk scores.\n\n12. [Space] The Universe can outrun light without breaking Einstein’s rules\n   Source: ScienceDaily\n   URL: https://www.sciencedaily.com/releases/2026/07/260724061444.htm\n   Key points:\n   • Cosmic expansion allows distant galaxies to move away faster than light, while still letting us see ancient light they emitted when they were much closer.\n   • Eventually, accelerating expansion will push nearly every galaxy…\n\n— Categories present —\nAI · Art · Biotech · editorial · Energy · Neuroscience · Robotics · Space\n\n— Admin checklist —\n• Draft original title + dek\n• Write body (~280–320 words) in CoC voice\n• Set hero image URL + credit\n• Mark published when ready",
+      "body": "EDITORIAL BRIEF (outline only — not for publication as-is)\nPublish date: 2026-07-27\nInstruction: Use the titles and key points below to write the final ~300-word CoC editorial. Replace this entire brief with your finished prose before publishing.\n\n— Selected articles of the day (12) —\n\n1. [AI] Gemini 3.6 Flash and 3.5 Flash-Lite now available through official API for developers and AI agents\n   Source: X · @web3l0var\n   URL: https://x.com/web3l0var/status/2079909448219271368\n   Key points:\n   • Model ecosystem expansion: Gemini 3.6 Flash and Gemini 3.5 Flash-Lite via official API access.\n\n2. [Art] A Guerrilla Girl Drops Her Mask\n   Source: Hyperallergic\n   URL: https://hyperallergic.com/a-guerrilla-girl-drops-her-mask/\n   Key points:\n   • Joyce Kozloff becomes the first public member of the feminist collective.\n   • Also: Why is an AI company stamping its name onto an art school?\n\n3. [Biotech] STAT+: Sarepta names Michael Severino, former Tessera CEO, as new chief executive\n   Source: STAT News\n   URL: https://www.statnews.com/2026/07/27/sarepta-therapeutics-michael-severino-doug-ingram-duchenne-muscular-dystrophy/?utm_campaign=rss\n   Key points:\n   • The beleaguered Sarepta Therapeutics named Michael Severino, who previously led Tessera Therapeutics, as its new CEO.\n\n4. [editorial] Ancient Light\n   Source: Chronicle of Convergence · Editorial\n   URL: https://chronicleofconvergence.com/e/2026-07-25.html\n   Key points:\n   • What expands faster than our scores can explain\n\n5. [Energy] Duh, solar power doesn't work at night — but it excels during the day\n   Source: Canary Media\n   URL: https://www.canarymedia.com/articles/solar/doe-solar-power-day-night-texas\n   Key points:\n   • Yesterday, the Department of Energy took to social media to try and make a scandal out of a well-known fact: Solar panels do not generate power at night.\n   • It’s an old and lazy swipe that critics of renewable energy love…\n\n6. [Neuroscience] Your dreams aren’t random. Your brain is rewriting reality\n   Source: ScienceDaily\n   URL: https://www.sciencedaily.com/releases/2026/07/260725105731.htm\n   Key points:\n   • Dreams are not random mental noise.\n   • A large study of more than 3,700 dream and waking reports found that what we experience during sleep is shaped by both our personalities and the world around us.\n\n7. [Robotics] Optical Tech Would Update a Robot’s AI on the Fly\n   Source: IEEE Spectrum\n   URL: https://spectrum.ieee.org/ai-in-robotics\n   Key points:\n   • Atop a lab bench, Cornell Tech postdoctoral researcher Yifan He positions the lens of an optical receiver almost a meter away from an LED emitting a beam of red light.\n   • The computer monitor attached to the receiver takes…\n\n8. [Space] Orbes unveils Exo-ORB and agreement with Symphony Space\n   Source: SpaceNews\n   URL: https://spacenews.com/orbes-unveils-exo-orb-and-agreement-with-symphony-space/\n   Key points:\n   • SAN FRANCISCO – Southern California startup Orbes announced an agreement July 27 to send Exo-ORB, a free-flying satellite, to gather imagery of an uncrewed Symphony Space station.\n   • Exo-ORB, which is […] The post Orbes…\n\n9. [Neuroscience] Restricted Eating Windows Aid Cognitive Function\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/restricted-eating-cognition-aging-31130/\n   Key points:\n   • Restricting daily eating to an 8 to 9 hour window yields cognitive improvements in spatial planning and problem-solving for older, overweight women beyond the benefits of caloric reduction alone.\n\n10. [Space] NASA and ESA facilities avoid major damage from wildfires in Spain\n   Source: SpaceNews\n   URL: https://spacenews.com/nasa-and-esa-facilities-avoid-major-damage-from-wildfires-in-spain/\n   Key points:\n   • Key ground stations in Spain operated by NASA and the European Space Agency have avoided serious damage from major wildfires in the country.\n   • The post NASA and ESA facilities avoid major damage from wildfires in Spain…\n\n11. [Art] Christopher Nolan, David Hockney, Luis Manuel Otero Alcántara\n   Source: Hyperallergic\n   URL: https://hyperallergic.com/christopher-nolan-david-hockney-luis-manuel-otero-alcantara/\n   Key points:\n   • A political prisoner is freed, a Homerist reviews Nolan’s “The Odyssey,” and do we have to pretend to like David Hockney’s iPad paintings?\n\n12. [Neuroscience] Alzheimer Genetic Risk Scores Do Not Explain SuperAging\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/alzheimer-genetic-superager-memory-31129/\n   Key points:\n   • A new study demonstrates that SuperAgers cannot be distinguished from cognitively average peers by APOE status or polygenic risk scores.\n\n— Categories present —\nAI · Art · Biotech · editorial · Energy · Neuroscience · Robotics · Space\n\n— Admin checklist —\n• Draft original title + dek\n• Write body (~280–320 words) in CoC voice\n• Set hero image URL + credit\n• Mark published when ready",
       "paragraphs": [
         "EDITORIAL BRIEF (outline only — not for publication as-is)\nPublish date: 2026-07-27\nInstruction: Use the titles and key points below to write the final ~300-word CoC editorial. Replace this entire brief with your finished prose before publishing.",
         "— Selected articles of the day (12) —",
         "1. [AI] Gemini 3.6 Flash and 3.5 Flash-Lite now available through official API for developers and AI agents\n   Source: X · @web3l0var\n   URL: https://x.com/web3l0var/status/2079909448219271368\n   Key points:\n   • Model ecosystem expansion: Gemini 3.6 Flash and Gemini 3.5 Flash-Lite via official API access.",
         "2. [Art] A Guerrilla Girl Drops Her Mask\n   Source: Hyperallergic\n   URL: https://hyperallergic.com/a-guerrilla-girl-drops-her-mask/\n   Key points:\n   • Joyce Kozloff becomes the first public member of the feminist collective.\n   • Also: Why is an AI company stamping its name onto an art school?",
-        "3. [Biotech] Opinion: E-bikes, e-scooters are a burgeoning pediatric public health emergency\n   Source: STAT News\n   URL: https://www.statnews.com/2026/07/27/e-bikes-scooters-children-teens-safety-orthopedics-research/?utm_campaign=rss\n   Key points:\n   • “Emergency departments across America report dramatic increases in serious injuries from e-bikes and e-scooters,” write CHOP’s J.",
+        "3. [Biotech] STAT+: Sarepta names Michael Severino, former Tessera CEO, as new chief executive\n   Source: STAT News\n   URL: https://www.statnews.com/2026/07/27/sarepta-therapeutics-michael-severino-doug-ingram-duchenne-muscular-dystrophy/?utm_campaign=rss\n   Key points:\n   • The beleaguered Sarepta Therapeutics named Michael Severino, who previously led Tessera Therapeutics, as its new CEO.",
         "4. [editorial] Ancient Light\n   Source: Chronicle of Convergence · Editorial\n   URL: https://chronicleofconvergence.com/e/2026-07-25.html\n   Key points:\n   • What expands faster than our scores can explain",
-        "5. [Energy] California to offer a novel $3,500 rebate for first-time EV buyers\n   Source: Canary Media\n   URL: https://www.canarymedia.com/articles/electric-vehicles/california-rebate-ev-buyers\n   Key points:\n   • California is making a bet: Once you’ve driven an EV, you won’t want to go back to a gas-powered car.\n   • Gavin Newsom (D) signed legislation creating the MyFirstEV program.",
-        "6. [Neuroscience] Restricted Eating Windows Aid Cognitive Function\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/restricted-eating-cognition-aging-31130/\n   Key points:\n   • Restricting daily eating to an 8 to 9 hour window yields cognitive improvements in spatial planning and problem-solving for older, overweight women beyond the benefits of caloric reduction alone.",
+        "5. [Energy] Duh, solar power doesn't work at night — but it excels during the day\n   Source: Canary Media\n   URL: https://www.canarymedia.com/articles/solar/doe-solar-power-day-night-texas\n   Key points:\n   • Yesterday, the Department of Energy took to social media to try and make a scandal out of a well-known fact: Solar panels do not generate power at night.\n   • It’s an old and lazy swipe that critics of renewable energy love…",
+        "6. [Neuroscience] Your dreams aren’t random. Your brain is rewriting reality\n   Source: ScienceDaily\n   URL: https://www.sciencedaily.com/releases/2026/07/260725105731.htm\n   Key points:\n   • Dreams are not random mental noise.\n   • A large study of more than 3,700 dream and waking reports found that what we experience during sleep is shaped by both our personalities and the world around us.",
         "7. [Robotics] Optical Tech Would Update a Robot’s AI on the Fly\n   Source: IEEE Spectrum\n   URL: https://spectrum.ieee.org/ai-in-robotics\n   Key points:\n   • Atop a lab bench, Cornell Tech postdoctoral researcher Yifan He positions the lens of an optical receiver almost a meter away from an LED emitting a beam of red light.\n   • The computer monitor attached to the receiver takes…",
-        "8. [Space] Blue Origin to test New Glenn upper stages at Stennis\n   Source: SpaceNews\n   URL: https://spacenews.com/blue-origin-to-test-new-glenn-upper-stages-at-stennis/\n   Key points:\n   • Blue Origin will use NASA’s Stennis Space Center to test New Glenn upper stages as it rebuilds its Cape Canaveral launch complex.\n   • The post Blue Origin to test New Glenn upper stages at Stennis appeared first on…",
-        "9. [Space] NASA and ESA facilities avoid major damage from wildfires in Spain\n   Source: SpaceNews\n   URL: https://spacenews.com/nasa-and-esa-facilities-avoid-major-damage-from-wildfires-in-spain/\n   Key points:\n   • Key ground stations in Spain operated by NASA and the European Space Agency have avoided serious damage from major wildfires in the country.\n   • The post NASA and ESA facilities avoid major damage from wildfires in Spain…",
-        "10. [Art] Christopher Nolan, David Hockney, Luis Manuel Otero Alcántara\n   Source: Hyperallergic\n   URL: https://hyperallergic.com/christopher-nolan-david-hockney-luis-manuel-otero-alcantara/\n   Key points:\n   • A political prisoner is freed, a Homerist reviews Nolan’s “The Odyssey,” and do we have to pretend to like David Hockney’s iPad paintings?",
-        "11. [Neuroscience] Alzheimer Genetic Risk Scores Do Not Explain SuperAging\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/alzheimer-genetic-superager-memory-31129/\n   Key points:\n   • A new study demonstrates that SuperAgers cannot be distinguished from cognitively average peers by APOE status or polygenic risk scores.",
-        "12. [Space] The Universe can outrun light without breaking Einstein’s rules\n   Source: ScienceDaily\n   URL: https://www.sciencedaily.com/releases/2026/07/260724061444.htm\n   Key points:\n   • Cosmic expansion allows distant galaxies to move away faster than light, while still letting us see ancient light they emitted when they were much closer.\n   • Eventually, accelerating expansion will push nearly every galaxy…",
+        "8. [Space] Orbes unveils Exo-ORB and agreement with Symphony Space\n   Source: SpaceNews\n   URL: https://spacenews.com/orbes-unveils-exo-orb-and-agreement-with-symphony-space/\n   Key points:\n   • SAN FRANCISCO – Southern California startup Orbes announced an agreement July 27 to send Exo-ORB, a free-flying satellite, to gather imagery of an uncrewed Symphony Space station.\n   • Exo-ORB, which is […] The post Orbes…",
+        "9. [Neuroscience] Restricted Eating Windows Aid Cognitive Function\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/restricted-eating-cognition-aging-31130/\n   Key points:\n   • Restricting daily eating to an 8 to 9 hour window yields cognitive improvements in spatial planning and problem-solving for older, overweight women beyond the benefits of caloric reduction alone.",
+        "10. [Space] NASA and ESA facilities avoid major damage from wildfires in Spain\n   Source: SpaceNews\n   URL: https://spacenews.com/nasa-and-esa-facilities-avoid-major-damage-from-wildfires-in-spain/\n   Key points:\n   • Key ground stations in Spain operated by NASA and the European Space Agency have avoided serious damage from major wildfires in the country.\n   • The post NASA and ESA facilities avoid major damage from wildfires in Spain…",
+        "11. [Art] Christopher Nolan, David Hockney, Luis Manuel Otero Alcántara\n   Source: Hyperallergic\n   URL: https://hyperallergic.com/christopher-nolan-david-hockney-luis-manuel-otero-alcantara/\n   Key points:\n   • A political prisoner is freed, a Homerist reviews Nolan’s “The Odyssey,” and do we have to pretend to like David Hockney’s iPad paintings?",
+        "12. [Neuroscience] Alzheimer Genetic Risk Scores Do Not Explain SuperAging\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/alzheimer-genetic-superager-memory-31129/\n   Key points:\n   • A new study demonstrates that SuperAgers cannot be distinguished from cognitively average peers by APOE status or polygenic risk scores.",
         "— Categories present —\nAI · Art · Biotech · editorial · Energy · Neuroscience · Robotics · Space",
         "— Admin checklist —\n• Draft original title + dek\n• Write body (~280–320 words) in CoC voice\n• Set hero image URL + credit\n• Mark published when ready"
       ],
-      "wordCount": 634,
+      "wordCount": 646,
       "themeId": "outline",
       "themeLabel": "Admin outline (titles + key points)",
       "formId": "outline_brief",
@@ -804,13 +804,13 @@
           ]
         },
         {
-          "title": "Opinion: E-bikes, e-scooters are a burgeoning pediatric public health emergency",
+          "title": "STAT+: Sarepta names Michael Severino, former Tessera CEO, as new chief executive",
           "source": "STAT News",
           "category": "biotech",
-          "sourceUrl": "https://www.statnews.com/2026/07/27/e-bikes-scooters-children-teens-safety-orthopedics-research/?utm_campaign=rss",
-          "summary": "“Emergency departments across America report dramatic increases in serious injuries from e-bikes and e-scooters,” write CHOP’s J. Todd R. Lawrence and Madison A. Kesler.",
+          "sourceUrl": "https://www.statnews.com/2026/07/27/sarepta-therapeutics-michael-severino-doug-ingram-duchenne-muscular-dystrophy/?utm_campaign=rss",
+          "summary": "The beleaguered Sarepta Therapeutics named Michael Severino, who previously led Tessera Therapeutics, as its new CEO.",
           "keyPoints": [
-            "“Emergency departments across America report dramatic increases in serious injuries from e-bikes and e-scooters,” write CHOP’s J."
+            "The beleaguered Sarepta Therapeutics named Michael Severino, who previously led Tessera Therapeutics, as its new CEO."
           ]
         },
         {
@@ -824,24 +824,25 @@
           ]
         },
         {
-          "title": "California to offer a novel $3,500 rebate for first-time EV buyers",
+          "title": "Duh, solar power doesn't work at night — but it excels during the day",
           "source": "Canary Media",
           "category": "energy",
-          "sourceUrl": "https://www.canarymedia.com/articles/electric-vehicles/california-rebate-ev-buyers",
-          "summary": "California is making a bet: Once you’ve driven an EV, you won’t want to go back to a gas-powered car. Earlier this month, Gov. Gavin Newsom (D) signed legislation creating the MyFirstEV program. It’s the state’s first…",
+          "sourceUrl": "https://www.canarymedia.com/articles/solar/doe-solar-power-day-night-texas",
+          "summary": "Yesterday, the Department of Energy took to social media to try and make a scandal out of a well-known fact: Solar panels do not generate power at night. It’s an old and lazy swipe that critics of renewable energy love…",
           "keyPoints": [
-            "California is making a bet: Once you’ve driven an EV, you won’t want to go back to a gas-powered car.",
-            "Gavin Newsom (D) signed legislation creating the MyFirstEV program."
+            "Yesterday, the Department of Energy took to social media to try and make a scandal out of a well-known fact: Solar panels do not generate power at night.",
+            "It’s an old and lazy swipe that critics of renewable energy love…"
           ]
         },
         {
-          "title": "Restricted Eating Windows Aid Cognitive Function",
-          "source": "Neuroscience News",
+          "title": "Your dreams aren’t random. Your brain is rewriting reality",
+          "source": "ScienceDaily",
           "category": "neuroscience",
-          "sourceUrl": "https://neurosciencenews.com/restricted-eating-cognition-aging-31130/",
-          "summary": "Restricting daily eating to an 8 to 9 hour window yields cognitive improvements in spatial planning and problem-solving for older, overweight women beyond the benefits of caloric reduction alone.",
+          "sourceUrl": "https://www.sciencedaily.com/releases/2026/07/260725105731.htm",
+          "summary": "Dreams are not random mental noise. A large study of more than 3,700 dream and waking reports found that what we experience during sleep is shaped by both our personalities and the world around us. Rather than simply…",
           "keyPoints": [
-            "Restricting daily eating to an 8 to 9 hour window yields cognitive improvements in spatial planning and problem-solving for older, overweight women beyond the benefits of caloric reduction alone."
+            "Dreams are not random mental noise.",
+            "A large study of more than 3,700 dream and waking reports found that what we experience during sleep is shaped by both our personalities and the world around us."
           ]
         },
         {
@@ -856,14 +857,24 @@
           ]
         },
         {
-          "title": "Blue Origin to test New Glenn upper stages at Stennis",
+          "title": "Orbes unveils Exo-ORB and agreement with Symphony Space",
           "source": "SpaceNews",
           "category": "space",
-          "sourceUrl": "https://spacenews.com/blue-origin-to-test-new-glenn-upper-stages-at-stennis/",
-          "summary": "Blue Origin will use NASA’s Stennis Space Center to test New Glenn upper stages as it rebuilds its Cape Canaveral launch complex. The post Blue Origin to test New Glenn upper stages at Stennis appeared first on…",
+          "sourceUrl": "https://spacenews.com/orbes-unveils-exo-orb-and-agreement-with-symphony-space/",
+          "summary": "SAN FRANCISCO – Southern California startup Orbes announced an agreement July 27 to send Exo-ORB, a free-flying satellite, to gather imagery of an uncrewed Symphony Space station. Exo-ORB, which is […] The post Orbes…",
           "keyPoints": [
-            "Blue Origin will use NASA’s Stennis Space Center to test New Glenn upper stages as it rebuilds its Cape Canaveral launch complex.",
-            "The post Blue Origin to test New Glenn upper stages at Stennis appeared first on…"
+            "SAN FRANCISCO – Southern California startup Orbes announced an agreement July 27 to send Exo-ORB, a free-flying satellite, to gather imagery of an uncrewed Symphony Space station.",
+            "Exo-ORB, which is […] The post Orbes…"
+          ]
+        },
+        {
+          "title": "Restricted Eating Windows Aid Cognitive Function",
+          "source": "Neuroscience News",
+          "category": "neuroscience",
+          "sourceUrl": "https://neurosciencenews.com/restricted-eating-cognition-aging-31130/",
+          "summary": "Restricting daily eating to an 8 to 9 hour window yields cognitive improvements in spatial planning and problem-solving for older, overweight women beyond the benefits of caloric reduction alone.",
+          "keyPoints": [
+            "Restricting daily eating to an 8 to 9 hour window yields cognitive improvements in spatial planning and problem-solving for older, overweight women beyond the benefits of caloric reduction alone."
           ]
         },
         {
@@ -895,17 +906,6 @@
           "summary": "A new study demonstrates that SuperAgers cannot be distinguished from cognitively average peers by APOE status or polygenic risk scores.",
           "keyPoints": [
             "A new study demonstrates that SuperAgers cannot be distinguished from cognitively average peers by APOE status or polygenic risk scores."
-          ]
-        },
-        {
-          "title": "The Universe can outrun light without breaking Einstein’s rules",
-          "source": "ScienceDaily",
-          "category": "space",
-          "sourceUrl": "https://www.sciencedaily.com/releases/2026/07/260724061444.htm",
-          "summary": "Cosmic expansion allows distant galaxies to move away faster than light, while still letting us see ancient light they emitted when they were much closer. Eventually, accelerating expansion will push nearly every galaxy…",
-          "keyPoints": [
-            "Cosmic expansion allows distant galaxies to move away faster than light, while still letting us see ancient light they emitted when they were much closer.",
-            "Eventually, accelerating expansion will push nearly every galaxy…"
           ]
         }
       ]
