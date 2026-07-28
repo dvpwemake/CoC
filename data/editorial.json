@@ -916,29 +916,29 @@
       "status": "draft",
       "draftKind": "outline",
       "createdAt": "2026-07-28T06:15:56.742Z",
-      "updatedAt": "2026-07-28T06:15:56.742Z",
+      "updatedAt": "2026-07-28T10:17:28.034Z",
       "title": "Editorial brief — 2026-07-28",
       "dek": "Outline of selected article titles and key points for admin to write the final editorial.",
-      "body": "EDITORIAL BRIEF (outline only — not for publication as-is)\nPublish date: 2026-07-28\nInstruction: Use the titles and key points below to write the final ~300-word CoC editorial. Replace this entire brief with your finished prose before publishing.\n\n— Selected articles of the day (12) —\n\n1. [AI] Gemini 3.6 Flash and 3.5 Flash-Lite now available through official API for developers and AI agents\n   Source: X · @web3l0var\n   URL: https://x.com/web3l0var/status/2079909448219271368\n   Key points:\n   • Model ecosystem expansion: Gemini 3.6 Flash and Gemini 3.5 Flash-Lite via official API access.\n\n2. [Art] ‘Colorstruck!' Examines the Connection Between Race and Chromatic Expression\n   Source: Colossal\n   URL: https://www.thisiscolossal.com/2026/07/richard-j-powell-black-american-art-colorstruck/\n   Key points:\n   • Painting, Pigment, Affect' delves into the ways that color and social, political, and cultural forces intersect in Black American art.\n   • Do stories and artists like this matter to you?\n\n3. [Biotech] STAT+: HIV resurgence is feared as global funding to combat the disease falls 18%\n   Source: STAT News\n   URL: https://www.statnews.com/pharmalot/2026/07/27/hiv-resurgence-is-feared-as-global-fund-to-combat-the-disease-falls-18-percent/?utm_campaign=rss\n   Key points:\n   • The world risks a resurgence of the HIV epidemic after international financing to combat the disease suffered a “profound shock” last year, according to a new report from UNAIDS.\n\n4. [editorial] What Tips: Convergence of biological threshold and civic near-miss\n   Source: Chronicle of Convergence · Editorial\n   URL: https://chronicleofconvergence.com/e/2026-07-26.html\n   Key points:\n   • Thresholds in the brain, on the fire line, and in the public room.\n\n5. [Energy] Duh, solar power doesn't work at night — but it excels during the day\n   Source: Canary Media\n   URL: https://www.canarymedia.com/articles/solar/doe-solar-power-day-night-texas\n   Key points:\n   • Yesterday, the Department of Energy took to social media to try and make a scandal out of a well-known fact: Solar panels do not generate power at night.\n   • It’s an old and lazy swipe that critics of renewable energy love…\n\n6. [Neuroscience] 3-Region Neural Circuit Required for Sleep Memory\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/sleep-memory-epilepsy-neuroscience-31138/\n   Key points:\n   • A new study reveals that memory consolidation during sleep requires coordinated signaling among the orbitofrontal cortex, thalamus, and hippocampus, and shows how epileptic spikes break this circuit.\n\n7. [Robotics] What Problems Can Raspberry Pi Solve for Businesses Using Multiple Displays?\n   Source: Robotics & Automation News\n   URL: https://roboticsandautomationnews.com/2026/07/27/what-problems-can-raspberry-pi-solve-for-businesses-using-multiple-displays/103641/\n   Key points:\n   • Managing several display screens across one location or multiple sites can become difficult without the right system.\n   • Different content, inconsistent updates, and manual changes take valuable time away from daily…\n\n8. [Space] Upper C-band auction offers another lift for GEO industry\n   Source: SpaceNews\n   URL: https://spacenews.com/upper-c-band-auction-offers-another-lift-for-geo-industry/\n   Key points:\n   • Satellite operators have welcomed the prospect of reaping more than $6 billion for quickly clearing upper C-band spectrum the FCC aims to auction next year, with billions more set to cover new geostationary spacecraft…\n\n9. [Art] The Smithsonian Is Not the President's Museum\n   Source: Hyperallergic\n   URL: https://hyperallergic.com/the-smithsonian-is-not-the-presidents-museum/\n   Key points:\n   • The Trump administration’s latest order marks an unprecedented effort to subordinate one of America's foremost public institutions to partisan power.\n\n10. [Neuroscience] Restricted Eating Windows Aid Cognitive Function\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/restricted-eating-cognition-aging-31130/\n   Key points:\n   • Restricting daily eating to an 8 to 9 hour window yields cognitive improvements in spatial planning and problem-solving for older, overweight women beyond the benefits of caloric reduction alone.\n\n11. [Robotics] Optical Tech Would Update a Robot’s AI on the Fly\n   Source: IEEE Spectrum\n   URL: https://spectrum.ieee.org/ai-in-robotics\n   Key points:\n   • Atop a lab bench, Cornell Tech postdoctoral researcher Yifan He positions the lens of an optical receiver almost a meter away from an LED emitting a beam of red light.\n   • The computer monitor attached to the receiver takes…\n\n12. [Space] NASA and ESA facilities avoid major damage from wildfires in Spain\n   Source: SpaceNews\n   URL: https://spacenews.com/nasa-and-esa-facilities-avoid-major-damage-from-wildfires-in-spain/\n   Key points:\n   • Key ground stations in Spain operated by NASA and the European Space Agency have avoided serious damage from major wildfires in the country.\n   • The post NASA and ESA facilities avoid major damage from wildfires in Spain…\n\n— Categories present —\nAI · Art · Biotech · editorial · Energy · Neuroscience · Robotics · Space\n\n— Admin checklist —\n• Draft original title + dek\n• Write body (~280–320 words) in CoC voice\n• Set hero image URL + credit\n• Mark published when ready",
+      "body": "EDITORIAL BRIEF (outline only — not for publication as-is)\nPublish date: 2026-07-28\nInstruction: Use the titles and key points below to write the final ~300-word CoC editorial. Replace this entire brief with your finished prose before publishing.\n\n— Selected articles of the day (12) —\n\n1. [AI] Samsung’s chip workers are jumping ship to rival SK Hynix\n   Source: MIT Technology Review\n   URL: https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/\n   Key points:\n   • Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends.\n   • He used to work longer hours, going the extra mile to excel at his projects.\n   • But lately, he’s been coming straight home to work on…\n\n2. [Art] The Smithsonian Is Not the President's Museum\n   Source: Hyperallergic\n   URL: https://hyperallergic.com/the-smithsonian-is-not-the-presidents-museum/\n   Key points:\n   • The Trump administration’s latest order marks an unprecedented effort to subordinate one of America's foremost public institutions to partisan power.\n\n3. [Biotech] STAT+: Preliminary trial results suggest a path to a safer Alzheimer's treatment\n   Source: STAT News\n   URL: https://www.statnews.com/2026/07/28/promis-neurosciences-amyloid-alzheimers-aria/?utm_campaign=rss\n   Key points:\n   • ProMIS Neurosciences is trying to design a safer amyloid-clearing drug for Alzheimer's.\n   • Early results suggest it might be on to something.\n\n4. [editorial] What Tips: Convergence of biological threshold and civic near-miss\n   Source: Chronicle of Convergence · Editorial\n   URL: https://chronicleofconvergence.com/e/2026-07-26.html\n   Key points:\n   • Thresholds in the brain, on the fire line, and in the public room.\n\n5. [Energy] Want a home battery on a budget? Consider a portable, DIY system.\n   Source: Canary Media\n   URL: https://www.canarymedia.com/articles/batteries/home-battery-on-a-budget\n   Key points:\n   • Canary Media’s Electrified Life column shares real-world tales, tips, and insights to demystify what individuals can do to shift their homes and lives to clean electric power.\n   • When the power goes out, a home battery can…\n\n6. [Neuroscience] 3-Region Neural Circuit Required for Sleep Memory\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/sleep-memory-epilepsy-neuroscience-31138/\n   Key points:\n   • A new study reveals that memory consolidation during sleep requires coordinated signaling among the orbitofrontal cortex, thalamus, and hippocampus, and shows how epileptic spikes break this circuit.\n\n7. [Robotics] What Problems Can Raspberry Pi Solve for Businesses Using Multiple Displays?\n   Source: Robotics & Automation News\n   URL: https://roboticsandautomationnews.com/2026/07/27/what-problems-can-raspberry-pi-solve-for-businesses-using-multiple-displays/103641/\n   Key points:\n   • Managing several display screens across one location or multiple sites can become difficult without the right system.\n   • Different content, inconsistent updates, and manual changes take valuable time away from daily…\n\n8. [Space] Smoke Blankets Oregon\n   Source: NASA\n   URL: https://science.nasa.gov/earth/natural-disasters/wildfires/smoke-blankets-oregon/\n   Key points:\n   • Lightning storms have ignited dozens of fires in central and eastern Oregon.\n\n9. [Biotech] STAT+: HIV resurgence is feared as global funding to combat the disease falls 18%\n   Source: STAT News\n   URL: https://www.statnews.com/pharmalot/2026/07/27/hiv-resurgence-is-feared-as-global-fund-to-combat-the-disease-falls-18-percent/?utm_campaign=rss\n   Key points:\n   • The world risks a resurgence of the HIV epidemic after international financing to combat the disease suffered a “profound shock” last year, according to a new report from UNAIDS.\n\n10. [Space] Upper C-band auction offers another lift for GEO industry\n   Source: SpaceNews\n   URL: https://spacenews.com/upper-c-band-auction-offers-another-lift-for-geo-industry/\n   Key points:\n   • Satellite operators have welcomed the prospect of reaping more than $6 billion for quickly clearing upper C-band spectrum the FCC aims to auction next year, with billions more set to cover new geostationary spacecraft…\n\n11. [Neuroscience] Restricted Eating Windows Aid Cognitive Function\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/restricted-eating-cognition-aging-31130/\n   Key points:\n   • Restricting daily eating to an 8 to 9 hour window yields cognitive improvements in spatial planning and problem-solving for older, overweight women beyond the benefits of caloric reduction alone.\n\n12. [Robotics] Optical Tech Would Update a Robot’s AI on the Fly\n   Source: IEEE Spectrum\n   URL: https://spectrum.ieee.org/ai-in-robotics\n   Key points:\n   • Atop a lab bench, Cornell Tech postdoctoral researcher Yifan He positions the lens of an optical receiver almost a meter away from an LED emitting a beam of red light.\n   • The computer monitor attached to the receiver takes…\n\n— Categories present —\nAI · Art · Biotech · editorial · Energy · Neuroscience · Robotics · Space\n\n— Admin checklist —\n• Draft original title + dek\n• Write body (~280–320 words) in CoC voice\n• Set hero image URL + credit\n• Mark published when ready",
       "paragraphs": [
         "EDITORIAL BRIEF (outline only — not for publication as-is)\nPublish date: 2026-07-28\nInstruction: Use the titles and key points below to write the final ~300-word CoC editorial. Replace this entire brief with your finished prose before publishing.",
         "— Selected articles of the day (12) —",
-        "1. [AI] Gemini 3.6 Flash and 3.5 Flash-Lite now available through official API for developers and AI agents\n   Source: X · @web3l0var\n   URL: https://x.com/web3l0var/status/2079909448219271368\n   Key points:\n   • Model ecosystem expansion: Gemini 3.6 Flash and Gemini 3.5 Flash-Lite via official API access.",
-        "2. [Art] ‘Colorstruck!' Examines the Connection Between Race and Chromatic Expression\n   Source: Colossal\n   URL: https://www.thisiscolossal.com/2026/07/richard-j-powell-black-american-art-colorstruck/\n   Key points:\n   • Painting, Pigment, Affect' delves into the ways that color and social, political, and cultural forces intersect in Black American art.\n   • Do stories and artists like this matter to you?",
-        "3. [Biotech] STAT+: HIV resurgence is feared as global funding to combat the disease falls 18%\n   Source: STAT News\n   URL: https://www.statnews.com/pharmalot/2026/07/27/hiv-resurgence-is-feared-as-global-fund-to-combat-the-disease-falls-18-percent/?utm_campaign=rss\n   Key points:\n   • The world risks a resurgence of the HIV epidemic after international financing to combat the disease suffered a “profound shock” last year, according to a new report from UNAIDS.",
+        "1. [AI] Samsung’s chip workers are jumping ship to rival SK Hynix\n   Source: MIT Technology Review\n   URL: https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/\n   Key points:\n   • Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends.\n   • He used to work longer hours, going the extra mile to excel at his projects.\n   • But lately, he’s been coming straight home to work on…",
+        "2. [Art] The Smithsonian Is Not the President's Museum\n   Source: Hyperallergic\n   URL: https://hyperallergic.com/the-smithsonian-is-not-the-presidents-museum/\n   Key points:\n   • The Trump administration’s latest order marks an unprecedented effort to subordinate one of America's foremost public institutions to partisan power.",
+        "3. [Biotech] STAT+: Preliminary trial results suggest a path to a safer Alzheimer's treatment\n   Source: STAT News\n   URL: https://www.statnews.com/2026/07/28/promis-neurosciences-amyloid-alzheimers-aria/?utm_campaign=rss\n   Key points:\n   • ProMIS Neurosciences is trying to design a safer amyloid-clearing drug for Alzheimer's.\n   • Early results suggest it might be on to something.",
         "4. [editorial] What Tips: Convergence of biological threshold and civic near-miss\n   Source: Chronicle of Convergence · Editorial\n   URL: https://chronicleofconvergence.com/e/2026-07-26.html\n   Key points:\n   • Thresholds in the brain, on the fire line, and in the public room.",
-        "5. [Energy] Duh, solar power doesn't work at night — but it excels during the day\n   Source: Canary Media\n   URL: https://www.canarymedia.com/articles/solar/doe-solar-power-day-night-texas\n   Key points:\n   • Yesterday, the Department of Energy took to social media to try and make a scandal out of a well-known fact: Solar panels do not generate power at night.\n   • It’s an old and lazy swipe that critics of renewable energy love…",
+        "5. [Energy] Want a home battery on a budget? Consider a portable, DIY system.\n   Source: Canary Media\n   URL: https://www.canarymedia.com/articles/batteries/home-battery-on-a-budget\n   Key points:\n   • Canary Media’s Electrified Life column shares real-world tales, tips, and insights to demystify what individuals can do to shift their homes and lives to clean electric power.\n   • When the power goes out, a home battery can…",
         "6. [Neuroscience] 3-Region Neural Circuit Required for Sleep Memory\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/sleep-memory-epilepsy-neuroscience-31138/\n   Key points:\n   • A new study reveals that memory consolidation during sleep requires coordinated signaling among the orbitofrontal cortex, thalamus, and hippocampus, and shows how epileptic spikes break this circuit.",
         "7. [Robotics] What Problems Can Raspberry Pi Solve for Businesses Using Multiple Displays?\n   Source: Robotics & Automation News\n   URL: https://roboticsandautomationnews.com/2026/07/27/what-problems-can-raspberry-pi-solve-for-businesses-using-multiple-displays/103641/\n   Key points:\n   • Managing several display screens across one location or multiple sites can become difficult without the right system.\n   • Different content, inconsistent updates, and manual changes take valuable time away from daily…",
-        "8. [Space] Upper C-band auction offers another lift for GEO industry\n   Source: SpaceNews\n   URL: https://spacenews.com/upper-c-band-auction-offers-another-lift-for-geo-industry/\n   Key points:\n   • Satellite operators have welcomed the prospect of reaping more than $6 billion for quickly clearing upper C-band spectrum the FCC aims to auction next year, with billions more set to cover new geostationary spacecraft…",
-        "9. [Art] The Smithsonian Is Not the President's Museum\n   Source: Hyperallergic\n   URL: https://hyperallergic.com/the-smithsonian-is-not-the-presidents-museum/\n   Key points:\n   • The Trump administration’s latest order marks an unprecedented effort to subordinate one of America's foremost public institutions to partisan power.",
-        "10. [Neuroscience] Restricted Eating Windows Aid Cognitive Function\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/restricted-eating-cognition-aging-31130/\n   Key points:\n   • Restricting daily eating to an 8 to 9 hour window yields cognitive improvements in spatial planning and problem-solving for older, overweight women beyond the benefits of caloric reduction alone.",
-        "11. [Robotics] Optical Tech Would Update a Robot’s AI on the Fly\n   Source: IEEE Spectrum\n   URL: https://spectrum.ieee.org/ai-in-robotics\n   Key points:\n   • Atop a lab bench, Cornell Tech postdoctoral researcher Yifan He positions the lens of an optical receiver almost a meter away from an LED emitting a beam of red light.\n   • The computer monitor attached to the receiver takes…",
-        "12. [Space] NASA and ESA facilities avoid major damage from wildfires in Spain\n   Source: SpaceNews\n   URL: https://spacenews.com/nasa-and-esa-facilities-avoid-major-damage-from-wildfires-in-spain/\n   Key points:\n   • Key ground stations in Spain operated by NASA and the European Space Agency have avoided serious damage from major wildfires in the country.\n   • The post NASA and ESA facilities avoid major damage from wildfires in Spain…",
+        "8. [Space] Smoke Blankets Oregon\n   Source: NASA\n   URL: https://science.nasa.gov/earth/natural-disasters/wildfires/smoke-blankets-oregon/\n   Key points:\n   • Lightning storms have ignited dozens of fires in central and eastern Oregon.",
+        "9. [Biotech] STAT+: HIV resurgence is feared as global funding to combat the disease falls 18%\n   Source: STAT News\n   URL: https://www.statnews.com/pharmalot/2026/07/27/hiv-resurgence-is-feared-as-global-fund-to-combat-the-disease-falls-18-percent/?utm_campaign=rss\n   Key points:\n   • The world risks a resurgence of the HIV epidemic after international financing to combat the disease suffered a “profound shock” last year, according to a new report from UNAIDS.",
+        "10. [Space] Upper C-band auction offers another lift for GEO industry\n   Source: SpaceNews\n   URL: https://spacenews.com/upper-c-band-auction-offers-another-lift-for-geo-industry/\n   Key points:\n   • Satellite operators have welcomed the prospect of reaping more than $6 billion for quickly clearing upper C-band spectrum the FCC aims to auction next year, with billions more set to cover new geostationary spacecraft…",
+        "11. [Neuroscience] Restricted Eating Windows Aid Cognitive Function\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/restricted-eating-cognition-aging-31130/\n   Key points:\n   • Restricting daily eating to an 8 to 9 hour window yields cognitive improvements in spatial planning and problem-solving for older, overweight women beyond the benefits of caloric reduction alone.",
+        "12. [Robotics] Optical Tech Would Update a Robot’s AI on the Fly\n   Source: IEEE Spectrum\n   URL: https://spectrum.ieee.org/ai-in-robotics\n   Key points:\n   • Atop a lab bench, Cornell Tech postdoctoral researcher Yifan He positions the lens of an optical receiver almost a meter away from an LED emitting a beam of red light.\n   • The computer monitor attached to the receiver takes…",
         "— Categories present —\nAI · Art · Biotech · editorial · Energy · Neuroscience · Robotics · Space",
         "— Admin checklist —\n• Draft original title + dek\n• Write body (~280–320 words) in CoC voice\n• Set hero image URL + credit\n• Mark published when ready"
       ],
-      "wordCount": 683,
+      "wordCount": 660,
       "themeId": "outline",
       "themeLabel": "Admin outline (titles + key points)",
       "formId": "outline_brief",
@@ -951,34 +951,36 @@
       "heroSourceUrl": "https://images.nasa.gov/details/PIA01492",
       "headlines": [
         {
-          "title": "Gemini 3.6 Flash and 3.5 Flash-Lite now available through official API for developers and AI agents",
-          "source": "X · @web3l0var",
+          "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
+          "source": "MIT Technology Review",
           "category": "ai",
-          "sourceUrl": "https://x.com/web3l0var/status/2079909448219271368",
-          "summary": "Model ecosystem expansion: Gemini 3.6 Flash and Gemini 3.5 Flash-Lite via official API access.",
+          "sourceUrl": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
+          "summary": "Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s been coming straight home to work on…",
           "keyPoints": [
-            "Model ecosystem expansion: Gemini 3.6 Flash and Gemini 3.5 Flash-Lite via official API access."
+            "Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends.",
+            "He used to work longer hours, going the extra mile to excel at his projects.",
+            "But lately, he’s been coming straight home to work on…"
           ]
         },
         {
-          "title": "‘Colorstruck!' Examines the Connection Between Race and Chromatic Expression",
-          "source": "Colossal",
+          "title": "The Smithsonian Is Not the President's Museum",
+          "source": "Hyperallergic",
           "category": "art",
-          "sourceUrl": "https://www.thisiscolossal.com/2026/07/richard-j-powell-black-american-art-colorstruck/",
-          "summary": "'Colorstruck! Painting, Pigment, Affect' delves into the ways that color and social, political, and cultural forces intersect in Black American art. Do stories and artists like this matter to you? Become a Colossal…",
+          "sourceUrl": "https://hyperallergic.com/the-smithsonian-is-not-the-presidents-museum/",
+          "summary": "The Trump administration’s latest order marks an unprecedented effort to subordinate one of America's foremost public institutions to partisan power.",
           "keyPoints": [
-            "Painting, Pigment, Affect' delves into the ways that color and social, political, and cultural forces intersect in Black American art.",
-            "Do stories and artists like this matter to you?"
+            "The Trump administration’s latest order marks an unprecedented effort to subordinate one of America's foremost public institutions to partisan power."
           ]
         },
         {
-          "title": "STAT+: HIV resurgence is feared as global funding to combat the disease falls 18%",
+          "title": "STAT+: Preliminary trial results suggest a path to a safer Alzheimer's treatment",
           "source": "STAT News",
           "category": "biotech",
-          "sourceUrl": "https://www.statnews.com/pharmalot/2026/07/27/hiv-resurgence-is-feared-as-global-fund-to-combat-the-disease-falls-18-percent/?utm_campaign=rss",
-          "summary": "The world risks a resurgence of the HIV epidemic after international financing to combat the disease suffered a “profound shock” last year, according to a new report from UNAIDS.",
+          "sourceUrl": "https://www.statnews.com/2026/07/28/promis-neurosciences-amyloid-alzheimers-aria/?utm_campaign=rss",
+          "summary": "ProMIS Neurosciences is trying to design a safer amyloid-clearing drug for Alzheimer's. Early results suggest it might be on to something.",
           "keyPoints": [
-            "The world risks a resurgence of the HIV epidemic after international financing to combat the disease suffered a “profound shock” last year, according to a new report from UNAIDS."
+            "ProMIS Neurosciences is trying to design a safer amyloid-clearing drug for Alzheimer's.",
+            "Early results suggest it might be on to something."
           ]
         },
         {
@@ -992,14 +994,14 @@
           ]
         },
         {
-          "title": "Duh, solar power doesn't work at night — but it excels during the day",
+          "title": "Want a home battery on a budget? Consider a portable, DIY system.",
           "source": "Canary Media",
           "category": "energy",
-          "sourceUrl": "https://www.canarymedia.com/articles/solar/doe-solar-power-day-night-texas",
-          "summary": "Yesterday, the Department of Energy took to social media to try and make a scandal out of a well-known fact: Solar panels do not generate power at night. It’s an old and lazy swipe that critics of renewable energy love…",
+          "sourceUrl": "https://www.canarymedia.com/articles/batteries/home-battery-on-a-budget",
+          "summary": "Canary Media’s Electrified Life column shares real-world tales, tips, and insights to demystify what individuals can do to shift their homes and lives to clean electric power. When the power goes out, a home battery can…",
           "keyPoints": [
-            "Yesterday, the Department of Energy took to social media to try and make a scandal out of a well-known fact: Solar panels do not generate power at night.",
-            "It’s an old and lazy swipe that critics of renewable energy love…"
+            "Canary Media’s Electrified Life column shares real-world tales, tips, and insights to demystify what individuals can do to shift their homes and lives to clean electric power.",
+            "When the power goes out, a home battery can…"
           ]
         },
         {
@@ -1024,6 +1026,26 @@
           ]
         },
         {
+          "title": "Smoke Blankets Oregon",
+          "source": "NASA",
+          "category": "space",
+          "sourceUrl": "https://science.nasa.gov/earth/natural-disasters/wildfires/smoke-blankets-oregon/",
+          "summary": "Lightning storms have ignited dozens of fires in central and eastern Oregon.",
+          "keyPoints": [
+            "Lightning storms have ignited dozens of fires in central and eastern Oregon."
+          ]
+        },
+        {
+          "title": "STAT+: HIV resurgence is feared as global funding to combat the disease falls 18%",
+          "source": "STAT News",
+          "category": "biotech",
+          "sourceUrl": "https://www.statnews.com/pharmalot/2026/07/27/hiv-resurgence-is-feared-as-global-fund-to-combat-the-disease-falls-18-percent/?utm_campaign=rss",
+          "summary": "The world risks a resurgence of the HIV epidemic after international financing to combat the disease suffered a “profound shock” last year, according to a new report from UNAIDS.",
+          "keyPoints": [
+            "The world risks a resurgence of the HIV epidemic after international financing to combat the disease suffered a “profound shock” last year, according to a new report from UNAIDS."
+          ]
+        },
+        {
           "title": "Upper C-band auction offers another lift for GEO industry",
           "source": "SpaceNews",
           "category": "space",
@@ -1031,16 +1053,6 @@
           "summary": "Satellite operators have welcomed the prospect of reaping more than $6 billion for quickly clearing upper C-band spectrum the FCC aims to auction next year, with billions more set to cover new geostationary spacecraft…",
           "keyPoints": [
             "Satellite operators have welcomed the prospect of reaping more than $6 billion for quickly clearing upper C-band spectrum the FCC aims to auction next year, with billions more set to cover new geostationary spacecraft…"
-          ]
-        },
-        {
-          "title": "The Smithsonian Is Not the President's Museum",
-          "source": "Hyperallergic",
-          "category": "art",
-          "sourceUrl": "https://hyperallergic.com/the-smithsonian-is-not-the-presidents-museum/",
-          "summary": "The Trump administration’s latest order marks an unprecedented effort to subordinate one of America's foremost public institutions to partisan power.",
-          "keyPoints": [
-            "The Trump administration’s latest order marks an unprecedented effort to subordinate one of America's foremost public institutions to partisan power."
           ]
         },
         {
@@ -1062,17 +1074,6 @@
           "keyPoints": [
             "Atop a lab bench, Cornell Tech postdoctoral researcher Yifan He positions the lens of an optical receiver almost a meter away from an LED emitting a beam of red light.",
             "The computer monitor attached to the receiver takes…"
-          ]
-        },
-        {
-          "title": "NASA and ESA facilities avoid major damage from wildfires in Spain",
-          "source": "SpaceNews",
-          "category": "space",
-          "sourceUrl": "https://spacenews.com/nasa-and-esa-facilities-avoid-major-damage-from-wildfires-in-spain/",
-          "summary": "Key ground stations in Spain operated by NASA and the European Space Agency have avoided serious damage from major wildfires in the country. The post NASA and ESA facilities avoid major damage from wildfires in Spain…",
-          "keyPoints": [
-            "Key ground stations in Spain operated by NASA and the European Space Agency have avoided serious damage from major wildfires in the country.",
-            "The post NASA and ESA facilities avoid major damage from wildfires in Spain…"
           ]
         }
       ]
