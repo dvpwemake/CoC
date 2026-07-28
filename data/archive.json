@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-07-28T13-23",
-    "scannedAt": "2026-07-28T13:23:01.394Z",
+    "batchId": "auto_2026-07-28T17-14",
+    "scannedAt": "2026-07-28T17:14:51.215Z",
     "items": [
       {
-        "id": "auto_2026-07-28T13-23_1",
+        "id": "auto_2026-07-28T17-14_1",
         "rank": 1,
-        "title": "STAT+: Three questions with Whoop's new CMO",
-        "category": "biotech",
-        "summary": "In this edition of STAT Health Tech: A chat with Whoop's new chief medical officer, an update on CMS health tech initiative, and more.",
-        "image": "https://www.statnews.com/wp-content/uploads/2023/04/AdobeStock_563559034-1024x576.jpeg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/07/28/three-questions-with-whoops-new-cmo-health-tech/?utm_campaign=rss",
+        "title": "Alternative Gene Networks Restore Neural Circuits",
+        "category": "neuroscience",
+        "summary": "study shows NAC antioxidant therapy bypasses 22q11.2 deletion syndrome deficits via alternative gene networks.",
+        "image": "https://neurosciencenews.com/files/2026/07/gene-netword-neurodevelopment-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/gene-networks-neural-circuits-31139/",
         "fromX": false
       },
       {
-        "id": "auto_2026-07-28T13-23_2",
+        "id": "auto_2026-07-28T17-14_2",
         "rank": 2,
+        "title": "Visa time limits on foreign Ph.D. students and postdocs will harm U.S. science, experts warn",
+        "category": "biotech",
+        "summary": "A Trump administration plan to limit visas for graduate student and postdocs to four years is fueling concerns that the U.S. could lose out on foreign scientists",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/07/AdobeStock_137856349-1024x576.jpeg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/07/28/dhs-visa-policy-change-international-students-scientific-research-impact/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-28T17-14_3",
+        "rank": 3,
+        "title": "Meet the Italian Shoe Designer Who Collects Art by Andy Warhol, Barbara Kruger, and More",
+        "category": "art",
+        "summary": "Walk into a church in Naples, Italy, and you might stumble across a Caravaggio or an Artemisia Gentileschi . For Italian shoe designer and collector Ernesto Esposito, that proximity to beauty shaped everything that…",
+        "image": "https://artsy-media-uploads.s3.amazonaws.com/_K_gL8T1hpvyYJdwyV1neg%2FErnestoMAG.jpg",
+        "source": "Artsy",
+        "sourceUrl": "https://www.artsy.net/article/artsy-editorial-meet-italian-shoe-designer-collects-art-andy-warhol-barbara-kruger",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-28T17-14_4",
+        "rank": 4,
+        "title": "Robot Finger Feels in Color",
+        "category": "robotics",
+        "summary": "Imagine running your fingertip over the surface of a U.S. penny. You would feel the ridges of the raised letters and numbers, Abe Lincoln’s bearded side profile, and, if it’s tails, the fluted columns of the Lincoln…",
+        "image": "https://spectrum.ieee.org/media-library/close-up-of-a-sensor-for-a-robotic-fingertip-and-raised-relief-images-of-a-leaf-and-a-u-s-penny.jpg?id=67542077&width=980",
+        "source": "IEEE Spectrum",
+        "sourceUrl": "https://spectrum.ieee.org/robot-finger",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-28T17-14_5",
+        "rank": 5,
         "title": "NASA selects successor to CAPSTONE lunar mission",
         "category": "space",
         "summary": "NASA has selected Advanced Space to fly a successor to a cislunar smallsat mission that will test rendezvous and proximity operations around the moon. The post NASA selects successor to CAPSTONE lunar mission appeared…",
         "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/capstone02.jpeg?fit=1024%2C453&ssl=1",
         "source": "SpaceNews",
         "sourceUrl": "https://spacenews.com/nasa-selects-successor-to-capstone-lunar-mission/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-07-28T13-23_3",
-        "rank": 3,
-        "title": "Guggenheim Abu Dhabi announces 2026 opening date.",
-        "category": "art",
-        "summary": "The Guggenheim Abu Dhabi will open to the public on December 11, Abu Dhabi’s Department of Culture and Tourism has announced. First announced in 2006, the museum is one of the most anticipated museum openings in…",
-        "image": "https://artsy-media-uploads.s3.amazonaws.com/2jxE1CduWHMBrPu6xuOjWQ%2FHero+Shot+3+-+Courtesy+of+Guggenheim+Abu+Dhabi_1500x1000.jpg",
-        "source": "Artsy",
-        "sourceUrl": "https://www.artsy.net/article/artsy-editorial-guggenheim-abu-dhabi-announces-2026-opening",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-07-28T13-23_4",
-        "rank": 4,
-        "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
-        "category": "ai",
-        "summary": "Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s been coming straight home to work on…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/chip-money.jpg?resize=1200,600",
-        "source": "MIT Technology Review",
-        "sourceUrl": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-07-28T13-23_5",
-        "rank": 5,
-        "title": "Want a home battery on a budget? Consider a portable, DIY system.",
-        "category": "energy",
-        "summary": "Canary Media’s Electrified Life column shares real-world tales, tips, and insights to demystify what individuals can do to shift their homes and lives to clean electric power. When the power goes out, a home battery can…",
-        "image": "https://img.canarymedia.com/content/uploads/EL-072726.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=1afa2d590a5f68f4979e6fe5fe86191d",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/batteries/home-battery-on-a-budget",
         "fromX": false
       }
     ]
