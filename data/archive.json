@@ -1,21 +1,62 @@
 [
   {
-    "batchId": "editorial_2026-07-26",
-    "scannedAt": "2026-07-26T15:02:31.678Z",
-    "kind": "editorial_archive",
+    "batchId": "auto_2026-07-28T01-12",
+    "scannedAt": "2026-07-28T01:12:50.637Z",
     "items": [
       {
-        "id": "editorial_2026-07-26",
-        "rank": 0,
-        "title": "What Tips: Convergence of biological threshold and civic near-miss",
-        "category": "editorial",
-        "summary": "Thresholds in the brain, on the fire line, and in the public room.",
-        "image": "https://images-assets.nasa.gov/image/PIA01492/PIA01492~medium.jpg",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-07-26.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-07-26",
-        "authorName": "Dr. Wallace Lynch"
+        "id": "auto_2026-07-28T01-12_1",
+        "rank": 1,
+        "title": "STAT+: HIV resurgence is feared as global funding to combat the disease falls 18%",
+        "category": "biotech",
+        "summary": "The world risks a resurgence of the HIV epidemic after international financing to combat the disease suffered a “profound shock” last year, according to a new report from UNAIDS.",
+        "image": "https://www.statnews.com/wp-content/uploads/2023/11/AdobeStock_658340371-e1699309224459-1024x576.jpeg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/pharmalot/2026/07/27/hiv-resurgence-is-feared-as-global-fund-to-combat-the-disease-falls-18-percent/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-28T01-12_2",
+        "rank": 2,
+        "title": "3-Region Neural Circuit Required for Sleep Memory",
+        "category": "neuroscience",
+        "summary": "A new study reveals that memory consolidation during sleep requires coordinated signaling among the orbitofrontal cortex, thalamus, and hippocampus, and shows how epileptic spikes break this circuit.",
+        "image": "https://neurosciencenews.com/files/2026/07/sleep-memory-consolidation-neurosience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/sleep-memory-epilepsy-neuroscience-31138/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-28T01-12_3",
+        "rank": 3,
+        "title": "‘Colorstruck!' Examines the Connection Between Race and Chromatic Expression",
+        "category": "art",
+        "summary": "'Colorstruck! Painting, Pigment, Affect' delves into the ways that color and social, political, and cultural forces intersect in Black American art. Do stories and artists like this matter to you? Become a Colossal…",
+        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/07/colorstruck-2.jpg",
+        "source": "Colossal",
+        "sourceUrl": "https://www.thisiscolossal.com/2026/07/richard-j-powell-black-american-art-colorstruck/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-28T01-12_4",
+        "rank": 4,
+        "title": "Upper C-band auction offers another lift for GEO industry",
+        "category": "space",
+        "summary": "Satellite operators have welcomed the prospect of reaping more than $6 billion for quickly clearing upper C-band spectrum the FCC aims to auction next year, with billions more set to cover new geostationary spacecraft…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/SES-Press-Release_SES-Completes-Acquisition-of-Intelsat_image-scaled-1.jpg?fit=1024%2C576&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/upper-c-band-auction-offers-another-lift-for-geo-industry/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-28T01-12_5",
+        "rank": 5,
+        "title": "What Problems Can Raspberry Pi Solve for Businesses Using Multiple Displays?",
+        "category": "robotics",
+        "summary": "Managing several display screens across one location or multiple sites can become difficult without the right system. Different content, inconsistent updates, and manual changes take valuable time away from daily…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/07/raspberry-pi-1.jpg",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/07/27/what-problems-can-raspberry-pi-solve-for-businesses-using-multiple-displays/103641/",
+        "fromX": false
       }
     ]
   },
@@ -138,6 +179,26 @@
         "source": "X · @web3l0var",
         "sourceUrl": "https://x.com/web3l0var/status/2079909448219271368",
         "fromX": true
+      }
+    ]
+  },
+  {
+    "batchId": "editorial_2026-07-26",
+    "scannedAt": "2026-07-26T15:02:31.678Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-07-26",
+        "rank": 0,
+        "title": "What Tips: Convergence of biological threshold and civic near-miss",
+        "category": "editorial",
+        "summary": "Thresholds in the brain, on the fire line, and in the public room.",
+        "image": "https://images-assets.nasa.gov/image/PIA01492/PIA01492~medium.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-07-26.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-07-26",
+        "authorName": "Dr. Wallace Lynch"
       }
     ]
   },

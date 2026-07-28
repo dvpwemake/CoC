@@ -1,55 +1,5 @@
 [
   {
-    "scannedAt": "2026-06-07T17:39:34.842Z",
-    "items": [
-      {
-        "id": "b1780853974841_1",
-        "rank": 1,
-        "title": "Scientists Finally Complete Schrödinger's 100-Year-Old Color Theory",
-        "category": "neuroscience",
-        "summary": "Los Alamos researchers have solved a century-old mystery about human color perception by finally completing Erwin Schrödinger's incomplete theory of color vision. Using advanced geometry, they built a mathematical definition of color perception based on hue, saturation, and lightness, showing that the qualities we perceive in colors are intrinsic to the mathematics of color space itself. This breakthrough could lead to more precise color technologies and enhanced data visualizations.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260606015140.htm",
-        "image": "https://www.sciencedaily.com/images/1920/color-perception-experiment.webp",
-        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fcolor-perception-experiment.webp&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "b1780853974841_2",
-        "rank": 2,
-        "title": "Ancient Chinese Medicine Could Transform Hair Loss Treatment",
-        "category": "biotech",
-        "summary": "A traditional Chinese medicinal root, Polygonum multiflorum, used for over a thousand years is attracting new scientific attention for its potential to combat androgenetic alopecia. Studies suggest this herb can block harmful hormones, activate hair-growth signals, protect follicles, and boost blood flow to the scalp. Researchers say the herb's effects align remarkably well with both ancient descriptions and modern hair biology, potentially offering a natural multi-pronged approach to treating the world's most common type of hair loss.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260606015144.htm",
-        "image": "https://www.sciencedaily.com/images/1920/baldness-hair-regrowth-before-after.webp",
-        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fbaldness-hair-regrowth-before-after.webp&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "b1780853974841_4",
-        "rank": 4,
-        "title": "ChatGPT Surpasses 1 Billion Monthly Active Users",
-        "category": "ai",
-        "summary": "OpenAI's ChatGPT has reportedly crossed the symbolic milestone of one billion monthly active users, confirming the massive global adoption of AI assistants. This growth highlights the increasingly important role of artificial intelligence in both personal and professional daily life, marking a pivotal moment in the mainstream acceptance of conversational AI technology. The achievement represents one of the fastest user adoption rates in technology history.",
-        "source": "Medium",
-        "sourceUrl": "https://medium.com/@davidakpovi/ai-news-week-of-june-1-to-june-7-2026-7957940c805a",
-        "image": "https://miro.medium.com/v2/resize:fit:1024/1*UwJOZm1uIIZHVEC0qn_sjw.png",
-        "imageProxy": "https://images.weserv.nl/?url=miro.medium.com%2Fv2%2Fresize%3Afit%3A1024%2F1%2AUwJOZm1uIIZHVEC0qn_sjw.png&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "b1780853974841_5",
-        "rank": 5,
-        "title": "Orbit Fab Launches Revolutionary Satellite Refueling System",
-        "category": "space",
-        "summary": "Orbit Fab and Astroscale successfully launched a satellite refueling system in geostationary orbit, deploying a small 'fuel truck' that can refuel military satellites, refuel itself from an orbital fuel storage facility, and proceed to service multiple objects. This breakthrough in orbital refueling technology paves the way for continuously maneuverable satellites that can dodge threats and change orbits as needed, while making long-distance space expeditions more economically viable by eliminating the need to launch extra fuel from Earth.",
-        "source": "Universe Magazine",
-        "sourceUrl": "https://universemagazine.com/en/top-7-space-technologies-of-2026-that-could-change-the-future/",
-        "image": "https://universemagazine.com/wp-content/uploads/2026/01/ust_top7_technologies_2026.jpg",
-        "imageProxy": "https://images.weserv.nl/?url=universemagazine.com%2Fwp-content%2Fuploads%2F2026%2F01%2Fust_top7_technologies_2026.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      }
-    ],
-    "batchId": "b1780853974841"
-  },
-  {
     "scannedAt": "2026-06-07T14:17:22.846Z",
     "items": [
       {
