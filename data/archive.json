@@ -1,22 +1,44 @@
 [
   {
-    "batchId": "auto_2026-07-28T10-17",
-    "scannedAt": "2026-07-28T10:17:27.986Z",
+    "batchId": "auto_2026-07-28T13-23",
+    "scannedAt": "2026-07-28T13:23:01.394Z",
     "items": [
       {
-        "id": "auto_2026-07-28T10-17_1",
+        "id": "auto_2026-07-28T13-23_1",
         "rank": 1,
-        "title": "STAT+: Preliminary trial results suggest a path to a safer Alzheimer's treatment",
+        "title": "STAT+: Three questions with Whoop's new CMO",
         "category": "biotech",
-        "summary": "ProMIS Neurosciences is trying to design a safer amyloid-clearing drug for Alzheimer's. Early results suggest it might be on to something.",
-        "image": "https://www.statnews.com/wp-content/uploads/2024/07/AdobeStock_466014399-1024x576.jpeg",
+        "summary": "In this edition of STAT Health Tech: A chat with Whoop's new chief medical officer, an update on CMS health tech initiative, and more.",
+        "image": "https://www.statnews.com/wp-content/uploads/2023/04/AdobeStock_563559034-1024x576.jpeg",
         "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/07/28/promis-neurosciences-amyloid-alzheimers-aria/?utm_campaign=rss",
+        "sourceUrl": "https://www.statnews.com/2026/07/28/three-questions-with-whoops-new-cmo-health-tech/?utm_campaign=rss",
         "fromX": false
       },
       {
-        "id": "auto_2026-07-28T10-17_2",
+        "id": "auto_2026-07-28T13-23_2",
         "rank": 2,
+        "title": "NASA selects successor to CAPSTONE lunar mission",
+        "category": "space",
+        "summary": "NASA has selected Advanced Space to fly a successor to a cislunar smallsat mission that will test rendezvous and proximity operations around the moon. The post NASA selects successor to CAPSTONE lunar mission appeared…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/capstone02.jpeg?fit=1024%2C453&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/nasa-selects-successor-to-capstone-lunar-mission/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-28T13-23_3",
+        "rank": 3,
+        "title": "Guggenheim Abu Dhabi announces 2026 opening date.",
+        "category": "art",
+        "summary": "The Guggenheim Abu Dhabi will open to the public on December 11, Abu Dhabi’s Department of Culture and Tourism has announced. First announced in 2006, the museum is one of the most anticipated museum openings in…",
+        "image": "https://artsy-media-uploads.s3.amazonaws.com/2jxE1CduWHMBrPu6xuOjWQ%2FHero+Shot+3+-+Courtesy+of+Guggenheim+Abu+Dhabi_1500x1000.jpg",
+        "source": "Artsy",
+        "sourceUrl": "https://www.artsy.net/article/artsy-editorial-guggenheim-abu-dhabi-announces-2026-opening",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-28T13-23_4",
+        "rank": 4,
         "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
         "category": "ai",
         "summary": "Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s been coming straight home to work on…",
@@ -26,36 +48,14 @@
         "fromX": false
       },
       {
-        "id": "auto_2026-07-28T10-17_3",
-        "rank": 3,
+        "id": "auto_2026-07-28T13-23_5",
+        "rank": 5,
         "title": "Want a home battery on a budget? Consider a portable, DIY system.",
         "category": "energy",
         "summary": "Canary Media’s Electrified Life column shares real-world tales, tips, and insights to demystify what individuals can do to shift their homes and lives to clean electric power. When the power goes out, a home battery can…",
         "image": "https://img.canarymedia.com/content/uploads/EL-072726.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=1afa2d590a5f68f4979e6fe5fe86191d",
         "source": "Canary Media",
         "sourceUrl": "https://www.canarymedia.com/articles/batteries/home-battery-on-a-budget",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-07-28T10-17_4",
-        "rank": 4,
-        "title": "Smoke Blankets Oregon",
-        "category": "space",
-        "summary": "Lightning storms have ignited dozens of fires in central and eastern Oregon.",
-        "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/smoke-blankets-oregon/oregonfires_amo_20260726_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-        "source": "NASA",
-        "sourceUrl": "https://science.nasa.gov/earth/natural-disasters/wildfires/smoke-blankets-oregon/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-07-28T10-17_5",
-        "rank": 5,
-        "title": "3-Region Neural Circuit Required for Sleep Memory",
-        "category": "neuroscience",
-        "summary": "A new study reveals that memory consolidation during sleep requires coordinated signaling among the orbitofrontal cortex, thalamus, and hippocampus, and shows how epileptic spikes break this circuit.",
-        "image": "https://neurosciencenews.com/files/2026/07/sleep-memory-consolidation-neurosience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/sleep-memory-epilepsy-neuroscience-31138/",
         "fromX": false
       }
     ]
