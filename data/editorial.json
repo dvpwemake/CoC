@@ -1077,6 +1077,172 @@
           ]
         }
       ]
+    },
+    "2026-07-29": {
+      "id": "ed_2026-07-29",
+      "publishDate": "2026-07-29",
+      "status": "draft",
+      "draftKind": "outline",
+      "createdAt": "2026-07-29T20:40:35.426Z",
+      "updatedAt": "2026-07-29T20:40:35.426Z",
+      "title": "Editorial brief — 2026-07-29",
+      "dek": "Outline of selected article titles and key points for admin to write the final editorial.",
+      "body": "EDITORIAL BRIEF (outline only — not for publication as-is)\nPublish date: 2026-07-29\nInstruction: Use the titles and key points below to write the final ~300-word CoC editorial. Replace this entire brief with your finished prose before publishing.\n\n— Selected articles of the day (12) —\n\n1. [AI] Gemini 3.6 Flash and 3.5 Flash-Lite now available through official API for developers and AI agents\n   Source: X · @web3l0var\n   URL: https://x.com/web3l0var/status/2079909448219271368\n   Key points:\n   • Model ecosystem expansion: Gemini 3.6 Flash and Gemini 3.5 Flash-Lite via official API access.\n\n2. [Art] Elaine de Kooning’s JFK portrait series to go on view in New York this fall.\n   Source: Artsy\n   URL: https://www.artsy.net/article/artsy-editorial-laine-de-koonings-jfk-portrait-series-view-new-york-fall\n   Key points:\n   • A major exhibition of Elaine de Kooning ’s work will open at Berry Campbell Gallery in New York on October 29th, spanning four decades of the Abstract Expressionist ’s career from 1948 to 1988.\n\n3. [Biotech] STAT+: Hims misled consumers and violated their privacy, FTC alleges in a lawsuit\n   Source: STAT News\n   URL: https://www.statnews.com/2026/07/29/ftc-lawsuit-hims-alleging-deceptive-business-practices/?utm_campaign=rss\n   Key points:\n   • Federal Trade Commission sued telehealth company Hims & Hers alleging business practices that agency says misled consumers.\n\n4. [editorial] What machines learn to touch—and what civic maps still refuse to erase\n   Source: Chronicle of Convergence · Editorial\n   URL: https://chronicleofconvergence.com/e/2026-07-28.html\n   Key points:\n   • Convergence of machine cognition and civic testimony\n\n5. [Energy] Duh, solar power doesn't work at night — but it excels during the day\n   Source: Canary Media\n   URL: https://www.canarymedia.com/articles/solar/doe-solar-power-day-night-texas\n   Key points:\n   • Yesterday, the Department of Energy took to social media to try and make a scandal out of a well-known fact: Solar panels do not generate power at night.\n   • It’s an old and lazy swipe that critics of renewable energy love…\n\n6. [Neuroscience] Resource Limits and Noise Dictate Memory\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/resource-limits-noise-memory-31152/\n   Key points:\n   • A new study presents a mathematical framework showing that organisms shift abruptly from reactive to memory-based strategies only when energy resources exceed a critical threshold, with memory offering peak utility…\n\n7. [Robotics] Best Construction Scheduling Software for Contractors\n   Source: Robotics & Automation News\n   URL: https://roboticsandautomationnews.com/2026/07/29/best-construction-scheduling-software-for-contractors/103724/\n   Key points:\n   • Construction scheduling is where most projects quietly fall apart.\n   • Not during the build itself, but in the planning gaps where subcontractors overlap, crews wait on materials, and the office loses touch with the field.…\n\n8. [Space] Space Force awards All Points $250 million to expand satellite processing at Vandenberg\n   Source: SpaceNews\n   URL: https://spacenews.com/space-force-awards-all-points-250-million-to-expand-satellite-processing-at-vandenberg/\n   Key points:\n   • All Points Logistics is the third company selected under a Commercial Solutions Opening to add facilities where satellites can be inspected, tested, fueled and prepared for integration with launch vehicles The post…\n\n9. [Space] ESA opens call to repurpose Gateway communications module\n   Source: SpaceNews\n   URL: https://spacenews.com/esa-opens-call-to-repurpose-gateway-communications-module/\n   Key points:\n   • JOHANNESBURG — The European Space Agency is moving ahead with plans to examine the feasibility of repurposing Lunar Link, a communications system developed for NASA’s now-paused Gateway space station, as […] The post…\n\n10. [Neuroscience] Brain-Inspired AI Uses Cognitive Maps\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/brain-inspired-ai-cognitive-maps-31145/\n   Key points:\n   • Researchers developed a brain-inspired AI model modeled on hippocampal mechanisms including cognitive maps and stochastic calculations.\n\n11. [Art] Lucy Sparrow Invokes '90s Supermarket Nostalgia in ‘The Beginning of Convenience’\n   Source: Colossal\n   URL: https://www.thisiscolossal.com/2026/07/lucy-sparrow-the-beginning-of-convenience/\n   Key points:\n   • The artist's new exhibition is fully stocked with more than 20,000 handmade felt objects.\n   • Do stories and artists like this matter to you?\n   • Become a Colossal Member today and support independent arts publishing for as…\n\n12. [Biotech] Six key issues we're watching at Fauci's hearing\n   Source: STAT News\n   URL: https://www.statnews.com/2026/07/28/anthony-fauci-senate-testimony-what-to-expect-covid-origin-perjury/?utm_campaign=rss\n   Key points:\n   • Rand Paul is forcing Fauci to appear before his Senate panel.\n\n— Categories present —\nAI · Art · Biotech · editorial · Energy · Neuroscience · Robotics · Space\n\n— Admin checklist —\n• Draft original title + dek\n• Write body (~280–320 words) in CoC voice\n• Set hero image URL + credit\n• Mark published when ready",
+      "paragraphs": [
+        "EDITORIAL BRIEF (outline only — not for publication as-is)\nPublish date: 2026-07-29\nInstruction: Use the titles and key points below to write the final ~300-word CoC editorial. Replace this entire brief with your finished prose before publishing.",
+        "— Selected articles of the day (12) —",
+        "1. [AI] Gemini 3.6 Flash and 3.5 Flash-Lite now available through official API for developers and AI agents\n   Source: X · @web3l0var\n   URL: https://x.com/web3l0var/status/2079909448219271368\n   Key points:\n   • Model ecosystem expansion: Gemini 3.6 Flash and Gemini 3.5 Flash-Lite via official API access.",
+        "2. [Art] Elaine de Kooning’s JFK portrait series to go on view in New York this fall.\n   Source: Artsy\n   URL: https://www.artsy.net/article/artsy-editorial-laine-de-koonings-jfk-portrait-series-view-new-york-fall\n   Key points:\n   • A major exhibition of Elaine de Kooning ’s work will open at Berry Campbell Gallery in New York on October 29th, spanning four decades of the Abstract Expressionist ’s career from 1948 to 1988.",
+        "3. [Biotech] STAT+: Hims misled consumers and violated their privacy, FTC alleges in a lawsuit\n   Source: STAT News\n   URL: https://www.statnews.com/2026/07/29/ftc-lawsuit-hims-alleging-deceptive-business-practices/?utm_campaign=rss\n   Key points:\n   • Federal Trade Commission sued telehealth company Hims & Hers alleging business practices that agency says misled consumers.",
+        "4. [editorial] What machines learn to touch—and what civic maps still refuse to erase\n   Source: Chronicle of Convergence · Editorial\n   URL: https://chronicleofconvergence.com/e/2026-07-28.html\n   Key points:\n   • Convergence of machine cognition and civic testimony",
+        "5. [Energy] Duh, solar power doesn't work at night — but it excels during the day\n   Source: Canary Media\n   URL: https://www.canarymedia.com/articles/solar/doe-solar-power-day-night-texas\n   Key points:\n   • Yesterday, the Department of Energy took to social media to try and make a scandal out of a well-known fact: Solar panels do not generate power at night.\n   • It’s an old and lazy swipe that critics of renewable energy love…",
+        "6. [Neuroscience] Resource Limits and Noise Dictate Memory\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/resource-limits-noise-memory-31152/\n   Key points:\n   • A new study presents a mathematical framework showing that organisms shift abruptly from reactive to memory-based strategies only when energy resources exceed a critical threshold, with memory offering peak utility…",
+        "7. [Robotics] Best Construction Scheduling Software for Contractors\n   Source: Robotics & Automation News\n   URL: https://roboticsandautomationnews.com/2026/07/29/best-construction-scheduling-software-for-contractors/103724/\n   Key points:\n   • Construction scheduling is where most projects quietly fall apart.\n   • Not during the build itself, but in the planning gaps where subcontractors overlap, crews wait on materials, and the office loses touch with the field.…",
+        "8. [Space] Space Force awards All Points $250 million to expand satellite processing at Vandenberg\n   Source: SpaceNews\n   URL: https://spacenews.com/space-force-awards-all-points-250-million-to-expand-satellite-processing-at-vandenberg/\n   Key points:\n   • All Points Logistics is the third company selected under a Commercial Solutions Opening to add facilities where satellites can be inspected, tested, fueled and prepared for integration with launch vehicles The post…",
+        "9. [Space] ESA opens call to repurpose Gateway communications module\n   Source: SpaceNews\n   URL: https://spacenews.com/esa-opens-call-to-repurpose-gateway-communications-module/\n   Key points:\n   • JOHANNESBURG — The European Space Agency is moving ahead with plans to examine the feasibility of repurposing Lunar Link, a communications system developed for NASA’s now-paused Gateway space station, as […] The post…",
+        "10. [Neuroscience] Brain-Inspired AI Uses Cognitive Maps\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/brain-inspired-ai-cognitive-maps-31145/\n   Key points:\n   • Researchers developed a brain-inspired AI model modeled on hippocampal mechanisms including cognitive maps and stochastic calculations.",
+        "11. [Art] Lucy Sparrow Invokes '90s Supermarket Nostalgia in ‘The Beginning of Convenience’\n   Source: Colossal\n   URL: https://www.thisiscolossal.com/2026/07/lucy-sparrow-the-beginning-of-convenience/\n   Key points:\n   • The artist's new exhibition is fully stocked with more than 20,000 handmade felt objects.\n   • Do stories and artists like this matter to you?\n   • Become a Colossal Member today and support independent arts publishing for as…",
+        "12. [Biotech] Six key issues we're watching at Fauci's hearing\n   Source: STAT News\n   URL: https://www.statnews.com/2026/07/28/anthony-fauci-senate-testimony-what-to-expect-covid-origin-perjury/?utm_campaign=rss\n   Key points:\n   • Rand Paul is forcing Fauci to appear before his Senate panel.",
+        "— Categories present —\nAI · Art · Biotech · editorial · Energy · Neuroscience · Robotics · Space",
+        "— Admin checklist —\n• Draft original title + dek\n• Write body (~280–320 words) in CoC voice\n• Set hero image URL + credit\n• Mark published when ready"
+      ],
+      "wordCount": 650,
+      "themeId": "outline",
+      "themeLabel": "Admin outline (titles + key points)",
+      "formId": "outline_brief",
+      "formLabel": "outline brief",
+      "authorName": "Dr. Wallace Lynch",
+      "authorTitle": "Editor in Chief",
+      "heroImage": "https://images-assets.nasa.gov/image/PIA15416/PIA15416~medium.jpg",
+      "heroCredit": "Galaxy cluster",
+      "heroSource": "NASA / JPL-Caltech (public domain)",
+      "heroSourceUrl": "https://images.nasa.gov/details/PIA15416",
+      "headlines": [
+        {
+          "title": "Gemini 3.6 Flash and 3.5 Flash-Lite now available through official API for developers and AI agents",
+          "source": "X · @web3l0var",
+          "category": "ai",
+          "sourceUrl": "https://x.com/web3l0var/status/2079909448219271368",
+          "summary": "Model ecosystem expansion: Gemini 3.6 Flash and Gemini 3.5 Flash-Lite via official API access.",
+          "keyPoints": [
+            "Model ecosystem expansion: Gemini 3.6 Flash and Gemini 3.5 Flash-Lite via official API access."
+          ]
+        },
+        {
+          "title": "Elaine de Kooning’s JFK portrait series to go on view in New York this fall.",
+          "source": "Artsy",
+          "category": "art",
+          "sourceUrl": "https://www.artsy.net/article/artsy-editorial-laine-de-koonings-jfk-portrait-series-view-new-york-fall",
+          "summary": "A major exhibition of Elaine de Kooning ’s work will open at Berry Campbell Gallery in New York on October 29th, spanning four decades of the Abstract Expressionist ’s career from 1948 to 1988. It is the first major…",
+          "keyPoints": [
+            "A major exhibition of Elaine de Kooning ’s work will open at Berry Campbell Gallery in New York on October 29th, spanning four decades of the Abstract Expressionist ’s career from 1948 to 1988."
+          ]
+        },
+        {
+          "title": "STAT+: Hims misled consumers and violated their privacy, FTC alleges in a lawsuit",
+          "source": "STAT News",
+          "category": "biotech",
+          "sourceUrl": "https://www.statnews.com/2026/07/29/ftc-lawsuit-hims-alleging-deceptive-business-practices/?utm_campaign=rss",
+          "summary": "The U.S. Federal Trade Commission sued telehealth company Hims & Hers alleging business practices that agency says misled consumers.",
+          "keyPoints": [
+            "Federal Trade Commission sued telehealth company Hims & Hers alleging business practices that agency says misled consumers."
+          ]
+        },
+        {
+          "title": "What machines learn to touch—and what civic maps still refuse to erase",
+          "source": "Chronicle of Convergence · Editorial",
+          "category": "editorial",
+          "sourceUrl": "https://chronicleofconvergence.com/e/2026-07-28.html",
+          "summary": "Convergence of machine cognition and civic testimony",
+          "keyPoints": [
+            "Convergence of machine cognition and civic testimony"
+          ]
+        },
+        {
+          "title": "Duh, solar power doesn't work at night — but it excels during the day",
+          "source": "Canary Media",
+          "category": "energy",
+          "sourceUrl": "https://www.canarymedia.com/articles/solar/doe-solar-power-day-night-texas",
+          "summary": "Yesterday, the Department of Energy took to social media to try and make a scandal out of a well-known fact: Solar panels do not generate power at night. It’s an old and lazy swipe that critics of renewable energy love…",
+          "keyPoints": [
+            "Yesterday, the Department of Energy took to social media to try and make a scandal out of a well-known fact: Solar panels do not generate power at night.",
+            "It’s an old and lazy swipe that critics of renewable energy love…"
+          ]
+        },
+        {
+          "title": "Resource Limits and Noise Dictate Memory",
+          "source": "Neuroscience News",
+          "category": "neuroscience",
+          "sourceUrl": "https://neurosciencenews.com/resource-limits-noise-memory-31152/",
+          "summary": "A new study presents a mathematical framework showing that organisms shift abruptly from reactive to memory-based strategies only when energy resources exceed a critical threshold, with memory offering peak utility…",
+          "keyPoints": [
+            "A new study presents a mathematical framework showing that organisms shift abruptly from reactive to memory-based strategies only when energy resources exceed a critical threshold, with memory offering peak utility…"
+          ]
+        },
+        {
+          "title": "Best Construction Scheduling Software for Contractors",
+          "source": "Robotics & Automation News",
+          "category": "robotics",
+          "sourceUrl": "https://roboticsandautomationnews.com/2026/07/29/best-construction-scheduling-software-for-contractors/103724/",
+          "summary": "Construction scheduling is where most projects quietly fall apart. Not during the build itself, but in the planning gaps where subcontractors overlap, crews wait on materials, and the office loses touch with the field.…",
+          "keyPoints": [
+            "Construction scheduling is where most projects quietly fall apart.",
+            "Not during the build itself, but in the planning gaps where subcontractors overlap, crews wait on materials, and the office loses touch with the field.…"
+          ]
+        },
+        {
+          "title": "Space Force awards All Points $250 million to expand satellite processing at Vandenberg",
+          "source": "SpaceNews",
+          "category": "space",
+          "sourceUrl": "https://spacenews.com/space-force-awards-all-points-250-million-to-expand-satellite-processing-at-vandenberg/",
+          "summary": "All Points Logistics is the third company selected under a Commercial Solutions Opening to add facilities where satellites can be inspected, tested, fueled and prepared for integration with launch vehicles The post…",
+          "keyPoints": [
+            "All Points Logistics is the third company selected under a Commercial Solutions Opening to add facilities where satellites can be inspected, tested, fueled and prepared for integration with launch vehicles The post…"
+          ]
+        },
+        {
+          "title": "ESA opens call to repurpose Gateway communications module",
+          "source": "SpaceNews",
+          "category": "space",
+          "sourceUrl": "https://spacenews.com/esa-opens-call-to-repurpose-gateway-communications-module/",
+          "summary": "JOHANNESBURG — The European Space Agency is moving ahead with plans to examine the feasibility of repurposing Lunar Link, a communications system developed for NASA’s now-paused Gateway space station, as […] The post…",
+          "keyPoints": [
+            "JOHANNESBURG — The European Space Agency is moving ahead with plans to examine the feasibility of repurposing Lunar Link, a communications system developed for NASA’s now-paused Gateway space station, as […] The post…"
+          ]
+        },
+        {
+          "title": "Brain-Inspired AI Uses Cognitive Maps",
+          "source": "Neuroscience News",
+          "category": "neuroscience",
+          "sourceUrl": "https://neurosciencenews.com/brain-inspired-ai-cognitive-maps-31145/",
+          "summary": "Researchers developed a brain-inspired AI model modeled on hippocampal mechanisms including cognitive maps and stochastic calculations.",
+          "keyPoints": [
+            "Researchers developed a brain-inspired AI model modeled on hippocampal mechanisms including cognitive maps and stochastic calculations."
+          ]
+        },
+        {
+          "title": "Lucy Sparrow Invokes '90s Supermarket Nostalgia in ‘The Beginning of Convenience’",
+          "source": "Colossal",
+          "category": "art",
+          "sourceUrl": "https://www.thisiscolossal.com/2026/07/lucy-sparrow-the-beginning-of-convenience/",
+          "summary": "The artist's new exhibition is fully stocked with more than 20,000 handmade felt objects. Do stories and artists like this matter to you? Become a Colossal Member today and support independent arts publishing for as…",
+          "keyPoints": [
+            "The artist's new exhibition is fully stocked with more than 20,000 handmade felt objects.",
+            "Do stories and artists like this matter to you?",
+            "Become a Colossal Member today and support independent arts publishing for as…"
+          ]
+        },
+        {
+          "title": "Six key issues we're watching at Fauci's hearing",
+          "source": "STAT News",
+          "category": "biotech",
+          "sourceUrl": "https://www.statnews.com/2026/07/28/anthony-fauci-senate-testimony-what-to-expect-covid-origin-perjury/?utm_campaign=rss",
+          "summary": "Sen. Rand Paul is forcing Fauci to appear before his Senate panel.",
+          "keyPoints": [
+            "Rand Paul is forcing Fauci to appear before his Senate panel."
+          ]
+        }
+      ]
     }
   },
   "history": [
