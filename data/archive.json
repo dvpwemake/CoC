@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-07-29T06-21",
-    "scannedAt": "2026-07-29T06:21:43.171Z",
+    "batchId": "auto_2026-07-29T10-23",
+    "scannedAt": "2026-07-29T10:23:02.795Z",
     "items": [
       {
-        "id": "auto_2026-07-29T06-21_1",
+        "id": "auto_2026-07-29T10-23_1",
         "rank": 1,
-        "title": "Boeing still working with NASA to schedule next Starliner flight",
-        "category": "space",
-        "summary": "Boeing is still working with NASA to determine when to fly its CST-100 Starliner commercial crew vehicle on a cargo mission to the International Space Station. The post Boeing still working with NASA to schedule next…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/NHQ202406030004large.jpg?fit=1024%2C705&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/boeing-still-working-with-nasa-to-schedule-next-starliner-flight/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-07-29T06-21_2",
-        "rank": 2,
-        "title": "STAT+: American Diabetes Association, facing calls for resignations, asks for patience",
-        "category": "biotech",
-        "summary": "An open letter to the board of the American Diabetes Association said the board had badly mishandled an incident at its annual meeting.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/06/conference-center-1024x576.jpeg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/07/28/american-diabetes-association-fallout-researchers-expulsion/?utm_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-07-29T06-21_3",
-        "rank": 3,
-        "title": "Eye Contact Syncs Infant Brains for Language Learning",
-        "category": "neuroscience",
-        "summary": "Eye contact between infants and adult speakers synchronizes their brainwaves to enable language acquisition.",
-        "image": "https://neurosciencenews.com/files/2026/07/eye-contact-baby-language-neurosceince-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/eye-contact-language-learning-31146/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-07-29T06-21_4",
-        "rank": 4,
-        "title": "Lucy Sparrow Invokes '90s Supermarket Nostalgia in ‘The Beginning of Convenience’",
-        "category": "art",
-        "summary": "The artist's new exhibition is fully stocked with more than 20,000 handmade felt objects. Do stories and artists like this matter to you? Become a Colossal Member today and support independent arts publishing for as…",
-        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/07/sparrow-boc-10.jpg",
-        "source": "Colossal",
-        "sourceUrl": "https://www.thisiscolossal.com/2026/07/lucy-sparrow-the-beginning-of-convenience/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-07-29T06-21_5",
-        "rank": 5,
-        "title": "Robot Finger Feels in Color",
+        "title": "Intelligrated, Trew and Transnorm unite to create ‘leading warehouse automation provider’",
         "category": "robotics",
-        "summary": "Imagine running your fingertip over the surface of a U.S. penny. You would feel the ridges of the raised letters and numbers, Abe Lincoln’s bearded side profile, and, if it’s tails, the fluted columns of the Lincoln…",
-        "image": "https://spectrum.ieee.org/media-library/close-up-of-a-sensor-for-a-robotic-fingertip-and-raised-relief-images-of-a-leaf-and-a-u-s-penny.jpg?id=67542077&width=980",
-        "source": "IEEE Spectrum",
-        "sourceUrl": "https://spectrum.ieee.org/robot-finger",
+        "summary": "American Industrial Partners (AIP) has announced the successful completion of its acquisition of Honeywell Technologies Warehouse and Workflow Solutions business, which includes Intelligrated and Transnorm. With the…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/07/trew-automation-1.jpeg",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/07/29/intelligrated-trew-and-transnorm-unite-to-create-leading-warehouse-automation-provider/103675/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-29T10-23_2",
+        "rank": 2,
+        "title": "STAT+: FDA expert committee reviews Capricor Therapeutics’ Duchenne drug",
+        "category": "biotech",
+        "summary": "STAT is live-blogging an FDA meeting on Capricor Therapeutics’ treatment for Duchenne muscular dystrophy, which has been the subject of a contentious regulatory review.",
+        "image": "https://www.statnews.com/wp-content/uploads/2019/04/Duchenne-muscular-dystrophy-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/07/29/capricor-therapeutics-deramiocel-fda-review-meeting-live-blog/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-29T10-23_3",
+        "rank": 3,
+        "title": "The US clean energy boom will continue to 2030. Then things get hazy.",
+        "category": "energy",
+        "summary": "So, how’s that clean energy transition going? It’s the essential inquiry that drives anyone reporting on climate solutions, and it got considerably more difficult to answer after President Donald Trump returned to the…",
+        "image": "https://img.canarymedia.com/content/uploads/Crane-at-Gemini-Project_GettyImages-1278666224.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=dc9bc719d834c2b7beb551d0c5fbc808",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/clean-energy/us-clean-energy-boom-rhodium",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-29T10-23_4",
+        "rank": 4,
+        "title": "The AI Hype Index: Unsexy AI",
+        "category": "ai",
+        "summary": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that’s exactly what the company 1X…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/JUL26-thumb.jpg?resize=1200,600",
+        "source": "MIT Technology Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-29T10-23_5",
+        "rank": 5,
+        "title": "Sizing Up the Sargassum Belt",
+        "category": "space",
+        "summary": "Seaweed composing the Great Atlantic Sargassum Belt hit near-record levels in June 2026, with the Caribbean Sea and Gulf of America both reaching all-time highs.",
+        "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/sizing-up-the-sargassum-belt/sargassum_pace_202606_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "source": "NASA",
+        "sourceUrl": "https://science.nasa.gov/earth/earth-observatory/sizing-up-the-sargassum-belt/",
         "fromX": false
       }
     ]
