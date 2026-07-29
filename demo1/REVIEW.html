@@ -4,130 +4,124 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="robots" content="noindex,nofollow">
-<meta name="color-scheme" content="dark">
-<title>DEMO1 r2 Review — Signal Minimal</title>
+<meta name="color-scheme" content="light">
+<title>DEMO1 r3 — Lumen Review (LAST PASS)</title>
 <style>
 :root {
-  --bg: #07080a; --card: #0e1014; --ink: #f2f4f7; --muted: #8b93a0;
-  --line: rgba(255,255,255,.08); --accent: #c9a227;
+  --bg: #f6f4ef; --card: #fff; --ink: #12141a; --muted: #5c6570;
+  --line: rgba(18,20,26,.08); --accent: #b8922a; --accent-deep: #8a6c1f;
   --font: system-ui, -apple-system, sans-serif;
 }
 * { box-sizing: border-box; margin: 0; padding: 0; }
 body {
   font-family: var(--font); background: var(--bg); color: var(--ink);
   line-height: 1.55; font-size: 15px;
-  background-image: radial-gradient(900px 400px at 50% -10%, rgba(201,162,39,.07), transparent 50%);
+  background-image: radial-gradient(800px 400px at 50% -10%, rgba(184,146,42,.12), transparent 50%);
 }
-.wrap { width: min(100% - 2rem, 720px); margin: 0 auto; padding: 2.5rem 0 4rem; }
-h1 { font-size: 1.65rem; font-weight: 600; letter-spacing: -0.02em; margin: 0.5rem 0 0.35rem; }
-h1 em { font-style: normal; color: var(--accent); }
+.wrap { width: min(100% - 2rem, 720px); margin: 0 auto; padding: 2.25rem 0 4rem; }
+h1 { font-size: 1.7rem; font-weight: 700; letter-spacing: -0.02em; margin: 0.4rem 0; }
+h1 em { font-style: normal; color: var(--accent-deep); }
 h2 {
-  font-size: 0.68rem; letter-spacing: 0.14em; text-transform: uppercase;
-  color: var(--muted); margin: 2rem 0 0.75rem; font-weight: 600;
+  font-size: 0.68rem; letter-spacing: 0.12em; text-transform: uppercase;
+  color: var(--muted); font-weight: 700; margin: 1.75rem 0 0.65rem;
 }
-.meta { color: var(--muted); font-size: 0.88rem; }
+.meta { color: var(--muted); font-size: 0.9rem; }
 .pill {
-  display: inline-block; font-size: 0.65rem; letter-spacing: 0.08em; text-transform: uppercase;
-  border: 1px solid var(--line); border-radius: 999px; padding: 0.2rem 0.55rem; color: var(--muted); margin: 0 0.25rem 0.25rem 0;
+  display: inline-block; font-size: 0.65rem; font-weight: 700; letter-spacing: 0.08em;
+  text-transform: uppercase; border: 1px solid var(--line); border-radius: 999px;
+  padding: 0.2rem 0.55rem; margin: 0 0.2rem 0.25rem 0; color: var(--muted); background: #fff;
 }
-.pill.hot { color: var(--accent); border-color: rgba(201,162,39,.35); }
+.pill.hot { color: var(--accent-deep); border-color: rgba(184,146,42,.4); }
 .card {
-  border: 1px solid var(--line); border-radius: 12px; padding: 1.15rem 1.2rem;
-  background: var(--card); margin: 0.65rem 0;
+  background: var(--card); border: 1px solid var(--line); border-radius: 14px;
+  padding: 1.15rem 1.2rem; margin: 0.6rem 0;
+  box-shadow: 0 10px 30px rgba(18,20,26,.04);
 }
 .cta {
-  display: inline-flex; margin-top: 0.85rem; padding: 0.65rem 1.1rem;
-  background: var(--ink); color: var(--bg); font-weight: 600; font-size: 0.88rem;
+  display: inline-flex; margin-top: 0.85rem; padding: 0.7rem 1.15rem;
+  background: var(--ink); color: #fff; font-weight: 700; font-size: 0.88rem;
   border-radius: 999px; text-decoration: none;
-  transition: transform 0.25s cubic-bezier(0.22,1,0.36,1), opacity 0.25s;
 }
-.cta:hover { transform: translateY(-2px); opacity: 0.92; }
-ul { margin: 0.35rem 0 0.35rem 1.1rem; }
-li { margin: 0.4rem 0; color: color-mix(in srgb, var(--ink) 90%, var(--muted)); }
-a { color: var(--accent); }
-code { font-family: ui-monospace, Menlo, monospace; font-size: 0.8rem; color: var(--muted); }
+.cta:hover { opacity: 0.9; }
+ul { margin: 0.35rem 0 0.35rem 1.15rem; }
+li { margin: 0.4rem 0; }
 table { width: 100%; border-collapse: collapse; font-size: 0.88rem; }
 th, td { text-align: left; padding: 0.45rem 0.25rem; border-bottom: 1px solid var(--line); vertical-align: top; }
 th { color: var(--muted); font-size: 0.65rem; text-transform: uppercase; letter-spacing: 0.08em; }
-@media (prefers-reduced-motion: reduce) {
-  .cta:hover { transform: none; }
-}
+code { font-family: ui-monospace, Menlo, monospace; font-size: 0.8rem; color: var(--muted); }
+a { color: var(--accent-deep); }
+.warn { border-color: rgba(184,146,42,.45); background: #fffdf6; }
 </style>
 </head>
 <body>
 <div class="wrap">
   <p>
-    <span class="pill hot">DEMO1 r2</span>
-    <span class="pill">Signal Minimal</span>
-    <span class="pill">Local only</span>
-    <span class="pill">No push</span>
+    <span class="pill hot">DEMO1 r3 · LAST PASS</span>
+    <span class="pill">Light only</span>
+    <span class="pill">Pure CSS FX</span>
+    <span class="pill">Local · no push</span>
   </p>
-  <h1>Re-proposal: <em>Signal Minimal</em></h1>
-  <p class="meta">IT Design desk · Response to “r1 looks uglier” · 2026-07-29</p>
+  <h1>Lumen — light Signal Minimal</h1>
+  <p class="meta">Design desk final re-proposal · r1 ugly · r2 dark rejected · r3 light + visible FX</p>
 
-  <div class="card">
-    <strong>We heard you.</strong>
-    <p class="meta" style="margin-top:0.5rem">
-      r1 piled on grain, heavy paper chrome, and busy chips. That is not premium.
-      r2 removes decoration and ships a dark, minimal, futuristic system with
-      <strong>pure CSS</strong> motion only.
-    </p>
+  <div class="card warn">
+    <strong>We fixed the two hard constraints you named.</strong>
+    <ul>
+      <li><strong>No dark scheme</strong> — white / warm off-white only.</li>
+      <li><strong>Pure CSS animation is explicit</strong> — listed on the demo page itself and below. Hover cards, watch the mesh, orbs, sheen, and pulse.</li>
+    </ul>
     <a class="cta" href="index.html">Open visual demo →</a>
   </div>
 
-  <h2>What changed vs r1</h2>
+  <h2>Where are the pure CSS effects?</h2>
   <div class="card">
+    <p class="meta" style="margin-bottom:0.65rem">On load + interaction (all CSS, no JS libraries):</p>
     <table>
-      <thead><tr><th>r1 (rejected)</th><th>r2 (this)</th></tr></thead>
+      <thead><tr><th>Effect</th><th>Where to see it</th></tr></thead>
       <tbody>
-        <tr><td>Warm paper + noise grain</td><td>Deep black canvas, no texture</td></tr>
-        <tr><td>Heavy shadows / brown gold</td><td>Hairline borders, single accent gold</td></tr>
-        <tr><td>Chips on every image</td><td>One label line; accent bar on hover</td></tr>
-        <tr><td>JS for category filter</td><td>Radios + <code>:has()</code> · zero JS</td></tr>
-        <tr><td>Motion noise</td><td>Opacity/transform only · reduced-motion safe</td></tr>
+        <tr><td>mesh-drift</td><td>Page background slowly shifts</td></tr>
+        <tr><td>ambient orbs</td><td>Soft gold/blue blobs float (corners)</td></tr>
+        <tr><td>rise-in + stagger</td><td>Editorial + cards fade/slide up on load</td></tr>
+        <tr><td>live-pulse</td><td>Gold “Live” dot breathes</td></tr>
+        <tr><td>draw-line</td><td>Gold section rules grow on enter</td></tr>
+        <tr><td>hero scale</td><td>Hover editorial image</td></tr>
+        <tr><td>sheen</td><td>Hover any field-signal card image</td></tr>
+        <tr><td>accent draw</td><td>Gold bar under card media on hover</td></tr>
+        <tr><td>lift + glow</td><td>Cards / share buttons rise</td></tr>
+        <tr><td>chip active</td><td>Filter pills scale when selected</td></tr>
+        <tr><td>nav blur</td><td>Sticky filter bar</td></tr>
+        <tr><td>underline draw</td><td>Footer / demo links</td></tr>
+        <tr><td>reduced-motion</td><td>OS setting kills all of the above</td></tr>
       </tbody>
     </table>
+    <p class="meta" style="margin-top:0.75rem">Same list is printed at the top of <code>index.html</code> so nothing is hidden.</p>
   </div>
 
-  <h2>Engineering bar</h2>
+  <h2>Engineering</h2>
   <div class="card">
     <ul>
-      <li>Pure CSS animations (compositor: <code>transform</code> + <code>opacity</code>)</li>
-      <li>Category filter with native radios and <code>:has()</code> — no script dependency</li>
-      <li>System UI font for chrome; one display face for titles only</li>
-      <li><code>color-mix</code>, <code>min()</code>, sticky + <code>backdrop-filter</code></li>
-      <li><code>prefers-reduced-motion</code>, <code>:focus-visible</code>, icon <code>aria-label</code></li>
-      <li>No animation libraries, no framework</li>
+      <li>Category filter: native radios + <code>:has()</code> (no JavaScript)</li>
+      <li>Motion: <code>transform</code> / <code>opacity</code> / gradient <code>background-position</code> only</li>
+      <li>No animation libraries · single HTML file · light <code>color-scheme</code></li>
+      <li>Focus-visible · icon labels · reduced-motion gate</li>
     </ul>
   </div>
 
-  <h2>North star</h2>
-  <div class="card">
-    Flagship-product restraint (Linear / Vercel / Arc class) applied to a cultural chronicle.
-    Futuristic without neon. Every pixel earns its place.
-  </div>
-
-  <h2>Feedback we need</h2>
+  <h2>Feedback (this is the gate)</h2>
   <div class="card">
     <ul>
-      <li>Is dark premium the right default for CoC, or light-only?</li>
-      <li>Accent gold <code>#c9a227</code> — keep, cooler, or pure white/silver?</li>
-      <li>Card density: this spacing vs tighter?</li>
-      <li>Greenlight r2 direction over live + r1?</li>
+      <li>Is light Lumen the direction to implement on production (parallel path)?</li>
+      <li>Any FX too much / too little?</li>
+      <li>Accent gold keep or cooler?</li>
     </ul>
   </div>
 
   <h2>Files</h2>
   <div class="card">
-    <code>demo1/index.html</code> · visual<br>
+    <code>demo1/index.html</code> · visual + on-page FX legend<br>
     <code>demo1/REVIEW.html</code> · this brief<br>
-    <code>demo1/proposal.yaml</code> · machine source<br>
-    <p class="meta" style="margin-top:0.65rem">Local CoC repo only · do not push until principal OK</p>
+    <code>demo1/proposal.yaml</code> · machine source
   </div>
-
-  <p class="meta" style="margin-top:2rem">
-    Design desk: Reyes · Watanabe · Ellison · Marchand · Sato · Moreau · Okoye · partner Kim
-  </p>
 </div>
 </body>
 </html>

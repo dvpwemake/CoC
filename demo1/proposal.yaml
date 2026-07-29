@@ -1,76 +1,56 @@
-# CoC DEMO1 — re-proposal (admin rejected v1 as uglier)
+# CoC DEMO1 — r3 LAST PASS (light only)
 schema: coc.design.proposal/v1
 id: demo1
-revision: 2
-title: "CoC Facelift DEMO1 r2 — Signal Minimal"
+revision: 3
+title: "CoC Facelift DEMO1 r3 — Lumen (light Signal Minimal)"
 path: CoC/demo1/
 status: proposal_for_admin_review
 push: forbidden
 created: 2026-07-29
 revised: 2026-07-29
 team: IT Team · Design / UI·UX desk
+note: >
+  r1 rejected (ugly paper clutter). r2 rejected (dark forbidden).
+  r3: light scheme only + explicit pure CSS animation catalogue.
 
-critique_of_r1: >
-  r1 (Chronicle Paper) over-decorated: grain, heavy shadows, busy chips, warm clutter.
-  Read as costume “magazine,” not premium product. Principal: uglier than live.
+color: light_only
+north_star: >
+  Bright, premium, minimal, futuristic. White/off-white surfaces, one gold accent,
+  large air, hairline structure. Visible but refined CSS motion — never neon, never dark.
 
-north_star_r2: >
-  Signal Minimal — one surface, one accent, maximum air. Feels like a 2026 flagship
-  product UI (Linear / Vercel / Arc-class restraint) applied to a cultural chronicle.
-  Futuristic without neon noise. Every rule earns its pixels.
+css_animation_catalogue:
+  - id: mesh_drift
+    what: Soft multi-stop gradient mesh slowly shifts on page background
+  - id: ambient_orbs
+    what: Two large blurred orbs float (transform only)
+  - id: rise_in
+    what: Editorial + cards enter with fade + translateY
+  - id: stagger
+    what: Cards use animation-delay cascade
+  - id: hero_ ken_burns
+    what: Hero image slow scale on section hover
+  - id: sheen
+    what: Card media diagonal light sweep on hover
+  - id: accent_draw
+    what: Gold line draws left-to-right under media / section labels
+  - id: lift
+    what: Card/share controls translateY on hover
+  - id: chip_active
+    what: Filter chips fill + subtle scale when selected
+  - id: live_pulse
+    what: Live indicator soft box-shadow pulse
+  - id: nav_blur
+    what: Sticky filters backdrop-filter
+  - id: reduced_motion
+    what: All motion killed when prefers-reduced-motion
 
-design_principles:
-  - Minimal: remove before add
-  - Premium: precise type, hairline rules, no texture noise
-  - Futuristic: dark canvas optional accents, micro CSS motion only
-  - Efficient: pure CSS animation; :has() filters; no animation libraries
-  - Accessible: prefers-reduced-motion; focus-visible; aria on icons
-
-design_system:
-  name: Signal Minimal v1
-  mode: dark_premium  # default demo; light inversion documented as phase 2
-  tokens:
-    bg: "#07080a"
-    surface: "#0e1014"
-    elevated: "#14181f"
-    ink: "#f2f4f7"
-    muted: "#8b93a0"
-    line: "rgba(255,255,255,0.08)"
-    accent: "#c9a227"   # restrained gold — brand lock, not chocolate brown
-    accent_soft: "rgba(201,162,39,0.14)"
-    radius: "12px"
-    max: "1080px"
-  type:
-    ui: "system-ui, SF Pro, Segoe UI — zero webfont cost on chrome"
-    display: "optional one family for titles only (loaded once)"
-  motion:
-    engine: pure CSS
-    primitives:
-      - fade-up entrance (transform + opacity, 400ms)
-      - hairline accent grow on hover
-      - card lift 2px + border accent
-      - sticky nav backdrop-filter
-    rules:
-      - transform/opacity only (compositor-friendly)
-      - @media (prefers-reduced-motion: reduce) disables
-
-ux:
-  hierarchy:
-    - Brand line (wordmark + live pulse)
-    - Editorial as single hero column
-    - Field signals as equal minimal cards
-  jobs:
-    primary: Read editorial without chrome noise
-    secondary: Filter signals; share; open source
-  pure_css_filter: radio + :has() — no JS required for category filter
+engineering:
+  - pure CSS only for motion and category filter (:has + radios)
+  - no animation libraries
+  - transform/opacity primary; gradient position for mesh
+  - light color-scheme meta
 
 files:
-  visual: CoC/demo1/index.html
-  brief: CoC/demo1/REVIEW.html
-  this: CoC/demo1/proposal.yaml
-
-admin_prompts:
-  - Dark premium OK as default, or force light-only?
-  - Accent: keep gold #c9a227 or shift cooler (silver/cyan)?
-  - Card density: comfortable vs compact?
-  - Ship r2 direction if better than live + r1?
+  - CoC/demo1/index.html
+  - CoC/demo1/REVIEW.html
+  - CoC/demo1/proposal.yaml
