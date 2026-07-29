@@ -1052,15 +1052,22 @@ function card(it, usedImgs){
   it=scrubItem(it);
   const raw=it.image||'';
   const key=(raw||'').split('?')[0].toLowerCase();
+  const internal=cardIsInternalEditorial(it);
   let show=raw;
-  if(key && usedImgs.has(key)) show='';
-  else if(key) usedImgs.add(key);
+  // Editorial archive cards always keep their head image (even if hero URL was
+  // reused across days). Dedup still applies to ordinary field-signal cards.
+  if(internal){
+    if(key) usedImgs.add(key);
+  }else if(key && usedImgs.has(key)){
+    show='';
+  }else if(key){
+    usedImgs.add(key);
+  }
   const src=show?imgSrc(show):'';
   const imgH=src
     ? `<div class="n-img"><img src="${esc(src)}" alt="" width="640" height="400" loading="lazy" decoding="async" referrerpolicy="no-referrer" data-proxy="${esc(it.imageProxy||proxyUrl(raw))}" onerror="thumbFail(this)"></div>`
     : `<div class="n-img"><div class="fallback">${esc(CATS[it.category]||'News')}</div></div>`;
   const href=cardHref(it);
-  const internal=cardIsInternalEditorial(it);
   const tgt=internal?'':` target="_blank" rel="noopener"`;
   const srcLabel=internal?'Read full editorial →':((it.source||'Source')+' →');
   return `<a class="n-card" href="${esc(href)}"${tgt}>
