@@ -1139,10 +1139,10 @@ function card(it, usedImgs){
   const key=(raw||'').split('?')[0].toLowerCase();
   const internal=cardIsInternalEditorial(it);
   let show=raw;
-  // Editorial archive cards always keep their head image (even if hero URL was
-  // reused across days). Dedup still applies to ordinary field-signal cards.
+  // Option 3: editorial heroes (live desk + archive editorial cards) never blank
+  // a matching field-signal thumb. Dedup only among ordinary news cards.
   if(internal){
-    if(key) usedImgs.add(key);
+    // always keep editorial head image; do not claim URL against news
   }else if(key && usedImgs.has(key)){
     show='';
   }else if(key){
@@ -1197,11 +1197,9 @@ function renderNews(reset){
   if(!items.length){g.innerHTML='';empty.style.display='block';if(more)more.style.display='none';return}
   empty.style.display='none';
   shown=Math.min(items.length, (reset?PAGE_SIZE:shown+PAGE_SIZE));
+  // Dedup only among field-signal (non-editorial) cards. Live/archive editorial
+  // heroes may share a URL with their source article without blanking that card.
   const usedImgs=new Set();
-  // Reserve editorial hero so news never reuses the same image as the hero
-  if(activeEditorial&&activeEditorial.heroImage){
-    usedImgs.add(String(activeEditorial.heroImage).split('?')[0].toLowerCase());
-  }
   g.innerHTML=items.slice(0,shown).map(it=>card(it,usedImgs)).join('');
   if(more) more.style.display=shown<items.length?'block':'none';
 }
