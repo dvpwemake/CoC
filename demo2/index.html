@@ -1,0 +1,718 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<meta name="color-scheme" content="light">
+<title>DEMO2 — Aurum Light · CoC (local review)</title>
+<link rel="icon" href="../img/logo-mark.png" type="image/png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&family=Instrument+Serif:ital@0;1&display=swap" rel="stylesheet">
+<style>
+/* ==========================================================================
+   DEMO2 — Aurum Light (Design desk v2)
+   Light-only · premium minimal · pure CSS · Aurora Field background
+   ========================================================================== */
+:root {
+  --bg: #f7f5f0;
+  --bg-deep: #efece5;
+  --surface: #ffffff;
+  --ink: #14161c;
+  --muted: #5e6672;
+  --line: rgba(20, 22, 28, 0.08);
+  --line-strong: rgba(20, 22, 28, 0.14);
+  --accent: #b8922a;
+  --accent-deep: #8a6c1f;
+  --accent-soft: rgba(184, 146, 42, 0.12);
+  --cool: rgba(120, 150, 190, 0.14);
+  --radius: 12px;
+  --max: 1060px;
+  --ease: cubic-bezier(0.22, 1, 0.36, 1);
+  --t: 0.4s;
+  --font: "DM Sans", system-ui, -apple-system, sans-serif;
+  --display: "Instrument Serif", Georgia, serif;
+}
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  min-height: 100dvh;
+  font-family: var(--font);
+  font-size: 15px;
+  line-height: 1.55;
+  color: var(--ink);
+  background: var(--bg);
+  -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
+}
+
+/* --------------------------------------------------------------------------
+   AURORA FIELD — pure CSS background (suitable for light premium UI)
+   Layers sit fixed behind content; content uses solid surfaces for contrast.
+   Motion: transform + opacity only (GPU-friendly).
+   -------------------------------------------------------------------------- */
+.aurora {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+  overflow: hidden;
+  background:
+    linear-gradient(180deg, #fbfaf7 0%, var(--bg) 42%, var(--bg-deep) 100%);
+}
+
+/* Field A — warm gold mass */
+.aurora__a {
+  position: absolute;
+  width: min(70vw, 640px);
+  height: min(70vw, 640px);
+  top: -12%;
+  left: -10%;
+  border-radius: 50%;
+  background: radial-gradient(
+    circle at 40% 40%,
+    rgba(184, 146, 42, 0.28) 0%,
+    rgba(184, 146, 42, 0.10) 38%,
+    transparent 68%
+  );
+  filter: blur(8px);
+  will-change: transform;
+  animation: aurora-a 22s var(--ease) infinite alternate;
+}
+
+/* Field B — cool counter mass */
+.aurora__b {
+  position: absolute;
+  width: min(75vw, 700px);
+  height: min(75vw, 700px);
+  top: 18%;
+  right: -18%;
+  border-radius: 50%;
+  background: radial-gradient(
+    circle at 50% 50%,
+    rgba(130, 160, 200, 0.22) 0%,
+    rgba(130, 160, 200, 0.08) 40%,
+    transparent 70%
+  );
+  filter: blur(10px);
+  will-change: transform;
+  animation: aurora-b 26s var(--ease) infinite alternate;
+}
+
+/* Field C — lower soft gold rest */
+.aurora__c {
+  position: absolute;
+  width: min(80vw, 720px);
+  height: min(55vw, 480px);
+  bottom: -18%;
+  left: 20%;
+  border-radius: 50%;
+  background: radial-gradient(
+    circle at 50% 40%,
+    rgba(184, 146, 42, 0.16) 0%,
+    rgba(184, 146, 42, 0.05) 45%,
+    transparent 70%
+  );
+  filter: blur(12px);
+  will-change: transform, opacity;
+  animation: aurora-c 20s var(--ease) infinite alternate;
+}
+
+/* Field D — masthead breath (subtle) */
+.aurora__d {
+  position: absolute;
+  width: min(50vw, 480px);
+  height: min(30vw, 280px);
+  top: 0;
+  left: 50%;
+  translate: -50% 0;
+  border-radius: 50%;
+  background: radial-gradient(
+    ellipse at 50% 0%,
+    rgba(255, 255, 255, 0.85) 0%,
+    rgba(184, 146, 42, 0.12) 35%,
+    transparent 70%
+  );
+  filter: blur(6px);
+  will-change: opacity;
+  animation: aurora-breathe 8s ease-in-out infinite;
+}
+
+/* Slow luminance sheen — very low opacity, editorial calm */
+.aurora__sheen {
+  position: absolute;
+  inset: -20% -40%;
+  background: linear-gradient(
+    105deg,
+    transparent 40%,
+    rgba(255, 255, 255, 0.35) 50%,
+    transparent 60%
+  );
+  opacity: 0.35;
+  will-change: transform;
+  animation: aurora-sheen 14s linear infinite;
+}
+
+@keyframes aurora-a {
+  0%   { transform: translate3d(0, 0, 0) scale(1); }
+  100% { transform: translate3d(6%, 8%, 0) scale(1.08); }
+}
+@keyframes aurora-b {
+  0%   { transform: translate3d(0, 0, 0) scale(1.05); }
+  100% { transform: translate3d(-7%, 5%, 0) scale(1); }
+}
+@keyframes aurora-c {
+  0%   { transform: translate3d(0, 0, 0) scale(1); opacity: 0.85; }
+  100% { transform: translate3d(-4%, -6%, 0) scale(1.1); opacity: 1; }
+}
+@keyframes aurora-breathe {
+  0%, 100% { opacity: 0.55; }
+  50% { opacity: 0.95; }
+}
+@keyframes aurora-sheen {
+  0%   { transform: translate3d(-15%, 0, 0); }
+  100% { transform: translate3d(15%, 0, 0); }
+}
+
+/* Content above aurora */
+.layer { position: relative; z-index: 1; }
+
+img { display: block; max-width: 100%; height: auto; }
+a { color: inherit; text-decoration: none; }
+button { font: inherit; color: inherit; background: none; border: 0; cursor: pointer; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
+::selection { background: var(--accent-soft); color: var(--ink); }
+
+.wrap { width: min(100% - 2rem, var(--max)); margin-inline: auto; }
+
+/* --- chrome --- */
+.demo-bar {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 0.45rem 1rem;
+  padding: 0.55rem 1rem;
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--muted);
+  background: rgba(255, 255, 255, 0.72);
+  border-bottom: 1px solid var(--line);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+}
+.demo-bar b { color: var(--accent-deep); }
+.demo-bar a {
+  color: var(--ink);
+  position: relative;
+}
+.demo-bar a::after {
+  content: "";
+  position: absolute;
+  left: 0; bottom: -2px;
+  width: 0; height: 1px;
+  background: var(--accent);
+  transition: width var(--t) var(--ease);
+}
+.demo-bar a:hover::after { width: 100%; }
+
+.site-header {
+  padding: 2.1rem 0 1.4rem;
+  border-bottom: 1px solid var(--line);
+  background: rgba(255, 255, 255, 0.5);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  animation: rise 0.6s var(--ease) both;
+}
+.brand { display: flex; align-items: center; gap: 0.85rem; }
+.brand img {
+  width: 40px; height: 40px; border-radius: 10px;
+  box-shadow: 0 6px 18px rgba(20, 22, 28, 0.06);
+  transition: transform var(--t) var(--ease);
+}
+.brand:hover img { transform: scale(1.04); }
+.brand-text { display: grid; gap: 0.08rem; }
+.brand-text strong { font-size: 1rem; font-weight: 700; letter-spacing: -0.02em; }
+.brand-text span { font-size: 0.78rem; color: var(--muted); }
+.live {
+  margin-left: auto;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--muted);
+  padding: 0.35rem 0.7rem;
+  border-radius: 999px;
+  border: 1px solid var(--line);
+  background: var(--surface);
+}
+.live i {
+  width: 7px; height: 7px; border-radius: 50%;
+  background: var(--accent);
+  animation: pulse 2.2s var(--ease) infinite;
+}
+@keyframes pulse {
+  0%, 100% { box-shadow: 0 0 0 0 var(--accent-soft); }
+  50% { box-shadow: 0 0 0 8px transparent; }
+}
+
+/* filters */
+.filters input {
+  position: absolute; width: 1px; height: 1px; opacity: 0; pointer-events: none;
+}
+.filters {
+  position: sticky; top: 0; z-index: 30;
+  padding: 0.65rem 0;
+  background: rgba(247, 245, 240, 0.84);
+  backdrop-filter: blur(16px) saturate(1.1);
+  -webkit-backdrop-filter: blur(16px) saturate(1.1);
+  border-bottom: 1px solid var(--line);
+}
+.chips {
+  display: flex; gap: 0.4rem; overflow-x: auto; scrollbar-width: none;
+}
+.chips::-webkit-scrollbar { display: none; }
+.chips label {
+  flex: 0 0 auto;
+  cursor: pointer;
+  padding: 0.4rem 0.85rem;
+  border-radius: 999px;
+  border: 1px solid var(--line);
+  background: var(--surface);
+  color: var(--muted);
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  transition: color var(--t) var(--ease), background var(--t) var(--ease),
+    border-color var(--t) var(--ease), transform var(--t) var(--ease),
+    box-shadow var(--t) var(--ease);
+}
+.chips label:hover { color: var(--ink); border-color: var(--line-strong); transform: translateY(-1px); }
+body:has(#f-all:checked) label[for="f-all"],
+body:has(#f-ai:checked) label[for="f-ai"],
+body:has(#f-art:checked) label[for="f-art"],
+body:has(#f-robotics:checked) label[for="f-robotics"],
+body:has(#f-biotech:checked) label[for="f-biotech"],
+body:has(#f-space:checked) label[for="f-space"],
+body:has(#f-energy:checked) label[for="f-energy"],
+body:has(#f-neuro:checked) label[for="f-neuro"] {
+  color: #fff;
+  background: var(--ink);
+  border-color: var(--ink);
+  box-shadow: 0 8px 20px rgba(20, 22, 28, 0.1);
+}
+body:has(#f-ai:checked) .card:not([data-cat="ai"]),
+body:has(#f-art:checked) .card:not([data-cat="art"]),
+body:has(#f-robotics:checked) .card:not([data-cat="robotics"]),
+body:has(#f-biotech:checked) .card:not([data-cat="biotech"]),
+body:has(#f-space:checked) .card:not([data-cat="space"]),
+body:has(#f-energy:checked) .card:not([data-cat="energy"]),
+body:has(#f-neuro:checked) .card:not([data-cat="neuro"]) {
+  display: none;
+}
+
+main { padding: 1.75rem 0 3.5rem; }
+
+.note {
+  margin-bottom: 1.35rem;
+  padding: 0.85rem 1rem;
+  border-radius: var(--radius);
+  border: 1px solid var(--line);
+  background: rgba(255, 255, 255, 0.78);
+  font-size: 0.82rem;
+  color: var(--muted);
+  animation: rise 0.5s var(--ease) both;
+}
+.note strong { color: var(--ink); }
+
+.section-label {
+  display: flex; align-items: center; gap: 0.75rem;
+  margin: 0 0 1rem;
+  font-size: 0.68rem; font-weight: 700;
+  letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted);
+}
+.section-label::after {
+  content: "";
+  flex: 1; height: 1px;
+  background: linear-gradient(90deg, var(--accent), transparent 72%);
+  transform-origin: left;
+  animation: draw 0.9s var(--ease) 0.15s both;
+}
+@keyframes draw {
+  from { transform: scaleX(0); opacity: 0; }
+  to { transform: scaleX(1); opacity: 1; }
+}
+@keyframes rise {
+  from { opacity: 0; transform: translate3d(0, 14px, 0); }
+  to { opacity: 1; transform: translate3d(0, 0, 0); }
+}
+
+/* editorial */
+.ed {
+  border: 1px solid var(--line);
+  border-radius: calc(var(--radius) + 2px);
+  background: var(--surface);
+  overflow: hidden;
+  margin-bottom: 2.75rem;
+  box-shadow: 0 1px 2px rgba(20, 22, 28, 0.03), 0 22px 48px rgba(20, 22, 28, 0.05);
+  animation: rise 0.65s var(--ease) both;
+  transition: border-color var(--t) var(--ease), box-shadow var(--t) var(--ease);
+}
+.ed:hover {
+  border-color: color-mix(in srgb, var(--accent) 35%, var(--line));
+  box-shadow: 0 1px 2px rgba(20, 22, 28, 0.03), 0 28px 56px rgba(20, 22, 28, 0.07);
+}
+.ed-media {
+  position: relative;
+  aspect-ratio: 2.15 / 1;
+  overflow: hidden;
+  background: var(--bg-deep);
+}
+.ed-media img {
+  width: 100%; height: 100%; object-fit: cover;
+  transform: scale(1.02);
+  transition: transform 1.1s var(--ease);
+  will-change: transform;
+}
+.ed:hover .ed-media img { transform: scale(1.06); }
+.ed-body { padding: 1.5rem 1.35rem 1.75rem; max-width: 40rem; }
+@media (min-width: 720px) { .ed-body { padding: 1.85rem 2.1rem 2rem; } }
+.ed-kicker {
+  font-size: 0.68rem; font-weight: 700; letter-spacing: 0.14em;
+  text-transform: uppercase; color: var(--accent-deep); margin-bottom: 0.65rem;
+}
+.ed h1 {
+  font-family: var(--display); font-weight: 400;
+  font-size: clamp(2rem, 4.8vw, 2.75rem);
+  line-height: 1.1; letter-spacing: -0.02em; margin-bottom: 0.55rem;
+}
+.ed-dek {
+  font-family: var(--display); font-style: italic;
+  font-size: 1.12rem; color: var(--muted); line-height: 1.4; margin-bottom: 1.05rem;
+}
+.ed-meta {
+  display: flex; flex-wrap: wrap; gap: 0.35rem 1rem;
+  font-size: 0.8rem; color: var(--muted);
+  margin-bottom: 1.2rem; padding-bottom: 1.05rem; border-bottom: 1px solid var(--line);
+}
+.ed-meta strong { color: var(--ink); font-weight: 600; }
+.prose {
+  font-size: 1.04rem; line-height: 1.78;
+  color: color-mix(in srgb, var(--ink) 90%, var(--muted));
+}
+.prose p + p { margin-top: 1rem; }
+
+.share {
+  display: flex; flex-wrap: wrap; gap: 0.45rem; align-items: center;
+  margin-top: 1.7rem; padding-top: 1.15rem; border-top: 1px solid var(--line);
+}
+.share > span {
+  width: 100%; font-size: 0.65rem; font-weight: 700;
+  letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted);
+}
+.share a, .share button {
+  display: grid; place-items: center;
+  width: 2.4rem; height: 2.4rem; border-radius: 50%;
+  border: 1px solid var(--line); background: var(--bg); color: var(--muted);
+  transition: transform var(--t) var(--ease), color var(--t) var(--ease),
+    border-color var(--t) var(--ease), box-shadow var(--t) var(--ease), background var(--t) var(--ease);
+}
+.share a:hover, .share button:hover {
+  transform: translateY(-3px);
+  color: var(--accent-deep);
+  border-color: var(--accent);
+  background: var(--surface);
+  box-shadow: 0 10px 22px var(--accent-soft);
+}
+.share svg { width: 0.95rem; height: 0.95rem; fill: currentColor; }
+
+/* grid */
+.grid {
+  display: grid; gap: 0.9rem; grid-template-columns: 1fr;
+}
+@media (min-width: 640px) { .grid { grid-template-columns: 1fr 1fr; } }
+@media (min-width: 960px) { .grid { grid-template-columns: 1fr 1fr 1fr; } }
+
+.card {
+  --d: 0ms;
+  display: flex; flex-direction: column;
+  border: 1px solid var(--line); border-radius: var(--radius);
+  background: var(--surface); overflow: hidden; min-height: 100%;
+  animation: rise 0.55s var(--ease) both;
+  animation-delay: var(--d);
+  transition: transform var(--t) var(--ease), border-color var(--t) var(--ease),
+    box-shadow var(--t) var(--ease);
+}
+.card:nth-child(1) { --d: 40ms; }
+.card:nth-child(2) { --d: 90ms; }
+.card:nth-child(3) { --d: 140ms; }
+.card:nth-child(4) { --d: 190ms; }
+.card:nth-child(5) { --d: 240ms; }
+.card:nth-child(6) { --d: 290ms; }
+.card:hover {
+  transform: translateY(-4px);
+  border-color: color-mix(in srgb, var(--accent) 40%, var(--line));
+  box-shadow: 0 16px 40px rgba(20, 22, 28, 0.08);
+}
+.card-media {
+  position: relative; aspect-ratio: 16 / 10; overflow: hidden; background: var(--bg-deep);
+}
+.card-media img {
+  width: 100%; height: 100%; object-fit: cover;
+  transition: transform 0.75s var(--ease);
+  will-change: transform;
+}
+.card:hover .card-media img { transform: scale(1.05); }
+/* sheen */
+.card-media::before {
+  content: "";
+  position: absolute; inset: 0; z-index: 1;
+  background: linear-gradient(115deg, transparent 38%, rgba(255,255,255,.5) 50%, transparent 62%);
+  transform: translateX(-130%) skewX(-12deg);
+  transition: transform 0.8s var(--ease);
+  pointer-events: none;
+}
+.card:hover .card-media::before { transform: translateX(130%) skewX(-12deg); }
+.card-media::after {
+  content: "";
+  position: absolute; left: 0; bottom: 0; height: 2px; width: 0; z-index: 2;
+  background: var(--accent);
+  transition: width 0.45s var(--ease);
+}
+.card:hover .card-media::after { width: 100%; }
+.card-body {
+  display: flex; flex-direction: column; gap: 0.4rem;
+  padding: 1rem 1.05rem 1.15rem; flex: 1;
+}
+.card-cat {
+  font-size: 0.62rem; font-weight: 700; letter-spacing: 0.12em;
+  text-transform: uppercase; color: var(--accent-deep);
+}
+.card h3 {
+  font-size: 0.98rem; font-weight: 700; letter-spacing: -0.02em; line-height: 1.35;
+  display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+}
+.card p {
+  font-size: 0.82rem; color: var(--muted); line-height: 1.45;
+  display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+}
+.card-src {
+  margin-top: auto; padding-top: 0.55rem;
+  font-size: 0.68rem; font-weight: 700; letter-spacing: 0.06em;
+  text-transform: uppercase; color: var(--muted);
+  transition: color var(--t) var(--ease);
+}
+.card:hover .card-src { color: var(--accent-deep); }
+
+.site-footer {
+  border-top: 1px solid var(--line);
+  padding: 2rem 0 2.75rem;
+  text-align: center;
+  font-size: 0.78rem;
+  color: var(--muted);
+  background: rgba(255, 255, 255, 0.55);
+}
+.site-footer nav {
+  display: flex; flex-wrap: wrap; justify-content: center;
+  gap: 0.75rem 1.15rem; margin-bottom: 0.65rem;
+}
+.site-footer a { color: var(--ink); font-weight: 600; position: relative; }
+.site-footer a::after {
+  content: ""; position: absolute; left: 0; bottom: -2px;
+  width: 0; height: 1px; background: var(--accent);
+  transition: width var(--t) var(--ease);
+}
+.site-footer a:hover::after { width: 100%; }
+
+@media (prefers-reduced-motion: reduce) {
+  .aurora__a, .aurora__b, .aurora__c, .aurora__d, .aurora__sheen,
+  .live i, .ed, .card, .note, .section-label::after, .site-header {
+    animation: none !important;
+  }
+  .aurora__a { transform: translate3d(2%, 3%, 0); }
+  .aurora__b { transform: translate3d(-2%, 2%, 0); }
+  .aurora__c { transform: none; opacity: 0.9; }
+  .aurora__d { opacity: 0.75; }
+  .aurora__sheen { display: none; }
+  *, *::before, *::after { transition-duration: 0.01ms !important; }
+  .card:hover, .share a:hover, .share button:hover,
+  .ed:hover .ed-media img, .card:hover .card-media img, .brand:hover img {
+    transform: none !important;
+  }
+  .card:hover .card-media::before { transform: none; }
+}
+</style>
+</head>
+<body>
+
+<!-- Aurora Field background (pure CSS) -->
+<div class="aurora" aria-hidden="true">
+  <div class="aurora__a"></div>
+  <div class="aurora__b"></div>
+  <div class="aurora__c"></div>
+  <div class="aurora__d"></div>
+  <div class="aurora__sheen"></div>
+</div>
+
+<input type="radio" name="filter" id="f-all" checked>
+<input type="radio" name="filter" id="f-ai">
+<input type="radio" name="filter" id="f-art">
+<input type="radio" name="filter" id="f-robotics">
+<input type="radio" name="filter" id="f-biotech">
+<input type="radio" name="filter" id="f-space">
+<input type="radio" name="filter" id="f-energy">
+<input type="radio" name="filter" id="f-neuro">
+
+<div class="layer">
+  <div class="demo-bar">
+    <span><b>DEMO2 · Aurum Light</b></span>
+    <span>Design desk v2 · local review</span>
+    <a href="REVIEW.html">Brief</a>
+    <a href="../demo1/index.html">DEMO1</a>
+    <a href="../index.html">Live site</a>
+  </div>
+
+  <header class="site-header">
+    <div class="wrap brand">
+      <a href="../index.html" aria-label="Chronicle of Convergence">
+        <img src="../img/logo-mark.png" width="40" height="40" alt="">
+      </a>
+      <div class="brand-text">
+        <strong>Chronicle of Convergence</strong>
+        <span>Culture · society · technology · faith</span>
+      </div>
+      <div class="live" aria-label="Live field signals"><i></i> Live</div>
+    </div>
+  </header>
+
+  <div class="filters">
+    <div class="wrap">
+      <div class="chips" role="radiogroup" aria-label="Filter field signals">
+        <label for="f-all">All</label>
+        <label for="f-ai">AI</label>
+        <label for="f-art">Art</label>
+        <label for="f-robotics">Robotics</label>
+        <label for="f-biotech">Biotech</label>
+        <label for="f-space">Space</label>
+        <label for="f-energy">Energy</label>
+        <label for="f-neuro">Neuro</label>
+      </div>
+    </div>
+  </div>
+
+  <main class="wrap">
+    <p class="note">
+      <strong>Background:</strong> Aurora Field — pure CSS layered blooms (gold + cool), breath, and a faint sheen.
+      Content sits on solid white surfaces so type stays crisp. Motion freezes under reduced-motion.
+    </p>
+
+    <p class="section-label">Daily editorial</p>
+    <article class="ed" id="editorial">
+      <div class="ed-media">
+        <img src="https://images-assets.nasa.gov/image/PIA04921/PIA04921~medium.jpg" alt="" width="1200" height="558" fetchpriority="high" decoding="async">
+      </div>
+      <div class="ed-body">
+        <p class="ed-kicker">Daily · 2026-07-28</p>
+        <h1>Maps You Can Touch</h1>
+        <p class="ed-dek">Cognitive maps in the lab, felt rooms in the gallery, and the civic maps we still argue over.</p>
+        <div class="ed-meta">
+          <span><strong>Dr. Wallace Lynch</strong> · Editor in Chief</span>
+          <span>~318 words</span>
+        </div>
+        <div class="prose">
+          <p>A new AI system is built the way a hippocampus works. It uses cognitive maps and chance calculation so a model can navigate possibility the way memory navigates place. In another lab a robot fingertip reads a coin by color and contour. Knowing is no longer only a score. It is orientation and contact.</p>
+          <p>Chronicle of Convergence is not a product sheet. It is a daily reading of American life where culture, society, technology, and faith already share the same rooms.</p>
+          <p>A map is only as honest as the places it refuses to blank out. Convergence is whether civic maps still leave room for what the finger knows and what the record must keep hard.</p>
+        </div>
+        <div class="share" role="group" aria-label="Share">
+          <span>Share</span>
+          <a href="#" aria-label="Share on X" title="X" onclick="return false"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.744l7.727-8.835L1.254 2.25H8.08l4.253 5.622L18.244 2.25zm-1.161 17.52h1.833L7.084 4.126H5.117L17.083 19.77z"/></svg></a>
+          <a href="#" aria-label="Share on LinkedIn" title="LinkedIn" onclick="return false"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 01-2.063-2.065 2.064 2.064 0 112.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg></a>
+          <a href="#" aria-label="Share on Facebook" title="Facebook" onclick="return false"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M24 12.073C24 5.446 18.627.073 12 .073S0 5.446 0 12.073c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg></a>
+          <a href="#" aria-label="Email" title="Email" onclick="return false"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/></svg></a>
+          <button type="button" aria-label="Copy link" title="Copy link"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M16 1H4c-1.1 0-2 .9-2 2v14h2V3h12V1zm3 4H8c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h11c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2zm0 16H8V7h11v14z"/></svg></button>
+        </div>
+      </div>
+    </article>
+
+    <p class="section-label">Field signals</p>
+    <div class="grid">
+      <a class="card" data-cat="neuro" href="#">
+        <div class="card-media"><img src="https://images-assets.nasa.gov/image/PIA15416/PIA15416~medium.jpg" alt="" loading="lazy" width="640" height="400"></div>
+        <div class="card-body">
+          <span class="card-cat">Neuroscience</span>
+          <h3>Brain-Inspired AI Uses Cognitive Maps</h3>
+          <p>Hippocampal maps and chance calculation — models that navigate possibility like memory.</p>
+          <span class="card-src">Neuroscience News</span>
+        </div>
+      </a>
+      <a class="card" data-cat="robotics" href="#">
+        <div class="card-media"><img src="https://images-assets.nasa.gov/image/PIA01492/PIA01492~medium.jpg" alt="" loading="lazy" width="640" height="400"></div>
+        <div class="card-body">
+          <span class="card-cat">Robotics</span>
+          <h3>Robot Finger Feels in Color</h3>
+          <p>Contact as cognition — ridges, profile, columns a machine will never walk.</p>
+          <span class="card-src">IEEE Spectrum</span>
+        </div>
+      </a>
+      <a class="card" data-cat="space" href="#">
+        <div class="card-media"><img src="https://images-assets.nasa.gov/image/PIA18033/PIA18033~medium.jpg" alt="" loading="lazy" width="640" height="400"></div>
+        <div class="card-body">
+          <span class="card-cat">Space</span>
+          <h3>Upper C-band Auction Lifts GEO</h3>
+          <p>Spectrum clearance as capital for geostationary fleets.</p>
+          <span class="card-src">SpaceNews</span>
+        </div>
+      </a>
+      <a class="card" data-cat="art" href="#">
+        <div class="card-media"><img src="https://images-assets.nasa.gov/image/sts061-98-050/sts061-98-050~medium.jpg" alt="" loading="lazy" width="640" height="400"></div>
+        <div class="card-body">
+          <span class="card-cat">Art</span>
+          <h3>Lucy Sparrow’s Felt Supermarket</h3>
+          <p>Twenty thousand handmade objects — nostalgia you can almost grip.</p>
+          <span class="card-src">Colossal</span>
+        </div>
+      </a>
+      <a class="card" data-cat="energy" href="#">
+        <div class="card-media"><img src="https://images-assets.nasa.gov/image/PIA00122/PIA00122~medium.jpg" alt="" loading="lazy" width="640" height="400"></div>
+        <div class="card-body">
+          <span class="card-cat">Energy</span>
+          <h3>Solar at Night Is Not a Scandal</h3>
+          <p>An old fact staged as revelation. The day already knows the interval.</p>
+          <span class="card-src">Canary Media</span>
+        </div>
+      </a>
+      <a class="card" data-cat="biotech" href="#">
+        <div class="card-media"><img src="https://images-assets.nasa.gov/image/as11-40-5874/as11-40-5874~medium.jpg" alt="" loading="lazy" width="640" height="400"></div>
+        <div class="card-body">
+          <span class="card-cat">Biotech</span>
+          <h3>HIV Funding Falls 18%</h3>
+          <p>UNAIDS names a financing shock. Care thins; risk re-expands.</p>
+          <span class="card-src">STAT News</span>
+        </div>
+      </a>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <nav aria-label="Links">
+        <a href="REVIEW.html">Proposal brief</a>
+        <a href="../demo1/index.html">DEMO1</a>
+        <a href="../index.html">Live desk</a>
+        <a href="../go.html">Link hub</a>
+      </nav>
+      <p>DEMO2 · Aurum Light · Design desk v2 · Aurora Field CSS · Local review only</p>
+    </div>
+  </footer>
+</div>
+</body>
+</html>

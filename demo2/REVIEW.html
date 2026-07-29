@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<meta name="color-scheme" content="light">
+<title>DEMO2 Review — Aurum Light</title>
+<style>
+:root {
+  --bg: #f7f5f0; --card: #fff; --ink: #14161c; --muted: #5e6672;
+  --line: rgba(20,22,28,.08); --accent: #b8922a; --deep: #8a6c1f;
+  --font: system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  font-family: var(--font); background: var(--bg); color: var(--ink);
+  line-height: 1.55; font-size: 15px;
+}
+.wrap { width: min(100% - 2rem, 720px); margin: 0 auto; padding: 2.25rem 0 4rem; }
+h1 { font-size: 1.65rem; font-weight: 700; letter-spacing: -0.02em; margin: 0.4rem 0; }
+h1 em { font-style: normal; color: var(--deep); }
+h2 {
+  font-size: 0.68rem; letter-spacing: 0.12em; text-transform: uppercase;
+  color: var(--muted); font-weight: 700; margin: 1.75rem 0 0.65rem;
+}
+.meta { color: var(--muted); font-size: 0.9rem; }
+.pill {
+  display: inline-block; font-size: 0.65rem; font-weight: 700; letter-spacing: 0.08em;
+  text-transform: uppercase; border: 1px solid var(--line); border-radius: 999px;
+  padding: 0.2rem 0.55rem; margin: 0 0.2rem 0.25rem 0; color: var(--muted); background: #fff;
+}
+.pill.hot { color: var(--deep); border-color: rgba(184,146,42,.4); }
+.card {
+  background: var(--card); border: 1px solid var(--line); border-radius: 12px;
+  padding: 1.15rem 1.2rem; margin: 0.6rem 0;
+  box-shadow: 0 12px 32px rgba(20,22,28,.04);
+}
+.cta {
+  display: inline-flex; margin-top: 0.85rem; padding: 0.7rem 1.15rem;
+  background: var(--ink); color: #fff; font-weight: 700; font-size: 0.88rem;
+  border-radius: 999px; text-decoration: none;
+}
+.cta:hover { opacity: 0.92; }
+ul { margin: 0.35rem 0 0.35rem 1.15rem; }
+li { margin: 0.4rem 0; }
+table { width: 100%; border-collapse: collapse; font-size: 0.88rem; }
+th, td { text-align: left; padding: 0.45rem 0.25rem; border-bottom: 1px solid var(--line); vertical-align: top; }
+th { color: var(--muted); font-size: 0.65rem; text-transform: uppercase; letter-spacing: 0.08em; }
+code { font-family: ui-monospace, Menlo, monospace; font-size: 0.8rem; color: var(--muted); }
+a { color: var(--deep); }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <p>
+    <span class="pill hot">DEMO2</span>
+    <span class="pill">Aurum Light</span>
+    <span class="pill">Design desk v2</span>
+    <span class="pill">Local · no push</span>
+  </p>
+  <h1>Aurum Light — <em>DEMO2</em></h1>
+  <p class="meta">Chief Design Officer Dr. Helena Voss · UI Adrian Cole · UX Anika Shah · Motion Jonas Berg · 2026-07-29</p>
+
+  <div class="card">
+    <strong>Open the visual demo</strong>
+    <p class="meta" style="margin-top:0.5rem">
+      Light-only premium layout. Background uses a dedicated pure CSS <strong>Aurora Field</strong>
+      (soft gold + cool drifts, breath, slow sheen) designed not to fight the content.
+    </p>
+    <a class="cta" href="index.html">Open DEMO2 visual →</a>
+  </div>
+
+  <h2>Background motion (suitable by design)</h2>
+  <div class="card">
+    <table>
+      <thead><tr><th>Layer</th><th>Role</th></tr></thead>
+      <tbody>
+        <tr><td>Base wash</td><td>Warm off-white (static readability)</td></tr>
+        <tr><td>Field A</td><td>Large soft gold bloom — slow translate + scale</td></tr>
+        <tr><td>Field B</td><td>Cool counter-drift — depth without dark</td></tr>
+        <tr><td>Field C</td><td>Upper gold breathe (opacity) near masthead</td></tr>
+        <tr><td>Sheen band</td><td>Very faint horizontal luminance sweep</td></tr>
+      </tbody>
+    </table>
+    <p class="meta" style="margin-top:0.75rem">
+      All moving layers use <code>transform</code> / <code>opacity</code> only. Content sits on solid surfaces.
+      <code>prefers-reduced-motion</code> freezes the field.
+    </p>
+  </div>
+
+  <h2>Vs DEMO1</h2>
+  <div class="card">
+    <ul>
+      <li>New Design desk v2 owns the bar</li>
+      <li>Light only (no dark pass)</li>
+      <li>Background redesigned for calm premium light — not noise grain, not neon</li>
+      <li>Visual page stays clean; this brief holds the FX catalogue</li>
+    </ul>
+  </div>
+
+  <h2>UI/UX in the demo</h2>
+  <div class="card">
+    <ul>
+      <li>Minimal masthead + live pulse</li>
+      <li>Cover-story editorial on white surface</li>
+      <li>Field signals cards: sheen + gold line + lift on hover</li>
+      <li>Category filter: pure CSS radios + <code>:has()</code></li>
+      <li>Icon share under prose</li>
+    </ul>
+  </div>
+
+  <h2>Feedback prompts</h2>
+  <div class="card">
+    <ul>
+      <li>Is Aurora Field background calm enough / too much?</li>
+      <li>Greenlight DEMO2 direction for parallel production port?</li>
+      <li>Accent gold keep or cooler?</li>
+    </ul>
+  </div>
+
+  <h2>Files</h2>
+  <div class="card">
+    <code>CoC/demo2/index.html</code><br>
+    <code>CoC/demo2/REVIEW.html</code><br>
+    <code>CoC/demo2/proposal.yaml</code>
+  </div>
+</div>
+</body>
+</html>

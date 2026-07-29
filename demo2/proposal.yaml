@@ -1,0 +1,58 @@
+# CoC DEMO2 — Design desk v2 (Helena Voss et al.)
+schema: coc.design.proposal/v1
+id: demo2
+revision: 1
+title: "CoC Facelift DEMO2 — Aurum Light"
+path: CoC/demo2/
+status: proposal_for_admin_review
+push: forbidden  # local review unless principal OK
+created: 2026-07-29
+team: IT Team · Design desk v2
+
+authorship:
+  cdo: Dr. Helena Voss
+  ui: Adrian Cole
+  ux: Anika Shah
+  graphic: Isabelle Laurent
+  digital_art: Hana Okada
+  motion: Jonas Berg
+  a11y: Devon Blake
+  web_partner: Nora Kim
+
+vs_demo1:
+  - New design desk owns this pass
+  - Light only (hard rule)
+  - Background motion redesigned for calm premium (not dark, not noisy grain)
+  - Cleaner chrome; less legend clutter on visual (FX listed in REVIEW)
+
+north_star: >
+  Aurum Light — bright paper-white product UI with a living but quiet light field
+  behind content. Motion serves atmosphere; content stays sharp and readable.
+
+background_motion:
+  name: Aurora Field (pure CSS)
+  layers:
+    - base_wash: static warm off-white gradient
+    - field_a: large soft gold radial, slow translate + scale
+    - field_b: soft cool radial, counter-phase drift
+    - field_c: faint gold bloom near masthead, breathe opacity
+    - sheen_band: optional slow horizontal luminance sweep (very low opacity)
+  constraints:
+    - transform + opacity only on moving layers (compositor-friendly)
+    - never obscure text contrast
+    - prefers-reduced-motion: freeze fields to static positions
+    - no dark canvas, no noise texture, no neon
+
+design_tokens:
+  bg: "#F7F5F0"
+  surface: "#FFFFFF"
+  ink: "#14161C"
+  muted: "#5E6672"
+  line: "rgba(20,22,28,0.08)"
+  accent: "#B8922A"
+  radius: "12px"
+
+files:
+  visual: CoC/demo2/index.html
+  brief: CoC/demo2/REVIEW.html
+  this: CoC/demo2/proposal.yaml
