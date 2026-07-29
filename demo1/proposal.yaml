@@ -1,174 +1,76 @@
-# CoC website — major UI/UX facelift proposal (DEMO1)
-# Status: local admin review only — do NOT push to production
+# CoC DEMO1 — re-proposal (admin rejected v1 as uglier)
 schema: coc.design.proposal/v1
 id: demo1
-title: "CoC Facelift Demo 1 — Chronicle Paper System"
+revision: 2
+title: "CoC Facelift DEMO1 r2 — Signal Minimal"
 path: CoC/demo1/
 status: proposal_for_admin_review
-push: forbidden  # local repository only until principal OK
+push: forbidden
 created: 2026-07-29
+revised: 2026-07-29
 team: IT Team · Design / UI·UX desk
 
-authorship:
-  chair: Sofia Reyes — Head of Design & Design Systems
-  ui: Kenji Watanabe — Principal UI Designer
-  ux: Maya Ellison — Principal UX Designer
-  graphic: Theo Marchand — Principal Graphic Designer
-  digital_art: Rina Sato — Lead Digital Artist
-  motion: Elias Moreau — Motion & Interaction Artist
-  a11y: Camille Okoye — Accessibility & Inclusive Design Lead
-  web_implement_partner: Nora Kim — Web & Site Engineering Lead
-  release_gate: Marcus Hale — Release & Change Manager
-  cto: Dr. Amara Okonkwo
+critique_of_r1: >
+  r1 (Chronicle Paper) over-decorated: grain, heavy shadows, busy chips, warm clutter.
+  Read as costume “magazine,” not premium product. Principal: uglier than live.
 
-# ---------------------------------------------------------------------------
-# PROBLEM (why facelift)
-# ---------------------------------------------------------------------------
-problem:
-  - Homepage feels dense and “ops console” in places; chronicle identity is under-expressed
-  - Editorial and Field signals compete for the same visual weight
-  - Share row and category pills improved but still lack system cohesion
-  - Mobile reading length and card rhythm need a magazine-grade pass
-  - Image-dedup and hero reuse fixed functionally; visual hierarchy still weak
-  - Admin/editor paths are separate; public demo must not touch editor contracts
+north_star_r2: >
+  Signal Minimal — one surface, one accent, maximum air. Feels like a 2026 flagship
+  product UI (Linear / Vercel / Arc-class restraint) applied to a cultural chronicle.
+  Futuristic without neon noise. Every rule earns its pixels.
 
-# ---------------------------------------------------------------------------
-# NORTH STAR
-# ---------------------------------------------------------------------------
-north_star: >
-  Chronicle of Convergence should feel like a living American desk: warm paper,
-  quiet gold, and serious type — closer to a modern cultural daily than a SaaS
-  dashboard. Speed of scan remains; dignity of read improves.
+design_principles:
+  - Minimal: remove before add
+  - Premium: precise type, hairline rules, no texture noise
+  - Futuristic: dark canvas optional accents, micro CSS motion only
+  - Efficient: pure CSS animation; :has() filters; no animation libraries
+  - Accessible: prefers-reduced-motion; focus-visible; aria on icons
 
-brand_locks_preserved:
-  - Gold-first warm paper palette (not dark-mode default)
-  - Serif for editorial voice; sans for UI chrome
-  - Host never on camera; quiet facilitator brand
-  - Insight grammar: convergence of A and B
-  - Path S free stack (no paid design SaaS without COST GATE)
-
-# ---------------------------------------------------------------------------
-# DESIGN SYSTEM (demo1 tokens)
-# ---------------------------------------------------------------------------
 design_system:
-  name: Chronicle Paper System v1
+  name: Signal Minimal v1
+  mode: dark_premium  # default demo; light inversion documented as phase 2
   tokens:
-    bg: "#F1EBE0"
-    paper: "#FCFAF6"
-    ink: "#161310"
-    muted: "#6B6359"
-    line: "#D6CEBF"
-    gold: "#9A7B3C"
-    gold_deep: "#6B5328"
-    accent_wash: "rgba(154,123,60,0.10)"
-    radius_card: "14px"
-    radius_pill: "999px"
-    shadow: "0 1px 2px rgba(22,19,16,.04), 0 18px 40px rgba(22,19,16,.07)"
-    max_read: "40rem"
-    max_shell: "1120px"
+    bg: "#07080a"
+    surface: "#0e1014"
+    elevated: "#14181f"
+    ink: "#f2f4f7"
+    muted: "#8b93a0"
+    line: "rgba(255,255,255,0.08)"
+    accent: "#c9a227"   # restrained gold — brand lock, not chocolate brown
+    accent_soft: "rgba(201,162,39,0.14)"
+    radius: "12px"
+    max: "1080px"
   type:
-    display: "Libre Baskerville (serif) — titles, dek, prose"
-    ui: "Source Sans 3 (sans) — nav, meta, controls"
-    scale:
-      kicker: "0.68rem / tracking 0.16em"
-      h1_brand: "clamp(1.5rem, 3vw, 1.9rem)"
-      editorial_title: "clamp(1.75rem, 4vw, 2.35rem)"
-      prose: "1.08rem / 1.82"
-      card_title: "1.02rem / 1.35"
+    ui: "system-ui, SF Pro, Segoe UI — zero webfont cost on chrome"
+    display: "optional one family for titles only (loaded once)"
   motion:
-    rule: "Respect prefers-reduced-motion; no blocking animation"
-    micro: "share success, card hover lift 1px, hero fade only"
+    engine: pure CSS
+    primitives:
+      - fade-up entrance (transform + opacity, 400ms)
+      - hairline accent grow on hover
+      - card lift 2px + border accent
+      - sticky nav backdrop-filter
+    rules:
+      - transform/opacity only (compositor-friendly)
+      - @media (prefers-reduced-motion: reduce) disables
 
-# ---------------------------------------------------------------------------
-# UX STRUCTURE
-# ---------------------------------------------------------------------------
 ux:
-  information_architecture:
-    - Masthead: logo · wordmark · one-line mandate · live scan meta
-    - Sticky category rail (pills) — Field signals filter only
-    - Primary: Daily Editorial (cover story)
-    - Secondary: Field signals grid
-    - Footer: legal · go hub · contact · llms.txt link
-  primary_job: "Read today’s editorial in comfort; scan field signals next"
-  secondary_job: "Filter by category; open source or editorial permalink; share"
-  flows_improved:
-    - First paint: editorial above fold on desktop; clear kicker + date
-    - Share: icon-only bar BELOW prose (already shipped); demo refines spacing
-    - Category filter: sticky, higher contrast active state, aria-pressed
-    - Cards: consistent 16:10 media, title clamp 3 lines, source strip
-  non_goals_demo1:
-    - No editor.html redesign in this demo
-    - No CMS change; static mock data only
-    - No dark mode ship (document as phase 2 option)
-    - No paid font licenses
-
-# ---------------------------------------------------------------------------
-# UI FACELIFT (what admin will see in demo1/index.html)
-# ---------------------------------------------------------------------------
-ui_changes:
-  masthead:
-    - Centered brand with larger mark and refined tagline band
-    - Thin gold rule under masthead; less “app header”
-  editorial:
-    - Cover-story card: full-bleed hero, credit ribbon, reading column centered
-    - Byline row: author left, word count + date right
-    - Drop cap gold-deep; more air between paragraphs
-    - Share dock under prose with icon wells on paper wash
-  field_signals:
-    - Section header with gold rule and live badge
-    - Responsive grid: 1 / 2 / 3 columns
-    - Cards: soft radius, media first, category chip on image corner
-    - Hover: lift + gold border, never loud color spam
-  chrome:
-    - Sticky cats with blur + paper wash
-    - Footer quieter; link hub emphasized once
-  a11y:
-    - Focus rings gold 2px
-    - Icon share aria-labels retained
-    - Contrast check on muted/gold over paper
-    - prefers-reduced-motion disables lift/fade
-
-# ---------------------------------------------------------------------------
-# PHASES (if principal greenlights)
-# ---------------------------------------------------------------------------
-implementation_phases:
-  P0_demo_review:
-    - This folder: CoC/demo1/ (local only)
-    - Admin opens demo1/index.html + demo1/REVIEW.html offline
-  P1_token_port:
-    - Port tokens into production index.html CSS variables
-    - Parallel branch/folder only (change_control_sop)
-  P2_editorial_shell:
-    - Apply cover-story editorial layout to live desk + e/ generator
-  P3_field_signals:
-    - Card media ratio, chip-on-image, grid breakpoints
-  P4_polish:
-    - Motion micro, empty states (Digital Art), a11y audit sign-off
-
-# ---------------------------------------------------------------------------
-# SUCCESS CRITERIA
-# ---------------------------------------------------------------------------
-success:
-  - Principal can state in one sentence: “This feels more like a chronicle”
-  - Editorial readable without squint on mobile (prose ≥16px effective)
-  - Field signals scannable in ≤5 seconds for 6 cards
-  - No regression of Path S SEO (canonical, JSON-LD, /e/ permalinks)
-  - Dana QA + Camille a11y sign-off before Release go
-  - No production overwrite until principal cutover language
-
-# ---------------------------------------------------------------------------
-# OPEN QUESTIONS FOR ADMIN
-# ---------------------------------------------------------------------------
-admin_feedback_prompts:
-  - Keep paper-warm only, or explore optional evening “ink” theme later?
-  - Field signals: 2-column or 3-column default on desktop?
-  - Editorial hero: full-bleed edge-to-edge or inset with margin?
-  - Category colors: keep muted earth tones or slightly stronger chips?
-  - Logo: marble mark primary only, or gold mark on paper?
-  - Any hard “never change” UI elements beyond brand locks?
+  hierarchy:
+    - Brand line (wordmark + live pulse)
+    - Editorial as single hero column
+    - Field signals as equal minimal cards
+  jobs:
+    primary: Read editorial without chrome noise
+    secondary: Filter signals; share; open source
+  pure_css_filter: radio + :has() — no JS required for category filter
 
 files:
-  review: CoC/demo1/REVIEW.html
-  visual_demo: CoC/demo1/index.html
-  proposal: CoC/demo1/proposal.yaml
-  open: "open CoC/demo1/REVIEW.html (or demo1/index.html) in Safari"
+  visual: CoC/demo1/index.html
+  brief: CoC/demo1/REVIEW.html
+  this: CoC/demo1/proposal.yaml
+
+admin_prompts:
+  - Dark premium OK as default, or force light-only?
+  - Accent: keep gold #c9a227 or shift cooler (silver/cyan)?
+  - Card density: comfortable vs compact?
+  - Ship r2 direction if better than live + r1?

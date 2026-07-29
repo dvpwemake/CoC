@@ -2,444 +2,713 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=5">
+<meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="robots" content="noindex,nofollow">
-<title>DEMO1 — Chronicle Paper System · CoC Facelift (local review)</title>
+<meta name="color-scheme" content="dark">
+<title>DEMO1 r2 — Signal Minimal · CoC (local review)</title>
 <link rel="icon" href="../img/logo-mark.png" type="image/png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Source+Sans+3:ital,wght@0,300;0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&display=swap" rel="stylesheet">
 <style>
-/* Chronicle Paper System v1 — DEMO1 tokens */
-:root{
-  --bg:#F1EBE0;
-  --bg-deep:#E8E1D4;
-  --paper:#FCFAF6;
-  --ink:#161310;
-  --muted:#6B6359;
-  --line:#D6CEBF;
-  --line-soft:#E5DDD0;
-  --gold:#9A7B3C;
-  --gold-deep:#6B5328;
-  --gold-wash:rgba(154,123,60,.10);
-  --shadow:0 1px 2px rgba(22,19,16,.04), 0 18px 40px rgba(22,19,16,.07);
-  --radius:14px;
-  --shell:1120px;
-  --read:40rem;
-  --serif:'Libre Baskerville',Georgia,serif;
-  --sans:'Source Sans 3',system-ui,sans-serif;
-  --ai:#4a7c8c;--art:#7a6848;--robotics:#8b5a6e;--biotech:#5a7a5a;
-  --space:#6a6288;--energy:#8a7a48;--neuro:#8a6550;--editorial:#9A7B3C;
+/* ==========================================================================
+   Signal Minimal v1 — DEMO1 r2
+   Pure CSS motion · compositor-friendly · :has() filters · no JS required
+   ========================================================================== */
+:root {
+  --bg: #07080a;
+  --surface: #0e1014;
+  --elevated: #14181f;
+  --ink: #f2f4f7;
+  --muted: #8b93a0;
+  --line: rgba(255, 255, 255, 0.08);
+  --line-strong: rgba(255, 255, 255, 0.14);
+  --accent: #c9a227;
+  --accent-soft: rgba(201, 162, 39, 0.14);
+  --radius: 12px;
+  --max: 1040px;
+  --ease: cubic-bezier(0.22, 1, 0.36, 1);
+  --t: 0.35s;
+  --font-ui: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+  --font-display: "Instrument Serif", Georgia, "Times New Roman", serif;
 }
-*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
-html{-webkit-text-size-adjust:100%}
-body{
-  background:var(--bg);color:var(--ink);font-family:var(--sans);font-size:17px;line-height:1.55;
-  -webkit-font-smoothing:antialiased;
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
+
+body {
+  min-height: 100dvh;
+  font-family: var(--font-ui);
+  font-size: 15px;
+  line-height: 1.5;
+  color: var(--ink);
+  background: var(--bg);
+  /* subtle radial depth — no noise texture */
   background-image:
-    radial-gradient(ellipse 100% 60% at 50% -15%, #faf6ee 0%, transparent 50%),
-    url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.03'/%3E%3C/svg%3E");
-}
-a{color:inherit;text-decoration:none}
-img{max-width:100%;display:block}
-::selection{background:var(--gold-wash)}
-button{font:inherit}
-
-/* Demo banner */
-.demo-banner{
-  background:var(--ink);color:var(--paper);font-size:.72rem;letter-spacing:.08em;text-transform:uppercase;
-  text-align:center;padding:.55rem 1rem;font-weight:600;
-}
-.demo-banner a{color:var(--gold);text-decoration:underline;text-underline-offset:2px;margin:0 .35rem}
-.demo-banner strong{color:#fff;font-weight:700}
-
-.shell{max-width:var(--shell);margin:0 auto;padding:0 1.25rem}
-@media(min-width:768px){.shell{padding:0 1.75rem}}
-
-/* Masthead */
-.mast{
-  padding:2.25rem 0 1.5rem;text-align:center;
-  border-bottom:1px solid var(--line);
-  background:linear-gradient(180deg,rgba(252,250,246,.9),rgba(241,235,224,.35));
-}
-.mast-inner{display:flex;flex-direction:column;align-items:center;gap:.85rem}
-.mast-logo{width:56px;height:56px;object-fit:contain;filter:drop-shadow(0 1px 2px rgba(0,0,0,.06))}
-.mast h1{
-  font-family:var(--serif);font-weight:700;font-size:clamp(1.5rem,3.2vw,1.95rem);
-  letter-spacing:-.02em;line-height:1.2;
-}
-.mast .tag{
-  font-size:.68rem;letter-spacing:.16em;text-transform:uppercase;color:var(--gold-deep);font-weight:600;
-}
-.mast .exec{
-  max-width:32rem;font-size:.95rem;color:var(--muted);line-height:1.55;margin-top:.15rem;
-}
-.mast-meta{
-  display:flex;flex-wrap:wrap;justify-content:center;gap:.5rem;margin-top:.35rem;
-  font-size:.72rem;color:var(--muted);
-}
-.live-pill{
-  display:inline-flex;align-items:center;gap:.35rem;
-  border:1px solid var(--line);background:var(--paper);border-radius:999px;padding:.2rem .65rem;
-}
-.live-pill i{width:6px;height:6px;border-radius:50%;background:var(--gold);display:block}
-.gold-rule{height:2px;width:3.5rem;background:linear-gradient(90deg,transparent,var(--gold),transparent);margin:.35rem auto 0;border-radius:2px}
-
-/* Sticky cats */
-.cats-wrap{
-  position:sticky;top:0;z-index:40;
-  background:rgba(241,235,224,.92);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);
-  border-bottom:1px solid var(--line);
-}
-.cats{
-  display:flex;gap:.4rem;overflow-x:auto;padding:.7rem 0;scrollbar-width:none;
-}
-.cats::-webkit-scrollbar{display:none}
-.cat{
-  appearance:none;border:1px solid var(--line);background:var(--paper);color:var(--muted);
-  font-size:.66rem;font-weight:600;letter-spacing:.08em;text-transform:uppercase;
-  padding:.4rem .75rem;border-radius:999px;cursor:pointer;white-space:nowrap;
-  transition:background .15s,color .15s,border-color .15s,transform .12s;
-}
-.cat:hover{color:var(--ink);border-color:#c4b8a4}
-.cat[aria-pressed="true"],.cat.active{
-  background:var(--ink);color:var(--paper);border-color:var(--ink);
-}
-.cat:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
-
-main{padding:1.75rem 0 3.5rem}
-
-/* Section heads */
-.sec-head{
-  display:flex;align-items:baseline;gap:1rem;margin:0 0 1.15rem;
-}
-.sec-head h2{
-  font-family:var(--serif);font-size:1.35rem;font-weight:700;letter-spacing:-.015em;
-}
-.sec-head .line{flex:1;height:1px;background:linear-gradient(90deg,var(--line),transparent)}
-.badge{
-  font-size:.62rem;letter-spacing:.1em;text-transform:uppercase;font-weight:600;
-  color:var(--gold-deep);border:1px solid var(--line);padding:.2rem .55rem;border-radius:999px;background:var(--paper);
+    radial-gradient(1200px 600px at 50% -20%, rgba(201, 162, 39, 0.06), transparent 55%),
+    radial-gradient(800px 400px at 100% 100%, rgba(80, 120, 200, 0.04), transparent 50%);
+  -webkit-font-smoothing: antialiased;
 }
 
-/* Editorial cover story */
-.ed{
-  background:var(--paper);border:1px solid var(--line);border-radius:var(--radius);
-  box-shadow:var(--shadow);overflow:hidden;margin-bottom:2.75rem;
-}
-.ed-hero{
-  position:relative;aspect-ratio:16/9;max-height:440px;background:var(--bg-deep);overflow:hidden;
-}
-.ed-hero img{width:100%;height:100%;object-fit:cover;filter:saturate(.94) contrast(1.02)}
-.ed-credit{
-  font-size:.7rem;color:var(--muted);padding:.5rem 1.35rem;
-  background:linear-gradient(180deg,var(--bg-deep),#ebe4d6);border-bottom:1px solid var(--line);
-}
-.ed-body{max-width:var(--read);margin:0 auto;padding:1.75rem 1.35rem 1.5rem}
-@media(min-width:640px){.ed-body{padding:2.15rem 2.25rem 1.65rem}}
-.ed-kicker{
-  font-size:.68rem;letter-spacing:.16em;text-transform:uppercase;color:var(--gold-deep);font-weight:600;margin:0 0 .65rem;
-}
-.ed-body h2{
-  font-family:var(--serif);font-size:clamp(1.7rem,3.8vw,2.3rem);font-weight:700;
-  line-height:1.2;letter-spacing:-.025em;margin:0 0 .55rem;
-}
-.ed-dek{
-  font-family:var(--serif);font-style:italic;font-size:1.08rem;color:var(--muted);line-height:1.5;margin:0 0 1.15rem;
-}
-.ed-byline-row{
-  display:flex;flex-wrap:wrap;justify-content:space-between;gap:.4rem 1rem;
-  padding-bottom:1.05rem;margin-bottom:1.25rem;border-bottom:1px solid var(--line-soft);
-}
-.ed-byline{font-family:var(--serif);font-style:italic;font-size:.95rem}
-.ed-byline .role{
-  font-style:normal;font-family:var(--sans);font-size:.66rem;letter-spacing:.1em;text-transform:uppercase;
-  color:var(--gold-deep);font-weight:600;margin-left:.4rem;
-}
-.ed-meta{font-size:.66rem;letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
-.ed-prose{font-family:var(--serif);font-size:1.08rem;line-height:1.82;color:#2a2520}
-.ed-prose p{margin:0 0 1.15rem}
-.ed-prose p:last-child{margin-bottom:0}
-.ed-prose p:first-of-type::first-letter{
-  font-size:2.85rem;float:left;line-height:.88;padding:.05rem .28rem 0 0;font-weight:700;color:var(--gold-deep);
-}
-.ed-share-wrap{margin-top:1.85rem;padding-top:1.2rem;border-top:1px solid var(--line-soft)}
-.ed-share-label{display:block;font-size:.64rem;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);font-weight:600;margin:0 0 .7rem}
-.ed-share{display:flex;flex-wrap:wrap;gap:.45rem}
-.share-btn{
-  width:2.5rem;height:2.5rem;border-radius:999px;border:1px solid var(--line);
-  background:var(--bg);display:inline-flex;align-items:center;justify-content:center;
-  color:var(--ink);cursor:pointer;transition:transform .12s,border-color .15s,color .15s,background .15s;
-}
-.share-btn:hover{transform:translateY(-1px);border-color:var(--gold-deep);color:var(--gold-deep);background:var(--paper)}
-.share-btn:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
-.share-btn svg{width:1.05rem;height:1.05rem;fill:currentColor}
-.ed-links{margin-top:.9rem;display:flex;flex-wrap:wrap;gap:.75rem 1.15rem;font-size:.84rem}
-.ed-links a{color:var(--gold-deep);font-weight:500}
-.ed-links a:hover{text-decoration:underline;text-underline-offset:2px}
+img { display: block; max-width: 100%; height: auto; }
+a { color: inherit; text-decoration: none; }
+button, input { font: inherit; color: inherit; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
+::selection { background: var(--accent-soft); color: var(--ink); }
 
-/* Field signals */
-.news-grid{
-  display:grid;gap:1.15rem;
-  grid-template-columns:1fr;
+/* --- layout --- */
+.wrap {
+  width: min(100% - 2rem, var(--max));
+  margin-inline: auto;
 }
-@media(min-width:640px){.news-grid{grid-template-columns:1fr 1fr}}
-@media(min-width:980px){.news-grid{grid-template-columns:1fr 1fr 1fr}}
-.n-card{
-  display:flex;flex-direction:column;background:var(--paper);border:1px solid var(--line);
-  border-radius:var(--radius);overflow:hidden;box-shadow:0 1px 2px rgba(22,19,16,.03);
-  transition:transform .15s,box-shadow .15s,border-color .15s;height:100%;
-}
-.n-card:hover{
-  transform:translateY(-2px);border-color:#c9bea8;
-  box-shadow:0 4px 16px rgba(22,19,16,.08);
-}
-@media(prefers-reduced-motion:reduce){
-  .n-card:hover,.share-btn:hover{transform:none}
-}
-.n-media{position:relative;aspect-ratio:16/10;background:var(--bg-deep);overflow:hidden}
-.n-media img{width:100%;height:100%;object-fit:cover}
-.n-chip{
-  position:absolute;left:.65rem;top:.65rem;z-index:1;
-  font-size:.6rem;letter-spacing:.08em;text-transform:uppercase;font-weight:700;
-  padding:.28rem .5rem;border-radius:999px;background:rgba(252,250,246,.94);color:var(--ink);
-  border:1px solid rgba(214,206,191,.9);backdrop-filter:blur(6px);
-}
-.n-chip.ai{color:var(--ai)}.n-chip.art{color:var(--art)}.n-chip.robotics{color:var(--robotics)}
-.n-chip.biotech{color:var(--biotech)}.n-chip.space{color:var(--space)}.n-chip.energy{color:var(--energy)}
-.n-chip.neuro,.n-chip.neuroscience{color:var(--neuro)}.n-chip.editorial{color:var(--editorial)}
-.n-body{padding:1rem 1.05rem 1.15rem;display:flex;flex-direction:column;flex:1;gap:.45rem}
-.n-title{font-family:var(--serif);font-size:1.02rem;font-weight:700;line-height:1.35;letter-spacing:-.01em;
-  display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
-.n-sum{font-size:.88rem;color:var(--muted);line-height:1.5;
-  display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
-.n-src{margin-top:auto;padding-top:.55rem;font-size:.72rem;font-weight:600;letter-spacing:.04em;
-  text-transform:uppercase;color:var(--gold-deep)}
 
-/* Footer */
-.site-foot{
-  border-top:1px solid var(--line);padding:2rem 0 2.5rem;text-align:center;
-  font-size:.8rem;color:var(--muted);
+/* --- demo strip --- */
+.demo-bar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem 1rem;
+  padding: 0.55rem 1rem;
+  font-size: 0.7rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--muted);
+  border-bottom: 1px solid var(--line);
+  background: rgba(0, 0, 0, 0.35);
 }
-.site-foot a{color:var(--gold-deep);margin:0 .45rem}
-.site-foot .brand-line{font-family:var(--serif);font-size:.95rem;color:var(--ink);margin-bottom:.5rem}
+.demo-bar b { color: var(--accent); font-weight: 600; }
+.demo-bar a {
+  color: var(--ink);
+  border-bottom: 1px solid var(--line-strong);
+  transition: color var(--t) var(--ease), border-color var(--t) var(--ease);
+}
+.demo-bar a:hover { color: var(--accent); border-color: var(--accent); }
 
-/* Compare note */
-.compare{
-  margin:0 0 1.5rem;padding:.85rem 1rem;border-radius:10px;border:1px dashed var(--line);
-  background:rgba(252,250,246,.65);font-size:.82rem;color:var(--muted);
+/* --- header --- */
+.site-header {
+  padding: 2.5rem 0 1.75rem;
+  border-bottom: 1px solid var(--line);
 }
-.compare strong{color:var(--ink)}
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 0.85rem;
+}
+.brand img {
+  width: 36px;
+  height: 36px;
+  border-radius: 8px;
+  opacity: 0.95;
+}
+.brand-text { display: grid; gap: 0.15rem; }
+.brand-text strong {
+  font-size: 0.95rem;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+.brand-text span {
+  font-size: 0.75rem;
+  color: var(--muted);
+  letter-spacing: 0.02em;
+}
+.pulse {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  margin-left: auto;
+  font-size: 0.7rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+.pulse::before {
+  content: "";
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--accent);
+  box-shadow: 0 0 0 0 var(--accent-soft);
+  animation: pulse 2.4s var(--ease) infinite;
+}
+
+@keyframes pulse {
+  0% { box-shadow: 0 0 0 0 var(--accent-soft); opacity: 1; }
+  70% { box-shadow: 0 0 0 10px transparent; opacity: 0.85; }
+  100% { box-shadow: 0 0 0 0 transparent; opacity: 1; }
+}
+
+/* --- category filter: pure CSS radios + :has() --- */
+.filters {
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  padding: 0.75rem 0;
+  margin-bottom: 0.25rem;
+  background: color-mix(in srgb, var(--bg) 86%, transparent);
+  backdrop-filter: blur(16px) saturate(1.2);
+  -webkit-backdrop-filter: blur(16px) saturate(1.2);
+  border-bottom: 1px solid var(--line);
+}
+
+/* hide native radios; label = chip */
+.filters input {
+  position: absolute;
+  opacity: 0;
+  pointer-events: none;
+  width: 1px;
+  height: 1px;
+}
+.chips {
+  display: flex;
+  gap: 0.4rem;
+  overflow-x: auto;
+  scrollbar-width: none;
+  padding-block: 0.15rem;
+}
+.chips::-webkit-scrollbar { display: none; }
+.chips label {
+  flex: 0 0 auto;
+  cursor: pointer;
+  padding: 0.4rem 0.8rem;
+  border-radius: 999px;
+  border: 1px solid var(--line);
+  background: transparent;
+  color: var(--muted);
+  font-size: 0.68rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  transition:
+    color var(--t) var(--ease),
+    border-color var(--t) var(--ease),
+    background var(--t) var(--ease),
+    transform var(--t) var(--ease);
+}
+.chips label:hover {
+  color: var(--ink);
+  border-color: var(--line-strong);
+}
+/* active via :has on parent — applied when matching radio checked */
+body:has(#f-all:checked) label[for="f-all"],
+body:has(#f-ai:checked) label[for="f-ai"],
+body:has(#f-art:checked) label[for="f-art"],
+body:has(#f-robotics:checked) label[for="f-robotics"],
+body:has(#f-biotech:checked) label[for="f-biotech"],
+body:has(#f-space:checked) label[for="f-space"],
+body:has(#f-energy:checked) label[for="f-energy"],
+body:has(#f-neuro:checked) label[for="f-neuro"] {
+  color: var(--bg);
+  background: var(--ink);
+  border-color: var(--ink);
+}
+
+/* hide cards by category when not selected */
+body:has(#f-ai:checked) .card:not([data-cat="ai"]),
+body:has(#f-art:checked) .card:not([data-cat="art"]),
+body:has(#f-robotics:checked) .card:not([data-cat="robotics"]),
+body:has(#f-biotech:checked) .card:not([data-cat="biotech"]),
+body:has(#f-space:checked) .card:not([data-cat="space"]),
+body:has(#f-energy:checked) .card:not([data-cat="energy"]),
+body:has(#f-neuro:checked) .card:not([data-cat="neuro"]) {
+  display: none;
+}
+
+/* --- sections --- */
+main { padding: 2rem 0 4rem; }
+
+.section-label {
+  display: flex;
+  align-items: baseline;
+  gap: 0.75rem;
+  margin: 0 0 1.1rem;
+  font-size: 0.68rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+.section-label::after {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: var(--line);
+}
+
+/* --- editorial --- */
+.editorial {
+  margin-bottom: 3rem;
+  animation: rise 0.55s var(--ease) both;
+}
+@keyframes rise {
+  from { opacity: 0; transform: translateY(12px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.ed {
+  display: grid;
+  gap: 0;
+  border: 1px solid var(--line);
+  border-radius: calc(var(--radius) + 2px);
+  background: var(--surface);
+  overflow: hidden;
+  transition: border-color var(--t) var(--ease);
+}
+.ed:hover { border-color: var(--line-strong); }
+
+.ed-media {
+  position: relative;
+  aspect-ratio: 21 / 9;
+  background: var(--elevated);
+  overflow: hidden;
+}
+.ed-media img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 0.92;
+  transition: transform 0.8s var(--ease), opacity var(--t) var(--ease);
+}
+.ed:hover .ed-media img {
+  transform: scale(1.03);
+  opacity: 1;
+}
+.ed-media::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to top, var(--surface) 0%, transparent 45%);
+  pointer-events: none;
+}
+
+.ed-body {
+  padding: 1.5rem 1.35rem 1.75rem;
+  max-width: 40rem;
+}
+@media (min-width: 720px) {
+  .ed-body { padding: 1.75rem 2rem 2rem; }
+}
+
+.ed-kicker {
+  font-size: 0.68rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--accent);
+  font-weight: 600;
+  margin-bottom: 0.75rem;
+}
+
+.ed h1 {
+  font-family: var(--font-display);
+  font-weight: 400;
+  font-size: clamp(2rem, 5vw, 2.75rem);
+  line-height: 1.12;
+  letter-spacing: -0.02em;
+  margin-bottom: 0.65rem;
+}
+
+.ed-dek {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: 1.15rem;
+  color: var(--muted);
+  line-height: 1.4;
+  margin-bottom: 1.15rem;
+}
+
+.ed-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 1rem;
+  font-size: 0.78rem;
+  color: var(--muted);
+  margin-bottom: 1.35rem;
+  padding-bottom: 1.15rem;
+  border-bottom: 1px solid var(--line);
+}
+.ed-meta strong { color: var(--ink); font-weight: 500; }
+
+.prose {
+  font-size: 1.02rem;
+  line-height: 1.75;
+  color: color-mix(in srgb, var(--ink) 92%, var(--muted));
+}
+.prose p + p { margin-top: 1rem; }
+
+/* share — minimal icon wells */
+.share {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.45rem;
+  margin-top: 1.75rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--line);
+}
+.share > span {
+  width: 100%;
+  font-size: 0.65rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--muted);
+  font-weight: 600;
+  margin-bottom: 0.15rem;
+}
+.share a,
+.share button {
+  display: grid;
+  place-items: center;
+  width: 2.35rem;
+  height: 2.35rem;
+  border-radius: 50%;
+  border: 1px solid var(--line);
+  background: transparent;
+  color: var(--muted);
+  cursor: pointer;
+  transition:
+    color var(--t) var(--ease),
+    border-color var(--t) var(--ease),
+    background var(--t) var(--ease),
+    transform var(--t) var(--ease);
+}
+.share a:hover,
+.share button:hover {
+  color: var(--ink);
+  border-color: var(--accent);
+  background: var(--accent-soft);
+  transform: translateY(-2px);
+}
+.share svg { width: 0.95rem; height: 0.95rem; fill: currentColor; }
+
+/* --- field signals grid --- */
+.grid {
+  display: grid;
+  gap: 0.85rem;
+  grid-template-columns: 1fr;
+}
+@media (min-width: 640px) {
+  .grid { grid-template-columns: 1fr 1fr; }
+}
+@media (min-width: 960px) {
+  .grid { grid-template-columns: 1fr 1fr 1fr; }
+}
+
+.card {
+  --delay: 0ms;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--surface);
+  overflow: hidden;
+  min-height: 100%;
+  animation: rise 0.5s var(--ease) both;
+  animation-delay: var(--delay);
+  transition:
+    border-color var(--t) var(--ease),
+    transform var(--t) var(--ease),
+    background var(--t) var(--ease);
+}
+.card:hover {
+  border-color: color-mix(in srgb, var(--accent) 45%, var(--line));
+  transform: translateY(-3px);
+  background: var(--elevated);
+}
+.card:hover .card-media img { transform: scale(1.04); }
+
+.card-media {
+  aspect-ratio: 16 / 10;
+  overflow: hidden;
+  background: var(--elevated);
+  position: relative;
+}
+.card-media img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 0.88;
+  transition: transform 0.7s var(--ease), opacity var(--t) var(--ease);
+}
+.card:hover .card-media img { opacity: 1; }
+
+/* thin accent bar — grows on hover */
+.card-media::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 2px;
+  width: 0;
+  background: var(--accent);
+  transition: width 0.45s var(--ease);
+}
+.card:hover .card-media::after { width: 100%; }
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+  gap: 0.45rem;
+  padding: 1rem 1.05rem 1.15rem;
+  flex: 1;
+}
+.card-cat {
+  font-size: 0.62rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+.card h3 {
+  font-size: 0.98rem;
+  font-weight: 600;
+  letter-spacing: -0.015em;
+  line-height: 1.35;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.card p {
+  font-size: 0.82rem;
+  color: var(--muted);
+  line-height: 1.45;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.card-src {
+  margin-top: auto;
+  padding-top: 0.65rem;
+  font-size: 0.68rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--muted);
+  transition: color var(--t) var(--ease);
+}
+.card:hover .card-src { color: var(--accent); }
+
+/* staggered entrance without JS */
+.card:nth-child(1) { --delay: 40ms; }
+.card:nth-child(2) { --delay: 80ms; }
+.card:nth-child(3) { --delay: 120ms; }
+.card:nth-child(4) { --delay: 160ms; }
+.card:nth-child(5) { --delay: 200ms; }
+.card:nth-child(6) { --delay: 240ms; }
+
+/* --- footer --- */
+.site-footer {
+  border-top: 1px solid var(--line);
+  padding: 2rem 0 2.5rem;
+  text-align: center;
+  font-size: 0.78rem;
+  color: var(--muted);
+}
+.site-footer nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.75rem 1.15rem;
+  margin-bottom: 0.75rem;
+}
+.site-footer a {
+  color: var(--ink);
+  transition: color var(--t) var(--ease);
+}
+.site-footer a:hover { color: var(--accent); }
+
+/* --- reduced motion --- */
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+  .card:hover, .share a:hover, .share button:hover,
+  .ed:hover .ed-media img, .card:hover .card-media img {
+    transform: none;
+  }
+}
 </style>
 </head>
 <body>
 
-<div class="demo-banner">
-  <strong>DEMO1 · LOCAL REVIEW ONLY</strong>
-  — Chronicle Paper System v1 ·
-  <a href="REVIEW.html">Proposal brief</a>
-  · <a href="../index.html">Live site (comparison)</a>
-  · Do not push
+<!-- radios must live where :has can see them + labels -->
+<input type="radio" name="filter" id="f-all" checked>
+<input type="radio" name="filter" id="f-ai">
+<input type="radio" name="filter" id="f-art">
+<input type="radio" name="filter" id="f-robotics">
+<input type="radio" name="filter" id="f-biotech">
+<input type="radio" name="filter" id="f-space">
+<input type="radio" name="filter" id="f-energy">
+<input type="radio" name="filter" id="f-neuro">
+
+<div class="demo-bar">
+  <span><b>DEMO1 r2</b> · Signal Minimal</span>
+  <span>Local review only · not production</span>
+  <a href="REVIEW.html">Brief</a>
+  <a href="../index.html">Live site</a>
 </div>
 
-<header class="mast">
-  <div class="shell mast-inner">
-    <a href="../index.html" aria-label="Chronicle of Convergence home">
-      <img class="mast-logo" src="../img/logo-mark.png" alt="" width="56" height="56">
+<header class="site-header">
+  <div class="wrap brand">
+    <a href="../index.html" aria-label="Chronicle of Convergence">
+      <img src="../img/logo-mark.png" width="36" height="36" alt="">
     </a>
-    <div class="tag">Chronicle of Convergence</div>
-    <h1>How culture, society, technology,<br>and faith converge</h1>
-    <div class="gold-rule" aria-hidden="true"></div>
-    <p class="exec">A daily reading of American life — not a scoreboard of launches or a culture calendar. Quiet desk. Serious paper.</p>
-    <div class="mast-meta">
-      <span class="live-pill"><i></i> Live field signals</span>
-      <span>Demo sample · 2026-07-28</span>
-      <span>Editor in Chief · Dr. Wallace Lynch</span>
+    <div class="brand-text">
+      <strong>Chronicle of Convergence</strong>
+      <span>Culture · society · technology · faith</span>
     </div>
+    <div class="pulse" aria-hidden="true">Live</div>
   </div>
 </header>
 
-<div class="cats-wrap">
-  <div class="shell">
-    <nav class="cats" aria-label="Filter field signals">
-      <button type="button" class="cat active" aria-pressed="true" data-cat="all">All</button>
-      <button type="button" class="cat" aria-pressed="false" data-cat="ai">AI</button>
-      <button type="button" class="cat" aria-pressed="false" data-cat="art">Art</button>
-      <button type="button" class="cat" aria-pressed="false" data-cat="robotics">Robotics</button>
-      <button type="button" class="cat" aria-pressed="false" data-cat="biotech">Biotech</button>
-      <button type="button" class="cat" aria-pressed="false" data-cat="space">Space</button>
-      <button type="button" class="cat" aria-pressed="false" data-cat="energy">Energy</button>
-      <button type="button" class="cat" aria-pressed="false" data-cat="neuroscience">Neuroscience</button>
-      <button type="button" class="cat" aria-pressed="false" data-cat="editorial">Editorial</button>
-    </nav>
+<div class="filters">
+  <div class="wrap">
+    <div class="chips" role="radiogroup" aria-label="Filter field signals">
+      <label for="f-all">All</label>
+      <label for="f-ai">AI</label>
+      <label for="f-art">Art</label>
+      <label for="f-robotics">Robotics</label>
+      <label for="f-biotech">Biotech</label>
+      <label for="f-space">Space</label>
+      <label for="f-energy">Energy</label>
+      <label for="f-neuro">Neuro</label>
+    </div>
   </div>
 </div>
 
-<main class="shell">
-  <p class="compare">
-    <strong>Admin note:</strong> This is a static facelift mockup (DEMO1), not production.
-    Compare with the live desk, then mark feedback in <a href="REVIEW.html" style="color:var(--gold-deep)">REVIEW.html</a>.
-  </p>
+<main class="wrap">
+  <p class="section-label">Daily editorial</p>
 
-  <!-- Daily editorial: cover story -->
-  <section class="editorial" id="editorial" aria-label="Daily editorial">
-    <div class="sec-head">
-      <h2>Daily editorial</h2>
-      <div class="line" aria-hidden="true"></div>
-      <span class="badge">Cover story</span>
+  <article class="editorial ed" id="editorial">
+    <div class="ed-media">
+      <img
+        src="https://images-assets.nasa.gov/image/PIA04921/PIA04921~medium.jpg"
+        alt=""
+        width="1200"
+        height="514"
+        fetchpriority="high"
+        decoding="async">
     </div>
-
-    <article class="ed">
-      <div class="ed-hero">
-        <img src="https://images-assets.nasa.gov/image/PIA04921/PIA04921~medium.jpg" alt="" width="1120" height="630" fetchpriority="high">
+    <div class="ed-body">
+      <p class="ed-kicker">Daily · 2026-07-28</p>
+      <h1>Maps You Can Touch</h1>
+      <p class="ed-dek">Cognitive maps in the lab, felt rooms in the gallery, and the civic maps we still argue over.</p>
+      <div class="ed-meta">
+        <span><strong>Dr. Wallace Lynch</strong> · Editor in Chief</span>
+        <span>~318 words</span>
       </div>
-      <p class="ed-credit">Photo: Spiral galaxy M81 · NASA / JPL-Caltech / ESA (public domain)</p>
-      <div class="ed-body">
-        <p class="ed-kicker">Daily editorial · 2026-07-28</p>
-        <h2>Maps You Can Touch</h2>
-        <p class="ed-dek">Cognitive maps in the lab, felt rooms in the gallery, and the civic maps we still argue over.</p>
-        <div class="ed-byline-row">
-          <p class="ed-byline">By Dr. Wallace Lynch<span class="role">Editor in Chief</span></p>
-          <p class="ed-meta">~318 words</p>
-        </div>
-        <div class="ed-prose">
-          <p>A new AI system is built the way a hippocampus works. It uses cognitive maps and chance calculation so a model can navigate possibility the way memory navigates place. In another lab a robot fingertip reads a coin by color and contour: raised letters, Lincoln’s profile, columns it will never walk. Knowing is no longer only a score. It is orientation and contact.</p>
-          <p>Chronicle of Convergence is not a product sheet or a hearing transcript. It is a daily reading of American life where culture, society, technology, and faith already share the same rooms. On Tuesday, July 28, 2026, we hold that reading to one pressure: which maps we trust when touch and testimony arrive together.</p>
-          <p>Elsewhere the day sells speed and dresses old facts as scandal. Gemini Flash models open through official APIs. Solar’s silence at night is sold again as news. Art works with the hand. A public order tests whether the Smithsonian remains a civic museum or becomes a partisan stage.</p>
-          <p>A map is only as honest as the places it refuses to blank out. Convergence is not only machines learning to feel. It is whether civic maps of museums, epidemics, and testimony still leave room for what the finger knows and what the record must keep hard.</p>
-        </div>
-        <div class="ed-share-wrap">
-          <span class="ed-share-label">Share</span>
-          <div class="ed-share" role="group" aria-label="Share this editorial">
-            <a class="share-btn" href="#" aria-label="Share on X" title="X" onclick="return false"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.744l7.727-8.835L1.254 2.25H8.08l4.253 5.622L18.244 2.25zm-1.161 17.52h1.833L7.084 4.126H5.117L17.083 19.77z"/></svg></a>
-            <a class="share-btn" href="#" aria-label="Share on LinkedIn" title="LinkedIn" onclick="return false"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 01-2.063-2.065 2.064 2.064 0 112.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg></a>
-            <a class="share-btn" href="#" aria-label="Share on Facebook" title="Facebook" onclick="return false"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M24 12.073C24 5.446 18.627.073 12 .073S0 5.446 0 12.073c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg></a>
-            <a class="share-btn" href="#" aria-label="Share on Threads" title="Threads" onclick="return false"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12.186 24h-.007c-3.581-.024-6.334-1.313-8.184-3.83C2.309 18.1 1.5 15.12 1.5 11.99 1.5 5.94 5.83 1.5 12 1.5c6.17 0 10.5 4.44 10.5 10.49 0 3.13-.81 6.11-2.495 8.18-1.85 2.517-4.603 3.806-8.184 3.83h-.635z"/></svg></a>
-            <a class="share-btn" href="#" aria-label="Email" title="Email" onclick="return false"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/></svg></a>
-            <button type="button" class="share-btn" aria-label="Copy link" title="Copy link"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M16 1H4c-1.1 0-2 .9-2 2v14h2V3h12V1zm3 4H8c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h11c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2zm0 16H8V7h11v14z"/></svg></button>
-          </div>
-          <div class="ed-links">
-            <a href="../e/2026-07-28.html">Open full page</a>
-            <a href="../go.html">Link hub</a>
-          </div>
-        </div>
+      <div class="prose">
+        <p>A new AI system is built the way a hippocampus works. It uses cognitive maps and chance calculation so a model can navigate possibility the way memory navigates place. In another lab a robot fingertip reads a coin by color and contour. Knowing is no longer only a score. It is orientation and contact.</p>
+        <p>Chronicle of Convergence is not a product sheet or a hearing transcript. It is a daily reading of American life where culture, society, technology, and faith already share the same rooms.</p>
+        <p>A map is only as honest as the places it refuses to blank out. Convergence is not only machines learning to feel. It is whether civic maps still leave room for what the finger knows and what the record must keep hard.</p>
       </div>
-    </article>
-  </section>
+      <div class="share" role="group" aria-label="Share">
+        <span>Share</span>
+        <a href="#" aria-label="Share on X" title="X" onclick="return false">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.744l7.727-8.835L1.254 2.25H8.08l4.253 5.622L18.244 2.25zm-1.161 17.52h1.833L7.084 4.126H5.117L17.083 19.77z"/></svg>
+        </a>
+        <a href="#" aria-label="Share on LinkedIn" title="LinkedIn" onclick="return false">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 01-2.063-2.065 2.064 2.064 0 112.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg>
+        </a>
+        <a href="#" aria-label="Share on Facebook" title="Facebook" onclick="return false">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M24 12.073C24 5.446 18.627.073 12 .073S0 5.446 0 12.073c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>
+        </a>
+        <a href="#" aria-label="Email" title="Email" onclick="return false">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/></svg>
+        </a>
+        <button type="button" aria-label="Copy link" title="Copy link">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M16 1H4c-1.1 0-2 .9-2 2v14h2V3h12V1zm3 4H8c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h11c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2zm0 16H8V7h11v14z"/></svg>
+        </button>
+      </div>
+    </div>
+  </article>
 
-  <!-- Field signals -->
-  <section aria-label="Field signals">
-    <div class="sec-head">
-      <h2>Field signals</h2>
-      <div class="line" aria-hidden="true"></div>
-      <span class="badge">Sample grid</span>
-    </div>
-    <div class="news-grid" id="newsGrid">
-      <!-- cards injected for filter demo; static markup below also works -->
-      <a class="n-card" data-cat="neuroscience" href="#">
-        <div class="n-media">
-          <span class="n-chip neuroscience">Neuroscience</span>
-          <img src="https://images-assets.nasa.gov/image/PIA15416/PIA15416~medium.jpg" alt="" loading="lazy">
-        </div>
-        <div class="n-body">
-          <h3 class="n-title">Brain-Inspired AI Uses Cognitive Maps</h3>
-          <p class="n-sum">A model built on hippocampal habits: maps and chance calculation that navigate possibility the way memory navigates place.</p>
-          <div class="n-src">Neuroscience News →</div>
-        </div>
-      </a>
-      <a class="n-card" data-cat="robotics" href="#">
-        <div class="n-media">
-          <span class="n-chip robotics">Robotics</span>
-          <img src="https://images-assets.nasa.gov/image/PIA01492/PIA01492~medium.jpg" alt="" loading="lazy">
-        </div>
-        <div class="n-body">
-          <h3 class="n-title">Robot Finger Feels in Color</h3>
-          <p class="n-sum">A fingertip that reads raised letters and coin profiles — orientation through contact, not only score.</p>
-          <div class="n-src">IEEE Spectrum →</div>
-        </div>
-      </a>
-      <a class="n-card" data-cat="space" href="#">
-        <div class="n-media">
-          <span class="n-chip space">Space</span>
-          <img src="https://images-assets.nasa.gov/image/PIA18033/PIA18033~medium.jpg" alt="" loading="lazy">
-        </div>
-        <div class="n-body">
-          <h3 class="n-title">Upper C-band auction offers another lift for GEO industry</h3>
-          <p class="n-sum">Operators welcome spectrum clearance that could fund new geostationary fleets — money layer of orbit.</p>
-          <div class="n-src">SpaceNews →</div>
-        </div>
-      </a>
-      <a class="n-card" data-cat="art" href="#">
-        <div class="n-media">
-          <span class="n-chip art">Art</span>
-          <img src="https://images-assets.nasa.gov/image/sts061-98-050/sts061-98-050~medium.jpg" alt="" loading="lazy">
-        </div>
-        <div class="n-body">
-          <h3 class="n-title">Lucy Sparrow Invokes ’90s Supermarket Nostalgia</h3>
-          <p class="n-sum">More than twenty thousand handmade felt objects stock a full aisle of convenience you can almost grip.</p>
-          <div class="n-src">Colossal →</div>
-        </div>
-      </a>
-      <a class="n-card" data-cat="energy" href="#">
-        <div class="n-media">
-          <span class="n-chip energy">Energy</span>
-          <img src="https://images-assets.nasa.gov/image/PIA00122/PIA00122~medium.jpg" alt="" loading="lazy">
-        </div>
-        <div class="n-body">
-          <h3 class="n-title">Solar power doesn’t work at night — and still excels by day</h3>
-          <p class="n-sum">An old fact staged as scandal. The day argues about what every panel already knows.</p>
-          <div class="n-src">Canary Media →</div>
-        </div>
-      </a>
-      <a class="n-card" data-cat="biotech" href="#">
-        <div class="n-media">
-          <span class="n-chip biotech">Biotech</span>
-          <img src="https://images-assets.nasa.gov/image/as11-40-5874/as11-40-5874~medium.jpg" alt="" loading="lazy">
-        </div>
-        <div class="n-body">
-          <h3 class="n-title">HIV resurgence feared as global funding falls 18%</h3>
-          <p class="n-sum">UNAIDS names a profound financing shock. Epidemics re-expand when the circuit of care thins.</p>
-          <div class="n-src">STAT News →</div>
-        </div>
-      </a>
-    </div>
-  </section>
+  <p class="section-label">Field signals</p>
+  <div class="grid">
+    <a class="card" data-cat="neuro" href="#">
+      <div class="card-media">
+        <img src="https://images-assets.nasa.gov/image/PIA15416/PIA15416~medium.jpg" alt="" loading="lazy" decoding="async" width="640" height="400">
+      </div>
+      <div class="card-body">
+        <span class="card-cat">Neuroscience</span>
+        <h3>Brain-Inspired AI Uses Cognitive Maps</h3>
+        <p>Hippocampal maps and chance calculation — models that navigate possibility like memory navigates place.</p>
+        <span class="card-src">Neuroscience News</span>
+      </div>
+    </a>
+    <a class="card" data-cat="robotics" href="#">
+      <div class="card-media">
+        <img src="https://images-assets.nasa.gov/image/PIA01492/PIA01492~medium.jpg" alt="" loading="lazy" decoding="async" width="640" height="400">
+      </div>
+      <div class="card-body">
+        <span class="card-cat">Robotics</span>
+        <h3>Robot Finger Feels in Color</h3>
+        <p>Contact as cognition — ridges, profile, columns a machine will never walk.</p>
+        <span class="card-src">IEEE Spectrum</span>
+      </div>
+    </a>
+    <a class="card" data-cat="space" href="#">
+      <div class="card-media">
+        <img src="https://images-assets.nasa.gov/image/PIA18033/PIA18033~medium.jpg" alt="" loading="lazy" decoding="async" width="640" height="400">
+      </div>
+      <div class="card-body">
+        <span class="card-cat">Space</span>
+        <h3>Upper C-band Auction Lifts GEO Industry</h3>
+        <p>Spectrum clearance as capital — geostationary fleets funded at the money layer of orbit.</p>
+        <span class="card-src">SpaceNews</span>
+      </div>
+    </a>
+    <a class="card" data-cat="art" href="#">
+      <div class="card-media">
+        <img src="https://images-assets.nasa.gov/image/sts061-98-050/sts061-98-050~medium.jpg" alt="" loading="lazy" decoding="async" width="640" height="400">
+      </div>
+      <div class="card-body">
+        <span class="card-cat">Art</span>
+        <h3>Lucy Sparrow’s Felt Supermarket</h3>
+        <p>Twenty thousand handmade objects — nostalgia you can almost grip.</p>
+        <span class="card-src">Colossal</span>
+      </div>
+    </a>
+    <a class="card" data-cat="energy" href="#">
+      <div class="card-media">
+        <img src="https://images-assets.nasa.gov/image/PIA00122/PIA00122~medium.jpg" alt="" loading="lazy" decoding="async" width="640" height="400">
+      </div>
+      <div class="card-body">
+        <span class="card-cat">Energy</span>
+        <h3>Solar at Night Is Not a Scandal</h3>
+        <p>An old fact staged as revelation. Panels already know the interval.</p>
+        <span class="card-src">Canary Media</span>
+      </div>
+    </a>
+    <a class="card" data-cat="biotech" href="#">
+      <div class="card-media">
+        <img src="https://images-assets.nasa.gov/image/as11-40-5874/as11-40-5874~medium.jpg" alt="" loading="lazy" decoding="async" width="640" height="400">
+      </div>
+      <div class="card-body">
+        <span class="card-cat">Biotech</span>
+        <h3>HIV Funding Falls 18%</h3>
+        <p>UNAIDS names a financing shock. Care thins; risk re-expands.</p>
+        <span class="card-src">STAT News</span>
+      </div>
+    </a>
+  </div>
 </main>
 
-<footer class="site-foot">
-  <div class="shell">
-    <p class="brand-line">Chronicle of Convergence</p>
-    <p>
+<footer class="site-footer">
+  <div class="wrap">
+    <nav aria-label="Demo links">
+      <a href="REVIEW.html">Proposal brief</a>
       <a href="../index.html">Live desk</a>
       <a href="../go.html">Link hub</a>
       <a href="../e/">Editorials</a>
-      <a href="REVIEW.html">Proposal brief</a>
-      <a href="../privacy.html">Privacy</a>
-      <a href="../terms.html">Terms</a>
-    </p>
-    <p style="margin-top:.75rem">DEMO1 · Chronicle Paper System v1 · IT Design desk · Local review only · Not production</p>
+    </nav>
+    <p>DEMO1 r2 · Signal Minimal · Pure CSS · Local review only</p>
   </div>
 </footer>
 
-<script>
-(function(){
-  var cats=document.querySelectorAll('.cat');
-  var cards=document.querySelectorAll('.n-card');
-  cats.forEach(function(btn){
-    btn.addEventListener('click',function(){
-      var c=btn.getAttribute('data-cat')||'all';
-      cats.forEach(function(b){
-        var on=b===btn;
-        b.classList.toggle('active',on);
-        b.setAttribute('aria-pressed',on?'true':'false');
-      });
-      cards.forEach(function(card){
-        var cat=card.getAttribute('data-cat')||'';
-        card.style.display=(c==='all'||cat===c)?'':'none';
-      });
-    });
-  });
-})();
-</script>
 </body>
 </html>
