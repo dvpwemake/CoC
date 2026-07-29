@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-07-29T01-15",
+    "scannedAt": "2026-07-29T01:15:25.948Z",
+    "items": [
+      {
+        "id": "auto_2026-07-29T01-15_1",
+        "rank": 1,
+        "title": "STAT+: American Diabetes Association, facing calls for resignations, asks for patience",
+        "category": "biotech",
+        "summary": "An open letter to the board of the American Diabetes Association said the board had badly mishandled an incident at its annual meeting.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/06/conference-center-1024x576.jpeg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/07/28/american-diabetes-association-fallout-researchers-expulsion/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-29T01-15_2",
+        "rank": 2,
+        "title": "Swift reboost mission encounters attitude control problems",
+        "category": "space",
+        "summary": "A spacecraft launched nearly a month ago in a high-risk bid to boost the orbit of a NASA astrophysics satellite is suffering attitude control problems that could jeopardize its mission. The post Swift reboost mission…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/link-solarpanel.jpeg?fit=1024%2C670&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/swift-reboost-mission-encounters-attitude-control-problems/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-29T01-15_3",
+        "rank": 3,
+        "title": "Eye Contact Syncs Infant Brains for Language Learning",
+        "category": "neuroscience",
+        "summary": "Eye contact between infants and adult speakers synchronizes their brainwaves to enable language acquisition.",
+        "image": "https://neurosciencenews.com/files/2026/07/eye-contact-baby-language-neurosceince-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/eye-contact-language-learning-31146/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-29T01-15_4",
+        "rank": 4,
+        "title": "Lucy Sparrow Invokes '90s Supermarket Nostalgia in ‘The Beginning of Convenience’",
+        "category": "art",
+        "summary": "The artist's new exhibition is fully stocked with more than 20,000 handmade felt objects. Do stories and artists like this matter to you? Become a Colossal Member today and support independent arts publishing for as…",
+        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/07/sparrow-boc-10.jpg",
+        "source": "Colossal",
+        "sourceUrl": "https://www.thisiscolossal.com/2026/07/lucy-sparrow-the-beginning-of-convenience/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-29T01-15_5",
+        "rank": 5,
+        "title": "Robot Finger Feels in Color",
+        "category": "robotics",
+        "summary": "Imagine running your fingertip over the surface of a U.S. penny. You would feel the ridges of the raised letters and numbers, Abe Lincoln’s bearded side profile, and, if it’s tails, the fluted columns of the Lincoln…",
+        "image": "https://spectrum.ieee.org/media-library/close-up-of-a-sensor-for-a-robotic-fingertip-and-raised-relief-images-of-a-leaf-and-a-u-s-penny.jpg?id=67542077&width=980",
+        "source": "IEEE Spectrum",
+        "sourceUrl": "https://spectrum.ieee.org/robot-finger",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-07-28T20-54",
     "scannedAt": "2026-07-28T20:54:30.064Z",
     "items": [
@@ -57,6 +118,26 @@
         "source": "IEEE Spectrum",
         "sourceUrl": "https://spectrum.ieee.org/robot-finger",
         "fromX": false
+      }
+    ]
+  },
+  {
+    "batchId": "editorial_2026-07-27",
+    "scannedAt": "2026-07-27T23:46:40.604Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-07-27",
+        "rank": 0,
+        "title": "Convergence of neural consolidation and civic coordination",
+        "category": "editorial",
+        "summary": "Memory consolidation during sleep is not a solo act. A new study maps a three-region circuit—orbitofrontal cortex, thalamus, and hippocampus—and shows how epileptic spikes sever the conversation. What we keep depends on…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/SES-Press-Release_SES-Completes-Acquisition-of-Intelsat_image-scaled-1.jpg?fit=1024%2C576&ssl=1",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-07-27.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-07-27",
+        "authorName": "Dr. Wallace Lynch"
       }
     ]
   },
@@ -782,84 +863,6 @@
         "source": "IEEE Spectrum",
         "sourceUrl": "https://spectrum.ieee.org/graduate-student-nasas-robots-assembly",
         "imageProxy": "https://images.weserv.nl/?url=spectrum.ieee.org%2Fmedia-library%2Fa-young-woman-with-blonde-hair-softly-smiling-next-to-a-pair-of-collaborative-robot-arms.jpg%3Fid%3D67499761%26width%3D980&w=640&h=400&fit=cover&we&output=jpg"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-07-18T20-34",
-    "scannedAt": "2026-07-18T20:34:18.303Z",
-    "items": [
-      {
-        "id": "auto_2026-07-18T20-34_1",
-        "rank": 1,
-        "title": "BCI Neurofeedback Amplifies Brainwaves to Detect Micro-Errors",
-        "category": "neuroscience",
-        "summary": "A new study demonstrates that non-invasive brain-computer interface (BCI) training accelerates perceptual learning by actively amplifying the Error Positivity (Pe) neural signature.",
-        "image": "https://neurosciencenews.com/files/2026/07/bci-error-deteaction-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/bci-error-positivity-pe-wave-perceptual-learning-31079/",
-        "imageProxy": "https://images.weserv.nl/?url=neurosciencenews.com%2Ffiles%2F2026%2F07%2Fbci-error-deteaction-neuroscience-1155x770.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-18T20-34_2",
-        "rank": 2,
-        "title": "Opinion: STAT readers on the value of primary care, obesity as a disease, and more",
-        "category": "biotech",
-        "summary": "“The real opportunity is to move beyond policies and narratives that pit specialties against one another,” presidents of the AAFP, ACP, and AAP write.",
-        "image": "https://www.statnews.com/wp-content/uploads/2023/11/LettersToEditor_v2_Illustration_MollyFerguson_112723-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/07/18/primary-care-debate-letters-to-editor/?utm_campaign=rss",
-        "imageProxy": "https://images.weserv.nl/?url=www.statnews.com%2Fwp-content%2Fuploads%2F2023%2F11%2FLettersToEditor_v2_Illustration_MollyFerguson_112723-1024x576.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-18T20-34_3",
-        "rank": 3,
-        "title": "NASA Pushes New Wing Design to Find Structural Limits",
-        "category": "space",
-        "summary": "NASA researchers recently put a new wing design, appearing long and thin with a lightweight structural design, through a series of grueling tests to find its structural limits. What they found left them encouraged about…",
-        "image": "https://images-assets.nasa.gov/image/AFRC2025-0136-1632/AFRC2025-0136-1632~large.jpg",
-        "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pushes-new-wing-design-to-find-structural-limits/",
-        "imageProxy": "https://images.weserv.nl/?url=images-assets.nasa.gov%2Fimage%2FAFRC2025-0136-1632%2FAFRC2025-0136-1632~large.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-07-17T20-39",
-    "scannedAt": "2026-07-17T20:39:41.942Z",
-    "items": [
-      {
-        "id": "auto_2026-07-17T20-39_1",
-        "rank": 1,
-        "title": "Adolescent Brain Changes Temporarily Obscure Earlier Memories",
-        "category": "neuroscience",
-        "summary": "Late adolescence triggers a temporary destabilization of contextual memory circuits due to the targeted remodeling of perineuronal nets (PNNs) in the retrosplenial cortex (RSP).",
-        "image": "https://neurosciencenews.com/files/2026/07/adolescent-memory-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/adolescent-perineuronal-nets-memory-remodeling-31071/",
-        "imageProxy": "https://images.weserv.nl/?url=neurosciencenews.com%2Ffiles%2F2026%2F07%2Fadolescent-memory-neuroscience-1155x770.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-17T20-39_2",
-        "rank": 2,
-        "title": "NASA's Chandra and IXPE Study Pulsar in Lighthouse Nebula",
-        "category": "space",
-        "summary": "This composite image, released on July 9, 2026, shows the region around a pulsar – a neutron star with a strong magnetic field that spins incredibly fast – within the Lighthouse nebula. The image contains X-ray data…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/07/lighthouse-lg.jpg",
-        "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/image-article/nasas-chandra-and-ixpe-study-pulsar-in-lighthouse-nebula/",
-        "imageProxy": "https://images.weserv.nl/?url=www.nasa.gov%2Fwp-content%2Fuploads%2F2026%2F07%2Flighthouse-lg.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-17T20-39_5",
-        "rank": 5,
-        "title": "Quitting smoking is hard. A Medicare change may push doctors to give more help",
-        "category": "biotech",
-        "summary": "Physicians who offer counseling on quitting cigarettes and alcohol during patient visits would get a 19% increase in reimbursement under a proposed Medicare change.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/07/GettyImages-487902504-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/07/17/medicare-smoking-cessation-reimbursement-increase/?utm_campaign=rss",
-        "imageProxy": "https://images.weserv.nl/?url=www.statnews.com%2Fwp-content%2Fuploads%2F2026%2F07%2FGettyImages-487902504-1024x576.jpg&w=640&h=400&fit=cover&we&output=jpg"
       }
     ]
   }

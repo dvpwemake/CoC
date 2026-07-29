@@ -1,21 +1,62 @@
 [
   {
-    "batchId": "editorial_2026-07-27",
-    "scannedAt": "2026-07-27T23:46:40.604Z",
-    "kind": "editorial_archive",
+    "batchId": "auto_2026-07-29T01-15",
+    "scannedAt": "2026-07-29T01:15:25.948Z",
     "items": [
       {
-        "id": "editorial_2026-07-27",
-        "rank": 0,
-        "title": "Convergence of neural consolidation and civic coordination",
-        "category": "editorial",
-        "summary": "Memory consolidation during sleep is not a solo act. A new study maps a three-region circuit—orbitofrontal cortex, thalamus, and hippocampus—and shows how epileptic spikes sever the conversation. What we keep depends on…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/SES-Press-Release_SES-Completes-Acquisition-of-Intelsat_image-scaled-1.jpg?fit=1024%2C576&ssl=1",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-07-27.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-07-27",
-        "authorName": "Dr. Wallace Lynch"
+        "id": "auto_2026-07-29T01-15_1",
+        "rank": 1,
+        "title": "STAT+: American Diabetes Association, facing calls for resignations, asks for patience",
+        "category": "biotech",
+        "summary": "An open letter to the board of the American Diabetes Association said the board had badly mishandled an incident at its annual meeting.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/06/conference-center-1024x576.jpeg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/07/28/american-diabetes-association-fallout-researchers-expulsion/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-29T01-15_2",
+        "rank": 2,
+        "title": "Swift reboost mission encounters attitude control problems",
+        "category": "space",
+        "summary": "A spacecraft launched nearly a month ago in a high-risk bid to boost the orbit of a NASA astrophysics satellite is suffering attitude control problems that could jeopardize its mission. The post Swift reboost mission…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/link-solarpanel.jpeg?fit=1024%2C670&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/swift-reboost-mission-encounters-attitude-control-problems/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-29T01-15_3",
+        "rank": 3,
+        "title": "Eye Contact Syncs Infant Brains for Language Learning",
+        "category": "neuroscience",
+        "summary": "Eye contact between infants and adult speakers synchronizes their brainwaves to enable language acquisition.",
+        "image": "https://neurosciencenews.com/files/2026/07/eye-contact-baby-language-neurosceince-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/eye-contact-language-learning-31146/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-29T01-15_4",
+        "rank": 4,
+        "title": "Lucy Sparrow Invokes '90s Supermarket Nostalgia in ‘The Beginning of Convenience’",
+        "category": "art",
+        "summary": "The artist's new exhibition is fully stocked with more than 20,000 handmade felt objects. Do stories and artists like this matter to you? Become a Colossal Member today and support independent arts publishing for as…",
+        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/07/sparrow-boc-10.jpg",
+        "source": "Colossal",
+        "sourceUrl": "https://www.thisiscolossal.com/2026/07/lucy-sparrow-the-beginning-of-convenience/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-29T01-15_5",
+        "rank": 5,
+        "title": "Robot Finger Feels in Color",
+        "category": "robotics",
+        "summary": "Imagine running your fingertip over the surface of a U.S. penny. You would feel the ridges of the raised letters and numbers, Abe Lincoln’s bearded side profile, and, if it’s tails, the fluted columns of the Lincoln…",
+        "image": "https://spectrum.ieee.org/media-library/close-up-of-a-sensor-for-a-robotic-fingertip-and-raised-relief-images-of-a-leaf-and-a-u-s-penny.jpg?id=67542077&width=980",
+        "source": "IEEE Spectrum",
+        "sourceUrl": "https://spectrum.ieee.org/robot-finger",
+        "fromX": false
       }
     ]
   },
@@ -77,6 +118,26 @@
         "source": "IEEE Spectrum",
         "sourceUrl": "https://spectrum.ieee.org/robot-finger",
         "fromX": false
+      }
+    ]
+  },
+  {
+    "batchId": "editorial_2026-07-27",
+    "scannedAt": "2026-07-27T23:46:40.604Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-07-27",
+        "rank": 0,
+        "title": "Convergence of neural consolidation and civic coordination",
+        "category": "editorial",
+        "summary": "Memory consolidation during sleep is not a solo act. A new study maps a three-region circuit—orbitofrontal cortex, thalamus, and hippocampus—and shows how epileptic spikes sever the conversation. What we keep depends on…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/SES-Press-Release_SES-Completes-Acquisition-of-Intelsat_image-scaled-1.jpg?fit=1024%2C576&ssl=1",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-07-27.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-07-27",
+        "authorName": "Dr. Wallace Lynch"
       }
     ]
   },

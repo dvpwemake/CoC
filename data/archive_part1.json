@@ -1,5 +1,83 @@
 [
   {
+    "batchId": "auto_2026-07-18T20-34",
+    "scannedAt": "2026-07-18T20:34:18.303Z",
+    "items": [
+      {
+        "id": "auto_2026-07-18T20-34_1",
+        "rank": 1,
+        "title": "BCI Neurofeedback Amplifies Brainwaves to Detect Micro-Errors",
+        "category": "neuroscience",
+        "summary": "A new study demonstrates that non-invasive brain-computer interface (BCI) training accelerates perceptual learning by actively amplifying the Error Positivity (Pe) neural signature.",
+        "image": "https://neurosciencenews.com/files/2026/07/bci-error-deteaction-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/bci-error-positivity-pe-wave-perceptual-learning-31079/",
+        "imageProxy": "https://images.weserv.nl/?url=neurosciencenews.com%2Ffiles%2F2026%2F07%2Fbci-error-deteaction-neuroscience-1155x770.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-07-18T20-34_2",
+        "rank": 2,
+        "title": "Opinion: STAT readers on the value of primary care, obesity as a disease, and more",
+        "category": "biotech",
+        "summary": "“The real opportunity is to move beyond policies and narratives that pit specialties against one another,” presidents of the AAFP, ACP, and AAP write.",
+        "image": "https://www.statnews.com/wp-content/uploads/2023/11/LettersToEditor_v2_Illustration_MollyFerguson_112723-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/07/18/primary-care-debate-letters-to-editor/?utm_campaign=rss",
+        "imageProxy": "https://images.weserv.nl/?url=www.statnews.com%2Fwp-content%2Fuploads%2F2023%2F11%2FLettersToEditor_v2_Illustration_MollyFerguson_112723-1024x576.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-07-18T20-34_3",
+        "rank": 3,
+        "title": "NASA Pushes New Wing Design to Find Structural Limits",
+        "category": "space",
+        "summary": "NASA researchers recently put a new wing design, appearing long and thin with a lightweight structural design, through a series of grueling tests to find its structural limits. What they found left them encouraged about…",
+        "image": "https://images-assets.nasa.gov/image/AFRC2025-0136-1632/AFRC2025-0136-1632~large.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pushes-new-wing-design-to-find-structural-limits/",
+        "imageProxy": "https://images.weserv.nl/?url=images-assets.nasa.gov%2Fimage%2FAFRC2025-0136-1632%2FAFRC2025-0136-1632~large.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      }
+    ]
+  },
+  {
+    "batchId": "auto_2026-07-17T20-39",
+    "scannedAt": "2026-07-17T20:39:41.942Z",
+    "items": [
+      {
+        "id": "auto_2026-07-17T20-39_1",
+        "rank": 1,
+        "title": "Adolescent Brain Changes Temporarily Obscure Earlier Memories",
+        "category": "neuroscience",
+        "summary": "Late adolescence triggers a temporary destabilization of contextual memory circuits due to the targeted remodeling of perineuronal nets (PNNs) in the retrosplenial cortex (RSP).",
+        "image": "https://neurosciencenews.com/files/2026/07/adolescent-memory-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/adolescent-perineuronal-nets-memory-remodeling-31071/",
+        "imageProxy": "https://images.weserv.nl/?url=neurosciencenews.com%2Ffiles%2F2026%2F07%2Fadolescent-memory-neuroscience-1155x770.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-07-17T20-39_2",
+        "rank": 2,
+        "title": "NASA's Chandra and IXPE Study Pulsar in Lighthouse Nebula",
+        "category": "space",
+        "summary": "This composite image, released on July 9, 2026, shows the region around a pulsar – a neutron star with a strong magnetic field that spins incredibly fast – within the Lighthouse nebula. The image contains X-ray data…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/07/lighthouse-lg.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/image-article/nasas-chandra-and-ixpe-study-pulsar-in-lighthouse-nebula/",
+        "imageProxy": "https://images.weserv.nl/?url=www.nasa.gov%2Fwp-content%2Fuploads%2F2026%2F07%2Flighthouse-lg.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-07-17T20-39_5",
+        "rank": 5,
+        "title": "Quitting smoking is hard. A Medicare change may push doctors to give more help",
+        "category": "biotech",
+        "summary": "Physicians who offer counseling on quitting cigarettes and alcohol during patient visits would get a 19% increase in reimbursement under a proposed Medicare change.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/07/GettyImages-487902504-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/07/17/medicare-smoking-cessation-reimbursement-increase/?utm_campaign=rss",
+        "imageProxy": "https://images.weserv.nl/?url=www.statnews.com%2Fwp-content%2Fuploads%2F2026%2F07%2FGettyImages-487902504-1024x576.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-07-16T20-40",
     "scannedAt": "2026-07-16T20:40:52.706Z",
     "items": [
@@ -889,128 +967,6 @@
         "source": "Canary Media",
         "sourceUrl": "https://www.canarymedia.com/articles/energy-efficiency/vermont-cut-utility-bills-manufactured-homes",
         "imageProxy": "https://images.weserv.nl/?url=img.canarymedia.com%2Fcontent%2Fuploads%2Fevt-advanced-manufactured-homes-0020-6000x4000.jpg%3Fauto%3Dcompress%252Cformat%26crop%3Dfocalpoint%26fit%3Dcrop%26fp-x%3D0.5%26fp-y%3D0.5%26h%3D630%26q%3D82%26w%3D1200%26s%3Df3f3fff23338d0c5ef5d20fba24646e0&w=640&h=400&fit=cover&we&output=jpg"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-06-29T21-14",
-    "scannedAt": "2026-06-29T21:14:46.695Z",
-    "items": [
-      {
-        "id": "auto_2026-06-29T21-14_1",
-        "rank": 1,
-        "title": "Comforting Others Is a Cultural Trait, Not a Universal Instinct",
-        "category": "neuroscience",
-        "summary": "Comforting others is a culturally bounded motive rather than a universal human instinct. While individualistic societies actively try to eliminate a peer's distress to foster intimacy, collectivistic cultures…",
-        "image": "https://neurosciencenews.com/files/2026/06/cultural-empathy-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/culture-empathy-interpersonal-emotion-30963/",
-        "imageProxy": "https://images.weserv.nl/?url=neurosciencenews.com%2Ffiles%2F2026%2F06%2Fcultural-empathy-neuroscience-1155x770.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-06-29T21-14_2",
-        "rank": 2,
-        "title": "STAT+: AstraZeneca to pay $34 million to settle kickback charges filed by Texas attorney general",
-        "category": "biotech",
-        "summary": "AstraZeneca agreed to pay $34 million to settle claims that the company paid kickbacks to improperly influence prescriptions paid for by Texas Medicaid.",
-        "image": "https://www.statnews.com/wp-content/uploads/2024/03/GettyImages-1213413730-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/pharmalot/2026/06/29/astrazeneca-kickback-charges-texas-settlement/?utm_campaign=rss",
-        "imageProxy": "https://images.weserv.nl/?url=www.statnews.com%2Fwp-content%2Fuploads%2F2024%2F03%2FGettyImages-1213413730-1024x576.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-06-29T21-14_3",
-        "rank": 3,
-        "title": "AI agents are not your \"coworkers\"",
-        "category": "ai",
-        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine coming in to work to learn that a new underling will report to you. The…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/260625_AIAgents.jpg?resize=1200,600",
-        "source": "MIT Technology Review",
-        "sourceUrl": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
-        "imageProxy": "https://images.weserv.nl/?url=wp.technologyreview.com%2Fwp-content%2Fuploads%2F2026%2F06%2F260625_AIAgents.jpg%3Fresize%3D1200%2C600&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-06-29T21-14_4",
-        "rank": 4,
-        "title": "ESA to seek lunar mapping capability for Argonaut lander",
-        "category": "space",
-        "summary": "MILAN — The European Space Agency will rely on external lunar topographic data during the design phase of its Argonaut lunar lander, and possibly for its first mission, while working […] The post ESA to seek lunar…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/Artist_s_view_of_the_Argonaut_lunar_lander-scaled.jpg?fit=1024%2C625&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/esa-to-seek-lunar-mapping-capability-for-argonaut-lander/",
-        "imageProxy": "https://images.weserv.nl/?url=i0.wp.com%2Fspacenews.com%2Fwp-content%2Fuploads%2F2025%2F11%2FArtist_s_view_of_the_Argonaut_lunar_lander-scaled.jpg%3Ffit%3D1024%252C625%26ssl%3D1&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-06-29T21-14_5",
-        "rank": 5,
-        "title": "A year after US Steel was sold, communities push for clean investment",
-        "category": "energy",
-        "summary": "A year ago this month, Japan’s Nippon Steel acquired U.S. Steel, promising to plow $14 billion into America’s legendary but long-declining steel industry. The hard-fought deal was controversial and highly politicized .…",
-        "image": "https://img.canarymedia.com/content/uploads/Gary-Works-rooftop-view.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=04a83af6341e3db8a87833029e1c8b3f",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/green-steel/year-after-us-steel-sold",
-        "imageProxy": "https://images.weserv.nl/?url=img.canarymedia.com%2Fcontent%2Fuploads%2FGary-Works-rooftop-view.jpeg%3Fauto%3Dcompress%252Cformat%26crop%3Dfocalpoint%26fit%3Dcrop%26fp-x%3D0.5%26fp-y%3D0.5%26h%3D630%26q%3D82%26w%3D1200%26s%3D04a83af6341e3db8a87833029e1c8b3f&w=640&h=400&fit=cover&we&output=jpg"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-06-28T20-48",
-    "scannedAt": "2026-06-28T20:48:02.864Z",
-    "items": [
-      {
-        "id": "auto_2026-06-28T20-48_1",
-        "rank": 1,
-        "title": "Hearing Aids Linked to 23% Lower Dementia Risk in Epilepsy",
-        "category": "neuroscience",
-        "summary": "Hearing aid use is associated with a 23% lower risk of dementia exclusively in adults with both epilepsy and hearing loss, likely due to the critical preservation of depleted cognitive reserve.",
-        "image": "https://neurosciencenews.com/files/2026/06/hearing-aid-dementia-epilepsy-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/hearing-aids-epilepsy-dementia-30956/",
-        "imageProxy": "https://images.weserv.nl/?url=neurosciencenews.com%2Ffiles%2F2026%2F06%2Fhearing-aid-dementia-epilepsy-neuroscience-1155x770.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-06-28T20-48_2",
-        "rank": 2,
-        "title": "Opinion: Supreme Court ruling on Roundup points to a confusing difference between the law and science",
-        "category": "biotech",
-        "summary": "The Supreme Court’s ruling on Roundup shows science and law use the same word — causation — while asking different questions, writes epidemiologist.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/06/GettyImages-2283306424-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/06/27/roundup-glyphosate-cancer-monsanto-v-durnell-supreme-court/?utm_campaign=rss",
-        "imageProxy": "https://images.weserv.nl/?url=www.statnews.com%2Fwp-content%2Fuploads%2F2026%2F06%2FGettyImages-2283306424-1024x576.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-06-28T20-48_3",
-        "rank": 3,
-        "title": "Rocket Lab launches 10th Synspective satellite",
-        "category": "space",
-        "summary": "Rocket Lab launched a radar-imaging satellite for Japanese company Synspective on June 26, a flight delayed by a responsive space mission. The post Rocket Lab launches 10th Synspective satellite appeared first on…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/electron-strix10.jpeg?fit=1024%2C556&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/rocket-lab-launches-10th-synspective-satellite/",
-        "imageProxy": "https://images.weserv.nl/?url=i0.wp.com%2Fspacenews.com%2Fwp-content%2Fuploads%2F2026%2F06%2Felectron-strix10.jpeg%3Ffit%3D1024%252C556%26ssl%3D1&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-06-28T20-48_4",
-        "rank": 4,
-        "title": "These states are the best for EV buyers and drivers",
-        "category": "energy",
-        "summary": "America’s EV industry has suffered a series of bad breaks over the last year and a half. The end of federal tax credits for electric vehicles sent sales of new EVs off a cliff last fall. A nationwide buildout of…",
-        "image": "https://img.canarymedia.com/content/uploads/GettyImages-2269134706.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=7598837099e3c9f365da521da01718f1",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/electric-vehicles/these-states-are-the-best-for-ev-buyers-and-drivers",
-        "imageProxy": "https://images.weserv.nl/?url=img.canarymedia.com%2Fcontent%2Fuploads%2FGettyImages-2269134706.jpg%3Fauto%3Dcompress%252Cformat%26crop%3Dfocalpoint%26fit%3Dcrop%26fp-x%3D0.5%26fp-y%3D0.5%26h%3D630%26q%3D82%26w%3D1200%26s%3D7598837099e3c9f365da521da01718f1&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-06-28T20-48_5",
-        "rank": 5,
-        "title": "Video Friday: Give Robots a Hand",
-        "category": "robotics",
-        "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us…",
-        "image": "https://spectrum.ieee.org/media-library/three-fingered-robotic-gripper-arm-crawls-upright-on-a-white-table.gif?id=67036633&width=980",
-        "source": "IEEE Spectrum",
-        "sourceUrl": "https://spectrum.ieee.org/video-friday-robot-grippers",
-        "imageProxy": "https://images.weserv.nl/?url=spectrum.ieee.org%2Fmedia-library%2Fthree-fingered-robotic-gripper-arm-crawls-upright-on-a-white-table.gif%3Fid%3D67036633%26width%3D980&w=640&h=400&fit=cover&we&output=jpg"
       }
     ]
   }
