@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-07-29T13-29",
-    "scannedAt": "2026-07-29T13:29:16.934Z",
+    "batchId": "auto_2026-07-29T17-00",
+    "scannedAt": "2026-07-29T17:00:09.837Z",
     "items": [
       {
-        "id": "auto_2026-07-29T13-29_1",
+        "id": "auto_2026-07-29T17-00_1",
         "rank": 1,
-        "title": "Case study: Hai Robotics helps LPP Logistics scale automated e-commerce fulfilment in Romania",
-        "category": "robotics",
-        "summary": "The continued growth of e-commerce is driving retailers to rethink how distribution centres are designed, with robotics increasingly being used to improve storage density, increase throughput and reduce reliance on…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/07/hai-robotics-and-lpp-3.jpeg",
-        "source": "Robotics & Automation News",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/07/29/case-study-hai-robotics-helps-lpp-logistics-scale-automated-e-commerce-fulfilment-in-romania/103711/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-07-29T13-29_2",
-        "rank": 2,
-        "title": "Fortastra and Hadrian join forces to streamline satellite production",
+        "title": "NASA Sets Coverage for August Northern Hemisphere Total Solar Eclipse",
         "category": "space",
-        "summary": "SAN FRANCISCO – Fortastra, a Los Angeles startup focused on defending on-orbit infrastructure, is working with manufacturing specialist Hadrian to explore ways to apply precision machining and additive manufacturing to…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/rsz_hadrian_f3.jpg?fit=879%2C703&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/fortastra-and-hadrian-join-forces-to-streamline-satellite-production/",
+        "summary": "On Wednesday, Aug. 12, a total solar eclipse will be visible in parts of Greenland, Iceland, northern Russia, the Atlantic Ocean, Spain, and a small corner of Portugal. NASA will stream the eclipse live with views…",
+        "image": "https://www.youtube.com/embed/29ixFQIGZaY",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-august-northern-hemisphere-total-solar-eclipse/",
         "fromX": false
       },
       {
-        "id": "auto_2026-07-29T13-29_3",
+        "id": "auto_2026-07-29T17-00_2",
+        "rank": 2,
+        "title": "Innovation Meets Heritage in West African Contemporary Artists' Masquerade Ensembles",
+        "category": "art",
+        "summary": "'New African Masquerades: Artistic Innovations and Collaborations' celebrates contemporary creations by artists in Nigeria, Burkina Faso, Sierra Leone, and Cameroon. Do stories and artists like this matter to you?…",
+        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/07/masquerade-8.jpeg",
+        "source": "Colossal",
+        "sourceUrl": "https://www.thisiscolossal.com/2026/07/new-african-masquerades-exhibition-west-africa-masks-costumes-traditions/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-29T17-00_3",
         "rank": 3,
-        "title": "Fauci invokes Fifth Amendment in declining to answer questions before Senate panel",
+        "title": "STAT+: End of Medicare drug subsidy gives Democrats new attack line on rising out-of-pocket costs",
         "category": "biotech",
-        "summary": "At a highly anticipated Senate hearing, Anthony Fauci evoked his Fifth Amendment right to refuse to answer questions about the Covid-19 pandemic and its origins.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/07/GettyImages-2155329216-1024x576.jpg",
+        "summary": "The White House decision to end a Medicare drug subsidy plays into Democratic arguments ahead of the midterms.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/07/AdobeStock_1206716749-1024x576.jpeg",
         "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/07/29/fauci-pleads-fifth-criticizes-rand-paul-senate-hearing/?utm_campaign=rss",
+        "sourceUrl": "https://www.statnews.com/2026/07/29/trump-medicare-subsidy-cuts-part-d-premium-change/?utm_campaign=rss",
         "fromX": false
       },
       {
-        "id": "auto_2026-07-29T13-29_4",
+        "id": "auto_2026-07-29T17-00_4",
         "rank": 4,
+        "title": "Renault Group expands Exotec warehouse automation across France and Germany",
+        "category": "robotics",
+        "summary": "Global automotive company Renault Group has partnered with Exotec to automate its spare parts operation across its warehouses in France. Thanks to the implementation of a fleet of Exotec’s Skypod robots, Renault has…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/07/EXOTEC_RENAULT-1.jpg",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/07/29/renault-group-expands-exotec-warehouse-automation-across-france-and-germany/103719/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-29T17-00_5",
+        "rank": 5,
         "title": "Your gut may help your brain decide what to remember",
         "category": "neuroscience",
         "summary": "Signals traveling from the gut to the brain may help turn meals into lasting memories. Rats showed stronger memory activity after consuming nutritious foods, but not after drinking sweet liquids with little or no…",
         "image": "https://www.sciencedaily.com/images/1920/brain-gut-connection.webp",
         "source": "ScienceDaily",
         "sourceUrl": "https://www.sciencedaily.com/releases/2026/07/260729010713.htm",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-07-29T13-29_5",
-        "rank": 5,
-        "title": "The US clean energy boom will continue to 2030. Then things get hazy.",
-        "category": "energy",
-        "summary": "So, how’s that clean energy transition going? It’s the essential inquiry that drives anyone reporting on climate solutions, and it got considerably more difficult to answer after President Donald Trump returned to the…",
-        "image": "https://img.canarymedia.com/content/uploads/Crane-at-Gemini-Project_GettyImages-1278666224.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=dc9bc719d834c2b7beb551d0c5fbc808",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/clean-energy/us-clean-energy-boom-rhodium",
         "fromX": false
       }
     ]
