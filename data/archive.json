@@ -1,5 +1,25 @@
 [
   {
+    "batchId": "editorial_2026-07-27",
+    "scannedAt": "2026-07-27T23:46:40.604Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-07-27",
+        "rank": 0,
+        "title": "Convergence of neural consolidation and civic coordination",
+        "category": "editorial",
+        "summary": "Memory consolidation during sleep is not a solo act. A new study maps a three-region circuit—orbitofrontal cortex, thalamus, and hippocampus—and shows how epileptic spikes sever the conversation. What we keep depends on…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/SES-Press-Release_SES-Completes-Acquisition-of-Intelsat_image-scaled-1.jpg?fit=1024%2C576&ssl=1",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-07-27.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-07-27",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-07-28T20-54",
     "scannedAt": "2026-07-28T20:54:30.064Z",
     "items": [
