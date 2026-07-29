@@ -1,11 +1,22 @@
 [
   {
-    "batchId": "auto_2026-07-29T01-15",
-    "scannedAt": "2026-07-29T01:15:25.948Z",
+    "batchId": "auto_2026-07-29T06-21",
+    "scannedAt": "2026-07-29T06:21:43.171Z",
     "items": [
       {
-        "id": "auto_2026-07-29T01-15_1",
+        "id": "auto_2026-07-29T06-21_1",
         "rank": 1,
+        "title": "Boeing still working with NASA to schedule next Starliner flight",
+        "category": "space",
+        "summary": "Boeing is still working with NASA to determine when to fly its CST-100 Starliner commercial crew vehicle on a cargo mission to the International Space Station. The post Boeing still working with NASA to schedule next…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/NHQ202406030004large.jpg?fit=1024%2C705&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/boeing-still-working-with-nasa-to-schedule-next-starliner-flight/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-29T06-21_2",
+        "rank": 2,
         "title": "STAT+: American Diabetes Association, facing calls for resignations, asks for patience",
         "category": "biotech",
         "summary": "An open letter to the board of the American Diabetes Association said the board had badly mishandled an incident at its annual meeting.",
@@ -15,18 +26,7 @@
         "fromX": false
       },
       {
-        "id": "auto_2026-07-29T01-15_2",
-        "rank": 2,
-        "title": "Swift reboost mission encounters attitude control problems",
-        "category": "space",
-        "summary": "A spacecraft launched nearly a month ago in a high-risk bid to boost the orbit of a NASA astrophysics satellite is suffering attitude control problems that could jeopardize its mission. The post Swift reboost mission…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/link-solarpanel.jpeg?fit=1024%2C670&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/swift-reboost-mission-encounters-attitude-control-problems/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-07-29T01-15_3",
+        "id": "auto_2026-07-29T06-21_3",
         "rank": 3,
         "title": "Eye Contact Syncs Infant Brains for Language Learning",
         "category": "neuroscience",
@@ -37,7 +37,7 @@
         "fromX": false
       },
       {
-        "id": "auto_2026-07-29T01-15_4",
+        "id": "auto_2026-07-29T06-21_4",
         "rank": 4,
         "title": "Lucy Sparrow Invokes '90s Supermarket Nostalgia in ‘The Beginning of Convenience’",
         "category": "art",
@@ -48,7 +48,7 @@
         "fromX": false
       },
       {
-        "id": "auto_2026-07-29T01-15_5",
+        "id": "auto_2026-07-29T06-21_5",
         "rank": 5,
         "title": "Robot Finger Feels in Color",
         "category": "robotics",
