@@ -1250,29 +1250,29 @@
       "status": "draft",
       "draftKind": "outline",
       "createdAt": "2026-07-30T06:14:40.841Z",
-      "updatedAt": "2026-07-30T17:11:50.113Z",
+      "updatedAt": "2026-07-30T20:52:23.145Z",
       "title": "Editorial brief — 2026-07-30",
       "dek": "Outline of selected article titles and key points for admin to write the final editorial.",
-      "body": "EDITORIAL BRIEF (outline only — not for publication as-is)\nPublish date: 2026-07-30\nInstruction: Use the titles and key points below to write the final ~300-word CoC editorial. Replace this entire brief with your finished prose before publishing.\n\n— Selected articles of the day (12) —\n\n1. [AI] A fundamental flaw leaves LLMs strikingly vulnerable to attack\n   Source: MIT Technology Review\n   URL: https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/\n   Key points:\n   • It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine…\n\n2. [Art] Zac Henderson Venerates Devil's Tower in Bold Black-and-White Photos\n   Source: Colossal\n   URL: https://www.thisiscolossal.com/2026/07/zac-henderson-devils-tower-photographs/\n   Key points:\n   • Henderson also captures the changing light and the otherworldly textures and ochres of the iconic rock.\n   • Do stories and artists like this matter to you?\n   • Become a Colossal Member today and support independent arts…\n\n3. [Biotech] Key Senate panel backs Trump’s picks for CDC, pandemic preparedness\n   Source: STAT News\n   URL: https://www.statnews.com/2026/07/30/senate-panel-backs-confirmation-health-nominees-schwartz-cdc-kaufman-aspr/?utm_campaign=rss\n   Key points:\n   • In win for RFK Jr., Senate committee sends nominations of Erica Schwartz for CDC director and Sean Kaufman for ASPR to full Senate.\n\n4. [editorial] What machines learn to touch—and what civic maps still refuse to erase\n   Source: Chronicle of Convergence · Editorial\n   URL: https://chronicleofconvergence.com/e/2026-07-28.html\n   Key points:\n   • Convergence of machine cognition and civic testimony\n\n5. [Energy] Duh, solar power doesn't work at night — but it excels during the day\n   Source: Canary Media\n   URL: https://www.canarymedia.com/articles/solar/doe-solar-power-day-night-texas\n   Key points:\n   • Yesterday, the Department of Energy took to social media to try and make a scandal out of a well-known fact: Solar panels do not generate power at night.\n   • It’s an old and lazy swipe that critics of renewable energy love…\n\n6. [Neuroscience] Resource Limits and Noise Dictate Memory\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/resource-limits-noise-memory-31152/\n   Key points:\n   • A new study presents a mathematical framework showing that organisms shift abruptly from reactive to memory-based strategies only when energy resources exceed a critical threshold, with memory offering peak utility…\n\n7. [Robotics] COPA-DATA invests €15 million to expand Salzburg R&D headquarters\n   Source: Robotics & Automation News\n   URL: https://roboticsandautomationnews.com/2026/07/30/copa-data-invests-e15-million-to-expand-salzburg-rd-headquarters/103787/\n   Key points:\n   • Global demand for digitalization solutions in industry and the energy sector continues to grow.\n   • COPA-DATA is addressing this demand with its zenon software platform.\n   • Key drivers include industrial digitalization, the…\n\n8. [Space] Rocket Lab wins another launch contract from Japan’s iQPS\n   Source: SpaceNews\n   URL: https://spacenews.com/rocket-lab-wins-another-launch-contract-from-japans-iqps/\n   Key points:\n   • Rocket Lab has won another contract from Japanese radar imaging company iQPS for multiple launches of its Electron rocket.\n   • The post Rocket Lab wins another launch contract from Japan’s iQPS appeared first on SpaceNews .\n\n9. [Space] Space Force awards All Points $250 million to expand satellite processing at Vandenberg\n   Source: SpaceNews\n   URL: https://spacenews.com/space-force-awards-all-points-250-million-to-expand-satellite-processing-at-vandenberg/\n   Key points:\n   • All Points Logistics is the third company selected under a Commercial Solutions Opening to add facilities where satellites can be inspected, tested, fueled and prepared for integration with launch vehicles The post…\n\n10. [Biotech] STAT+: Hims misled consumers and violated their privacy, FTC alleges in a lawsuit\n   Source: STAT News\n   URL: https://www.statnews.com/2026/07/29/ftc-lawsuit-hims-alleging-deceptive-business-practices/?utm_campaign=rss\n   Key points:\n   • Federal Trade Commission sued telehealth company Hims & Hers alleging business practices that agency says misled consumers.\n\n11. [Art] Elaine de Kooning’s JFK portrait series to go on view in New York this fall.\n   Source: Artsy\n   URL: https://www.artsy.net/article/artsy-editorial-laine-de-koonings-jfk-portrait-series-view-new-york-fall\n   Key points:\n   • A major exhibition of Elaine de Kooning ’s work will open at Berry Campbell Gallery in New York on October 29th, spanning four decades of the Abstract Expressionist ’s career from 1948 to 1988.\n\n12. [Robotics] Best Construction Scheduling Software for Contractors\n   Source: Robotics & Automation News\n   URL: https://roboticsandautomationnews.com/2026/07/29/best-construction-scheduling-software-for-contractors/103724/\n   Key points:\n   • Construction scheduling is where most projects quietly fall apart.\n   • Not during the build itself, but in the planning gaps where subcontractors overlap, crews wait on materials, and the office loses touch with the field.…\n\n— Categories present —\nAI · Art · Biotech · editorial · Energy · Neuroscience · Robotics · Space\n\n— Admin checklist —\n• Draft original title + dek\n• Write body (~280–320 words) in CoC voice\n• Set hero image URL + credit\n• Mark published when ready",
+      "body": "EDITORIAL BRIEF (outline only — not for publication as-is)\nPublish date: 2026-07-30\nInstruction: Use the titles and key points below to write the final ~300-word CoC editorial. Replace this entire brief with your finished prose before publishing.\n\n— Selected articles of the day (12) —\n\n1. [AI] Gemini 3.6 Flash and 3.5 Flash-Lite now available through official API for developers and AI agents\n   Source: X · @web3l0var\n   URL: https://x.com/web3l0var/status/2079909448219271368\n   Key points:\n   • Model ecosystem expansion: Gemini 3.6 Flash and Gemini 3.5 Flash-Lite via official API access.\n\n2. [Art] Sculptor Tony Cragg to be awarded the 2026 European Culture Prize.\n   Source: Artsy\n   URL: https://www.artsy.net/article/artsy-editorial-sculptor-tony-cragg-awarded-2026-european-culture-prize\n   Key points:\n   • Sir Tony Cragg will receive the prestigious European Culture Prize 2026, the European Cultural Forum announced.\n   • eThe award will be presented on September 4th at the Royal Concertgebouw in Amsterdam.\n\n3. [Biotech] Capricor's data clash and a fugitive in the C-suite\n   Source: STAT News\n   URL: https://www.statnews.com/2026/07/30/capricor-duchenne-replimune-melanoma-fugitive-biotech-readout-loud-podcast/?utm_campaign=rss\n   Key points:\n   • Is the FDA taking inconsistent approaches to Duchenne drugs?\n   • And how will a new batch of drug executives shake up their companies?\n   • Find out on the latest episode of \"The…\n\n4. [editorial] What machines learn to touch—and what civic maps still refuse to erase\n   Source: Chronicle of Convergence · Editorial\n   URL: https://chronicleofconvergence.com/e/2026-07-28.html\n   Key points:\n   • Convergence of machine cognition and civic testimony\n\n5. [Energy] Antora snags $550M for heat batteries to run data centers and factories\n   Source: Canary Media\n   URL: https://www.canarymedia.com/articles/climatetech-finance/antora-550m-heat-batteries\n   Key points:\n   • The startup Antora Energy just raised $550 million to build and deploy more of its heat-storing batteries for powering data centers and cleaning up factories.\n   • On Thursday, San Jose, California–based Antora said it…\n\n6. [Neuroscience] Psilocybin Therapy Drives 75% PTSD Remission\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/psilocybin-ptsd-remission-31159/\n   Key points:\n   • A new study demonstrates that psilocybin-assisted therapy is safe and achieves a 75% remission rate in veterans with severe, treatment-resistant PTSD.\n\n7. [Robotics] Best Construction Scheduling Software for Contractors\n   Source: Robotics & Automation News\n   URL: https://roboticsandautomationnews.com/2026/07/29/best-construction-scheduling-software-for-contractors/103724/\n   Key points:\n   • Construction scheduling is where most projects quietly fall apart.\n   • Not during the build itself, but in the planning gaps where subcontractors overlap, crews wait on materials, and the office loses touch with the field.…\n\n8. [Space] K2 Space raises $500 million for commercial, defense satellite expansion\n   Source: SpaceNews\n   URL: https://spacenews.com/k2-space-raises-500-million-for-commercial-defense-satellite-expansion/\n   Key points:\n   • The Series D more than doubles the satellite manufacturer’s valuation in seven months and will fund a production ramp to as many as 100 large spacecraft a year The post K2 Space raises $500 million for commercial,…\n\n9. [Neuroscience] Resource Limits and Noise Dictate Memory\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/resource-limits-noise-memory-31152/\n   Key points:\n   • A new study presents a mathematical framework showing that organisms shift abruptly from reactive to memory-based strategies only when energy resources exceed a critical threshold, with memory offering peak utility…\n\n10. [Space] Space Force awards All Points $250 million to expand satellite processing at Vandenberg\n   Source: SpaceNews\n   URL: https://spacenews.com/space-force-awards-all-points-250-million-to-expand-satellite-processing-at-vandenberg/\n   Key points:\n   • All Points Logistics is the third company selected under a Commercial Solutions Opening to add facilities where satellites can be inspected, tested, fueled and prepared for integration with launch vehicles The post…\n\n11. [Biotech] STAT+: Hims misled consumers and violated their privacy, FTC alleges in a lawsuit\n   Source: STAT News\n   URL: https://www.statnews.com/2026/07/29/ftc-lawsuit-hims-alleging-deceptive-business-practices/?utm_campaign=rss\n   Key points:\n   • Federal Trade Commission sued telehealth company Hims & Hers alleging business practices that agency says misled consumers.\n\n12. [Art] Elaine de Kooning’s JFK portrait series to go on view in New York this fall.\n   Source: Artsy\n   URL: https://www.artsy.net/article/artsy-editorial-laine-de-koonings-jfk-portrait-series-view-new-york-fall\n   Key points:\n   • A major exhibition of Elaine de Kooning ’s work will open at Berry Campbell Gallery in New York on October 29th, spanning four decades of the Abstract Expressionist ’s career from 1948 to 1988.\n\n— Categories present —\nAI · Art · Biotech · editorial · Energy · Neuroscience · Robotics · Space\n\n— Admin checklist —\n• Draft original title + dek\n• Write body (~280–320 words) in CoC voice\n• Set hero image URL + credit\n• Mark published when ready",
       "paragraphs": [
         "EDITORIAL BRIEF (outline only — not for publication as-is)\nPublish date: 2026-07-30\nInstruction: Use the titles and key points below to write the final ~300-word CoC editorial. Replace this entire brief with your finished prose before publishing.",
         "— Selected articles of the day (12) —",
-        "1. [AI] A fundamental flaw leaves LLMs strikingly vulnerable to attack\n   Source: MIT Technology Review\n   URL: https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/\n   Key points:\n   • It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine…",
-        "2. [Art] Zac Henderson Venerates Devil's Tower in Bold Black-and-White Photos\n   Source: Colossal\n   URL: https://www.thisiscolossal.com/2026/07/zac-henderson-devils-tower-photographs/\n   Key points:\n   • Henderson also captures the changing light and the otherworldly textures and ochres of the iconic rock.\n   • Do stories and artists like this matter to you?\n   • Become a Colossal Member today and support independent arts…",
-        "3. [Biotech] Key Senate panel backs Trump’s picks for CDC, pandemic preparedness\n   Source: STAT News\n   URL: https://www.statnews.com/2026/07/30/senate-panel-backs-confirmation-health-nominees-schwartz-cdc-kaufman-aspr/?utm_campaign=rss\n   Key points:\n   • In win for RFK Jr., Senate committee sends nominations of Erica Schwartz for CDC director and Sean Kaufman for ASPR to full Senate.",
+        "1. [AI] Gemini 3.6 Flash and 3.5 Flash-Lite now available through official API for developers and AI agents\n   Source: X · @web3l0var\n   URL: https://x.com/web3l0var/status/2079909448219271368\n   Key points:\n   • Model ecosystem expansion: Gemini 3.6 Flash and Gemini 3.5 Flash-Lite via official API access.",
+        "2. [Art] Sculptor Tony Cragg to be awarded the 2026 European Culture Prize.\n   Source: Artsy\n   URL: https://www.artsy.net/article/artsy-editorial-sculptor-tony-cragg-awarded-2026-european-culture-prize\n   Key points:\n   • Sir Tony Cragg will receive the prestigious European Culture Prize 2026, the European Cultural Forum announced.\n   • eThe award will be presented on September 4th at the Royal Concertgebouw in Amsterdam.",
+        "3. [Biotech] Capricor's data clash and a fugitive in the C-suite\n   Source: STAT News\n   URL: https://www.statnews.com/2026/07/30/capricor-duchenne-replimune-melanoma-fugitive-biotech-readout-loud-podcast/?utm_campaign=rss\n   Key points:\n   • Is the FDA taking inconsistent approaches to Duchenne drugs?\n   • And how will a new batch of drug executives shake up their companies?\n   • Find out on the latest episode of \"The…",
         "4. [editorial] What machines learn to touch—and what civic maps still refuse to erase\n   Source: Chronicle of Convergence · Editorial\n   URL: https://chronicleofconvergence.com/e/2026-07-28.html\n   Key points:\n   • Convergence of machine cognition and civic testimony",
-        "5. [Energy] Duh, solar power doesn't work at night — but it excels during the day\n   Source: Canary Media\n   URL: https://www.canarymedia.com/articles/solar/doe-solar-power-day-night-texas\n   Key points:\n   • Yesterday, the Department of Energy took to social media to try and make a scandal out of a well-known fact: Solar panels do not generate power at night.\n   • It’s an old and lazy swipe that critics of renewable energy love…",
-        "6. [Neuroscience] Resource Limits and Noise Dictate Memory\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/resource-limits-noise-memory-31152/\n   Key points:\n   • A new study presents a mathematical framework showing that organisms shift abruptly from reactive to memory-based strategies only when energy resources exceed a critical threshold, with memory offering peak utility…",
-        "7. [Robotics] COPA-DATA invests €15 million to expand Salzburg R&D headquarters\n   Source: Robotics & Automation News\n   URL: https://roboticsandautomationnews.com/2026/07/30/copa-data-invests-e15-million-to-expand-salzburg-rd-headquarters/103787/\n   Key points:\n   • Global demand for digitalization solutions in industry and the energy sector continues to grow.\n   • COPA-DATA is addressing this demand with its zenon software platform.\n   • Key drivers include industrial digitalization, the…",
-        "8. [Space] Rocket Lab wins another launch contract from Japan’s iQPS\n   Source: SpaceNews\n   URL: https://spacenews.com/rocket-lab-wins-another-launch-contract-from-japans-iqps/\n   Key points:\n   • Rocket Lab has won another contract from Japanese radar imaging company iQPS for multiple launches of its Electron rocket.\n   • The post Rocket Lab wins another launch contract from Japan’s iQPS appeared first on SpaceNews .",
-        "9. [Space] Space Force awards All Points $250 million to expand satellite processing at Vandenberg\n   Source: SpaceNews\n   URL: https://spacenews.com/space-force-awards-all-points-250-million-to-expand-satellite-processing-at-vandenberg/\n   Key points:\n   • All Points Logistics is the third company selected under a Commercial Solutions Opening to add facilities where satellites can be inspected, tested, fueled and prepared for integration with launch vehicles The post…",
-        "10. [Biotech] STAT+: Hims misled consumers and violated their privacy, FTC alleges in a lawsuit\n   Source: STAT News\n   URL: https://www.statnews.com/2026/07/29/ftc-lawsuit-hims-alleging-deceptive-business-practices/?utm_campaign=rss\n   Key points:\n   • Federal Trade Commission sued telehealth company Hims & Hers alleging business practices that agency says misled consumers.",
-        "11. [Art] Elaine de Kooning’s JFK portrait series to go on view in New York this fall.\n   Source: Artsy\n   URL: https://www.artsy.net/article/artsy-editorial-laine-de-koonings-jfk-portrait-series-view-new-york-fall\n   Key points:\n   • A major exhibition of Elaine de Kooning ’s work will open at Berry Campbell Gallery in New York on October 29th, spanning four decades of the Abstract Expressionist ’s career from 1948 to 1988.",
-        "12. [Robotics] Best Construction Scheduling Software for Contractors\n   Source: Robotics & Automation News\n   URL: https://roboticsandautomationnews.com/2026/07/29/best-construction-scheduling-software-for-contractors/103724/\n   Key points:\n   • Construction scheduling is where most projects quietly fall apart.\n   • Not during the build itself, but in the planning gaps where subcontractors overlap, crews wait on materials, and the office loses touch with the field.…",
+        "5. [Energy] Antora snags $550M for heat batteries to run data centers and factories\n   Source: Canary Media\n   URL: https://www.canarymedia.com/articles/climatetech-finance/antora-550m-heat-batteries\n   Key points:\n   • The startup Antora Energy just raised $550 million to build and deploy more of its heat-storing batteries for powering data centers and cleaning up factories.\n   • On Thursday, San Jose, California–based Antora said it…",
+        "6. [Neuroscience] Psilocybin Therapy Drives 75% PTSD Remission\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/psilocybin-ptsd-remission-31159/\n   Key points:\n   • A new study demonstrates that psilocybin-assisted therapy is safe and achieves a 75% remission rate in veterans with severe, treatment-resistant PTSD.",
+        "7. [Robotics] Best Construction Scheduling Software for Contractors\n   Source: Robotics & Automation News\n   URL: https://roboticsandautomationnews.com/2026/07/29/best-construction-scheduling-software-for-contractors/103724/\n   Key points:\n   • Construction scheduling is where most projects quietly fall apart.\n   • Not during the build itself, but in the planning gaps where subcontractors overlap, crews wait on materials, and the office loses touch with the field.…",
+        "8. [Space] K2 Space raises $500 million for commercial, defense satellite expansion\n   Source: SpaceNews\n   URL: https://spacenews.com/k2-space-raises-500-million-for-commercial-defense-satellite-expansion/\n   Key points:\n   • The Series D more than doubles the satellite manufacturer’s valuation in seven months and will fund a production ramp to as many as 100 large spacecraft a year The post K2 Space raises $500 million for commercial,…",
+        "9. [Neuroscience] Resource Limits and Noise Dictate Memory\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/resource-limits-noise-memory-31152/\n   Key points:\n   • A new study presents a mathematical framework showing that organisms shift abruptly from reactive to memory-based strategies only when energy resources exceed a critical threshold, with memory offering peak utility…",
+        "10. [Space] Space Force awards All Points $250 million to expand satellite processing at Vandenberg\n   Source: SpaceNews\n   URL: https://spacenews.com/space-force-awards-all-points-250-million-to-expand-satellite-processing-at-vandenberg/\n   Key points:\n   • All Points Logistics is the third company selected under a Commercial Solutions Opening to add facilities where satellites can be inspected, tested, fueled and prepared for integration with launch vehicles The post…",
+        "11. [Biotech] STAT+: Hims misled consumers and violated their privacy, FTC alleges in a lawsuit\n   Source: STAT News\n   URL: https://www.statnews.com/2026/07/29/ftc-lawsuit-hims-alleging-deceptive-business-practices/?utm_campaign=rss\n   Key points:\n   • Federal Trade Commission sued telehealth company Hims & Hers alleging business practices that agency says misled consumers.",
+        "12. [Art] Elaine de Kooning’s JFK portrait series to go on view in New York this fall.\n   Source: Artsy\n   URL: https://www.artsy.net/article/artsy-editorial-laine-de-koonings-jfk-portrait-series-view-new-york-fall\n   Key points:\n   • A major exhibition of Elaine de Kooning ’s work will open at Berry Campbell Gallery in New York on October 29th, spanning four decades of the Abstract Expressionist ’s career from 1948 to 1988.",
         "— Categories present —\nAI · Art · Biotech · editorial · Energy · Neuroscience · Robotics · Space",
         "— Admin checklist —\n• Draft original title + dek\n• Write body (~280–320 words) in CoC voice\n• Set hero image URL + credit\n• Mark published when ready"
       ],
-      "wordCount": 702,
+      "wordCount": 669,
       "themeId": "outline",
       "themeLabel": "Admin outline (titles + key points)",
       "formId": "outline_brief",
@@ -1285,35 +1285,36 @@
       "heroSourceUrl": "https://images.nasa.gov/details/PIA04921",
       "headlines": [
         {
-          "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
-          "source": "MIT Technology Review",
+          "title": "Gemini 3.6 Flash and 3.5 Flash-Lite now available through official API for developers and AI agents",
+          "source": "X · @web3l0var",
           "category": "ai",
-          "sourceUrl": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
-          "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine…",
+          "sourceUrl": "https://x.com/web3l0var/status/2079909448219271368",
+          "summary": "Model ecosystem expansion: Gemini 3.6 Flash and Gemini 3.5 Flash-Lite via official API access.",
           "keyPoints": [
-            "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine…"
+            "Model ecosystem expansion: Gemini 3.6 Flash and Gemini 3.5 Flash-Lite via official API access."
           ]
         },
         {
-          "title": "Zac Henderson Venerates Devil's Tower in Bold Black-and-White Photos",
-          "source": "Colossal",
+          "title": "Sculptor Tony Cragg to be awarded the 2026 European Culture Prize.",
+          "source": "Artsy",
           "category": "art",
-          "sourceUrl": "https://www.thisiscolossal.com/2026/07/zac-henderson-devils-tower-photographs/",
-          "summary": "Henderson also captures the changing light and the otherworldly textures and ochres of the iconic rock. Do stories and artists like this matter to you? Become a Colossal Member today and support independent arts…",
+          "sourceUrl": "https://www.artsy.net/article/artsy-editorial-sculptor-tony-cragg-awarded-2026-european-culture-prize",
+          "summary": "Sir Tony Cragg will receive the prestigious European Culture Prize 2026, the European Cultural Forum announced. eThe award will be presented on September 4th at the Royal Concertgebouw in Amsterdam. Born in Liverpool in…",
           "keyPoints": [
-            "Henderson also captures the changing light and the otherworldly textures and ochres of the iconic rock.",
-            "Do stories and artists like this matter to you?",
-            "Become a Colossal Member today and support independent arts…"
+            "Sir Tony Cragg will receive the prestigious European Culture Prize 2026, the European Cultural Forum announced.",
+            "eThe award will be presented on September 4th at the Royal Concertgebouw in Amsterdam."
           ]
         },
         {
-          "title": "Key Senate panel backs Trump’s picks for CDC, pandemic preparedness",
+          "title": "Capricor's data clash and a fugitive in the C-suite",
           "source": "STAT News",
           "category": "biotech",
-          "sourceUrl": "https://www.statnews.com/2026/07/30/senate-panel-backs-confirmation-health-nominees-schwartz-cdc-kaufman-aspr/?utm_campaign=rss",
-          "summary": "In win for RFK Jr., Senate committee sends nominations of Erica Schwartz for CDC director and Sean Kaufman for ASPR to full Senate.",
+          "sourceUrl": "https://www.statnews.com/2026/07/30/capricor-duchenne-replimune-melanoma-fugitive-biotech-readout-loud-podcast/?utm_campaign=rss",
+          "summary": "Is the FDA taking inconsistent approaches to Duchenne drugs? And how will a new batch of drug executives shake up their companies? Find out on the latest episode of \"The…",
           "keyPoints": [
-            "In win for RFK Jr., Senate committee sends nominations of Erica Schwartz for CDC director and Sean Kaufman for ASPR to full Senate."
+            "Is the FDA taking inconsistent approaches to Duchenne drugs?",
+            "And how will a new batch of drug executives shake up their companies?",
+            "Find out on the latest episode of \"The…"
           ]
         },
         {
@@ -1327,14 +1328,45 @@
           ]
         },
         {
-          "title": "Duh, solar power doesn't work at night — but it excels during the day",
+          "title": "Antora snags $550M for heat batteries to run data centers and factories",
           "source": "Canary Media",
           "category": "energy",
-          "sourceUrl": "https://www.canarymedia.com/articles/solar/doe-solar-power-day-night-texas",
-          "summary": "Yesterday, the Department of Energy took to social media to try and make a scandal out of a well-known fact: Solar panels do not generate power at night. It’s an old and lazy swipe that critics of renewable energy love…",
+          "sourceUrl": "https://www.canarymedia.com/articles/climatetech-finance/antora-550m-heat-batteries",
+          "summary": "The startup Antora Energy just raised $550 million to build and deploy more of its heat-storing batteries for powering data centers and cleaning up factories. On Thursday, San Jose, California–based Antora said it…",
           "keyPoints": [
-            "Yesterday, the Department of Energy took to social media to try and make a scandal out of a well-known fact: Solar panels do not generate power at night.",
-            "It’s an old and lazy swipe that critics of renewable energy love…"
+            "The startup Antora Energy just raised $550 million to build and deploy more of its heat-storing batteries for powering data centers and cleaning up factories.",
+            "On Thursday, San Jose, California–based Antora said it…"
+          ]
+        },
+        {
+          "title": "Psilocybin Therapy Drives 75% PTSD Remission",
+          "source": "Neuroscience News",
+          "category": "neuroscience",
+          "sourceUrl": "https://neurosciencenews.com/psilocybin-ptsd-remission-31159/",
+          "summary": "A new study demonstrates that psilocybin-assisted therapy is safe and achieves a 75% remission rate in veterans with severe, treatment-resistant PTSD.",
+          "keyPoints": [
+            "A new study demonstrates that psilocybin-assisted therapy is safe and achieves a 75% remission rate in veterans with severe, treatment-resistant PTSD."
+          ]
+        },
+        {
+          "title": "Best Construction Scheduling Software for Contractors",
+          "source": "Robotics & Automation News",
+          "category": "robotics",
+          "sourceUrl": "https://roboticsandautomationnews.com/2026/07/29/best-construction-scheduling-software-for-contractors/103724/",
+          "summary": "Construction scheduling is where most projects quietly fall apart. Not during the build itself, but in the planning gaps where subcontractors overlap, crews wait on materials, and the office loses touch with the field.…",
+          "keyPoints": [
+            "Construction scheduling is where most projects quietly fall apart.",
+            "Not during the build itself, but in the planning gaps where subcontractors overlap, crews wait on materials, and the office loses touch with the field.…"
+          ]
+        },
+        {
+          "title": "K2 Space raises $500 million for commercial, defense satellite expansion",
+          "source": "SpaceNews",
+          "category": "space",
+          "sourceUrl": "https://spacenews.com/k2-space-raises-500-million-for-commercial-defense-satellite-expansion/",
+          "summary": "The Series D more than doubles the satellite manufacturer’s valuation in seven months and will fund a production ramp to as many as 100 large spacecraft a year The post K2 Space raises $500 million for commercial,…",
+          "keyPoints": [
+            "The Series D more than doubles the satellite manufacturer’s valuation in seven months and will fund a production ramp to as many as 100 large spacecraft a year The post K2 Space raises $500 million for commercial,…"
           ]
         },
         {
@@ -1345,29 +1377,6 @@
           "summary": "A new study presents a mathematical framework showing that organisms shift abruptly from reactive to memory-based strategies only when energy resources exceed a critical threshold, with memory offering peak utility…",
           "keyPoints": [
             "A new study presents a mathematical framework showing that organisms shift abruptly from reactive to memory-based strategies only when energy resources exceed a critical threshold, with memory offering peak utility…"
-          ]
-        },
-        {
-          "title": "COPA-DATA invests €15 million to expand Salzburg R&D headquarters",
-          "source": "Robotics & Automation News",
-          "category": "robotics",
-          "sourceUrl": "https://roboticsandautomationnews.com/2026/07/30/copa-data-invests-e15-million-to-expand-salzburg-rd-headquarters/103787/",
-          "summary": "Global demand for digitalization solutions in industry and the energy sector continues to grow. COPA-DATA is addressing this demand with its zenon software platform. Key drivers include industrial digitalization, the…",
-          "keyPoints": [
-            "Global demand for digitalization solutions in industry and the energy sector continues to grow.",
-            "COPA-DATA is addressing this demand with its zenon software platform.",
-            "Key drivers include industrial digitalization, the…"
-          ]
-        },
-        {
-          "title": "Rocket Lab wins another launch contract from Japan’s iQPS",
-          "source": "SpaceNews",
-          "category": "space",
-          "sourceUrl": "https://spacenews.com/rocket-lab-wins-another-launch-contract-from-japans-iqps/",
-          "summary": "Rocket Lab has won another contract from Japanese radar imaging company iQPS for multiple launches of its Electron rocket. The post Rocket Lab wins another launch contract from Japan’s iQPS appeared first on SpaceNews .",
-          "keyPoints": [
-            "Rocket Lab has won another contract from Japanese radar imaging company iQPS for multiple launches of its Electron rocket.",
-            "The post Rocket Lab wins another launch contract from Japan’s iQPS appeared first on SpaceNews ."
           ]
         },
         {
@@ -1398,17 +1407,6 @@
           "summary": "A major exhibition of Elaine de Kooning ’s work will open at Berry Campbell Gallery in New York on October 29th, spanning four decades of the Abstract Expressionist ’s career from 1948 to 1988. It is the first major…",
           "keyPoints": [
             "A major exhibition of Elaine de Kooning ’s work will open at Berry Campbell Gallery in New York on October 29th, spanning four decades of the Abstract Expressionist ’s career from 1948 to 1988."
-          ]
-        },
-        {
-          "title": "Best Construction Scheduling Software for Contractors",
-          "source": "Robotics & Automation News",
-          "category": "robotics",
-          "sourceUrl": "https://roboticsandautomationnews.com/2026/07/29/best-construction-scheduling-software-for-contractors/103724/",
-          "summary": "Construction scheduling is where most projects quietly fall apart. Not during the build itself, but in the planning gaps where subcontractors overlap, crews wait on materials, and the office loses touch with the field.…",
-          "keyPoints": [
-            "Construction scheduling is where most projects quietly fall apart.",
-            "Not during the build itself, but in the planning gaps where subcontractors overlap, crews wait on materials, and the office loses touch with the field.…"
           ]
         }
       ]
