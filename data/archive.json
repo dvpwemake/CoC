@@ -1,22 +1,44 @@
 [
   {
-    "batchId": "auto_2026-07-30T13-19",
-    "scannedAt": "2026-07-30T13:19:12.628Z",
+    "batchId": "auto_2026-07-30T17-11",
+    "scannedAt": "2026-07-30T17:11:50.051Z",
     "items": [
       {
-        "id": "auto_2026-07-30T13-19_1",
+        "id": "auto_2026-07-30T17-11_1",
         "rank": 1,
-        "title": "STAT+: Pharmalittle: We're reading about an FDA panel nixing a Duchenne drug, FTC suing Hims & Hers, and more",
-        "category": "biotech",
-        "summary": "An FDA advisory panel concluded clinical data for a Capricor treatment for Duchenne muscular dystrophy did not provide “substantial evidence” of efficacy",
-        "image": "https://www.statnews.com/wp-content/uploads/2015/11/PHARMALOT_LITTLE-copy-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/pharmalot/2026/07/30/fda-panel-nixes-duchenne-drug-ftc-sues-hims-and-hers/?utm_campaign=rss",
+        "title": "Zac Henderson Venerates Devil's Tower in Bold Black-and-White Photos",
+        "category": "art",
+        "summary": "Henderson also captures the changing light and the otherworldly textures and ochres of the iconic rock. Do stories and artists like this matter to you? Become a Colossal Member today and support independent arts…",
+        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/07/henderson-6.jpg",
+        "source": "Colossal",
+        "sourceUrl": "https://www.thisiscolossal.com/2026/07/zac-henderson-devils-tower-photographs/",
         "fromX": false
       },
       {
-        "id": "auto_2026-07-30T13-19_2",
+        "id": "auto_2026-07-30T17-11_2",
         "rank": 2,
+        "title": "COPA-DATA invests €15 million to expand Salzburg R&D headquarters",
+        "category": "robotics",
+        "summary": "Global demand for digitalization solutions in industry and the energy sector continues to grow. COPA-DATA is addressing this demand with its zenon software platform. Key drivers include industrial digitalization, the…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/07/copa-data-salzburg-1.png",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/07/30/copa-data-invests-e15-million-to-expand-salzburg-rd-headquarters/103787/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-30T17-11_3",
+        "rank": 3,
+        "title": "Key Senate panel backs Trump’s picks for CDC, pandemic preparedness",
+        "category": "biotech",
+        "summary": "In win for RFK Jr., Senate committee sends nominations of Erica Schwartz for CDC director and Sean Kaufman for ASPR to full Senate.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/07/GettyImages-2286229894-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/07/30/senate-panel-backs-confirmation-health-nominees-schwartz-cdc-kaufman-aspr/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-30T17-11_4",
+        "rank": 4,
         "title": "Rocket Lab wins another launch contract from Japan’s iQPS",
         "category": "space",
         "summary": "Rocket Lab has won another contract from Japanese radar imaging company iQPS for multiple launches of its Electron rocket. The post Rocket Lab wins another launch contract from Japan’s iQPS appeared first on SpaceNews .",
@@ -26,36 +48,14 @@
         "fromX": false
       },
       {
-        "id": "auto_2026-07-30T13-19_3",
-        "rank": 3,
-        "title": "Tennant cuts product-use emissions by 30 percent as autonomous cleaning expands",
-        "category": "robotics",
-        "summary": "Tennant’s 2026 Sustainability Report details progress on renewable electricity, product emissions and technologies designed to reduce water, energy and chemical use Commercial cleaning could be one of the most…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2025/09/tennant-co-cleaning-robot-1.jpg",
-        "source": "Robotics & Automation News",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/07/30/tennant-cuts-product-use-emissions-by-30-percent-as-autonomous-cleaning-expands/103778/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-07-30T13-19_4",
-        "rank": 4,
+        "id": "auto_2026-07-30T17-11_5",
+        "rank": 5,
         "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
         "category": "ai",
         "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine…",
         "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/chain-link.jpg?resize=1200,600",
         "source": "MIT Technology Review",
         "sourceUrl": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-07-30T13-19_5",
-        "rank": 5,
-        "title": "This Texas coal mine will soon be home to a 1.2GW solar farm",
-        "category": "energy",
-        "summary": "Construction is underway on a $1.7 billion solar and battery storage project in Texas that will turn existing coal mining land into a hub of clean energy generation. Panamint Capital announced last week that it broke…",
-        "image": "https://img.canarymedia.com/content/uploads/Twin-Oaks-2-1.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=5d063737a16cd25f5f123d93227b1ab2",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/solar/texas-coal-mine-solar-farm",
         "fromX": false
       }
     ]
