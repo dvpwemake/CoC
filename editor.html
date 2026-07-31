@@ -161,6 +161,21 @@ a{color:inherit;text-decoration:none}
 .img-adj-actions{display:flex;flex-wrap:wrap;gap:.4rem;margin-top:.45rem}
 .img-adj-empty{padding:2rem 1rem;text-align:center;color:var(--text-dim);font-family:var(--font-mono);font-size:.58rem;border:1px dashed var(--border);border-radius:8px}
 
+/* Editorial hero picker — thumbnails from selected day articles */
+.ed-hero-pick-hint{font-family:var(--font-mono);font-size:.52rem;color:var(--text-dim);line-height:1.55;margin:0 0 .45rem}
+.ed-hero-pick-toolbar{display:flex;flex-wrap:wrap;gap:.4rem;align-items:center;margin:0 0 .55rem}
+.ed-hero-pick-count{font-family:var(--font-mono);font-size:.5rem;color:var(--text-dim);margin-left:.15rem}
+.ed-hero-pick{display:grid;grid-template-columns:repeat(auto-fill,minmax(118px,1fr));gap:.55rem;margin:0 0 .85rem}
+.ed-hero-pick-card{display:block;width:100%;border:1px solid var(--border);border-radius:8px;background:var(--bg-input);cursor:pointer;padding:0;overflow:hidden;text-align:left;color:inherit;font:inherit;transition:border-color .15s,box-shadow .15s}
+.ed-hero-pick-card:hover{border-color:#2a2a3a;background:var(--bg-hover)}
+.ed-hero-pick-card.sel{border-color:var(--accent);box-shadow:0 0 0 1px var(--accent)}
+.ed-hero-pick-card:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.ed-hero-pick-card img{width:100%;height:78px;object-fit:cover;display:block;background:var(--bg);border:0}
+.ed-hero-pick-card img.fail{opacity:.3}
+.ed-hero-pick-meta{display:block;padding:.35rem .4rem .45rem;font-family:var(--font-mono);font-size:.42rem;line-height:1.35;color:var(--text-dim)}
+.ed-hero-pick-meta b{display:block;color:var(--text);font-size:.55rem;font-weight:500;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;margin-bottom:.12rem;font-family:var(--font-sans)}
+.ed-hero-pick-empty{padding:1.1rem .85rem;text-align:center;color:var(--text-dim);font-family:var(--font-mono);font-size:.55rem;line-height:1.55;border:1px dashed var(--border);border-radius:8px;grid-column:1/-1}
+
 </style>
 </head>
 <body>
@@ -225,7 +240,7 @@ a{color:inherit;text-decoration:none}
   <div class="ws" id="ws">
     <div class="ic">◇</div>
     <h2>Welcome, Editor</h2>
-    <p><span class="sn">1</span> <b>⚡ Crawl</b> — news (also auto-fills outline draft on server crawl)<br><span class="sn">2</span> <b>☰ Edit crawl list</b> — add/remove RSS feeds · domain blacklist<br><span class="sn">3</span> <b>🖼 Image Adjustment</b> — fix head image URLs (all articles)<br><span class="sn">4</span> <b>✦ Editorial Draft</b> — load outline · write prose · <b>◎ Preview</b><br><span class="sn">5</span> <b>↑ Publish Editorial</b> — push to GitHub / live (no download)</p>
+    <p><span class="sn">1</span> <b>⚡ Crawl</b> — news (also auto-fills outline draft on server crawl)<br><span class="sn">2</span> <b>☰ Edit crawl list</b> — add/remove RSS feeds · domain blacklist<br><span class="sn">3</span> <b>🖼 Image Adjustment</b> — fix head image URLs (all articles)<br><span class="sn">4</span> <b>✦ Editorial Draft</b> — load outline · write prose · pick hero from article thumbs · <b>◎ Preview</b><br><span class="sn">5</span> <b>↑ Publish Editorial</b> — push to GitHub / live (no download)</p>
   </div>
   <div id="srcP">
     <div class="ph">
@@ -293,7 +308,16 @@ a{color:inherit;text-decoration:none}
     <div class="fg"><label class="fl">Body — outline = titles/URLs/key points; replace with final ~300w prose before publish</label><textarea class="fta" id="edBody" style="min-height:220px;font-family:var(--font-mono);font-size:.72rem;line-height:1.55"></textarea>
       <div style="font-family:var(--font-mono);font-size:.5rem;color:var(--text-dim);margin-top:.3rem">Words: <span id="edWC">0</span> · Outline drafts are not publication-ready</div>
     </div>
-    <div class="fg"><label class="fl">Hero image URL</label><input type="url" class="fi" id="edHero" placeholder="https://… public domain image">
+    <div class="fg">
+      <label class="fl">Hero image — from selected articles</label>
+      <p class="ed-hero-pick-hint">Thumbnails of head images from the day’s selected field-signal stories. Click one to set the editorial head image (credit/source fill automatically). Manual URL remains as override.</p>
+      <div class="ed-hero-pick-toolbar">
+        <button type="button" class="btn" id="edHeroRefreshBtn" onclick="refreshEdHeroPicker()">↻ Refresh thumbs</button>
+        <span class="ed-hero-pick-count" id="edHeroPickCount"></span>
+      </div>
+      <div class="ed-hero-pick" id="edHeroPick" role="listbox" aria-label="Select editorial hero from article images"></div>
+      <label class="fl">Hero image URL</label>
+      <input type="url" class="fi" id="edHero" placeholder="https://… article head image (or paste override)">
       <div class="ip" id="edImgP" style="margin-top:.4rem"><span class="ph-t">Hero preview</span></div>
     </div>
     <div class="fr">
@@ -375,7 +399,13 @@ function initEditorApp(){
     const edBody=document.getElementById('edBody');
     if(edBody && !edBody.dataset.bound){ edBody.dataset.bound='1'; edBody.addEventListener('input',countEdWords); }
     const edHero=document.getElementById('edHero');
-    if(edHero && !edHero.dataset.bound){ edHero.dataset.bound='1'; edHero.addEventListener('input',e=>updEdImg(e.target.value)); }
+    if(edHero && !edHero.dataset.bound){
+      edHero.dataset.bound='1';
+      edHero.addEventListener('input',e=>{
+        updEdImg(e.target.value);
+        renderEdHeroPicker(); // keep selection ring in sync with manual URL
+      });
+    }
     document.querySelectorAll('.mo').forEach(o=>{
       if(o.dataset.bound) return;
       o.dataset.bound='1';
@@ -665,6 +695,8 @@ function openEdFormWith(ed){
   hidePanelsKeepAside();
   document.getElementById('edForm').style.display='block';
   fillEditorialForm(ed||{});
+  // Ensure picker has images even for older drafts that predate image-on-headline
+  refreshEdHeroPicker({ silent:true, preferExisting:true });
 }
 async function forceEditorialDraft(){
   if(drafting)return;
@@ -1259,6 +1291,143 @@ function pickEditorialForForm(){
   if(hasEdContent(ED.published)) return ED.published;
   return {};
 }
+/** Headlines (with images) for the open editorial form — drives hero thumbnails. */
+let ED_FORM_HEADLINES=[];
+
+function normalizeHeadlineRow(h){
+  h=h||{};
+  return{
+    title:String(h.title||'').trim(),
+    source:String(h.source||'').trim(),
+    category:h.category||'',
+    sourceUrl:h.sourceUrl||h.link||'',
+    summary:String(h.summary||h.description||'').trim(),
+    image:String(h.image||h.heroImage||'').trim(),
+    keyPoints:Array.isArray(h.keyPoints)?h.keyPoints:undefined
+  };
+}
+
+function heroCandidatesFromForm(){
+  if(window.CocEditorial&&typeof CocEditorial.heroCandidatesFromHeadlines==='function'){
+    return CocEditorial.heroCandidatesFromHeadlines(ED_FORM_HEADLINES);
+  }
+  const out=[]; const seen=new Set();
+  for(const h of ED_FORM_HEADLINES||[]){
+    const url=String(h.image||'').trim();
+    if(!url) continue;
+    const key=url.split('?')[0].toLowerCase();
+    if(seen.has(key)) continue;
+    seen.add(key);
+    out.push({image:url,title:h.title||'',source:h.source||'',category:h.category||'',sourceUrl:h.sourceUrl||''});
+  }
+  return out;
+}
+
+function setEdHeroFromCandidate(c){
+  if(!c||!c.image) return;
+  document.getElementById('edHero').value=c.image;
+  document.getElementById('edHeroCredit').value=c.title||c.source||'Field signal';
+  document.getElementById('edHeroSource').value=c.source||'Selected article';
+  document.getElementById('edHeroSourceUrl').value=c.sourceUrl||'';
+  updEdImg(c.image);
+}
+
+function renderEdHeroPicker(){
+  const root=document.getElementById('edHeroPick');
+  const countEl=document.getElementById('edHeroPickCount');
+  if(!root) return;
+  const cands=heroCandidatesFromForm();
+  const cur=(document.getElementById('edHero')&&document.getElementById('edHero').value||'').trim();
+  const curKey=cur?cur.split('?')[0].toLowerCase():'';
+  if(countEl) countEl.textContent=cands.length?(cands.length+' image'+(cands.length===1?'':'s')+' from selected articles'):'No article images';
+  if(!cands.length){
+    root.innerHTML='<div class="ed-hero-pick-empty">No article head images on file for this draft.<br>Run <b>⚡ Crawl</b>, then <b>✦ Editorial Draft</b> or <b>↻ Refresh thumbs</b>. You can still paste a URL below.</div>';
+    return;
+  }
+  root.innerHTML=cands.map((c,i)=>{
+    const key=c.image.split('?')[0].toLowerCase();
+    const sel=curKey&&curKey===key;
+    const thumb=typeof thumbProxy==='function'?thumbProxy(c.image):c.image;
+    const cat=typeof fC==='function'?fC(c.category): (c.category||'');
+    return `<button type="button" class="ed-hero-pick-card${sel?' sel':''}" role="option" aria-selected="${sel?'true':'false'}" data-i="${i}" onclick="selectEdHero(${i})" title="${escAttr(c.title||'Article image')}">
+      <img alt="" referrerpolicy="no-referrer" src="${escAttr(thumb)}" data-raw="${escAttr(c.image)}"
+        onerror="if(!this.dataset.tryraw){this.dataset.tryraw='1';this.src=this.dataset.raw||'';return;} this.classList.add('fail');">
+      <span class="ed-hero-pick-meta"><b>${escHtml(c.title||'Untitled')}</b>${escHtml(cat)} · ${escHtml(c.source||'—')}</span>
+    </button>`;
+  }).join('');
+}
+
+function selectEdHero(i){
+  const cands=heroCandidatesFromForm();
+  const c=cands[i];
+  if(!c){ toast('Image not found','warning'); return; }
+  setEdHeroFromCandidate(c);
+  renderEdHeroPicker();
+  toast('Hero set from article image','success');
+  addLog('ok','Editorial hero selected · '+(c.source||'')+' · '+(c.title||'').slice(0,60));
+}
+
+/**
+ * Reload article head images into the hero picker.
+ * @param {{silent?:boolean, preferExisting?:boolean, defaultIfEmpty?:boolean}} opts
+ */
+async function refreshEdHeroPicker(opts){
+  opts=opts||{};
+  const btn=document.getElementById('edHeroRefreshBtn');
+  if(btn){ btn.disabled=true; btn.textContent='↻ Loading…'; }
+  try{
+    let list=(ED_FORM_HEADLINES||[]).map(normalizeHeadlineRow);
+    const fromArchive=await loadHeadlinesForDraft();
+    const archMapped=(fromArchive||[]).map(normalizeHeadlineRow);
+    const byTitle=new Map(archMapped.map(h=>[String(h.title||'').toLowerCase(),h]));
+
+    // Merge: keep draft order/selection when present; fill missing images from archive
+    if(list.length){
+      list=list.map(h=>{
+        const m=byTitle.get(String(h.title||'').toLowerCase());
+        if(!m) return h;
+        return normalizeHeadlineRow(Object.assign({},h,{
+          image:h.image||m.image||'',
+          source:h.source||m.source||'',
+          sourceUrl:h.sourceUrl||m.sourceUrl||'',
+          summary:h.summary||m.summary||'',
+          category:h.category||m.category||''
+        }));
+      });
+    }
+    // If draft has no headlines (or no images after merge), use archive selection list
+    const needArch=!list.length || !list.some(h=>h.image);
+    if(needArch && archMapped.length){
+      if(opts.preferExisting && list.length){
+        if(!list.some(h=>h.image)) list=archMapped;
+      }else{
+        list=archMapped;
+      }
+    }
+
+    ED_FORM_HEADLINES=list;
+    // Default hero to first article image when empty (new draft path)
+    const cur=(document.getElementById('edHero')&&document.getElementById('edHero').value||'').trim();
+    const cands=(window.CocEditorial&&CocEditorial.heroCandidatesFromHeadlines
+      ? CocEditorial.heroCandidatesFromHeadlines(ED_FORM_HEADLINES)
+      : ED_FORM_HEADLINES.filter(h=>h.image).map(h=>({image:h.image,title:h.title,source:h.source,sourceUrl:h.sourceUrl,category:h.category})));
+    if(!cur && cands[0] && (opts.defaultIfEmpty!==false)){
+      setEdHeroFromCandidate(cands[0]);
+    }
+    renderEdHeroPicker();
+    if(!opts.silent){
+      toast(cands.length? (cands.length+' article image(s) ready for hero') : 'No article images found — crawl first','info');
+      addLog(cands.length?'ok':'er2','Hero picker refresh · '+cands.length+' image(s)');
+    }
+  }catch(e){
+    if(!opts.silent) toast('Hero picker refresh failed: '+e.message,'error');
+    addLog('er2','Hero picker: '+e.message);
+    renderEdHeroPicker();
+  }finally{
+    if(btn){ btn.disabled=false; btn.textContent='↻ Refresh thumbs'; }
+  }
+}
+
 function fillEditorialForm(ed){
   ed=ed||{};
   const body=editorialBodyText(ed);
@@ -1273,8 +1442,10 @@ function fillEditorialForm(ed){
   document.getElementById('edHeroCredit').value=ed.heroCredit||'';
   document.getElementById('edHeroSource').value=ed.heroSource||'';
   document.getElementById('edHeroSourceUrl').value=ed.heroSourceUrl||'';
+  ED_FORM_HEADLINES=Array.isArray(ed.headlines)?ed.headlines.map(normalizeHeadlineRow):[];
   updEdImg(ed.heroImageProxy||ed.heroImage||'');
   countEdWords();
+  renderEdHeroPicker();
   // monospaced for outlines; serif-friendly size for final prose
   const ta=document.getElementById('edBody');
   if(ta){
@@ -1358,9 +1529,16 @@ function collectEditorial(){
   const body=document.getElementById('edBody').value.trim();
   const paragraphs=body.split(/\n\n+/).map(p=>p.trim()).filter(Boolean);
   const wc=body.split(/\s+/).filter(Boolean).length;
+  const date=document.getElementById('edDate').value;
+  // Preserve outline headlines (+ images) so hero picker survives Save
+  let headlines=(ED_FORM_HEADLINES||[]).map(normalizeHeadlineRow).filter(h=>h.title);
+  if(!headlines.length){
+    const prev=(ED.drafts&&ED.drafts[date])||(ED.published&&ED.published.publishDate===date?ED.published:null);
+    if(prev&&Array.isArray(prev.headlines)) headlines=prev.headlines.map(normalizeHeadlineRow);
+  }
   return{
-    id:'ed_'+document.getElementById('edDate').value,
-    publishDate:document.getElementById('edDate').value,
+    id:'ed_'+date,
+    publishDate:date,
     status:document.getElementById('edStatus').value,
     updatedAt:new Date().toISOString(),
     title:document.getElementById('edTitle').value.trim(),
@@ -1373,7 +1551,8 @@ function collectEditorial(){
     heroImage:document.getElementById('edHero').value.trim(),
     heroCredit:document.getElementById('edHeroCredit').value.trim(),
     heroSource:document.getElementById('edHeroSource').value.trim(),
-    heroSourceUrl:document.getElementById('edHeroSourceUrl').value.trim()
+    heroSourceUrl:document.getElementById('edHeroSourceUrl').value.trim(),
+    headlines:headlines
   };
 }
 function isOutlineBrief(ed){
@@ -1697,6 +1876,9 @@ window.forceEditorialDraft=forceEditorialDraft;
 window.saveEditorial=saveEditorial;
 window.previewEditorial=previewEditorial;
 window.publishEditorialToGitHub=publishEditorialToGitHub;
+window.selectEdHero=selectEdHero;
+window.refreshEdHeroPicker=refreshEdHeroPicker;
+window.renderEdHeroPicker=renderEdHeroPicker;
 window.updImg=updImg;
 window.updEdImg=updEdImg;
 window.hide=hide;

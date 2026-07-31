@@ -122,7 +122,7 @@ Without `--force`, scripts respect America/New_York windows (draft ~21:00, publi
 
 **Length standard:** **~300 words** (acceptable band **280–320**). Generator enforces band; hand edits should too.
 
-**Hero rule:** Do not reuse a `heroImage` URL already in `usedHeroImages` / published / drafts. Prefer NASA public-domain assets.
+**Hero rule:** Editorial head image is chosen by admin from **selected day-article head images** (thumbnail picker in editor). Default on outline draft = first selected article image with a URL. Manual URL override remains. NASA public-domain pool is fallback only when no article images exist. Still record chosen URLs in `usedHeroImages` / published / drafts.
 
 ### 4.2 News / field signals
 

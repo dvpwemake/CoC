@@ -142,6 +142,56 @@
   }
 
   /**
+   * Prefer a head image from selected day articles (first unused URL).
+   * Falls back to NASA PD pool only when no article images exist.
+   */
+  function pickHeroFromHeadlines(headlines, store, dateStr) {
+    const used = store ? usedHeroUrls(store) : new Set();
+    const withImg = (headlines || [])
+      .map((h) => ({
+        url: String((h && (h.image || h.heroImage)) || '').trim(),
+        title: plain(h && h.title),
+        source: plain(h && h.source),
+        sourceUrl: (h && (h.sourceUrl || h.link)) || ''
+      }))
+      .filter((h) => h.url);
+    if (withImg.length) {
+      const free = withImg.filter((h) => !used.has(h.url));
+      const pick = (free.length ? free : withImg)[0];
+      return {
+        url: pick.url,
+        credit: pick.title || pick.source || 'Field signal',
+        source: pick.source || 'Selected article',
+        sourceUrl: pick.sourceUrl || pick.url
+      };
+    }
+    return pickHero(dateStr, store);
+  }
+
+  /**
+   * Unique article head images for admin hero picker (thumbnails).
+   */
+  function heroCandidatesFromHeadlines(headlines) {
+    const out = [];
+    const seen = new Set();
+    for (const h of headlines || []) {
+      const url = String((h && (h.image || h.heroImage)) || '').trim();
+      if (!url) continue;
+      const key = url.split('?')[0].toLowerCase();
+      if (seen.has(key)) continue;
+      seen.add(key);
+      out.push({
+        image: url,
+        title: plain(h.title),
+        source: plain(h.source),
+        category: h.category || '',
+        sourceUrl: h.sourceUrl || h.link || ''
+      });
+    }
+    return out;
+  }
+
+  /**
    * Prefer latest scan batches; one story per category when possible, then fill.
    */
   function headlinesFromArchive(archive, n) {
@@ -163,7 +213,8 @@
           source: plain(it.source),
           category: cat,
           sourceUrl: it.sourceUrl || it.link || '',
-          summary: plain(it.summary || it.description || '')
+          summary: plain(it.summary || it.description || ''),
+          image: String(it.image || '').trim()
         };
         if (!byCat[cat]) byCat[cat] = row;
         else rest.push(row);
@@ -229,6 +280,7 @@
         category: h.category || '',
         sourceUrl: h.sourceUrl || h.link || '',
         summary: plain(h.summary || h.description || ''),
+        image: String(h.image || h.heroImage || '').trim(),
         keyPoints: keyPointsFromSummary(h.summary || h.description || '', 4)
       }))
       .filter((h) => h.title);
@@ -273,7 +325,7 @@
     lines.push('— Admin checklist —');
     lines.push('• Draft original title + dek');
     lines.push('• Write body (~280–320 words) in CoC voice');
-    lines.push('• Set hero image URL + credit');
+    lines.push('• Select hero from selected-article head image thumbnails (or paste URL)');
     lines.push('• Mark published when ready');
 
     const body = lines.join('\n');
@@ -308,7 +360,7 @@
     }
 
     const outline = buildOutline(publishDate, headlines || []);
-    const hero = pickHero(publishDate, store);
+    const hero = pickHeroFromHeadlines(headlines || outline.outlineItems || [], store, publishDate);
     const now = new Date().toISOString();
     const draft = {
       id: 'ed_' + publishDate,
@@ -338,6 +390,7 @@
         category: h.category,
         sourceUrl: h.sourceUrl,
         summary: h.summary,
+        image: h.image || '',
         keyPoints: h.keyPoints
       }))
     };
@@ -361,6 +414,8 @@
     addDaysNy,
     nextPublishDate,
     pickHero,
+    pickHeroFromHeadlines,
+    heroCandidatesFromHeadlines,
     pickTheme: function () {
       return { id: 'outline', label: 'Admin outline (titles + key points)' };
     },
