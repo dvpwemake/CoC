@@ -1569,39 +1569,39 @@
       "status": "draft",
       "draftKind": "outline",
       "createdAt": "2026-07-31T06:34:46.495Z",
-      "updatedAt": "2026-07-31T13:22:41.914Z",
+      "updatedAt": "2026-07-31T17:15:15.517Z",
       "title": "Editorial brief — 2026-07-31",
       "dek": "Outline of selected article titles and key points for admin to write the final editorial.",
-      "body": "EDITORIAL BRIEF (outline only — not for publication as-is)\nPublish date: 2026-07-31\nInstruction: Use the titles and key points below to write the final ~300-word CoC editorial. Replace this entire brief with your finished prose before publishing.\n\n— Selected articles of the day (12) —\n\n1. [AI] Gemini 3.6 Flash and 3.5 Flash-Lite now available through official API for developers and AI agents\n   Source: X · @web3l0var\n   URL: https://x.com/web3l0var/status/2079909448219271368\n   Key points:\n   • Model ecosystem expansion: Gemini 3.6 Flash and Gemini 3.5 Flash-Lite via official API access.\n\n2. [Art] Sculptor Tony Cragg to be awarded the 2026 European Culture Prize.\n   Source: Artsy\n   URL: https://www.artsy.net/article/artsy-editorial-sculptor-tony-cragg-awarded-2026-european-culture-prize\n   Key points:\n   • Sir Tony Cragg will receive the prestigious European Culture Prize 2026, the European Cultural Forum announced.\n   • eThe award will be presented on September 4th at the Royal Concertgebouw in Amsterdam.\n\n3. [Biotech] STAT+: Novo Nordisk inflammation-targeting drug misses mark in heart disease study\n   Source: STAT News\n   URL: https://www.statnews.com/2026/07/31/novo-nordisk-inflammation-heart-disease-ziltivekimab/?utm_campaign=rss\n   Key points:\n   • A Novo Nordisk drug missed the mark in a heart disease study, raising questions about targeting inflammation to prevent cardiovascular complications.\n\n4. [editorial] Gut signals, civic costs, and the cultures that refuse to forget\n   Source: Chronicle of Convergence · Editorial\n   URL: https://chronicleofconvergence.com/e/2026-07-29.html\n   Key points:\n   • Convergence of bodily memory and civic remembrance\n\n5. [Energy] California was mostly solar-powered in May — a global first\n   Source: Canary Media\n   URL: https://www.canarymedia.com/articles/solar/california-solar-power-record-may\n   Key points:\n   • See more from Canary Media’s ​“Chart of the Week” column .\n   • While the Trump administration is busy pointing out that the sun doesn’t shine at night , solar is breaking records around the world, including in sunny…\n\n6. [Neuroscience] Teaching AI to \"Listen\" for Disease\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/ai-vocalization-health-31161/\n   Key points:\n   • An international initiative establishes the first consensus framework for vocal biomarkers, creating standardized definitions to accelerate voice-based disease diagnostics.\n\n7. [Robotics] Interview with Arduino’s Marcello Majonchi: Qualcomm acquisition ushers in new era of edge AI and robotics\n   Source: Robotics & Automation News\n   URL: https://roboticsandautomationnews.com/2026/07/31/interview-with-arduinos-marcello-majonchi-qualcomm-acquisition-ushers-in-new-era-of-edge-ai-and-robotics/103805/\n   Key points:\n   • Arduino has spent more than two decades making electronics and embedded programming accessible to students, hobbyists, engineers and product developers around the world.\n   • What began as an open-source microcontroller…\n\n8. [Space] Space Force picks 15 companies for $981 million training range contract\n   Source: SpaceNews\n   URL: https://spacenews.com/space-force-picks-15-companies-for-981-million-training-range-contract/\n   Key points:\n   • Vendors will compete for orders to build satellites, sensors and systems for more realistic military space exercises The post Space Force picks 15 companies for $981 million training range contract appeared first on…\n\n9. [Neuroscience] Psilocybin Therapy Drives 75% PTSD Remission\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/psilocybin-ptsd-remission-31159/\n   Key points:\n   • A new study demonstrates that psilocybin-assisted therapy is safe and achieves a 75% remission rate in veterans with severe, treatment-resistant PTSD.\n\n10. [Biotech] Capricor's data clash and a fugitive in the C-suite\n   Source: STAT News\n   URL: https://www.statnews.com/2026/07/30/capricor-duchenne-replimune-melanoma-fugitive-biotech-readout-loud-podcast/?utm_campaign=rss\n   Key points:\n   • Is the FDA taking inconsistent approaches to Duchenne drugs?\n   • And how will a new batch of drug executives shake up their companies?\n   • Find out on the latest episode of \"The…\n\n11. [Energy] Antora snags $550M for heat batteries to run data centers and factories\n   Source: Canary Media\n   URL: https://www.canarymedia.com/articles/climatetech-finance/antora-550m-heat-batteries\n   Key points:\n   • The startup Antora Energy just raised $550 million to build and deploy more of its heat-storing batteries for powering data centers and cleaning up factories.\n   • On Thursday, San Jose, California–based Antora said it…\n\n12. [Space] K2 Space raises $500 million for commercial, defense satellite expansion\n   Source: SpaceNews\n   URL: https://spacenews.com/k2-space-raises-500-million-for-commercial-defense-satellite-expansion/\n   Key points:\n   • The Series D more than doubles the satellite manufacturer’s valuation in seven months and will fund a production ramp to as many as 100 large spacecraft a year The post K2 Space raises $500 million for commercial,…\n\n— Categories present —\nAI · Art · Biotech · editorial · Energy · Neuroscience · Robotics · Space\n\n— Admin checklist —\n• Draft original title + dek\n• Write body (~280–320 words) in CoC voice\n• Select hero from selected-article head image thumbnails (or paste URL)\n• Mark published when ready",
+      "body": "EDITORIAL BRIEF (outline only — not for publication as-is)\nPublish date: 2026-07-31\nInstruction: Use the titles and key points below to write the final ~300-word CoC editorial. Replace this entire brief with your finished prose before publishing.\n\n— Selected articles of the day (12) —\n\n1. [AI] Gemini 3.6 Flash and 3.5 Flash-Lite now available through official API for developers and AI agents\n   Source: X · @web3l0var\n   URL: https://x.com/web3l0var/status/2079909448219271368\n   Key points:\n   • Model ecosystem expansion: Gemini 3.6 Flash and Gemini 3.5 Flash-Lite via official API access.\n\n2. [Art] The Top Photos in the CWAS David Malin Awards Highlight Astronomical Wonders\n   Source: Colossal\n   URL: https://www.thisiscolossal.com/2026/07/winning-photos-cwas-astrofest-space-astrophotography/\n   Key points:\n   • The Central West Astronomical Society of New South Wales marks its annual AstroFest with an amateur photography competition.\n   • Do stories and artists like this matter to you?\n   • Become a Colossal Member today and support…\n\n3. [Biotech] STAT+: Trump administration revises rebate pilot for 340B drug discount program, angering hospitals\n   Source: STAT News\n   URL: https://www.statnews.com/pharmalot/2026/07/31/trump-administration-revises-rebate-pilot-drug-discount-program-hospitals/?utm_campaign=rss\n   Key points:\n   • The Trump administration is revising its rebate pilot for the 340B drug discount program, angering hospitals.\n\n4. [editorial] Gut signals, civic costs, and the cultures that refuse to forget\n   Source: Chronicle of Convergence · Editorial\n   URL: https://chronicleofconvergence.com/e/2026-07-29.html\n   Key points:\n   • Convergence of bodily memory and civic remembrance\n\n5. [Energy] New York takes on the myth that solar is swallowing farmland\n   Source: Canary Media\n   URL: https://www.canarymedia.com/articles/solar/new-york-solar-farms\n   Key points:\n   • In rural areas across the U.S., solar power opponents keep leaning on the argument that utility-scale arrays…\n\n6. [Neuroscience] Psilocybin Therapy Drives 75% PTSD Remission\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/psilocybin-ptsd-remission-31159/\n   Key points:\n   • A new study demonstrates that psilocybin-assisted therapy is safe and achieves a 75% remission rate in veterans with severe, treatment-resistant PTSD.\n\n7. [Robotics] Atlas Energy to expand Kodiak-powered autonomous truck fleet to 100 vehicles by 2027\n   Source: Robotics & Automation News\n   URL: https://roboticsandautomationnews.com/2026/07/31/atlas-energy-to-expand-kodiak-powered-autonomous-truck-fleet-to-100-vehicles-by-2027/103826/\n   Key points:\n   • Atlas Energy Solutions has expanded its autonomous truck operations in the Permian Basin, advancing its commitment to unlocking energy by digitally transforming oilfield logistics.\n   • Working with Kodiak AI, a provider of…\n\n8. [Space] Spain commits up to $2.3 billion for national military communications for IRIS²\n   Source: SpaceNews\n   URL: https://spacenews.com/spain-commits-up-to-2-3-billion-for-national-military-communications-for-iris%c2%b2/\n   Key points:\n   • WARSAW, Poland — The Spanish government announced it will allocate between 1.6 billion and 2 billion euros ($1.8 to $2.3 billion) to develop a national military satellite communications constellation that […] The post…\n\n9. [Biotech] Capricor's data clash and a fugitive in the C-suite\n   Source: STAT News\n   URL: https://www.statnews.com/2026/07/30/capricor-duchenne-replimune-melanoma-fugitive-biotech-readout-loud-podcast/?utm_campaign=rss\n   Key points:\n   • Is the FDA taking inconsistent approaches to Duchenne drugs?\n   • And how will a new batch of drug executives shake up their companies?\n   • Find out on the latest episode of \"The…\n\n10. [Energy] Antora snags $550M for heat batteries to run data centers and factories\n   Source: Canary Media\n   URL: https://www.canarymedia.com/articles/climatetech-finance/antora-550m-heat-batteries\n   Key points:\n   • The startup Antora Energy just raised $550 million to build and deploy more of its heat-storing batteries for powering data centers and cleaning up factories.\n   • On Thursday, San Jose, California–based Antora said it…\n\n11. [Space] K2 Space raises $500 million for commercial, defense satellite expansion\n   Source: SpaceNews\n   URL: https://spacenews.com/k2-space-raises-500-million-for-commercial-defense-satellite-expansion/\n   Key points:\n   • The Series D more than doubles the satellite manufacturer’s valuation in seven months and will fund a production ramp to as many as 100 large spacecraft a year The post K2 Space raises $500 million for commercial,…\n\n12. [Art] Sculptor Tony Cragg to be awarded the 2026 European Culture Prize.\n   Source: Artsy\n   URL: https://www.artsy.net/article/artsy-editorial-sculptor-tony-cragg-awarded-2026-european-culture-prize\n   Key points:\n   • Sir Tony Cragg will receive the prestigious European Culture Prize 2026, the European Cultural Forum announced.\n   • eThe award will be presented on September 4th at the Royal Concertgebouw in Amsterdam.\n\n— Categories present —\nAI · Art · Biotech · editorial · Energy · Neuroscience · Robotics · Space\n\n— Admin checklist —\n• Draft original title + dek\n• Write body (~280–320 words) in CoC voice\n• Select hero from selected-article head image thumbnails (or paste URL)\n• Mark published when ready",
       "paragraphs": [
         "EDITORIAL BRIEF (outline only — not for publication as-is)\nPublish date: 2026-07-31\nInstruction: Use the titles and key points below to write the final ~300-word CoC editorial. Replace this entire brief with your finished prose before publishing.",
         "— Selected articles of the day (12) —",
         "1. [AI] Gemini 3.6 Flash and 3.5 Flash-Lite now available through official API for developers and AI agents\n   Source: X · @web3l0var\n   URL: https://x.com/web3l0var/status/2079909448219271368\n   Key points:\n   • Model ecosystem expansion: Gemini 3.6 Flash and Gemini 3.5 Flash-Lite via official API access.",
-        "2. [Art] Sculptor Tony Cragg to be awarded the 2026 European Culture Prize.\n   Source: Artsy\n   URL: https://www.artsy.net/article/artsy-editorial-sculptor-tony-cragg-awarded-2026-european-culture-prize\n   Key points:\n   • Sir Tony Cragg will receive the prestigious European Culture Prize 2026, the European Cultural Forum announced.\n   • eThe award will be presented on September 4th at the Royal Concertgebouw in Amsterdam.",
-        "3. [Biotech] STAT+: Novo Nordisk inflammation-targeting drug misses mark in heart disease study\n   Source: STAT News\n   URL: https://www.statnews.com/2026/07/31/novo-nordisk-inflammation-heart-disease-ziltivekimab/?utm_campaign=rss\n   Key points:\n   • A Novo Nordisk drug missed the mark in a heart disease study, raising questions about targeting inflammation to prevent cardiovascular complications.",
+        "2. [Art] The Top Photos in the CWAS David Malin Awards Highlight Astronomical Wonders\n   Source: Colossal\n   URL: https://www.thisiscolossal.com/2026/07/winning-photos-cwas-astrofest-space-astrophotography/\n   Key points:\n   • The Central West Astronomical Society of New South Wales marks its annual AstroFest with an amateur photography competition.\n   • Do stories and artists like this matter to you?\n   • Become a Colossal Member today and support…",
+        "3. [Biotech] STAT+: Trump administration revises rebate pilot for 340B drug discount program, angering hospitals\n   Source: STAT News\n   URL: https://www.statnews.com/pharmalot/2026/07/31/trump-administration-revises-rebate-pilot-drug-discount-program-hospitals/?utm_campaign=rss\n   Key points:\n   • The Trump administration is revising its rebate pilot for the 340B drug discount program, angering hospitals.",
         "4. [editorial] Gut signals, civic costs, and the cultures that refuse to forget\n   Source: Chronicle of Convergence · Editorial\n   URL: https://chronicleofconvergence.com/e/2026-07-29.html\n   Key points:\n   • Convergence of bodily memory and civic remembrance",
-        "5. [Energy] California was mostly solar-powered in May — a global first\n   Source: Canary Media\n   URL: https://www.canarymedia.com/articles/solar/california-solar-power-record-may\n   Key points:\n   • See more from Canary Media’s ​“Chart of the Week” column .\n   • While the Trump administration is busy pointing out that the sun doesn’t shine at night , solar is breaking records around the world, including in sunny…",
-        "6. [Neuroscience] Teaching AI to \"Listen\" for Disease\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/ai-vocalization-health-31161/\n   Key points:\n   • An international initiative establishes the first consensus framework for vocal biomarkers, creating standardized definitions to accelerate voice-based disease diagnostics.",
-        "7. [Robotics] Interview with Arduino’s Marcello Majonchi: Qualcomm acquisition ushers in new era of edge AI and robotics\n   Source: Robotics & Automation News\n   URL: https://roboticsandautomationnews.com/2026/07/31/interview-with-arduinos-marcello-majonchi-qualcomm-acquisition-ushers-in-new-era-of-edge-ai-and-robotics/103805/\n   Key points:\n   • Arduino has spent more than two decades making electronics and embedded programming accessible to students, hobbyists, engineers and product developers around the world.\n   • What began as an open-source microcontroller…",
-        "8. [Space] Space Force picks 15 companies for $981 million training range contract\n   Source: SpaceNews\n   URL: https://spacenews.com/space-force-picks-15-companies-for-981-million-training-range-contract/\n   Key points:\n   • Vendors will compete for orders to build satellites, sensors and systems for more realistic military space exercises The post Space Force picks 15 companies for $981 million training range contract appeared first on…",
-        "9. [Neuroscience] Psilocybin Therapy Drives 75% PTSD Remission\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/psilocybin-ptsd-remission-31159/\n   Key points:\n   • A new study demonstrates that psilocybin-assisted therapy is safe and achieves a 75% remission rate in veterans with severe, treatment-resistant PTSD.",
-        "10. [Biotech] Capricor's data clash and a fugitive in the C-suite\n   Source: STAT News\n   URL: https://www.statnews.com/2026/07/30/capricor-duchenne-replimune-melanoma-fugitive-biotech-readout-loud-podcast/?utm_campaign=rss\n   Key points:\n   • Is the FDA taking inconsistent approaches to Duchenne drugs?\n   • And how will a new batch of drug executives shake up their companies?\n   • Find out on the latest episode of \"The…",
-        "11. [Energy] Antora snags $550M for heat batteries to run data centers and factories\n   Source: Canary Media\n   URL: https://www.canarymedia.com/articles/climatetech-finance/antora-550m-heat-batteries\n   Key points:\n   • The startup Antora Energy just raised $550 million to build and deploy more of its heat-storing batteries for powering data centers and cleaning up factories.\n   • On Thursday, San Jose, California–based Antora said it…",
-        "12. [Space] K2 Space raises $500 million for commercial, defense satellite expansion\n   Source: SpaceNews\n   URL: https://spacenews.com/k2-space-raises-500-million-for-commercial-defense-satellite-expansion/\n   Key points:\n   • The Series D more than doubles the satellite manufacturer’s valuation in seven months and will fund a production ramp to as many as 100 large spacecraft a year The post K2 Space raises $500 million for commercial,…",
+        "5. [Energy] New York takes on the myth that solar is swallowing farmland\n   Source: Canary Media\n   URL: https://www.canarymedia.com/articles/solar/new-york-solar-farms\n   Key points:\n   • In rural areas across the U.S., solar power opponents keep leaning on the argument that utility-scale arrays…",
+        "6. [Neuroscience] Psilocybin Therapy Drives 75% PTSD Remission\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/psilocybin-ptsd-remission-31159/\n   Key points:\n   • A new study demonstrates that psilocybin-assisted therapy is safe and achieves a 75% remission rate in veterans with severe, treatment-resistant PTSD.",
+        "7. [Robotics] Atlas Energy to expand Kodiak-powered autonomous truck fleet to 100 vehicles by 2027\n   Source: Robotics & Automation News\n   URL: https://roboticsandautomationnews.com/2026/07/31/atlas-energy-to-expand-kodiak-powered-autonomous-truck-fleet-to-100-vehicles-by-2027/103826/\n   Key points:\n   • Atlas Energy Solutions has expanded its autonomous truck operations in the Permian Basin, advancing its commitment to unlocking energy by digitally transforming oilfield logistics.\n   • Working with Kodiak AI, a provider of…",
+        "8. [Space] Spain commits up to $2.3 billion for national military communications for IRIS²\n   Source: SpaceNews\n   URL: https://spacenews.com/spain-commits-up-to-2-3-billion-for-national-military-communications-for-iris%c2%b2/\n   Key points:\n   • WARSAW, Poland — The Spanish government announced it will allocate between 1.6 billion and 2 billion euros ($1.8 to $2.3 billion) to develop a national military satellite communications constellation that […] The post…",
+        "9. [Biotech] Capricor's data clash and a fugitive in the C-suite\n   Source: STAT News\n   URL: https://www.statnews.com/2026/07/30/capricor-duchenne-replimune-melanoma-fugitive-biotech-readout-loud-podcast/?utm_campaign=rss\n   Key points:\n   • Is the FDA taking inconsistent approaches to Duchenne drugs?\n   • And how will a new batch of drug executives shake up their companies?\n   • Find out on the latest episode of \"The…",
+        "10. [Energy] Antora snags $550M for heat batteries to run data centers and factories\n   Source: Canary Media\n   URL: https://www.canarymedia.com/articles/climatetech-finance/antora-550m-heat-batteries\n   Key points:\n   • The startup Antora Energy just raised $550 million to build and deploy more of its heat-storing batteries for powering data centers and cleaning up factories.\n   • On Thursday, San Jose, California–based Antora said it…",
+        "11. [Space] K2 Space raises $500 million for commercial, defense satellite expansion\n   Source: SpaceNews\n   URL: https://spacenews.com/k2-space-raises-500-million-for-commercial-defense-satellite-expansion/\n   Key points:\n   • The Series D more than doubles the satellite manufacturer’s valuation in seven months and will fund a production ramp to as many as 100 large spacecraft a year The post K2 Space raises $500 million for commercial,…",
+        "12. [Art] Sculptor Tony Cragg to be awarded the 2026 European Culture Prize.\n   Source: Artsy\n   URL: https://www.artsy.net/article/artsy-editorial-sculptor-tony-cragg-awarded-2026-european-culture-prize\n   Key points:\n   • Sir Tony Cragg will receive the prestigious European Culture Prize 2026, the European Cultural Forum announced.\n   • eThe award will be presented on September 4th at the Royal Concertgebouw in Amsterdam.",
         "— Categories present —\nAI · Art · Biotech · editorial · Energy · Neuroscience · Robotics · Space",
         "— Admin checklist —\n• Draft original title + dek\n• Write body (~280–320 words) in CoC voice\n• Select hero from selected-article head image thumbnails (or paste URL)\n• Mark published when ready"
       ],
-      "wordCount": 667,
+      "wordCount": 666,
       "themeId": "outline",
       "themeLabel": "Admin outline (titles + key points)",
       "formId": "outline_brief",
       "formLabel": "outline brief",
       "authorName": "Dr. Wallace Lynch",
       "authorTitle": "Editor in Chief",
-      "heroImage": "https://www.statnews.com/wp-content/uploads/2025/10/GettyImages-2197227349-1024x576.jpg",
-      "heroCredit": "STAT+: Novo Nordisk inflammation-targeting drug misses mark in heart disease study",
-      "heroSource": "STAT News",
-      "heroSourceUrl": "https://www.statnews.com/2026/07/31/novo-nordisk-inflammation-heart-disease-ziltivekimab/?utm_campaign=rss",
+      "heroImage": "https://www.thisiscolossal.com/wp-content/uploads/2026/07/cwas-3.jpg",
+      "heroCredit": "The Top Photos in the CWAS David Malin Awards Highlight Astronomical Wonders",
+      "heroSource": "Colossal",
+      "heroSourceUrl": "https://www.thisiscolossal.com/2026/07/winning-photos-cwas-astrofest-space-astrophotography/",
       "headlines": [
         {
           "title": "Gemini 3.6 Flash and 3.5 Flash-Lite now available through official API for developers and AI agents",
@@ -1615,26 +1615,27 @@
           ]
         },
         {
-          "title": "Sculptor Tony Cragg to be awarded the 2026 European Culture Prize.",
-          "source": "Artsy",
+          "title": "The Top Photos in the CWAS David Malin Awards Highlight Astronomical Wonders",
+          "source": "Colossal",
           "category": "art",
-          "sourceUrl": "https://www.artsy.net/article/artsy-editorial-sculptor-tony-cragg-awarded-2026-european-culture-prize",
-          "summary": "Sir Tony Cragg will receive the prestigious European Culture Prize 2026, the European Cultural Forum announced. eThe award will be presented on September 4th at the Royal Concertgebouw in Amsterdam. Born in Liverpool in…",
-          "image": "https://artsy-media-uploads.s3.amazonaws.com/WlsBgQKbe0NRpkUhXap6tw%2FCRAG.jpg",
+          "sourceUrl": "https://www.thisiscolossal.com/2026/07/winning-photos-cwas-astrofest-space-astrophotography/",
+          "summary": "The Central West Astronomical Society of New South Wales marks its annual AstroFest with an amateur photography competition. Do stories and artists like this matter to you? Become a Colossal Member today and support…",
+          "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/07/cwas-3.jpg",
           "keyPoints": [
-            "Sir Tony Cragg will receive the prestigious European Culture Prize 2026, the European Cultural Forum announced.",
-            "eThe award will be presented on September 4th at the Royal Concertgebouw in Amsterdam."
+            "The Central West Astronomical Society of New South Wales marks its annual AstroFest with an amateur photography competition.",
+            "Do stories and artists like this matter to you?",
+            "Become a Colossal Member today and support…"
           ]
         },
         {
-          "title": "STAT+: Novo Nordisk inflammation-targeting drug misses mark in heart disease study",
+          "title": "STAT+: Trump administration revises rebate pilot for 340B drug discount program, angering hospitals",
           "source": "STAT News",
           "category": "biotech",
-          "sourceUrl": "https://www.statnews.com/2026/07/31/novo-nordisk-inflammation-heart-disease-ziltivekimab/?utm_campaign=rss",
-          "summary": "A Novo Nordisk drug missed the mark in a heart disease study, raising questions about targeting inflammation to prevent cardiovascular complications.",
-          "image": "https://www.statnews.com/wp-content/uploads/2025/10/GettyImages-2197227349-1024x576.jpg",
+          "sourceUrl": "https://www.statnews.com/pharmalot/2026/07/31/trump-administration-revises-rebate-pilot-drug-discount-program-hospitals/?utm_campaign=rss",
+          "summary": "The Trump administration is revising its rebate pilot for the 340B drug discount program, angering hospitals.",
+          "image": "https://www.statnews.com/wp-content/uploads/2021/08/AdobeStock_251252973-1024x576.jpeg",
           "keyPoints": [
-            "A Novo Nordisk drug missed the mark in a heart disease study, raising questions about targeting inflammation to prevent cardiovascular complications."
+            "The Trump administration is revising its rebate pilot for the 340B drug discount program, angering hospitals."
           ]
         },
         {
@@ -1649,49 +1650,14 @@
           ]
         },
         {
-          "title": "California was mostly solar-powered in May — a global first",
+          "title": "New York takes on the myth that solar is swallowing farmland",
           "source": "Canary Media",
           "category": "energy",
-          "sourceUrl": "https://www.canarymedia.com/articles/solar/california-solar-power-record-may",
-          "summary": "See more from Canary Media’s ​“Chart of the Week” column . While the Trump administration is busy pointing out that the sun doesn’t shine at night , solar is breaking records around the world, including in sunny…",
-          "image": "https://img.canarymedia.com/content/uploads/COTW-CA-solar-record-1.png?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=80&w=1200&s=161afcc769545ace1ec2ca883f0d82a5",
+          "sourceUrl": "https://www.canarymedia.com/articles/solar/new-york-solar-farms",
+          "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter. Sign up to get it every Friday. In rural areas across the U.S., solar power opponents keep leaning on the argument that utility-scale arrays…",
+          "image": "https://img.canarymedia.com/content/uploads/Solar-Saves-Farms-GettyImages-2059251402.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=c6b90806015c9b823fc2f5a90cc8648c",
           "keyPoints": [
-            "See more from Canary Media’s ​“Chart of the Week” column .",
-            "While the Trump administration is busy pointing out that the sun doesn’t shine at night , solar is breaking records around the world, including in sunny…"
-          ]
-        },
-        {
-          "title": "Teaching AI to \"Listen\" for Disease",
-          "source": "Neuroscience News",
-          "category": "neuroscience",
-          "sourceUrl": "https://neurosciencenews.com/ai-vocalization-health-31161/",
-          "summary": "An international initiative establishes the first consensus framework for vocal biomarkers, creating standardized definitions to accelerate voice-based disease diagnostics.",
-          "image": "https://neurosciencenews.com/files/2026/07/vocalization-ai-health-neuroscience-1155x770.jpg",
-          "keyPoints": [
-            "An international initiative establishes the first consensus framework for vocal biomarkers, creating standardized definitions to accelerate voice-based disease diagnostics."
-          ]
-        },
-        {
-          "title": "Interview with Arduino’s Marcello Majonchi: Qualcomm acquisition ushers in new era of edge AI and robotics",
-          "source": "Robotics & Automation News",
-          "category": "robotics",
-          "sourceUrl": "https://roboticsandautomationnews.com/2026/07/31/interview-with-arduinos-marcello-majonchi-qualcomm-acquisition-ushers-in-new-era-of-edge-ai-and-robotics/103805/",
-          "summary": "Arduino has spent more than two decades making electronics and embedded programming accessible to students, hobbyists, engineers and product developers around the world. What began as an open-source microcontroller…",
-          "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/07/arduino-uno-1.jpeg",
-          "keyPoints": [
-            "Arduino has spent more than two decades making electronics and embedded programming accessible to students, hobbyists, engineers and product developers around the world.",
-            "What began as an open-source microcontroller…"
-          ]
-        },
-        {
-          "title": "Space Force picks 15 companies for $981 million training range contract",
-          "source": "SpaceNews",
-          "category": "space",
-          "sourceUrl": "https://spacenews.com/space-force-picks-15-companies-for-981-million-training-range-contract/",
-          "summary": "Vendors will compete for orders to build satellites, sensors and systems for more realistic military space exercises The post Space Force picks 15 companies for $981 million training range contract appeared first on…",
-          "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/9823511-scaled.jpg?fit=1024%2C683&ssl=1",
-          "keyPoints": [
-            "Vendors will compete for orders to build satellites, sensors and systems for more realistic military space exercises The post Space Force picks 15 companies for $981 million training range contract appeared first on…"
+            "In rural areas across the U.S., solar power opponents keep leaning on the argument that utility-scale arrays…"
           ]
         },
         {
@@ -1703,6 +1669,29 @@
           "image": "https://neurosciencenews.com/files/2026/07/ptsd-psilocybin-neuroscience-1155x770.jpg",
           "keyPoints": [
             "A new study demonstrates that psilocybin-assisted therapy is safe and achieves a 75% remission rate in veterans with severe, treatment-resistant PTSD."
+          ]
+        },
+        {
+          "title": "Atlas Energy to expand Kodiak-powered autonomous truck fleet to 100 vehicles by 2027",
+          "source": "Robotics & Automation News",
+          "category": "robotics",
+          "sourceUrl": "https://roboticsandautomationnews.com/2026/07/31/atlas-energy-to-expand-kodiak-powered-autonomous-truck-fleet-to-100-vehicles-by-2027/103826/",
+          "summary": "Atlas Energy Solutions has expanded its autonomous truck operations in the Permian Basin, advancing its commitment to unlocking energy by digitally transforming oilfield logistics. Working with Kodiak AI, a provider of…",
+          "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/07/atlas-energy-kodiak-1.jpg",
+          "keyPoints": [
+            "Atlas Energy Solutions has expanded its autonomous truck operations in the Permian Basin, advancing its commitment to unlocking energy by digitally transforming oilfield logistics.",
+            "Working with Kodiak AI, a provider of…"
+          ]
+        },
+        {
+          "title": "Spain commits up to $2.3 billion for national military communications for IRIS²",
+          "source": "SpaceNews",
+          "category": "space",
+          "sourceUrl": "https://spacenews.com/spain-commits-up-to-2-3-billion-for-national-military-communications-for-iris%c2%b2/",
+          "summary": "WARSAW, Poland — The Spanish government announced it will allocate between 1.6 billion and 2 billion euros ($1.8 to $2.3 billion) to develop a national military satellite communications constellation that […] The post…",
+          "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/IRIS2-image.jpg?fit=1024%2C819&ssl=1",
+          "keyPoints": [
+            "WARSAW, Poland — The Spanish government announced it will allocate between 1.6 billion and 2 billion euros ($1.8 to $2.3 billion) to develop a national military satellite communications constellation that […] The post…"
           ]
         },
         {
@@ -1739,6 +1728,18 @@
           "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/1784647241166.jpeg?fit=1024%2C683&ssl=1",
           "keyPoints": [
             "The Series D more than doubles the satellite manufacturer’s valuation in seven months and will fund a production ramp to as many as 100 large spacecraft a year The post K2 Space raises $500 million for commercial,…"
+          ]
+        },
+        {
+          "title": "Sculptor Tony Cragg to be awarded the 2026 European Culture Prize.",
+          "source": "Artsy",
+          "category": "art",
+          "sourceUrl": "https://www.artsy.net/article/artsy-editorial-sculptor-tony-cragg-awarded-2026-european-culture-prize",
+          "summary": "Sir Tony Cragg will receive the prestigious European Culture Prize 2026, the European Cultural Forum announced. eThe award will be presented on September 4th at the Royal Concertgebouw in Amsterdam. Born in Liverpool in…",
+          "image": "https://artsy-media-uploads.s3.amazonaws.com/WlsBgQKbe0NRpkUhXap6tw%2FCRAG.jpg",
+          "keyPoints": [
+            "Sir Tony Cragg will receive the prestigious European Culture Prize 2026, the European Cultural Forum announced.",
+            "eThe award will be presented on September 4th at the Royal Concertgebouw in Amsterdam."
           ]
         }
       ]
@@ -2195,6 +2196,7 @@
     "https://pbs.twimg.com/media/HN1SnDCWEAA2hmA.jpg",
     "https://artsy-media-uploads.s3.amazonaws.com/WlsBgQKbe0NRpkUhXap6tw%2FCRAG.jpg",
     "https://www.statnews.com/wp-content/uploads/2026/07/AdobeStock_954580827-1024x576.jpeg",
-    "https://www.statnews.com/wp-content/uploads/2025/10/GettyImages-2197227349-1024x576.jpg"
+    "https://www.statnews.com/wp-content/uploads/2025/10/GettyImages-2197227349-1024x576.jpg",
+    "https://www.thisiscolossal.com/wp-content/uploads/2026/07/cwas-3.jpg"
   ]
 }
