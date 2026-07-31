@@ -1562,6 +1562,186 @@
           ]
         }
       ]
+    },
+    "2026-07-31": {
+      "id": "ed_2026-07-31",
+      "publishDate": "2026-07-31",
+      "status": "draft",
+      "draftKind": "outline",
+      "createdAt": "2026-07-31T06:34:46.495Z",
+      "updatedAt": "2026-07-31T06:34:46.495Z",
+      "title": "Editorial brief — 2026-07-31",
+      "dek": "Outline of selected article titles and key points for admin to write the final editorial.",
+      "body": "EDITORIAL BRIEF (outline only — not for publication as-is)\nPublish date: 2026-07-31\nInstruction: Use the titles and key points below to write the final ~300-word CoC editorial. Replace this entire brief with your finished prose before publishing.\n\n— Selected articles of the day (12) —\n\n1. [AI] Gemini 3.6 Flash and 3.5 Flash-Lite now available through official API for developers and AI agents\n   Source: X · @web3l0var\n   URL: https://x.com/web3l0var/status/2079909448219271368\n   Key points:\n   • Model ecosystem expansion: Gemini 3.6 Flash and Gemini 3.5 Flash-Lite via official API access.\n\n2. [Art] Sculptor Tony Cragg to be awarded the 2026 European Culture Prize.\n   Source: Artsy\n   URL: https://www.artsy.net/article/artsy-editorial-sculptor-tony-cragg-awarded-2026-european-culture-prize\n   Key points:\n   • Sir Tony Cragg will receive the prestigious European Culture Prize 2026, the European Cultural Forum announced.\n   • eThe award will be presented on September 4th at the Royal Concertgebouw in Amsterdam.\n\n3. [Biotech] Capricor's data clash and a fugitive in the C-suite\n   Source: STAT News\n   URL: https://www.statnews.com/2026/07/30/capricor-duchenne-replimune-melanoma-fugitive-biotech-readout-loud-podcast/?utm_campaign=rss\n   Key points:\n   • Is the FDA taking inconsistent approaches to Duchenne drugs?\n   • And how will a new batch of drug executives shake up their companies?\n   • Find out on the latest episode of \"The…\n\n4. [editorial] Gut signals, civic costs, and the cultures that refuse to forget\n   Source: Chronicle of Convergence · Editorial\n   URL: https://chronicleofconvergence.com/e/2026-07-29.html\n   Key points:\n   • Convergence of bodily memory and civic remembrance\n\n5. [Energy] Antora snags $550M for heat batteries to run data centers and factories\n   Source: Canary Media\n   URL: https://www.canarymedia.com/articles/climatetech-finance/antora-550m-heat-batteries\n   Key points:\n   • The startup Antora Energy just raised $550 million to build and deploy more of its heat-storing batteries for powering data centers and cleaning up factories.\n   • On Thursday, San Jose, California–based Antora said it…\n\n6. [Neuroscience] Teaching AI to \"Listen\" for Disease\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/ai-vocalization-health-31161/\n   Key points:\n   • An international initiative establishes the first consensus framework for vocal biomarkers, creating standardized definitions to accelerate voice-based disease diagnostics.\n\n7. [Robotics] Best Construction Scheduling Software for Contractors\n   Source: Robotics & Automation News\n   URL: https://roboticsandautomationnews.com/2026/07/29/best-construction-scheduling-software-for-contractors/103724/\n   Key points:\n   • Construction scheduling is where most projects quietly fall apart.\n   • Not during the build itself, but in the planning gaps where subcontractors overlap, crews wait on materials, and the office loses touch with the field.…\n\n8. [Space] Rules of the road needed for orbital data center constellations\n   Source: SpaceNews\n   URL: https://spacenews.com/rules-of-the-road-needed-for-orbital-data-center-constellations/\n   Key points:\n   • As companies develop large constellations of orbital data center satellites, experts say now is the time to start thinking about some critical space safety topics and rules of the road.\n   • The post Rules of the road needed…\n\n9. [Neuroscience] Psilocybin Therapy Drives 75% PTSD Remission\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/psilocybin-ptsd-remission-31159/\n   Key points:\n   • A new study demonstrates that psilocybin-assisted therapy is safe and achieves a 75% remission rate in veterans with severe, treatment-resistant PTSD.\n\n10. [Space] K2 Space raises $500 million for commercial, defense satellite expansion\n   Source: SpaceNews\n   URL: https://spacenews.com/k2-space-raises-500-million-for-commercial-defense-satellite-expansion/\n   Key points:\n   • The Series D more than doubles the satellite manufacturer’s valuation in seven months and will fund a production ramp to as many as 100 large spacecraft a year The post K2 Space raises $500 million for commercial,…\n\n11. [Neuroscience] Resource Limits and Noise Dictate Memory\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/resource-limits-noise-memory-31152/\n   Key points:\n   • A new study presents a mathematical framework showing that organisms shift abruptly from reactive to memory-based strategies only when energy resources exceed a critical threshold, with memory offering peak utility…\n\n12. [Space] Space Force awards All Points $250 million to expand satellite processing at Vandenberg\n   Source: SpaceNews\n   URL: https://spacenews.com/space-force-awards-all-points-250-million-to-expand-satellite-processing-at-vandenberg/\n   Key points:\n   • All Points Logistics is the third company selected under a Commercial Solutions Opening to add facilities where satellites can be inspected, tested, fueled and prepared for integration with launch vehicles The post…\n\n— Categories present —\nAI · Art · Biotech · editorial · Energy · Neuroscience · Robotics · Space\n\n— Admin checklist —\n• Draft original title + dek\n• Write body (~280–320 words) in CoC voice\n• Select hero from selected-article head image thumbnails (or paste URL)\n• Mark published when ready",
+      "paragraphs": [
+        "EDITORIAL BRIEF (outline only — not for publication as-is)\nPublish date: 2026-07-31\nInstruction: Use the titles and key points below to write the final ~300-word CoC editorial. Replace this entire brief with your finished prose before publishing.",
+        "— Selected articles of the day (12) —",
+        "1. [AI] Gemini 3.6 Flash and 3.5 Flash-Lite now available through official API for developers and AI agents\n   Source: X · @web3l0var\n   URL: https://x.com/web3l0var/status/2079909448219271368\n   Key points:\n   • Model ecosystem expansion: Gemini 3.6 Flash and Gemini 3.5 Flash-Lite via official API access.",
+        "2. [Art] Sculptor Tony Cragg to be awarded the 2026 European Culture Prize.\n   Source: Artsy\n   URL: https://www.artsy.net/article/artsy-editorial-sculptor-tony-cragg-awarded-2026-european-culture-prize\n   Key points:\n   • Sir Tony Cragg will receive the prestigious European Culture Prize 2026, the European Cultural Forum announced.\n   • eThe award will be presented on September 4th at the Royal Concertgebouw in Amsterdam.",
+        "3. [Biotech] Capricor's data clash and a fugitive in the C-suite\n   Source: STAT News\n   URL: https://www.statnews.com/2026/07/30/capricor-duchenne-replimune-melanoma-fugitive-biotech-readout-loud-podcast/?utm_campaign=rss\n   Key points:\n   • Is the FDA taking inconsistent approaches to Duchenne drugs?\n   • And how will a new batch of drug executives shake up their companies?\n   • Find out on the latest episode of \"The…",
+        "4. [editorial] Gut signals, civic costs, and the cultures that refuse to forget\n   Source: Chronicle of Convergence · Editorial\n   URL: https://chronicleofconvergence.com/e/2026-07-29.html\n   Key points:\n   • Convergence of bodily memory and civic remembrance",
+        "5. [Energy] Antora snags $550M for heat batteries to run data centers and factories\n   Source: Canary Media\n   URL: https://www.canarymedia.com/articles/climatetech-finance/antora-550m-heat-batteries\n   Key points:\n   • The startup Antora Energy just raised $550 million to build and deploy more of its heat-storing batteries for powering data centers and cleaning up factories.\n   • On Thursday, San Jose, California–based Antora said it…",
+        "6. [Neuroscience] Teaching AI to \"Listen\" for Disease\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/ai-vocalization-health-31161/\n   Key points:\n   • An international initiative establishes the first consensus framework for vocal biomarkers, creating standardized definitions to accelerate voice-based disease diagnostics.",
+        "7. [Robotics] Best Construction Scheduling Software for Contractors\n   Source: Robotics & Automation News\n   URL: https://roboticsandautomationnews.com/2026/07/29/best-construction-scheduling-software-for-contractors/103724/\n   Key points:\n   • Construction scheduling is where most projects quietly fall apart.\n   • Not during the build itself, but in the planning gaps where subcontractors overlap, crews wait on materials, and the office loses touch with the field.…",
+        "8. [Space] Rules of the road needed for orbital data center constellations\n   Source: SpaceNews\n   URL: https://spacenews.com/rules-of-the-road-needed-for-orbital-data-center-constellations/\n   Key points:\n   • As companies develop large constellations of orbital data center satellites, experts say now is the time to start thinking about some critical space safety topics and rules of the road.\n   • The post Rules of the road needed…",
+        "9. [Neuroscience] Psilocybin Therapy Drives 75% PTSD Remission\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/psilocybin-ptsd-remission-31159/\n   Key points:\n   • A new study demonstrates that psilocybin-assisted therapy is safe and achieves a 75% remission rate in veterans with severe, treatment-resistant PTSD.",
+        "10. [Space] K2 Space raises $500 million for commercial, defense satellite expansion\n   Source: SpaceNews\n   URL: https://spacenews.com/k2-space-raises-500-million-for-commercial-defense-satellite-expansion/\n   Key points:\n   • The Series D more than doubles the satellite manufacturer’s valuation in seven months and will fund a production ramp to as many as 100 large spacecraft a year The post K2 Space raises $500 million for commercial,…",
+        "11. [Neuroscience] Resource Limits and Noise Dictate Memory\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/resource-limits-noise-memory-31152/\n   Key points:\n   • A new study presents a mathematical framework showing that organisms shift abruptly from reactive to memory-based strategies only when energy resources exceed a critical threshold, with memory offering peak utility…",
+        "12. [Space] Space Force awards All Points $250 million to expand satellite processing at Vandenberg\n   Source: SpaceNews\n   URL: https://spacenews.com/space-force-awards-all-points-250-million-to-expand-satellite-processing-at-vandenberg/\n   Key points:\n   • All Points Logistics is the third company selected under a Commercial Solutions Opening to add facilities where satellites can be inspected, tested, fueled and prepared for integration with launch vehicles The post…",
+        "— Categories present —\nAI · Art · Biotech · editorial · Energy · Neuroscience · Robotics · Space",
+        "— Admin checklist —\n• Draft original title + dek\n• Write body (~280–320 words) in CoC voice\n• Select hero from selected-article head image thumbnails (or paste URL)\n• Mark published when ready"
+      ],
+      "wordCount": 666,
+      "themeId": "outline",
+      "themeLabel": "Admin outline (titles + key points)",
+      "formId": "outline_brief",
+      "formLabel": "outline brief",
+      "authorName": "Dr. Wallace Lynch",
+      "authorTitle": "Editor in Chief",
+      "heroImage": "https://artsy-media-uploads.s3.amazonaws.com/WlsBgQKbe0NRpkUhXap6tw%2FCRAG.jpg",
+      "heroCredit": "Sculptor Tony Cragg to be awarded the 2026 European Culture Prize.",
+      "heroSource": "Artsy",
+      "heroSourceUrl": "https://www.artsy.net/article/artsy-editorial-sculptor-tony-cragg-awarded-2026-european-culture-prize",
+      "headlines": [
+        {
+          "title": "Gemini 3.6 Flash and 3.5 Flash-Lite now available through official API for developers and AI agents",
+          "source": "X · @web3l0var",
+          "category": "ai",
+          "sourceUrl": "https://x.com/web3l0var/status/2079909448219271368",
+          "summary": "Model ecosystem expansion: Gemini 3.6 Flash and Gemini 3.5 Flash-Lite via official API access.",
+          "image": "https://pbs.twimg.com/media/HN1SnDCWEAA2hmA.jpg",
+          "keyPoints": [
+            "Model ecosystem expansion: Gemini 3.6 Flash and Gemini 3.5 Flash-Lite via official API access."
+          ]
+        },
+        {
+          "title": "Sculptor Tony Cragg to be awarded the 2026 European Culture Prize.",
+          "source": "Artsy",
+          "category": "art",
+          "sourceUrl": "https://www.artsy.net/article/artsy-editorial-sculptor-tony-cragg-awarded-2026-european-culture-prize",
+          "summary": "Sir Tony Cragg will receive the prestigious European Culture Prize 2026, the European Cultural Forum announced. eThe award will be presented on September 4th at the Royal Concertgebouw in Amsterdam. Born in Liverpool in…",
+          "image": "https://artsy-media-uploads.s3.amazonaws.com/WlsBgQKbe0NRpkUhXap6tw%2FCRAG.jpg",
+          "keyPoints": [
+            "Sir Tony Cragg will receive the prestigious European Culture Prize 2026, the European Cultural Forum announced.",
+            "eThe award will be presented on September 4th at the Royal Concertgebouw in Amsterdam."
+          ]
+        },
+        {
+          "title": "Capricor's data clash and a fugitive in the C-suite",
+          "source": "STAT News",
+          "category": "biotech",
+          "sourceUrl": "https://www.statnews.com/2026/07/30/capricor-duchenne-replimune-melanoma-fugitive-biotech-readout-loud-podcast/?utm_campaign=rss",
+          "summary": "Is the FDA taking inconsistent approaches to Duchenne drugs? And how will a new batch of drug executives shake up their companies? Find out on the latest episode of \"The…",
+          "image": "https://www.statnews.com/wp-content/uploads/2024/07/ROL_Rectangle-1024x576.jpg",
+          "keyPoints": [
+            "Is the FDA taking inconsistent approaches to Duchenne drugs?",
+            "And how will a new batch of drug executives shake up their companies?",
+            "Find out on the latest episode of \"The…"
+          ]
+        },
+        {
+          "title": "Gut signals, civic costs, and the cultures that refuse to forget",
+          "source": "Chronicle of Convergence · Editorial",
+          "category": "editorial",
+          "sourceUrl": "https://chronicleofconvergence.com/e/2026-07-29.html",
+          "summary": "Convergence of bodily memory and civic remembrance",
+          "image": "https://neurosciencenews.com/files/2026/07/memory-noise-resources-neuroscience-1155x770.jpg",
+          "keyPoints": [
+            "Convergence of bodily memory and civic remembrance"
+          ]
+        },
+        {
+          "title": "Antora snags $550M for heat batteries to run data centers and factories",
+          "source": "Canary Media",
+          "category": "energy",
+          "sourceUrl": "https://www.canarymedia.com/articles/climatetech-finance/antora-550m-heat-batteries",
+          "summary": "The startup Antora Energy just raised $550 million to build and deploy more of its heat-storing batteries for powering data centers and cleaning up factories. On Thursday, San Jose, California–based Antora said it…",
+          "image": "https://img.canarymedia.com/content/uploads/BigStone_2.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=bffe29e25a03c562c9a933deb142704b",
+          "keyPoints": [
+            "The startup Antora Energy just raised $550 million to build and deploy more of its heat-storing batteries for powering data centers and cleaning up factories.",
+            "On Thursday, San Jose, California–based Antora said it…"
+          ]
+        },
+        {
+          "title": "Teaching AI to \"Listen\" for Disease",
+          "source": "Neuroscience News",
+          "category": "neuroscience",
+          "sourceUrl": "https://neurosciencenews.com/ai-vocalization-health-31161/",
+          "summary": "An international initiative establishes the first consensus framework for vocal biomarkers, creating standardized definitions to accelerate voice-based disease diagnostics.",
+          "image": "https://neurosciencenews.com/files/2026/07/vocalization-ai-health-neuroscience-1155x770.jpg",
+          "keyPoints": [
+            "An international initiative establishes the first consensus framework for vocal biomarkers, creating standardized definitions to accelerate voice-based disease diagnostics."
+          ]
+        },
+        {
+          "title": "Best Construction Scheduling Software for Contractors",
+          "source": "Robotics & Automation News",
+          "category": "robotics",
+          "sourceUrl": "https://roboticsandautomationnews.com/2026/07/29/best-construction-scheduling-software-for-contractors/103724/",
+          "summary": "Construction scheduling is where most projects quietly fall apart. Not during the build itself, but in the planning gaps where subcontractors overlap, crews wait on materials, and the office loses touch with the field.…",
+          "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/07/planera-construction-1.jpg",
+          "keyPoints": [
+            "Construction scheduling is where most projects quietly fall apart.",
+            "Not during the build itself, but in the planning gaps where subcontractors overlap, crews wait on materials, and the office loses touch with the field.…"
+          ]
+        },
+        {
+          "title": "Rules of the road needed for orbital data center constellations",
+          "source": "SpaceNews",
+          "category": "space",
+          "sourceUrl": "https://spacenews.com/rules-of-the-road-needed-for-orbital-data-center-constellations/",
+          "summary": "As companies develop large constellations of orbital data center satellites, experts say now is the time to start thinking about some critical space safety topics and rules of the road. The post Rules of the road needed…",
+          "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/starcloud.jpeg?fit=1024%2C566&ssl=1",
+          "keyPoints": [
+            "As companies develop large constellations of orbital data center satellites, experts say now is the time to start thinking about some critical space safety topics and rules of the road.",
+            "The post Rules of the road needed…"
+          ]
+        },
+        {
+          "title": "Psilocybin Therapy Drives 75% PTSD Remission",
+          "source": "Neuroscience News",
+          "category": "neuroscience",
+          "sourceUrl": "https://neurosciencenews.com/psilocybin-ptsd-remission-31159/",
+          "summary": "A new study demonstrates that psilocybin-assisted therapy is safe and achieves a 75% remission rate in veterans with severe, treatment-resistant PTSD.",
+          "image": "https://neurosciencenews.com/files/2026/07/ptsd-psilocybin-neuroscience-1155x770.jpg",
+          "keyPoints": [
+            "A new study demonstrates that psilocybin-assisted therapy is safe and achieves a 75% remission rate in veterans with severe, treatment-resistant PTSD."
+          ]
+        },
+        {
+          "title": "K2 Space raises $500 million for commercial, defense satellite expansion",
+          "source": "SpaceNews",
+          "category": "space",
+          "sourceUrl": "https://spacenews.com/k2-space-raises-500-million-for-commercial-defense-satellite-expansion/",
+          "summary": "The Series D more than doubles the satellite manufacturer’s valuation in seven months and will fund a production ramp to as many as 100 large spacecraft a year The post K2 Space raises $500 million for commercial,…",
+          "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/1784647241166.jpeg?fit=1024%2C683&ssl=1",
+          "keyPoints": [
+            "The Series D more than doubles the satellite manufacturer’s valuation in seven months and will fund a production ramp to as many as 100 large spacecraft a year The post K2 Space raises $500 million for commercial,…"
+          ]
+        },
+        {
+          "title": "Resource Limits and Noise Dictate Memory",
+          "source": "Neuroscience News",
+          "category": "neuroscience",
+          "sourceUrl": "https://neurosciencenews.com/resource-limits-noise-memory-31152/",
+          "summary": "A new study presents a mathematical framework showing that organisms shift abruptly from reactive to memory-based strategies only when energy resources exceed a critical threshold, with memory offering peak utility…",
+          "image": "https://neurosciencenews.com/files/2026/07/memory-noise-resources-neuroscience-1155x770.jpg",
+          "keyPoints": [
+            "A new study presents a mathematical framework showing that organisms shift abruptly from reactive to memory-based strategies only when energy resources exceed a critical threshold, with memory offering peak utility…"
+          ]
+        },
+        {
+          "title": "Space Force awards All Points $250 million to expand satellite processing at Vandenberg",
+          "source": "SpaceNews",
+          "category": "space",
+          "sourceUrl": "https://spacenews.com/space-force-awards-all-points-250-million-to-expand-satellite-processing-at-vandenberg/",
+          "summary": "All Points Logistics is the third company selected under a Commercial Solutions Opening to add facilities where satellites can be inspected, tested, fueled and prepared for integration with launch vehicles The post…",
+          "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/9778751-scaled.jpg?fit=1024%2C683&ssl=1",
+          "keyPoints": [
+            "All Points Logistics is the third company selected under a Commercial Solutions Opening to add facilities where satellites can be inspected, tested, fueled and prepared for integration with launch vehicles The post…"
+          ]
+        }
+      ]
     }
   },
   "history": [
@@ -2012,6 +2192,7 @@
     "https://images-assets.nasa.gov/image/PIA01492/PIA01492~medium.jpg",
     "https://images-assets.nasa.gov/image/PIA15416/PIA15416~medium.jpg",
     "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/1784647241166.jpeg?fit=1024%2C683&ssl=1",
-    "https://pbs.twimg.com/media/HN1SnDCWEAA2hmA.jpg"
+    "https://pbs.twimg.com/media/HN1SnDCWEAA2hmA.jpg",
+    "https://artsy-media-uploads.s3.amazonaws.com/WlsBgQKbe0NRpkUhXap6tw%2FCRAG.jpg"
   ]
 }
