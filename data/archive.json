@@ -1,5 +1,25 @@
 [
   {
+    "batchId": "editorial_2026-07-29",
+    "scannedAt": "2026-07-29T19:33:45.665Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-07-29",
+        "rank": 0,
+        "title": "Gut signals, civic costs, and the cultures that refuse to forget",
+        "category": "editorial",
+        "summary": "Convergence of bodily memory and civic remembrance",
+        "image": "https://images-assets.nasa.gov/image/PIA15416/PIA15416~medium.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-07-29.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-07-29",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-07-30T20-52",
     "scannedAt": "2026-07-30T20:52:23.097Z",
     "items": [
