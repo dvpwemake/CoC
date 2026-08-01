@@ -1,11 +1,22 @@
 [
   {
-    "batchId": "auto_2026-08-01T12-45",
-    "scannedAt": "2026-08-01T12:45:14.381Z",
+    "batchId": "auto_2026-08-01T16-42",
+    "scannedAt": "2026-08-01T16:42:57.844Z",
     "items": [
       {
-        "id": "auto_2026-08-01T12-45_1",
+        "id": "auto_2026-08-01T16-42_1",
         "rank": 1,
+        "title": "NASA’s Curiosity rover finds a mysterious honeycomb landscape on Mars",
+        "category": "space",
+        "summary": "NASA’s Curiosity rover has entered a Martian valley covered by an astonishing “sea” of tiny polygon-shaped fractures. The honeycomb patterns, each only a few inches wide, stretch across the landscape and even wrap…",
+        "image": "https://www.sciencedaily.com/images/1920/nasa-curiosity-mars-rover-honeycomb-textures.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/07/260731034142.htm",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-01T16-42_2",
+        "rank": 2,
         "title": "Seedance 2.5: Advancing AI Video Creation for Modern Content Workflows",
         "category": "robotics",
         "summary": "AI keeps reshaping how digital content actually gets made, and Seedance 2.5 is just the latest checkpoint in that ongoing shift toward better AI-assisted video. Creators, marketers, educators, and businesses are all…",
@@ -15,8 +26,8 @@
         "fromX": false
       },
       {
-        "id": "auto_2026-08-01T12-45_2",
-        "rank": 2,
+        "id": "auto_2026-08-01T16-42_3",
+        "rank": 3,
         "title": "TRF2 Preserves Muscle Stem Cell Identity and Drive Repair",
         "category": "neuroscience",
         "summary": "The telomere protein TRF2 regulates non-telomeric G-quadruplex DNA structures in muscle stem cells to preserve cell identity, drive muscle regeneration, and slow Duchenne muscular dystrophy progression.",
@@ -26,8 +37,8 @@
         "fromX": false
       },
       {
-        "id": "auto_2026-08-01T12-45_3",
-        "rank": 3,
+        "id": "auto_2026-08-01T16-42_4",
+        "rank": 4,
         "title": "Heritage Bookbinding Elements Transform in Contemporary Sculptures by Adelene Koh",
         "category": "art",
         "summary": "For Koh, an under-appreciated element of a book's construction becomes the highlight. Do stories and artists like this matter to you? Become a Colossal Member today and support independent arts publishing for as little…",
@@ -37,18 +48,7 @@
         "fromX": false
       },
       {
-        "id": "auto_2026-08-01T12-45_4",
-        "rank": 4,
-        "title": "Sending repurposed Mars rover to the moon could cost more than $1 billion",
-        "category": "space",
-        "summary": "Converting an engineering model of a Mars rover into an actual lunar rover could cost NASA more than $1 billion, an estimate strongly rejected by the agency’s administrator. The post Sending repurposed Mars rover to the…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/optimism.jpeg?fit=1024%2C716&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/sending-repurposed-mars-rover-to-the-moon-could-cost-more-than-1-billion/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-01T12-45_5",
+        "id": "auto_2026-08-01T16-42_5",
         "rank": 5,
         "title": "STAT+: Trump administration revises rebate pilot for 340B drug discount program, angering hospitals",
         "category": "biotech",
