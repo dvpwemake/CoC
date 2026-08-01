@@ -1,30 +1,10 @@
 [
   {
-    "batchId": "editorial_2026-07-30",
-    "scannedAt": "2026-07-31T00:29:50.616Z",
-    "kind": "editorial_archive",
+    "batchId": "auto_2026-08-01T06-18",
+    "scannedAt": "2026-08-01T06:18:01.276Z",
     "items": [
       {
-        "id": "editorial_2026-07-30",
-        "rank": 0,
-        "title": "What no model can seal, and what ground is taught to hold next",
-        "category": "editorial",
-        "summary": "Convergence of provisional trust and second use",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/1784647241166.jpeg?fit=1024%2C683&ssl=1",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-07-30.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-07-30",
-        "authorName": "Dr. Wallace Lynch"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-08-01T01-26",
-    "scannedAt": "2026-08-01T01:26:12.143Z",
-    "items": [
-      {
-        "id": "auto_2026-08-01T01-26_1",
+        "id": "auto_2026-08-01T06-18_1",
         "rank": 1,
         "title": "TRF2 Preserves Muscle Stem Cell Identity and Drive Repair",
         "category": "neuroscience",
@@ -35,7 +15,7 @@
         "fromX": false
       },
       {
-        "id": "auto_2026-08-01T01-26_2",
+        "id": "auto_2026-08-01T06-18_2",
         "rank": 2,
         "title": "Heritage Bookbinding Elements Transform in Contemporary Sculptures by Adelene Koh",
         "category": "art",
@@ -46,7 +26,7 @@
         "fromX": false
       },
       {
-        "id": "auto_2026-08-01T01-26_3",
+        "id": "auto_2026-08-01T06-18_3",
         "rank": 3,
         "title": "Sending repurposed Mars rover to the moon could cost more than $1 billion",
         "category": "space",
@@ -57,7 +37,7 @@
         "fromX": false
       },
       {
-        "id": "auto_2026-08-01T01-26_4",
+        "id": "auto_2026-08-01T06-18_4",
         "rank": 4,
         "title": "STAT+: Trump administration revises rebate pilot for 340B drug discount program, angering hospitals",
         "category": "biotech",
@@ -68,7 +48,7 @@
         "fromX": false
       },
       {
-        "id": "auto_2026-08-01T01-26_5",
+        "id": "auto_2026-08-01T06-18_5",
         "rank": 5,
         "title": "New York takes on the myth that solar is swallowing farmland",
         "category": "energy",
@@ -138,6 +118,26 @@
         "source": "Colossal",
         "sourceUrl": "https://www.thisiscolossal.com/2026/07/winning-photos-cwas-astrofest-space-astrophotography/",
         "fromX": false
+      }
+    ]
+  },
+  {
+    "batchId": "editorial_2026-07-30",
+    "scannedAt": "2026-07-31T00:29:50.616Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-07-30",
+        "rank": 0,
+        "title": "What no model can seal, and what ground is taught to hold next",
+        "category": "editorial",
+        "summary": "Convergence of provisional trust and second use",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/1784647241166.jpeg?fit=1024%2C683&ssl=1",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-07-30.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-07-30",
+        "authorName": "Dr. Wallace Lynch"
       }
     ]
   },
