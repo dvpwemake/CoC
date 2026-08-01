@@ -1,5 +1,61 @@
 [
   {
+    "batchId": "auto_2026-07-21T20-55",
+    "scannedAt": "2026-07-21T20:55:13.597Z",
+    "items": [
+      {
+        "id": "auto_2026-07-21T20-55_1",
+        "rank": 1,
+        "title": "Digital Media Alters Cognitive Willingness",
+        "category": "neuroscience",
+        "summary": "A new study proposes that digital media usage alters human focus through a mechanism called \"effort recalibration.\"",
+        "image": "https://neurosciencenews.com/files/2026/07/digital-media-cognition-neurosience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/digital-media-cognitive-willingness-31099/"
+      },
+      {
+        "id": "auto_2026-07-21T20-55_2",
+        "rank": 2,
+        "title": "SVA Grads Make Art out of History’s Rubble",
+        "category": "art",
+        "summary": "The Art Practice MFA thesis exhibition rewrites what came before, pushing back against harmful systems and inventing better ways of living together.",
+        "image": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/07/Finding-Here_SVA-MFA-Art-Practice-thesis-show_-01.jpg",
+        "source": "Hyperallergic",
+        "sourceUrl": "https://hyperallergic.com/sva-grads-make-art-out-of-historys-rubble/"
+      },
+      {
+        "id": "auto_2026-07-21T20-55_3",
+        "rank": 3,
+        "title": "Trump administration says it's deferring $1B in Medicaid payments to California and Minnesota",
+        "category": "biotech",
+        "summary": "The Trump administration said it was deferring more than $1 billion in Medicaid payments to Minnesota and California because of “suspected fraud and noncompliance.”",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/07/AP26189616840412-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/07/21/medicaid-payments-1-billion-deferred-california-minnesota/?utm_campaign=rss"
+      },
+      {
+        "id": "auto_2026-07-21T20-55_4",
+        "rank": 4,
+        "title": "Northrop adds to charges on Vulcan solid rocket motor program",
+        "category": "space",
+        "summary": "Northrop Grumman took another charge for the solid rocket boosters it provides for the Vulcan Centaur and suggested updated motors might not be ready until the end of the year. The post Northrop adds to charges on…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/55091188472_c01b4e3cdc_k.jpg?fit=1024%2C732&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/northrop-adds-to-charges-on-vulcan-solid-rocket-motor-program/"
+      },
+      {
+        "id": "auto_2026-07-21T20-55_5",
+        "rank": 5,
+        "title": "Startup offers low-cost home batteries to Massachusetts residents",
+        "category": "energy",
+        "summary": "Haven Energy is the newest company offering home battery service in Massachusetts for a low monthly payment, a model supporters say could accelerate adoption of residential storage. Starting in four counties in the…",
+        "image": "https://img.canarymedia.com/content/uploads/Tesla-batteris-in-Canada-home_GettyImages-967233426.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=d3ef0d003b9eaa23273e8dcbafef9b02",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/batteries/haven-energy-low-cost-batteries-massachusetts"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-07-20T20-56",
     "scannedAt": "2026-07-20T20:56:27.718Z",
     "items": [
@@ -998,56 +1054,6 @@
         "source": "SpaceNews",
         "sourceUrl": "https://spacenews.com/chinese-satellite-manufacturer-hongqing-raises-191-million/",
         "imageProxy": "https://images.weserv.nl/?url=i0.wp.com%2Fspacenews.com%2Fwp-content%2Fuploads%2F2026%2F06%2FZhuque-2E-Spacesail-DTC-ChinaMobile02-9june2026-landspace.jpg%3Ffit%3D1024%252C576%26ssl%3D1&w=640&h=400&fit=cover&we&output=jpg"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-07-02T20-48",
-    "scannedAt": "2026-07-02T20:48:30.541Z",
-    "items": [
-      {
-        "id": "auto_2026-07-02T20-48_1",
-        "rank": 1,
-        "title": "Study Aims to Stop Alzheimer’s Inflammation in APOE4 Carriers",
-        "category": "neuroscience",
-        "summary": "The project uses artificial intelligence and small-molecule targeting to inhibit the cPLA2 enzyme, providing a novel pathway to shut down brain inflammation in high-risk APOE4 gene carriers.",
-        "image": "https://neurosciencenews.com/files/2026/07/apoe4-alzheimers-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/apoe4-alzheimers-inflammation-30984/",
-        "imageProxy": "https://images.weserv.nl/?url=neurosciencenews.com%2Ffiles%2F2026%2F07%2Fapoe4-alzheimers-neuroscience-1155x770.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-02T20-48_3",
-        "rank": 3,
-        "title": "Perovskite solar panel startup Verde Technologies shifts focus to space",
-        "category": "space",
-        "summary": "Verde Technologies is turning to space to commercialize perovskite-based solar panels, shifting its initial focus away from rooftops in a bet that the thin-film material can help power orbital data centers and other…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/RTR-perovskite-manufaturing-scaled.jpeg?fit=1024%2C768&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/perovskite-solar-panel-startup-verde-technologies-shifts-focus-to-space/",
-        "imageProxy": "https://images.weserv.nl/?url=i0.wp.com%2Fspacenews.com%2Fwp-content%2Fuploads%2F2026%2F07%2FRTR-perovskite-manufaturing-scaled.jpeg%3Ffit%3D1024%252C768%26ssl%3D1&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-02T20-48_4",
-        "rank": 4,
-        "title": "Trump's ‘big, beautiful’ law was supposed to kill clean energy. It didn't.",
-        "category": "energy",
-        "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter. Sign up to get it every Friday. One year ago, President Donald Trump got his Fourth-of-July wish. Republicans rammed a massive tax and…",
-        "image": "https://img.canarymedia.com/content/uploads/GettyImages-2222880692.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=1d94a7e45d1cfc35364ef105103ba083",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/clean-energy/trumps-big-beautiful-law-was-supposed-to-kill-clean-energy-it-didnt",
-        "imageProxy": "https://images.weserv.nl/?url=img.canarymedia.com%2Fcontent%2Fuploads%2FGettyImages-2222880692.jpg%3Fauto%3Dcompress%252Cformat%26crop%3Dfocalpoint%26fit%3Dcrop%26fp-x%3D0.5%26fp-y%3D0.5%26h%3D630%26q%3D82%26w%3D1200%26s%3D1d94a7e45d1cfc35364ef105103ba083&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-02T20-48_5",
-        "rank": 5,
-        "title": "Achieving operational excellence with AI",
-        "category": "ai",
-        "summary": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, sprawling operations. Lean Six Sigma…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/MITTR2026_TP2_1200SocialCover.png?resize=1200,600",
-        "source": "MIT Technology Review",
-        "sourceUrl": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
-        "imageProxy": "https://images.weserv.nl/?url=wp.technologyreview.com%2Fwp-content%2Fuploads%2F2026%2F07%2FMITTR2026_TP2_1200SocialCover.png%3Fresize%3D1200%2C600&w=640&h=400&fit=cover&we&output=jpg"
       }
     ]
   }

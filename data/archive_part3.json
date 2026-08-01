@@ -1,5 +1,66 @@
 [
   {
+    "scannedAt": "2026-06-08T16:15:07.358Z",
+    "items": [
+      {
+        "id": "b1780935307358_1",
+        "rank": 1,
+        "title": "Apple CEO Tim Cook Delivers Final WWDC Keynote, Unveils Gemini-Powered Siri Overhaul",
+        "category": "ai",
+        "summary": "Tim Cook delivered his final keynote as Apple CEO at WWDC 2026, announcing a complete rebuild of Siri powered by Google's Gemini AI. The new Siri features a chatbot-style interface, dedicated app, and advanced conversational capabilities. This marks Apple's major entry into the AI revolution as Cook transitions leadership to John Ternus in September.",
+        "source": "Build Fast With AI",
+        "sourceUrl": "https://www.buildfastwithai.com/blogs/ai-news-today-june-8-2026",
+        "image": "https://oukdqujzonxvqhiefdsv.supabase.co/storage/v1/object/public/blogs/b5f45e55-886b-4de9-89ed-1155c3dacd3b.png",
+        "imageProxy": "https://images.weserv.nl/?url=oukdqujzonxvqhiefdsv.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fblogs%2Fb5f45e55-886b-4de9-89ed-1155c3dacd3b.png&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780935307358_2",
+        "rank": 2,
+        "title": "Scientists Discover Key Brain Signal That Controls Breaking Old Habits",
+        "category": "neuroscience",
+        "summary": "Researchers have uncovered a crucial brain signal that helps humans break old habits and adapt to suddenly changed circumstances. By studying mice navigating virtual mazes, scientists identified specific neural circuits that enable behavioral flexibility, offering new insights for treating addiction and compulsive disorders.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/news/mind_brain/neuroscience/",
+        "image": "https://www.sciencedaily.com/images/scidaily-icon.png",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2Fscidaily-icon.png&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780935307358_3",
+        "rank": 3,
+        "title": "Scientists 'Bottle the Sun' with Revolutionary Liquid Battery for Solar Energy Storage",
+        "category": "energy",
+        "summary": "UC Santa Barbara researchers have developed a groundbreaking material that can absorb sunlight, store energy in chemical bonds, and release it as heat on demand. The pyrimidone-based technology represents a major breakthrough in Molecular Solar Thermal energy storage, potentially eliminating the need for traditional battery systems.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/05/260513221821.htm",
+        "image": "https://www.sciencedaily.com/images/1920/bottled-sunlight-liquid-battery-energy.webp",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fbottled-sunlight-liquid-battery-energy.webp&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780935307358_4",
+        "rank": 4,
+        "title": "China Demonstrates First Robotic Satellite Refueling System in Orbit",
+        "category": "space",
+        "summary": "Chinese company Sustain Space successfully demonstrated on-orbit satellite servicing and refueling operations using a flexible robotic arm on its Xiyuan-0 satellite. Meanwhile, Orbit Fab and Astroscale are preparing to launch their satellite refueling system in geostationary orbit this month, marking a new era in space infrastructure.",
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2026_in_spaceflight",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Earthset_%28art002e009288%29.jpg/1280px-Earthset_%28art002e009288%29.jpg",
+        "imageProxy": "https://images.weserv.nl/?url=upload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F1%2F15%2FEarthset_%2528art002e009288%2529.jpg%2F1280px-Earthset_%2528art002e009288%2529.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780935307358_5",
+        "rank": 5,
+        "title": "Breakthrough Lithium-Air Battery Technology Moves Closer to Commercial Reality",
+        "category": "energy",
+        "summary": "Joint research teams from KIST and IAE have achieved a major breakthrough in lithium-air battery development using a tungsten diselenide catalyst with platinum substitution and selenium vacancies. This advancement addresses long-standing challenges in efficiency and durability, bringing ultra-high energy density batteries closer to practical applications.",
+        "source": "SolarQuarter",
+        "sourceUrl": "https://solarquarter.com/2026/04/03/solar-tech-weekly-lithium-air-battery-breakthrough-why-dcdbs-matter-and-more/",
+        "image": "https://solarquarter.com/wp-content/uploads/2026/04/image-40.png",
+        "imageProxy": "https://images.weserv.nl/?url=solarquarter.com%2Fwp-content%2Fuploads%2F2026%2F04%2Fimage-40.png&w=640&h=400&fit=cover&we&output=jpg"
+      }
+    ],
+    "batchId": "b1780935307358"
+  },
+  {
     "scannedAt": "2026-06-07T22:15:37.402Z",
     "items": [
       {
