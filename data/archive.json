@@ -1,11 +1,22 @@
 [
   {
-    "batchId": "auto_2026-08-01T06-18",
-    "scannedAt": "2026-08-01T06:18:01.276Z",
+    "batchId": "auto_2026-08-01T09-46",
+    "scannedAt": "2026-08-01T09:46:37.616Z",
     "items": [
       {
-        "id": "auto_2026-08-01T06-18_1",
+        "id": "auto_2026-08-01T09-46_1",
         "rank": 1,
+        "title": "Seedance 2.5: Advancing AI Video Creation for Modern Content Workflows",
+        "category": "robotics",
+        "summary": "AI keeps reshaping how digital content actually gets made, and Seedance 2.5 is just the latest checkpoint in that ongoing shift toward better AI-assisted video. Creators, marketers, educators, and businesses are all…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/seedance-image-3.png",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/01/seedance-2-5-advancing-ai-video-creation-for-modern-content-workflows/103829/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-01T09-46_2",
+        "rank": 2,
         "title": "TRF2 Preserves Muscle Stem Cell Identity and Drive Repair",
         "category": "neuroscience",
         "summary": "The telomere protein TRF2 regulates non-telomeric G-quadruplex DNA structures in muscle stem cells to preserve cell identity, drive muscle regeneration, and slow Duchenne muscular dystrophy progression.",
@@ -15,8 +26,8 @@
         "fromX": false
       },
       {
-        "id": "auto_2026-08-01T06-18_2",
-        "rank": 2,
+        "id": "auto_2026-08-01T09-46_3",
+        "rank": 3,
         "title": "Heritage Bookbinding Elements Transform in Contemporary Sculptures by Adelene Koh",
         "category": "art",
         "summary": "For Koh, an under-appreciated element of a book's construction becomes the highlight. Do stories and artists like this matter to you? Become a Colossal Member today and support independent arts publishing for as little…",
@@ -26,8 +37,8 @@
         "fromX": false
       },
       {
-        "id": "auto_2026-08-01T06-18_3",
-        "rank": 3,
+        "id": "auto_2026-08-01T09-46_4",
+        "rank": 4,
         "title": "Sending repurposed Mars rover to the moon could cost more than $1 billion",
         "category": "space",
         "summary": "Converting an engineering model of a Mars rover into an actual lunar rover could cost NASA more than $1 billion, an estimate strongly rejected by the agency’s administrator. The post Sending repurposed Mars rover to the…",
@@ -37,25 +48,14 @@
         "fromX": false
       },
       {
-        "id": "auto_2026-08-01T06-18_4",
-        "rank": 4,
+        "id": "auto_2026-08-01T09-46_5",
+        "rank": 5,
         "title": "STAT+: Trump administration revises rebate pilot for 340B drug discount program, angering hospitals",
         "category": "biotech",
         "summary": "The Trump administration is revising its rebate pilot for the 340B drug discount program, angering hospitals.",
         "image": "https://www.statnews.com/wp-content/uploads/2021/08/AdobeStock_251252973-1024x576.jpeg",
         "source": "STAT News",
         "sourceUrl": "https://www.statnews.com/pharmalot/2026/07/31/trump-administration-revises-rebate-pilot-drug-discount-program-hospitals/?utm_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-01T06-18_5",
-        "rank": 5,
-        "title": "New York takes on the myth that solar is swallowing farmland",
-        "category": "energy",
-        "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter. Sign up to get it every Friday. In rural areas across the U.S., solar power opponents keep leaning on the argument that utility-scale arrays…",
-        "image": "https://img.canarymedia.com/content/uploads/Solar-Saves-Farms-GettyImages-2059251402.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=c6b90806015c9b823fc2f5a90cc8648c",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/solar/new-york-solar-farms",
         "fromX": false
       }
     ]
