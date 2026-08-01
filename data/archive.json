@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-08-01T01-26",
+    "scannedAt": "2026-08-01T01:26:12.143Z",
+    "items": [
+      {
+        "id": "auto_2026-08-01T01-26_1",
+        "rank": 1,
+        "title": "TRF2 Preserves Muscle Stem Cell Identity and Drive Repair",
+        "category": "neuroscience",
+        "summary": "The telomere protein TRF2 regulates non-telomeric G-quadruplex DNA structures in muscle stem cells to preserve cell identity, drive muscle regeneration, and slow Duchenne muscular dystrophy progression.",
+        "image": "https://neurosciencenews.com/files/2026/07/protein-muscle-stem-cell-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/trf2-muscle-stem-cell-repair-31165/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-01T01-26_2",
+        "rank": 2,
+        "title": "Heritage Bookbinding Elements Transform in Contemporary Sculptures by Adelene Koh",
+        "category": "art",
+        "summary": "For Koh, an under-appreciated element of a book's construction becomes the highlight. Do stories and artists like this matter to you? Become a Colossal Member today and support independent arts publishing for as little…",
+        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/07/koh-4.jpg",
+        "source": "Colossal",
+        "sourceUrl": "https://www.thisiscolossal.com/2026/07/adelene-koh-bookbinding-paper-sewing-sculpture-loewe-craft-prize/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-01T01-26_3",
+        "rank": 3,
+        "title": "Sending repurposed Mars rover to the moon could cost more than $1 billion",
+        "category": "space",
+        "summary": "Converting an engineering model of a Mars rover into an actual lunar rover could cost NASA more than $1 billion, an estimate strongly rejected by the agency’s administrator. The post Sending repurposed Mars rover to the…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/optimism.jpeg?fit=1024%2C716&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/sending-repurposed-mars-rover-to-the-moon-could-cost-more-than-1-billion/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-01T01-26_4",
+        "rank": 4,
+        "title": "STAT+: Trump administration revises rebate pilot for 340B drug discount program, angering hospitals",
+        "category": "biotech",
+        "summary": "The Trump administration is revising its rebate pilot for the 340B drug discount program, angering hospitals.",
+        "image": "https://www.statnews.com/wp-content/uploads/2021/08/AdobeStock_251252973-1024x576.jpeg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/pharmalot/2026/07/31/trump-administration-revises-rebate-pilot-drug-discount-program-hospitals/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-01T01-26_5",
+        "rank": 5,
+        "title": "New York takes on the myth that solar is swallowing farmland",
+        "category": "energy",
+        "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter. Sign up to get it every Friday. In rural areas across the U.S., solar power opponents keep leaning on the argument that utility-scale arrays…",
+        "image": "https://img.canarymedia.com/content/uploads/Solar-Saves-Farms-GettyImages-2059251402.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=c6b90806015c9b823fc2f5a90cc8648c",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/solar/new-york-solar-farms",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-07-31T20-48",
     "scannedAt": "2026-07-31T20:48:44.442Z",
     "items": [

@@ -1,66 +1,5 @@
 [
   {
-    "batchId": "auto_2026-07-01T21-14",
-    "scannedAt": "2026-07-01T21:14:12.055Z",
-    "items": [
-      {
-        "id": "auto_2026-07-01T21-14_1",
-        "rank": 1,
-        "title": "Slow Maternal Response Time Linked to ADHD in Kids",
-        "category": "neuroscience",
-        "summary": "Slower maternal vocal response times to 12-month-old infants predict an increased risk of ADHD and disruptive behavior disorders by age 7. For every 10% increase in the probability of a maternal response within one…",
-        "image": "https://neurosciencenews.com/files/2026/07/maternal-response-adhd-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/maternal-response-latency-childhood-adhd-30976/",
-        "imageProxy": "https://images.weserv.nl/?url=neurosciencenews.com%2Ffiles%2F2026%2F07%2Fmaternal-response-adhd-neuroscience-1155x770.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-01T21-14_2",
-        "rank": 2,
-        "title": "FCC to vote on satellite licensing overhaul July 22",
-        "category": "space",
-        "summary": "The FCC is set to vote July 22 on an order to overhaul its satellite application process, creating a “licensing assembly line” to keep up with increasingly large and complex constellation plans. The post FCC to vote on…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/FCC-chairman-scaled.jpeg?fit=1024%2C704&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/fcc-to-vote-on-satellite-licensing-overhaul-july-22/",
-        "imageProxy": "https://images.weserv.nl/?url=i0.wp.com%2Fspacenews.com%2Fwp-content%2Fuploads%2F2025%2F10%2FFCC-chairman-scaled.jpeg%3Ffit%3D1024%252C704%26ssl%3D1&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-01T21-14_3",
-        "rank": 3,
-        "title": "STAT+: The moment Anthropic convinced me it’s serious about science",
-        "category": "biotech",
-        "summary": "AI Prognosis: The release of Claude Science suggests big model makers are getting serious about real science, and not just flashy problems.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/06/AIPrognosis_Wordpress_Anthropic-1024x576.png",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/07/01/anthropic-claude-science-convinced-me-its-serious-ai-prognosis/?utm_campaign=rss",
-        "imageProxy": "https://images.weserv.nl/?url=www.statnews.com%2Fwp-content%2Fuploads%2F2026%2F06%2FAIPrognosis_Wordpress_Anthropic-1024x576.png&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-01T21-14_4",
-        "rank": 4,
-        "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
-        "category": "ai",
-        "summary": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll get 3 or 4. Type…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/260626_LLMhallucinations.jpg?resize=1200,600",
-        "source": "MIT Technology Review",
-        "sourceUrl": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
-        "imageProxy": "https://images.weserv.nl/?url=wp.technologyreview.com%2Fwp-content%2Fuploads%2F2026%2F06%2F260626_LLMhallucinations.jpg%3Fresize%3D1200%2C600&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-01T21-14_5",
-        "rank": 5,
-        "title": "Martha’s Vineyard solar array will cut bills for low-income islanders",
-        "category": "energy",
-        "summary": "A new solar installation on Martha’s Vineyard is set to lower utility costs for hundreds of low-income, year-round residents on the island best known as an upscale vacation destination. The project is the first to come…",
-        "image": "https://img.canarymedia.com/content/uploads/MVH-Workforce-Housing-SolarShare-Image-1.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=86b7d7ffde719ca4f606655ca9c587cd",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/solar/marthas-vineyard-rooftop-array-cut-bills",
-        "imageProxy": "https://images.weserv.nl/?url=img.canarymedia.com%2Fcontent%2Fuploads%2FMVH-Workforce-Housing-SolarShare-Image-1.jpg%3Fauto%3Dcompress%252Cformat%26crop%3Dfocalpoint%26fit%3Dcrop%26fp-x%3D0.5%26fp-y%3D0.5%26h%3D630%26q%3D82%26w%3D1200%26s%3D86b7d7ffde719ca4f606655ca9c587cd&w=640&h=400&fit=cover&we&output=jpg"
-      }
-    ]
-  },
-  {
     "batchId": "auto_2026-06-30T21-20",
     "scannedAt": "2026-06-30T21:20:34.158Z",
     "items": [
@@ -1130,5 +1069,116 @@
       }
     ],
     "batchId": "b1780943693330"
+  },
+  {
+    "scannedAt": "2026-06-08T16:15:07.358Z",
+    "items": [
+      {
+        "id": "b1780935307358_1",
+        "rank": 1,
+        "title": "Apple CEO Tim Cook Delivers Final WWDC Keynote, Unveils Gemini-Powered Siri Overhaul",
+        "category": "ai",
+        "summary": "Tim Cook delivered his final keynote as Apple CEO at WWDC 2026, announcing a complete rebuild of Siri powered by Google's Gemini AI. The new Siri features a chatbot-style interface, dedicated app, and advanced conversational capabilities. This marks Apple's major entry into the AI revolution as Cook transitions leadership to John Ternus in September.",
+        "source": "Build Fast With AI",
+        "sourceUrl": "https://www.buildfastwithai.com/blogs/ai-news-today-june-8-2026",
+        "image": "https://oukdqujzonxvqhiefdsv.supabase.co/storage/v1/object/public/blogs/b5f45e55-886b-4de9-89ed-1155c3dacd3b.png",
+        "imageProxy": "https://images.weserv.nl/?url=oukdqujzonxvqhiefdsv.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fblogs%2Fb5f45e55-886b-4de9-89ed-1155c3dacd3b.png&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780935307358_2",
+        "rank": 2,
+        "title": "Scientists Discover Key Brain Signal That Controls Breaking Old Habits",
+        "category": "neuroscience",
+        "summary": "Researchers have uncovered a crucial brain signal that helps humans break old habits and adapt to suddenly changed circumstances. By studying mice navigating virtual mazes, scientists identified specific neural circuits that enable behavioral flexibility, offering new insights for treating addiction and compulsive disorders.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/news/mind_brain/neuroscience/",
+        "image": "https://www.sciencedaily.com/images/scidaily-icon.png",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2Fscidaily-icon.png&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780935307358_3",
+        "rank": 3,
+        "title": "Scientists 'Bottle the Sun' with Revolutionary Liquid Battery for Solar Energy Storage",
+        "category": "energy",
+        "summary": "UC Santa Barbara researchers have developed a groundbreaking material that can absorb sunlight, store energy in chemical bonds, and release it as heat on demand. The pyrimidone-based technology represents a major breakthrough in Molecular Solar Thermal energy storage, potentially eliminating the need for traditional battery systems.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/05/260513221821.htm",
+        "image": "https://www.sciencedaily.com/images/1920/bottled-sunlight-liquid-battery-energy.webp",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fbottled-sunlight-liquid-battery-energy.webp&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780935307358_4",
+        "rank": 4,
+        "title": "China Demonstrates First Robotic Satellite Refueling System in Orbit",
+        "category": "space",
+        "summary": "Chinese company Sustain Space successfully demonstrated on-orbit satellite servicing and refueling operations using a flexible robotic arm on its Xiyuan-0 satellite. Meanwhile, Orbit Fab and Astroscale are preparing to launch their satellite refueling system in geostationary orbit this month, marking a new era in space infrastructure.",
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2026_in_spaceflight",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Earthset_%28art002e009288%29.jpg/1280px-Earthset_%28art002e009288%29.jpg",
+        "imageProxy": "https://images.weserv.nl/?url=upload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F1%2F15%2FEarthset_%2528art002e009288%2529.jpg%2F1280px-Earthset_%2528art002e009288%2529.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780935307358_5",
+        "rank": 5,
+        "title": "Breakthrough Lithium-Air Battery Technology Moves Closer to Commercial Reality",
+        "category": "energy",
+        "summary": "Joint research teams from KIST and IAE have achieved a major breakthrough in lithium-air battery development using a tungsten diselenide catalyst with platinum substitution and selenium vacancies. This advancement addresses long-standing challenges in efficiency and durability, bringing ultra-high energy density batteries closer to practical applications.",
+        "source": "SolarQuarter",
+        "sourceUrl": "https://solarquarter.com/2026/04/03/solar-tech-weekly-lithium-air-battery-breakthrough-why-dcdbs-matter-and-more/",
+        "image": "https://solarquarter.com/wp-content/uploads/2026/04/image-40.png",
+        "imageProxy": "https://images.weserv.nl/?url=solarquarter.com%2Fwp-content%2Fuploads%2F2026%2F04%2Fimage-40.png&w=640&h=400&fit=cover&we&output=jpg"
+      }
+    ],
+    "batchId": "b1780935307358"
+  },
+  {
+    "scannedAt": "2026-06-07T22:15:37.402Z",
+    "items": [
+      {
+        "id": "b1780870537401_1",
+        "rank": 1,
+        "title": "NASA's X-59 Jet Breaks Sound Barrier for First Time, Reaching Mach 1.1",
+        "category": "space",
+        "summary": "NASA's X-59 quiet supersonic research aircraft exceeded the speed of sound for the first time on June 5, 2026, reaching a top speed of 713 mph and a maximum altitude of 43,400 feet. The X-59, part of NASA's Quesst program, is designed to generate mild thumps rather than loud sonic booms, with plans to eventually fly over U.S. communities to gather data on how people perceive its quiet noise. The X-59 team plans to send the aircraft on its first \"mission conditions\" flight in a few days, aiming to reach a top speed of Mach 1.4 and an altitude of about 55,000 feet to help establish new data-driven noise standards for supersonic commercial flight over land.",
+        "source": "Space.com",
+        "sourceUrl": "https://www.nasa.gov/aeronautics/x-59-first-supersonic-flight/",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/06/x59-first-supersonic-flight-m-1-077-clean-high.jpg",
+        "imageProxy": "https://images.weserv.nl/?url=www.nasa.gov%2Fwp-content%2Fuploads%2F2026%2F06%2Fx59-first-supersonic-flight-m-1-077-clean-high.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780870537401_2",
+        "rank": 2,
+        "title": "Scientists Create Revolutionary Light-Powered Chip for Ultra-Fast AI and Quantum Computing",
+        "category": "ai",
+        "summary": "Scientists have created a tiny chip that can generate, steer, and read light-based information all in one device, marking a major leap toward ultra-fast, energy-efficient computing. The breakthrough uses atomically thin materials and nanoscale structures to control a unique quantum property of light called the \"valley\" degree of freedom, allowing information to be encoded in new ways. One of the technology's most important advantages is that it operates at room temperature. Many quantum systems require extremely cold environments, making them more difficult and expensive to use in real-world applications.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260601025343.htm",
+        "image": "https://www.sciencedaily.com/images/1920/photonic-valleytronic-chip-for-information-processing.webp",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fphotonic-valleytronic-chip-for-information-processing.webp&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780870537401_4",
+        "rank": 4,
+        "title": "Brain Scans Reveal Two Distinct Biological Subtypes of Autism for Precision Medicine",
+        "category": "neuroscience",
+        "summary": "According to the researchers, this is the first large-scale effort to systematically connect patterns seen in human brain imaging (via fMRI) with their underlying biological causes using mouse models. By linking specific brain connectivity patterns to distinct molecular processes, the work provides a foundation for future precision medicine strategies in autism. Their findings, published in Nature Neuroscience, led to the identification of two distinct autism subtypes characterized by distinct connectivity patterns. By evaluating over 1,900 human brain scans alongside 20 distinct mouse models, investigators successfully isolated a \"hypoconnectivity\" subtype tied to altered synaptic pathways and a \"hyperconnectivity\" subtype driven by immune-related systems.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260602021634.htm",
+        "image": "https://www.sciencedaily.com/images/1920/brain-scan-color-black-and-white.webp",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fbrain-scan-color-black-and-white.webp&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780870537401_5",
+        "rank": 5,
+        "title": "Microsoft Unveils AI-Designed Quantum Chip 1000x More Reliable, Targets 2029 for Commercial Systems",
+        "category": "ai",
+        "summary": "Microsoft unveils Majorana 2, its next-generation topological quantum chip developed with the help of Microsoft Discovery's agentic AI. Majorana 2's new features include a new materials stack enabling a 1,000-fold improvement in reliability over the prior generation of qubits, with a mean qubit lifetime of 20 seconds and instances lasting as long as one minute. Microsoft now expects to achieve a scalable quantum computer by 2029, cutting its original timeline in half. Microsoft's new chip, however, adopts a fundamentally different approach by using lead-based materials. Microsoft says its researchers developed specialized techniques that allowed them to overcome those obstacles and create a stable manufacturing process capable of utilizing the material effectively. Executives described the breakthrough as one of the most significant engineering achievements in the program's history and a crucial step toward scaling the technology for practical use.",
+        "source": "Microsoft News",
+        "sourceUrl": "https://news.microsoft.com/source/features/innovation/majorana-2-microsoft-discovery-agentic-ai/",
+        "image": "https://news.microsoft.com/source/wp-content/uploads/2026/06/Majorana-2-web-size_4_1200.jpg",
+        "imageProxy": "https://images.weserv.nl/?url=news.microsoft.com%2Fsource%2Fwp-content%2Fuploads%2F2026%2F06%2FMajorana-2-web-size_4_1200.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      }
+    ],
+    "batchId": "b1780870537401"
   }
 ]

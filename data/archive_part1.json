@@ -989,5 +989,66 @@
         "imageProxy": "https://images.weserv.nl/?url=wp.technologyreview.com%2Fwp-content%2Fuploads%2F2026%2F07%2FMITTR2026_TP2_1200SocialCover.png%3Fresize%3D1200%2C600&w=640&h=400&fit=cover&we&output=jpg"
       }
     ]
+  },
+  {
+    "batchId": "auto_2026-07-01T21-14",
+    "scannedAt": "2026-07-01T21:14:12.055Z",
+    "items": [
+      {
+        "id": "auto_2026-07-01T21-14_1",
+        "rank": 1,
+        "title": "Slow Maternal Response Time Linked to ADHD in Kids",
+        "category": "neuroscience",
+        "summary": "Slower maternal vocal response times to 12-month-old infants predict an increased risk of ADHD and disruptive behavior disorders by age 7. For every 10% increase in the probability of a maternal response within one…",
+        "image": "https://neurosciencenews.com/files/2026/07/maternal-response-adhd-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/maternal-response-latency-childhood-adhd-30976/",
+        "imageProxy": "https://images.weserv.nl/?url=neurosciencenews.com%2Ffiles%2F2026%2F07%2Fmaternal-response-adhd-neuroscience-1155x770.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-07-01T21-14_2",
+        "rank": 2,
+        "title": "FCC to vote on satellite licensing overhaul July 22",
+        "category": "space",
+        "summary": "The FCC is set to vote July 22 on an order to overhaul its satellite application process, creating a “licensing assembly line” to keep up with increasingly large and complex constellation plans. The post FCC to vote on…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/10/FCC-chairman-scaled.jpeg?fit=1024%2C704&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/fcc-to-vote-on-satellite-licensing-overhaul-july-22/",
+        "imageProxy": "https://images.weserv.nl/?url=i0.wp.com%2Fspacenews.com%2Fwp-content%2Fuploads%2F2025%2F10%2FFCC-chairman-scaled.jpeg%3Ffit%3D1024%252C704%26ssl%3D1&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-07-01T21-14_3",
+        "rank": 3,
+        "title": "STAT+: The moment Anthropic convinced me it’s serious about science",
+        "category": "biotech",
+        "summary": "AI Prognosis: The release of Claude Science suggests big model makers are getting serious about real science, and not just flashy problems.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/06/AIPrognosis_Wordpress_Anthropic-1024x576.png",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/07/01/anthropic-claude-science-convinced-me-its-serious-ai-prognosis/?utm_campaign=rss",
+        "imageProxy": "https://images.weserv.nl/?url=www.statnews.com%2Fwp-content%2Fuploads%2F2026%2F06%2FAIPrognosis_Wordpress_Anthropic-1024x576.png&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-07-01T21-14_4",
+        "rank": 4,
+        "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+        "category": "ai",
+        "summary": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll get 3 or 4. Type…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/260626_LLMhallucinations.jpg?resize=1200,600",
+        "source": "MIT Technology Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+        "imageProxy": "https://images.weserv.nl/?url=wp.technologyreview.com%2Fwp-content%2Fuploads%2F2026%2F06%2F260626_LLMhallucinations.jpg%3Fresize%3D1200%2C600&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-07-01T21-14_5",
+        "rank": 5,
+        "title": "Martha’s Vineyard solar array will cut bills for low-income islanders",
+        "category": "energy",
+        "summary": "A new solar installation on Martha’s Vineyard is set to lower utility costs for hundreds of low-income, year-round residents on the island best known as an upscale vacation destination. The project is the first to come…",
+        "image": "https://img.canarymedia.com/content/uploads/MVH-Workforce-Housing-SolarShare-Image-1.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=86b7d7ffde719ca4f606655ca9c587cd",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/solar/marthas-vineyard-rooftop-array-cut-bills",
+        "imageProxy": "https://images.weserv.nl/?url=img.canarymedia.com%2Fcontent%2Fuploads%2FMVH-Workforce-Housing-SolarShare-Image-1.jpg%3Fauto%3Dcompress%252Cformat%26crop%3Dfocalpoint%26fit%3Dcrop%26fp-x%3D0.5%26fp-y%3D0.5%26h%3D630%26q%3D82%26w%3D1200%26s%3D86b7d7ffde719ca4f606655ca9c587cd&w=640&h=400&fit=cover&we&output=jpg"
+      }
+    ]
   }
 ]
