@@ -1,11 +1,22 @@
 [
   {
-    "batchId": "auto_2026-08-02T16-41",
-    "scannedAt": "2026-08-02T16:41:50.791Z",
+    "batchId": "auto_2026-08-02T20-39",
+    "scannedAt": "2026-08-02T20:39:34.821Z",
     "items": [
       {
-        "id": "auto_2026-08-02T16-41_1",
+        "id": "auto_2026-08-02T20-39_1",
         "rank": 1,
+        "title": "STAT+: Michigan Supreme Court ruling allows probe into Lilly insulin pricing",
+        "category": "biotech",
+        "summary": "Lilly was accused of charging “grossly” excessive prices for different insulin products that forced some patients to ration or forego the drug.",
+        "image": "https://www.statnews.com/wp-content/uploads/2025/08/GettyImages-2092473213-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/pharmalot/2026/08/02/michigan-supreme-court-ruling-allows-probe-into-lilly-insulin-pricing/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-02T20-39_2",
+        "rank": 2,
         "title": "Dark matter’s secret force does the opposite of what scientists expected",
         "category": "space",
         "summary": "Dark matter particles may exert a hidden force on one another, but its effects are stranger than expected. An extra attraction helps the particles cluster, yet it also makes dark matter effectively lighter as the…",
@@ -15,8 +26,8 @@
         "fromX": false
       },
       {
-        "id": "auto_2026-08-02T16-41_2",
-        "rank": 2,
+        "id": "auto_2026-08-02T20-39_3",
+        "rank": 3,
         "title": "Why Gaining Free Time Unexpectedly Makes People Late",
         "category": "neuroscience",
         "summary": "Unexpectedly gained free time subjectively expands in our minds, causing people to perform tasks slower and arrive late.",
@@ -26,8 +37,8 @@
         "fromX": false
       },
       {
-        "id": "auto_2026-08-02T16-41_3",
-        "rank": 3,
+        "id": "auto_2026-08-02T20-39_4",
+        "rank": 4,
         "title": "Seedance 2.5: Advancing AI Video Creation for Modern Content Workflows",
         "category": "robotics",
         "summary": "AI keeps reshaping how digital content actually gets made, and Seedance 2.5 is just the latest checkpoint in that ongoing shift toward better AI-assisted video. Creators, marketers, educators, and businesses are all…",
@@ -37,25 +48,14 @@
         "fromX": false
       },
       {
-        "id": "auto_2026-08-02T16-41_4",
-        "rank": 4,
+        "id": "auto_2026-08-02T20-39_5",
+        "rank": 5,
         "title": "Heritage Bookbinding Elements Transform in Contemporary Sculptures by Adelene Koh",
         "category": "art",
         "summary": "For Koh, an under-appreciated element of a book's construction becomes the highlight. Do stories and artists like this matter to you? Become a Colossal Member today and support independent arts publishing for as little…",
         "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/07/koh-4.jpg",
         "source": "Colossal",
         "sourceUrl": "https://www.thisiscolossal.com/2026/07/adelene-koh-bookbinding-paper-sewing-sculpture-loewe-craft-prize/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-02T16-41_5",
-        "rank": 5,
-        "title": "STAT+: Trump administration revises rebate pilot for 340B drug discount program, angering hospitals",
-        "category": "biotech",
-        "summary": "The Trump administration is revising its rebate pilot for the 340B drug discount program, angering hospitals.",
-        "image": "https://www.statnews.com/wp-content/uploads/2021/08/AdobeStock_251252973-1024x576.jpeg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/pharmalot/2026/07/31/trump-administration-revises-rebate-pilot-drug-discount-program-hospitals/?utm_campaign=rss",
         "fromX": false
       }
     ]
