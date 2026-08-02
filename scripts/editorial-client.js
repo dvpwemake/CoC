@@ -192,40 +192,73 @@
   }
 
   /**
-   * Prefer latest scan batches; one story per category when possible, then fill.
+   * Prefer the most recent scan calendar day (field-signal day), then older days.
+   * Within each day: one story per category when possible, then fill.
+   * Avoids sticky first-seen category winners from weeks-old archive history.
    */
   function headlinesFromArchive(archive, n) {
     n = n || 12;
     const list = Array.isArray(archive) ? archive.slice() : [];
     list.sort((a, b) => new Date(b.scannedAt || 0) - new Date(a.scannedAt || 0));
-    const seen = new Set();
-    const byCat = {};
-    const rest = [];
+
+    function dayKey(s) {
+      return String(s || '').slice(0, 10);
+    }
+
+    // Collect unique items per calendar day (newest days first)
+    const dayOrder = [];
+    const byDay = {};
+    const globalSeen = new Set();
     for (const b of list) {
+      const day = dayKey(b.scannedAt) || 'unknown';
+      if (!byDay[day]) {
+        byDay[day] = [];
+        dayOrder.push(day);
+      }
       for (const it of b.items || []) {
         const title = plain(it.title);
         const key = title.toLowerCase();
-        if (!title || seen.has(key)) continue;
-        seen.add(key);
-        const cat = it.category || 'ai';
-        const row = {
+        if (!title || globalSeen.has(key)) continue;
+        globalSeen.add(key);
+        byDay[day].push({
           title,
           source: plain(it.source),
-          category: cat,
+          category: it.category || 'ai',
           sourceUrl: it.sourceUrl || it.link || '',
           summary: plain(it.summary || it.description || ''),
           image: String(it.image || '').trim()
-        };
+        });
+      }
+    }
+
+    const picks = [];
+    const pickedKeys = new Set();
+    function takeFromDay(rows) {
+      if (!rows || !rows.length) return;
+      const byCat = {};
+      const rest = [];
+      for (const row of rows) {
+        const key = row.title.toLowerCase();
+        if (pickedKeys.has(key)) continue;
+        const cat = row.category || 'ai';
         if (!byCat[cat]) byCat[cat] = row;
         else rest.push(row);
       }
+      const catPicks = Object.keys(byCat)
+        .sort()
+        .map((c) => byCat[c]);
+      for (const row of catPicks.concat(rest)) {
+        if (picks.length >= n) return;
+        const key = row.title.toLowerCase();
+        if (pickedKeys.has(key)) continue;
+        pickedKeys.add(key);
+        picks.push(row);
+      }
     }
-    const picks = Object.keys(byCat)
-      .sort()
-      .map((c) => byCat[c]);
-    for (const r of rest) {
+
+    for (const day of dayOrder) {
       if (picks.length >= n) break;
-      picks.push(r);
+      takeFromDay(byDay[day]);
     }
     return picks.slice(0, n);
   }

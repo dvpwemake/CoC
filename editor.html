@@ -665,7 +665,7 @@ async function doScan(){
     try{
       if(window.CocEditorial){
         await ensureEditorialLoaded(false);
-        const hl=items.map(x=>({title:x.title,source:x.source,category:x.category,sourceUrl:x.sourceUrl,summary:x.summary}));
+        const hl=items.map(x=>({title:x.title,source:x.source,category:x.category,sourceUrl:x.sourceUrl,summary:x.summary,image:x.image||''}));
         const today=CocEditorial.nyParts().dateStr;
         const r=CocEditorial.createDraftForDate(ED,today,hl,{force:true});
         ED=r.store;
@@ -695,8 +695,10 @@ function openEdFormWith(ed){
   hidePanelsKeepAside();
   document.getElementById('edForm').style.display='block';
   fillEditorialForm(ed||{});
-  // Ensure picker has images even for older drafts that predate image-on-headline
-  refreshEdHeroPicker({ silent:true, preferExisting:true });
+  // Outline / empty-image drafts: full reload from current archive (not stale local headlines).
+  // Prose drafts: keep selected article set, but always re-sync head images from archive.
+  const prefer=!(isOutlineBrief(ed)||!(ed&&Array.isArray(ed.headlines)&&ed.headlines.some(h=>h&&h.image)));
+  refreshEdHeroPicker({ silent:true, preferExisting:prefer, forceFromArchive:!prefer });
 }
 async function forceEditorialDraft(){
   if(drafting)return;
@@ -1369,10 +1371,16 @@ function selectEdHero(i){
 
 /**
  * Reload article head images into the hero picker.
- * @param {{silent?:boolean, preferExisting?:boolean, defaultIfEmpty?:boolean}} opts
+ * @param {{silent?:boolean, preferExisting?:boolean, forceFromArchive?:boolean, defaultIfEmpty?:boolean}} opts
+ * - forceFromArchive / Refresh button: replace with current day field-signal selection + images
+ * - preferExisting: keep draft article set, but always re-sync images from archive when present
  */
 async function refreshEdHeroPicker(opts){
   opts=opts||{};
+  // Toolbar button (no opts) always pulls current archive selection
+  if(opts.preferExisting==null && opts.forceFromArchive==null && !opts.silent){
+    opts.forceFromArchive=true;
+  }
   const btn=document.getElementById('edHeroRefreshBtn');
   if(btn){ btn.disabled=true; btn.textContent='↻ Loading…'; }
   try{
@@ -1380,14 +1388,22 @@ async function refreshEdHeroPicker(opts){
     const fromArchive=await loadHeadlinesForDraft();
     const archMapped=(fromArchive||[]).map(normalizeHeadlineRow);
     const byTitle=new Map(archMapped.map(h=>[String(h.title||'').toLowerCase(),h]));
+    const byUrl=new Map(archMapped.map(h=>[String(h.sourceUrl||'').split('?')[0].toLowerCase(),h]).filter(p=>p[0]));
 
-    // Merge: keep draft order/selection when present; fill missing images from archive
+    function archMatch(h){
+      const u=String(h.sourceUrl||'').split('?')[0].toLowerCase();
+      if(u && byUrl.has(u)) return byUrl.get(u);
+      return byTitle.get(String(h.title||'').toLowerCase())||null;
+    }
+
+    // Always re-sync head images (and missing metadata) from current archive
     if(list.length){
       list=list.map(h=>{
-        const m=byTitle.get(String(h.title||'').toLowerCase());
+        const m=archMatch(h);
         if(!m) return h;
         return normalizeHeadlineRow(Object.assign({},h,{
-          image:h.image||m.image||'',
+          // Prefer archive image so thumbs track latest crawl / Image Adjustment
+          image:m.image||h.image||'',
           source:h.source||m.source||'',
           sourceUrl:h.sourceUrl||m.sourceUrl||'',
           summary:h.summary||m.summary||'',
@@ -1395,17 +1411,28 @@ async function refreshEdHeroPicker(opts){
         }));
       });
     }
-    // If draft has no headlines (or no images after merge), use archive selection list
-    const needArch=!list.length || !list.some(h=>h.image);
+
+    const needArch=!list.length || !list.some(h=>h.image) || opts.forceFromArchive;
     if(needArch && archMapped.length){
-      if(opts.preferExisting && list.length){
+      if(opts.preferExisting && list.length && !opts.forceFromArchive){
         if(!list.some(h=>h.image)) list=archMapped;
       }else{
+        // Current field-signal selection (newest scan day first)
         list=archMapped;
       }
     }
 
     ED_FORM_HEADLINES=list;
+    // Keep open draft's headlines in browser store so next open is not stale
+    try{
+      const dateEl=document.getElementById('edDate');
+      const date=dateEl&&dateEl.value;
+      if(date&&ED&&ED.drafts&&ED.drafts[date]&&list.length){
+        ED.drafts[date].headlines=list.map(normalizeHeadlineRow);
+        ED.drafts[date].updatedAt=new Date().toISOString();
+        localStorage.setItem(EK,JSON.stringify(ED));
+      }
+    }catch(_e){/* non-fatal */}
     // Default hero to first article image when empty (new draft path)
     const cur=(document.getElementById('edHero')&&document.getElementById('edHero').value||'').trim();
     const cands=(window.CocEditorial&&CocEditorial.heroCandidatesFromHeadlines
@@ -1413,11 +1440,20 @@ async function refreshEdHeroPicker(opts){
       : ED_FORM_HEADLINES.filter(h=>h.image).map(h=>({image:h.image,title:h.title,source:h.source,sourceUrl:h.sourceUrl,category:h.category})));
     if(!cur && cands[0] && (opts.defaultIfEmpty!==false)){
       setEdHeroFromCandidate(cands[0]);
+    }else if(cur && cands[0] && opts.forceFromArchive && (opts.defaultIfEmpty!==false)){
+      // Outline / full archive reload: if hero is a leftover NASA/other URL not in day set, re-default
+      const bodyTxt=(document.getElementById('edBody')&&document.getElementById('edBody').value)||'';
+      const titleTxt=(document.getElementById('edTitle')&&document.getElementById('edTitle').value)||'';
+      const outlineish=/EDITORIAL BRIEF\s*\(outline only/i.test(bodyTxt)||/^Editorial brief\s*[—–-]/i.test(titleTxt.trim());
+      if(outlineish){
+        const keys=new Set(cands.map(c=>(c.image||'').split('?')[0].toLowerCase()));
+        if(!keys.has(cur.split('?')[0].toLowerCase())) setEdHeroFromCandidate(cands[0]);
+      }
     }
     renderEdHeroPicker();
     if(!opts.silent){
       toast(cands.length? (cands.length+' article image(s) ready for hero') : 'No article images found — crawl first','info');
-      addLog(cands.length?'ok':'er2','Hero picker refresh · '+cands.length+' image(s)');
+      addLog(cands.length?'ok':'er2','Hero picker refresh · '+cands.length+' image(s)'+(opts.forceFromArchive?' · archive day selection':''));
     }
   }catch(e){
     if(!opts.silent) toast('Hero picker refresh failed: '+e.message,'error');
