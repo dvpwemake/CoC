@@ -1,5 +1,25 @@
 [
   {
+    "batchId": "editorial_2026-08-01",
+    "scannedAt": "2026-08-01T19:52:07.146Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-08-01",
+        "rank": 0,
+        "title": "What the margin makes visible, and what ground still claims",
+        "category": "editorial",
+        "summary": "Convergence of expanded access and reclaimed repair",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/seedance-image-3.png",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-01.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-08-01",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-08-02T20-39",
     "scannedAt": "2026-08-02T20:39:34.821Z",
     "items": [
