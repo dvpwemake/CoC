@@ -52,8 +52,31 @@ async function main() {
   const config = JSON.parse(fs.readFileSync(SOURCES_PATH, 'utf8'));
   const xSignals = loadXSignals();
 
-  console.log('Crawling science + art feeds + X MCP signals…');
-  const items = await CocCrawler.crawl(config, { fetch: globalThis.fetch, xSignals });
+  // Load archive first so we can skip titles/URLs already selected recently
+  let existing = loadArchive(ROOT);
+  const excludeDays = config.excludeRecentDays != null ? config.excludeRecentDays : 14;
+
+  console.log(
+    'Crawling science + art feeds + X MCP signals… (exclude reselect last',
+    excludeDays,
+    'days)'
+  );
+  const items = await CocCrawler.crawl(config, {
+    fetch: globalThis.fetch,
+    xSignals,
+    archive: existing,
+    excludeRecentDays: excludeDays,
+    onExcludeInfo: (info) => {
+      console.log(
+        'Recent-archive exclude window:',
+        info.excludeRecentDays,
+        'd · titles',
+        info.excludedTitles,
+        '· urls',
+        info.excludedUrls
+      );
+    }
+  });
 
   if (!items.length) {
     console.error('No articles found from any feed.');
@@ -89,7 +112,6 @@ async function main() {
     )
   };
 
-  let existing = loadArchive(ROOT);
   // Replace only today's auto_* scan batch; keep every older batch (full history)
   const today = dayKey(batch.scannedAt);
   existing = existing.filter(

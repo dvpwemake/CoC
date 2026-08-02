@@ -1,6 +1,8 @@
 {
   "maxAgeHours": 336,
   "pickCount": 5,
+  "excludeRecentDays": 14,
+  "excludeRecentDaysNote": "Skip feed/X candidates whose normalized title or sourceUrl already appears in archive batches scanned within this many days; take the next freshest per category.",
   "skipTitlePatterns": ["sponsored", "advertisement", "partner content", "white paper", "webinar replay"],
   "domainBlacklist": [
     "hyperallergic.com",

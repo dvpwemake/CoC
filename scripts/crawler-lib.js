@@ -47,6 +47,94 @@ function isImageUrlAllowed(url, config) {
   return true;
 }
 
+/** Stable title key for cross-day / within-crawl dedupe. */
+function normalizeTitleKey(title) {
+  return stripHtml(title)
+    .toLowerCase()
+    .replace(/['’]/g, '')
+    .replace(/[^a-z0-9]+/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+/** Stable URL key (host + path, no query/hash, strip trailing slash + www). */
+function normalizeUrlKey(url) {
+  try {
+    const u = new URL(String(url || ''), 'https://example.com');
+    if (!u.hostname || u.hostname === 'example.com') {
+      return String(url || '')
+        .split(/[?#]/)[0]
+        .toLowerCase()
+        .replace(/\/+$/, '');
+    }
+    const host = normalizeHost(u.hostname);
+    const path = (u.pathname || '/').replace(/\/+$/, '') || '';
+    return (host + path).toLowerCase();
+  } catch (e) {
+    return String(url || '')
+      .split(/[?#]/)[0]
+      .toLowerCase()
+      .replace(/\/+$/, '');
+  }
+}
+
+/**
+ * Titles + URLs already used in recent archive batches (last N calendar days by scannedAt).
+ * Default window: 14 days (override via config.excludeRecentDays or options.excludeRecentDays).
+ */
+function collectRecentArchiveKeys(batches, days) {
+  const windowDays = days == null || days < 0 ? 14 : days;
+  const cutoff = Date.now() - windowDays * 86400000;
+  const urls = new Set();
+  const titles = new Set();
+  if (!Array.isArray(batches)) return { urls, titles, count: 0 };
+  let count = 0;
+  for (const b of batches) {
+    const scanned = Date.parse(b && b.scannedAt ? b.scannedAt : 0);
+    // Keep items with missing scannedAt (treat as recent enough to exclude)
+    if (scanned && !Number.isNaN(scanned) && scanned < cutoff) continue;
+    for (const it of (b && b.items) || []) {
+      const uk = normalizeUrlKey(it.sourceUrl || it.link || '');
+      const tk = normalizeTitleKey(it.title || '');
+      if (uk) urls.add(uk);
+      if (tk) titles.add(tk);
+      if (uk || tk) count += 1;
+    }
+  }
+  return { urls, titles, count };
+}
+
+function isAlreadySelected(used, title, link) {
+  if (!used) return false;
+  const uk = normalizeUrlKey(link);
+  const tk = normalizeTitleKey(title);
+  if (uk && used.urls && used.urls.has(uk)) return true;
+  if (tk && used.titles && used.titles.has(tk)) return true;
+  // Legacy: plain Set of raw URLs
+  if (used instanceof Set) {
+    if (link && used.has(link)) return true;
+    if (uk && used.has(uk)) return true;
+  }
+  return false;
+}
+
+function markSelected(used, title, link) {
+  if (!used) return;
+  if (used instanceof Set) {
+    if (link) used.add(link);
+    const uk = normalizeUrlKey(link);
+    if (uk) used.add(uk);
+    return;
+  }
+  if (!used.urls) used.urls = new Set();
+  if (!used.titles) used.titles = new Set();
+  const uk = normalizeUrlKey(link);
+  const tk = normalizeTitleKey(title);
+  if (uk) used.urls.add(uk);
+  if (tk) used.titles.add(tk);
+  if (link) used.urls.add(String(link).trim());
+}
+
 function decodeEntities(str) {
   return String(str || '')
     .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1')
@@ -292,7 +380,7 @@ function normalizeXItems(xSignals, category) {
     .filter(Boolean);
 }
 
-async function pickForCategory(category, catConfig, config, fetchFn, usedUrls, options = {}) {
+async function pickForCategory(category, catConfig, config, fetchFn, used, options = {}) {
   const maxAgeMs = (config.maxAgeHours || 336) * 3600000;
   const cutoff = Date.now() - maxAgeMs;
   const candidates = [];
@@ -309,7 +397,7 @@ async function pickForCategory(category, catConfig, config, fetchFn, usedUrls, o
     for (const it of items) {
       if (shouldSkip(it, config)) continue;
       if (isHostBlacklisted(it.link, config, 'domain')) continue;
-      if (usedUrls.has(it.link)) continue;
+      if (isAlreadySelected(used, it.title, it.link)) continue;
       // Drop images from banned hosts even if the article host is allowed
       if (it.image && !isImageUrlAllowed(it.image, config)) it.image = '';
       candidates.push({ ...it, category, source: feed.name, fromX: false });
@@ -335,21 +423,21 @@ async function pickForCategory(category, catConfig, config, fetchFn, usedUrls, o
     for (const it of xItems) {
       if (shouldSkip(it, config)) continue;
       if (isHostBlacklisted(it.link, config, 'domain')) continue;
-      if (usedUrls.has(it.link)) continue;
+      if (isAlreadySelected(used, it.title, it.link)) continue;
       if (it.image && !isImageUrlAllowed(it.image, config)) it.image = '';
       candidates.push({ ...it, category });
     }
   }
 
-  const fresh = candidates
+  // Next freshest not already selected (within crawl + recent archive)
+  const open = candidates.filter((it) => !isAlreadySelected(used, it.title, it.link));
+  const fresh = open
     .filter((it) => it.pubDate && it.pubDate.getTime() >= cutoff)
     .sort((a, b) => b.pubDate - a.pubDate);
   if (fresh.length) return fresh[0];
 
   // Fallback: any age, newest first
-  const any = candidates
-    .filter((it) => !usedUrls.has(it.link))
-    .sort((a, b) => (b.pubDate || 0) - (a.pubDate || 0));
+  const any = open.sort((a, b) => (b.pubDate || 0) - (a.pubDate || 0));
   return any[0] || null;
 }
 
@@ -382,13 +470,35 @@ async function enrichItem(item, fetchFn, config) {
 
 async function crawl(config, options = {}) {
   const fetchFn = options.fetch || globalThis.fetch;
-  const usedUrls = new Set();
+  const excludeDays =
+    options.excludeRecentDays != null
+      ? options.excludeRecentDays
+      : config.excludeRecentDays != null
+        ? config.excludeRecentDays
+        : 14;
+
+  // Seed with recent archive so the same title/URL is not re-picked for N days
+  const archive = options.archive || options.batches || null;
+  const recent = collectRecentArchiveKeys(archive, excludeDays);
+  const used = {
+    urls: new Set(recent.urls),
+    titles: new Set(recent.titles)
+  };
+  if (typeof options.onExcludeInfo === 'function') {
+    options.onExcludeInfo({
+      excludeRecentDays: excludeDays,
+      excludedTitles: recent.titles.size,
+      excludedUrls: recent.urls.size,
+      excludedItemRefs: recent.count
+    });
+  }
+
   const picks = [];
 
-  for (const [category, catConfig] of Object.entries(config.categories)) {
-    const pick = await pickForCategory(category, catConfig, config, fetchFn, usedUrls, options);
+  for (const [category, catConfig] of Object.entries(config.categories || {})) {
+    const pick = await pickForCategory(category, catConfig, config, fetchFn, used, options);
     if (pick) {
-      usedUrls.add(pick.link);
+      markSelected(used, pick.title, pick.link);
       picks.push(pick);
     }
   }
@@ -427,6 +537,11 @@ const CocCrawler = {
   parseOgImage,
   stripHtml,
   normalizeXItems,
+  normalizeTitleKey,
+  normalizeUrlKey,
+  collectRecentArchiveKeys,
+  isAlreadySelected,
+  markSelected,
   isHostBlacklisted,
   isImageUrlAllowed,
   hostFromUrl,

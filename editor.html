@@ -652,8 +652,34 @@ async function doScan(){
   try{
     const cfg=await loadSources();
     const xSignals=await loadXSignals();
-    addLog('inf','Fetching feeds (AI/Art/Robotics/Biotech/Space/Energy/Neuro) + X signals…');
-    const items=await CocCrawler.crawl(cfg,{fetch:browserFetch,xSignals:xSignals});
+    // Recent archive (file + local batches) so crawl skips titles/URLs already selected
+    let archiveBatches=Array.isArray(B)?B.slice():[];
+    try{
+      const ar=await fetch('data/archive.json',{cache:'no-cache'});
+      if(ar.ok){
+        const fileArch=await ar.json();
+        if(Array.isArray(fileArch)&&fileArch.length){
+          const byId=new Map();
+          for(const b of [...fileArch,...archiveBatches]){
+            const id=b&&(b.batchId||b.id||b.scannedAt);
+            if(!id) continue;
+            if(!byId.has(id)) byId.set(id,b);
+          }
+          archiveBatches=[...byId.values()];
+        }
+      }
+    }catch(_e){/* local B only */}
+    const excludeDays=cfg.excludeRecentDays!=null?cfg.excludeRecentDays:14;
+    addLog('inf','Fetching feeds (AI/Art/Robotics/Biotech/Space/Energy/Neuro) + X · skip reselect last '+excludeDays+'d…');
+    const items=await CocCrawler.crawl(cfg,{
+      fetch:browserFetch,
+      xSignals:xSignals,
+      archive:archiveBatches,
+      excludeRecentDays:excludeDays,
+      onExcludeInfo:function(info){
+        addLog('inf','Exclude window '+info.excludeRecentDays+'d · '+info.excludedTitles+' titles · '+info.excludedUrls+' urls');
+      }
+    });
     if(!items.length)throw new Error('No articles found');
     const now=new Date(),bId='batch_'+now.toISOString().replace(/[:.]/g,'-').slice(0,16);
     const nb={batchId:bId,scannedAt:now.toISOString(),items:items.map((x,i)=>scrubItem({id:bId+'_'+(i+1),rank:x.rank||(i+1),title:(x.title||'').slice(0,150),category:['ai','art','robotics','biotech','space','energy','neuroscience'].includes(x.category)?x.category:'ai',summary:x.summary||'',image:x.image||'',source:x.source||'',sourceUrl:x.sourceUrl||'#',fromX:!!x.fromX}))};
