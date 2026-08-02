@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-08-02T01-22",
+    "scannedAt": "2026-08-02T01:22:32.472Z",
+    "items": [
+      {
+        "id": "auto_2026-08-02T01-22_1",
+        "rank": 1,
+        "title": "Space Force awards K2 Space $22.9 million for laser communications demonstration",
+        "category": "space",
+        "summary": "Two K2 satellites will host optical terminals intended to connect military systems in orbit The post Space Force awards K2 Space $22.9 million for laser communications demonstration appeared first on SpaceNews .",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2023/09/Screenshot-2023-09-19-at-8.07.27-AM.png?fit=1024%2C635&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/space-force-awards-k2-space-22-9-million-for-orbital-laser-communications-demonstration/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-02T01-22_2",
+        "rank": 2,
+        "title": "Why Gaining Free Time Unexpectedly Makes People Late",
+        "category": "neuroscience",
+        "summary": "Unexpectedly gained free time subjectively expands in our minds, causing people to perform tasks slower and arrive late.",
+        "image": "https://neurosciencenews.com/files/2026/08/free-time-lateness-psychology-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/time-perception-late-decisions-31168/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-02T01-22_3",
+        "rank": 3,
+        "title": "Seedance 2.5: Advancing AI Video Creation for Modern Content Workflows",
+        "category": "robotics",
+        "summary": "AI keeps reshaping how digital content actually gets made, and Seedance 2.5 is just the latest checkpoint in that ongoing shift toward better AI-assisted video. Creators, marketers, educators, and businesses are all…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/seedance-image-3.png",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/01/seedance-2-5-advancing-ai-video-creation-for-modern-content-workflows/103829/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-02T01-22_4",
+        "rank": 4,
+        "title": "Heritage Bookbinding Elements Transform in Contemporary Sculptures by Adelene Koh",
+        "category": "art",
+        "summary": "For Koh, an under-appreciated element of a book's construction becomes the highlight. Do stories and artists like this matter to you? Become a Colossal Member today and support independent arts publishing for as little…",
+        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/07/koh-4.jpg",
+        "source": "Colossal",
+        "sourceUrl": "https://www.thisiscolossal.com/2026/07/adelene-koh-bookbinding-paper-sewing-sculpture-loewe-craft-prize/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-02T01-22_5",
+        "rank": 5,
+        "title": "STAT+: Trump administration revises rebate pilot for 340B drug discount program, angering hospitals",
+        "category": "biotech",
+        "summary": "The Trump administration is revising its rebate pilot for the 340B drug discount program, angering hospitals.",
+        "image": "https://www.statnews.com/wp-content/uploads/2021/08/AdobeStock_251252973-1024x576.jpeg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/pharmalot/2026/07/31/trump-administration-revises-rebate-pilot-drug-discount-program-hospitals/?utm_campaign=rss",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-08-01T20-37",
     "scannedAt": "2026-08-01T20:37:20.851Z",
     "items": [
@@ -806,67 +867,6 @@
         "isEditorialArchive": true,
         "publishDate": "2026-07-22",
         "authorName": "Dr. Wallace Lynch"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-07-22T20-50",
-    "scannedAt": "2026-07-22T20:50:38.346Z",
-    "items": [
-      {
-        "id": "auto_2026-07-22T20-50_1",
-        "rank": 1,
-        "title": "New Chip Matches Real-Time Human Brain Speed",
-        "category": "neuroscience",
-        "summary": "A new study presents the world's first neuromorphic chip capable of matching the operational speed of the human brain.",
-        "image": "https://neurosciencenews.com/files/2026/07/brain-speed-chip-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/memristor-chip-brain-speed-neurotech-31110/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-07-22T20-50_2",
-        "rank": 2,
-        "title": "Tate Names Dia Leader Jessica Morgan as Next Director",
-        "category": "art",
-        "summary": "The British curator will return to London to helm the museum network beginning next year.",
-        "image": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/07/Jessica-Morgan-photo-by-Gabriela-Herman.jpg",
-        "source": "Hyperallergic",
-        "sourceUrl": "https://hyperallergic.com/tate-names-dia-leader-jessica-morgan-as-next-director/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-07-22T20-50_3",
-        "rank": 3,
-        "title": "Orania Limited’s 5-Layer Approach to Platform Data Governance",
-        "category": "robotics",
-        "summary": "Data governance is one of those disciplines that most platforms know they need and few feel they've actually figured out. The concept is straightforward enough: ensure data is managed properly, protected appropriately,…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/07/oranio-image-1.png",
-        "source": "Robotics & Automation News",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/07/22/platform-data-governance-orania-limited/103600/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-07-22T20-50_4",
-        "rank": 4,
-        "title": "NASA to Showcase Agency’s Newest Wind Tunnel in Virginia",
-        "category": "space",
-        "summary": "Media are invited to NASA’s Langley Research Center in Hampton, Virginia, on Friday, July 31, to attend a media tour and ribbon-cutting ceremony for the Flight Dynamics Research Facility, the agency’s first new wind…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/07/langleyfdrfjune2026-ba2289.jpg",
-        "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/news-release/nasa-to-showcase-agencys-newest-wind-tunnel-in-virginia/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-07-22T20-50_5",
-        "rank": 5,
-        "title": "Gemini 3.6 Flash and 3.5 Flash-Lite now available through official API for developers and AI agents",
-        "category": "ai",
-        "summary": "Model ecosystem expansion: Gemini 3.6 Flash and Gemini 3.5 Flash-Lite via official API access.",
-        "image": "https://pbs.twimg.com/media/HN1SnDCWEAA2hmA.jpg",
-        "source": "X · @web3l0var",
-        "sourceUrl": "https://x.com/web3l0var/status/2079909448219271368",
-        "fromX": true
       }
     ]
   }
