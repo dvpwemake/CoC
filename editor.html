@@ -116,28 +116,14 @@ button,input,select,textarea{font-size:inherit}
 .eli-del:hover{background:rgba(255,45,135,.12)}
 .eli-del:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
 
-/* Selected news of the day — primary admin view */
-#selDayP{display:none;max-width:920px}
-.sel-day-hint{font-family:var(--font-sans);font-size:var(--fs-ui);color:var(--text-dim);line-height:var(--lh);margin:0 0 1rem}
-.sel-day-meta{font-family:var(--font-sans);font-size:var(--fs-label);font-weight:600;color:var(--text);margin:0 0 .85rem}
-.sel-day-list{display:flex;flex-direction:column;gap:.75rem}
-.sel-day-row{display:grid;grid-template-columns:auto 96px 1fr auto;gap:.85rem;align-items:center;padding:.9rem 1rem;background:var(--bg-input);border:1px solid var(--border);border-radius:10px}
-.sel-day-rank{font-family:var(--font-mono);font-size:var(--fs-label);font-weight:700;color:var(--accent);min-width:1.75rem;text-align:center}
-.sel-day-thumb{width:96px;height:72px;border-radius:8px;object-fit:cover;background:var(--bg);border:1px solid var(--border);display:block}
-.sel-day-thumb.fail{opacity:.35}
-.sel-day-body{min-width:0}
-.sel-day-title{font-size:var(--fs-body);font-weight:600;line-height:var(--lh-tight);margin:0 0 .25rem;word-break:break-word}
-.sel-day-sub{font-family:var(--font-sans);font-size:var(--fs-meta);color:var(--text-dim);line-height:var(--lh-tight)}
-.sel-day-sub .cat{font-family:var(--font-mono);text-transform:uppercase;letter-spacing:.06em;margin-right:.4rem}
-.sel-day-empty{padding:2rem 1.25rem;text-align:center;color:var(--text-dim);font-size:var(--fs-ui);line-height:var(--lh);border:1px dashed var(--border);border-radius:10px}
-.sel-day-actions{display:flex;flex-wrap:wrap;gap:.5rem;align-items:center}
-@media(max-width:720px){
-  .sel-day-row{grid-template-columns:auto 1fr;grid-template-areas:"rank del" "thumb thumb" "body body"}
-  .sel-day-rank{grid-area:rank}
-  .sel-day-thumb{grid-area:thumb;width:100%;height:140px}
-  .sel-day-body{grid-area:body}
-  .sel-day-row .eli-del{grid-area:del;justify-self:end}
-}
+/* Unified Day's news desk (selected stories + image fix + delete) */
+#newsDeskP{display:none;max-width:960px}
+.news-desk-hint{font-family:var(--font-sans);font-size:var(--fs-ui);color:var(--text-dim);line-height:var(--lh);margin:0 0 1rem}
+.news-desk-meta{font-family:var(--font-sans);font-size:var(--fs-label);font-weight:600;color:var(--text);margin:0 0 .85rem}
+.news-desk-toolbar{display:flex;flex-wrap:wrap;gap:.5rem;align-items:center;margin:0 0 1rem}
+.news-desk-scope{display:flex;flex-wrap:wrap;gap:.65rem;align-items:center;margin:0 0 .85rem;font-size:var(--fs-ui)}
+.news-desk-scope label{display:inline-flex;align-items:center;gap:.35rem;cursor:pointer;color:var(--text)}
+.news-desk-scope input{width:1.1rem;height:1.1rem;accent-color:var(--accent)}
 .eic.ai{color:var(--ai)}.eic.robotics{color:var(--robotics)}.eic.biotech{color:var(--biotech)}.eic.space{color:var(--space)}.eic.energy{color:var(--energy)}.eic.neuroscience{color:var(--neuro)}.eic.art{color:var(--art)}
 
 .main{padding:2rem 2.5rem;max-width:880px}
@@ -196,8 +182,7 @@ button,input,select,textarea{font-size:inherit}
 .gate-err{color:var(--danger);font-family:var(--font-sans);font-size:var(--fs-meta);min-height:1.25rem;margin-bottom:.5rem}
 .gate-note{font-family:var(--font-sans);font-size:var(--fs-meta);color:var(--text-dim);margin-top:1rem;line-height:var(--lh)}
 
-/* Image Adjustment panel — head thumbs + editable URLs */
-#imgAdjP{display:none;max-width:960px}
+/* News desk rows (image URL + delete) */
 .img-adj-hint{font-family:var(--font-sans);font-size:var(--fs-ui);color:var(--text-dim);line-height:var(--lh);margin:0 0 1.1rem}
 .img-adj-list{display:flex;flex-direction:column;gap:.85rem}
 .img-adj-row{display:grid;grid-template-columns:112px 1fr;gap:1rem;padding:1rem;background:var(--bg-input);border:1px solid var(--border);border-radius:10px;align-items:start}
@@ -209,8 +194,9 @@ button,input,select,textarea{font-size:inherit}
 .img-adj-sub{font-family:var(--font-mono);font-size:var(--fs-meta);color:var(--text-dim);letter-spacing:.04em;text-transform:uppercase;margin-bottom:.5rem}
 .img-adj-url-row{display:flex;gap:.5rem;align-items:center}
 .img-adj-url-row .fi{flex:1;font-family:var(--font-mono);font-size:var(--fs-ui)}
-.img-adj-actions{display:flex;flex-wrap:wrap;gap:.5rem;margin-top:.55rem}
-.img-adj-empty{padding:2rem 1rem;text-align:center;color:var(--text-dim);font-family:var(--font-sans);font-size:var(--fs-ui);border:1px dashed var(--border);border-radius:10px}
+.img-adj-actions{display:flex;flex-wrap:wrap;gap:.5rem;margin-top:.55rem;align-items:center}
+.img-adj-empty{padding:2rem 1rem;text-align:center;color:var(--text-dim);font-family:var(--font-sans);font-size:var(--fs-ui);border:1px dashed var(--border);border-radius:10px;line-height:var(--lh)}
+@media(max-width:720px){.img-adj-row{grid-template-columns:1fr}.img-adj-thumb{width:100%;height:160px}}
 
 /* Editorial hero picker — thumbnails from selected day articles */
 .ed-hero-pick-hint{font-family:var(--font-sans);font-size:var(--fs-ui);color:var(--text-dim);line-height:var(--lh);margin:0 0 .55rem}
@@ -267,15 +253,15 @@ button,input,select,textarea{font-size:inherit}
     <p class="side-note">RSS + <b>X MCP</b> · blacklist skips banned hosts · edit sources in crawl list</p>
   </div>
 
-  <div class="sec" id="selDaySec">
-    <div class="sec-t">Selected news of the day</div>
-    <p class="side-note" style="margin-bottom:.65rem">See today’s field-signal stories and delete any that should not run.</p>
-    <button class="btn btn-p" onclick="openSelectedDayNews()" style="width:100%">☰ Selected news of the day</button>
+  <div class="sec" id="newsDeskSec">
+    <div class="sec-t">Day’s news</div>
+    <p class="side-note" style="margin-bottom:.65rem">Today’s selection: review, fix images, delete. One place.</p>
+    <button class="btn btn-p" onclick="openNewsDesk()" style="width:100%">📰 Day’s news</button>
   </div>
 
   <div class="sec" id="edSec">
     <div class="sec-t">Daily Editorial</div>
-    <p class="side-note" style="margin-bottom:.65rem">After crawl → outline draft (titles, URLs, key points).<br>Write prose → Preview → <b>Publish Editorial</b> (GitHub / live).</p>
+    <p class="side-note" style="margin-bottom:.65rem">After crawl → outline · write prose · publish.</p>
     <button class="btn btn-s" id="edDraftBtn" onclick="forceEditorialDraft()" style="width:100%;margin-bottom:.4rem">✦ Editorial Draft</button>
     <button class="btn btn-p" onclick="openEditorial()" style="width:100%;margin-bottom:.4rem">✎ Edit Editorial</button>
     <button class="btn" onclick="previewEditorial()" style="width:100%;margin-bottom:.4rem">◎ Preview Editorial</button>
@@ -283,10 +269,9 @@ button,input,select,textarea{font-size:inherit}
   </div>
 
   <div class="sec side-acts">
-    <button class="btn btn-p" onclick="openImageAdjustment()">🖼 Image Adjustment</button>
     <button class="btn btn-s" onclick="pub()" title="Browser localStorage only — not live GitHub">↑ Publish Now (local)</button>
     <div style="display:flex;gap:.4rem"><button class="btn" onclick="showExp()" style="flex:1">⤓ Export</button><button class="btn" onclick="showImp()" style="flex:1">⤒ Import</button></div>
-    <button class="btn" onclick="window.open('index.html','_blank')">◎ Preview</button>
+    <button class="btn" onclick="window.open('index.html','_blank')">◎ Preview site</button>
   </div>
 
   <div class="bl-t" id="blT">Batches (0)</div>
@@ -297,20 +282,33 @@ button,input,select,textarea{font-size:inherit}
   <div class="ws" id="ws" style="display:none">
     <div class="ic">◇</div>
     <h2>Welcome, Editor</h2>
-    <p><span class="sn">1</span> <b>☰ Selected news of the day</b> — review + delete<br><span class="sn">2</span> <b>⚡ Crawl</b> — refresh selection<br><span class="sn">3</span> <b>✦ Editorial Draft</b> — outline + prose<br><span class="sn">4</span> <b>↑ Publish Editorial</b> — live</p>
+    <p><span class="sn">1</span> <b>📰 Day’s news</b> — select, images, delete<br><span class="sn">2</span> <b>⚡ Crawl</b><br><span class="sn">3</span> <b>✦ Editorial</b> · publish</p>
   </div>
-  <!-- Primary admin view: selected news of the day + per-item Delete -->
-  <div id="selDayP">
+  <!-- Unified desk: selected news + image URLs + delete -->
+  <div id="newsDeskP">
     <div class="ph">
-      <h2 class="pt">Selected news of the day</h2>
-      <div class="sel-day-actions">
-        <button type="button" class="btn" onclick="openSelectedDayNews(true)">↻ Refresh</button>
+      <h2 class="pt">Day’s news</h2>
+      <div class="news-desk-toolbar">
         <button type="button" class="btn btn-scan" onclick="doScan()"><span class="sp"></span><span class="bl">⚡ Crawl</span></button>
+        <button type="button" class="btn" onclick="openNewsDesk(true)">↻ Reload</button>
       </div>
     </div>
-    <p class="sel-day-hint">These are the field-signal stories selected for <b>today</b> (America/New_York). Use <b>Delete</b> on any story that should not appear. Changes apply to this editor store; publish news/images to push live when ready.</p>
-    <p class="sel-day-meta" id="selDayMeta">Loading…</p>
-    <div class="sel-day-list" id="selDayList" role="list" aria-label="Selected news of the day"></div>
+    <p class="news-desk-hint">One desk for today’s field-signal selection: <b>fix image URL</b>, <b>Delete</b> a story, then <b>Save</b> or <b>Publish images to live</b>. Switch to <b>All archive</b> only when you need older cards.</p>
+    <div class="news-desk-scope" role="radiogroup" aria-label="News list scope">
+      <label><input type="radio" name="newsScope" value="today" checked onchange="renderNewsDesk()"> Today (selected)</label>
+      <label><input type="radio" name="newsScope" value="all" onchange="renderNewsDesk()"> All archive</label>
+    </div>
+    <div class="fg" style="margin-bottom:.75rem">
+      <label class="fl" for="newsDeskFilter">Filter (title · source · category · date)</label>
+      <input type="search" class="fi" id="newsDeskFilter" placeholder="Type to filter…" oninput="renderNewsDesk()">
+    </div>
+    <div class="news-desk-toolbar" style="margin-bottom:.75rem">
+      <button class="btn btn-p" type="button" onclick="saveAllImageAdj()">Save all (browser)</button>
+      <button class="btn btn-s" type="button" id="imgAdjGhBtn" onclick="publishImageAdjToGitHub()">↑ Publish images to live</button>
+      <button class="btn btn-s" type="button" onclick="pub()" title="Browser localStorage only">↑ Publish Now (local)</button>
+    </div>
+    <p class="news-desk-meta" id="newsDeskMeta">Loading…</p>
+    <div class="img-adj-list" id="newsDeskList" role="list" aria-label="Day’s news"></div>
   </div>
   <div id="srcP">
     <div class="ph">
@@ -333,24 +331,6 @@ button,input,select,textarea{font-size:inherit}
       <button type="button" class="btn btn-s" id="srcPubBtn" onclick="publishCrawlListToGitHub()">↑ Publish sources to live</button>
       <button type="button" class="btn" onclick="reloadCrawlList()">↻ Reload from file</button>
     </div>
-  </div>
-  <div id="imgAdjP">
-    <div class="ph">
-      <h2 class="pt">Image Adjustment</h2>
-      <button class="btn" type="button" onclick="hideImageAdjustment()">← Back</button>
-    </div>
-    <p class="img-adj-hint">All field-signal head images (every batch in the archive / editor). <b>Apply / Save all</b> = this browser only. <b>↑ Publish images to live</b> writes <code>data/archive.json</code> + <code>EMBEDDED_DATA</code> on GitHub (same PAT as Editorial publish). Without that step, the live site keeps old crawl images.</p>
-    <div class="fg" style="margin-bottom:.75rem">
-      <label class="fl" for="imgAdjFilter">Filter (title · source · category · date)</label>
-      <input type="search" class="fi" id="imgAdjFilter" placeholder="Type to filter…" oninput="renderImageAdjustment()">
-    </div>
-    <div class="fa" style="margin-top:0;padding-top:0;border-top:none;margin-bottom:1rem">
-      <button class="btn btn-p" type="button" onclick="saveAllImageAdj()">Save all (browser)</button>
-      <button class="btn btn-s" type="button" id="imgAdjGhBtn" onclick="publishImageAdjToGitHub()">↑ Publish images to live</button>
-      <button class="btn" type="button" onclick="openImageAdjustment(true)">↻ Reload from archive</button>
-    </div>
-    <p class="img-adj-hint" id="imgAdjCount" style="margin-bottom:.5rem"></p>
-    <div class="img-adj-list" id="imgAdjList"></div>
   </div>
   <div id="eForm" style="display:none">
     <div class="ph"><h2 class="pt" id="fTitle">New Entry</h2><button class="btn btn-d" onclick="delE()" id="delBtn">✕ Delete</button></div>
@@ -482,7 +462,7 @@ function initEditorApp(){
       o.addEventListener('click',e=>{ if(e.target===o) o.classList.remove('sh'); });
     });
     renderBL();
-    openSelectedDayNews(true);
+    openNewsDesk(true);
     ensureEditorialLoaded(true).then(()=>{
       const pub=ED.published;
       const body=editorialBodyText(pub);
@@ -542,16 +522,15 @@ async function loadSources(force){
 
 function hideAllMainPanels(){
   document.getElementById('ws').style.display='none';
-  document.getElementById('imgAdjP').style.display='none';
   const ef=document.getElementById('edForm'); if(ef) ef.style.display='none';
   const fp=document.getElementById('eForm'); if(fp) fp.style.display='none';
   const lp=document.getElementById('logP'); if(lp) lp.style.display='none';
   const sp=document.getElementById('srcP'); if(sp) sp.style.display='none';
-  const sd=document.getElementById('selDayP'); if(sd) sd.style.display='none';
+  const nd=document.getElementById('newsDeskP'); if(nd) nd.style.display='none';
 }
 function hideCrawlList(){
   document.getElementById('srcP').style.display='none';
-  openSelectedDayNews(false);
+  openNewsDesk(false);
 }
 async function openCrawlList(){
   hideAllMainPanels();
@@ -757,8 +736,7 @@ async function doScan(){
     const nb={batchId:bId,scannedAt:now.toISOString(),items:items.map((x,i)=>scrubItem({id:bId+'_'+(i+1),rank:x.rank||(i+1),title:(x.title||'').slice(0,150),category:['ai','art','robotics','biotech','space','energy','neuroscience'].includes(x.category)?x.category:'ai',summary:x.summary||'',image:x.image||'',source:x.source||'',sourceUrl:x.sourceUrl||'#',fromX:!!x.fromX}))};
     items.forEach(it=>addLog('ok',`#${it.rank} [${it.category}]${it.fromX?' [X]':''} ${it.source}: ${it.title.slice(0,50)}`));
     B.unshift(nb);persist();renderBL();
-    renderSelectedDayNews();
-    openSelectedDayNews(false);
+    openNewsDesk(false);
     const xN=items.filter(it=>it.fromX).length;
     addLog('ok',`Done — ${nb.items.length} items (${xN} from X). Batch: ${bId}`);
     // After crawl: compile editorial outline from selected stories (browser store)
@@ -908,10 +886,7 @@ function delItem(bId,iId){
   }catch(_e){/* non-fatal */}
   persist();
   renderBL();
-  renderSelectedDayNews();
-  if(typeof renderImageAdjustment==='function'&&document.getElementById('imgAdjP')&&document.getElementById('imgAdjP').style.display!=='none'){
-    try{renderImageAdjustment()}catch(_e){}
-  }
+  renderNewsDesk();
   toast('News item deleted','info');
   addLog('ok','Deleted news · '+(it.category||'')+' · '+label);
 }
@@ -960,64 +935,132 @@ function getSelectedDayNews(dayStr){
   return { day, rows, fromFallback, batchCount:dayBatches.length };
 }
 
-function renderSelectedDayNews(){
-  const list=document.getElementById('selDayList');
-  const meta=document.getElementById('selDayMeta');
+function getNewsDeskScope(){
+  const el=document.querySelector('input[name="newsScope"]:checked');
+  return (el&&el.value==='all')?'all':'today';
+}
+
+/**
+ * Unified Day’s news desk: today selection (or all archive) + image URL edit + Delete.
+ */
+function renderNewsDesk(){
+  const list=document.getElementById('newsDeskList');
+  const meta=document.getElementById('newsDeskMeta');
   if(!list) return;
-  const data=getSelectedDayNews();
-  const n=data.rows.length;
+  // Preserve unsaved URL edits across re-filter/re-render
+  const draftUrls=new Map();
+  list.querySelectorAll('.img-adj-row').forEach(row=>{
+    const inp=row.querySelector('.img-adj-input');
+    if(!inp) return;
+    const key=(row.dataset.batch||'')+'|'+(row.dataset.id||'');
+    draftUrls.set(key, String(inp.value||''));
+  });
+
+  const scope=getNewsDeskScope();
+  const q=String((document.getElementById('newsDeskFilter')||{}).value||'').trim().toLowerCase();
+  let rows;
+  let dayInfo=null;
+  if(scope==='today'){
+    dayInfo=getSelectedDayNews();
+    rows=dayInfo.rows.map(r=>({
+      batchId:r.batchId,
+      id:r.id,
+      rank:r.rank,
+      title:r.title,
+      category:r.category,
+      image:r.image,
+      source:r.source,
+      sourceUrl:r.sourceUrl,
+      day:r.day,
+      summary:r.summary||''
+    }));
+  }else{
+    rows=collectAllImageItems().filter(r=>r.category!=='editorial');
+  }
+  const total=rows.length;
+  if(q){
+    rows=rows.filter(r=>{
+      const blob=[r.title,r.source,r.category,r.day,r.batchId,r.image,fC(r.category),r.summary].join(' ').toLowerCase();
+      return blob.includes(q);
+    });
+  }
   if(meta){
-    if(!n){
-      meta.textContent=data.fromFallback
-        ? 'No news for '+data.day+' · no fallback batch either. Run ⚡ Crawl.'
-        : 'No selected news for '+data.day+' yet. Run ⚡ Crawl to select today’s stories.';
-    }else if(data.fromFallback){
-      meta.textContent=n+' stor'+(n===1?'y':'ies')+' · showing latest available batch (no crawl yet for '+data.day+') · day shown: '+data.rows[0].day;
+    if(scope==='today'){
+      if(!total){
+        meta.textContent=dayInfo&&dayInfo.fromFallback
+          ? 'No news for '+((dayInfo&&dayInfo.day)||todayET())+' · run ⚡ Crawl.'
+          : 'No selected news for '+((dayInfo&&dayInfo.day)||todayET())+' yet · run ⚡ Crawl.';
+      }else if(dayInfo&&dayInfo.fromFallback){
+        meta.textContent=rows.length+(q?' shown':'')+' of '+total+' · latest batch (not yet '+dayInfo.day+')'+(q?' · filter on':'');
+      }else{
+        meta.textContent=(q?rows.length+' shown · ':'')+total+' selected for '+(dayInfo&&dayInfo.day||todayET());
+      }
     }else{
-      meta.textContent=n+' stor'+(n===1?'y':'ies')+' selected for '+data.day+' · '+data.batchCount+' batch(es)';
+      meta.textContent=q
+        ?('Showing '+rows.length+' of '+total+' · all archive · filter on')
+        :('All archive · '+total+' article(s) · '+(B.length||0)+' batch(es)');
     }
   }
-  if(!n){
-    list.innerHTML='<div class="sel-day-empty">No selected news to show.<br>Click <b>⚡ Crawl</b> to pull today’s field-signal selection, then delete any story you do not want.</div>';
+  if(!rows.length){
+    list.innerHTML=total
+      ?('<div class="img-adj-empty">No matches for filter. Clear search to see all '+total+'.</div>')
+      :(scope==='today'
+        ?('<div class="img-adj-empty">No selected news for today.<br>Click <b>⚡ Crawl</b>, then fix images or <b>Delete</b> stories here.</div>')
+        :('<div class="img-adj-empty">No articles loaded.<br>Click <b>↻ Reload</b> or <b>⚡ Crawl</b>.</div>'));
     return;
   }
-  list.innerHTML=data.rows.map((it,idx)=>{
-    const bId=escAttrJs(it.batchId);
-    const iId=escAttrJs(it.id);
-    const thumb=it.image?(typeof thumbProxy==='function'?thumbProxy(it.image):it.image):'';
-    const cat=fC(it.category);
-    const sum=String(it.summary||'').slice(0,160);
-    return `<article class="sel-day-row" role="listitem">
-      <span class="sel-day-rank">${it.rank!=null?p(it.rank):p(idx+1)}</span>
-      ${thumb
-        ? `<img class="sel-day-thumb" alt="" referrerpolicy="no-referrer" src="${escAttr(thumb)}" data-raw="${escAttr(it.image)}" onerror="if(!this.dataset.tryraw){this.dataset.tryraw='1';this.src=this.dataset.raw||'';return;} this.classList.add('fail');">`
-        : `<div class="sel-day-thumb" style="display:flex;align-items:center;justify-content:center;font-size:var(--fs-meta);color:var(--text-dim)">${escAttr(cat)}</div>`}
-      <div class="sel-day-body">
-        <h3 class="sel-day-title">${escHtmlText(it.title)}</h3>
-        <div class="sel-day-sub"><span class="cat">${escHtmlText(cat)}</span> · ${escHtmlText(it.source)}${sum?' · '+escHtmlText(sum):''}</div>
+  list.innerHTML=rows.map((r,idx)=>{
+    const key=(r.batchId||'')+'|'+(r.id||'');
+    const img=draftUrls.has(key)?draftUrls.get(key):(r.image||'');
+    const orig=r.image||'';
+    const src=img||'';
+    const dayLabel=r.day||'—';
+    const changed=String(img||'').trim()!==String(orig||'').trim();
+    const bId=escAttrJs(r.batchId);
+    const iId=escAttrJs(r.id);
+    return `<div class="img-adj-row${changed?' changed':''}" data-batch="${escAttr(r.batchId)}" data-id="${escAttr(r.id)}" id="newsDeskRow_${idx}" role="listitem">
+      <img class="img-adj-thumb" alt="" referrerpolicy="no-referrer" src="${escAttr(src)}" data-orig="${escAttr(img)}"
+        onerror="if(!this.dataset.proxy&&this.dataset.orig){this.dataset.proxy='1';this.src='${escAttr(thumbProxy(img))}';return;} this.classList.add('fail');">
+      <div class="img-adj-meta">
+        <div class="img-adj-title">${escHtmlText(r.title)}</div>
+        <div class="img-adj-sub">${escHtmlText(dayLabel)} · #${r.rank!=null?r.rank:'—'} · ${escHtmlText(fC(r.category))} · ${escHtmlText(r.source||'—')}</div>
+        <div class="img-adj-url-row">
+          <input type="url" class="fi img-adj-input" value="${escAttr(img)}" placeholder="https://… head image URL" data-orig="${escAttr(orig)}"
+            oninput="onImgAdjInput(this)" aria-label="Image URL for ${escAttr(r.title)}">
+        </div>
+        <div class="img-adj-actions">
+          <button type="button" class="btn btn-p" onclick="applyImageAdjRow(this)">Apply image</button>
+          <button type="button" class="btn" onclick="pullImgAdjRow(this)" title="Fetch og:image from article">↻ From article</button>
+          ${r.sourceUrl?`<a class="btn" href="${escAttr(r.sourceUrl)}" target="_blank" rel="noopener">Article ↗</a>`:''}
+          <button type="button" class="eli-del" title="Delete this news item" aria-label="Delete ${escAttr(r.title)}" onclick="delItem('${bId}','${iId}')">Delete</button>
+        </div>
       </div>
-      <button type="button" class="eli-del" title="Delete this selected news item" aria-label="Delete ${escAttr(it.title)}" onclick="delItem('${bId}','${iId}')">Delete</button>
-    </article>`;
+    </div>`;
   }).join('');
 }
 
 /**
- * Open primary admin panel: selected news of the day + Delete on each.
- * @param {boolean} [hydrate] load archive.json if local batches empty
+ * Open unified Day’s news desk (selected stories + image fix + delete).
+ * @param {boolean} [hydrate] reload archive.json into editor batches
  */
-async function openSelectedDayNews(hydrate){
+async function openNewsDesk(hydrate){
   hidePanelsKeepAside();
-  const panel=document.getElementById('selDayP');
+  const panel=document.getElementById('newsDeskP');
   if(panel) panel.style.display='block';
-  const data=getSelectedDayNews();
-  if(hydrate && !data.rows.length){
-    try{
-      const res=await loadArchiveForImageAdj();
-      if(res&&res.ok) addLog('inf','Selected-day hydrate · archive batches in editor');
-    }catch(_e){}
+  if(hydrate){
+    toast('Loading news…','info');
+    const res=await loadArchiveForImageAdj();
+    if(res&&res.ok) toast('Loaded · '+B.length+' batch(es)','success');
+    else if(hydrate) toast('Could not load archive — showing local batches','warning');
   }
-  renderSelectedDayNews();
+  renderNewsDesk();
 }
+/** @deprecated aliases */
+function openSelectedDayNews(h){ return openNewsDesk(h); }
+function openImageAdjustment(force){ return openNewsDesk(force!==false); }
+function renderSelectedDayNews(){ return renderNewsDesk(); }
+function renderImageAdjustment(){ return renderNewsDesk(); }
+function hideImageAdjustment(){ hide(); }
 
 function mergeBatchesLocal(a,b){
   // Same rules as index.html: later source wins on image/summary for matching items
@@ -1067,12 +1110,12 @@ function showExp(){document.getElementById('expJ').textContent=JSON.stringify(B,
 function cpExp(){navigator.clipboard.writeText(document.getElementById('expJ').textContent).then(()=>toast('Copied','success'))}
 function dlExp(){const a=document.createElement('a');a.href=URL.createObjectURL(new Blob([JSON.stringify(B,null,2)],{type:'application/json'}));a.download='coc-'+new Date().toISOString().split('T')[0]+'.json';a.click();toast('Downloaded','success')}
 function showImp(){document.getElementById('impJ').value='';document.getElementById('impM').classList.add('sh')}
-function doImp(){try{const d=JSON.parse(document.getElementById('impJ').value);if(!Array.isArray(d))throw new Error('Array expected');B=scrubBatches(d);persist();renderBL();renderSelectedDayNews();hide();closeM('impM');toast('Imported '+B.length+' batches (sanitized)','success')}catch(e){toast(e.message,'warning')}}
+function doImp(){try{const d=JSON.parse(document.getElementById('impJ').value);if(!Array.isArray(d))throw new Error('Array expected');B=scrubBatches(d);persist();renderBL();renderNewsDesk();hide();closeM('impM');toast('Imported '+B.length+' batches (sanitized)','success')}catch(e){toast(e.message,'warning')}}
 function closeM(id){document.getElementById(id).classList.remove('sh')}
 
 function createNew(){eId=null;document.getElementById('fTitle').textContent='New Entry';document.getElementById('delBtn').style.display='none';clrF();const now=new Date();let bId;if(B.length)bId=B[0].batchId;else{bId='batch_'+now.toISOString().replace(/[:.]/g,'-').slice(0,16);B.unshift({batchId:bId,scannedAt:now.toISOString(),items:[]});}document.getElementById('fB').value=bId;showF()}
 function selE(bId,iId){const batch=B.find(b=>b.batchId===bId);if(!batch)return;const it=batch.items.find(x=>x.id===iId);if(!it)return;eId=iId;document.getElementById('fTitle').textContent='Edit';document.getElementById('delBtn').style.display='';document.getElementById('fR').value=it.rank;document.getElementById('fC').value=it.category;document.getElementById('fT').value=it.title;document.getElementById('fS').value=it.summary||'';document.getElementById('fI').value=it.image;document.getElementById('fSr').value=it.source;document.getElementById('fSu').value=it.sourceUrl;document.getElementById('fB').value=bId;updImg(it.image);showF();renderBL()}
-function saveE(){const bId=document.getElementById('fB').value,d=scrubItem({rank:parseInt(document.getElementById('fR').value)||1,category:document.getElementById('fC').value,title:document.getElementById('fT').value.trim(),summary:document.getElementById('fS').value.trim(),image:document.getElementById('fI').value.trim(),source:document.getElementById('fSr').value.trim(),sourceUrl:document.getElementById('fSu').value.trim()});if(!d.title){toast('Title required','warning');return}const batch=B.find(b=>b.batchId===bId);if(!batch)return;if(eId){const i=batch.items.findIndex(x=>x.id===eId);if(i>-1)batch.items[i]={...batch.items[i],...d}}else batch.items.push({id:bId+'_m_'+Date.now(),...d});persist();renderBL();renderSelectedDayNews();toast('Saved','success')}
+function saveE(){const bId=document.getElementById('fB').value,d=scrubItem({rank:parseInt(document.getElementById('fR').value)||1,category:document.getElementById('fC').value,title:document.getElementById('fT').value.trim(),summary:document.getElementById('fS').value.trim(),image:document.getElementById('fI').value.trim(),source:document.getElementById('fSr').value.trim(),sourceUrl:document.getElementById('fSu').value.trim()});if(!d.title){toast('Title required','warning');return}const batch=B.find(b=>b.batchId===bId);if(!batch)return;if(eId){const i=batch.items.findIndex(x=>x.id===eId);if(i>-1)batch.items[i]={...batch.items[i],...d}}else batch.items.push({id:bId+'_m_'+Date.now(),...d});persist();renderBL();renderNewsDesk();toast('Saved','success')}
 function delE(){
   if(!eId)return;
   const bId=document.getElementById('fB')&&document.getElementById('fB').value;
@@ -1093,18 +1136,16 @@ function hidePanelsKeepAside(){
   document.getElementById('logP').style.display='none';
   document.getElementById('eForm').style.display='none';
   const ef=document.getElementById('edForm'); if(ef) ef.style.display='none';
-  const ia=document.getElementById('imgAdjP'); if(ia) ia.style.display='none';
   const sp=document.getElementById('srcP'); if(sp) sp.style.display='none';
-  const sd=document.getElementById('selDayP'); if(sd) sd.style.display='none';
+  const nd=document.getElementById('newsDeskP'); if(nd) nd.style.display='none';
 }
 function hide(){
   document.getElementById('eForm').style.display='none';
   document.getElementById('logP').style.display='none';
   const ef=document.getElementById('edForm'); if(ef) ef.style.display='none';
-  const ia=document.getElementById('imgAdjP'); if(ia) ia.style.display='none';
   const sp=document.getElementById('srcP'); if(sp) sp.style.display='none';
   document.getElementById('ws').style.display='none';
-  openSelectedDayNews(false);
+  openNewsDesk(false);
 }
 function clrF(){['fR','fT','fS','fI','fSr','fSu','fB'].forEach(id=>document.getElementById(id).value='');document.getElementById('fC').value='ai';updImg('')}
 function updImg(u){const a=document.getElementById('imgP');if(!u){a.innerHTML='<span class="ph-t">Preview</span>';return}a.innerHTML='<img referrerpolicy="no-referrer">';const img=a.querySelector('img');img.src=u;img.onerror=function(){if(!this.dataset.proxy){this.dataset.proxy='1';this.src='https://images.weserv.nl/?url='+encodeURIComponent(u.replace(/^https?:\/\//,''))+'&w=640&fit=cover';return}this.parentElement.innerHTML='<span class="ph-t">Failed</span>'}}
@@ -1216,6 +1257,9 @@ async function loadArchiveForImageAdj(){
     if(!Array.isArray(arch)) return {ok:false, n:0};
     const n=upsertBatchesIntoEditor(arch);
     renderBL();
+    if(document.getElementById('newsDeskP')&&document.getElementById('newsDeskP').style.display!=='none'){
+      try{renderNewsDesk()}catch(_e){}
+    }
     return {ok:true, n, batches:arch.length};
   }catch(e){
     addLog('er2','Image adj archive load: '+e.message);
@@ -1223,80 +1267,9 @@ async function loadArchiveForImageAdj(){
   }
 }
 
-async function openImageAdjustment(forceReload){
-  hidePanelsKeepAside();
-  const panel=document.getElementById('imgAdjP');
-  if(panel) panel.style.display='block';
-  toast(forceReload?'Loading full archive…':'Loading articles…','info');
-  // Always hydrate from archive so older cards are editable, not only today's crawl
-  const res=await loadArchiveForImageAdj();
-  if(res.ok) toast('Archive loaded · '+B.length+' batch(es) in editor','success');
-  else if(forceReload) toast('Could not load archive.json — showing local batches only','warning');
-  renderImageAdjustment();
-}
-function hideImageAdjustment(){hide()}
 function thumbProxy(u){
   if(!u) return '';
   return 'https://images.weserv.nl/?url='+encodeURIComponent(String(u).replace(/^https?:\/\//,''))+'&w=192&h=144&fit=cover&we&output=jpg';
-}
-function renderImageAdjustment(){
-  const list=document.getElementById('imgAdjList');
-  const countEl=document.getElementById('imgAdjCount');
-  if(!list) return;
-  // Preserve unsaved URL edits across re-filter/re-render
-  const draftUrls=new Map();
-  list.querySelectorAll('.img-adj-row').forEach(row=>{
-    const inp=row.querySelector('.img-adj-input');
-    if(!inp) return;
-    const key=(row.dataset.batch||'')+'|'+(row.dataset.id||'');
-    draftUrls.set(key, String(inp.value||''));
-  });
-  const q=String((document.getElementById('imgAdjFilter')||{}).value||'').trim().toLowerCase();
-  let rows=collectAllImageItems();
-  const total=rows.length;
-  if(q){
-    rows=rows.filter(r=>{
-      const blob=[r.title,r.source,r.category,r.day,r.batchId,r.image,fC(r.category)].join(' ').toLowerCase();
-      return blob.includes(q);
-    });
-  }
-  if(countEl){
-    countEl.textContent=q
-      ?('Showing '+rows.length+' of '+total+' article(s) · filter “'+q+'”')
-      :('Showing all '+total+' article(s) across '+(B.length||0)+' batch(es)');
-  }
-  if(!rows.length){
-    list.innerHTML=total
-      ?('<div class="img-adj-empty">No matches for filter.<br>Clear the search box to see all '+total+' articles.</div>')
-      :('<div class="img-adj-empty">No articles in editor batches.<br>Run <b>⚡ Crawl</b>, or click <b>↻ Reload from archive</b>.</div>');
-    return;
-  }
-  list.innerHTML=rows.map((r,idx)=>{
-    const key=(r.batchId||'')+'|'+(r.id||'');
-    const img=draftUrls.has(key)?draftUrls.get(key):(r.image||'');
-    const orig=r.image||'';
-    const src=img||'';
-    const dayLabel=r.day||dayKeyFromScan(r.scannedAt)||'—';
-    const changed=String(img||'').trim()!==String(orig||'').trim();
-    return `<div class="img-adj-row${changed?' changed':''}" data-batch="${escAttr(r.batchId)}" data-id="${escAttr(r.id)}" id="imgAdjRow_${idx}">
-      <img class="img-adj-thumb" alt="" referrerpolicy="no-referrer" src="${escAttr(src)}" data-orig="${escAttr(img)}"
-        onerror="if(!this.dataset.proxy&&this.dataset.orig){this.dataset.proxy='1';this.src='${escAttr(thumbProxy(img))}';return;} this.classList.add('fail');">
-      <div class="img-adj-meta">
-        <div class="img-adj-title">${escAttr(r.title)}</div>
-        <div class="img-adj-sub">${escAttr(dayLabel)} · #${r.rank||'—'} · ${escAttr(fC(r.category))} · ${escAttr(r.source||'—')}</div>
-        <div class="img-adj-url-row">
-          <input type="url" class="fi img-adj-input" value="${escAttr(img)}" placeholder="https://… image URL" data-orig="${escAttr(orig)}"
-            oninput="onImgAdjInput(this)">
-        </div>
-        <div class="img-adj-actions">
-          <button type="button" class="btn btn-p" onclick="applyImageAdjRow(this)">Apply</button>
-          <button type="button" class="btn" onclick="pullImgAdjRow(this)" title="Fetch og:image from article Source URL">↻ From article</button>
-          <button type="button" class="btn" onclick="selE('${String(r.batchId).replace(/'/g,"\\'")}','${String(r.id).replace(/'/g,"\\'")}')">Open full edit</button>
-          ${r.sourceUrl?`<a class="btn" href="${escAttr(r.sourceUrl)}" target="_blank" rel="noopener">Article ↗</a>`:''}
-        </div>
-      </div>
-    </div>`;
-  }).join('');
 }
 function onImgAdjInput(inp){
   const row=inp.closest('.img-adj-row');
@@ -1329,6 +1302,7 @@ function applyImageAdjRow(btn){
   onImgAdjInput(inp);
   toast('Image URL saved','success');
   renderBL();
+  // keep list meta in sync without wiping other draft inputs
 }
 async function pullImgAdjRow(btn){
   const row=btn.closest('.img-adj-row');
@@ -1373,7 +1347,7 @@ function patchItemImage(batchId, itemId, url){
   return true;
 }
 function saveAllImageAdj(andPublish){
-  const list=document.getElementById('imgAdjList');
+  const list=document.getElementById('newsDeskList')||document.getElementById('imgAdjList');
   if(!list) return 0;
   let n=0, fail=0;
   list.querySelectorAll('.img-adj-row').forEach(row=>{
@@ -1388,6 +1362,7 @@ function saveAllImageAdj(andPublish){
     }else fail++;
   });
   renderBL();
+  renderNewsDesk();
   if(andPublish){
     pub();
     toast('Saved '+n+' image URL(s) to browser feed only','success');
@@ -2164,6 +2139,8 @@ window.clearLog=clearLog;
 window.createNew=createNew;
 window.openImageAdjustment=openImageAdjustment;
 window.hideImageAdjustment=hideImageAdjustment;
+window.openNewsDesk=openNewsDesk;
+window.renderNewsDesk=renderNewsDesk;
 window.applyImageAdjRow=applyImageAdjRow;
 window.pullImgAdjRow=pullImgAdjRow;
 window.saveAllImageAdj=saveAllImageAdj;
@@ -2182,6 +2159,7 @@ window.delE=delE;
 window.delItem=delItem;
 window.openSelectedDayNews=openSelectedDayNews;
 window.renderSelectedDayNews=renderSelectedDayNews;
+window.renderImageAdjustment=renderImageAdjustment;
 window.selE=selE;
 window.delB=delB;
 window.pullImg=pullImg;
