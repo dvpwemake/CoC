@@ -115,6 +115,29 @@ button,input,select,textarea{font-size:inherit}
 .eli-del{flex-shrink:0;min-width:2.75rem;min-height:2.75rem;padding:.35rem .55rem;border:1px solid var(--danger);border-radius:8px;background:transparent;color:var(--danger);font-family:var(--font-sans);font-size:var(--fs-meta);font-weight:600;cursor:pointer;line-height:1.2}
 .eli-del:hover{background:rgba(255,45,135,.12)}
 .eli-del:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+
+/* Selected news of the day — primary admin view */
+#selDayP{display:none;max-width:920px}
+.sel-day-hint{font-family:var(--font-sans);font-size:var(--fs-ui);color:var(--text-dim);line-height:var(--lh);margin:0 0 1rem}
+.sel-day-meta{font-family:var(--font-sans);font-size:var(--fs-label);font-weight:600;color:var(--text);margin:0 0 .85rem}
+.sel-day-list{display:flex;flex-direction:column;gap:.75rem}
+.sel-day-row{display:grid;grid-template-columns:auto 96px 1fr auto;gap:.85rem;align-items:center;padding:.9rem 1rem;background:var(--bg-input);border:1px solid var(--border);border-radius:10px}
+.sel-day-rank{font-family:var(--font-mono);font-size:var(--fs-label);font-weight:700;color:var(--accent);min-width:1.75rem;text-align:center}
+.sel-day-thumb{width:96px;height:72px;border-radius:8px;object-fit:cover;background:var(--bg);border:1px solid var(--border);display:block}
+.sel-day-thumb.fail{opacity:.35}
+.sel-day-body{min-width:0}
+.sel-day-title{font-size:var(--fs-body);font-weight:600;line-height:var(--lh-tight);margin:0 0 .25rem;word-break:break-word}
+.sel-day-sub{font-family:var(--font-sans);font-size:var(--fs-meta);color:var(--text-dim);line-height:var(--lh-tight)}
+.sel-day-sub .cat{font-family:var(--font-mono);text-transform:uppercase;letter-spacing:.06em;margin-right:.4rem}
+.sel-day-empty{padding:2rem 1.25rem;text-align:center;color:var(--text-dim);font-size:var(--fs-ui);line-height:var(--lh);border:1px dashed var(--border);border-radius:10px}
+.sel-day-actions{display:flex;flex-wrap:wrap;gap:.5rem;align-items:center}
+@media(max-width:720px){
+  .sel-day-row{grid-template-columns:auto 1fr;grid-template-areas:"rank del" "thumb thumb" "body body"}
+  .sel-day-rank{grid-area:rank}
+  .sel-day-thumb{grid-area:thumb;width:100%;height:140px}
+  .sel-day-body{grid-area:body}
+  .sel-day-row .eli-del{grid-area:del;justify-self:end}
+}
 .eic.ai{color:var(--ai)}.eic.robotics{color:var(--robotics)}.eic.biotech{color:var(--biotech)}.eic.space{color:var(--space)}.eic.energy{color:var(--energy)}.eic.neuroscience{color:var(--neuro)}.eic.art{color:var(--art)}
 
 .main{padding:2rem 2.5rem;max-width:880px}
@@ -244,6 +267,12 @@ button,input,select,textarea{font-size:inherit}
     <p class="side-note">RSS + <b>X MCP</b> · blacklist skips banned hosts · edit sources in crawl list</p>
   </div>
 
+  <div class="sec" id="selDaySec">
+    <div class="sec-t">Selected news of the day</div>
+    <p class="side-note" style="margin-bottom:.65rem">See today’s field-signal stories and delete any that should not run.</p>
+    <button class="btn btn-p" onclick="openSelectedDayNews()" style="width:100%">☰ Selected news of the day</button>
+  </div>
+
   <div class="sec" id="edSec">
     <div class="sec-t">Daily Editorial</div>
     <p class="side-note" style="margin-bottom:.65rem">After crawl → outline draft (titles, URLs, key points).<br>Write prose → Preview → <b>Publish Editorial</b> (GitHub / live).</p>
@@ -265,10 +294,23 @@ button,input,select,textarea{font-size:inherit}
 </aside>
 
 <main class="main" id="mainP">
-  <div class="ws" id="ws">
+  <div class="ws" id="ws" style="display:none">
     <div class="ic">◇</div>
     <h2>Welcome, Editor</h2>
-    <p><span class="sn">1</span> <b>⚡ Crawl</b> — news (also auto-fills outline draft on server crawl)<br><span class="sn">2</span> <b>☰ Edit crawl list</b> — add/remove RSS feeds · domain blacklist<br><span class="sn">3</span> <b>🖼 Image Adjustment</b> — fix head image URLs (all articles)<br><span class="sn">4</span> <b>✦ Editorial Draft</b> — load outline · write prose · pick hero from article thumbs · <b>◎ Preview</b><br><span class="sn">5</span> <b>↑ Publish Editorial</b> — push to GitHub / live (no download)</p>
+    <p><span class="sn">1</span> <b>☰ Selected news of the day</b> — review + delete<br><span class="sn">2</span> <b>⚡ Crawl</b> — refresh selection<br><span class="sn">3</span> <b>✦ Editorial Draft</b> — outline + prose<br><span class="sn">4</span> <b>↑ Publish Editorial</b> — live</p>
+  </div>
+  <!-- Primary admin view: selected news of the day + per-item Delete -->
+  <div id="selDayP">
+    <div class="ph">
+      <h2 class="pt">Selected news of the day</h2>
+      <div class="sel-day-actions">
+        <button type="button" class="btn" onclick="openSelectedDayNews(true)">↻ Refresh</button>
+        <button type="button" class="btn btn-scan" onclick="doScan()"><span class="sp"></span><span class="bl">⚡ Crawl</span></button>
+      </div>
+    </div>
+    <p class="sel-day-hint">These are the field-signal stories selected for <b>today</b> (America/New_York). Use <b>Delete</b> on any story that should not appear. Changes apply to this editor store; publish news/images to push live when ready.</p>
+    <p class="sel-day-meta" id="selDayMeta">Loading…</p>
+    <div class="sel-day-list" id="selDayList" role="list" aria-label="Selected news of the day"></div>
   </div>
   <div id="srcP">
     <div class="ph">
@@ -440,6 +482,7 @@ function initEditorApp(){
       o.addEventListener('click',e=>{ if(e.target===o) o.classList.remove('sh'); });
     });
     renderBL();
+    openSelectedDayNews(true);
     ensureEditorialLoaded(true).then(()=>{
       const pub=ED.published;
       const body=editorialBodyText(pub);
@@ -504,10 +547,11 @@ function hideAllMainPanels(){
   const fp=document.getElementById('eForm'); if(fp) fp.style.display='none';
   const lp=document.getElementById('logP'); if(lp) lp.style.display='none';
   const sp=document.getElementById('srcP'); if(sp) sp.style.display='none';
+  const sd=document.getElementById('selDayP'); if(sd) sd.style.display='none';
 }
 function hideCrawlList(){
   document.getElementById('srcP').style.display='none';
-  document.getElementById('ws').style.display='';
+  openSelectedDayNews(false);
 }
 async function openCrawlList(){
   hideAllMainPanels();
@@ -713,6 +757,8 @@ async function doScan(){
     const nb={batchId:bId,scannedAt:now.toISOString(),items:items.map((x,i)=>scrubItem({id:bId+'_'+(i+1),rank:x.rank||(i+1),title:(x.title||'').slice(0,150),category:['ai','art','robotics','biotech','space','energy','neuroscience'].includes(x.category)?x.category:'ai',summary:x.summary||'',image:x.image||'',source:x.source||'',sourceUrl:x.sourceUrl||'#',fromX:!!x.fromX}))};
     items.forEach(it=>addLog('ok',`#${it.rank} [${it.category}]${it.fromX?' [X]':''} ${it.source}: ${it.title.slice(0,50)}`));
     B.unshift(nb);persist();renderBL();
+    renderSelectedDayNews();
+    openSelectedDayNews(false);
     const xN=items.filter(it=>it.fromX).length;
     addLog('ok',`Done — ${nb.items.length} items (${xN} from X). Batch: ${bId}`);
     // After crawl: compile editorial outline from selected stories (browser store)
@@ -803,6 +849,9 @@ function clearLog(){logs=[];localStorage.setItem(LK,'[]');showLog();toast('Clear
 function escAttrJs(s){
   return String(s||'').replace(/\\/g,'\\\\').replace(/'/g,"\\'");
 }
+function escHtmlText(s){
+  return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
 function renderBL(){
   const c=document.getElementById('bList');document.getElementById('blT').textContent='Batches ('+B.length+')';
   const now=Date.now();
@@ -859,11 +908,115 @@ function delItem(bId,iId){
   }catch(_e){/* non-fatal */}
   persist();
   renderBL();
+  renderSelectedDayNews();
   if(typeof renderImageAdjustment==='function'&&document.getElementById('imgAdjP')&&document.getElementById('imgAdjP').style.display!=='none'){
     try{renderImageAdjustment()}catch(_e){}
   }
   toast('News item deleted','info');
   addLog('ok','Deleted news · '+(it.category||'')+' · '+label);
+}
+
+/**
+ * Field-signal stories selected for a calendar day (America/New_York).
+ * Prefer today's batches; if none, fall back to newest non-editorial news batch.
+ */
+function getSelectedDayNews(dayStr){
+  const day=dayStr||todayET();
+  const batches=(B||[]).slice().sort((a,b)=>new Date(b.scannedAt||0)-new Date(a.scannedAt||0));
+  function isNewsBatch(b){
+    if(!b) return false;
+    if(String(b.batchId||'').startsWith('editorial_')||b.kind==='editorial_archive') return false;
+    return true;
+  }
+  let dayBatches=batches.filter(b=>isNewsBatch(b)&&dayKeyFromScan(b.scannedAt)===day);
+  let fromFallback=false;
+  if(!dayBatches.length){
+    const newest=batches.find(b=>isNewsBatch(b)&&(b.items||[]).some(it=>it&&it.category!=='editorial'&&!it.isEditorialArchive));
+    if(newest){ dayBatches=[newest]; fromFallback=true; }
+  }
+  const seen=new Set();
+  const rows=[];
+  for(const b of dayBatches){
+    for(const it of b.items||[]){
+      if(!it||it.category==='editorial'||it.isEditorialArchive) continue;
+      const key=String(it.title||'').toLowerCase().trim();
+      if(!key||seen.has(key)) continue;
+      seen.add(key);
+      rows.push({
+        id:it.id,
+        batchId:b.batchId,
+        rank:it.rank,
+        title:it.title||'Untitled',
+        category:it.category||'',
+        summary:it.summary||'',
+        image:it.image||'',
+        source:it.source||'',
+        sourceUrl:it.sourceUrl||'',
+        day:dayKeyFromScan(b.scannedAt)||day
+      });
+    }
+  }
+  rows.sort((a,b)=>(a.rank||99)-(b.rank||99));
+  return { day, rows, fromFallback, batchCount:dayBatches.length };
+}
+
+function renderSelectedDayNews(){
+  const list=document.getElementById('selDayList');
+  const meta=document.getElementById('selDayMeta');
+  if(!list) return;
+  const data=getSelectedDayNews();
+  const n=data.rows.length;
+  if(meta){
+    if(!n){
+      meta.textContent=data.fromFallback
+        ? 'No news for '+data.day+' · no fallback batch either. Run ⚡ Crawl.'
+        : 'No selected news for '+data.day+' yet. Run ⚡ Crawl to select today’s stories.';
+    }else if(data.fromFallback){
+      meta.textContent=n+' stor'+(n===1?'y':'ies')+' · showing latest available batch (no crawl yet for '+data.day+') · day shown: '+data.rows[0].day;
+    }else{
+      meta.textContent=n+' stor'+(n===1?'y':'ies')+' selected for '+data.day+' · '+data.batchCount+' batch(es)';
+    }
+  }
+  if(!n){
+    list.innerHTML='<div class="sel-day-empty">No selected news to show.<br>Click <b>⚡ Crawl</b> to pull today’s field-signal selection, then delete any story you do not want.</div>';
+    return;
+  }
+  list.innerHTML=data.rows.map((it,idx)=>{
+    const bId=escAttrJs(it.batchId);
+    const iId=escAttrJs(it.id);
+    const thumb=it.image?(typeof thumbProxy==='function'?thumbProxy(it.image):it.image):'';
+    const cat=fC(it.category);
+    const sum=String(it.summary||'').slice(0,160);
+    return `<article class="sel-day-row" role="listitem">
+      <span class="sel-day-rank">${it.rank!=null?p(it.rank):p(idx+1)}</span>
+      ${thumb
+        ? `<img class="sel-day-thumb" alt="" referrerpolicy="no-referrer" src="${escAttr(thumb)}" data-raw="${escAttr(it.image)}" onerror="if(!this.dataset.tryraw){this.dataset.tryraw='1';this.src=this.dataset.raw||'';return;} this.classList.add('fail');">`
+        : `<div class="sel-day-thumb" style="display:flex;align-items:center;justify-content:center;font-size:var(--fs-meta);color:var(--text-dim)">${escAttr(cat)}</div>`}
+      <div class="sel-day-body">
+        <h3 class="sel-day-title">${escHtmlText(it.title)}</h3>
+        <div class="sel-day-sub"><span class="cat">${escHtmlText(cat)}</span> · ${escHtmlText(it.source)}${sum?' · '+escHtmlText(sum):''}</div>
+      </div>
+      <button type="button" class="eli-del" title="Delete this selected news item" aria-label="Delete ${escAttr(it.title)}" onclick="delItem('${bId}','${iId}')">Delete</button>
+    </article>`;
+  }).join('');
+}
+
+/**
+ * Open primary admin panel: selected news of the day + Delete on each.
+ * @param {boolean} [hydrate] load archive.json if local batches empty
+ */
+async function openSelectedDayNews(hydrate){
+  hidePanelsKeepAside();
+  const panel=document.getElementById('selDayP');
+  if(panel) panel.style.display='block';
+  const data=getSelectedDayNews();
+  if(hydrate && !data.rows.length){
+    try{
+      const res=await loadArchiveForImageAdj();
+      if(res&&res.ok) addLog('inf','Selected-day hydrate · archive batches in editor');
+    }catch(_e){}
+  }
+  renderSelectedDayNews();
 }
 
 function mergeBatchesLocal(a,b){
@@ -914,12 +1067,12 @@ function showExp(){document.getElementById('expJ').textContent=JSON.stringify(B,
 function cpExp(){navigator.clipboard.writeText(document.getElementById('expJ').textContent).then(()=>toast('Copied','success'))}
 function dlExp(){const a=document.createElement('a');a.href=URL.createObjectURL(new Blob([JSON.stringify(B,null,2)],{type:'application/json'}));a.download='coc-'+new Date().toISOString().split('T')[0]+'.json';a.click();toast('Downloaded','success')}
 function showImp(){document.getElementById('impJ').value='';document.getElementById('impM').classList.add('sh')}
-function doImp(){try{const d=JSON.parse(document.getElementById('impJ').value);if(!Array.isArray(d))throw new Error('Array expected');B=scrubBatches(d);persist();renderBL();hide();closeM('impM');toast('Imported '+B.length+' batches (sanitized)','success')}catch(e){toast(e.message,'warning')}}
+function doImp(){try{const d=JSON.parse(document.getElementById('impJ').value);if(!Array.isArray(d))throw new Error('Array expected');B=scrubBatches(d);persist();renderBL();renderSelectedDayNews();hide();closeM('impM');toast('Imported '+B.length+' batches (sanitized)','success')}catch(e){toast(e.message,'warning')}}
 function closeM(id){document.getElementById(id).classList.remove('sh')}
 
 function createNew(){eId=null;document.getElementById('fTitle').textContent='New Entry';document.getElementById('delBtn').style.display='none';clrF();const now=new Date();let bId;if(B.length)bId=B[0].batchId;else{bId='batch_'+now.toISOString().replace(/[:.]/g,'-').slice(0,16);B.unshift({batchId:bId,scannedAt:now.toISOString(),items:[]});}document.getElementById('fB').value=bId;showF()}
 function selE(bId,iId){const batch=B.find(b=>b.batchId===bId);if(!batch)return;const it=batch.items.find(x=>x.id===iId);if(!it)return;eId=iId;document.getElementById('fTitle').textContent='Edit';document.getElementById('delBtn').style.display='';document.getElementById('fR').value=it.rank;document.getElementById('fC').value=it.category;document.getElementById('fT').value=it.title;document.getElementById('fS').value=it.summary||'';document.getElementById('fI').value=it.image;document.getElementById('fSr').value=it.source;document.getElementById('fSu').value=it.sourceUrl;document.getElementById('fB').value=bId;updImg(it.image);showF();renderBL()}
-function saveE(){const bId=document.getElementById('fB').value,d=scrubItem({rank:parseInt(document.getElementById('fR').value)||1,category:document.getElementById('fC').value,title:document.getElementById('fT').value.trim(),summary:document.getElementById('fS').value.trim(),image:document.getElementById('fI').value.trim(),source:document.getElementById('fSr').value.trim(),sourceUrl:document.getElementById('fSu').value.trim()});if(!d.title){toast('Title required','warning');return}const batch=B.find(b=>b.batchId===bId);if(!batch)return;if(eId){const i=batch.items.findIndex(x=>x.id===eId);if(i>-1)batch.items[i]={...batch.items[i],...d}}else batch.items.push({id:bId+'_m_'+Date.now(),...d});persist();renderBL();toast('Saved','success')}
+function saveE(){const bId=document.getElementById('fB').value,d=scrubItem({rank:parseInt(document.getElementById('fR').value)||1,category:document.getElementById('fC').value,title:document.getElementById('fT').value.trim(),summary:document.getElementById('fS').value.trim(),image:document.getElementById('fI').value.trim(),source:document.getElementById('fSr').value.trim(),sourceUrl:document.getElementById('fSu').value.trim()});if(!d.title){toast('Title required','warning');return}const batch=B.find(b=>b.batchId===bId);if(!batch)return;if(eId){const i=batch.items.findIndex(x=>x.id===eId);if(i>-1)batch.items[i]={...batch.items[i],...d}}else batch.items.push({id:bId+'_m_'+Date.now(),...d});persist();renderBL();renderSelectedDayNews();toast('Saved','success')}
 function delE(){
   if(!eId)return;
   const bId=document.getElementById('fB')&&document.getElementById('fB').value;
@@ -942,6 +1095,7 @@ function hidePanelsKeepAside(){
   const ef=document.getElementById('edForm'); if(ef) ef.style.display='none';
   const ia=document.getElementById('imgAdjP'); if(ia) ia.style.display='none';
   const sp=document.getElementById('srcP'); if(sp) sp.style.display='none';
+  const sd=document.getElementById('selDayP'); if(sd) sd.style.display='none';
 }
 function hide(){
   document.getElementById('eForm').style.display='none';
@@ -949,7 +1103,8 @@ function hide(){
   const ef=document.getElementById('edForm'); if(ef) ef.style.display='none';
   const ia=document.getElementById('imgAdjP'); if(ia) ia.style.display='none';
   const sp=document.getElementById('srcP'); if(sp) sp.style.display='none';
-  document.getElementById('ws').style.display='flex';
+  document.getElementById('ws').style.display='none';
+  openSelectedDayNews(false);
 }
 function clrF(){['fR','fT','fS','fI','fSr','fSu','fB'].forEach(id=>document.getElementById(id).value='');document.getElementById('fC').value='ai';updImg('')}
 function updImg(u){const a=document.getElementById('imgP');if(!u){a.innerHTML='<span class="ph-t">Preview</span>';return}a.innerHTML='<img referrerpolicy="no-referrer">';const img=a.querySelector('img');img.src=u;img.onerror=function(){if(!this.dataset.proxy){this.dataset.proxy='1';this.src='https://images.weserv.nl/?url='+encodeURIComponent(u.replace(/^https?:\/\//,''))+'&w=640&fit=cover';return}this.parentElement.innerHTML='<span class="ph-t">Failed</span>'}}
@@ -2025,6 +2180,8 @@ window.saveE=saveE;
 window.cancelE=cancelE;
 window.delE=delE;
 window.delItem=delItem;
+window.openSelectedDayNews=openSelectedDayNews;
+window.renderSelectedDayNews=renderSelectedDayNews;
 window.selE=selE;
 window.delB=delB;
 window.pullImg=pullImg;
