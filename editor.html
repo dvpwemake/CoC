@@ -112,6 +112,9 @@ button,input,select,textarea{font-size:inherit}
 .ei{flex:1;min-width:0}
 .eit{font-size:var(--fs-ui);font-weight:500;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;line-height:var(--lh-tight)}
 .eic{font-family:var(--font-mono);font-size:var(--fs-meta);letter-spacing:.06em;text-transform:uppercase;margin-top:.1rem}
+.eli-del{flex-shrink:0;min-width:2.75rem;min-height:2.75rem;padding:.35rem .55rem;border:1px solid var(--danger);border-radius:8px;background:transparent;color:var(--danger);font-family:var(--font-sans);font-size:var(--fs-meta);font-weight:600;cursor:pointer;line-height:1.2}
+.eli-del:hover{background:rgba(255,45,135,.12)}
+.eli-del:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
 .eic.ai{color:var(--ai)}.eic.robotics{color:var(--robotics)}.eic.biotech{color:var(--biotech)}.eic.space{color:var(--space)}.eic.energy{color:var(--energy)}.eic.neuroscience{color:var(--neuro)}.eic.art{color:var(--art)}
 
 .main{padding:2rem 2.5rem;max-width:880px}
@@ -797,13 +800,71 @@ function addLog(tp,msg){logs.unshift({time:new Date().toISOString(),type:tp,msg}
 function showLog(){hide();document.getElementById('logP').style.display='block';document.getElementById('logE').innerHTML=logs.map(e=>{const c=e.type==='ok'?'ok':e.type==='er2'?'er2':'inf';return`<div class="le"><span class="t">${new Date(e.time).toLocaleString()}</span> — <span class="${c}">${e.msg}</span></div>`}).join('')||'<div class="le" style="color:var(--text-dim)">No entries.</div>'}
 function clearLog(){logs=[];localStorage.setItem(LK,'[]');showLog();toast('Cleared','info')}
 
+function escAttrJs(s){
+  return String(s||'').replace(/\\/g,'\\\\').replace(/'/g,"\\'");
+}
 function renderBL(){
   const c=document.getElementById('bList');document.getElementById('blT').textContent='Batches ('+B.length+')';
   const now=Date.now();
   c.innerHTML=B.map(b=>{const live=(now-new Date(b.scannedAt).getTime())<864e5;const dt=new Date(b.scannedAt);const lb=dt.toLocaleDateString('en-US',{month:'short',day:'numeric'})+' · '+dt.toLocaleTimeString('en-US',{hour:'2-digit',minute:'2-digit'});
-  return`<div class="bg"><div class="bh" onclick="this.nextElementSibling.style.display=this.nextElementSibling.style.display==='none'?'block':'none'"><span>${lb}</span><span style="display:flex;align-items:center;gap:.3rem"><span class="badge ${live?'live':'arch'}">${live?'LIVE':'ARCH'} · ${b.items.length}</span><span class="bd" onclick="event.stopPropagation();delB('${b.batchId}')">✕</span></span></div><div class="bi">${b.items.map(it=>`<div class="eli ${eId===it.id?'act':''}" onclick="selE('${b.batchId}','${it.id}')"><span class="er">${p(it.rank)}</span><img class="eth" src="${it.image||''}" alt="" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src='';this.style.background='var(--border)'"><div class="ei"><div class="eit">${it.title||'Untitled'}</div><div class="eic ${it.category}">${fC(it.category)}</div></div></div>`).join('')}</div></div>`}).join('')||'<div style="padding:1.5rem;text-align:center;color:var(--text-dim);font-family:var(--font-sans);font-size:var(--fs-ui)">No batches. Run a scan!</div>'
+  const bIdEsc=escAttrJs(b.batchId);
+  return`<div class="bg"><div class="bh" onclick="this.nextElementSibling.style.display=this.nextElementSibling.style.display==='none'?'block':'none'"><span>${lb}</span><span style="display:flex;align-items:center;gap:.3rem"><span class="badge ${live?'live':'arch'}">${live?'LIVE':'ARCH'} · ${b.items.length}</span><span class="bd" onclick="event.stopPropagation();delB('${bIdEsc}')" title="Delete batch">✕</span></span></div><div class="bi">${b.items.map(it=>{
+    const iIdEsc=escAttrJs(it.id);
+    const titleAttr=String(it.title||'Untitled').replace(/&/g,'&amp;').replace(/"/g,'&quot;').replace(/</g,'&lt;');
+    return `<div class="eli ${eId===it.id?'act':''}" onclick="selE('${bIdEsc}','${iIdEsc}')">
+      <span class="er">${p(it.rank)}</span>
+      <img class="eth" src="${it.image||''}" alt="" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src='';this.style.background='var(--border)'">
+      <div class="ei"><div class="eit" title="${titleAttr}">${it.title||'Untitled'}</div><div class="eic ${it.category}">${fC(it.category)}</div></div>
+      <button type="button" class="eli-del" title="Delete this news item" aria-label="Delete ${(it.title||'news item').replace(/"/g,'&quot;')}" onclick="event.stopPropagation();delItem('${bIdEsc}','${iIdEsc}')">Delete</button>
+    </div>`;
+  }).join('')}</div></div>`}).join('')||'<div style="padding:1.5rem;text-align:center;color:var(--text-dim);font-family:var(--font-sans);font-size:var(--fs-ui)">No batches. Run a scan!</div>'
 }
-function delB(id){if(!confirm('Delete batch?'))return;B=B.filter(b=>b.batchId!==id);persist();renderBL();hide();toast('Deleted','info')}
+function delB(id){if(!confirm('Delete entire batch?'))return;B=B.filter(b=>b.batchId!==id);persist();renderBL();hide();toast('Batch deleted','info')}
+/**
+ * Delete one selected news item from a batch (sidebar list).
+ * Also drops matching title from open editorial headlines / hero picker when present.
+ */
+function delItem(bId,iId){
+  const batch=B.find(b=>b.batchId===bId);
+  if(!batch){toast('Batch not found','warning');return}
+  const it=batch.items.find(x=>x.id===iId);
+  if(!it){toast('Item not found','warning');return}
+  const label=(it.title||'this item').slice(0,80);
+  if(!confirm('Delete news item?\n\n'+label))return;
+  const titleKey=String(it.title||'').toLowerCase().trim();
+  const urlKey=String(it.sourceUrl||'').split('?')[0].toLowerCase();
+  batch.items=batch.items.filter(x=>x.id!==iId);
+  batch.items.forEach((x,i)=>{x.rank=i+1});
+  B=B.filter(b=>b.items&&b.items.length>0);
+  if(eId===iId){eId=null;hide()}
+  // Keep editorial selection in sync when this story was part of the draft
+  try{
+    if(titleKey||urlKey){
+      ED_FORM_HEADLINES=(ED_FORM_HEADLINES||[]).filter(h=>{
+        const ht=String(h.title||'').toLowerCase().trim();
+        const hu=String(h.sourceUrl||'').split('?')[0].toLowerCase();
+        if(titleKey&&ht===titleKey) return false;
+        if(urlKey&&hu&&hu===urlKey) return false;
+        return true;
+      });
+      const dateEl=document.getElementById('edDate');
+      const date=dateEl&&dateEl.value;
+      if(date&&ED&&ED.drafts&&ED.drafts[date]){
+        ED.drafts[date].headlines=ED_FORM_HEADLINES.map(normalizeHeadlineRow);
+        ED.drafts[date].updatedAt=new Date().toISOString();
+        localStorage.setItem(EK,JSON.stringify(ED));
+      }
+      if(typeof renderEdHeroPicker==='function') renderEdHeroPicker();
+    }
+  }catch(_e){/* non-fatal */}
+  persist();
+  renderBL();
+  if(typeof renderImageAdjustment==='function'&&document.getElementById('imgAdjP')&&document.getElementById('imgAdjP').style.display!=='none'){
+    try{renderImageAdjustment()}catch(_e){}
+  }
+  toast('News item deleted','info');
+  addLog('ok','Deleted news · '+(it.category||'')+' · '+label);
+}
 
 function mergeBatchesLocal(a,b){
   // Same rules as index.html: later source wins on image/summary for matching items
@@ -859,7 +920,17 @@ function closeM(id){document.getElementById(id).classList.remove('sh')}
 function createNew(){eId=null;document.getElementById('fTitle').textContent='New Entry';document.getElementById('delBtn').style.display='none';clrF();const now=new Date();let bId;if(B.length)bId=B[0].batchId;else{bId='batch_'+now.toISOString().replace(/[:.]/g,'-').slice(0,16);B.unshift({batchId:bId,scannedAt:now.toISOString(),items:[]});}document.getElementById('fB').value=bId;showF()}
 function selE(bId,iId){const batch=B.find(b=>b.batchId===bId);if(!batch)return;const it=batch.items.find(x=>x.id===iId);if(!it)return;eId=iId;document.getElementById('fTitle').textContent='Edit';document.getElementById('delBtn').style.display='';document.getElementById('fR').value=it.rank;document.getElementById('fC').value=it.category;document.getElementById('fT').value=it.title;document.getElementById('fS').value=it.summary||'';document.getElementById('fI').value=it.image;document.getElementById('fSr').value=it.source;document.getElementById('fSu').value=it.sourceUrl;document.getElementById('fB').value=bId;updImg(it.image);showF();renderBL()}
 function saveE(){const bId=document.getElementById('fB').value,d=scrubItem({rank:parseInt(document.getElementById('fR').value)||1,category:document.getElementById('fC').value,title:document.getElementById('fT').value.trim(),summary:document.getElementById('fS').value.trim(),image:document.getElementById('fI').value.trim(),source:document.getElementById('fSr').value.trim(),sourceUrl:document.getElementById('fSu').value.trim()});if(!d.title){toast('Title required','warning');return}const batch=B.find(b=>b.batchId===bId);if(!batch)return;if(eId){const i=batch.items.findIndex(x=>x.id===eId);if(i>-1)batch.items[i]={...batch.items[i],...d}}else batch.items.push({id:bId+'_m_'+Date.now(),...d});persist();renderBL();toast('Saved','success')}
-function delE(){if(!eId||!confirm('Delete?'))return;for(const b of B){const i=b.items.findIndex(x=>x.id===eId);if(i>-1){b.items.splice(i,1);break}}B=B.filter(b=>b.items.length>0);eId=null;persist();renderBL();hide();toast('Deleted','info')}
+function delE(){
+  if(!eId)return;
+  const bId=document.getElementById('fB')&&document.getElementById('fB').value;
+  if(bId){ delItem(bId,eId); return; }
+  // Fallback if form batch id missing
+  for(const b of B){
+    const i=b.items.findIndex(x=>x.id===eId);
+    if(i>-1){ delItem(b.batchId,eId); return; }
+  }
+  toast('Item not found','warning');
+}
 function cancelE(){eId=null;hide();renderBL()}
 
 function persist(){localStorage.setItem(SK,JSON.stringify(B))}
@@ -1953,6 +2024,7 @@ window.closeM=closeM;
 window.saveE=saveE;
 window.cancelE=cancelE;
 window.delE=delE;
+window.delItem=delItem;
 window.selE=selE;
 window.delB=delB;
 window.pullImg=pullImg;
