@@ -1,5 +1,25 @@
 [
   {
+    "batchId": "editorial_2026-07-22",
+    "scannedAt": "2026-07-22T22:06:30.754Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-07-22",
+        "rank": 0,
+        "title": "The Referee Problem: Civilization's Defining Test",
+        "category": "editorial",
+        "summary": "When the Machine Outruns the Referee",
+        "image": "https://neurosciencenews.com/files/2026/07/brain-speed-chip-neuroscience-1155x770.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-07-22.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-07-22",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-07-22T20-50",
     "scannedAt": "2026-07-22T20:50:38.346Z",
     "items": [
