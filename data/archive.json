@@ -1,21 +1,62 @@
 [
   {
-    "batchId": "editorial_2026-08-02",
-    "scannedAt": "2026-08-02T21:53:22.378Z",
-    "kind": "editorial_archive",
+    "batchId": "auto_2026-08-04T01-12",
+    "scannedAt": "2026-08-04T01:12:15.828Z",
     "items": [
       {
-        "id": "editorial_2026-08-02",
-        "rank": 0,
-        "title": "What free time dilates, and what price still rations",
-        "category": "editorial",
-        "summary": "Convergence of surplus perception and contested care",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2023/09/Screenshot-2023-09-19-at-8.07.27-AM.png?fit=1024%2C635&ssl=1",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-02.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-08-02",
-        "authorName": "Dr. Wallace Lynch"
+        "id": "auto_2026-08-04T01-12_1",
+        "rank": 1,
+        "title": "AI Maps Regional Brain Age and Alzheimer's Risk",
+        "category": "neuroscience",
+        "summary": "A new study uses AI voxel mapping to highlight regional brain age acceleration in Alzheimer's disease.",
+        "image": "https://neurosciencenews.com/files/2026/08/ai-dementia-brain-aging-neurosceince-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/ai-brain-age-alzheimers-risk-31174/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-04T01-12_2",
+        "rank": 2,
+        "title": "STAT+: California Supreme Court sides with Gilead in ‘duty’ to innovate case",
+        "category": "biotech",
+        "summary": "The California Supreme Court sided with Gilead Sciences in a closely watched case over whether the company had a \"duty\" to innovate.",
+        "image": "https://www.statnews.com/wp-content/uploads/2024/07/GettyImages-1221879709-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/pharmalot/2026/08/03/california-supreme-court-sides-with-gilead-in-duty-to-innovate-case/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-04T01-12_3",
+        "rank": 3,
+        "title": "5 Standout Shows to See at Small Galleries This August",
+        "category": "art",
+        "summary": "First Sun and Green Curtain, 2026 Shawn Huckins K Contemporary In this monthly roundup, we spotlight five stellar exhibitions at small and rising galleries. Alejandro Javaloyas “ Un cuchillo que no corta ” Galeria Reus…",
+        "image": "https://artsy-media-uploads.s3.amazonaws.com/NBGyWT5fpJZlJxpPpUKA_Q%2Fshawn+huckins+mag.jpg",
+        "source": "Artsy",
+        "sourceUrl": "https://www.artsy.net/article/artsy-editorial-5-standout-small-galleries-august-08-03-26",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-04T01-12_4",
+        "rank": 4,
+        "title": "Walden Robotics Partners With Toyota on Practical Humanoids",
+        "category": "robotics",
+        "summary": "For a while there, it seemed as though robotics as a whole was stuck in a mad rush towards building humanoid robots mostly because it was very possible (and very lucrative) to do so, even without near-term goals that…",
+        "image": "https://spectrum.ieee.org/media-library/humanoid-orange-and-white-robot-using-two-finger-gripper-hands-to-work-with-metal-tool-components.jpg?id=67568024&width=980",
+        "source": "IEEE Spectrum",
+        "sourceUrl": "https://spectrum.ieee.org/humanoid-robots-walden-robotics-toyota",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-04T01-12_5",
+        "rank": 5,
+        "title": "Xona secures spectrum approval for satellite navigation network",
+        "category": "space",
+        "summary": "The approval allows the startup to transmit stronger signals in spectrum adjacent to GPS frequencies The post Xona secures spectrum approval for satellite navigation network appeared first on SpaceNews .",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/G_Xm3MYbAAAAE9s-scaled.jpeg?fit=1024%2C683&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/xona-secures-spectrum-approval-for-250-satellite-navigation-network/",
+        "fromX": false
       }
     ]
   },
@@ -77,6 +118,26 @@
         "source": "SpaceNews",
         "sourceUrl": "https://spacenews.com/hughes-files-for-bankruptcy-after-geo-business-loses-ground-to-starlink/",
         "fromX": false
+      }
+    ]
+  },
+  {
+    "batchId": "editorial_2026-08-02",
+    "scannedAt": "2026-08-02T21:53:22.378Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-08-02",
+        "rank": 0,
+        "title": "What free time dilates, and what price still rations",
+        "category": "editorial",
+        "summary": "Convergence of surplus perception and contested care",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2023/09/Screenshot-2023-09-19-at-8.07.27-AM.png?fit=1024%2C635&ssl=1",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-02.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-08-02",
+        "authorName": "Dr. Wallace Lynch"
       }
     ]
   },
