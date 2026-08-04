@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-08-04T06-17",
-    "scannedAt": "2026-08-04T06:17:14.281Z",
+    "batchId": "auto_2026-08-04T10-23",
+    "scannedAt": "2026-08-04T10:23:10.385Z",
     "items": [
       {
-        "id": "auto_2026-08-04T06-17_1",
+        "id": "auto_2026-08-04T10-23_1",
         "rank": 1,
-        "title": "Kreios Space to fly VLEO demonstration in NanoAvionics bus",
+        "title": "Rocketdyne reemerges as standalone space company",
         "category": "space",
-        "summary": "SAN FRANCISCO – Spanish startup Kreios Space announced plans Aug. 4 to conduct the first very low Earth orbit (VLEO) demonstration of its air-breathing electric propulsion (ABEP) in a Kongsberg […] The post Kreios Space…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/rsz_kreios-sede.jpg?fit=879%2C495&ssl=1",
+        "summary": "AE Industrial private-equity firm takes 60% stake as L3Harris retains a noncontrolling interest The post Rocketdyne reemerges as standalone space company appeared first on SpaceNews .",
+        "image": "https://spacenews.com/wp-content/uploads/2026/08/msl-accelerating-production-space-asset-additive-manufacturing-article-hero.jpg-1024x574.avif",
         "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/kreios-space-to-fly-vleo-demonstration-in-nanoavionics-bus/",
+        "sourceUrl": "https://spacenews.com/rocketdyne-reemerges-as-standalone-space-company/",
         "fromX": false
       },
       {
-        "id": "auto_2026-08-04T06-17_2",
+        "id": "auto_2026-08-04T10-23_2",
         "rank": 2,
-        "title": "Your brain may be wired to regain lost weight",
-        "category": "neuroscience",
-        "summary": "Weight loss is not simply a test of willpower. The human brain evolved to protect body fat during times of scarcity, and it can treat a previously higher weight as the new normal, triggering stronger hunger, cravings,…",
-        "image": "https://www.sciencedaily.com/images/1920/male-brain-obesity.webp",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260803080902.htm",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-04T06-17_3",
-        "rank": 3,
-        "title": "STAT+: Eli Lilly to allow more patients to apply for special access to unapproved obesity drug",
-        "category": "biotech",
-        "summary": "Doctors are asking how to get retatrutide for their patients, after Eli Lilly gave one man early access.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/07/AdobeStock_2111261602_Editorial_Use_Only-1024x576.jpeg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/08/03/eli-lilly-retatrutide-mystery-patient-doctors-seek-same-access-their-patients/?utm_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-04T06-17_4",
-        "rank": 4,
-        "title": "Works by Goya, Caravaggio, and van Gogh appear in new trailer for “The Thomas Crown Affair,” starring Michael B. Jordan.",
-        "category": "art",
-        "summary": "The trailer for Amazon MGM Studios’s forthcoming remake of The Thomas Crown Affair was released this week—and a few art historical masterpieces make cameos. Directed by and starring Michael B. Jordan, the film, which is…",
-        "image": "https://artsy-media-uploads.s3.amazonaws.com/GwyRksA2at_AEl-MMYFqYA%2Fthomas+crown+affair+mag.jpg",
-        "source": "Artsy",
-        "sourceUrl": "https://www.artsy.net/article/artsy-editorial-works-goya-caravaggio-van-gogh-appear-new-trailer-the-thomas-crown-affair-starring-michael-jordan",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-04T06-17_5",
-        "rank": 5,
-        "title": "How Automation Companies Add AI Without Locking into One Provider",
+        "title": "Dubai and Oxa launch autonomous logistics venture to deploy self-driving vehicles at ports and airports",
         "category": "robotics",
-        "summary": "Automation and robotics have always been about combining reliable hardware with increasingly capable software. Over the last few years, the software half of that equation has shifted decisively toward artificial…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/api-mart-1.png",
+        "summary": "Dubai Future Foundation (DFF) and Oxa, a developer of autonomous vehicle technology, has announced the launch of SHIFFT, a joint venture that will establish Dubai as a global hub for autonomous logistics. SHIFFT will…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/dubai-oxa-1.png",
         "source": "Robotics & Automation News",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/03/how-automation-companies-add-ai-without-locking-into-one-provider/103847/",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/04/dubai-and-oxa-launch-autonomous-logistics-venture-to-deploy-self-driving-vehicles-at-ports-and-airports/103860/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-04T10-23_3",
+        "rank": 3,
+        "title": "STAT+: Kennedy and Oz call Medicaid cuts ‘myths.’ It’s more complicated than that",
+        "category": "biotech",
+        "summary": "Kennedy and Oz say Medicaid isn't being cut. But state Medicaid directors say new policies are likely to cause many people to lose coverage.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/08/GettyImages-1993689815-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/08/04/rfk-medicaid-cuts-myth-analysis/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-04T10-23_4",
+        "rank": 4,
+        "title": "Data centers take center stage in Wisconsin governor’s race",
+        "category": "energy",
+        "summary": "A year ago, most Wisconsin residents thought little about data centers, according to local leaders and journalists. But today, the computing facilities — and where they get their energy — are a key issue in the hotly…",
+        "image": "https://img.canarymedia.com/content/uploads/Wisconsin-Democratic-governor-primary-Hong_GettyImages-2288058873.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=87ba9bbc2516104ae7e1819b735e0521",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/data-centers/wisconsin-governors-race",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-04T10-23_5",
+        "rank": 5,
+        "title": "AI Maps Regional Brain Age and Alzheimer's Risk",
+        "category": "neuroscience",
+        "summary": "A new study uses AI voxel mapping to highlight regional brain age acceleration in Alzheimer's disease.",
+        "image": "https://neurosciencenews.com/files/2026/08/ai-dementia-brain-aging-neurosceince-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/ai-brain-age-alzheimers-risk-31174/",
         "fromX": false
       }
     ]
