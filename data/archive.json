@@ -1,81 +1,61 @@
 [
   {
-    "batchId": "editorial_2026-08-03",
-    "scannedAt": "2026-08-04T01:02:12.624Z",
-    "kind": "editorial_archive",
+    "batchId": "auto_2026-08-05T06-15",
+    "scannedAt": "2026-08-05T06:15:53.415Z",
     "items": [
       {
-        "id": "editorial_2026-08-03",
-        "rank": 0,
-        "title": "What we fence around machines, and what the body still pays",
-        "category": "editorial",
-        "summary": "Convergence of protected systems and exposed lives",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/07/AP26189642009611-e1784894199578-1024x576.jpg",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-03.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-08-03",
-        "authorName": "Dr. Wallace Lynch"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-08-05T01-13",
-    "scannedAt": "2026-08-05T01:13:17.972Z",
-    "items": [
-      {
-        "id": "auto_2026-08-05T01-13_1",
+        "id": "auto_2026-08-05T06-15_1",
         "rank": 1,
-        "title": "Court rules against Trump EPA’s freeze of $20B in ‘green bank’ funds",
-        "category": "energy",
-        "summary": "A federal appeals court has ruled that the Environmental Protection Agency acted improperly in terminating billions of dollars of “green bank” financing last year, setting up a potential showdown before the U.S. Supreme…",
-        "image": "https://img.canarymedia.com/content/uploads/GettyImages-2212809333-2-copy.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=1a7aa3b2de4b12098fc955c3ceadca64",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/climatetech-finance/court-rules-against-trump-epas-freeze-of-20b-in-green-bank-funds",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-05T01-13_2",
-        "rank": 2,
-        "title": "SpaceX to begin Starship orbital flights",
+        "title": "Neuraspace raises $18 million to expand sovereign space awareness",
         "category": "space",
-        "summary": "SpaceX plans to start deploying upgraded Starlink satellites into orbit on the next flight of its Starship vehicle, scheduled for as soon as the end of the month. The post SpaceX to begin Starship orbital flights…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/starship-flt13-liftoff2.jpeg?fit=1024%2C576&ssl=1",
+        "summary": "Neuraspace, the Portuguese space traffic management startup, announced around $18 million in fresh funding Aug. 5 to expand European space domain awareness and defense capabilities. The post Neuraspace raises $18…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/rsz_1neuraspace_def.jpg?fit=879%2C581&ssl=1",
         "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/spacex-to-begin-starship-orbital-flights/",
+        "sourceUrl": "https://spacenews.com/neuraspace-raises-18-million-to-expand-sovereign-space-awareness/",
         "fromX": false
       },
       {
-        "id": "auto_2026-08-05T01-13_3",
+        "id": "auto_2026-08-05T06-15_2",
+        "rank": 2,
+        "title": "Base Power raises $1B to get big batteries into more homes",
+        "category": "energy",
+        "summary": "Home battery startup Base Power seems constitutionally incapable of standing still. After raising $1 billion last October, the Texas company has raised another $1 billion, and upped its valuation from $4 billion to $13…",
+        "image": "https://img.canarymedia.com/content/uploads/GettyImages-2200913289-copy_2026-08-05-011958_ffzu.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=9ebff43e756eaf4dc5ebd0ac9ffb9b45",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/batteries/base-power-raises-1b-to-get-big-batteries-into-more-homes",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-05T06-15_3",
         "rank": 3,
-        "title": "Phase 1 Trial Validates Anti-PD-L1 Antibody for Alzheimer's",
+        "title": "Social Bonds and Recognition Reduce Teen Suicide Risk",
         "category": "neuroscience",
-        "summary": "IBC-Ab002, an anti-PD-L1 immunotherapy targeting systemic immune aging, is safe and reduces markers of neuronal damage in Alzheimer's patients.",
-        "image": "https://neurosciencenews.com/files/2026/08/neuroscience-alzheimer-1155x770.jpg",
+        "summary": "A new study shows that strong family, school, and community bonds significantly lower suicide risk, with family attachment reducing risk by one-third.",
+        "image": "https://neurosciencenews.com/files/2026/08/social-bond-teen-suicide-neuroscience-1155x770.jpg",
         "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/antibody-alzheimers-immunotherapy-31179/",
+        "sourceUrl": "https://neurosciencenews.com/social-bonds-teen-mental-health-31177/",
         "fromX": false
       },
       {
-        "id": "auto_2026-08-05T01-13_4",
+        "id": "auto_2026-08-05T06-15_4",
         "rank": 4,
-        "title": "STAT+: Startup promising to scale custom CRISPR therapies abruptly scraps plans",
+        "title": "STAT+: Three biotechs with three news updates",
         "category": "biotech",
-        "summary": "The FDA, while promising flexibility in approving Baby KJ-type gene editing, still has set standards difficult for a small startup to meet.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/08/AdobeStock_317192996-1024x576.jpeg",
+        "summary": "Gilead wins case over its HIV medicine, Eli Lilly to expand retatrutide access, and more biotech news",
+        "image": "https://www.statnews.com/wp-content/uploads/2017/09/AP17271744764601-1024x576.jpg",
         "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/08/04/aurora-therapeutics-ends-program-baby-kj-treatments-beam-therapeutics-jennifer-doudna/?utm_campaign=rss",
+        "sourceUrl": "https://www.statnews.com/2026/08/04/biotech-news-gilead-wins-case-that-scrutinized-pace-of-drug-development/?utm_campaign=rss",
         "fromX": false
       },
       {
-        "id": "auto_2026-08-05T01-13_5",
+        "id": "auto_2026-08-05T06-15_5",
         "rank": 5,
-        "title": "Meet the Latvian Collector Championing a New Generation of Baltic Artists",
+        "title": "Lydia Hansen Introduces Hikers to Native Midwest Mushrooms on Crocheted ‘Fungi Hunts'",
         "category": "art",
-        "summary": "From her high-rise office overlooking Riga’s green rooftops, Vita Liberte describes the quality she looks for in art with a single word: authenticity. “You should never go after somebody,” she told Artsy. “You should…",
-        "image": "https://artsy-media-uploads.s3.amazonaws.com/vDGaWtG0w6KcdRxtT-0ykg%2FVitaLiberteMAG.jpg",
-        "source": "Artsy",
-        "sourceUrl": "https://www.artsy.net/article/artsy-editorial-meet-latvian-collector-championing-new-generation-baltic-artists",
+        "summary": "An ongoing series of seasonal scavenger hunts in Minnesota woodlands playfully invite inquiry. Do stories and artists like this matter to you? Become a Colossal Member today and support independent arts publishing for…",
+        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/08/hansen-5.jpg",
+        "source": "Colossal",
+        "sourceUrl": "https://www.thisiscolossal.com/2026/08/lydia-hansen-fungi-hunts-crocheted-mushrooms-minnesota/",
         "fromX": false
       }
     ]
@@ -138,6 +118,26 @@
         "source": "Robotics & Automation News",
         "sourceUrl": "https://roboticsandautomationnews.com/2026/08/04/cold-calling-how-autonomous-robots-are-transforming-polar-science-in-the-arctic-and-antarctic/103887/",
         "fromX": false
+      }
+    ]
+  },
+  {
+    "batchId": "editorial_2026-08-03",
+    "scannedAt": "2026-08-04T01:02:12.624Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-08-03",
+        "rank": 0,
+        "title": "What we fence around machines, and what the body still pays",
+        "category": "editorial",
+        "summary": "Convergence of protected systems and exposed lives",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/07/AP26189642009611-e1784894199578-1024x576.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-03.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-08-03",
+        "authorName": "Dr. Wallace Lynch"
       }
     ]
   },

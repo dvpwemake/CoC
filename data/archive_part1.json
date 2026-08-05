@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-07-24T20-52",
+    "scannedAt": "2026-07-24T20:52:56.207Z",
+    "items": [
+      {
+        "id": "auto_2026-07-24T20-52_1",
+        "rank": 1,
+        "title": "ULA deals with financial challenges caused by Vulcan grounding",
+        "category": "space",
+        "summary": "United Launch Alliance’s corporate parents have guaranteed a loan to the company as it addresses “financial challenges” caused by the grounding of its Vulcan Centaur rocket. The post ULA deals with financial challenges…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/55090240803_a555b0ee7e_k.jpg?fit=1024%2C683&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/ula-deals-with-financial-challenges-caused-by-vulcan-grounding/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-24T20-52_2",
+        "rank": 2,
+        "title": "Trump Installs Thomas Jefferson Statue in the Rose Garden",
+        "category": "art",
+        "summary": "The artist behind the piece is also responsible for a MAGA-friendly Trump statue.",
+        "image": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/07/IMG_8870-2.jpeg",
+        "source": "Hyperallergic",
+        "sourceUrl": "https://hyperallergic.com/trump-installs-thomas-jefferson-statue-in-the-rose-garden/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-24T20-52_3",
+        "rank": 3,
+        "title": "Opinion: I led the FDA’s food safety and nutrition center. Here’s what people are missing about the cyclospora outbreak",
+        "category": "biotech",
+        "summary": "“Consumers should not be faced with a trade-off between nutrition and food safety,” writes Susan Mayne, former director of the FDA Center for Food Safety and Applied Nutrition.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/07/AP26131788035261-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/07/24/cyclospora-outbreak-contradiction-eat-real-food-less-safety-monitoring/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-24T20-52_4",
+        "rank": 4,
+        "title": "Detailed Robot Feedback Can Overload Human Learners",
+        "category": "neuroscience",
+        "summary": "A new study reveals that detailed personalized feedback from humanoid robots causes immediate cognitive overload after errors, slowing immediate recovery despite improving long-term task performance.",
+        "image": "https://neurosciencenews.com/files/2026/07/learning-overload-robotics-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/robot-feedback-overload-human-learners-31126/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-24T20-52_5",
+        "rank": 5,
+        "title": "Gemini 3.6 Flash and 3.5 Flash-Lite now available through official API for developers and AI agents",
+        "category": "ai",
+        "summary": "Model ecosystem expansion: Gemini 3.6 Flash and Gemini 3.5 Flash-Lite via official API access.",
+        "image": "https://pbs.twimg.com/media/HN1SnDCWEAA2hmA.jpg",
+        "source": "X · @web3l0var",
+        "sourceUrl": "https://x.com/web3l0var/status/2079909448219271368",
+        "fromX": true
+      }
+    ]
+  },
+  {
     "batchId": "editorial_2026-07-23",
     "scannedAt": "2026-07-24T03:04:09.511Z",
     "kind": "editorial_archive",
@@ -1099,67 +1160,6 @@
         "source": "Canary Media",
         "sourceUrl": "https://www.canarymedia.com/articles/data-centers/duke-energy-proposes-special-rules-for-data-centers-in-north-carolina",
         "imageProxy": "https://images.weserv.nl/?url=img.canarymedia.com%2Fcontent%2Fuploads%2FGettyImages-1235716373-copy.jpeg%3Fauto%3Dcompress%252Cformat%26crop%3Dfocalpoint%26fit%3Dcrop%26fp-x%3D0.5%26fp-y%3D0.5%26h%3D630%26q%3D82%26w%3D1200%26s%3De38c5f8952dedbee4f8ce130af32bf5e&w=640&h=400&fit=cover&we&output=jpg"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-07-05T20-43",
-    "scannedAt": "2026-07-05T20:43:42.103Z",
-    "items": [
-      {
-        "id": "auto_2026-07-05T20-43_1",
-        "rank": 1,
-        "title": "Psychedelic Trips Can Halt Political Hate",
-        "category": "neuroscience",
-        "summary": "The collective cultural mood surrounding a psychedelic experience shapes its psychological aftermath. Participants whose most intense trips occurred on the Fourth of July reported a long-term decrease in support for…",
-        "image": "https://neurosciencenews.com/files/2026/07/psychedelic-political-violence-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/psychedelics-cultural-political-psychology-30993/",
-        "imageProxy": "https://images.weserv.nl/?url=neurosciencenews.com%2Ffiles%2F2026%2F07%2Fpsychedelic-political-violence-neuroscience-1155x770.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-05T20-43_2",
-        "rank": 2,
-        "title": "NASA’s Hubble Spies Stellar Sparkler for July 4th",
-        "category": "space",
-        "summary": "Red, white, and blue stars glitter like a sparkler being waved on a dark night in this new image from NASA’s Hubble Space Telescope.",
-        "image": "https://assets.science.nasa.gov/content/dam/science/missions/hubble/stars/globular-clusters/Hubble_NGC6426_3_July4_FINAL2.tif/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-        "source": "NASA",
-        "sourceUrl": "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-stellar-sparkler-for-july-4th/",
-        "imageProxy": "https://images.weserv.nl/?url=assets.science.nasa.gov%2Fcontent%2Fdam%2Fscience%2Fmissions%2Fhubble%2Fstars%2Fglobular-clusters%2FHubble_NGC6426_3_July4_FINAL2.tif%2Fjcr%3Acontent%2Frenditions%2Fcq5dam.web.1280.1280.jpeg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-05T20-43_3",
-        "rank": 3,
-        "title": "Video Friday: An Earthbound Mars Rover for the Moon",
-        "category": "robotics",
-        "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us…",
-        "image": "https://spectrum.ieee.org/media-library/mars-style-rover-prototype-on-rugged-ground-under-a-clear-sky-with-the-moon-visible.png?id=67083121&width=980",
-        "source": "IEEE Spectrum",
-        "sourceUrl": "https://spectrum.ieee.org/video-friday-nasa-lunar-rover",
-        "imageProxy": "https://images.weserv.nl/?url=spectrum.ieee.org%2Fmedia-library%2Fmars-style-rover-prototype-on-rugged-ground-under-a-clear-sky-with-the-moon-visible.png%3Fid%3D67083121%26width%3D980&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-05T20-43_4",
-        "rank": 4,
-        "title": "Data centers use more power in the US than in any other country",
-        "category": "energy",
-        "summary": "This article is part of our ​“Chart of the Week” series . Data centers use more electricity in the U.S. than in any other country — China included. In 2025, nearly 40% of all power demand from data centers came from…",
-        "image": "https://img.canarymedia.com/content/uploads/COTW-Data-centers.png?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=80&w=1200&s=6ab88e95914464011c02c651929f39c5",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/data-centers/data-centers-use-more-power-in-the-us-than-anywhere-else",
-        "imageProxy": "https://images.weserv.nl/?url=img.canarymedia.com%2Fcontent%2Fuploads%2FCOTW-Data-centers.png%3Fauto%3Dcompress%252Cformat%26crop%3Dfocalpoint%26fit%3Dcrop%26fp-x%3D0.5%26fp-y%3D0.5%26h%3D630%26q%3D80%26w%3D1200%26s%3D6ab88e95914464011c02c651929f39c5&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-05T20-43_5",
-        "rank": 5,
-        "title": "STAT+: Medicare takes another swing at 340B cuts to hospitals",
-        "category": "biotech",
-        "summary": "Reducing Medicare payments for 340B drugs is the latest proposal focused on the hotly debated drug discount program.",
-        "image": "https://www.statnews.com/wp-content/uploads/2023/08/AdobeStock_385917483-1024x576.jpeg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/07/02/medicare-hospital-payment-340b-drugs-cut/?utm_campaign=rss",
-        "imageProxy": "https://images.weserv.nl/?url=www.statnews.com%2Fwp-content%2Fuploads%2F2023%2F08%2FAdobeStock_385917483-1024x576.jpeg&w=640&h=400&fit=cover&we&output=jpg"
       }
     ]
   }
