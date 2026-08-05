@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-08-05T01-13",
+    "scannedAt": "2026-08-05T01:13:17.972Z",
+    "items": [
+      {
+        "id": "auto_2026-08-05T01-13_1",
+        "rank": 1,
+        "title": "Court rules against Trump EPA’s freeze of $20B in ‘green bank’ funds",
+        "category": "energy",
+        "summary": "A federal appeals court has ruled that the Environmental Protection Agency acted improperly in terminating billions of dollars of “green bank” financing last year, setting up a potential showdown before the U.S. Supreme…",
+        "image": "https://img.canarymedia.com/content/uploads/GettyImages-2212809333-2-copy.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=1a7aa3b2de4b12098fc955c3ceadca64",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/climatetech-finance/court-rules-against-trump-epas-freeze-of-20b-in-green-bank-funds",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-05T01-13_2",
+        "rank": 2,
+        "title": "SpaceX to begin Starship orbital flights",
+        "category": "space",
+        "summary": "SpaceX plans to start deploying upgraded Starlink satellites into orbit on the next flight of its Starship vehicle, scheduled for as soon as the end of the month. The post SpaceX to begin Starship orbital flights…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/starship-flt13-liftoff2.jpeg?fit=1024%2C576&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/spacex-to-begin-starship-orbital-flights/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-05T01-13_3",
+        "rank": 3,
+        "title": "Phase 1 Trial Validates Anti-PD-L1 Antibody for Alzheimer's",
+        "category": "neuroscience",
+        "summary": "IBC-Ab002, an anti-PD-L1 immunotherapy targeting systemic immune aging, is safe and reduces markers of neuronal damage in Alzheimer's patients.",
+        "image": "https://neurosciencenews.com/files/2026/08/neuroscience-alzheimer-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/antibody-alzheimers-immunotherapy-31179/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-05T01-13_4",
+        "rank": 4,
+        "title": "STAT+: Startup promising to scale custom CRISPR therapies abruptly scraps plans",
+        "category": "biotech",
+        "summary": "The FDA, while promising flexibility in approving Baby KJ-type gene editing, still has set standards difficult for a small startup to meet.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/08/AdobeStock_317192996-1024x576.jpeg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/08/04/aurora-therapeutics-ends-program-baby-kj-treatments-beam-therapeutics-jennifer-doudna/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-05T01-13_5",
+        "rank": 5,
+        "title": "Meet the Latvian Collector Championing a New Generation of Baltic Artists",
+        "category": "art",
+        "summary": "From her high-rise office overlooking Riga’s green rooftops, Vita Liberte describes the quality she looks for in art with a single word: authenticity. “You should never go after somebody,” she told Artsy. “You should…",
+        "image": "https://artsy-media-uploads.s3.amazonaws.com/vDGaWtG0w6KcdRxtT-0ykg%2FVitaLiberteMAG.jpg",
+        "source": "Artsy",
+        "sourceUrl": "https://www.artsy.net/article/artsy-editorial-meet-latvian-collector-championing-new-generation-baltic-artists",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-08-04T20-58",
     "scannedAt": "2026-08-04T20:58:37.186Z",
     "items": [
