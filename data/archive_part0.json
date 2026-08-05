@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-08-05T10-19",
-    "scannedAt": "2026-08-05T10:19:04.648Z",
+    "batchId": "auto_2026-08-05T13-27",
+    "scannedAt": "2026-08-05T13:27:44.820Z",
     "items": [
       {
-        "id": "auto_2026-08-05T10-19_1",
+        "id": "auto_2026-08-05T13-27_1",
         "rank": 1,
-        "title": "STAT+: Exemption of rare disease therapies in drug-pricing pilots would wipe out huge savings, analysis finds",
+        "title": "STAT+: Pharmalittle: We're reading about a Medicare pilot and orphan drugs, Pfizer cutbacks, and more",
         "category": "biotech",
-        "summary": "Excluding rare disease therapies from a Medicare pilot program to lower drug prices would wipe out much of the savings from retail drugs, according to new research.",
-        "image": "https://www.statnews.com/wp-content/uploads/2025/10/AdobeStock_1239086709-1024x576.jpeg",
+        "summary": "In today's Pharmalittle newsletter, a Medicare pilot and orphan drugs, Pfizer cutbacks, and more.",
+        "image": "https://www.statnews.com/wp-content/uploads/2015/11/PHARMALOT_LITTLE-copy-1024x576.jpg",
         "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/08/05/cms-drug-pricing-pilot-programs-rare-disease-drugs/?utm_campaign=rss",
+        "sourceUrl": "https://www.statnews.com/pharmalot/2026/08/05/medicare-pilot-orphan-drugs-pfizer-cutbacks/?utm_campaign=rss",
         "fromX": false
       },
       {
-        "id": "auto_2026-08-05T10-19_2",
+        "id": "auto_2026-08-05T13-27_2",
         "rank": 2,
-        "title": "Think tank warns Europe’s orbital compute gap is widening",
-        "category": "space",
-        "summary": "Europe risks becoming dependent on foreign orbital computing infrastructure as U.S. companies and China’s government-led push accelerate the development of space-based data centers, according to the European Space…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/Orbital.jpg?fit=1024%2C625&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/think-tank-warns-europes-orbital-compute-gap-is-widening/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-05T10-19_3",
-        "rank": 3,
-        "title": "PJM’s big new data center plan: Make the states figure it out",
-        "category": "energy",
-        "summary": "PJM Interconnection, the biggest grid operator in the U.S., has finally settled on a plan to prevent data centers from causing other customers’ utility bills to soar further in its 13-state territory. That plan relies…",
-        "image": "https://img.canarymedia.com/content/uploads/Amazon-data-center-construction-Berick-PA_AP26120598175304.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=3ab6ab31e1ce8f89289bbe3020de8629",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/data-centers/pjm-data-center-plan",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-05T10-19_4",
-        "rank": 4,
-        "title": "Phase 1 Trial Validates Anti-PD-L1 Antibody for Alzheimer's",
-        "category": "neuroscience",
-        "summary": "IBC-Ab002, an anti-PD-L1 immunotherapy targeting systemic immune aging, is safe and reduces markers of neuronal damage in Alzheimer's patients.",
-        "image": "https://neurosciencenews.com/files/2026/08/neuroscience-alzheimer-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/antibody-alzheimers-immunotherapy-31179/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-05T10-19_5",
-        "rank": 5,
-        "title": "Meet the Latvian Collector Championing a New Generation of Baltic Artists",
+        "title": "Enigmatic Narratives Unfold in Aron Wiesenfeld's Dreamy Oil Paintings",
         "category": "art",
-        "summary": "From her high-rise office overlooking Riga’s green rooftops, Vita Liberte describes the quality she looks for in art with a single word: authenticity. “You should never go after somebody,” she told Artsy. “You should…",
-        "image": "https://artsy-media-uploads.s3.amazonaws.com/kWNxzSjMgiEMVhn9ApccJA%2FVitaMAG.png",
-        "source": "Artsy",
-        "sourceUrl": "https://www.artsy.net/article/artsy-editorial-meet-latvian-collector-championing-new-generation-baltic-artists",
+        "summary": "Wiesenfeld delves into the power of visibility and imagination. Do stories and artists like this matter to you? Become a Colossal Member today and support independent arts publishing for as little as $7 per month. The…",
+        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/08/wiesenfeld-5.jpg",
+        "source": "Colossal",
+        "sourceUrl": "https://www.thisiscolossal.com/2026/08/aron-wiesenfeld-oil-paintings-narratives/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-05T13-27_3",
+        "rank": 3,
+        "title": "Scientists discover the brain cells that keep you motivated",
+        "category": "neuroscience",
+        "summary": "A group of brain cells called orexin neurons appears to help us keep working when reaching a reward becomes increasingly difficult. Blocking their activity weakened motivation in rats, pointing to a possible new target…",
+        "image": "https://www.sciencedaily.com/images/1920/human-brain-exercise-strength-dumbbells.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260804034622.htm",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-05T13-27_4",
+        "rank": 4,
+        "title": "Satellite manufacturing thrives in California despite cost and regulatory pressures",
+        "category": "space",
+        "summary": "The mood was celebratory at the ribbon-cutting for Muon Space’s San Jose, California, manufacturing facility in June. State, local, United States Space Force and Pentagon representatives lauded the startup and, […] The…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Vast-Gavin-Newsom-010.jpg?fit=1024%2C683&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/satellite-manufacturing-thrives-in-california-despite-cost-and-regulatory-pressures/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-05T13-27_5",
+        "rank": 5,
+        "title": "Smart Home Automation Solutions: How to Build a System That Actually Works Together",
+        "category": "robotics",
+        "summary": "Quick Answer A connected home works when the network layer is designed before the devices are chosen. Start by mapping which functions must run locally, then select a single primary protocol and a hub that speaks to it…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/home-automation-2.png",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/05/smart-home-automation-solutions-how-to-build-a-system-that-actually-works-together/103921/",
         "fromX": false
       }
     ]
