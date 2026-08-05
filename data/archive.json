@@ -1,5 +1,25 @@
 [
   {
+    "batchId": "editorial_2026-08-03",
+    "scannedAt": "2026-08-04T01:02:12.624Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-08-03",
+        "rank": 0,
+        "title": "What we fence around machines, and what the body still pays",
+        "category": "editorial",
+        "summary": "Convergence of protected systems and exposed lives",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/07/AP26189642009611-e1784894199578-1024x576.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-03.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-08-03",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-08-05T01-13",
     "scannedAt": "2026-08-05T01:13:17.972Z",
     "items": [
