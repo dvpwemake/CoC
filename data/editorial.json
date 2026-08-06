@@ -2246,6 +2246,186 @@
           ]
         }
       ]
+    },
+    "2026-08-06": {
+      "id": "ed_2026-08-06",
+      "publishDate": "2026-08-06",
+      "status": "draft",
+      "draftKind": "outline",
+      "createdAt": "2026-08-06T06:19:11.942Z",
+      "updatedAt": "2026-08-06T06:19:11.942Z",
+      "title": "Editorial brief — 2026-08-06",
+      "dek": "Outline of selected article titles and key points for admin to write the final editorial.",
+      "body": "EDITORIAL BRIEF (outline only — not for publication as-is)\nPublish date: 2026-08-06\nInstruction: Use the titles and key points below to write the final ~300-word CoC editorial. Replace this entire brief with your finished prose before publishing.\n\n— Selected articles of the day (12) —\n\n1. [Biotech] FDA approves Moderna’s mRNA flu vaccine, the first to use the technology\n   Source: STAT News\n   URL: https://www.statnews.com/2026/08/05/fda-approves-moderna-mflusiva-first-mrna-flu-vaccine/?utm_campaign=rss\n   Key points:\n   • The FDA has approved Moderna’s influenza vaccine, the first licensed flu shot made using messenger RNA technology.\n\n2. [General] AI or real? BBC analyses viral China disaster videos\n   Source: BBC Technology\n   URL: https://www.bbc.co.uk/news/videos/c4g3505memlo?at_medium=RSS&at_campaign=rss\n   Key points:\n   • As weather events become more extreme, fake videos are being shared rapidly online, and it’s causing real world problems in China.\n\n3. [Neuroscience] THC medication made PTSD nightmares disappear for more than a third of patients\n   Source: ScienceDaily\n   URL: https://www.sciencedaily.com/releases/2026/08/260805082450.htm\n   Key points:\n   • A prescription form of THC helped many people with PTSD escape recurring trauma-related nightmares, with more than one-third reporting that the nightmares disappeared completely after ten weeks.\n\n4. [Robotics] Claude Fable 5 AI finds a tiny formula that topples an 87-year-old math conjecture\n   Source: ScienceDaily\n   URL: https://www.sciencedaily.com/releases/2026/08/260804034634.htm\n   Key points:\n   • A mathematician working at Anthropic says he used the AI model Claude Fable 5 to uncover a remarkably simple counterexample to the Jacobian conjecture, a famous problem that has resisted mathematicians for more than a…\n\n5. [Space] NASA and Roscosmos continue seat barter agreement\n   Source: SpaceNews\n   URL: https://spacenews.com/nasa-and-roscosmos-continue-seat-barter-agreement/\n   Key points:\n   • NASA and Roscosmos have agreed to continue exchanging seats between Soyuz and Crew Dragon spacecraft, but that agreement does not yet extend to Starliner.\n   • The post NASA and Roscosmos continue seat barter agreement…\n\n6. [Art] Monumental Painted Wood Carvings by Jiang Miao Center Mindfulness\n   Source: Colossal\n   URL: https://www.thisiscolossal.com/2026/08/jiang-miao-spiral-of-energy-exhibition-wood-carvings-acrylic-paintings/\n   Key points:\n   • Whitestone Gallery in Seoul presents the artist's solo exhibition, 'Spiral of Energy.' Do stories and artists like this matter to you?\n   • Become a Colossal Member today and support independent arts publishing for as little…\n\n7. [Biotech] Takeda’s narcolepsy drug approved by the FDA, a boon for new class of treatments\n   Source: STAT News\n   URL: https://www.statnews.com/2026/08/05/takeda-narcolepsy-drug-fda-approval-orzeyful/?utm_campaign=rss\n   Key points:\n   • The FDA approved a novel type of treatment for narcolepsy made by Takeda, backing a new drug class that scientists hope can be used to treat other conditions.\n\n8. [Editorial] What authenticity claims, and what the standard still bars\n   Source: Chronicle of Convergence · Editorial\n   URL: https://chronicleofconvergence.com/e/2026-08-04.html\n   Key points:\n   • Convergence of measured distance and contested scale\n\n9. [Neuroscience] Unlocking Hidden Brain Cancer Vaccine Targets\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/genetics-brain-cancer-vaccine-targets-31185/\n   Key points:\n   • A new study uses single-cell long-read sequencing to map hidden genetic isoforms in glioblastoma, unlocking novel targets for personalized cancer vaccines.\n\n10. [Robotics] How to Tell if Your Neighborhood Still Fits Your Life\n   Source: Robotics & Automation News\n   URL: https://roboticsandautomationnews.com/2026/08/05/how-to-tell-if-your-neighborhood-still-fits-your-life/103929/\n   Key points:\n   • Staying in a home you love feels like the obvious move when your mortgage rate is well below today's market.\n   • But a house doesn't exist in isolation – the neighborhood around it shapes daily life just as much as the…\n\n11. [Space] Artemis III Orion Crew and Service Models Joined\n   Source: NASA\n   URL: https://www.nasa.gov/image-article/artemis-iii-orion-crew-and-service-models-joined/\n   Key points:\n   • Technicians joined the Orion crew and service modules together on July 30, 2026, inside the Neil Armstrong Operations and Checkout Building at NASA's Kennedy Space Center in Florida.\n   • The crew module will carry and…\n\n12. [Art] Tiny Faces Surface Amid Sweeping Lines in En Iwamura's Expressive Sculptures\n   Source: Colossal\n   URL: https://www.thisiscolossal.com/2026/08/en-iwamura-expressive-ceramic-sculptures/\n   Key points:\n   • En Iwamura is interested in the ways we measure and understand the spaces between ourselves and others.\n   • Do stories and artists like this matter to you?\n   • Become a Colossal Member today and support independent arts…\n\n— Categories present —\nBiotech · General · Neuroscience · Robotics · Space · Art · Editorial\n\n— Admin checklist —\n• Draft original title + dek\n• Write body (~280–320 words) in CoC voice\n• Select hero from selected-article head image thumbnails (or paste URL)\n• Mark published when ready",
+      "paragraphs": [
+        "EDITORIAL BRIEF (outline only — not for publication as-is)\nPublish date: 2026-08-06\nInstruction: Use the titles and key points below to write the final ~300-word CoC editorial. Replace this entire brief with your finished prose before publishing.",
+        "— Selected articles of the day (12) —",
+        "1. [Biotech] FDA approves Moderna’s mRNA flu vaccine, the first to use the technology\n   Source: STAT News\n   URL: https://www.statnews.com/2026/08/05/fda-approves-moderna-mflusiva-first-mrna-flu-vaccine/?utm_campaign=rss\n   Key points:\n   • The FDA has approved Moderna’s influenza vaccine, the first licensed flu shot made using messenger RNA technology.",
+        "2. [General] AI or real? BBC analyses viral China disaster videos\n   Source: BBC Technology\n   URL: https://www.bbc.co.uk/news/videos/c4g3505memlo?at_medium=RSS&at_campaign=rss\n   Key points:\n   • As weather events become more extreme, fake videos are being shared rapidly online, and it’s causing real world problems in China.",
+        "3. [Neuroscience] THC medication made PTSD nightmares disappear for more than a third of patients\n   Source: ScienceDaily\n   URL: https://www.sciencedaily.com/releases/2026/08/260805082450.htm\n   Key points:\n   • A prescription form of THC helped many people with PTSD escape recurring trauma-related nightmares, with more than one-third reporting that the nightmares disappeared completely after ten weeks.",
+        "4. [Robotics] Claude Fable 5 AI finds a tiny formula that topples an 87-year-old math conjecture\n   Source: ScienceDaily\n   URL: https://www.sciencedaily.com/releases/2026/08/260804034634.htm\n   Key points:\n   • A mathematician working at Anthropic says he used the AI model Claude Fable 5 to uncover a remarkably simple counterexample to the Jacobian conjecture, a famous problem that has resisted mathematicians for more than a…",
+        "5. [Space] NASA and Roscosmos continue seat barter agreement\n   Source: SpaceNews\n   URL: https://spacenews.com/nasa-and-roscosmos-continue-seat-barter-agreement/\n   Key points:\n   • NASA and Roscosmos have agreed to continue exchanging seats between Soyuz and Crew Dragon spacecraft, but that agreement does not yet extend to Starliner.\n   • The post NASA and Roscosmos continue seat barter agreement…",
+        "6. [Art] Monumental Painted Wood Carvings by Jiang Miao Center Mindfulness\n   Source: Colossal\n   URL: https://www.thisiscolossal.com/2026/08/jiang-miao-spiral-of-energy-exhibition-wood-carvings-acrylic-paintings/\n   Key points:\n   • Whitestone Gallery in Seoul presents the artist's solo exhibition, 'Spiral of Energy.' Do stories and artists like this matter to you?\n   • Become a Colossal Member today and support independent arts publishing for as little…",
+        "7. [Biotech] Takeda’s narcolepsy drug approved by the FDA, a boon for new class of treatments\n   Source: STAT News\n   URL: https://www.statnews.com/2026/08/05/takeda-narcolepsy-drug-fda-approval-orzeyful/?utm_campaign=rss\n   Key points:\n   • The FDA approved a novel type of treatment for narcolepsy made by Takeda, backing a new drug class that scientists hope can be used to treat other conditions.",
+        "8. [Editorial] What authenticity claims, and what the standard still bars\n   Source: Chronicle of Convergence · Editorial\n   URL: https://chronicleofconvergence.com/e/2026-08-04.html\n   Key points:\n   • Convergence of measured distance and contested scale",
+        "9. [Neuroscience] Unlocking Hidden Brain Cancer Vaccine Targets\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/genetics-brain-cancer-vaccine-targets-31185/\n   Key points:\n   • A new study uses single-cell long-read sequencing to map hidden genetic isoforms in glioblastoma, unlocking novel targets for personalized cancer vaccines.",
+        "10. [Robotics] How to Tell if Your Neighborhood Still Fits Your Life\n   Source: Robotics & Automation News\n   URL: https://roboticsandautomationnews.com/2026/08/05/how-to-tell-if-your-neighborhood-still-fits-your-life/103929/\n   Key points:\n   • Staying in a home you love feels like the obvious move when your mortgage rate is well below today's market.\n   • But a house doesn't exist in isolation – the neighborhood around it shapes daily life just as much as the…",
+        "11. [Space] Artemis III Orion Crew and Service Models Joined\n   Source: NASA\n   URL: https://www.nasa.gov/image-article/artemis-iii-orion-crew-and-service-models-joined/\n   Key points:\n   • Technicians joined the Orion crew and service modules together on July 30, 2026, inside the Neil Armstrong Operations and Checkout Building at NASA's Kennedy Space Center in Florida.\n   • The crew module will carry and…",
+        "12. [Art] Tiny Faces Surface Amid Sweeping Lines in En Iwamura's Expressive Sculptures\n   Source: Colossal\n   URL: https://www.thisiscolossal.com/2026/08/en-iwamura-expressive-ceramic-sculptures/\n   Key points:\n   • En Iwamura is interested in the ways we measure and understand the spaces between ourselves and others.\n   • Do stories and artists like this matter to you?\n   • Become a Colossal Member today and support independent arts…",
+        "— Categories present —\nBiotech · General · Neuroscience · Robotics · Space · Art · Editorial",
+        "— Admin checklist —\n• Draft original title + dek\n• Write body (~280–320 words) in CoC voice\n• Select hero from selected-article head image thumbnails (or paste URL)\n• Mark published when ready"
+      ],
+      "wordCount": 675,
+      "themeId": "outline",
+      "themeLabel": "Admin outline (titles + key points)",
+      "formId": "outline_brief",
+      "formLabel": "outline brief",
+      "authorName": "Dr. Wallace Lynch",
+      "authorTitle": "Editor in Chief",
+      "heroImage": "https://www.statnews.com/wp-content/uploads/2025/05/AdobeStock_525738206_Editorial_Use_Only-1024x576.jpeg",
+      "heroCredit": "FDA approves Moderna’s mRNA flu vaccine, the first to use the technology",
+      "heroSource": "STAT News",
+      "heroSourceUrl": "https://www.statnews.com/2026/08/05/fda-approves-moderna-mflusiva-first-mrna-flu-vaccine/?utm_campaign=rss",
+      "headlines": [
+        {
+          "title": "FDA approves Moderna’s mRNA flu vaccine, the first to use the technology",
+          "source": "STAT News",
+          "category": "biotech",
+          "sourceUrl": "https://www.statnews.com/2026/08/05/fda-approves-moderna-mflusiva-first-mrna-flu-vaccine/?utm_campaign=rss",
+          "summary": "The FDA has approved Moderna’s influenza vaccine, the first licensed flu shot made using messenger RNA technology.",
+          "image": "https://www.statnews.com/wp-content/uploads/2025/05/AdobeStock_525738206_Editorial_Use_Only-1024x576.jpeg",
+          "keyPoints": [
+            "The FDA has approved Moderna’s influenza vaccine, the first licensed flu shot made using messenger RNA technology."
+          ]
+        },
+        {
+          "title": "AI or real? BBC analyses viral China disaster videos",
+          "source": "BBC Technology",
+          "category": "general",
+          "sourceUrl": "https://www.bbc.co.uk/news/videos/c4g3505memlo?at_medium=RSS&at_campaign=rss",
+          "summary": "As weather events become more extreme, fake videos are being shared rapidly online, and it’s causing real world problems in China.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2dd0/live/a8283870-9152-11f1-a7ab-8b30adf0800a.jpg",
+          "keyPoints": [
+            "As weather events become more extreme, fake videos are being shared rapidly online, and it’s causing real world problems in China."
+          ]
+        },
+        {
+          "title": "THC medication made PTSD nightmares disappear for more than a third of patients",
+          "source": "ScienceDaily",
+          "category": "neuroscience",
+          "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260805082450.htm",
+          "summary": "A prescription form of THC helped many people with PTSD escape recurring trauma-related nightmares, with more than one-third reporting that the nightmares disappeared completely after ten weeks. The results could point…",
+          "image": "https://www.sciencedaily.com/images/1920/man-scared-in-bed.webp",
+          "keyPoints": [
+            "A prescription form of THC helped many people with PTSD escape recurring trauma-related nightmares, with more than one-third reporting that the nightmares disappeared completely after ten weeks."
+          ]
+        },
+        {
+          "title": "Claude Fable 5 AI finds a tiny formula that topples an 87-year-old math conjecture",
+          "source": "ScienceDaily",
+          "category": "robotics",
+          "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260804034634.htm",
+          "summary": "A mathematician working at Anthropic says he used the AI model Claude Fable 5 to uncover a remarkably simple counterexample to the Jacobian conjecture, a famous problem that has resisted mathematicians for more than a…",
+          "image": "https://www.sciencedaily.com/images/1920/humanoid-ai-robot-hologram-screen-solving-physics-math-problems.webp",
+          "keyPoints": [
+            "A mathematician working at Anthropic says he used the AI model Claude Fable 5 to uncover a remarkably simple counterexample to the Jacobian conjecture, a famous problem that has resisted mathematicians for more than a…"
+          ]
+        },
+        {
+          "title": "NASA and Roscosmos continue seat barter agreement",
+          "source": "SpaceNews",
+          "category": "space",
+          "sourceUrl": "https://spacenews.com/nasa-and-roscosmos-continue-seat-barter-agreement/",
+          "summary": "NASA and Roscosmos have agreed to continue exchanging seats between Soyuz and Crew Dragon spacecraft, but that agreement does not yet extend to Starliner. The post NASA and Roscosmos continue seat barter agreement…",
+          "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/10/crew9-approach.jpg?fit=1024%2C687&ssl=1",
+          "keyPoints": [
+            "NASA and Roscosmos have agreed to continue exchanging seats between Soyuz and Crew Dragon spacecraft, but that agreement does not yet extend to Starliner.",
+            "The post NASA and Roscosmos continue seat barter agreement…"
+          ]
+        },
+        {
+          "title": "Monumental Painted Wood Carvings by Jiang Miao Center Mindfulness",
+          "source": "Colossal",
+          "category": "art",
+          "sourceUrl": "https://www.thisiscolossal.com/2026/08/jiang-miao-spiral-of-energy-exhibition-wood-carvings-acrylic-paintings/",
+          "summary": "Whitestone Gallery in Seoul presents the artist's solo exhibition, 'Spiral of Energy.' Do stories and artists like this matter to you? Become a Colossal Member today and support independent arts publishing for as little…",
+          "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/08/miao-1.jpg",
+          "keyPoints": [
+            "Whitestone Gallery in Seoul presents the artist's solo exhibition, 'Spiral of Energy.' Do stories and artists like this matter to you?",
+            "Become a Colossal Member today and support independent arts publishing for as little…"
+          ]
+        },
+        {
+          "title": "Takeda’s narcolepsy drug approved by the FDA, a boon for new class of treatments",
+          "source": "STAT News",
+          "category": "biotech",
+          "sourceUrl": "https://www.statnews.com/2026/08/05/takeda-narcolepsy-drug-fda-approval-orzeyful/?utm_campaign=rss",
+          "summary": "The FDA approved a novel type of treatment for narcolepsy made by Takeda, backing a new drug class that scientists hope can be used to treat other conditions.",
+          "image": "https://www.statnews.com/wp-content/uploads/2026/08/AdobeStock_729644280_Editorial_Use_Only-1024x576.jpeg",
+          "keyPoints": [
+            "The FDA approved a novel type of treatment for narcolepsy made by Takeda, backing a new drug class that scientists hope can be used to treat other conditions."
+          ]
+        },
+        {
+          "title": "What authenticity claims, and what the standard still bars",
+          "source": "Chronicle of Convergence · Editorial",
+          "category": "editorial",
+          "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-04.html",
+          "summary": "Convergence of measured distance and contested scale",
+          "image": "https://img.canarymedia.com/content/uploads/GettyImages-2212809333-2-copy.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=1a7aa3b2de4b12098fc955c3ceadca64",
+          "keyPoints": [
+            "Convergence of measured distance and contested scale"
+          ]
+        },
+        {
+          "title": "Unlocking Hidden Brain Cancer Vaccine Targets",
+          "source": "Neuroscience News",
+          "category": "neuroscience",
+          "sourceUrl": "https://neurosciencenews.com/genetics-brain-cancer-vaccine-targets-31185/",
+          "summary": "A new study uses single-cell long-read sequencing to map hidden genetic isoforms in glioblastoma, unlocking novel targets for personalized cancer vaccines.",
+          "image": "https://neurosciencenews.com/files/2026/08/glioblastoma-targets-genetics-neuroscience-1155x770.jpg",
+          "keyPoints": [
+            "A new study uses single-cell long-read sequencing to map hidden genetic isoforms in glioblastoma, unlocking novel targets for personalized cancer vaccines."
+          ]
+        },
+        {
+          "title": "How to Tell if Your Neighborhood Still Fits Your Life",
+          "source": "Robotics & Automation News",
+          "category": "robotics",
+          "sourceUrl": "https://roboticsandautomationnews.com/2026/08/05/how-to-tell-if-your-neighborhood-still-fits-your-life/103929/",
+          "summary": "Staying in a home you love feels like the obvious move when your mortgage rate is well below today's market. But a house doesn't exist in isolation – the neighborhood around it shapes daily life just as much as the…",
+          "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/rocket-mortgage-1.jpg",
+          "keyPoints": [
+            "Staying in a home you love feels like the obvious move when your mortgage rate is well below today's market.",
+            "But a house doesn't exist in isolation – the neighborhood around it shapes daily life just as much as the…"
+          ]
+        },
+        {
+          "title": "Artemis III Orion Crew and Service Models Joined",
+          "source": "NASA",
+          "category": "space",
+          "sourceUrl": "https://www.nasa.gov/image-article/artemis-iii-orion-crew-and-service-models-joined/",
+          "summary": "Technicians joined the Orion crew and service modules together on July 30, 2026, inside the Neil Armstrong Operations and Checkout Building at NASA's Kennedy Space Center in Florida. The crew module will carry and…",
+          "image": "https://www.nasa.gov/wp-content/uploads/2026/08/ksc-20260730-ph-as01-6583.webp",
+          "keyPoints": [
+            "Technicians joined the Orion crew and service modules together on July 30, 2026, inside the Neil Armstrong Operations and Checkout Building at NASA's Kennedy Space Center in Florida.",
+            "The crew module will carry and…"
+          ]
+        },
+        {
+          "title": "Tiny Faces Surface Amid Sweeping Lines in En Iwamura's Expressive Sculptures",
+          "source": "Colossal",
+          "category": "art",
+          "sourceUrl": "https://www.thisiscolossal.com/2026/08/en-iwamura-expressive-ceramic-sculptures/",
+          "summary": "En Iwamura is interested in the ways we measure and understand the spaces between ourselves and others. Do stories and artists like this matter to you? Become a Colossal Member today and support independent arts…",
+          "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/08/iwamura-1.jpg",
+          "keyPoints": [
+            "En Iwamura is interested in the ways we measure and understand the spaces between ourselves and others.",
+            "Do stories and artists like this matter to you?",
+            "Become a Colossal Member today and support independent arts…"
+          ]
+        }
+      ]
     }
   },
   "history": [
@@ -3600,6 +3780,7 @@
     "https://artsy-media-uploads.s3.amazonaws.com/NqZfSL_jioBJBxKP6dFuhA%2Fkriss+munsya+mag.jpg",
     "https://www.thisiscolossal.com/wp-content/uploads/2026/08/miao-1.jpg",
     "https://www.statnews.com/wp-content/uploads/2026/08/AdobeStock_551617477-1024x576.jpeg",
-    "https://neurosciencenews.com/files/2026/08/nonordinary-expeirnece-personal-growth-neuroscience-1155x770.jpg"
+    "https://neurosciencenews.com/files/2026/08/nonordinary-expeirnece-personal-growth-neuroscience-1155x770.jpg",
+    "https://www.statnews.com/wp-content/uploads/2025/05/AdobeStock_525738206_Editorial_Use_Only-1024x576.jpeg"
   ]
 }

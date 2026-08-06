@@ -1,81 +1,61 @@
 [
   {
-    "batchId": "editorial_2026-08-04",
-    "scannedAt": "2026-08-05T03:26:34.131Z",
-    "kind": "editorial_archive",
+    "batchId": "auto_2026-08-06T06-19",
+    "scannedAt": "2026-08-06T06:19:11.656Z",
     "items": [
       {
-        "id": "editorial_2026-08-04",
-        "rank": 0,
-        "title": "What authenticity claims, and what the standard still bars",
-        "category": "editorial",
-        "summary": "Convergence of measured distance and contested scale",
-        "image": "https://img.canarymedia.com/content/uploads/GettyImages-2212809333-2-copy.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=1a7aa3b2de4b12098fc955c3ceadca64",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-04.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-08-04",
-        "authorName": "Dr. Wallace Lynch"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-08-06T01-11",
-    "scannedAt": "2026-08-06T01:11:12.341Z",
-    "items": [
-      {
-        "id": "auto_2026-08-06T01-11_1",
+        "id": "auto_2026-08-06T06-19_1",
         "rank": 1,
-        "title": "New Glenn explosion linked to rocket engine valve",
-        "category": "space",
-        "summary": "Blue Origin has traced the explosion of its New Glenn rocket during a static-fire test in May to a valve in the rocket’s BE-4 engine. The post New Glenn explosion linked to rocket engine valve appeared first on…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2021/08/BlueOrigin_BE4_EngineLineup.jpg?fit=1000%2C562&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/new-glenn-explosion-linked-to-rocket-engine-valve/",
+        "title": "AI or real? BBC analyses viral China disaster videos",
+        "category": "general",
+        "summary": "As weather events become more extreme, fake videos are being shared rapidly online, and it’s causing real world problems in China.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2dd0/live/a8283870-9152-11f1-a7ab-8b30adf0800a.jpg",
+        "source": "BBC Technology",
+        "sourceUrl": "https://www.bbc.co.uk/news/videos/c4g3505memlo?at_medium=RSS&at_campaign=rss",
         "fromX": false
       },
       {
-        "id": "auto_2026-08-06T01-11_2",
+        "id": "auto_2026-08-06T06-19_2",
         "rank": 2,
-        "title": "Nonordinary Experiences Lead to Long-Term Personal Growth",
+        "title": "THC medication made PTSD nightmares disappear for more than a third of patients",
         "category": "neuroscience",
-        "summary": "A new study demonstrates that over half of people reporting nonordinary experiences experience positive long-term effects, showing that personal appraisal dictates outcome.",
-        "image": "https://neurosciencenews.com/files/2026/08/nonordinary-expeirnece-personal-growth-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/nonordinary-experiences-personal-growth-31188/",
+        "summary": "A prescription form of THC helped many people with PTSD escape recurring trauma-related nightmares, with more than one-third reporting that the nightmares disappeared completely after ten weeks. The results could point…",
+        "image": "https://www.sciencedaily.com/images/1920/man-scared-in-bed.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260805082450.htm",
         "fromX": false
       },
       {
-        "id": "auto_2026-08-06T01-11_3",
+        "id": "auto_2026-08-06T06-19_3",
         "rank": 3,
-        "title": "STAT+: Federal regulators invite industry, researchers, and lobbyists to closed-door meetings on clinical AI",
-        "category": "biotech",
-        "summary": "Federal health officials invited tech companies and lobbyists to closed-door meetings as they seek to boost adoption of clinical AI.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/08/AdobeStock_551617477-1024x576.jpeg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/08/05/federal-regulators-invite-industry-closed-door-meetings-clinical-ai/?utm_campaign=rss",
+        "title": "NASA and Roscosmos continue seat barter agreement",
+        "category": "space",
+        "summary": "NASA and Roscosmos have agreed to continue exchanging seats between Soyuz and Crew Dragon spacecraft, but that agreement does not yet extend to Starliner. The post NASA and Roscosmos continue seat barter agreement…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/10/crew9-approach.jpg?fit=1024%2C687&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/nasa-and-roscosmos-continue-seat-barter-agreement/",
         "fromX": false
       },
       {
-        "id": "auto_2026-08-06T01-11_4",
+        "id": "auto_2026-08-06T06-19_4",
         "rank": 4,
-        "title": "5 Artists to Follow at Foundations 2026",
-        "category": "art",
-        "summary": "Vegetable Venus, 2026 Xanthe Burdett Wilder Gallery This month on Artsy, Foundations 2026 has launched: a curated showcase highlighting artists at the beginning of their careers. With over 240 artists from around the…",
-        "image": "https://artsy-media-uploads.s3.amazonaws.com/NqZfSL_jioBJBxKP6dFuhA%2Fkriss+munsya+mag.jpg",
-        "source": "Artsy",
-        "sourceUrl": "https://www.artsy.net/article/artsy-editorial-5-artists-follow-foundations-2026",
+        "title": "FDA approves Moderna’s mRNA flu vaccine, the first to use the technology",
+        "category": "biotech",
+        "summary": "The FDA has approved Moderna’s influenza vaccine, the first licensed flu shot made using messenger RNA technology.",
+        "image": "https://www.statnews.com/wp-content/uploads/2025/05/AdobeStock_525738206_Editorial_Use_Only-1024x576.jpeg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/08/05/fda-approves-moderna-mflusiva-first-mrna-flu-vaccine/?utm_campaign=rss",
         "fromX": false
       },
       {
-        "id": "auto_2026-08-06T01-11_5",
+        "id": "auto_2026-08-06T06-19_5",
         "rank": 5,
-        "title": "Smart Home Automation Solutions: How to Build a System That Actually Works Together",
+        "title": "Claude Fable 5 AI finds a tiny formula that topples an 87-year-old math conjecture",
         "category": "robotics",
-        "summary": "Quick Answer A connected home works when the network layer is designed before the devices are chosen. Start by mapping which functions must run locally, then select a single primary protocol and a hub that speaks to it…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/home-automation-2.png",
-        "source": "Robotics & Automation News",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/05/smart-home-automation-solutions-how-to-build-a-system-that-actually-works-together/103921/",
+        "summary": "A mathematician working at Anthropic says he used the AI model Claude Fable 5 to uncover a remarkably simple counterexample to the Jacobian conjecture, a famous problem that has resisted mathematicians for more than a…",
+        "image": "https://www.sciencedaily.com/images/1920/humanoid-ai-robot-hologram-screen-solving-physics-math-problems.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260804034634.htm",
         "fromX": false
       }
     ]
@@ -138,6 +118,26 @@
         "source": "NASA",
         "sourceUrl": "https://www.nasa.gov/image-article/artemis-iii-orion-crew-and-service-models-joined/",
         "fromX": false
+      }
+    ]
+  },
+  {
+    "batchId": "editorial_2026-08-04",
+    "scannedAt": "2026-08-05T03:26:34.131Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-08-04",
+        "rank": 0,
+        "title": "What authenticity claims, and what the standard still bars",
+        "category": "editorial",
+        "summary": "Convergence of measured distance and contested scale",
+        "image": "https://img.canarymedia.com/content/uploads/GettyImages-2212809333-2-copy.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=1a7aa3b2de4b12098fc955c3ceadca64",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-04.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-08-04",
+        "authorName": "Dr. Wallace Lynch"
       }
     ]
   },
