@@ -1,5 +1,25 @@
 [
   {
+    "batchId": "editorial_2026-08-04",
+    "scannedAt": "2026-08-05T03:26:34.131Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-08-04",
+        "rank": 0,
+        "title": "What authenticity claims, and what the standard still bars",
+        "category": "editorial",
+        "summary": "Convergence of measured distance and contested scale",
+        "image": "https://img.canarymedia.com/content/uploads/GettyImages-2212809333-2-copy.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=1a7aa3b2de4b12098fc955c3ceadca64",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-04.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-08-04",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-08-06T01-11",
     "scannedAt": "2026-08-06T01:11:12.341Z",
     "items": [
