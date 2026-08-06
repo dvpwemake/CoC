@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-07-06T21-16",
+    "scannedAt": "2026-07-06T21:16:53.423Z",
+    "items": [
+      {
+        "id": "auto_2026-07-06T21-16_1",
+        "rank": 1,
+        "title": "STAT+: Vertex acquires Crinetics Pharmaceuticals for $10 billion as biotech M&#038;A booms",
+        "category": "biotech",
+        "summary": "Vertex Pharmaceuticals will spend $10 billion to acquire Crinetics Pharmaceuticals and its drug for a rare endocrine disorder, the companies announced.",
+        "image": "https://www.statnews.com/wp-content/uploads/2024/07/AP20023802262338-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/07/06/vertex-acquires-crinetics-pharmaceuticals/?utm_campaign=rss",
+        "imageProxy": "https://images.weserv.nl/?url=www.statnews.com%2Fwp-content%2Fuploads%2F2024%2F07%2FAP20023802262338-1024x576.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-07-06T21-16_2",
+        "rank": 2,
+        "title": "Mediterranean Diet Boosts Psychological Well-Being Over Age 50",
+        "category": "neuroscience",
+        "summary": "A new study demonstrates that adherence to a Mediterranean diet significantly boosts positive psychological well-being (autonomy, purpose, and self-realization) in people over 50. The research proved this protective…",
+        "image": "https://neurosciencenews.com/files/2026/07/med-diet-wellbeing-aging-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/mediterranean-diet-psychological-well-being-31003/",
+        "imageProxy": "https://images.weserv.nl/?url=neurosciencenews.com%2Ffiles%2F2026%2F07%2Fmed-diet-wellbeing-aging-neuroscience-1155x770.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-07-06T21-16_3",
+        "rank": 3,
+        "title": "NASA Takes Flight For America's 250th",
+        "category": "space",
+        "summary": "NASA Administrator Jared Isaacman leads a flyover featuring his personally owned Northrop F-5 Tiger during the Great American State Fair on July 4, 2026, on the National Mall in Washington, D.C. For 250 years, America…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/07/55374566234-d7c31b6e97-o.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/image-article/nasa-takes-flight-for-americas-250th/",
+        "imageProxy": "https://images.weserv.nl/?url=www.nasa.gov%2Fwp-content%2Fuploads%2F2026%2F07%2F55374566234-d7c31b6e97-o.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-07-06T21-16_4",
+        "rank": 4,
+        "title": "Your family's $300 stake in OpenAI",
+        "category": "ai",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/openai-money.jpg?resize=1200,600",
+        "source": "MIT Technology Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+        "imageProxy": "https://images.weserv.nl/?url=wp.technologyreview.com%2Fwp-content%2Fuploads%2F2026%2F07%2Fopenai-money.jpg%3Fresize%3D1200%2C600&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-07-06T21-16_5",
+        "rank": 5,
+        "title": "Duke Energy proposes special rules for data centers in North Carolina",
+        "category": "energy",
+        "summary": "For months, clean energy and consumer advocates in North Carolina have pressed Duke Energy to follow the national trend and create special rules and prices for data centers. The state’s predominant utility insisted such…",
+        "image": "https://img.canarymedia.com/content/uploads/GettyImages-1235716373-copy.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=e38c5f8952dedbee4f8ce130af32bf5e",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/data-centers/duke-energy-proposes-special-rules-for-data-centers-in-north-carolina",
+        "imageProxy": "https://images.weserv.nl/?url=img.canarymedia.com%2Fcontent%2Fuploads%2FGettyImages-1235716373-copy.jpeg%3Fauto%3Dcompress%252Cformat%26crop%3Dfocalpoint%26fit%3Dcrop%26fp-x%3D0.5%26fp-y%3D0.5%26h%3D630%26q%3D82%26w%3D1200%26s%3De38c5f8952dedbee4f8ce130af32bf5e&w=640&h=400&fit=cover&we&output=jpg"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-07-05T20-43",
     "scannedAt": "2026-07-05T20:43:42.103Z",
     "items": [
@@ -1175,66 +1236,5 @@
       }
     ],
     "batchId": "b1781018672553"
-  },
-  {
-    "scannedAt": "2026-06-08T22:45:19.218Z",
-    "items": [
-      {
-        "id": "b1780958719218_1",
-        "rank": 1,
-        "title": "Apple's Revolutionary WWDC 2026: Gemini-Powered Siri and Multi-AI iOS 27 System",
-        "category": "ai",
-        "summary": "Apple CEO Tim Cook's final keynote unveiled a completely rebuilt Siri powered by a custom 1.2-trillion-parameter Google Gemini model, iOS 27 with multi-AI extensions system allowing Claude on iPhone for the first time, and comprehensive AI integration across all Apple platforms. The announcement represents a fundamental shift in Apple's AI strategy and marks the largest consumer AI deployment in history.",
-        "source": "BuildFastWithAI",
-        "sourceUrl": "https://www.buildfastwithai.com/blogs/ai-news-today-june-8-2026",
-        "image": "https://oukdqujzonxvqhiefdsv.supabase.co/storage/v1/object/public/blogs/b5f45e55-886b-4de9-89ed-1155c3dacd3b.png",
-        "imageProxy": "https://images.weserv.nl/?url=oukdqujzonxvqhiefdsv.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fblogs%2Fb5f45e55-886b-4de9-89ed-1155c3dacd3b.png&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "b1780958719218_2",
-        "rank": 2,
-        "title": "NASA's X-59 Supersonic Jet Breaks Sound Barrier for First Time",
-        "category": "space",
-        "summary": "NASA's experimental X-59 aircraft successfully broke the sound barrier for the first time on June 5, 2026, reaching Mach 1.1 and paving the way for commercial supersonic flight. The aircraft is designed to replace thunderous sonic booms with quieter sonic thumps, potentially revolutionizing air travel and marking a major milestone in aviation technology.",
-        "source": "Space.com",
-        "sourceUrl": "https://www.nasa.gov/aeronautics/x-59-first-supersonic-flight/",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/06/x59-first-supersonic-flight-m-1-077-clean-high.jpg",
-        "imageProxy": "https://images.weserv.nl/?url=www.nasa.gov%2Fwp-content%2Fuploads%2F2026%2F06%2Fx59-first-supersonic-flight-m-1-077-clean-high.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "b1780958719218_3",
-        "rank": 3,
-        "title": "Breakthrough Hydrogen Production Method Turns Waste Heat Into Clean Fuel",
-        "category": "energy",
-        "summary": "University of Birmingham researchers developed a revolutionary perovskite-based catalyst that splits water into hydrogen at temperatures between 150-500°C, dramatically lower than existing technologies. This breakthrough could enable factories, steel plants, and renewable energy sites to convert waste heat into valuable hydrogen fuel, potentially transforming clean energy production economics.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260601025345.htm",
-        "image": "https://www.sciencedaily.com/images/1920/green-energy-hydrogen-pipelines-wind-turbines.webp",
-        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fgreen-energy-hydrogen-pipelines-wind-turbines.webp&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "b1780958719218_4",
-        "rank": 4,
-        "title": "Scientists Identify Two Distinct Autism Subtypes Through Brain Connectivity Patterns",
-        "category": "neuroscience",
-        "summary": "Researchers from Italian Institute of Technology and Child Mind Institute discovered that autism includes at least two biologically distinct subtypes, each marked by different brain communication patterns. Using brain scans from nearly 1,000 people with autism, the study provides the first large-scale effort to connect human brain imaging patterns with underlying biological causes, opening pathways for precision medicine in autism treatment.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260602021634.htm",
-        "image": "https://www.sciencedaily.com/images/1920/brain-scan-color-black-and-white.webp",
-        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fbrain-scan-color-black-and-white.webp&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "b1780958719218_5",
-        "rank": 5,
-        "title": "Advanced In Vivo CAR-T Cell Therapy Shows Promise for Cancer Treatment",
-        "category": "biotech",
-        "summary": "New in vivo CAR-T cell therapy approaches are revolutionizing cancer treatment by generating therapeutic T cells directly inside patients' bodies rather than requiring complex external manufacturing. Early human trials demonstrate dramatically improved scalability, lower costs, and faster treatment times, moving from weeks-long processes to single infusions while potentially avoiding treatment-related exhaustion.",
-        "source": "Atlantis Bioscience",
-        "sourceUrl": "https://www.atlantisbioscience.com/blog/2026-biotech-outlook-10-breakthrough-trends-scientists-need-to-watch/",
-        "image": "https://www.atlantisbioscience.com/wp-content/uploads/2025/11/2026-Biotech-Outlook.webp",
-        "imageProxy": "https://images.weserv.nl/?url=www.atlantisbioscience.com%2Fwp-content%2Fuploads%2F2025%2F11%2F2026-Biotech-Outlook.webp&w=640&h=400&fit=cover&we&output=jpg"
-      }
-    ],
-    "batchId": "b1780958719218"
   }
 ]

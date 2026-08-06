@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-08-06T01-11",
+    "scannedAt": "2026-08-06T01:11:12.341Z",
+    "items": [
+      {
+        "id": "auto_2026-08-06T01-11_1",
+        "rank": 1,
+        "title": "New Glenn explosion linked to rocket engine valve",
+        "category": "space",
+        "summary": "Blue Origin has traced the explosion of its New Glenn rocket during a static-fire test in May to a valve in the rocket’s BE-4 engine. The post New Glenn explosion linked to rocket engine valve appeared first on…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2021/08/BlueOrigin_BE4_EngineLineup.jpg?fit=1000%2C562&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/new-glenn-explosion-linked-to-rocket-engine-valve/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-06T01-11_2",
+        "rank": 2,
+        "title": "Nonordinary Experiences Lead to Long-Term Personal Growth",
+        "category": "neuroscience",
+        "summary": "A new study demonstrates that over half of people reporting nonordinary experiences experience positive long-term effects, showing that personal appraisal dictates outcome.",
+        "image": "https://neurosciencenews.com/files/2026/08/nonordinary-expeirnece-personal-growth-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/nonordinary-experiences-personal-growth-31188/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-06T01-11_3",
+        "rank": 3,
+        "title": "STAT+: Federal regulators invite industry, researchers, and lobbyists to closed-door meetings on clinical AI",
+        "category": "biotech",
+        "summary": "Federal health officials invited tech companies and lobbyists to closed-door meetings as they seek to boost adoption of clinical AI.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/08/AdobeStock_551617477-1024x576.jpeg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/08/05/federal-regulators-invite-industry-closed-door-meetings-clinical-ai/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-06T01-11_4",
+        "rank": 4,
+        "title": "5 Artists to Follow at Foundations 2026",
+        "category": "art",
+        "summary": "Vegetable Venus, 2026 Xanthe Burdett Wilder Gallery This month on Artsy, Foundations 2026 has launched: a curated showcase highlighting artists at the beginning of their careers. With over 240 artists from around the…",
+        "image": "https://artsy-media-uploads.s3.amazonaws.com/NqZfSL_jioBJBxKP6dFuhA%2Fkriss+munsya+mag.jpg",
+        "source": "Artsy",
+        "sourceUrl": "https://www.artsy.net/article/artsy-editorial-5-artists-follow-foundations-2026",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-06T01-11_5",
+        "rank": 5,
+        "title": "Smart Home Automation Solutions: How to Build a System That Actually Works Together",
+        "category": "robotics",
+        "summary": "Quick Answer A connected home works when the network layer is designed before the devices are chosen. Start by mapping which functions must run locally, then select a single primary protocol and a hub that speaks to it…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/home-automation-2.png",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/05/smart-home-automation-solutions-how-to-build-a-system-that-actually-works-together/103921/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-08-05T20-52",
     "scannedAt": "2026-08-05T20:52:25.430Z",
     "items": [
@@ -928,26 +989,6 @@
         "source": "X · @web3l0var",
         "sourceUrl": "https://x.com/web3l0var/status/2079909448219271368",
         "fromX": true
-      }
-    ]
-  },
-  {
-    "batchId": "editorial_2026-07-24",
-    "scannedAt": "2026-07-25T02:54:54.620Z",
-    "kind": "editorial_archive",
-    "items": [
-      {
-        "id": "editorial_2026-07-24",
-        "rank": 0,
-        "title": "After the Error",
-        "category": "editorial",
-        "summary": "When machines flood the interval that judgment needs most.",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/55090240803_a555b0ee7e_k.jpg?fit=1024%2C683&ssl=1",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-07-24.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-07-24",
-        "authorName": "Dr. Wallace Lynch"
       }
     ]
   }
