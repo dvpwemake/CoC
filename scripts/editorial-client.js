@@ -69,7 +69,9 @@
     biotech: 'Biotech',
     space: 'Space',
     energy: 'Energy',
-    neuroscience: 'Neuroscience'
+    neuroscience: 'Neuroscience',
+    general: 'General',
+    editorial: 'Editorial'
   };
 
   function nyParts(date) {

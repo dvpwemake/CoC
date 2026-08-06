@@ -121,7 +121,8 @@
     },
     "art": {
       "feeds": [
-        { "name": "The Art Newspaper", "url": "https://www.theartnewspaper.com/rss" },
+        { "name": "The Art Newspaper", "url": "https://www.theartnewspaper.com/rss.xml" },
+        { "name": "Artforum", "url": "https://www.artforum.com/feed" },
         { "name": "Colossal", "url": "https://www.thisiscolossal.com/feed/" },
         { "name": "Artsy", "url": "https://www.artsy.net/rss/news" }
       ],
@@ -129,11 +130,31 @@
         "enabled": true,
         "queries": [
           "(art OR museum OR exhibition OR artist) (AI OR digital OR culture OR opens) -is:reply -is:retweet filter:has_engagement",
-          "from:TheArtNewspaper OR from:colossal OR from:artsy -is:reply"
+          "from:TheArtNewspaper OR from:artforum OR from:colossal OR from:artsy -is:reply"
         ],
-        "accounts": ["TheArtNewspaper", "colossal", "artsy"],
+        "accounts": ["TheArtNewspaper", "artforum", "colossal", "artsy"],
         "limit": 5,
         "min_faves": 5
+      }
+    },
+    "general": {
+      "feeds": [
+        { "name": "CES (ces.tech)", "url": "https://news.google.com/rss/search?q=site:ces.tech+OR+%22Consumer+Electronics+Show%22+OR+CES+when:30d&hl=en-US&gl=US&ceid=US:en", "site": "https://www.ces.tech" },
+        { "name": "BBC Technology", "url": "https://feeds.bbci.co.uk/news/technology/rss.xml" },
+        { "name": "WIRED", "url": "https://www.wired.com/feed/rss" },
+        { "name": "Ars Technica", "url": "https://feeds.arstechnica.com/arstechnica/index" },
+        { "name": "The Verge", "url": "https://www.theverge.com/rss/index.xml" },
+        { "name": "NYT Technology", "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml" }
+      ],
+      "x": {
+        "enabled": true,
+        "queries": [
+          "(CES OR \"consumer electronics\" OR tech OR technology) (news OR launch OR industry) -is:reply -is:retweet filter:has_engagement",
+          "from:CTAtech OR from:WIRED OR from:verge -is:reply"
+        ],
+        "accounts": ["CTAtech", "WIRED", "verge", "arstechnica"],
+        "limit": 5,
+        "min_faves": 10
       }
     }
   }

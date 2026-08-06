@@ -19,7 +19,7 @@
   --bg:#060609;--bg-card:#0e0e14;--bg-input:#12121a;--bg-hover:#15151e;
   --text:#eae8e3;--text-dim:#9a9aaa;--border:#1e1e2a;--accent:#00e5ff;
   --danger:#ff2d87;--success:#39ff14;--warning:#ffd600;
-  --ai:#00e5ff;--robotics:#ff2d87;--biotech:#39ff14;--space:#b388ff;--energy:#ffd600;--neuro:#ff6e40;--art:#c4a882;
+  --ai:#00e5ff;--robotics:#ff2d87;--biotech:#39ff14;--space:#b388ff;--energy:#ffd600;--neuro:#ff6e40;--art:#c4a882;--general:#8a9bb0;
   --font-serif:'Instrument Serif',Georgia,serif;--font-sans:'Outfit',system-ui,sans-serif;--font-mono:'JetBrains Mono',ui-monospace,monospace;
   --fs-root:18px;
   --fs-meta:.85rem;      /* ~15px */
@@ -124,7 +124,7 @@ button,input,select,textarea{font-size:inherit}
 .news-desk-scope{display:flex;flex-wrap:wrap;gap:.65rem;align-items:center;margin:0 0 .85rem;font-size:var(--fs-ui)}
 .news-desk-scope label{display:inline-flex;align-items:center;gap:.35rem;cursor:pointer;color:var(--text)}
 .news-desk-scope input{width:1.1rem;height:1.1rem;accent-color:var(--accent)}
-.eic.ai{color:var(--ai)}.eic.robotics{color:var(--robotics)}.eic.biotech{color:var(--biotech)}.eic.space{color:var(--space)}.eic.energy{color:var(--energy)}.eic.neuroscience{color:var(--neuro)}.eic.art{color:var(--art)}
+.eic.ai{color:var(--ai)}.eic.robotics{color:var(--robotics)}.eic.biotech{color:var(--biotech)}.eic.space{color:var(--space)}.eic.energy{color:var(--energy)}.eic.neuroscience{color:var(--neuro)}.eic.art{color:var(--art)}.eic.general{color:var(--general)}.eic.editorial{color:var(--gold)}
 
 .main{padding:2rem 2.5rem;max-width:880px}
 .ph{display:flex;align-items:center;justify-content:space-between;margin-bottom:1.5rem;padding-bottom:1rem;border-bottom:1px solid var(--border)}
@@ -334,7 +334,7 @@ button,input,select,textarea{font-size:inherit}
   </div>
   <div id="eForm" style="display:none">
     <div class="ph"><h2 class="pt" id="fTitle">New Entry</h2><button class="btn btn-d" onclick="delE()" id="delBtn">✕ Delete</button></div>
-    <div class="fr"><div class="fg"><label class="fl">Rank</label><input type="number" class="fi" id="fR" min="1" max="5" value="1"></div><div class="fg"><label class="fl">Category</label><select class="fsel" id="fC"><option value="ai">AI</option><option value="art">Art</option><option value="robotics">Robotics</option><option value="biotech">Biotech</option><option value="space">Space Tech</option><option value="energy">Energy</option><option value="neuroscience">Neuroscience</option><option value="editorial">Editorial</option></select></div></div>
+    <div class="fr"><div class="fg"><label class="fl">Rank</label><input type="number" class="fi" id="fR" min="1" max="5" value="1"></div><div class="fg"><label class="fl">Category</label><select class="fsel" id="fC"><option value="ai">AI</option><option value="art">Art</option><option value="robotics">Robotics</option><option value="biotech">Biotech</option><option value="space">Space Tech</option><option value="energy">Energy</option><option value="neuroscience">Neuroscience</option><option value="general">General</option><option value="editorial">Editorial</option></select></div></div>
     <div class="fg"><label class="fl">Headline</label><textarea class="fta" id="fT" placeholder="Breakthrough headline…"></textarea></div>
     <div class="fg"><label class="fl">Summary</label><textarea class="fta" id="fS" placeholder="1–2 sentence summary…" style="min-height:40px"></textarea></div>
     <div class="fg"><label class="fl">Image URL</label><div style="display:flex;gap:.4rem;margin-bottom:.3rem"><input type="url" class="fi" id="fI" placeholder="https://…" style="flex:1"><button type="button" class="btn" onclick="pullImg()" title="Fetch og:image from Source URL">↻ From article</button></div><div class="ip" id="imgP"><span class="ph-t">Preview</span></div></div>
@@ -499,7 +499,8 @@ async function pullImg(){
 function saveAutoPub(){localStorage.setItem(APK,document.getElementById('autoPub').checked)}
 
 const SRC_LS_KEY='coc_sources_override';
-const SRC_CATS=['ai','robotics','biotech','space','energy','neuroscience','art'];
+const SRC_CATS=['ai','robotics','biotech','space','energy','neuroscience','art','general'];
+const VALID_ITEM_CATS=['ai','art','robotics','biotech','space','energy','neuroscience','general','editorial'];
 
 async function loadSources(force){
   if(!force && sourcesCfg)return sourcesCfg;
@@ -577,7 +578,7 @@ function renderCrawlList(){
         <button type="button" class="btn btn-d" onclick="removeFeed('${cat}',${i})">✕</button>
       </div>`).join('')||'<p style="font-family:var(--font-sans);font-size:var(--fs-meta);color:var(--text-dim);margin:.25rem 0">No feeds — add one</p>';
     return `<div class="src-cat" data-cat="${cat}">
-      <h3>${cat}</h3>
+      <h3>${fC(cat)||cat}</h3>
       ${rows}
       <button type="button" class="btn" onclick="addFeed('${cat}')" style="margin-top:.25rem">+ Add feed</button>
     </div>`;
@@ -733,7 +734,7 @@ async function doScan(){
     });
     if(!items.length)throw new Error('No articles found');
     const now=new Date(),bId='batch_'+now.toISOString().replace(/[:.]/g,'-').slice(0,16);
-    const nb={batchId:bId,scannedAt:now.toISOString(),items:items.map((x,i)=>scrubItem({id:bId+'_'+(i+1),rank:x.rank||(i+1),title:(x.title||'').slice(0,150),category:['ai','art','robotics','biotech','space','energy','neuroscience'].includes(x.category)?x.category:'ai',summary:x.summary||'',image:x.image||'',source:x.source||'',sourceUrl:x.sourceUrl||'#',fromX:!!x.fromX}))};
+    const nb={batchId:bId,scannedAt:now.toISOString(),items:items.map((x,i)=>scrubItem({id:bId+'_'+(i+1),rank:x.rank||(i+1),title:(x.title||'').slice(0,150),category:VALID_ITEM_CATS.includes(x.category)?x.category:'ai',summary:x.summary||'',image:x.image||'',source:x.source||'',sourceUrl:x.sourceUrl||'#',fromX:!!x.fromX}))};
     items.forEach(it=>addLog('ok',`#${it.rank} [${it.category}]${it.fromX?' [X]':''} ${it.source}: ${it.title.slice(0,50)}`));
     B.unshift(nb);persist();renderBL();
     openNewsDesk(false);
@@ -1149,7 +1150,7 @@ function hide(){
 }
 function clrF(){['fR','fT','fS','fI','fSr','fSu','fB'].forEach(id=>document.getElementById(id).value='');document.getElementById('fC').value='ai';updImg('')}
 function updImg(u){const a=document.getElementById('imgP');if(!u){a.innerHTML='<span class="ph-t">Preview</span>';return}a.innerHTML='<img referrerpolicy="no-referrer">';const img=a.querySelector('img');img.src=u;img.onerror=function(){if(!this.dataset.proxy){this.dataset.proxy='1';this.src='https://images.weserv.nl/?url='+encodeURIComponent(u.replace(/^https?:\/\//,''))+'&w=640&fit=cover';return}this.parentElement.innerHTML='<span class="ph-t">Failed</span>'}}
-function fC(c){return{ai:'AI',art:'Art',robotics:'Robotics',biotech:'Biotech',space:'Space Tech',energy:'Energy',neuroscience:'Neuroscience',editorial:'Editorial'}[c]||c}
+function fC(c){return{ai:'AI',art:'Art',robotics:'Robotics',biotech:'Biotech',space:'Space Tech',energy:'Energy',neuroscience:'Neuroscience',general:'General',editorial:'Editorial'}[c]||c}
 
 /* ═══ IMAGE ADJUSTMENT — all field-signal head images ═══ */
 function escAttr(s){return String(s||'').replace(/&/g,'&amp;').replace(/"/g,'&quot;').replace(/</g,'&lt;')}
