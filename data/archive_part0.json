@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-08-07T00-49",
+    "scannedAt": "2026-08-07T00:49:14.956Z",
+    "items": [
+      {
+        "id": "auto_2026-08-07T00-49_1",
+        "rank": 1,
+        "title": "French Streamers Convicted in Case Related to Kick Livestream Death",
+        "category": "general",
+        "summary": "The two men, users of the platform Kick, received suspended sentences and fines.",
+        "image": "https://static01.nyt.com/images/2026/08/06/multimedia/06xp-french-streamers-promo/06xp-french-streamers-promo-mediumSquareAt3X.png",
+        "source": "NYT Technology",
+        "sourceUrl": "https://www.nytimes.com/2026/08/06/world/europe/french-streamers-kick-death-convicted.html",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-07T00-49_2",
+        "rank": 2,
+        "title": "Lidar analysis reveals more than 20,000 pre-colonial earthworks under Amazonian rainforest",
+        "category": "art",
+        "summary": "A new study based on aerial surveys suggests the pre-Columbian Aquiry civilisation had a much more developed and dispersed footprint than previously thought",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/d7718a930f51cf909c4f6b083dc9ce4ce3ddb82d-2000x1375.jpg?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/08/06/ancient-earthworks-amazonian-earthworks-aquiry-civilisation-lidar-brazil",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-07T00-49_3",
+        "rank": 3,
+        "title": "The Pentagon's wind farm blockade is over — for now",
+        "category": "energy",
+        "summary": "The U.S. Department of Defense has for months refused to conduct routine military evaluations of proposed onshore wind farms, creating a de facto moratorium on the clean energy source at a time of exploding electricity…",
+        "image": "https://img.canarymedia.com/content/uploads/Wind-turbine-in-Iowa-cornfield_-GettyImages-2223833526.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=60a4edd0a6500cae428f30e5fce4f08a",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/wind/pentagon-wind-farm-blockade-over",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-07T00-49_4",
+        "rank": 4,
+        "title": "Peripheral Blood Cells Replenish Aging Human Microglia",
+        "category": "neuroscience",
+        "summary": "Peripheral blood-derived immune cells cross into the aging human brain and transform into functional microglia.",
+        "image": "https://neurosciencenews.com/files/2026/08/microglia-blood-aging-neurosciene-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/blood-cells-aging-microglia-31195/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-07T00-49_5",
+        "rank": 5,
+        "title": "Interview with Icarus Robotics co-founder Jamie Palmer: Building a ‘robotic labor force for space’",
+        "category": "robotics",
+        "summary": "As governments and private companies accelerate plans for commercial space stations, orbital manufacturing and eventually lunar infrastructure, one question is becoming increasingly important: who – or what – will do…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/ISS-1.jpeg",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/06/interview-with-icarus-robotics-co-founder-jamie-palmer-building-a-robotic-labor-force-for-space/103978/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-08-06T13-25",
     "scannedAt": "2026-08-06T13:25:47.922Z",
     "items": [

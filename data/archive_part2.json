@@ -1,65 +1,5 @@
 [
   {
-    "batchId": "auto_2026-07-07T21-11",
-    "scannedAt": "2026-07-07T21:11:48.248Z",
-    "items": [
-      {
-        "id": "auto_2026-07-07T21-11_1",
-        "rank": 1,
-        "title": "Quaise Energy raises $134M to fuel superhot geothermal ambitions",
-        "category": "energy",
-        "summary": "Startup Quaise Energy has raised $134 million to advance its first superhot geothermal power plant in central Oregon. On Tuesday, the Houston-based company announced the first tranche of its Series B financing round,…",
-        "image": "https://img.canarymedia.com/content/uploads/QUAISE0-00-43-08.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=708c5436eef1c33f18a9c60e57544b02",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/geothermal/quaise-energy-raises-134m",
-        "imageProxy": "https://images.weserv.nl/?url=img.canarymedia.com%2Fcontent%2Fuploads%2FQUAISE0-00-43-08.jpg%3Fauto%3Dcompress%252Cformat%26crop%3Dfocalpoint%26fit%3Dcrop%26fp-x%3D0.5%26fp-y%3D0.5%26h%3D630%26q%3D82%26w%3D1200%26s%3D708c5436eef1c33f18a9c60e57544b02&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-07T21-11_2",
-        "rank": 2,
-        "title": "NASA Transfers ‘Hundred Acre Wood’ to Patuxent Research Refuge",
-        "category": "space",
-        "summary": "NASA ceremonially transferred ownership of about 105 acres of wooded land at its Goddard Space Flight Center’s Greenbelt, Maryland, campus Tuesday to the adjoining Patuxent Research Refuge, managed by the U.S. Fish and…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/07/gsfc-20260707-signingevent-2026-10452-13.jpg",
-        "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/centers-and-facilities/goddard/nasa-transfers-hundred-acre-wood-to-patuxent-research-refuge/",
-        "imageProxy": "https://images.weserv.nl/?url=www.nasa.gov%2Fwp-content%2Fuploads%2F2026%2F07%2Fgsfc-20260707-signingevent-2026-10452-13.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-07T21-11_3",
-        "rank": 3,
-        "title": "STAT+: FDA approves Vera Therapeutics kidney disease treatment",
-        "category": "biotech",
-        "summary": "The FDA approved a new medicine from the biotech company Vera Therapeutics for patients with a type of chronic autoimmune kidney disease.",
-        "image": "https://www.statnews.com/wp-content/uploads/2022/12/AdobeStock_61891029-1024x576.jpeg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/07/07/vera-therapeutics-kidney-disease-treatment-approval/?utm_campaign=rss",
-        "imageProxy": "https://images.weserv.nl/?url=www.statnews.com%2Fwp-content%2Fuploads%2F2022%2F12%2FAdobeStock_61891029-1024x576.jpeg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-07T21-11_4",
-        "rank": 4,
-        "title": "The foundational elements of AI architecture that IT leaders need to scale",
-        "category": "ai",
-        "summary": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces risk, leaving IT…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/iStock-2216481617_7fbe0d.jpg?resize=1200,600",
-        "source": "MIT Technology Review",
-        "sourceUrl": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
-        "imageProxy": "https://images.weserv.nl/?url=wp.technologyreview.com%2Fwp-content%2Fuploads%2F2026%2F06%2FiStock-2216481617_7fbe0d.jpg%3Fresize%3D1200%2C600&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-07T21-11_5",
-        "rank": 5,
-        "title": "Hypothalamic specification in a dish",
-        "category": "neuroscience",
-        "summary": "Nature Neuroscience, Published online: 06 July 2026; doi:10.1038/s41593-026-02370-5 Hypothalamic specification in a dish",
-        "image": "",
-        "source": "Nature Neuroscience",
-        "sourceUrl": "https://www.nature.com/articles/s41593-026-02370-5"
-      }
-    ]
-  },
-  {
     "batchId": "auto_2026-07-06T21-16",
     "scannedAt": "2026-07-06T21:16:53.423Z",
     "items": [
@@ -1235,5 +1175,127 @@
       }
     ],
     "batchId": "b1781029199334"
+  },
+  {
+    "scannedAt": "2026-06-09T15:24:32.553Z",
+    "items": [
+      {
+        "id": "b1781018672553_1",
+        "rank": 1,
+        "title": "Monash University's Photonic Valleytronic Chip Breakthrough",
+        "category": "ai",
+        "summary": "Scientists at Monash University have created a tiny chip that can generate, steer, and read light-based information all in one device, marking a major leap toward ultra-fast, energy-efficient computing. The breakthrough uses atomically thin materials and nanoscale structures to control a unique quantum property of light called the \"valley\" degree of freedom, allowing information to be encoded in new ways. This represents a significant advancement in valleytronics research that could drive future breakthroughs in faster computing, lower energy consumption, and quantum technologies.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260601025343.htm",
+        "image": "https://www.sciencedaily.com/images/1920/photonic-valleytronic-chip-for-information-processing.webp",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fphotonic-valleytronic-chip-for-information-processing.webp&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1781018672553_2",
+        "rank": 2,
+        "title": "Breakthrough Discovery of Hidden Cancer Immune System Brake",
+        "category": "biotech",
+        "summary": "Scientists have uncovered a hidden immune system \"brake\" that may help cancers avoid being destroyed. The molecule, called SLAMF6, weakens the body's cancer-fighting T cells and can leave them exhausted over time. This discovery could revolutionize cancer immunotherapy by providing new targets for treatment, representing a major convergence of biological understanding and therapeutic intervention.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/",
+        "image": "https://www.sciencedaily.com/images/scidaily-icon.png",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2Fscidaily-icon.png&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1781018672553_3",
+        "rank": 3,
+        "title": "NVIDIA Isaac GR00T Physical AI Breakthrough for Robotics",
+        "category": "robotics",
+        "summary": "New NVIDIA Isaac GR00T open models enable robots to understand natural language instructions and perform complex, multistep tasks using vision language action reasoning. New NVIDIA Cosmos world models for generating synthetic data and training robots at scale help systems learn more efficiently and generalize across environments. This represents a fundamental convergence of AI, robotics, and human-machine interaction, enabling truly collaborative robotics.",
+        "source": "NVIDIA Blog",
+        "sourceUrl": "https://blogs.nvidia.com/blog/national-robotics-week-2026/",
+        "image": "https://blogs.nvidia.com/wp-content/uploads/2026/04/robotics-tech-blog-nrw-rolling-blog-1280x680-1.jpg",
+        "imageProxy": "https://images.weserv.nl/?url=blogs.nvidia.com%2Fwp-content%2Fuploads%2F2026%2F04%2Frobotics-tech-blog-nrw-rolling-blog-1280x680-1.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1781018672553_4",
+        "rank": 4,
+        "title": "Nanoscale Gold Metamaterials Supercharge Heat Transfer",
+        "category": "ai",
+        "summary": "Scientists used nanoscale gold metamaterials to supercharge heat transfer across tiny gaps, achieving up to four times more energy flow than similar conventional systems. The breakthrough could lead to better chip cooling, more efficient energy technologies, and a new era of precision heat management. This advancement represents convergence of nanotechnology, materials science, and energy systems that could transform thermal management across industries.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/",
+        "image": "https://www.sciencedaily.com/images/scidaily-icon.png",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2Fscidaily-icon.png&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1781018672553_5",
+        "rank": 5,
+        "title": "Google's REPLIQA Program Unites Quantum AI and Life Sciences",
+        "category": "ai",
+        "summary": "Google has launched REPLIQA, a $10 million research program uniting quantum AI and life sciences to simulate biological processes at a molecular level, targeting challenges like protein folding and drug metabolism. By collaborating with leading universities, REPLIQA aims to develop quantum-enhanced tools and sensing hardware for medical breakthroughs, achieving utility-scale quantum advantage in life sciences by the early 2030s. This represents the ultimate convergence of quantum computing, artificial intelligence, and biological systems.",
+        "source": "Quantum Computing Report",
+        "sourceUrl": "https://quantumcomputingreport.com/news/",
+        "image": "https://quantumcomputingreport.com/wp-content/uploads/2022/12/QCR-by-GQI-Original-on-Transparent-20.png",
+        "imageProxy": "https://images.weserv.nl/?url=quantumcomputingreport.com%2Fwp-content%2Fuploads%2F2022%2F12%2FQCR-by-GQI-Original-on-Transparent-20.png&w=640&h=400&fit=cover&we&output=jpg"
+      }
+    ],
+    "batchId": "b1781018672553"
+  },
+  {
+    "scannedAt": "2026-06-08T22:45:19.218Z",
+    "items": [
+      {
+        "id": "b1780958719218_1",
+        "rank": 1,
+        "title": "Apple's Revolutionary WWDC 2026: Gemini-Powered Siri and Multi-AI iOS 27 System",
+        "category": "ai",
+        "summary": "Apple CEO Tim Cook's final keynote unveiled a completely rebuilt Siri powered by a custom 1.2-trillion-parameter Google Gemini model, iOS 27 with multi-AI extensions system allowing Claude on iPhone for the first time, and comprehensive AI integration across all Apple platforms. The announcement represents a fundamental shift in Apple's AI strategy and marks the largest consumer AI deployment in history.",
+        "source": "BuildFastWithAI",
+        "sourceUrl": "https://www.buildfastwithai.com/blogs/ai-news-today-june-8-2026",
+        "image": "https://oukdqujzonxvqhiefdsv.supabase.co/storage/v1/object/public/blogs/b5f45e55-886b-4de9-89ed-1155c3dacd3b.png",
+        "imageProxy": "https://images.weserv.nl/?url=oukdqujzonxvqhiefdsv.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fblogs%2Fb5f45e55-886b-4de9-89ed-1155c3dacd3b.png&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780958719218_2",
+        "rank": 2,
+        "title": "NASA's X-59 Supersonic Jet Breaks Sound Barrier for First Time",
+        "category": "space",
+        "summary": "NASA's experimental X-59 aircraft successfully broke the sound barrier for the first time on June 5, 2026, reaching Mach 1.1 and paving the way for commercial supersonic flight. The aircraft is designed to replace thunderous sonic booms with quieter sonic thumps, potentially revolutionizing air travel and marking a major milestone in aviation technology.",
+        "source": "Space.com",
+        "sourceUrl": "https://www.nasa.gov/aeronautics/x-59-first-supersonic-flight/",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/06/x59-first-supersonic-flight-m-1-077-clean-high.jpg",
+        "imageProxy": "https://images.weserv.nl/?url=www.nasa.gov%2Fwp-content%2Fuploads%2F2026%2F06%2Fx59-first-supersonic-flight-m-1-077-clean-high.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780958719218_3",
+        "rank": 3,
+        "title": "Breakthrough Hydrogen Production Method Turns Waste Heat Into Clean Fuel",
+        "category": "energy",
+        "summary": "University of Birmingham researchers developed a revolutionary perovskite-based catalyst that splits water into hydrogen at temperatures between 150-500°C, dramatically lower than existing technologies. This breakthrough could enable factories, steel plants, and renewable energy sites to convert waste heat into valuable hydrogen fuel, potentially transforming clean energy production economics.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260601025345.htm",
+        "image": "https://www.sciencedaily.com/images/1920/green-energy-hydrogen-pipelines-wind-turbines.webp",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fgreen-energy-hydrogen-pipelines-wind-turbines.webp&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780958719218_4",
+        "rank": 4,
+        "title": "Scientists Identify Two Distinct Autism Subtypes Through Brain Connectivity Patterns",
+        "category": "neuroscience",
+        "summary": "Researchers from Italian Institute of Technology and Child Mind Institute discovered that autism includes at least two biologically distinct subtypes, each marked by different brain communication patterns. Using brain scans from nearly 1,000 people with autism, the study provides the first large-scale effort to connect human brain imaging patterns with underlying biological causes, opening pathways for precision medicine in autism treatment.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260602021634.htm",
+        "image": "https://www.sciencedaily.com/images/1920/brain-scan-color-black-and-white.webp",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fbrain-scan-color-black-and-white.webp&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780958719218_5",
+        "rank": 5,
+        "title": "Advanced In Vivo CAR-T Cell Therapy Shows Promise for Cancer Treatment",
+        "category": "biotech",
+        "summary": "New in vivo CAR-T cell therapy approaches are revolutionizing cancer treatment by generating therapeutic T cells directly inside patients' bodies rather than requiring complex external manufacturing. Early human trials demonstrate dramatically improved scalability, lower costs, and faster treatment times, moving from weeks-long processes to single infusions while potentially avoiding treatment-related exhaustion.",
+        "source": "Atlantis Bioscience",
+        "sourceUrl": "https://www.atlantisbioscience.com/blog/2026-biotech-outlook-10-breakthrough-trends-scientists-need-to-watch/",
+        "image": "https://www.atlantisbioscience.com/wp-content/uploads/2025/11/2026-Biotech-Outlook.webp",
+        "imageProxy": "https://images.weserv.nl/?url=www.atlantisbioscience.com%2Fwp-content%2Fuploads%2F2025%2F11%2F2026-Biotech-Outlook.webp&w=640&h=400&fit=cover&we&output=jpg"
+      }
+    ],
+    "batchId": "b1780958719218"
   }
 ]
