@@ -1,5 +1,25 @@
 [
   {
+    "batchId": "editorial_2026-08-07",
+    "scannedAt": "2026-08-08T01:30:06.544Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-08-07",
+        "rank": 0,
+        "title": "What we restore under light, and what still leaves in the dark",
+        "category": "editorial",
+        "summary": "Convergence of repaired rooms and contested origins",
+        "image": "https://img.canarymedia.com/content/uploads/Trump-and-Lutnick-polysilcon-announcement_GettyImages-2288526842.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=692c59fa6178001ae8dfd9660615e7fd",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-07.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-08-07",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-08-08T20-13",
     "scannedAt": "2026-08-08T20:13:45.422Z",
     "items": [
