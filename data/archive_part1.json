@@ -1,5 +1,25 @@
 [
   {
+    "batchId": "editorial_2026-07-26",
+    "scannedAt": "2026-07-26T15:02:31.678Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-07-26",
+        "rank": 0,
+        "title": "What Tips: Convergence of biological threshold and civic near-miss",
+        "category": "editorial",
+        "summary": "Thresholds in the brain, on the fire line, and in the public room.",
+        "image": "https://images-assets.nasa.gov/image/PIA01492/PIA01492~medium.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-07-26.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-07-26",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "editorial_2026-07-25",
     "scannedAt": "2026-07-26T00:19:26.201Z",
     "kind": "editorial_archive",
@@ -1079,67 +1099,6 @@
         "source": "Canary Media",
         "sourceUrl": "https://www.canarymedia.com/articles/solar/ohio-power-siting-board-solar-case",
         "imageProxy": "https://images.weserv.nl/?url=img.canarymedia.com%2Fcontent%2Fuploads%2FOhio_Judicial_Center_fac%CC%A7ade_Wikipedia.jpg%3Fauto%3Dcompress%252Cformat%26crop%3Dfocalpoint%26fit%3Dcrop%26fp-x%3D0.5%26fp-y%3D0.5%26h%3D630%26q%3D82%26w%3D1200%26s%3D64cbf2a9010769a921f78f8852307d1f&w=640&h=400&fit=cover&we&output=jpg"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-07-08T20-51",
-    "scannedAt": "2026-07-08T20:51:54.549Z",
-    "items": [
-      {
-        "id": "auto_2026-07-08T20-51_1",
-        "rank": 1,
-        "title": "STAT+: RFK Jr. plans to create list of injuries caused by Covid-19 vaccines",
-        "category": "biotech",
-        "summary": "It's not clear what conditions may make the list, but outside experts are watching it closely.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/07/GettyImages-1230308380-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/07/08/hhs-to-propose-covid-19-countermeasures-injury-table/?utm_campaign=rss",
-        "imageProxy": "https://images.weserv.nl/?url=www.statnews.com%2Fwp-content%2Fuploads%2F2026%2F07%2FGettyImages-1230308380-1024x576.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-08T20-51_2",
-        "rank": 2,
-        "title": "Tears Can Be Used to Detect Dopamine Levels",
-        "category": "neuroscience",
-        "summary": "A new study introduces a low-cost, laser-induced graphene electrochemical sensor designed to detect dopamine levels in human tears.",
-        "image": "https://neurosciencenews.com/files/2026/07/tears-dopamine-neurosceince-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/tears-dopamine-parkinsons-neurotech-31017/",
-        "imageProxy": "https://images.weserv.nl/?url=neurosciencenews.com%2Ffiles%2F2026%2F07%2Ftears-dopamine-neurosceince-1155x770.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-08T20-51_3",
-        "rank": 3,
-        "title": "Hubble Captures Star-Studded Cluster",
-        "category": "space",
-        "summary": "This image from NASA’s&#160;Hubble Space Telescope showcases&#160;Messier 3&#160;(M3), one of the Milky Way galaxy’s most massive globular clusters, or spherical collections of gravitationally bound stars.&#160;Globular…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/07/hubble-m3-july4-final.jpg",
-        "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/image-article/hubble-captures-star-studded-cluster/",
-        "imageProxy": "https://images.weserv.nl/?url=www.nasa.gov%2Fwp-content%2Fuploads%2F2026%2F07%2Fhubble-m3-july4-final.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-08T20-51_4",
-        "rank": 4,
-        "title": "Southern California clean-heat rule survives key legal challenge",
-        "category": "energy",
-        "summary": "Southern California’s landmark rule to slash emissions from industrial heating sources just notched a major victory in court. The region has some of the worst air quality in the U.S., and the gas-fueled boilers and…",
-        "image": "https://img.canarymedia.com/content/uploads/Gas-flames_GettyImages-539260384.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=b3fad5caa70e9f95fcbe54f021ee10c6",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/electrification/southern-california-clean-heat-rule-survives",
-        "imageProxy": "https://images.weserv.nl/?url=img.canarymedia.com%2Fcontent%2Fuploads%2FGas-flames_GettyImages-539260384.jpg%3Fauto%3Dcompress%252Cformat%26crop%3Dfocalpoint%26fit%3Dcrop%26fp-x%3D0.5%26fp-y%3D0.5%26h%3D630%26q%3D82%26w%3D1200%26s%3Db3fad5caa70e9f95fcbe54f021ee10c6&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-08T20-51_5",
-        "rank": 5,
-        "title": "IEEE Honors Robotics Pioneer Toshio Fukuda",
-        "category": "robotics",
-        "summary": "Toshio Fukuda has been blazing trails for most of his career. He is considered to be one of the most prolific scholars in robotics , writing more than 2,000 research papers and authoring several books on the field. He’s…",
-        "image": "https://spectrum.ieee.org/media-library/three-men-in-suits-onstage-smiling-as-one-presents-an-award-medal-in-a-box.jpg?id=67107362&width=980",
-        "source": "IEEE Spectrum",
-        "sourceUrl": "https://spectrum.ieee.org/ieee-honors-toshio-fukuda",
-        "imageProxy": "https://images.weserv.nl/?url=spectrum.ieee.org%2Fmedia-library%2Fthree-men-in-suits-onstage-smiling-as-one-presents-an-award-medal-in-a-box.jpg%3Fid%3D67107362%26width%3D980&w=640&h=400&fit=cover&we&output=jpg"
       }
     ]
   }
