@@ -1,5 +1,66 @@
 [
   {
+    "scannedAt": "2026-06-08T22:45:19.218Z",
+    "items": [
+      {
+        "id": "b1780958719218_1",
+        "rank": 1,
+        "title": "Apple's Revolutionary WWDC 2026: Gemini-Powered Siri and Multi-AI iOS 27 System",
+        "category": "ai",
+        "summary": "Apple CEO Tim Cook's final keynote unveiled a completely rebuilt Siri powered by a custom 1.2-trillion-parameter Google Gemini model, iOS 27 with multi-AI extensions system allowing Claude on iPhone for the first time, and comprehensive AI integration across all Apple platforms. The announcement represents a fundamental shift in Apple's AI strategy and marks the largest consumer AI deployment in history.",
+        "source": "BuildFastWithAI",
+        "sourceUrl": "https://www.buildfastwithai.com/blogs/ai-news-today-june-8-2026",
+        "image": "https://oukdqujzonxvqhiefdsv.supabase.co/storage/v1/object/public/blogs/b5f45e55-886b-4de9-89ed-1155c3dacd3b.png",
+        "imageProxy": "https://images.weserv.nl/?url=oukdqujzonxvqhiefdsv.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fblogs%2Fb5f45e55-886b-4de9-89ed-1155c3dacd3b.png&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780958719218_2",
+        "rank": 2,
+        "title": "NASA's X-59 Supersonic Jet Breaks Sound Barrier for First Time",
+        "category": "space",
+        "summary": "NASA's experimental X-59 aircraft successfully broke the sound barrier for the first time on June 5, 2026, reaching Mach 1.1 and paving the way for commercial supersonic flight. The aircraft is designed to replace thunderous sonic booms with quieter sonic thumps, potentially revolutionizing air travel and marking a major milestone in aviation technology.",
+        "source": "Space.com",
+        "sourceUrl": "https://www.nasa.gov/aeronautics/x-59-first-supersonic-flight/",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/06/x59-first-supersonic-flight-m-1-077-clean-high.jpg",
+        "imageProxy": "https://images.weserv.nl/?url=www.nasa.gov%2Fwp-content%2Fuploads%2F2026%2F06%2Fx59-first-supersonic-flight-m-1-077-clean-high.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780958719218_3",
+        "rank": 3,
+        "title": "Breakthrough Hydrogen Production Method Turns Waste Heat Into Clean Fuel",
+        "category": "energy",
+        "summary": "University of Birmingham researchers developed a revolutionary perovskite-based catalyst that splits water into hydrogen at temperatures between 150-500°C, dramatically lower than existing technologies. This breakthrough could enable factories, steel plants, and renewable energy sites to convert waste heat into valuable hydrogen fuel, potentially transforming clean energy production economics.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260601025345.htm",
+        "image": "https://www.sciencedaily.com/images/1920/green-energy-hydrogen-pipelines-wind-turbines.webp",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fgreen-energy-hydrogen-pipelines-wind-turbines.webp&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780958719218_4",
+        "rank": 4,
+        "title": "Scientists Identify Two Distinct Autism Subtypes Through Brain Connectivity Patterns",
+        "category": "neuroscience",
+        "summary": "Researchers from Italian Institute of Technology and Child Mind Institute discovered that autism includes at least two biologically distinct subtypes, each marked by different brain communication patterns. Using brain scans from nearly 1,000 people with autism, the study provides the first large-scale effort to connect human brain imaging patterns with underlying biological causes, opening pathways for precision medicine in autism treatment.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260602021634.htm",
+        "image": "https://www.sciencedaily.com/images/1920/brain-scan-color-black-and-white.webp",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fbrain-scan-color-black-and-white.webp&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1780958719218_5",
+        "rank": 5,
+        "title": "Advanced In Vivo CAR-T Cell Therapy Shows Promise for Cancer Treatment",
+        "category": "biotech",
+        "summary": "New in vivo CAR-T cell therapy approaches are revolutionizing cancer treatment by generating therapeutic T cells directly inside patients' bodies rather than requiring complex external manufacturing. Early human trials demonstrate dramatically improved scalability, lower costs, and faster treatment times, moving from weeks-long processes to single infusions while potentially avoiding treatment-related exhaustion.",
+        "source": "Atlantis Bioscience",
+        "sourceUrl": "https://www.atlantisbioscience.com/blog/2026-biotech-outlook-10-breakthrough-trends-scientists-need-to-watch/",
+        "image": "https://www.atlantisbioscience.com/wp-content/uploads/2025/11/2026-Biotech-Outlook.webp",
+        "imageProxy": "https://images.weserv.nl/?url=www.atlantisbioscience.com%2Fwp-content%2Fuploads%2F2025%2F11%2F2026-Biotech-Outlook.webp&w=640&h=400&fit=cover&we&output=jpg"
+      }
+    ],
+    "batchId": "b1780958719218"
+  },
+  {
     "scannedAt": "2026-06-08T18:34:53.330Z",
     "items": [
       {

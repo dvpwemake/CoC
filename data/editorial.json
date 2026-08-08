@@ -2253,40 +2253,98 @@
       "status": "draft",
       "draftKind": "outline",
       "createdAt": "2026-08-07T03:54:19.741Z",
-      "updatedAt": "2026-08-07T20:25:14.787Z",
+      "updatedAt": "2026-08-08T00:37:12.822Z",
       "title": "Editorial brief — 2026-08-07",
       "dek": "Outline of selected article titles and key points for admin to write the final editorial.",
-      "body": "EDITORIAL BRIEF (outline only — not for publication as-is)\nPublish date: 2026-08-07\nInstruction: Use the titles and key points below to write the final ~300-word CoC editorial. Replace this entire brief with your finished prose before publishing.\n\n— Selected articles of the day (12) —\n\n1. [Art] Thieves Steal $4.6 Million in Art from Italian Company in Overnight Raid\n   Source: Artforum\n   URL: https://www.artforum.com/news/thieves-steal-4-million-in-art-from-italian-company-1234756663/\n   Key points:\n   • Thieves stole €4 million ($4.6 million) worth of art from Italian fuel distribution company Lilli Petroli in an overnight raid at the firm's headquarters in Abruzzo.\n   • The Italian newspaper Il Messaggero reports that the…\n\n2. [Biotech] Opinion: Fauci doesn’t have the answers on Covid’s origins. China does\n   Source: STAT News\n   URL: https://www.statnews.com/2026/08/07/fauci-contempt-congress-covid-origins-china/?utm_campaign=rss\n   Key points:\n   • “To blame Fauci for not solving the origin of Covid-19 makes as much sense as blaming a detective in Washington, D.C., for not solving a murder in Wuhan,” writes David…\n\n3. [General] Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore\n   Source: The Verge\n   URL: https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo\n   Key points:\n   • It took long enough, but now LA rapper Fenix Flexin appears to have admitted using AI for the 80s synth pop-themed song \"Rubberz.\" His comments follow the producer Medasin's videos claiming that an AI tool called Treblo…\n\n4. [Neuroscience] Exercise Shields Dopamine Neurons in Parkinson's\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/exercise-dopamine-neurons-parkinsons-31199/\n   Key points:\n   • A new study shows how exercise releases muscle-derived \"exerkines\" that protect dopamine neurons and counter sarcopenia in Parkinson's disease.\n\n5. [Space] 2026 IGARSS Hyperwall Schedule\n   Source: NASA\n   URL: https://science.nasa.gov/earth/2026-igarss-hyperwall-schedule/\n   Key points:\n   • IGARSS 2026 Join NASA in the Exhibit Hall (Booth #100) for Hyperwall Storytelling by NASA experts.\n   • Full Hyperwall Agenda below.\n   • MONDAY, AUGUST 10 3:00 PM Technology Enabling the Future of Earth ScienceMike Seablom3:15…\n\n6. [Biotech] Senate committee votes along party lines to hold Fauci in contempt of Congress\n   Source: STAT News\n   URL: https://www.statnews.com/2026/08/06/anthony-fauci-fifth-amendment-rand-paul-seeks-criminal-contempt/?utm_campaign=rss\n   Key points:\n   • A Senate committee has voted to hold Anthony Fauci in contempt of Congress after he declined to answer questions about his role in the Covid pandemic.\n\n7. [Energy] Nuclear startup Oklo splits its first atoms in test reactor\n   Source: Canary Media\n   URL: https://www.canarymedia.com/articles/nuclear/nuclear-startup-oklo-splits-its-first-atoms-in-test-reactor\n   Key points:\n   • Oklo , a publicly traded small-modular-reactor firm backed by OpenAI chief Sam Altman, has become one of the highest-profile companies working on next-generation nuclear energy technologies.\n   • Two years ago it debuted on…\n\n8. [General] TikTok Lays Off 250 Employees in Office That Includes Content Moderation\n   Source: NYT Technology\n   URL: https://www.nytimes.com/2026/08/05/technology/tiktok-layoffs-nashville.html\n   Key points:\n   • TikTok did not give a detailed reason for the layoffs, which will shutter its Nashville office.\n\n9. [Robotics] Sarla Aviation adopts Siemens Xcelerator to accelerate eVTOL aircraft development\n   Source: Robotics & Automation News\n   URL: https://roboticsandautomationnews.com/2026/08/06/sarla-aviation-adopts-siemens-xcelerator-to-accelerate-evtol-aircraft-development/103956/\n   Key points:\n   • Indian startup Sarla Aviation is using the Siemens Xcelerator portfolio of industry software to accelerate the development of its next-generation electric vertical take-off and landing (eVTOL) aircraft for urban air…\n\n10. [Space] A star’s violent death exposed a hidden supermassive black hole\n   Source: ScienceDaily\n   URL: https://www.sciencedaily.com/releases/2026/08/260805082457.htm\n   Key points:\n   • A supermassive black hole has been found lurking about 30,000 light-years from the center of its galaxy—the first dormant black hole detected so far from a galactic core.\n   • It revealed itself only after shredding a…\n\n11. [Art] Monumental Painted Wood Carvings by Jiang Miao Center Mindfulness\n   Source: Colossal\n   URL: https://www.thisiscolossal.com/2026/08/jiang-miao-spiral-of-energy-exhibition-wood-carvings-acrylic-paintings/\n   Key points:\n   • Whitestone Gallery in Seoul presents the artist's solo exhibition, 'Spiral of Energy.' Do stories and artists like this matter to you?\n   • Become a Colossal Member today and support independent arts publishing for as little…\n\n12. [Biotech] Takeda’s narcolepsy drug approved by the FDA, a boon for new class of treatments\n   Source: STAT News\n   URL: https://www.statnews.com/2026/08/05/takeda-narcolepsy-drug-fda-approval-orzeyful/?utm_campaign=rss\n   Key points:\n   • The FDA approved a novel type of treatment for narcolepsy made by Takeda, backing a new drug class that scientists hope can be used to treat other conditions.\n\n— Categories present —\nArt · Biotech · General · Neuroscience · Space · Energy · Robotics\n\n— Admin checklist —\n• Draft original title + dek\n• Write body (~280–320 words) in CoC voice\n• Select hero from selected-article head image thumbnails (or paste URL)\n• Mark published when ready",
+      "body": "EDITORIAL BRIEF (outline only — not for publication as-is)\nPublish date: 2026-08-07\nInstruction: Use the titles and key points below to write the final ~300-word CoC editorial. Replace this entire brief with your finished prose before publishing.\n\n— Selected articles of the day (12) —\n\n1. [Art] Uffizi Unveils Plans for $58 Million Transformation\n   Source: Artforum\n   URL: https://www.artforum.com/news/uffizi-reveals-plans-for-58-million-transformation-1234756664/\n   Key points:\n   • The Uffizi in Florence has announced a €50 million ($58 million) restoration plan that it expects to carry out over the course of two years.\n   • The renovations will encompass the Uffizi Gallery, Palazzo Pitti, and the…\n\n2. [Energy] Trump launched big new solar tariffs. Here's what it means.\n   Source: Canary Media\n   URL: https://www.canarymedia.com/articles/solar/trump-new-solar-tariffs\n   Key points:\n   • A far-reaching new tariff on solar imports promises to both raise the cost of installing the clean energy source and strengthen efforts to reshore solar manufacturing.\n   • The White House announced the new tariffs Thursday…\n\n3. [General] Europe's free satellite service just made it easier to track wildfires\n   Source: Ars Technica\n   URL: https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/\n   Key points:\n   • Copernicus Browser adds wildfire visualization amid record wildfire season.\n\n4. [Neuroscience] Why Psychedelics Make Everything Feel Deeply Connected\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/psychedelics-serotonin-hypercontextualization-31198/\n   Key points:\n   • A new study introduces \"apical hypercontextualisation,\" explaining how psychedelics target serotonin receptors on layer V pyramidal neurons to shift brain processing from raw sensory input toward associative context.\n\n5. [Space] Senate installs new chiefs for U.S. military space acquisition, spy satellites\n   Source: SpaceNews\n   URL: https://spacenews.com/senate-installs-new-chiefs-for-u-s-military-space-acquisition-spy-satellites/\n   Key points:\n   • Erich Hernandez-Baquero will take over military space acquisition; Roger Mason will lead the National Reconnaissance Office The post Senate installs new chiefs for U.S.\n   • military space acquisition, spy satellites…\n\n6. [Art] Thieves Steal $4.6 Million in Art from Italian Company in Overnight Raid\n   Source: Artforum\n   URL: https://www.artforum.com/news/thieves-steal-4-million-in-art-from-italian-company-1234756663/\n   Key points:\n   • Thieves stole €4 million ($4.6 million) worth of art from Italian fuel distribution company Lilli Petroli in an overnight raid at the firm's headquarters in Abruzzo.\n   • The Italian newspaper Il Messaggero reports that the…\n\n7. [Biotech] Opinion: Fauci doesn’t have the answers on Covid’s origins. China does\n   Source: STAT News\n   URL: https://www.statnews.com/2026/08/07/fauci-contempt-congress-covid-origins-china/?utm_campaign=rss\n   Key points:\n   • “To blame Fauci for not solving the origin of Covid-19 makes as much sense as blaming a detective in Washington, D.C., for not solving a murder in Wuhan,” writes David…\n\n8. [General] Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore\n   Source: The Verge\n   URL: https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo\n   Key points:\n   • It took long enough, but now LA rapper Fenix Flexin appears to have admitted using AI for the 80s synth pop-themed song \"Rubberz.\" His comments follow the producer Medasin's videos claiming that an AI tool called Treblo…\n\n9. [Neuroscience] Exercise Shields Dopamine Neurons in Parkinson's\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/exercise-dopamine-neurons-parkinsons-31199/\n   Key points:\n   • A new study shows how exercise releases muscle-derived \"exerkines\" that protect dopamine neurons and counter sarcopenia in Parkinson's disease.\n\n10. [Space] 2026 IGARSS Hyperwall Schedule\n   Source: NASA\n   URL: https://science.nasa.gov/earth/2026-igarss-hyperwall-schedule/\n   Key points:\n   • IGARSS 2026 Join NASA in the Exhibit Hall (Booth #100) for Hyperwall Storytelling by NASA experts.\n   • Full Hyperwall Agenda below.\n   • MONDAY, AUGUST 10 3:00 PM Technology Enabling the Future of Earth ScienceMike Seablom3:15…\n\n11. [Biotech] Senate committee votes along party lines to hold Fauci in contempt of Congress\n   Source: STAT News\n   URL: https://www.statnews.com/2026/08/06/anthony-fauci-fifth-amendment-rand-paul-seeks-criminal-contempt/?utm_campaign=rss\n   Key points:\n   • A Senate committee has voted to hold Anthony Fauci in contempt of Congress after he declined to answer questions about his role in the Covid pandemic.\n\n12. [Energy] Nuclear startup Oklo splits its first atoms in test reactor\n   Source: Canary Media\n   URL: https://www.canarymedia.com/articles/nuclear/nuclear-startup-oklo-splits-its-first-atoms-in-test-reactor\n   Key points:\n   • Oklo , a publicly traded small-modular-reactor firm backed by OpenAI chief Sam Altman, has become one of the highest-profile companies working on next-generation nuclear energy technologies.\n   • Two years ago it debuted on…\n\n— Categories present —\nArt · Energy · General · Neuroscience · Space · Biotech\n\n— Admin checklist —\n• Draft original title + dek\n• Write body (~280–320 words) in CoC voice\n• Select hero from selected-article head image thumbnails (or paste URL)\n• Mark published when ready",
       "paragraphs": [
         "EDITORIAL BRIEF (outline only — not for publication as-is)\nPublish date: 2026-08-07\nInstruction: Use the titles and key points below to write the final ~300-word CoC editorial. Replace this entire brief with your finished prose before publishing.",
         "— Selected articles of the day (12) —",
-        "1. [Art] Thieves Steal $4.6 Million in Art from Italian Company in Overnight Raid\n   Source: Artforum\n   URL: https://www.artforum.com/news/thieves-steal-4-million-in-art-from-italian-company-1234756663/\n   Key points:\n   • Thieves stole €4 million ($4.6 million) worth of art from Italian fuel distribution company Lilli Petroli in an overnight raid at the firm's headquarters in Abruzzo.\n   • The Italian newspaper Il Messaggero reports that the…",
-        "2. [Biotech] Opinion: Fauci doesn’t have the answers on Covid’s origins. China does\n   Source: STAT News\n   URL: https://www.statnews.com/2026/08/07/fauci-contempt-congress-covid-origins-china/?utm_campaign=rss\n   Key points:\n   • “To blame Fauci for not solving the origin of Covid-19 makes as much sense as blaming a detective in Washington, D.C., for not solving a murder in Wuhan,” writes David…",
-        "3. [General] Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore\n   Source: The Verge\n   URL: https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo\n   Key points:\n   • It took long enough, but now LA rapper Fenix Flexin appears to have admitted using AI for the 80s synth pop-themed song \"Rubberz.\" His comments follow the producer Medasin's videos claiming that an AI tool called Treblo…",
-        "4. [Neuroscience] Exercise Shields Dopamine Neurons in Parkinson's\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/exercise-dopamine-neurons-parkinsons-31199/\n   Key points:\n   • A new study shows how exercise releases muscle-derived \"exerkines\" that protect dopamine neurons and counter sarcopenia in Parkinson's disease.",
-        "5. [Space] 2026 IGARSS Hyperwall Schedule\n   Source: NASA\n   URL: https://science.nasa.gov/earth/2026-igarss-hyperwall-schedule/\n   Key points:\n   • IGARSS 2026 Join NASA in the Exhibit Hall (Booth #100) for Hyperwall Storytelling by NASA experts.\n   • Full Hyperwall Agenda below.\n   • MONDAY, AUGUST 10 3:00 PM Technology Enabling the Future of Earth ScienceMike Seablom3:15…",
-        "6. [Biotech] Senate committee votes along party lines to hold Fauci in contempt of Congress\n   Source: STAT News\n   URL: https://www.statnews.com/2026/08/06/anthony-fauci-fifth-amendment-rand-paul-seeks-criminal-contempt/?utm_campaign=rss\n   Key points:\n   • A Senate committee has voted to hold Anthony Fauci in contempt of Congress after he declined to answer questions about his role in the Covid pandemic.",
-        "7. [Energy] Nuclear startup Oklo splits its first atoms in test reactor\n   Source: Canary Media\n   URL: https://www.canarymedia.com/articles/nuclear/nuclear-startup-oklo-splits-its-first-atoms-in-test-reactor\n   Key points:\n   • Oklo , a publicly traded small-modular-reactor firm backed by OpenAI chief Sam Altman, has become one of the highest-profile companies working on next-generation nuclear energy technologies.\n   • Two years ago it debuted on…",
-        "8. [General] TikTok Lays Off 250 Employees in Office That Includes Content Moderation\n   Source: NYT Technology\n   URL: https://www.nytimes.com/2026/08/05/technology/tiktok-layoffs-nashville.html\n   Key points:\n   • TikTok did not give a detailed reason for the layoffs, which will shutter its Nashville office.",
-        "9. [Robotics] Sarla Aviation adopts Siemens Xcelerator to accelerate eVTOL aircraft development\n   Source: Robotics & Automation News\n   URL: https://roboticsandautomationnews.com/2026/08/06/sarla-aviation-adopts-siemens-xcelerator-to-accelerate-evtol-aircraft-development/103956/\n   Key points:\n   • Indian startup Sarla Aviation is using the Siemens Xcelerator portfolio of industry software to accelerate the development of its next-generation electric vertical take-off and landing (eVTOL) aircraft for urban air…",
-        "10. [Space] A star’s violent death exposed a hidden supermassive black hole\n   Source: ScienceDaily\n   URL: https://www.sciencedaily.com/releases/2026/08/260805082457.htm\n   Key points:\n   • A supermassive black hole has been found lurking about 30,000 light-years from the center of its galaxy—the first dormant black hole detected so far from a galactic core.\n   • It revealed itself only after shredding a…",
-        "11. [Art] Monumental Painted Wood Carvings by Jiang Miao Center Mindfulness\n   Source: Colossal\n   URL: https://www.thisiscolossal.com/2026/08/jiang-miao-spiral-of-energy-exhibition-wood-carvings-acrylic-paintings/\n   Key points:\n   • Whitestone Gallery in Seoul presents the artist's solo exhibition, 'Spiral of Energy.' Do stories and artists like this matter to you?\n   • Become a Colossal Member today and support independent arts publishing for as little…",
-        "12. [Biotech] Takeda’s narcolepsy drug approved by the FDA, a boon for new class of treatments\n   Source: STAT News\n   URL: https://www.statnews.com/2026/08/05/takeda-narcolepsy-drug-fda-approval-orzeyful/?utm_campaign=rss\n   Key points:\n   • The FDA approved a novel type of treatment for narcolepsy made by Takeda, backing a new drug class that scientists hope can be used to treat other conditions.",
-        "— Categories present —\nArt · Biotech · General · Neuroscience · Space · Energy · Robotics",
+        "1. [Art] Uffizi Unveils Plans for $58 Million Transformation\n   Source: Artforum\n   URL: https://www.artforum.com/news/uffizi-reveals-plans-for-58-million-transformation-1234756664/\n   Key points:\n   • The Uffizi in Florence has announced a €50 million ($58 million) restoration plan that it expects to carry out over the course of two years.\n   • The renovations will encompass the Uffizi Gallery, Palazzo Pitti, and the…",
+        "2. [Energy] Trump launched big new solar tariffs. Here's what it means.\n   Source: Canary Media\n   URL: https://www.canarymedia.com/articles/solar/trump-new-solar-tariffs\n   Key points:\n   • A far-reaching new tariff on solar imports promises to both raise the cost of installing the clean energy source and strengthen efforts to reshore solar manufacturing.\n   • The White House announced the new tariffs Thursday…",
+        "3. [General] Europe's free satellite service just made it easier to track wildfires\n   Source: Ars Technica\n   URL: https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/\n   Key points:\n   • Copernicus Browser adds wildfire visualization amid record wildfire season.",
+        "4. [Neuroscience] Why Psychedelics Make Everything Feel Deeply Connected\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/psychedelics-serotonin-hypercontextualization-31198/\n   Key points:\n   • A new study introduces \"apical hypercontextualisation,\" explaining how psychedelics target serotonin receptors on layer V pyramidal neurons to shift brain processing from raw sensory input toward associative context.",
+        "5. [Space] Senate installs new chiefs for U.S. military space acquisition, spy satellites\n   Source: SpaceNews\n   URL: https://spacenews.com/senate-installs-new-chiefs-for-u-s-military-space-acquisition-spy-satellites/\n   Key points:\n   • Erich Hernandez-Baquero will take over military space acquisition; Roger Mason will lead the National Reconnaissance Office The post Senate installs new chiefs for U.S.\n   • military space acquisition, spy satellites…",
+        "6. [Art] Thieves Steal $4.6 Million in Art from Italian Company in Overnight Raid\n   Source: Artforum\n   URL: https://www.artforum.com/news/thieves-steal-4-million-in-art-from-italian-company-1234756663/\n   Key points:\n   • Thieves stole €4 million ($4.6 million) worth of art from Italian fuel distribution company Lilli Petroli in an overnight raid at the firm's headquarters in Abruzzo.\n   • The Italian newspaper Il Messaggero reports that the…",
+        "7. [Biotech] Opinion: Fauci doesn’t have the answers on Covid’s origins. China does\n   Source: STAT News\n   URL: https://www.statnews.com/2026/08/07/fauci-contempt-congress-covid-origins-china/?utm_campaign=rss\n   Key points:\n   • “To blame Fauci for not solving the origin of Covid-19 makes as much sense as blaming a detective in Washington, D.C., for not solving a murder in Wuhan,” writes David…",
+        "8. [General] Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore\n   Source: The Verge\n   URL: https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo\n   Key points:\n   • It took long enough, but now LA rapper Fenix Flexin appears to have admitted using AI for the 80s synth pop-themed song \"Rubberz.\" His comments follow the producer Medasin's videos claiming that an AI tool called Treblo…",
+        "9. [Neuroscience] Exercise Shields Dopamine Neurons in Parkinson's\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/exercise-dopamine-neurons-parkinsons-31199/\n   Key points:\n   • A new study shows how exercise releases muscle-derived \"exerkines\" that protect dopamine neurons and counter sarcopenia in Parkinson's disease.",
+        "10. [Space] 2026 IGARSS Hyperwall Schedule\n   Source: NASA\n   URL: https://science.nasa.gov/earth/2026-igarss-hyperwall-schedule/\n   Key points:\n   • IGARSS 2026 Join NASA in the Exhibit Hall (Booth #100) for Hyperwall Storytelling by NASA experts.\n   • Full Hyperwall Agenda below.\n   • MONDAY, AUGUST 10 3:00 PM Technology Enabling the Future of Earth ScienceMike Seablom3:15…",
+        "11. [Biotech] Senate committee votes along party lines to hold Fauci in contempt of Congress\n   Source: STAT News\n   URL: https://www.statnews.com/2026/08/06/anthony-fauci-fifth-amendment-rand-paul-seeks-criminal-contempt/?utm_campaign=rss\n   Key points:\n   • A Senate committee has voted to hold Anthony Fauci in contempt of Congress after he declined to answer questions about his role in the Covid pandemic.",
+        "12. [Energy] Nuclear startup Oklo splits its first atoms in test reactor\n   Source: Canary Media\n   URL: https://www.canarymedia.com/articles/nuclear/nuclear-startup-oklo-splits-its-first-atoms-in-test-reactor\n   Key points:\n   • Oklo , a publicly traded small-modular-reactor firm backed by OpenAI chief Sam Altman, has become one of the highest-profile companies working on next-generation nuclear energy technologies.\n   • Two years ago it debuted on…",
+        "— Categories present —\nArt · Energy · General · Neuroscience · Space · Biotech",
         "— Admin checklist —\n• Draft original title + dek\n• Write body (~280–320 words) in CoC voice\n• Select hero from selected-article head image thumbnails (or paste URL)\n• Mark published when ready"
       ],
-      "wordCount": 695,
+      "wordCount": 677,
       "themeId": "outline",
       "themeLabel": "Admin outline (titles + key points)",
       "formId": "outline_brief",
       "formLabel": "outline brief",
       "authorName": "Dr. Wallace Lynch",
       "authorTitle": "Editor in Chief",
-      "heroImage": "https://www.artforum.com/wp-content/uploads/2026/08/GettyImages-1237473544.jpg?w=650",
-      "heroCredit": "Thieves Steal $4.6 Million in Art from Italian Company in Overnight Raid",
+      "heroImage": "https://www.artforum.com/wp-content/uploads/2026/08/palazzo-pitti-sala-bianca-nuova-illuminazione.webp?w=650",
+      "heroCredit": "Uffizi Unveils Plans for $58 Million Transformation",
       "heroSource": "Artforum",
-      "heroSourceUrl": "https://www.artforum.com/news/thieves-steal-4-million-in-art-from-italian-company-1234756663/",
+      "heroSourceUrl": "https://www.artforum.com/news/uffizi-reveals-plans-for-58-million-transformation-1234756664/",
       "headlines": [
+        {
+          "title": "Uffizi Unveils Plans for $58 Million Transformation",
+          "source": "Artforum",
+          "category": "art",
+          "sourceUrl": "https://www.artforum.com/news/uffizi-reveals-plans-for-58-million-transformation-1234756664/",
+          "summary": "The Uffizi in Florence has announced a €50 million ($58 million) restoration plan that it expects to carry out over the course of two years. The renovations will encompass the Uffizi Gallery, Palazzo Pitti, and the…",
+          "image": "https://www.artforum.com/wp-content/uploads/2026/08/palazzo-pitti-sala-bianca-nuova-illuminazione.webp?w=650",
+          "keyPoints": [
+            "The Uffizi in Florence has announced a €50 million ($58 million) restoration plan that it expects to carry out over the course of two years.",
+            "The renovations will encompass the Uffizi Gallery, Palazzo Pitti, and the…"
+          ]
+        },
+        {
+          "title": "Trump launched big new solar tariffs. Here's what it means.",
+          "source": "Canary Media",
+          "category": "energy",
+          "sourceUrl": "https://www.canarymedia.com/articles/solar/trump-new-solar-tariffs",
+          "summary": "A far-reaching new tariff on solar imports promises to both raise the cost of installing the clean energy source and strengthen efforts to reshore solar manufacturing. The White House announced the new tariffs Thursday…",
+          "image": "https://img.canarymedia.com/content/uploads/Trump-and-Lutnick-polysilcon-announcement_GettyImages-2288526842.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=692c59fa6178001ae8dfd9660615e7fd",
+          "keyPoints": [
+            "A far-reaching new tariff on solar imports promises to both raise the cost of installing the clean energy source and strengthen efforts to reshore solar manufacturing.",
+            "The White House announced the new tariffs Thursday…"
+          ]
+        },
+        {
+          "title": "Europe's free satellite service just made it easier to track wildfires",
+          "source": "Ars Technica",
+          "category": "general",
+          "sourceUrl": "https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/",
+          "summary": "Copernicus Browser adds wildfire visualization amid record wildfire season.",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/2026-08-03-00_00_2026-08-03-23_59_Sentinel-2_L2A_Wildfires-1-1152x648.jpg",
+          "keyPoints": [
+            "Copernicus Browser adds wildfire visualization amid record wildfire season."
+          ]
+        },
+        {
+          "title": "Why Psychedelics Make Everything Feel Deeply Connected",
+          "source": "Neuroscience News",
+          "category": "neuroscience",
+          "sourceUrl": "https://neurosciencenews.com/psychedelics-serotonin-hypercontextualization-31198/",
+          "summary": "A new study introduces \"apical hypercontextualisation,\" explaining how psychedelics target serotonin receptors on layer V pyramidal neurons to shift brain processing from raw sensory input toward associative context.",
+          "image": "https://neurosciencenews.com/files/2026/08/psychedelics-serotonin-neurosciene-1155x770.jpg",
+          "keyPoints": [
+            "A new study introduces \"apical hypercontextualisation,\" explaining how psychedelics target serotonin receptors on layer V pyramidal neurons to shift brain processing from raw sensory input toward associative context."
+          ]
+        },
+        {
+          "title": "Senate installs new chiefs for U.S. military space acquisition, spy satellites",
+          "source": "SpaceNews",
+          "category": "space",
+          "sourceUrl": "https://spacenews.com/senate-installs-new-chiefs-for-u-s-military-space-acquisition-spy-satellites/",
+          "summary": "Erich Hernandez-Baquero will take over military space acquisition; Roger Mason will lead the National Reconnaissance Office The post Senate installs new chiefs for U.S. military space acquisition, spy satellites…",
+          "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Screenshot-2026-07-14-at-4.00.08-PM.png?fit=1024%2C582&ssl=1",
+          "keyPoints": [
+            "Erich Hernandez-Baquero will take over military space acquisition; Roger Mason will lead the National Reconnaissance Office The post Senate installs new chiefs for U.S.",
+            "military space acquisition, spy satellites…"
+          ]
+        },
         {
           "title": "Thieves Steal $4.6 Million in Art from Italian Company in Overnight Raid",
           "source": "Artforum",
@@ -2366,63 +2424,6 @@
           "keyPoints": [
             "Oklo , a publicly traded small-modular-reactor firm backed by OpenAI chief Sam Altman, has become one of the highest-profile companies working on next-generation nuclear energy technologies.",
             "Two years ago it debuted on…"
-          ]
-        },
-        {
-          "title": "TikTok Lays Off 250 Employees in Office That Includes Content Moderation",
-          "source": "NYT Technology",
-          "category": "general",
-          "sourceUrl": "https://www.nytimes.com/2026/08/05/technology/tiktok-layoffs-nashville.html",
-          "summary": "TikTok did not give a detailed reason for the layoffs, which will shutter its Nashville office.",
-          "image": "https://static01.nyt.com/images/2025/05/03/multimedia/05xp-tiktok-layoffs-1/05xp-tiktok-layoffs-1-mediumSquareAt3X.jpg",
-          "keyPoints": [
-            "TikTok did not give a detailed reason for the layoffs, which will shutter its Nashville office."
-          ]
-        },
-        {
-          "title": "Sarla Aviation adopts Siemens Xcelerator to accelerate eVTOL aircraft development",
-          "source": "Robotics & Automation News",
-          "category": "robotics",
-          "sourceUrl": "https://roboticsandautomationnews.com/2026/08/06/sarla-aviation-adopts-siemens-xcelerator-to-accelerate-evtol-aircraft-development/103956/",
-          "summary": "Indian startup Sarla Aviation is using the Siemens Xcelerator portfolio of industry software to accelerate the development of its next-generation electric vertical take-off and landing (eVTOL) aircraft for urban air…",
-          "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/siemens-sarla-aviation-1.jpg",
-          "keyPoints": [
-            "Indian startup Sarla Aviation is using the Siemens Xcelerator portfolio of industry software to accelerate the development of its next-generation electric vertical take-off and landing (eVTOL) aircraft for urban air…"
-          ]
-        },
-        {
-          "title": "A star’s violent death exposed a hidden supermassive black hole",
-          "source": "ScienceDaily",
-          "category": "space",
-          "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260805082457.htm",
-          "summary": "A supermassive black hole has been found lurking about 30,000 light-years from the center of its galaxy—the first dormant black hole detected so far from a galactic core. It revealed itself only after shredding a…",
-          "image": "https://www.sciencedaily.com/images/1920/black-hole-consuming-orbiting-star.webp",
-          "keyPoints": [
-            "A supermassive black hole has been found lurking about 30,000 light-years from the center of its galaxy—the first dormant black hole detected so far from a galactic core.",
-            "It revealed itself only after shredding a…"
-          ]
-        },
-        {
-          "title": "Monumental Painted Wood Carvings by Jiang Miao Center Mindfulness",
-          "source": "Colossal",
-          "category": "art",
-          "sourceUrl": "https://www.thisiscolossal.com/2026/08/jiang-miao-spiral-of-energy-exhibition-wood-carvings-acrylic-paintings/",
-          "summary": "Whitestone Gallery in Seoul presents the artist's solo exhibition, 'Spiral of Energy.' Do stories and artists like this matter to you? Become a Colossal Member today and support independent arts publishing for as little…",
-          "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/08/miao-1.jpg",
-          "keyPoints": [
-            "Whitestone Gallery in Seoul presents the artist's solo exhibition, 'Spiral of Energy.' Do stories and artists like this matter to you?",
-            "Become a Colossal Member today and support independent arts publishing for as little…"
-          ]
-        },
-        {
-          "title": "Takeda’s narcolepsy drug approved by the FDA, a boon for new class of treatments",
-          "source": "STAT News",
-          "category": "biotech",
-          "sourceUrl": "https://www.statnews.com/2026/08/05/takeda-narcolepsy-drug-fda-approval-orzeyful/?utm_campaign=rss",
-          "summary": "The FDA approved a novel type of treatment for narcolepsy made by Takeda, backing a new drug class that scientists hope can be used to treat other conditions.",
-          "image": "https://www.statnews.com/wp-content/uploads/2026/08/AdobeStock_729644280_Editorial_Use_Only-1024x576.jpeg",
-          "keyPoints": [
-            "The FDA approved a novel type of treatment for narcolepsy made by Takeda, backing a new drug class that scientists hope can be used to treat other conditions."
           ]
         }
       ]
@@ -3791,6 +3792,7 @@
     "https://www.statnews.com/wp-content/uploads/2026/08/AdobeStock_442937982-1024x576.jpeg",
     "https://cdn.sanity.io/images/cxgd3urn/production/a225647f1f7b8b8719c08121712e8231762ddd78-1436x1714.jpg?w=140",
     "https://artsy-media-uploads.s3.amazonaws.com/Ape3wWzXcP_mTvFWMNXjhw%2Fmag_5+aoor.jpg",
-    "https://www.artforum.com/wp-content/uploads/2026/08/GettyImages-1237473544.jpg?w=650"
+    "https://www.artforum.com/wp-content/uploads/2026/08/GettyImages-1237473544.jpg?w=650",
+    "https://www.artforum.com/wp-content/uploads/2026/08/palazzo-pitti-sala-bianca-nuova-illuminazione.webp?w=650"
   ]
 }
