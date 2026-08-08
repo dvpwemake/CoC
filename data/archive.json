@@ -1,5 +1,25 @@
 [
   {
+    "batchId": "editorial_2026-08-06",
+    "scannedAt": "2026-08-07T01:32:35.460Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-08-06",
+        "rank": 0,
+        "title": "What the canopy hid, and what the feed still answers for",
+        "category": "editorial",
+        "summary": "Convergence of buried form and public labor",
+        "image": "https://static01.nyt.com/images/2026/08/06/multimedia/06xp-french-streamers-promo/06xp-french-streamers-promo-mediumSquareAt3X.png",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-06.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-08-06",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-08-08T00-37",
     "scannedAt": "2026-08-08T00:37:12.776Z",
     "items": [
