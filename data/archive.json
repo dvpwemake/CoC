@@ -1,21 +1,62 @@
 [
   {
-    "batchId": "editorial_2026-08-07",
-    "scannedAt": "2026-08-08T01:30:06.544Z",
-    "kind": "editorial_archive",
+    "batchId": "auto_2026-08-09T00-39",
+    "scannedAt": "2026-08-09T00:39:29.611Z",
     "items": [
       {
-        "id": "editorial_2026-08-07",
-        "rank": 0,
-        "title": "What we restore under light, and what still leaves in the dark",
-        "category": "editorial",
-        "summary": "Convergence of repaired rooms and contested origins",
-        "image": "https://img.canarymedia.com/content/uploads/Trump-and-Lutnick-polysilcon-announcement_GettyImages-2288526842.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=692c59fa6178001ae8dfd9660615e7fd",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-07.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-08-07",
-        "authorName": "Dr. Wallace Lynch"
+        "id": "auto_2026-08-09T00-39_1",
+        "rank": 1,
+        "title": "X replaces its revenue-sharing program with ‘Original Content Rewards’",
+        "category": "general",
+        "summary": "X is ending its controversial revenue-sharing program for content creators, which has seen numerous revisions under Elon Musk's reign. In its place, it's launching a new Original Content Rewards program on September…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK160_X_TWITTER__B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "sourceUrl": "https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-09T00-39_2",
+        "rank": 2,
+        "title": "Meteorite that smashed through a New Jersey roof reveals clues to life’s origins",
+        "category": "space",
+        "summary": "A rare meteorite that crashed through a New Jersey roof contains evidence of ancient salty fluids, organic compounds, and amino acids from a primitive asteroid. Its pristine chemistry could offer new clues about how…",
+        "image": "https://www.sciencedaily.com/images/1920/asteroid-impact-site-and-fragment.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260807035145.htm",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-09T00-39_3",
+        "rank": 3,
+        "title": "This tiny gold crystal could bring quantum technology out of the deep freeze",
+        "category": "energy",
+        "summary": "Scientists have created the first quantum material that can sort and transport different quantum states of light at room temperature, potentially removing the need for bulky, ultra-cold refrigeration systems. Built from…",
+        "image": "https://www.sciencedaily.com/images/1920/room-temperature-quantum-material.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260806050706.htm",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-09T00-39_4",
+        "rank": 4,
+        "title": "Teen cannabis use linked to slower memory and thinking growth",
+        "category": "neuroscience",
+        "summary": "Teens who start using cannabis may experience slower growth in memory, attention, language, and processing speed. Their abilities often developed normally at first, then began leveling off while nonusers continued…",
+        "image": "https://www.sciencedaily.com/images/1920/cannabis-effects-brain-mental-health.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260806050726.htm",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-09T00-39_5",
+        "rank": 5,
+        "title": "Uffizi Unveils Plans for $58 Million Transformation",
+        "category": "art",
+        "summary": "The Uffizi in Florence has announced a €50 million ($58 million) restoration plan that it expects to carry out over the course of two years. The renovations will encompass the Uffizi Gallery, Palazzo Pitti, and the…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/08/palazzo-pitti-sala-bianca-nuova-illuminazione.webp?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/news/uffizi-reveals-plans-for-58-million-transformation-1234756664/",
+        "fromX": false
       }
     ]
   },
@@ -77,6 +118,26 @@
         "source": "Artforum",
         "sourceUrl": "https://www.artforum.com/news/white-cube-new-york-loses-three-star-directors-1234756678/",
         "fromX": false
+      }
+    ]
+  },
+  {
+    "batchId": "editorial_2026-08-07",
+    "scannedAt": "2026-08-08T01:30:06.544Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-08-07",
+        "rank": 0,
+        "title": "What we restore under light, and what still leaves in the dark",
+        "category": "editorial",
+        "summary": "Convergence of repaired rooms and contested origins",
+        "image": "https://img.canarymedia.com/content/uploads/Trump-and-Lutnick-polysilcon-announcement_GettyImages-2288526842.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=692c59fa6178001ae8dfd9660615e7fd",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-07.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-08-07",
+        "authorName": "Dr. Wallace Lynch"
       }
     ]
   },
