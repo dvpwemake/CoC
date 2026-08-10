@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-08-10T12-36",
-    "scannedAt": "2026-08-10T12:36:42.716Z",
+    "batchId": "auto_2026-08-10T16-39",
+    "scannedAt": "2026-08-10T16:39:00.617Z",
     "items": [
       {
-        "id": "auto_2026-08-10T12-36_1",
+        "id": "auto_2026-08-10T16-39_1",
         "rank": 1,
-        "title": "Flock Cameras Can Track Every Car in America. Police Love Them. Citizens Don’t.",
+        "title": "Why Are So Many People Upset About Flock Cameras?",
         "category": "general",
-        "summary": "In Texas, there’s one thing liberals and conservatives agree on: They don’t want cameras trained on their cars.",
-        "image": "https://static01.nyt.com/images/2026/08/07/multimedia/07nat-flock-safety-TOP-jlhp/07nat-flock-safety-TOP-jlhp-mediumSquareAt3X.jpg",
+        "summary": "Flock Safety’s automated license plate-reading cameras, used by thousands of law enforcement agencies in the U.S., have drawn intense criticism from civil liberties groups.",
+        "image": "https://static01.nyt.com/images/2026/08/07/multimedia/xp-flock-explainer-hwlp/xp-flock-explainer-hwlp-mediumSquareAt3X.jpg",
         "source": "NYT Technology",
-        "sourceUrl": "https://www.nytimes.com/2026/08/10/us/flock-cameras-can-track-every-car-in-america-police-love-them-citizens-dont.html",
+        "sourceUrl": "https://www.nytimes.com/article/flock-safety-camera-technology.html",
         "fromX": false
       },
       {
-        "id": "auto_2026-08-10T12-36_2",
+        "id": "auto_2026-08-10T16-39_2",
         "rank": 2,
-        "title": "Tank problem delays first RFA launch",
-        "category": "space",
-        "summary": "The majority owner of Rocket Factory Augsburg is still confident the company will conduct its first orbital launch attempt this year despite a setback in testing. The post Tank problem delays first RFA launch appeared…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/rfaone-saxavord.jpeg?fit=1024%2C682&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/tank-problem-delays-first-rfa-launch/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-10T12-36_3",
-        "rank": 3,
-        "title": "STAT+: Sionna’s experimental cystic fibrosis pill falls flat in mid-stage trial",
-        "category": "biotech",
-        "summary": "A pill from Sionna Therapeutics provided no added benefit when combined with Vertex's cystic fibrosis blockbuster Trikafta, a blow to the biotech.",
-        "image": "https://www.statnews.com/wp-content/uploads/2020/04/AdobeStock_269344651-1024x576.jpeg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/08/10/sionna-cystic-fibrosis-trial-failures-sion719-vertex-trikaft/?utm_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-10T12-36_4",
-        "rank": 4,
-        "title": "UK Ministry of Justice spent more than £85,000 removing Banksy mural from the Royal Courts of Justice",
+        "title": "Storm King Art Center Taps Hirshhorn’s Anne Reeve for Senior Curator Role",
         "category": "art",
-        "summary": "According to the BBC, Westminster council has also spent around £60,000 on security measures for a statue the street artist installed in central London in April",
-        "image": "https://cdn.sanity.io/images/cxgd3urn/production/4ed50d296853b37aef62421a3bc889b68de93f30-1920x1446.jpg?w=140",
-        "source": "The Art Newspaper",
-        "sourceUrl": "https://www.theartnewspaper.com/2026/08/10/uk-ministry-of-justice-spent-more-than-£85000-removing-banksy-mural-from-the-royal-courts-of-justice",
+        "summary": "Storm King Art Center in New York’s Hudson Valley has announced Anne Reeve as its new senior curator, according to Artnet News. Reeve arrives to the outdoor museum from the Hirshhorn Museum and Sculpture Garden in…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/08/SKAC_Anne-Reeve_Web-size_Tina_Krohn-700x1024-2.jpeg?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/news/storm-king-art-center-names-anne-reeve-senior-curator-1234756698/",
         "fromX": false
       },
       {
-        "id": "auto_2026-08-10T12-36_5",
+        "id": "auto_2026-08-10T16-39_3",
+        "rank": 3,
+        "title": "STAT+: In surprise decision, FDA rejects radiopharma therapy expected to rival Novartis treatment",
+        "category": "biotech",
+        "summary": "The FDA has rejected a radiopharmaceutical therapy because of manufacturing issues, halting what would have been a competitor for Novartis.",
+        "image": "https://www.statnews.com/wp-content/uploads/2023/04/AdobeStock_521699065_Editorial_Use_Only-1024x576.jpeg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/08/10/itm-radiopharma-fda-rejection/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-10T16-39_4",
+        "rank": 4,
+        "title": "How Professional Event Production Creates Unforgettable Corporate Events",
+        "category": "robotics",
+        "summary": "“Remember that the guests remember moments, not agendas,” a producer told me years ago, squinting at a half-built stage. That’s the thing about corporate events: people don’t walk out quoting slide 17. They walk out…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/Event-Production-1.png",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/10/how-professional-event-production-creates-unforgettable-corporate-events/104028/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-10T16-39_5",
         "rank": 5,
-        "title": "AI for science needs reasoning, not just data",
-        "category": "ai",
-        "summary": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s, Stephen Hawking…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/ai-scientists2.jpg?resize=1200,600",
-        "source": "MIT Technology Review",
-        "sourceUrl": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
+        "title": "Chinese Long March 7A rocket explodes shortly after liftoff",
+        "category": "space",
+        "summary": "HELSINKI — China appears to have lost an unknown payload after a Long March 7A rocket exploded less than 90 seconds into flight, according to amateur footage. The Long March […] The post Chinese Long March 7A rocket…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/Shijian28-CZ7A-WSLSC-30nov2025-CASC.jpg?fit=1024%2C686&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/chinese-long-march-7a-rocket-explodes-shortly-after-liftoff/",
         "fromX": false
       }
     ]
