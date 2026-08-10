@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-08-10T05-12",
-    "scannedAt": "2026-08-10T05:12:54.346Z",
+    "batchId": "auto_2026-08-10T09-02",
+    "scannedAt": "2026-08-10T09:02:45.682Z",
     "items": [
       {
-        "id": "auto_2026-08-10T05-12_1",
+        "id": "auto_2026-08-10T09-02_1",
         "rank": 1,
-        "title": "Tech leaders say AI means less work - their staff say they work up to 90 hours a week",
-        "category": "general",
-        "summary": "Tech companies are not modelling their own claims of the technology giving people more free time.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1075/live/0b27bfa0-8aa4-11f1-a7ab-8b30adf0800a.jpg",
-        "source": "BBC Technology",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgx4yd1gl2o?at_medium=RSS&at_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-10T05-12_2",
-        "rank": 2,
-        "title": "APOD: 2026 August 10 – Three Galaxy Pairs",
-        "category": "space",
-        "summary": "APOD Science APOD APOD: 2026 August 10 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD APOD: 2026 August 10 – Three Galaxy Pairs Discover the cosmos! Each day a different image…",
-        "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/august/Three3GalaxyPairs_Sampaio_2784.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-        "source": "NASA",
-        "sourceUrl": "https://science.nasa.gov/image-article/apod/apod-2026-august-10-three-galaxy-pairs/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-10T05-12_3",
-        "rank": 3,
-        "title": "Stress can scramble your brain’s internal GPS, MRI study finds",
-        "category": "neuroscience",
-        "summary": "Stress may literally scramble the brain’s internal GPS. Researchers found that cortisol, a hormone released during stress, made people significantly worse at navigating a virtual environment and disrupted the precise…",
-        "image": "https://www.sciencedaily.com/images/1920/brain-mind-compass.webp",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260807035151.htm",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-10T05-12_4",
-        "rank": 4,
-        "title": "Uffizi Unveils Plans for $58 Million Transformation",
+        "title": "Comment | What happened to George Lucas’s vision of a museum for ‘the people’?",
         "category": "art",
-        "summary": "The Uffizi in Florence has announced a €50 million ($58 million) restoration plan that it expects to carry out over the course of two years. The renovations will encompass the Uffizi Gallery, Palazzo Pitti, and the…",
-        "image": "https://www.artforum.com/wp-content/uploads/2026/08/palazzo-pitti-sala-bianca-nuova-illuminazione.webp?w=650",
-        "source": "Artforum",
-        "sourceUrl": "https://www.artforum.com/news/uffizi-reveals-plans-for-58-million-transformation-1234756664/",
+        "summary": "The Lucas Museum of Narrative Art’s new admission and membership fees are tone-deaf and self-defeating",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/d667efd81b9a55980e3540cd07aac282a72baf29-2000x1500.jpg?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/08/10/comment-george-lucas-vision-lucas-museum-narrative-art-fundraising",
         "fromX": false
       },
       {
-        "id": "auto_2026-08-10T05-12_5",
-        "rank": 5,
-        "title": "STAT+: Up and down the ladder: The latest comings and goings",
+        "id": "auto_2026-08-10T09-02_2",
+        "rank": 2,
+        "title": "STAT+: China tightens the reins on clinical trials, even as the U.S. looks for ways to replicate its rival’s speed",
         "category": "biotech",
-        "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.",
-        "image": "https://www.statnews.com/wp-content/uploads/2021/03/Pharmalot_ComingGoing_STILL-1024x576.jpg",
+        "summary": "China has tightened regulations on investigator-initiated trials, with consequences not just for Chinese researchers but some Americans, too.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/08/GettyImages-2269935478-1024x576.jpg",
         "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/pharmalot/2026/08/07/up-and-down-ladder-latest-comings-and-goings-jobs-pharma-biotech/?utm_campaign=rss",
+        "sourceUrl": "https://www.statnews.com/2026/08/10/china-biotech-new-scrutiny-investigator-initiated-trials/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-10T09-02_3",
+        "rank": 3,
+        "title": "In North Carolina, rooftop solar is alive and well despite headwinds",
+        "category": "energy",
+        "summary": "Stew Miller, who launched his North Carolina rooftop solar company in the 2000s, says there’s “a lot of negativity” in his industry right now — and it’s easy to see why. A year ago, Republicans passed the One Big…",
+        "image": "https://img.canarymedia.com/content/uploads/Solar-installers-in-Chapel-Hill-North-Carolina_AP25183566177986.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=1d629661ca341a1ca0cc733f7f0ff0f5",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/solar/north-carolina-rooftop-solar",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-10T09-02_4",
+        "rank": 4,
+        "title": "Space Agencies Are Trying to Keep Astronauts From Losing Their Sight",
+        "category": "general",
+        "summary": "A device currently being used to help octogenarians do self-administered eye exams could be part of future space missions to monitor astronauts’ ocular health.",
+        "image": "https://media.wired.com/photos/6a75e803f890ad2594b06f9d/master/pass/BlindAstronaut.jpg",
+        "source": "WIRED",
+        "sourceUrl": "https://www.wired.com/story/space-agencies-trying-stop-astronauts-losing-sight/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-10T09-02_5",
+        "rank": 5,
+        "title": "Katalyst Space makes progress in restoring control of Swift servicing spacecraft",
+        "category": "space",
+        "summary": "The company that developed a spacecraft to boost the orbit of a NASA observatory says it is making progress in recovering from its own spacecraft’s problems. The post Katalyst Space makes progress in restoring control…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/link-solarpanel.jpeg?fit=1024%2C670&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/katalyst-space-makes-progress-in-restoring-control-of-swift-servicing-spacecraft/",
         "fromX": false
       }
     ]
