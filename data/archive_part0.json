@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-08-10T09-02",
-    "scannedAt": "2026-08-10T09:02:45.682Z",
+    "batchId": "auto_2026-08-10T12-36",
+    "scannedAt": "2026-08-10T12:36:42.716Z",
     "items": [
       {
-        "id": "auto_2026-08-10T09-02_1",
+        "id": "auto_2026-08-10T12-36_1",
         "rank": 1,
-        "title": "Comment | What happened to George Lucas’s vision of a museum for ‘the people’?",
-        "category": "art",
-        "summary": "The Lucas Museum of Narrative Art’s new admission and membership fees are tone-deaf and self-defeating",
-        "image": "https://cdn.sanity.io/images/cxgd3urn/production/d667efd81b9a55980e3540cd07aac282a72baf29-2000x1500.jpg?w=140",
-        "source": "The Art Newspaper",
-        "sourceUrl": "https://www.theartnewspaper.com/2026/08/10/comment-george-lucas-vision-lucas-museum-narrative-art-fundraising",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-10T09-02_2",
-        "rank": 2,
-        "title": "STAT+: China tightens the reins on clinical trials, even as the U.S. looks for ways to replicate its rival’s speed",
-        "category": "biotech",
-        "summary": "China has tightened regulations on investigator-initiated trials, with consequences not just for Chinese researchers but some Americans, too.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/08/GettyImages-2269935478-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/08/10/china-biotech-new-scrutiny-investigator-initiated-trials/?utm_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-10T09-02_3",
-        "rank": 3,
-        "title": "In North Carolina, rooftop solar is alive and well despite headwinds",
-        "category": "energy",
-        "summary": "Stew Miller, who launched his North Carolina rooftop solar company in the 2000s, says there’s “a lot of negativity” in his industry right now — and it’s easy to see why. A year ago, Republicans passed the One Big…",
-        "image": "https://img.canarymedia.com/content/uploads/Solar-installers-in-Chapel-Hill-North-Carolina_AP25183566177986.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=1d629661ca341a1ca0cc733f7f0ff0f5",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/solar/north-carolina-rooftop-solar",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-10T09-02_4",
-        "rank": 4,
-        "title": "Space Agencies Are Trying to Keep Astronauts From Losing Their Sight",
+        "title": "Flock Cameras Can Track Every Car in America. Police Love Them. Citizens Don’t.",
         "category": "general",
-        "summary": "A device currently being used to help octogenarians do self-administered eye exams could be part of future space missions to monitor astronauts’ ocular health.",
-        "image": "https://media.wired.com/photos/6a75e803f890ad2594b06f9d/master/pass/BlindAstronaut.jpg",
-        "source": "WIRED",
-        "sourceUrl": "https://www.wired.com/story/space-agencies-trying-stop-astronauts-losing-sight/",
+        "summary": "In Texas, there’s one thing liberals and conservatives agree on: They don’t want cameras trained on their cars.",
+        "image": "https://static01.nyt.com/images/2026/08/07/multimedia/07nat-flock-safety-TOP-jlhp/07nat-flock-safety-TOP-jlhp-mediumSquareAt3X.jpg",
+        "source": "NYT Technology",
+        "sourceUrl": "https://www.nytimes.com/2026/08/10/us/flock-cameras-can-track-every-car-in-america-police-love-them-citizens-dont.html",
         "fromX": false
       },
       {
-        "id": "auto_2026-08-10T09-02_5",
-        "rank": 5,
-        "title": "Katalyst Space makes progress in restoring control of Swift servicing spacecraft",
+        "id": "auto_2026-08-10T12-36_2",
+        "rank": 2,
+        "title": "Tank problem delays first RFA launch",
         "category": "space",
-        "summary": "The company that developed a spacecraft to boost the orbit of a NASA observatory says it is making progress in recovering from its own spacecraft’s problems. The post Katalyst Space makes progress in restoring control…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/link-solarpanel.jpeg?fit=1024%2C670&ssl=1",
+        "summary": "The majority owner of Rocket Factory Augsburg is still confident the company will conduct its first orbital launch attempt this year despite a setback in testing. The post Tank problem delays first RFA launch appeared…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/rfaone-saxavord.jpeg?fit=1024%2C682&ssl=1",
         "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/katalyst-space-makes-progress-in-restoring-control-of-swift-servicing-spacecraft/",
+        "sourceUrl": "https://spacenews.com/tank-problem-delays-first-rfa-launch/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-10T12-36_3",
+        "rank": 3,
+        "title": "STAT+: Sionna’s experimental cystic fibrosis pill falls flat in mid-stage trial",
+        "category": "biotech",
+        "summary": "A pill from Sionna Therapeutics provided no added benefit when combined with Vertex's cystic fibrosis blockbuster Trikafta, a blow to the biotech.",
+        "image": "https://www.statnews.com/wp-content/uploads/2020/04/AdobeStock_269344651-1024x576.jpeg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/08/10/sionna-cystic-fibrosis-trial-failures-sion719-vertex-trikaft/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-10T12-36_4",
+        "rank": 4,
+        "title": "UK Ministry of Justice spent more than £85,000 removing Banksy mural from the Royal Courts of Justice",
+        "category": "art",
+        "summary": "According to the BBC, Westminster council has also spent around £60,000 on security measures for a statue the street artist installed in central London in April",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/4ed50d296853b37aef62421a3bc889b68de93f30-1920x1446.jpg?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/08/10/uk-ministry-of-justice-spent-more-than-£85000-removing-banksy-mural-from-the-royal-courts-of-justice",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-10T12-36_5",
+        "rank": 5,
+        "title": "AI for science needs reasoning, not just data",
+        "category": "ai",
+        "summary": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s, Stephen Hawking…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/ai-scientists2.jpg?resize=1200,600",
+        "source": "MIT Technology Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
         "fromX": false
       }
     ]
