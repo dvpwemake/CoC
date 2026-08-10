@@ -1,5 +1,66 @@
 [
   {
+    "scannedAt": "2026-06-09T15:24:32.553Z",
+    "items": [
+      {
+        "id": "b1781018672553_1",
+        "rank": 1,
+        "title": "Monash University's Photonic Valleytronic Chip Breakthrough",
+        "category": "ai",
+        "summary": "Scientists at Monash University have created a tiny chip that can generate, steer, and read light-based information all in one device, marking a major leap toward ultra-fast, energy-efficient computing. The breakthrough uses atomically thin materials and nanoscale structures to control a unique quantum property of light called the \"valley\" degree of freedom, allowing information to be encoded in new ways. This represents a significant advancement in valleytronics research that could drive future breakthroughs in faster computing, lower energy consumption, and quantum technologies.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260601025343.htm",
+        "image": "https://www.sciencedaily.com/images/1920/photonic-valleytronic-chip-for-information-processing.webp",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fphotonic-valleytronic-chip-for-information-processing.webp&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1781018672553_2",
+        "rank": 2,
+        "title": "Breakthrough Discovery of Hidden Cancer Immune System Brake",
+        "category": "biotech",
+        "summary": "Scientists have uncovered a hidden immune system \"brake\" that may help cancers avoid being destroyed. The molecule, called SLAMF6, weakens the body's cancer-fighting T cells and can leave them exhausted over time. This discovery could revolutionize cancer immunotherapy by providing new targets for treatment, representing a major convergence of biological understanding and therapeutic intervention.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/",
+        "image": "https://www.sciencedaily.com/images/scidaily-icon.png",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2Fscidaily-icon.png&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1781018672553_3",
+        "rank": 3,
+        "title": "NVIDIA Isaac GR00T Physical AI Breakthrough for Robotics",
+        "category": "robotics",
+        "summary": "New NVIDIA Isaac GR00T open models enable robots to understand natural language instructions and perform complex, multistep tasks using vision language action reasoning. New NVIDIA Cosmos world models for generating synthetic data and training robots at scale help systems learn more efficiently and generalize across environments. This represents a fundamental convergence of AI, robotics, and human-machine interaction, enabling truly collaborative robotics.",
+        "source": "NVIDIA Blog",
+        "sourceUrl": "https://blogs.nvidia.com/blog/national-robotics-week-2026/",
+        "image": "https://blogs.nvidia.com/wp-content/uploads/2026/04/robotics-tech-blog-nrw-rolling-blog-1280x680-1.jpg",
+        "imageProxy": "https://images.weserv.nl/?url=blogs.nvidia.com%2Fwp-content%2Fuploads%2F2026%2F04%2Frobotics-tech-blog-nrw-rolling-blog-1280x680-1.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1781018672553_4",
+        "rank": 4,
+        "title": "Nanoscale Gold Metamaterials Supercharge Heat Transfer",
+        "category": "ai",
+        "summary": "Scientists used nanoscale gold metamaterials to supercharge heat transfer across tiny gaps, achieving up to four times more energy flow than similar conventional systems. The breakthrough could lead to better chip cooling, more efficient energy technologies, and a new era of precision heat management. This advancement represents convergence of nanotechnology, materials science, and energy systems that could transform thermal management across industries.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/",
+        "image": "https://www.sciencedaily.com/images/scidaily-icon.png",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2Fscidaily-icon.png&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1781018672553_5",
+        "rank": 5,
+        "title": "Google's REPLIQA Program Unites Quantum AI and Life Sciences",
+        "category": "ai",
+        "summary": "Google has launched REPLIQA, a $10 million research program uniting quantum AI and life sciences to simulate biological processes at a molecular level, targeting challenges like protein folding and drug metabolism. By collaborating with leading universities, REPLIQA aims to develop quantum-enhanced tools and sensing hardware for medical breakthroughs, achieving utility-scale quantum advantage in life sciences by the early 2030s. This represents the ultimate convergence of quantum computing, artificial intelligence, and biological systems.",
+        "source": "Quantum Computing Report",
+        "sourceUrl": "https://quantumcomputingreport.com/news/",
+        "image": "https://quantumcomputingreport.com/wp-content/uploads/2022/12/QCR-by-GQI-Original-on-Transparent-20.png",
+        "imageProxy": "https://images.weserv.nl/?url=quantumcomputingreport.com%2Fwp-content%2Fuploads%2F2022%2F12%2FQCR-by-GQI-Original-on-Transparent-20.png&w=640&h=400&fit=cover&we&output=jpg"
+      }
+    ],
+    "batchId": "b1781018672553"
+  },
+  {
     "scannedAt": "2026-06-08T22:45:19.218Z",
     "items": [
       {

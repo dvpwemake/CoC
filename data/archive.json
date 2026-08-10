@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-08-10T00-41",
+    "scannedAt": "2026-08-10T00:41:00.407Z",
+    "items": [
+      {
+        "id": "auto_2026-08-10T00-41_1",
+        "rank": 1,
+        "title": "STAT+: A shortage of two Sanofi medicines for Pompe disease rattles patients",
+        "category": "biotech",
+        "summary": "Sanofi is experiencing shortages of two medicines for Pompe disease, alarming patient groups.",
+        "image": "https://www.statnews.com/wp-content/uploads/2024/12/DSC00011-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/pharmalot/2026/08/09/sanofi-pompe-disease-drug-shortage-myozyme-nexviazyme/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-10T00-41_2",
+        "rank": 2,
+        "title": "No Dogs in Space is a music history podcast for true obsessives",
+        "category": "general",
+        "summary": "Sadly, there hasn't been a new episode of No Dogs in Space since July of 2024. Part four of the podcast's series on Can wrapped up an abbreviated season three, which focused on experimental rock. Don't get me wrong, I…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/NDIS_LOGO.webp?quality=90&strip=all&crop=0%2C23.821989528796%2C100%2C52.356020942408&w=1200",
+        "source": "The Verge",
+        "sourceUrl": "https://www.theverge.com/entertainment/977190/no-dogs-in-space-music-history-podcast",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-10T00-41_3",
+        "rank": 3,
+        "title": "Frequent cannabis users wake up with their “stress hormone” already elevated",
+        "category": "neuroscience",
+        "summary": "Frequent cannabis users may wake up with unusually high levels of the stress hormone cortisol, suggesting their daily stress rhythms could be disrupted. Researchers say the finding raises questions about whether using…",
+        "image": "https://www.sciencedaily.com/images/1920/woman-stress-headache-bed-sick-hangover-sleep.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260808234953.htm",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-10T00-41_4",
+        "rank": 4,
+        "title": "Meteorite that smashed through a New Jersey roof reveals clues to life’s origins",
+        "category": "space",
+        "summary": "A rare meteorite that crashed through a New Jersey roof contains evidence of ancient salty fluids, organic compounds, and amino acids from a primitive asteroid. Its pristine chemistry could offer new clues about how…",
+        "image": "https://www.sciencedaily.com/images/1920/asteroid-impact-site-and-fragment.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260807035145.htm",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-10T00-41_5",
+        "rank": 5,
+        "title": "This tiny gold crystal could bring quantum technology out of the deep freeze",
+        "category": "energy",
+        "summary": "Scientists have created the first quantum material that can sort and transport different quantum states of light at room temperature, potentially removing the need for bulky, ultra-cold refrigeration systems. Built from…",
+        "image": "https://www.sciencedaily.com/images/1920/room-temperature-quantum-material.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260806050706.htm",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-08-09T20-16",
     "scannedAt": "2026-08-09T20:16:03.361Z",
     "items": [

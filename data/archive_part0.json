@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-08-10T00-41",
+    "scannedAt": "2026-08-10T00:41:00.407Z",
+    "items": [
+      {
+        "id": "auto_2026-08-10T00-41_1",
+        "rank": 1,
+        "title": "STAT+: A shortage of two Sanofi medicines for Pompe disease rattles patients",
+        "category": "biotech",
+        "summary": "Sanofi is experiencing shortages of two medicines for Pompe disease, alarming patient groups.",
+        "image": "https://www.statnews.com/wp-content/uploads/2024/12/DSC00011-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/pharmalot/2026/08/09/sanofi-pompe-disease-drug-shortage-myozyme-nexviazyme/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-10T00-41_2",
+        "rank": 2,
+        "title": "No Dogs in Space is a music history podcast for true obsessives",
+        "category": "general",
+        "summary": "Sadly, there hasn't been a new episode of No Dogs in Space since July of 2024. Part four of the podcast's series on Can wrapped up an abbreviated season three, which focused on experimental rock. Don't get me wrong, I…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/NDIS_LOGO.webp?quality=90&strip=all&crop=0%2C23.821989528796%2C100%2C52.356020942408&w=1200",
+        "source": "The Verge",
+        "sourceUrl": "https://www.theverge.com/entertainment/977190/no-dogs-in-space-music-history-podcast",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-10T00-41_3",
+        "rank": 3,
+        "title": "Frequent cannabis users wake up with their “stress hormone” already elevated",
+        "category": "neuroscience",
+        "summary": "Frequent cannabis users may wake up with unusually high levels of the stress hormone cortisol, suggesting their daily stress rhythms could be disrupted. Researchers say the finding raises questions about whether using…",
+        "image": "https://www.sciencedaily.com/images/1920/woman-stress-headache-bed-sick-hangover-sleep.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260808234953.htm",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-10T00-41_4",
+        "rank": 4,
+        "title": "Meteorite that smashed through a New Jersey roof reveals clues to life’s origins",
+        "category": "space",
+        "summary": "A rare meteorite that crashed through a New Jersey roof contains evidence of ancient salty fluids, organic compounds, and amino acids from a primitive asteroid. Its pristine chemistry could offer new clues about how…",
+        "image": "https://www.sciencedaily.com/images/1920/asteroid-impact-site-and-fragment.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260807035145.htm",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-10T00-41_5",
+        "rank": 5,
+        "title": "This tiny gold crystal could bring quantum technology out of the deep freeze",
+        "category": "energy",
+        "summary": "Scientists have created the first quantum material that can sort and transport different quantum states of light at room temperature, potentially removing the need for bulky, ultra-cold refrigeration systems. Built from…",
+        "image": "https://www.sciencedaily.com/images/1920/room-temperature-quantum-material.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260806050706.htm",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-08-09T20-16",
     "scannedAt": "2026-08-09T20:16:03.361Z",
     "items": [
@@ -1009,67 +1070,6 @@
         "isEditorialArchive": true,
         "publishDate": "2026-07-27",
         "authorName": "Dr. Wallace Lynch"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-07-27T20-57",
-    "scannedAt": "2026-07-27T20:57:37.248Z",
-    "items": [
-      {
-        "id": "auto_2026-07-27T20-57_1",
-        "rank": 1,
-        "title": "STAT+: HIV resurgence is feared as global funding to combat the disease falls 18%",
-        "category": "biotech",
-        "summary": "The world risks a resurgence of the HIV epidemic after international financing to combat the disease suffered a “profound shock” last year, according to a new report from UNAIDS.",
-        "image": "https://www.statnews.com/wp-content/uploads/2023/11/AdobeStock_658340371-e1699309224459-1024x576.jpeg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/pharmalot/2026/07/27/hiv-resurgence-is-feared-as-global-fund-to-combat-the-disease-falls-18-percent/?utm_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-07-27T20-57_2",
-        "rank": 2,
-        "title": "3-Region Neural Circuit Required for Sleep Memory",
-        "category": "neuroscience",
-        "summary": "A new study reveals that memory consolidation during sleep requires coordinated signaling among the orbitofrontal cortex, thalamus, and hippocampus, and shows how epileptic spikes break this circuit.",
-        "image": "https://neurosciencenews.com/files/2026/07/sleep-memory-consolidation-neurosience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/sleep-memory-epilepsy-neuroscience-31138/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-07-27T20-57_3",
-        "rank": 3,
-        "title": "The Smithsonian Is Not the President's Museum",
-        "category": "art",
-        "summary": "The Trump administration’s latest order marks an unprecedented effort to subordinate one of America's foremost public institutions to partisan power.",
-        "image": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/07/GettyImages-2230033223.jpg",
-        "source": "Hyperallergic",
-        "sourceUrl": "https://hyperallergic.com/the-smithsonian-is-not-the-presidents-museum/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-07-27T20-57_4",
-        "rank": 4,
-        "title": "Upper C-band auction offers another lift for GEO industry",
-        "category": "space",
-        "summary": "Satellite operators have welcomed the prospect of reaping more than $6 billion for quickly clearing upper C-band spectrum the FCC aims to auction next year, with billions more set to cover new geostationary spacecraft…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/SES-Press-Release_SES-Completes-Acquisition-of-Intelsat_image-scaled-1.jpg?fit=1024%2C576&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/upper-c-band-auction-offers-another-lift-for-geo-industry/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-07-27T20-57_5",
-        "rank": 5,
-        "title": "What Problems Can Raspberry Pi Solve for Businesses Using Multiple Displays?",
-        "category": "robotics",
-        "summary": "Managing several display screens across one location or multiple sites can become difficult without the right system. Different content, inconsistent updates, and manual changes take valuable time away from daily…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/07/raspberry-pi-1.jpg",
-        "source": "Robotics & Automation News",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/07/27/what-problems-can-raspberry-pi-solve-for-businesses-using-multiple-displays/103641/",
-        "fromX": false
       }
     ]
   }

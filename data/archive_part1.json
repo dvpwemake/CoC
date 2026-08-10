@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-07-27T20-57",
+    "scannedAt": "2026-07-27T20:57:37.248Z",
+    "items": [
+      {
+        "id": "auto_2026-07-27T20-57_1",
+        "rank": 1,
+        "title": "STAT+: HIV resurgence is feared as global funding to combat the disease falls 18%",
+        "category": "biotech",
+        "summary": "The world risks a resurgence of the HIV epidemic after international financing to combat the disease suffered a “profound shock” last year, according to a new report from UNAIDS.",
+        "image": "https://www.statnews.com/wp-content/uploads/2023/11/AdobeStock_658340371-e1699309224459-1024x576.jpeg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/pharmalot/2026/07/27/hiv-resurgence-is-feared-as-global-fund-to-combat-the-disease-falls-18-percent/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-27T20-57_2",
+        "rank": 2,
+        "title": "3-Region Neural Circuit Required for Sleep Memory",
+        "category": "neuroscience",
+        "summary": "A new study reveals that memory consolidation during sleep requires coordinated signaling among the orbitofrontal cortex, thalamus, and hippocampus, and shows how epileptic spikes break this circuit.",
+        "image": "https://neurosciencenews.com/files/2026/07/sleep-memory-consolidation-neurosience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/sleep-memory-epilepsy-neuroscience-31138/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-27T20-57_3",
+        "rank": 3,
+        "title": "The Smithsonian Is Not the President's Museum",
+        "category": "art",
+        "summary": "The Trump administration’s latest order marks an unprecedented effort to subordinate one of America's foremost public institutions to partisan power.",
+        "image": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/07/GettyImages-2230033223.jpg",
+        "source": "Hyperallergic",
+        "sourceUrl": "https://hyperallergic.com/the-smithsonian-is-not-the-presidents-museum/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-27T20-57_4",
+        "rank": 4,
+        "title": "Upper C-band auction offers another lift for GEO industry",
+        "category": "space",
+        "summary": "Satellite operators have welcomed the prospect of reaping more than $6 billion for quickly clearing upper C-band spectrum the FCC aims to auction next year, with billions more set to cover new geostationary spacecraft…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/SES-Press-Release_SES-Completes-Acquisition-of-Intelsat_image-scaled-1.jpg?fit=1024%2C576&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/upper-c-band-auction-offers-another-lift-for-geo-industry/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-27T20-57_5",
+        "rank": 5,
+        "title": "What Problems Can Raspberry Pi Solve for Businesses Using Multiple Displays?",
+        "category": "robotics",
+        "summary": "Managing several display screens across one location or multiple sites can become difficult without the right system. Different content, inconsistent updates, and manual changes take valuable time away from daily…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/07/raspberry-pi-1.jpg",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/07/27/what-problems-can-raspberry-pi-solve-for-businesses-using-multiple-displays/103641/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-07-26T20-42",
     "scannedAt": "2026-07-26T20:42:29.589Z",
     "items": [
@@ -1099,67 +1160,6 @@
         "source": "Canary Media",
         "sourceUrl": "https://www.canarymedia.com/articles/grid-edge/clean-energy-grid-heat-wave",
         "imageProxy": "https://images.weserv.nl/?url=img.canarymedia.com%2Fcontent%2Fuploads%2FNYC-heat-wave-people-with-umbrellas_GettyImages-2284372317.jpg%3Fauto%3Dcompress%252Cformat%26crop%3Dfocalpoint%26fit%3Dcrop%26fp-x%3D0.5%26fp-y%3D0.5%26h%3D630%26q%3D82%26w%3D1200%26s%3D27708a61be9da4ad33d8a18f1fcaba11&w=640&h=400&fit=cover&we&output=jpg"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-07-09T21-08",
-    "scannedAt": "2026-07-09T21:08:26.697Z",
-    "items": [
-      {
-        "id": "auto_2026-07-09T21-08_1",
-        "rank": 1,
-        "title": "1,000-Subject Trial Maps Brain Aging in the Real World",
-        "category": "neuroscience",
-        "summary": "A technologically ambitious partnership between UCSF Neuroscape and Samsung launches the TAH-DA study, a massive remote longitudinal trial utilizing consumer wearables to predict and track cognitive decline across the…",
-        "image": "https://neurosciencenews.com/files/2026/07/neurotech-cognitive-decline-lifespan-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/brain-aging-cognition-neurotech-31028/",
-        "imageProxy": "https://images.weserv.nl/?url=neurosciencenews.com%2Ffiles%2F2026%2F07%2Fneurotech-cognitive-decline-lifespan-neuroscience-1155x770.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-09T21-08_2",
-        "rank": 2,
-        "title": "Anthropic found a hidden space where Claude puzzles over concepts",
-        "category": "ai",
-        "summary": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/llm-crystal-globe_1.jpg?resize=1200,600",
-        "source": "MIT Technology Review",
-        "sourceUrl": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
-        "imageProxy": "https://images.weserv.nl/?url=wp.technologyreview.com%2Fwp-content%2Fuploads%2F2026%2F07%2Fllm-crystal-globe_1.jpg%3Fresize%3D1200%2C600&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-09T21-08_3",
-        "rank": 3,
-        "title": "The Exploration Company establishes US entity to pursue government contracts",
-        "category": "space",
-        "summary": "JOHANNESBURG — The Exploration Company, a space transportation company based in Germany, established TEC Federal, a United States-based entity that will enable it to compete for government programs and contracts. […]…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/nyx-droptest.jpeg?fit=1024%2C683&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/the-exploration-company-establishes-us-entity-to-pursue-government-contracts/",
-        "imageProxy": "https://images.weserv.nl/?url=i0.wp.com%2Fspacenews.com%2Fwp-content%2Fuploads%2F2026%2F06%2Fnyx-droptest.jpeg%3Ffit%3D1024%252C683%26ssl%3D1&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-09T21-08_4",
-        "rank": 4,
-        "title": "Whistleblower takes on health insurance and FDA commissioner candidates",
-        "category": "biotech",
-        "summary": "This week on \"The Readout LOUD\" podcast: Why does getting family health insurance through a job cost as much as buying a new car? And who might be the new…",
-        "image": "https://www.statnews.com/wp-content/uploads/2024/07/ROL_Rectangle-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/07/09/readout-loud-podcast-fda-commissioner-candidates-health-insurance-costs/?utm_campaign=rss",
-        "imageProxy": "https://images.weserv.nl/?url=www.statnews.com%2Fwp-content%2Fuploads%2F2024%2F07%2FROL_Rectangle-1024x576.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-09T21-08_5",
-        "rank": 5,
-        "title": "Ohio Power Siting Board asks court to punt on high-stakes solar case",
-        "category": "energy",
-        "summary": "For more than a year, the Ohio Supreme Court has been set to make a landmark ruling in a case with high stakes for renewable energy development. But now, the Ohio Power Siting Board has asked the court to skip that and…",
-        "image": "https://img.canarymedia.com/content/uploads/Ohio_Judicial_Center_façade_Wikipedia.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=64cbf2a9010769a921f78f8852307d1f",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/solar/ohio-power-siting-board-solar-case",
-        "imageProxy": "https://images.weserv.nl/?url=img.canarymedia.com%2Fcontent%2Fuploads%2FOhio_Judicial_Center_fac%CC%A7ade_Wikipedia.jpg%3Fauto%3Dcompress%252Cformat%26crop%3Dfocalpoint%26fit%3Dcrop%26fp-x%3D0.5%26fp-y%3D0.5%26h%3D630%26q%3D82%26w%3D1200%26s%3D64cbf2a9010769a921f78f8852307d1f&w=640&h=400&fit=cover&we&output=jpg"
       }
     ]
   }

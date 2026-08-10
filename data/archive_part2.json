@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-07-09T21-08",
+    "scannedAt": "2026-07-09T21:08:26.697Z",
+    "items": [
+      {
+        "id": "auto_2026-07-09T21-08_1",
+        "rank": 1,
+        "title": "1,000-Subject Trial Maps Brain Aging in the Real World",
+        "category": "neuroscience",
+        "summary": "A technologically ambitious partnership between UCSF Neuroscape and Samsung launches the TAH-DA study, a massive remote longitudinal trial utilizing consumer wearables to predict and track cognitive decline across the…",
+        "image": "https://neurosciencenews.com/files/2026/07/neurotech-cognitive-decline-lifespan-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/brain-aging-cognition-neurotech-31028/",
+        "imageProxy": "https://images.weserv.nl/?url=neurosciencenews.com%2Ffiles%2F2026%2F07%2Fneurotech-cognitive-decline-lifespan-neuroscience-1155x770.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-07-09T21-08_2",
+        "rank": 2,
+        "title": "Anthropic found a hidden space where Claude puzzles over concepts",
+        "category": "ai",
+        "summary": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/llm-crystal-globe_1.jpg?resize=1200,600",
+        "source": "MIT Technology Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+        "imageProxy": "https://images.weserv.nl/?url=wp.technologyreview.com%2Fwp-content%2Fuploads%2F2026%2F07%2Fllm-crystal-globe_1.jpg%3Fresize%3D1200%2C600&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-07-09T21-08_3",
+        "rank": 3,
+        "title": "The Exploration Company establishes US entity to pursue government contracts",
+        "category": "space",
+        "summary": "JOHANNESBURG — The Exploration Company, a space transportation company based in Germany, established TEC Federal, a United States-based entity that will enable it to compete for government programs and contracts. […]…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/nyx-droptest.jpeg?fit=1024%2C683&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/the-exploration-company-establishes-us-entity-to-pursue-government-contracts/",
+        "imageProxy": "https://images.weserv.nl/?url=i0.wp.com%2Fspacenews.com%2Fwp-content%2Fuploads%2F2026%2F06%2Fnyx-droptest.jpeg%3Ffit%3D1024%252C683%26ssl%3D1&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-07-09T21-08_4",
+        "rank": 4,
+        "title": "Whistleblower takes on health insurance and FDA commissioner candidates",
+        "category": "biotech",
+        "summary": "This week on \"The Readout LOUD\" podcast: Why does getting family health insurance through a job cost as much as buying a new car? And who might be the new…",
+        "image": "https://www.statnews.com/wp-content/uploads/2024/07/ROL_Rectangle-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/07/09/readout-loud-podcast-fda-commissioner-candidates-health-insurance-costs/?utm_campaign=rss",
+        "imageProxy": "https://images.weserv.nl/?url=www.statnews.com%2Fwp-content%2Fuploads%2F2024%2F07%2FROL_Rectangle-1024x576.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-07-09T21-08_5",
+        "rank": 5,
+        "title": "Ohio Power Siting Board asks court to punt on high-stakes solar case",
+        "category": "energy",
+        "summary": "For more than a year, the Ohio Supreme Court has been set to make a landmark ruling in a case with high stakes for renewable energy development. But now, the Ohio Power Siting Board has asked the court to skip that and…",
+        "image": "https://img.canarymedia.com/content/uploads/Ohio_Judicial_Center_façade_Wikipedia.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=64cbf2a9010769a921f78f8852307d1f",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/solar/ohio-power-siting-board-solar-case",
+        "imageProxy": "https://images.weserv.nl/?url=img.canarymedia.com%2Fcontent%2Fuploads%2FOhio_Judicial_Center_fac%CC%A7ade_Wikipedia.jpg%3Fauto%3Dcompress%252Cformat%26crop%3Dfocalpoint%26fit%3Dcrop%26fp-x%3D0.5%26fp-y%3D0.5%26h%3D630%26q%3D82%26w%3D1200%26s%3D64cbf2a9010769a921f78f8852307d1f&w=640&h=400&fit=cover&we&output=jpg"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-07-08T20-51",
     "scannedAt": "2026-07-08T20:51:54.549Z",
     "items": [
@@ -1296,66 +1357,5 @@
       }
     ],
     "batchId": "b1781029199334"
-  },
-  {
-    "scannedAt": "2026-06-09T15:24:32.553Z",
-    "items": [
-      {
-        "id": "b1781018672553_1",
-        "rank": 1,
-        "title": "Monash University's Photonic Valleytronic Chip Breakthrough",
-        "category": "ai",
-        "summary": "Scientists at Monash University have created a tiny chip that can generate, steer, and read light-based information all in one device, marking a major leap toward ultra-fast, energy-efficient computing. The breakthrough uses atomically thin materials and nanoscale structures to control a unique quantum property of light called the \"valley\" degree of freedom, allowing information to be encoded in new ways. This represents a significant advancement in valleytronics research that could drive future breakthroughs in faster computing, lower energy consumption, and quantum technologies.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260601025343.htm",
-        "image": "https://www.sciencedaily.com/images/1920/photonic-valleytronic-chip-for-information-processing.webp",
-        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fphotonic-valleytronic-chip-for-information-processing.webp&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "b1781018672553_2",
-        "rank": 2,
-        "title": "Breakthrough Discovery of Hidden Cancer Immune System Brake",
-        "category": "biotech",
-        "summary": "Scientists have uncovered a hidden immune system \"brake\" that may help cancers avoid being destroyed. The molecule, called SLAMF6, weakens the body's cancer-fighting T cells and can leave them exhausted over time. This discovery could revolutionize cancer immunotherapy by providing new targets for treatment, representing a major convergence of biological understanding and therapeutic intervention.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/",
-        "image": "https://www.sciencedaily.com/images/scidaily-icon.png",
-        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2Fscidaily-icon.png&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "b1781018672553_3",
-        "rank": 3,
-        "title": "NVIDIA Isaac GR00T Physical AI Breakthrough for Robotics",
-        "category": "robotics",
-        "summary": "New NVIDIA Isaac GR00T open models enable robots to understand natural language instructions and perform complex, multistep tasks using vision language action reasoning. New NVIDIA Cosmos world models for generating synthetic data and training robots at scale help systems learn more efficiently and generalize across environments. This represents a fundamental convergence of AI, robotics, and human-machine interaction, enabling truly collaborative robotics.",
-        "source": "NVIDIA Blog",
-        "sourceUrl": "https://blogs.nvidia.com/blog/national-robotics-week-2026/",
-        "image": "https://blogs.nvidia.com/wp-content/uploads/2026/04/robotics-tech-blog-nrw-rolling-blog-1280x680-1.jpg",
-        "imageProxy": "https://images.weserv.nl/?url=blogs.nvidia.com%2Fwp-content%2Fuploads%2F2026%2F04%2Frobotics-tech-blog-nrw-rolling-blog-1280x680-1.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "b1781018672553_4",
-        "rank": 4,
-        "title": "Nanoscale Gold Metamaterials Supercharge Heat Transfer",
-        "category": "ai",
-        "summary": "Scientists used nanoscale gold metamaterials to supercharge heat transfer across tiny gaps, achieving up to four times more energy flow than similar conventional systems. The breakthrough could lead to better chip cooling, more efficient energy technologies, and a new era of precision heat management. This advancement represents convergence of nanotechnology, materials science, and energy systems that could transform thermal management across industries.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/",
-        "image": "https://www.sciencedaily.com/images/scidaily-icon.png",
-        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2Fscidaily-icon.png&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "b1781018672553_5",
-        "rank": 5,
-        "title": "Google's REPLIQA Program Unites Quantum AI and Life Sciences",
-        "category": "ai",
-        "summary": "Google has launched REPLIQA, a $10 million research program uniting quantum AI and life sciences to simulate biological processes at a molecular level, targeting challenges like protein folding and drug metabolism. By collaborating with leading universities, REPLIQA aims to develop quantum-enhanced tools and sensing hardware for medical breakthroughs, achieving utility-scale quantum advantage in life sciences by the early 2030s. This represents the ultimate convergence of quantum computing, artificial intelligence, and biological systems.",
-        "source": "Quantum Computing Report",
-        "sourceUrl": "https://quantumcomputingreport.com/news/",
-        "image": "https://quantumcomputingreport.com/wp-content/uploads/2022/12/QCR-by-GQI-Original-on-Transparent-20.png",
-        "imageProxy": "https://images.weserv.nl/?url=quantumcomputingreport.com%2Fwp-content%2Fuploads%2F2022%2F12%2FQCR-by-GQI-Original-on-Transparent-20.png&w=640&h=400&fit=cover&we&output=jpg"
-      }
-    ],
-    "batchId": "b1781018672553"
   }
 ]
