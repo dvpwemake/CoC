@@ -1,81 +1,61 @@
 [
   {
-    "batchId": "editorial_2026-08-08",
-    "scannedAt": "2026-08-08T20:15:00.706Z",
-    "kind": "editorial_archive",
+    "batchId": "auto_2026-08-11T04-55",
+    "scannedAt": "2026-08-11T04:55:55.606Z",
     "items": [
       {
-        "id": "editorial_2026-08-08",
-        "rank": 0,
-        "title": "What the freeze no longer owns, and what growth still costs",
-        "category": "editorial",
-        "summary": "Convergence of open instruments and living stakes",
-        "image": "https://media.wired.com/photos/6a763d9eaaeaaaadb9031470/master/pass/fotografia%20del%20sol.jpg",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-08.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-08-08",
-        "authorName": "Dr. Wallace Lynch"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-08-11T00-41",
-    "scannedAt": "2026-08-11T00:41:09.708Z",
-    "items": [
-      {
-        "id": "auto_2026-08-11T00-41_1",
+        "id": "auto_2026-08-11T04-55_1",
         "rank": 1,
-        "title": "Nvidia gets $500bn from major investors to develop AI infrastructure",
+        "title": "Ars Live: Ross Scott discusses the Stop Killing Games movement",
         "category": "general",
-        "summary": "The money will be used to develop new data centres to house, operate, and cool miles of stacked computer chips that process AI data and actions.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13ae/live/d1192590-9504-11f1-bf69-07da70b136c8.jpg",
-        "source": "BBC Technology",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
+        "summary": "Our discussion takes place live on August 11 at 3 pm ET.",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/skg.jpg",
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/gaming/2026/08/ars-live-ross-scott-discusses-the-stop-killing-games-movement/",
         "fromX": false
       },
       {
-        "id": "auto_2026-08-11T00-41_2",
+        "id": "auto_2026-08-11T04-55_2",
         "rank": 2,
-        "title": "A 639-Year-Long John Cage Performance Had Its First Chord Change In Two Years",
+        "title": "Long-Delayed Lucas Museum Draws Criticism Over Admission Prices",
         "category": "art",
-        "summary": "One of the longest-running musical performances in history witnessed its first chord change in over two years on August 5. The 639-year-long performance, which is taking place at the St. Burchardi Church in Halberstadt…",
-        "image": "https://www.artforum.com/wp-content/uploads/2026/08/GettyImages-2284733294.jpg?w=650",
+        "summary": "The Lucas Museum of Narrative Art is scheduled to open to the public on September 22nd, but the Los Angeles institution's planned multi-tiered membership models have drawn criticism already. Jori Finkel, a critic and…",
+        "image": "https://www.artforum.com/wp-content/uploads/2025/05/GettyImages-2213449963.jpg?w=650",
         "source": "Artforum",
-        "sourceUrl": "https://www.artforum.com/news/639-year-john-cage-piece-first-chord-change-in-900-days-1234756726/",
+        "sourceUrl": "https://www.artforum.com/news/lucas-museum-draws-criticism-over-admission-prices-1234756718/",
         "fromX": false
       },
       {
-        "id": "auto_2026-08-11T00-41_3",
+        "id": "auto_2026-08-11T04-55_3",
         "rank": 3,
-        "title": "Rocket Lab builds deployable infrastructure for Electron launches",
-        "category": "space",
-        "summary": "Named ‘GHOST’ the containerized infrastructure is designed to support orbital and suborbital launches The post Rocket Lab builds deployable infrastructure for Electron launches appeared first on SpaceNews .",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/54452351061_f80cf5db9c_k.jpg?fit=1024%2C768&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/rocket-lab-builds-deployable-infrastructure-for-electron-launches/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-11T00-41_4",
-        "rank": 4,
-        "title": "Regenerative Astrocytes Repair Brain Damage",
-        "category": "neuroscience",
-        "summary": "A new study study shows specialized astrocytes repair brain damage by sending cell nuclei through long cellular extensions to rebuild glial networks.",
-        "image": "https://neurosciencenews.com/files/2026/08/astrocytes-neuroregeneration-neuroscience-1155x621.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/regenerative-astrocytes-brain-repair-31204/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-11T00-41_5",
-        "rank": 5,
-        "title": "Interview with the IEEE’s Dejan Milojicic: 30 technology megatrends for 2030",
+        "title": "Robot Recycler Salvages Parts from Broken Machines",
         "category": "robotics",
-        "summary": "While generative AI has dominated much of the technology debate in recent years, the next major phase of development may increasingly involve AI systems that can perceive, interact with and act in the physical world.…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/ieee-2030-Technology-Megatrends.jpg",
-        "source": "Robotics & Automation News",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/10/interview-with-the-ieees-dejan-milojicic-30-technology-megatrends-for-2030/104047/",
+        "summary": "Objects constructed by robots are ubiquitous. If you’ve used a car, household appliance, or smartphone today, you’ve used an object constructed at least in part by robots. The more products that manufacturers want to…",
+        "image": "https://spectrum.ieee.org/media-library/two-large-industrial-robotic-arms-in-a-university-laboratory.jpg?id=67561939&width=980",
+        "source": "IEEE Spectrum",
+        "sourceUrl": "https://spectrum.ieee.org/recycling-robot",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-11T04-55_4",
+        "rank": 4,
+        "title": "Eye Tracking Reveals Where Human Reading and AI Processing Diverge",
+        "category": "neuroscience",
+        "summary": "A new study compares human eye-tracking to 400+ LLMs, revealing where AI fails to explain human rereading and text integration.",
+        "image": "https://neurosciencenews.com/files/2026/08/reading-llms-eye-tracking-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/human-reading-llm-neuroscience-ai-31203/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-11T04-55_5",
+        "rank": 5,
+        "title": "STAT+: In surprise decision, FDA rejects radiopharma therapy expected to rival Novartis treatment",
+        "category": "biotech",
+        "summary": "The FDA has rejected a radiopharmaceutical therapy because of manufacturing issues, halting what would have been a competitor for Novartis.",
+        "image": "https://www.statnews.com/wp-content/uploads/2023/04/AdobeStock_521699065_Editorial_Use_Only-1024x576.jpeg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/08/10/itm-radiopharma-fda-rejection/?utm_campaign=rss",
         "fromX": false
       }
     ]
@@ -199,6 +179,26 @@
         "source": "Artforum",
         "sourceUrl": "https://www.artforum.com/news/andrew-kreps-partner-elizabeth-mulholland-joins-zwirner-1234756674/",
         "fromX": false
+      }
+    ]
+  },
+  {
+    "batchId": "editorial_2026-08-08",
+    "scannedAt": "2026-08-08T20:15:00.706Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-08-08",
+        "rank": 0,
+        "title": "What the freeze no longer owns, and what growth still costs",
+        "category": "editorial",
+        "summary": "Convergence of open instruments and living stakes",
+        "image": "https://media.wired.com/photos/6a763d9eaaeaaaadb9031470/master/pass/fotografia%20del%20sol.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-08.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-08-08",
+        "authorName": "Dr. Wallace Lynch"
       }
     ]
   },

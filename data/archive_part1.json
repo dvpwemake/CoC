@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-07-28T20-54",
+    "scannedAt": "2026-07-28T20:54:30.064Z",
+    "items": [
+      {
+        "id": "auto_2026-07-28T20-54_1",
+        "rank": 1,
+        "title": "ESA opens call to repurpose Gateway communications module",
+        "category": "space",
+        "summary": "JOHANNESBURG — The European Space Agency is moving ahead with plans to examine the feasibility of repurposing Lunar Link, a communications system developed for NASA’s now-paused Gateway space station, as […] The post…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/gateway-full-configuration-hero-image-121123-scaled.png?fit=1024%2C576&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/esa-opens-call-to-repurpose-gateway-communications-module/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-28T20-54_2",
+        "rank": 2,
+        "title": "Brain-Inspired AI Uses Cognitive Maps",
+        "category": "neuroscience",
+        "summary": "Researchers developed a brain-inspired AI model modeled on hippocampal mechanisms including cognitive maps and stochastic calculations.",
+        "image": "https://neurosciencenews.com/files/2026/07/ai-cognition-neuroscieence-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/brain-inspired-ai-cognitive-maps-31145/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-28T20-54_3",
+        "rank": 3,
+        "title": "Lucy Sparrow Invokes '90s Supermarket Nostalgia in ‘The Beginning of Convenience’",
+        "category": "art",
+        "summary": "The artist's new exhibition is fully stocked with more than 20,000 handmade felt objects. Do stories and artists like this matter to you? Become a Colossal Member today and support independent arts publishing for as…",
+        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/07/sparrow-boc-10.jpg",
+        "source": "Colossal",
+        "sourceUrl": "https://www.thisiscolossal.com/2026/07/lucy-sparrow-the-beginning-of-convenience/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-28T20-54_4",
+        "rank": 4,
+        "title": "Six key issues we're watching at Fauci's hearing",
+        "category": "biotech",
+        "summary": "Sen. Rand Paul is forcing Fauci to appear before his Senate panel.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/07/GettyImages-2155329216-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/07/28/anthony-fauci-senate-testimony-what-to-expect-covid-origin-perjury/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-28T20-54_5",
+        "rank": 5,
+        "title": "Robot Finger Feels in Color",
+        "category": "robotics",
+        "summary": "Imagine running your fingertip over the surface of a U.S. penny. You would feel the ridges of the raised letters and numbers, Abe Lincoln’s bearded side profile, and, if it’s tails, the fluted columns of the Lincoln…",
+        "image": "https://spectrum.ieee.org/media-library/close-up-of-a-sensor-for-a-robotic-fingertip-and-raised-relief-images-of-a-leaf-and-a-u-s-penny.jpg?id=67542077&width=980",
+        "source": "IEEE Spectrum",
+        "sourceUrl": "https://spectrum.ieee.org/robot-finger",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "editorial_2026-07-27",
     "scannedAt": "2026-07-27T23:46:40.604Z",
     "kind": "editorial_archive",
@@ -1113,45 +1174,6 @@
         "source": "IEEE Spectrum",
         "sourceUrl": "https://spectrum.ieee.org/video-friday-robot-world-cup",
         "imageProxy": "https://images.weserv.nl/?url=spectrum.ieee.org%2Fmedia-library%2Fhumanoid-robots-play-soccer-as-a-ball-flies-toward-the-goal-in-a-tournament-arena.jpg%3Fid%3D67119515%26width%3D980&w=640&h=400&fit=cover&we&output=jpg"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-07-11T20-35",
-    "scannedAt": "2026-07-11T20:35:03.236Z",
-    "items": [
-      {
-        "id": "auto_2026-07-11T20-35_1",
-        "rank": 1,
-        "title": "Study Maps the 9 Distinct Types of Procrastinators",
-        "category": "neuroscience",
-        "summary": "A new study identifies 9 distinct archetypes of procrastinators, ranging from the control-seeking Rebel to the distraction-prone Zigzagger.",
-        "image": "https://neurosciencenews.com/files/2026/07/procrastination-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/9-procrastination-types-31038/",
-        "imageProxy": "https://images.weserv.nl/?url=neurosciencenews.com%2Ffiles%2F2026%2F07%2Fprocrastination-neuroscience-1155x770.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-11T20-35_3",
-        "rank": 3,
-        "title": "Nominee for key federal health role has a history of questioning vaccines",
-        "category": "biotech",
-        "summary": "Sean Kaufman's views on vaccines may put him at odds with Sen. Bill Cassidy during next week's confirmation hearing.",
-        "image": "https://www.statnews.com/wp-content/uploads/2025/04/GettyImages-2207186375-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/07/10/sean-kaufman-hhs-nominee-past-statements-question-vaccine-safety/?utm_campaign=rss",
-        "imageProxy": "https://images.weserv.nl/?url=www.statnews.com%2Fwp-content%2Fuploads%2F2025%2F04%2FGettyImages-2207186375-1024x576.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-11T20-35_4",
-        "rank": 4,
-        "title": "Early Career Faculty (ECF) 2025 Awards",
-        "category": "space",
-        "summary": "Back to ECF Home Advanced Diagnostics for High-Enthalpy Test Facilities Simulating Spacecraft Atmospheric Entry Planning for Autonomous Spacecraft Using Machine Learning Methods to Enable Onboard Guidance, Navigation,…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/03/nsmerger-illus-ns.jpg",
-        "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/directorates/stmd/space-tech-research-grants/ecf/early-career-faculty-ecf-2025-awards/",
-        "imageProxy": "https://images.weserv.nl/?url=www.nasa.gov%2Fwp-content%2Fuploads%2F2026%2F03%2Fnsmerger-illus-ns.jpg&w=640&h=400&fit=cover&we&output=jpg"
       }
     ]
   }
