@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-08-11T00-41",
+    "scannedAt": "2026-08-11T00:41:09.708Z",
+    "items": [
+      {
+        "id": "auto_2026-08-11T00-41_1",
+        "rank": 1,
+        "title": "Nvidia gets $500bn from major investors to develop AI infrastructure",
+        "category": "general",
+        "summary": "The money will be used to develop new data centres to house, operate, and cool miles of stacked computer chips that process AI data and actions.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13ae/live/d1192590-9504-11f1-bf69-07da70b136c8.jpg",
+        "source": "BBC Technology",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-11T00-41_2",
+        "rank": 2,
+        "title": "A 639-Year-Long John Cage Performance Had Its First Chord Change In Two Years",
+        "category": "art",
+        "summary": "One of the longest-running musical performances in history witnessed its first chord change in over two years on August 5. The 639-year-long performance, which is taking place at the St. Burchardi Church in Halberstadt…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/08/GettyImages-2284733294.jpg?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/news/639-year-john-cage-piece-first-chord-change-in-900-days-1234756726/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-11T00-41_3",
+        "rank": 3,
+        "title": "Rocket Lab builds deployable infrastructure for Electron launches",
+        "category": "space",
+        "summary": "Named ‘GHOST’ the containerized infrastructure is designed to support orbital and suborbital launches The post Rocket Lab builds deployable infrastructure for Electron launches appeared first on SpaceNews .",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/54452351061_f80cf5db9c_k.jpg?fit=1024%2C768&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/rocket-lab-builds-deployable-infrastructure-for-electron-launches/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-11T00-41_4",
+        "rank": 4,
+        "title": "Regenerative Astrocytes Repair Brain Damage",
+        "category": "neuroscience",
+        "summary": "A new study study shows specialized astrocytes repair brain damage by sending cell nuclei through long cellular extensions to rebuild glial networks.",
+        "image": "https://neurosciencenews.com/files/2026/08/astrocytes-neuroregeneration-neuroscience-1155x621.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/regenerative-astrocytes-brain-repair-31204/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-11T00-41_5",
+        "rank": 5,
+        "title": "Interview with the IEEE’s Dejan Milojicic: 30 technology megatrends for 2030",
+        "category": "robotics",
+        "summary": "While generative AI has dominated much of the technology debate in recent years, the next major phase of development may increasingly involve AI systems that can perceive, interact with and act in the physical world.…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/ieee-2030-Technology-Megatrends.jpg",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/10/interview-with-the-ieees-dejan-milojicic-30-technology-megatrends-for-2030/104047/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-08-10T20-27",
     "scannedAt": "2026-08-10T20:27:55.817Z",
     "items": [
@@ -1050,26 +1111,6 @@
         "source": "IEEE Spectrum",
         "sourceUrl": "https://spectrum.ieee.org/robot-finger",
         "fromX": false
-      }
-    ]
-  },
-  {
-    "batchId": "editorial_2026-07-27",
-    "scannedAt": "2026-07-27T23:46:40.604Z",
-    "kind": "editorial_archive",
-    "items": [
-      {
-        "id": "editorial_2026-07-27",
-        "rank": 0,
-        "title": "Convergence of neural consolidation and civic coordination",
-        "category": "editorial",
-        "summary": "Memory consolidation during sleep is not a solo act. A new study maps a three-region circuit—orbitofrontal cortex, thalamus, and hippocampus—and shows how epileptic spikes sever the conversation. What we keep depends on…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/SES-Press-Release_SES-Completes-Acquisition-of-Intelsat_image-scaled-1.jpg?fit=1024%2C576&ssl=1",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-07-27.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-07-27",
-        "authorName": "Dr. Wallace Lynch"
       }
     ]
   }

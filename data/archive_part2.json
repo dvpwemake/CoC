@@ -1,5 +1,33 @@
 [
   {
+    "batchId": "auto_2026-07-10T20-57",
+    "scannedAt": "2026-07-10T20:57:18.094Z",
+    "items": [
+      {
+        "id": "auto_2026-07-10T20-57_1",
+        "rank": 1,
+        "title": "Study Overturns Decades of External Axon Growth Theory",
+        "category": "neuroscience",
+        "summary": "A new study demonstrates that axon generation is driven by autonomous internal cellular mechanisms rather than external factors.",
+        "image": "https://neurosciencenews.com/files/2026/07/axon-growth-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/axon-formation-arp23-molecule-31035/",
+        "imageProxy": "https://images.weserv.nl/?url=neurosciencenews.com%2Ffiles%2F2026%2F07%2Faxon-growth-neuroscience-1155x770.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-07-10T20-57_4",
+        "rank": 4,
+        "title": "Clean energy helped the grid avoid heat-wave catastrophe",
+        "category": "energy",
+        "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter. Sign up to get it every Friday. Last week brought soaring temperatures to much of the U.S., forcing Americans to switch on their air…",
+        "image": "https://img.canarymedia.com/content/uploads/NYC-heat-wave-people-with-umbrellas_GettyImages-2284372317.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=27708a61be9da4ad33d8a18f1fcaba11",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/grid-edge/clean-energy-grid-heat-wave",
+        "imageProxy": "https://images.weserv.nl/?url=img.canarymedia.com%2Fcontent%2Fuploads%2FNYC-heat-wave-people-with-umbrellas_GettyImages-2284372317.jpg%3Fauto%3Dcompress%252Cformat%26crop%3Dfocalpoint%26fit%3Dcrop%26fp-x%3D0.5%26fp-y%3D0.5%26h%3D630%26q%3D82%26w%3D1200%26s%3D27708a61be9da4ad33d8a18f1fcaba11&w=640&h=400&fit=cover&we&output=jpg"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-07-09T21-08",
     "scannedAt": "2026-07-09T21:08:26.697Z",
     "items": [
@@ -1296,66 +1324,5 @@
       }
     ],
     "batchId": "b1781045114405"
-  },
-  {
-    "scannedAt": "2026-06-09T18:19:59.334Z",
-    "items": [
-      {
-        "id": "b1781029199334_1",
-        "rank": 1,
-        "title": "Revolutionary Photonic Valleytronic Chip Enables Ultra-Fast AI and Quantum Computing",
-        "category": "ai",
-        "summary": "Researchers at Monash University have created the world's first fully integrated valleytronic chip that can generate, steer, and read light-based information all in one device. This breakthrough uses atomically thin materials and nanoscale structures to control quantum properties of light called valley degrees of freedom, enabling new ways to encode information. The device operates at room temperature and successfully processed two images simultaneously, marking a major leap toward ultra-fast, energy-efficient computing that could revolutionize AI processing and quantum technologies.",
-        "source": "Nature Photonics",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260601025343.htm",
-        "image": "https://www.sciencedaily.com/images/1920/photonic-valleytronic-chip-for-information-processing.webp",
-        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fphotonic-valleytronic-chip-for-information-processing.webp&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "b1781029199334_2",
-        "rank": 2,
-        "title": "QuiX Quantum Achieves Real-Time Photonic Computing Breakthrough with 150-Nanosecond Control",
-        "category": "ai",
-        "summary": "QuiX Quantum has installed the world's first Feed-Forward Control Unit enabling real-time adaptive operations within photonic quantum computing architecture. The system converts single-photon detector inputs into instant phase modifications with deterministic 150-nanosecond latency using a dual-FPGA processing bus and 32x32 routing matrix. This establishes ultra-fast feedback loops required to scale measurement-based photonic quantum computers for integration with classical high-performance computing networks, representing a critical milestone in quantum-classical convergence.",
-        "source": "Quantum Computing Report",
-        "sourceUrl": "https://quantumcomputingreport.com/news/",
-        "image": "https://quantumcomputingreport.com/wp-content/uploads/2022/12/QCR-by-GQI-Original-on-Transparent-20.png",
-        "imageProxy": "https://images.weserv.nl/?url=quantumcomputingreport.com%2Fwp-content%2Fuploads%2F2022%2F12%2FQCR-by-GQI-Original-on-Transparent-20.png&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "b1781029199334_3",
-        "rank": 3,
-        "title": "Google's Willow Quantum Processor Unlocks Computational Neuroscience Revolution",
-        "category": "neuroscience",
-        "summary": "King's College London has gained exclusive early access to Google's 105-qubit Willow quantum processor for groundbreaking computational neuroscience research. This first-ever partnership between Google and a British government institution enables simulation of complex many-body quantum mechanical interactions including modeling biological neurons. The initiative bridges quantum simulation techniques with computational neuroscience and physical chemistry, potentially unlocking new understanding of consciousness and brain-AI interfaces.",
-        "source": "Quantum Computing Report",
-        "sourceUrl": "https://quantumcomputingreport.com/news/",
-        "image": "https://quantumcomputingreport.com/wp-content/uploads/2022/12/QCR-by-GQI-Original-on-Transparent-20.png",
-        "imageProxy": "https://images.weserv.nl/?url=quantumcomputingreport.com%2Fwp-content%2Fuploads%2F2022%2F12%2FQCR-by-GQI-Original-on-Transparent-20.png&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "b1781029199334_4",
-        "rank": 4,
-        "title": "Breakthrough Hydrogen Production Method Uses Waste Heat to Generate Clean Fuel",
-        "category": "energy",
-        "summary": "University of Birmingham researchers have developed a revolutionary perovskite-based catalyst that splits water into hydrogen at dramatically lower temperatures than existing technologies. This breakthrough allows factories, steel plants, cement works, and renewable energy sites to convert previously wasted heat into valuable clean fuel, potentially making hydrogen far cheaper and easier to generate. The discovery could transform energy infrastructure by enabling distributed hydrogen production from industrial waste heat streams.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/",
-        "image": "https://www.sciencedaily.com/images/scidaily-icon.png",
-        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2Fscidaily-icon.png&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "b1781029199334_5",
-        "rank": 5,
-        "title": "First Base-Edited Human Embryos Mark New Era of Precision Genetic Medicine",
-        "category": "biotech",
-        "summary": "Columbia University researchers have achieved the first successful use of base editing to alter early human embryo genomes, introducing precise single-letter DNA changes without the chromosomal disruptions of traditional CRISPR. This technique enables ultra-precise genetic modifications while avoiding double-strand breaks, representing a fundamental advancement in human genetic engineering capabilities. The research opens possibilities for preventing genetic diseases before birth while raising profound ethical questions about human germline modification.",
-        "source": "Wikipedia 2026 in Science",
-        "sourceUrl": "https://en.wikipedia.org/wiki/2026_in_science",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Artemis_2_Crew_Portrait.jpg/960px-Artemis_2_Crew_Portrait.jpg",
-        "imageProxy": "https://images.weserv.nl/?url=upload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fe%2Fe5%2FArtemis_2_Crew_Portrait.jpg%2F960px-Artemis_2_Crew_Portrait.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      }
-    ],
-    "batchId": "b1781029199334"
   }
 ]
