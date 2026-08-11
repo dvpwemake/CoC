@@ -1,5 +1,25 @@
 [
   {
+    "batchId": "editorial_2026-08-08",
+    "scannedAt": "2026-08-08T20:15:00.706Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-08-08",
+        "rank": 0,
+        "title": "What the freeze no longer owns, and what growth still costs",
+        "category": "editorial",
+        "summary": "Convergence of open instruments and living stakes",
+        "image": "https://media.wired.com/photos/6a763d9eaaeaaaadb9031470/master/pass/fotografia%20del%20sol.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-08.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-08-08",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-08-11T00-41",
     "scannedAt": "2026-08-11T00:41:09.708Z",
     "items": [
