@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-08-12T00-47",
+    "scannedAt": "2026-08-12T00:47:20.446Z",
+    "items": [
+      {
+        "id": "auto_2026-08-12T00-47_1",
+        "rank": 1,
+        "title": "Saber denies replacing Rideshare Stimulator's writers with ChatGPT",
+        "category": "general",
+        "summary": "After a former lead writer claimed Saber \"replaced me with ChatGPT,\" CEO Matthew Karch now claims, \"Neither Saber nor Unigine have replaced any writers with AI,\" for the Rideshare \"Stimulator\" game announced last month,…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/RS_storefronts_3840x2160_8.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+        "source": "The Verge",
+        "sourceUrl": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-12T00-47_2",
+        "rank": 2,
+        "title": "Stopping statins in people over 75 at low risk for heart disease didn’t increase deaths",
+        "category": "biotech",
+        "summary": "Stopping statins in people over 75 at low risk for heart disease didn’t increase deaths, a new study finds.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/08/GettyImages-55908504-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/08/11/stop-statins-age-75-lancet-study-suggests-safe-healthy-adults/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-12T00-47_3",
+        "rank": 3,
+        "title": "Study of Brain Immune Cells Reveals New Clues to Alzheimer's Disease Progression",
+        "category": "neuroscience",
+        "summary": "Researchers have mapped over 830,000 brain immune cells, revealing a protective subtype of microglia that increases with Alzheimer’s progression. This subtype aids in clearing harmful material via the TREM2 pathway. The…",
+        "image": "https://neurosciencenews.com/files/2026/08/Alzheimers-disease-progression-donghoonlee-nn-2-26-1155x768.png",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/study-brain-immune-cells-reveals-new-clues-to-alzheimers-disease-progression-31205/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-12T00-47_4",
+        "rank": 4,
+        "title": "Golden Dome faces 2027 funding cliff",
+        "category": "space",
+        "summary": "Gen. Michael Guetlein says Congress must find a way to finance the next phase as most initial funding is already committed The post Golden Dome faces 2027 funding cliff appeared first on SpaceNews .",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/GuetleinSMD.png?fit=1024%2C570&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/golden-dome-faces-2027-funding-cliff/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-12T00-47_5",
+        "rank": 5,
+        "title": "Former National Gallery Of Art Executive Accuses Museum Of “Soft Censorship”",
+        "category": "art",
+        "summary": "Steven Nelson, the former head of the National Gallery of Art's Center for Advanced Study in Visual Arts has accused the museum of “soft censorship,” regarding its hushed relocation of a symposium last year titled…",
+        "image": "https://www.artforum.com/wp-content/uploads/2025/01/GettyImages-601447123.jpg?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/news/former-natl-gallery-exec-accuses-museum-of-soft-censorship-1234756810/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-08-11T20-30",
     "scannedAt": "2026-08-11T20:30:24.348Z",
     "items": [
