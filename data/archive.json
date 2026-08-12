@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-08-12T08-56",
-    "scannedAt": "2026-08-12T08:56:16.138Z",
+    "batchId": "auto_2026-08-12T12-36",
+    "scannedAt": "2026-08-12T12:36:04.409Z",
     "items": [
       {
-        "id": "auto_2026-08-12T08-56_1",
+        "id": "auto_2026-08-12T12-36_1",
         "rank": 1,
-        "title": "STAT+: Neurocrine Biosciences rare disease drug possibly tied to safety issues, experts say",
-        "category": "biotech",
-        "summary": "A newly approved drug for Prader-Willi syndrome, a rare disease that causes an insatiable desire to eat, may be tied to a series of patient deaths, experts say.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/08/AdobeStock_378516400-1024x576.jpeg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/08/12/neurocrine-biosciences-vykat-prader-willi/?utm_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-12T08-56_2",
-        "rank": 2,
-        "title": "Kapsch TrafficCom expands satellite tolling to the Netherlands",
-        "category": "robotics",
-        "summary": "Geo-location platform now operating in the Netherlands and Belgium Kapsch TrafficCom has deployed its Geo Location Platform (GLP) for satellite-based tolling in the Netherlands, marking a key step in the expansion…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/Kapsch-TrafficCom-1.jpg",
-        "source": "Robotics & Automation News",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/12/kapsch-trafficcom-expands-satellite-tolling-to-the-netherlands/104069/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-12T08-56_3",
-        "rank": 3,
-        "title": "Solar on storage units? Here’s how Illinois is making it happen.",
-        "category": "energy",
-        "summary": "Krzysztof Wasowicz, mayor of Justice, Illinois, has some concerns about solar: that it takes up farmland and enriches China. But he’s all-in on the community solar array that was recently deployed at a Public Storage…",
-        "image": "https://img.canarymedia.com/content/uploads/IMG_7884.JPG?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=fdba6eee4fd6fa289453919c38d54bc3",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/solar/solar-on-storage-units-illinois",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-12T08-56_4",
-        "rank": 4,
-        "title": "Nike Promo Codes and Discounts: 30% for August 2026",
+        "title": "Honor’s Robot Phone Has a Gimbal-Powered Camera for Vloggers",
         "category": "general",
-        "summary": "Check out our deals for Nike this August 2026, including 15% off select purchases.",
-        "image": "https://media.wired.com/photos/66ea076ea6cbbaa16c12af30/master/pass/WIRED-Coupons-12.jpg",
+        "summary": "Honor’s new China-exclusive Android phone features a pop-out motorized gimbal camera designed to replace your action cam.",
+        "image": "https://media.wired.com/photos/6a75da7ed929cd224b874e97/master/pass/Honor%20Robot%20Phone%20SOURCE%20Julian%20Chokkattu(1).jpg",
         "source": "WIRED",
-        "sourceUrl": "https://www.wired.com/story/nike-promo-code/",
+        "sourceUrl": "https://www.wired.com/story/honor-robot-phone/",
         "fromX": false
       },
       {
-        "id": "auto_2026-08-12T08-56_5",
-        "rank": 5,
-        "title": "Firefly increases vehicle production even as launches lag",
+        "id": "auto_2026-08-12T12-36_2",
+        "rank": 2,
+        "title": "The author of a new book on the erotic art of Lavinia Fontana reveals all",
+        "category": "art",
+        "summary": "The Italian scholar Enrico Maria dal Pozzolo tells us about new discoveries and why the Bolognese painter was an innovator in her field",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/ff61f9bf8fd1fde199f53a47b867cd95477d7916-1550x1856.jpg?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/08/12/the-author-of-a-new-book-on-the-erotic-art-of-lavinia-fontana-reveals-all",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-12T12-36_3",
+        "rank": 3,
+        "title": "STAT+: The secret AI-startup project I’ve been working on the last six months",
+        "category": "biotech",
+        "summary": "In this edition of STAT's AI Prognosis: The messy reality of hastily developing and selling AI tools to clinics, and other health AI news.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/08/AIPrognosis_Wordpress_AIcoins-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/08/12/the-secret-startup-project-ive-been-working-on-ai-prognosis/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-12T12-36_4",
+        "rank": 4,
+        "title": "One species, one planet: The moon is our ethical dress rehearsal for Mars",
         "category": "space",
-        "summary": "Firefly Aerospace says it is seeing strong interest in its launch vehicles and is ramping up production, but those efforts have yet to translate into an increased launch rate. The post Firefly increases vehicle…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/55143071969_a1ed891f84_k.jpg?fit=1024%2C683&ssl=1",
+        "summary": "Bruce Jakosky, Scott Hubbard and their colleagues have given us a masterclass in pragmatic systems engineering. Their recent SpaceNews editorial titled “Laying the groundwork for the first human mission to […] The post…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/12/moon-to-mars-scaled.png?fit=1024%2C576&ssl=1",
         "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/firefly-increases-vehicle-production-even-as-launches-lag/",
+        "sourceUrl": "https://spacenews.com/one-species-one-planet-the-moon-is-our-ethical-dress-rehearsal-for-mars/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-12T12-36_5",
+        "rank": 5,
+        "title": "China racing ahead in autonomous car adoption, says new report",
+        "category": "robotics",
+        "summary": "China is the country most prepared for self-driving cars, according to a new report. The new study by the B2B car company eCarsTrade analyzed robotaxi deployment, road infrastructure, legal frameworks, and public…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/uae-cityscape-montage-1.png",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/12/china-racing-ahead-in-autonomous-car-adoption-says-new-report/104064/",
         "fromX": false
       }
     ]
