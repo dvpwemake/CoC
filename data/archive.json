@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-08-13T08-58",
-    "scannedAt": "2026-08-13T08:58:40.463Z",
+    "batchId": "auto_2026-08-13T12-37",
+    "scannedAt": "2026-08-13T12:37:20.021Z",
     "items": [
       {
-        "id": "auto_2026-08-13T08-58_1",
+        "id": "auto_2026-08-13T12-37_1",
         "rank": 1,
-        "title": "Honda’s new ‘Avatar’ humanoid robot suggests the spirit of ASIMO is very much alive",
-        "category": "robotics",
-        "summary": "Whatever happened to ASIMO? Honda’s famous humanoid robot (pictured below with what we believe is an actual human female) disappeared from public view several years ago, just before an extraordinary new wave of humanoid…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/honda-avatar-robot-1.png",
-        "source": "Robotics & Automation News",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/13/hondas-new-avatar-humanoid-robot-suggests-the-spirit-of-asimo-is-very-much-alive/104083/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-13T08-58_2",
-        "rank": 2,
-        "title": "STAT+: What patients actually think about ‘minimally invasive’ brain implants",
+        "title": "STAT+: An investigation into Commure, and Medicare's new-tech incentives for AI devices",
         "category": "biotech",
-        "summary": "A new study polled people with treatment-resistant depression about what matters to them when it comes to brain implants for mental health.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/08/bci-study-1024x576.jpg",
+        "summary": "In this edition of STAT Health Tech: a deep dive into General Catalyst-backed Commure, and Medicare's tech incentives for AI devices.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/01/AdobeStock_249574890-1024x576.jpeg",
         "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/08/13/patient-perspectives-on-brain-implants-for-depression/?utm_campaign=rss",
+        "sourceUrl": "https://www.statnews.com/2026/08/13/commure-investigation-medicare-tech-incentives-health-tech/?utm_campaign=rss",
         "fromX": false
       },
       {
-        "id": "auto_2026-08-13T08-58_3",
-        "rank": 3,
-        "title": "US aluminum is poised for a comeback — if it overcomes these hurdles",
-        "category": "energy",
-        "summary": "America’s aluminum sector is growing again after years of decline, spurred by tariffs and a push to revive domestic manufacturing. But the voracious power needs of aluminum smelters and communities’ concerns about…",
-        "image": "https://img.canarymedia.com/content/uploads/Century-MtHolly_021926_JA_132-1620x1080-36ddb4d.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=4f629918beeda7ff3ddda08efbb14075",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/clean-aluminum/us-aluminum-comeback-barriers",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-13T08-58_4",
-        "rank": 4,
-        "title": "Amazon is using Twitch to train generative AI",
+        "id": "auto_2026-08-13T12-37_2",
+        "rank": 2,
+        "title": "The Best Samsung Galaxy S26 Cases (2026): S26, S26+, and S26 Ultra",
         "category": "general",
-        "summary": "The streaming platform's users criticised the move to allow the use of channel content for AI training.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f293/live/a0e50b20-96dd-11f1-870d-5d08c49babb2.jpg",
-        "source": "BBC Technology",
-        "sourceUrl": "https://www.bbc.co.uk/news/videos/cwyq22g0ylxo?at_medium=RSS&at_campaign=rss",
+        "summary": "Protect your Samsung phone with these cases and screen protectors.",
+        "image": "https://media.wired.com/photos/69ced175c7a8ccda83fafc07/master/pass/The-Best-Samsung-Galaxy-S26-Cases-and-Accessories.jpg",
+        "source": "WIRED",
+        "sourceUrl": "https://www.wired.com/gallery/best-samsung-s26-cases-and-accessories/",
         "fromX": false
       },
       {
-        "id": "auto_2026-08-13T08-58_5",
-        "rank": 5,
-        "title": "Virgin Galactic delays resumption of commercial flights to 2027",
+        "id": "auto_2026-08-13T12-37_3",
+        "rank": 3,
+        "title": "Teodora Axente unveils trophy banner for Palio di Siena horse race",
+        "category": "art",
+        "summary": "Each year, Siena commissions an artist to hand paint the silk ‘drappellone’, awarded to the museum associated with the race winner",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/6241cea7e879db03c9b08a5e10a226f4c361aa4f-1181x1772.jpg?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/08/13/teodora-axente-unveils-trophy-banner-for-historic-palio-di-siena-horse-race",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-13T12-37_4",
+        "rank": 4,
+        "title": "Paragon lays off staff after Gateway cancellation",
         "category": "space",
-        "summary": "Virgin Galactic says it will not start commercial flights of its new suborbital spaceplane until early 2027, a delay of a few months. The post Virgin Galactic delays resumption of commercial flights to 2027 appeared…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/vg-spaceship-aug26.jpeg?fit=1024%2C576&ssl=1",
+        "summary": "A subcontractor for a module that was being developed for NASA’s lunar Gateway has laid off 70 people after NASA halted work on the program. The post Paragon lays off staff after Gateway cancellation appeared first on…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2021/07/halo-northrop.jpg?fit=879%2C495&ssl=1",
         "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/virgin-galactic-delays-resumption-of-commercial-flights-to-2027/",
+        "sourceUrl": "https://spacenews.com/paragon-lays-off-staff-after-gateway-cancellation/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-13T12-37_5",
+        "rank": 5,
+        "title": "Robot orders increase to $622 million in Q2 as automation demand broadens across industries",
+        "category": "robotics",
+        "summary": "New A3 data shows second-quarter growth across semiconductors/electronics, automotive components, food and consumer goods, metals and life sciences North American companies ordered 8,940 robots valued at $622 million in…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/A3-Robotics-event-1.jpg",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/13/robot-orders-increase-to-622-million-in-q2-as-automation-demand-broadens-across-industries/104092/",
         "fromX": false
       }
     ]
