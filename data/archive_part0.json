@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-08-13T00-49",
+    "scannedAt": "2026-08-13T00:49:18.323Z",
+    "items": [
+      {
+        "id": "auto_2026-08-13T00-49_1",
+        "rank": 1,
+        "title": "Space Force orders two more Impulse Space vehicles for maneuvering demonstrations",
+        "category": "space",
+        "summary": "A $28 million contract expansion adds Victus Salo 2 and 3 to an earlier award for responsive-space missions The post Space Force orders two more Impulse Space vehicles for maneuvering demonstrations appeared first on…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Impulse-Mira-Spacecraft-1-scaled.png?fit=1024%2C683&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/space-force-orders-two-more-impulse-space-vehicles-for-maneuvering-demonstrations/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-13T00-49_2",
+        "rank": 2,
+        "title": "Jennifer Latour Preserves Ephemeral Beauty in Her Otherworldly Botanical Assemblages",
+        "category": "art",
+        "summary": "\"The wind is my nemesis!\" says Jennifer Latour. Do stories and artists like this matter to you? Become a Colossal Member today and support independent arts publishing for as little as $7 per month. The article Jennifer…",
+        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/08/latour-4.jpg",
+        "source": "Colossal",
+        "sourceUrl": "https://www.thisiscolossal.com/2026/08/jennifer-latour-botanical-sculptures-bound-species/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-13T00-49_3",
+        "rank": 3,
+        "title": "Why Japanese firms are being so slow to use AI",
+        "category": "general",
+        "summary": "Japanese risk aversion and conservatism blamed for slow AI take-up by the country's business sector.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ede/live/9f7531a0-8f41-11f1-8c3d-6f698d2b4d1e.jpg",
+        "source": "BBC Technology",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwymw4434v7o?at_medium=RSS&at_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-13T00-49_4",
+        "rank": 4,
+        "title": "Shame, Stigma, and Culture Prevent Male Domestic Violence Survivors From Seeking Help",
+        "category": "neuroscience",
+        "summary": "A new study involving 1,200 men reveals why male victims of intimate partner violence avoid seeking help, citing shame, stigma, and cultural barriers.",
+        "image": "https://neurosciencenews.com/files/2026/08/male-survivors-silent-struggle-montage-1155x770.png",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/male-domestic-violence-survivors-psychology-31206/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-13T00-49_5",
+        "rank": 5,
+        "title": "Talks on launch of clinical trial of Ebola vaccine in DRC advance, WHO says",
+        "category": "biotech",
+        "summary": "Talks are underway between the Democratic Republic of the Congo and the WHO to expedite the start of a multi-armed Phase 3 clinical trial of Ebola vaccines.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/08/AP26185611765469-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/08/12/ebola-who-drc-ebola-vaccine-trial/?utm_campaign=rss",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-08-12T20-28",
     "scannedAt": "2026-08-12T20:28:10.771Z",
     "items": [
@@ -1110,26 +1171,6 @@
         "sourceUrl": "https://chronicleofconvergence.com/e/2026-07-29.html",
         "isEditorialArchive": true,
         "publishDate": "2026-07-29",
-        "authorName": "Dr. Wallace Lynch"
-      }
-    ]
-  },
-  {
-    "batchId": "editorial_2026-07-28",
-    "scannedAt": "2026-07-29T00:04:41.805Z",
-    "kind": "editorial_archive",
-    "items": [
-      {
-        "id": "editorial_2026-07-28",
-        "rank": 0,
-        "title": "What machines learn to touch—and what civic maps still refuse to erase",
-        "category": "editorial",
-        "summary": "Convergence of machine cognition and civic testimony",
-        "image": "https://neurosciencenews.com/files/2026/07/ai-cognition-neuroscieence-1155x770.jpg",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-07-28.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-07-28",
         "authorName": "Dr. Wallace Lynch"
       }
     ]
