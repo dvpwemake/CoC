@@ -1,5 +1,25 @@
 [
   {
+    "batchId": "editorial_2026-07-29",
+    "scannedAt": "2026-07-29T19:33:45.665Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-07-29",
+        "rank": 0,
+        "title": "Gut signals, civic costs, and the cultures that refuse to forget",
+        "category": "editorial",
+        "summary": "Convergence of bodily memory and civic remembrance",
+        "image": "https://neurosciencenews.com/files/2026/07/memory-noise-resources-neuroscience-1155x770.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-07-29.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-07-29",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "editorial_2026-07-28",
     "scannedAt": "2026-07-29T00:04:41.805Z",
     "kind": "editorial_archive",
@@ -1133,67 +1153,6 @@
         "source": "Canary Media",
         "sourceUrl": "https://www.canarymedia.com/articles/solar/balcony-panel-bright-saver-deal",
         "imageProxy": "https://images.weserv.nl/?url=img.canarymedia.com%2Fcontent%2Fuploads%2FBalcony-Solar-on-Deck.jpeg%3Fauto%3Dcompress%252Cformat%26crop%3Dfocalpoint%26fit%3Dcrop%26fp-x%3D0.5%26fp-y%3D0.5%26h%3D630%26q%3D82%26w%3D1200%26s%3Da9a2ae85c3d9e6f8c36ffaad3590cef4&w=640&h=400&fit=cover&we&output=jpg"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-07-12T20-32",
-    "scannedAt": "2026-07-12T20:32:43.736Z",
-    "items": [
-      {
-        "id": "auto_2026-07-12T20-32_1",
-        "rank": 1,
-        "title": "STAT+: Tau in the spotlight at Alzheimer’s conference",
-        "category": "biotech",
-        "summary": "From STAT's AAIC in 30 newsletter: Researchers focus on tau, and progress on crossing the blood-brain barrier.",
-        "image": "https://www.statnews.com/wp-content/uploads/2025/10/AdobeStock_127445117-1024x576.jpeg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/07/12/aaic-in-30-alzheimers-treaatments-focus-on-tau-blood-brain-barrier/?utm_campaign=rss",
-        "imageProxy": "https://images.weserv.nl/?url=www.statnews.com%2Fwp-content%2Fuploads%2F2025%2F10%2FAdobeStock_127445117-1024x576.jpeg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-12T20-32_2",
-        "rank": 2,
-        "title": "Decreasing Productivity Can Precede a Dementia Diagnosis by Years",
-        "category": "neuroscience",
-        "summary": "A new study demonstrates that early-onset dementia is associated with severe work productivity losses up to 15 years before a formal diagnosis.",
-        "image": "https://neurosciencenews.com/files/2026/07/demenita-productivity-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/early-onset-dementia-work-productivity-31039/",
-        "imageProxy": "https://images.weserv.nl/?url=neurosciencenews.com%2Ffiles%2F2026%2F07%2Fdemenita-productivity-neuroscience-1155x770.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-12T20-32_3",
-        "rank": 3,
-        "title": "Parabilis tests propulsion system for maneuverable cubesats",
-        "category": "space",
-        "summary": "The Space Force is backing the development of the company’s hybrid engine technology for small satellites The post Parabilis tests propulsion system for maneuverable cubesats appeared first on SpaceNews .",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/DOTS-1.jpg?fit=786%2C576&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/parabilis-tests-propulsion-system-for-maneuverable-cubesats/",
-        "imageProxy": "https://images.weserv.nl/?url=i0.wp.com%2Fspacenews.com%2Fwp-content%2Fuploads%2F2026%2F07%2FDOTS-1.jpg%3Ffit%3D786%252C576%26ssl%3D1&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-12T20-32_4",
-        "rank": 4,
-        "title": "A pioneering grid-battery factory is headed for this California city",
-        "category": "energy",
-        "summary": "Startup Peak Energy launched in 2023 with a promise to bring the up-and-coming sodium-ion battery chemistry to American shores. Now, it’s building a gigafactory in Sacramento, California, that will be the country’s…",
-        "image": "https://img.canarymedia.com/content/uploads/Peak-Energy-Sacramento_image-7.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=e3a891cdd9ff9c40fbdbb805c25701b6",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/batteries/pioneering-grid-battery-factory-california",
-        "imageProxy": "https://images.weserv.nl/?url=img.canarymedia.com%2Fcontent%2Fuploads%2FPeak-Energy-Sacramento_image-7.jpg%3Fauto%3Dcompress%252Cformat%26crop%3Dfocalpoint%26fit%3Dcrop%26fp-x%3D0.5%26fp-y%3D0.5%26h%3D630%26q%3D82%26w%3D1200%26s%3De3a891cdd9ff9c40fbdbb805c25701b6&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-12T20-32_5",
-        "rank": 5,
-        "title": "Video Friday: A World Cup for Robots",
-        "category": "robotics",
-        "summary": "Video Friday is your weekly selection of awesome robotics videos , collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us…",
-        "image": "https://spectrum.ieee.org/media-library/humanoid-robots-play-soccer-as-a-ball-flies-toward-the-goal-in-a-tournament-arena.jpg?id=67119515&width=980",
-        "source": "IEEE Spectrum",
-        "sourceUrl": "https://spectrum.ieee.org/video-friday-robot-world-cup",
-        "imageProxy": "https://images.weserv.nl/?url=spectrum.ieee.org%2Fmedia-library%2Fhumanoid-robots-play-soccer-as-a-ball-flies-toward-the-goal-in-a-tournament-arena.jpg%3Fid%3D67119515%26width%3D980&w=640&h=400&fit=cover&we&output=jpg"
       }
     ]
   }

@@ -1,81 +1,61 @@
 [
   {
-    "batchId": "editorial_2026-08-10",
-    "scannedAt": "2026-08-11T01:55:43.406Z",
-    "kind": "editorial_archive",
+    "batchId": "auto_2026-08-13T05-24",
+    "scannedAt": "2026-08-13T05:24:26.403Z",
     "items": [
       {
-        "id": "editorial_2026-08-10",
-        "rank": 0,
-        "title": "Chord Change and Fast Stack",
-        "category": "editorial",
-        "summary": "Convergence of long time and the systems that refuse to wait",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13ae/live/d1192590-9504-11f1-bf69-07da70b136c8.jpg",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-10.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-08-10",
-        "authorName": "Dr. Wallace Lynch"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-08-13T00-49",
-    "scannedAt": "2026-08-13T00:49:18.323Z",
-    "items": [
-      {
-        "id": "auto_2026-08-13T00-49_1",
+        "id": "auto_2026-08-13T05-24_1",
         "rank": 1,
-        "title": "Space Force orders two more Impulse Space vehicles for maneuvering demonstrations",
-        "category": "space",
-        "summary": "A $28 million contract expansion adds Victus Salo 2 and 3 to an earlier award for responsive-space missions The post Space Force orders two more Impulse Space vehicles for maneuvering demonstrations appeared first on…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Impulse-Mira-Spacecraft-1-scaled.png?fit=1024%2C683&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/space-force-orders-two-more-impulse-space-vehicles-for-maneuvering-demonstrations/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-13T00-49_2",
-        "rank": 2,
-        "title": "Jennifer Latour Preserves Ephemeral Beauty in Her Otherworldly Botanical Assemblages",
-        "category": "art",
-        "summary": "\"The wind is my nemesis!\" says Jennifer Latour. Do stories and artists like this matter to you? Become a Colossal Member today and support independent arts publishing for as little as $7 per month. The article Jennifer…",
-        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/08/latour-4.jpg",
-        "source": "Colossal",
-        "sourceUrl": "https://www.thisiscolossal.com/2026/08/jennifer-latour-botanical-sculptures-bound-species/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-13T00-49_3",
-        "rank": 3,
-        "title": "Why Japanese firms are being so slow to use AI",
+        "title": "Priceline Promo Codes & Coupons: 10% Off August 2026",
         "category": "general",
-        "summary": "Japanese risk aversion and conservatism blamed for slow AI take-up by the country's business sector.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ede/live/9f7531a0-8f41-11f1-8c3d-6f698d2b4d1e.jpg",
-        "source": "BBC Technology",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwymw4434v7o?at_medium=RSS&at_campaign=rss",
+        "summary": "Unlock massive discounts on Priceline hotels, flights, and rental cars. Find verified Priceline coupon codes and deals for Express Deals, student discounts, and more.",
+        "image": "https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg",
+        "source": "WIRED",
+        "sourceUrl": "https://www.wired.com/story/priceline-promo-code/",
         "fromX": false
       },
       {
-        "id": "auto_2026-08-13T00-49_4",
-        "rank": 4,
-        "title": "Shame, Stigma, and Culture Prevent Male Domestic Violence Survivors From Seeking Help",
-        "category": "neuroscience",
-        "summary": "A new study involving 1,200 men reveals why male victims of intimate partner violence avoid seeking help, citing shame, stigma, and cultural barriers.",
-        "image": "https://neurosciencenews.com/files/2026/08/male-survivors-silent-struggle-montage-1155x770.png",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/male-domestic-violence-survivors-psychology-31206/",
+        "id": "auto_2026-08-13T05-24_2",
+        "rank": 2,
+        "title": "APOD: 2026 August 13 – Total Solar Eclipse Over Spain",
+        "category": "space",
+        "summary": "APOD Science APOD APOD: 2026 August 13 – Total… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or…",
+        "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/august/total_eclipse_spain26.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "source": "NASA",
+        "sourceUrl": "https://science.nasa.gov/image-article/apod-2026-august-13-total-solar-eclipse-over-spain/",
         "fromX": false
       },
       {
-        "id": "auto_2026-08-13T00-49_5",
-        "rank": 5,
-        "title": "Talks on launch of clinical trial of Ebola vaccine in DRC advance, WHO says",
+        "id": "auto_2026-08-13T05-24_3",
+        "rank": 3,
+        "title": "Vaping and cannabis hit record highs among young adults in 2025: Survey",
         "category": "biotech",
-        "summary": "Talks are underway between the Democratic Republic of the Congo and the WHO to expedite the start of a multi-armed Phase 3 clinical trial of Ebola vaccines.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/08/AP26185611765469-1024x576.jpg",
+        "summary": "Young adults’ use of vapes and cannabis hit all-time highs last year, according to a new survey.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/08/GettyImages-2147958630-1024x576.jpg",
         "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/08/12/ebola-who-drc-ebola-vaccine-trial/?utm_campaign=rss",
+        "sourceUrl": "https://www.statnews.com/2026/08/12/vaping-cannabis-use-rates-young-adults/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-13T05-24_4",
+        "rank": 4,
+        "title": "Michael J. Anderson Named as Next Director of the Portland Art Museum",
+        "category": "art",
+        "summary": "In the wake of the Portland Art Museum having completed a comprehensive campus expansion project in 2025, the institution, one of the oldest art museums in the United States, announced on Tuesday that it has appointed a…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/08/Michael-Anderson-2026-Headshot1-60_.jpg?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/news/michael-j-anderson-next-director-of-the-portland-art-museum-1234756897/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-13T05-24_5",
+        "rank": 5,
+        "title": "Ozempic may have revealed the brain’s hidden “craving center”",
+        "category": "neuroscience",
+        "summary": "Ozempic-like drugs appear to weaken more than hunger—they may also reduce cravings for alcohol and other addictive substances. Scientists are increasingly tracing this effect to the lateral septum, a brain region that…",
+        "image": "https://www.sciencedaily.com/images/1920/neuroscience-addiction-brain-cravings.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260811011138.htm",
         "fromX": false
       }
     ]
@@ -199,6 +179,26 @@
         "source": "Robotics & Automation News",
         "sourceUrl": "https://roboticsandautomationnews.com/2026/08/11/from-2d-ideas-to-printable-reality-how-hi3d-makes-ai-3d-creation-easier-with-image-conversion-and-smart-printing-workflows/104057/",
         "fromX": false
+      }
+    ]
+  },
+  {
+    "batchId": "editorial_2026-08-10",
+    "scannedAt": "2026-08-11T01:55:43.406Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-08-10",
+        "rank": 0,
+        "title": "Chord Change and Fast Stack",
+        "category": "editorial",
+        "summary": "Convergence of long time and the systems that refuse to wait",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13ae/live/d1192590-9504-11f1-bf69-07da70b136c8.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-10.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-08-10",
+        "authorName": "Dr. Wallace Lynch"
       }
     ]
   },
