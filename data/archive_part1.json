@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-07-29T20-40",
+    "scannedAt": "2026-07-29T20:40:35.004Z",
+    "items": [
+      {
+        "id": "auto_2026-07-29T20-40_1",
+        "rank": 1,
+        "title": "Resource Limits and Noise Dictate Memory",
+        "category": "neuroscience",
+        "summary": "A new study presents a mathematical framework showing that organisms shift abruptly from reactive to memory-based strategies only when energy resources exceed a critical threshold, with memory offering peak utility…",
+        "image": "https://neurosciencenews.com/files/2026/07/memory-noise-resources-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/resource-limits-noise-memory-31152/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-29T20-40_2",
+        "rank": 2,
+        "title": "Space Force awards All Points $250 million to expand satellite processing at Vandenberg",
+        "category": "space",
+        "summary": "All Points Logistics is the third company selected under a Commercial Solutions Opening to add facilities where satellites can be inspected, tested, fueled and prepared for integration with launch vehicles The post…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/9778751-scaled.jpg?fit=1024%2C683&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/space-force-awards-all-points-250-million-to-expand-satellite-processing-at-vandenberg/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-29T20-40_3",
+        "rank": 3,
+        "title": "STAT+: Hims misled consumers and violated their privacy, FTC alleges in a lawsuit",
+        "category": "biotech",
+        "summary": "The U.S. Federal Trade Commission sued telehealth company Hims & Hers alleging business practices that agency says misled consumers.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/07/AP5450233286818613-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/07/29/ftc-lawsuit-hims-alleging-deceptive-business-practices/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-29T20-40_4",
+        "rank": 4,
+        "title": "Elaine de Kooning’s JFK portrait series to go on view in New York this fall.",
+        "category": "art",
+        "summary": "A major exhibition of Elaine de Kooning ’s work will open at Berry Campbell Gallery in New York on October 29th, spanning four decades of the Abstract Expressionist ’s career from 1948 to 1988. It is the first major…",
+        "image": "https://artsy-media-uploads.s3.amazonaws.com/XVb8CKx1DacAUqjx7B7Oww%2Fdekooning_EDEK_00070_f+copy+2.jpg",
+        "source": "Artsy",
+        "sourceUrl": "https://www.artsy.net/article/artsy-editorial-laine-de-koonings-jfk-portrait-series-view-new-york-fall",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-29T20-40_5",
+        "rank": 5,
+        "title": "Best Construction Scheduling Software for Contractors",
+        "category": "robotics",
+        "summary": "Construction scheduling is where most projects quietly fall apart. Not during the build itself, but in the planning gaps where subcontractors overlap, crews wait on materials, and the office loses touch with the field.…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/07/planera-construction-1.jpg",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/07/29/best-construction-scheduling-software-for-contractors/103724/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "editorial_2026-07-29",
     "scannedAt": "2026-07-29T19:33:45.665Z",
     "kind": "editorial_archive",
@@ -1103,56 +1164,6 @@
         "source": "MIT Technology Review",
         "sourceUrl": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
         "imageProxy": "https://images.weserv.nl/?url=wp.technologyreview.com%2Fwp-content%2Fuploads%2F2026%2F07%2Fthinking2.jpg%3Fresize%3D1200%2C600&w=640&h=400&fit=cover&we&output=jpg"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-07-13T20-45",
-    "scannedAt": "2026-07-13T20:45:36.490Z",
-    "items": [
-      {
-        "id": "auto_2026-07-13T20-45_1",
-        "rank": 1,
-        "title": "Testosterone Drives Early Pubertal Distress in Girls",
-        "category": "neuroscience",
-        "summary": "A new study demonstrates that rising testosterone levels are a primary predictor of anxiety and depression symptoms in preteens aged 10 to 12.",
-        "image": "https://neurosciencenews.com/files/2026/07/testosterone-pubity-emotion-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/testosterone-puberty-girls-emotional-distress-31042/",
-        "imageProxy": "https://images.weserv.nl/?url=neurosciencenews.com%2Ffiles%2F2026%2F07%2Ftestosterone-pubity-emotion-neuroscience-1155x770.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-13T20-45_3",
-        "rank": 3,
-        "title": "STAT+: Dementia study replicates promising outcomes following risk-reduction strategies",
-        "category": "biotech",
-        "summary": "A dementia prevention trial praised as a \"landmark\" effort further demonstrated the promise of structured programs tailored to local cultures.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/07/unnamed-1-4-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/07/13/aaic-in-30-alzheimers-treaatments-dementia-day-2-conference/?utm_campaign=rss",
-        "imageProxy": "https://images.weserv.nl/?url=www.statnews.com%2Fwp-content%2Fuploads%2F2026%2F07%2Funnamed-1-4-1024x576.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-13T20-45_4",
-        "rank": 4,
-        "title": "NASA Astronaut Anil Menon",
-        "category": "space",
-        "summary": "NASA astronaut Anil Menon poses in a spacesuit for a portrait at NASA's Johnson Space Center in Houston, Texas on Jan. 8, 2026. Menon will launch aboard the Roscosmos Soyuz MS-29 spacecraft to the International Space…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/07/jsc2026e000758orig.jpg",
-        "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/image-article/nasa-astronaut-anil-menon/",
-        "imageProxy": "https://images.weserv.nl/?url=www.nasa.gov%2Fwp-content%2Fuploads%2F2026%2F07%2Fjsc2026e000758orig.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-13T20-45_5",
-        "rank": 5,
-        "title": "A new deal on balcony solar just dropped in the US",
-        "category": "energy",
-        "summary": "Do you live in the U.S. and want balcony solar ? A new initiative could help you get a deal on one of these small but mighty systems that plug into a standard outlet and push clean power into your home. Today,…",
-        "image": "https://img.canarymedia.com/content/uploads/Balcony-Solar-on-Deck.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=a9a2ae85c3d9e6f8c36ffaad3590cef4",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/solar/balcony-panel-bright-saver-deal",
-        "imageProxy": "https://images.weserv.nl/?url=img.canarymedia.com%2Fcontent%2Fuploads%2FBalcony-Solar-on-Deck.jpeg%3Fauto%3Dcompress%252Cformat%26crop%3Dfocalpoint%26fit%3Dcrop%26fp-x%3D0.5%26fp-y%3D0.5%26h%3D630%26q%3D82%26w%3D1200%26s%3Da9a2ae85c3d9e6f8c36ffaad3590cef4&w=640&h=400&fit=cover&we&output=jpg"
       }
     ]
   }

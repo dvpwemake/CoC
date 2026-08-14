@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-08-14T00-48",
+    "scannedAt": "2026-08-14T00:48:01.122Z",
+    "items": [
+      {
+        "id": "auto_2026-08-14T00-48_1",
+        "rank": 1,
+        "title": "Apple and Epic argue over how much Apple should get from purchases made outside the App Store",
+        "category": "general",
+        "summary": "In a new filing in its long-running legal dispute with Epic Games, Apple has proposed a structure that would allow it to collect fees on digital purchases made via external links that don't use the company's in-app…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK468_APPLE_ANTITRUST_CVIRGINIA_F.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "sourceUrl": "https://www.theverge.com/tech/979967/apple-epic-games-external-links-fees-filing",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-14T00-48_2",
+        "rank": 2,
+        "title": "Space Force awards five companies $60 million for multi-vendor satellite network tests",
+        "category": "space",
+        "summary": "Amazon Leo, Lockheed Martin, Northrop Grumman, Rocket Lab and York Space will prototype and test connections to the SpaceX-built data network backbone The post Space Force awards five companies $60 million for…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/06/photospace4-1.jpg.webp?fit=878%2C500&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/space-force-awards-five-companies-60-million-for-multi-vendor-satellite-network-tests/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-14T00-48_3",
+        "rank": 3,
+        "title": "STAT+: Commure terminates payments under its customer referral programs tied to AI products",
+        "category": "biotech",
+        "summary": "Commure, which develops and sells AI products to clinics, has terminated a program that paid for referrals to new customers.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/08/GettyImages-2159864192-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/08/13/commure-terminates-payments-under-customer-referral-programs/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-14T00-48_4",
+        "rank": 4,
+        "title": "Icom defends the Smithsonian amid Trump's attacks",
+        "category": "art",
+        "summary": "The public statement of support follows the international museum body’s recent update of its code of ethics, as well as a similar statement issued by the American Alliance of Museums in July",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/fb496a27f1119636a8cb2619606cc54d095eb8a8-2000x1345.jpg?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/08/13/international-council-museums-statement-support-smithsonian-trump-attacks",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-14T00-48_5",
+        "rank": 5,
+        "title": "8 Common Uses of UML Diagram Templates in Software Projects",
+        "category": "robotics",
+        "summary": "Software projects mainly include various components, complicated structures, and multiple processes that can’t be done without planning. Here comes the need for visual representation, which helps developers and team…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/uml-diagrams-1.png",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/13/8-common-uses-of-uml-diagram-templates-in-software-projects/104132/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-08-13T20-26",
     "scannedAt": "2026-08-13T20:26:16.594Z",
     "items": [
@@ -1110,67 +1171,6 @@
         "image": "https://artsy-media-uploads.s3.amazonaws.com/WlsBgQKbe0NRpkUhXap6tw%2FCRAG.jpg",
         "source": "Artsy",
         "sourceUrl": "https://www.artsy.net/article/artsy-editorial-sculptor-tony-cragg-awarded-2026-european-culture-prize",
-        "fromX": false
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-07-29T20-40",
-    "scannedAt": "2026-07-29T20:40:35.004Z",
-    "items": [
-      {
-        "id": "auto_2026-07-29T20-40_1",
-        "rank": 1,
-        "title": "Resource Limits and Noise Dictate Memory",
-        "category": "neuroscience",
-        "summary": "A new study presents a mathematical framework showing that organisms shift abruptly from reactive to memory-based strategies only when energy resources exceed a critical threshold, with memory offering peak utility…",
-        "image": "https://neurosciencenews.com/files/2026/07/memory-noise-resources-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/resource-limits-noise-memory-31152/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-07-29T20-40_2",
-        "rank": 2,
-        "title": "Space Force awards All Points $250 million to expand satellite processing at Vandenberg",
-        "category": "space",
-        "summary": "All Points Logistics is the third company selected under a Commercial Solutions Opening to add facilities where satellites can be inspected, tested, fueled and prepared for integration with launch vehicles The post…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/9778751-scaled.jpg?fit=1024%2C683&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/space-force-awards-all-points-250-million-to-expand-satellite-processing-at-vandenberg/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-07-29T20-40_3",
-        "rank": 3,
-        "title": "STAT+: Hims misled consumers and violated their privacy, FTC alleges in a lawsuit",
-        "category": "biotech",
-        "summary": "The U.S. Federal Trade Commission sued telehealth company Hims & Hers alleging business practices that agency says misled consumers.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/07/AP5450233286818613-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/07/29/ftc-lawsuit-hims-alleging-deceptive-business-practices/?utm_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-07-29T20-40_4",
-        "rank": 4,
-        "title": "Elaine de Kooning’s JFK portrait series to go on view in New York this fall.",
-        "category": "art",
-        "summary": "A major exhibition of Elaine de Kooning ’s work will open at Berry Campbell Gallery in New York on October 29th, spanning four decades of the Abstract Expressionist ’s career from 1948 to 1988. It is the first major…",
-        "image": "https://artsy-media-uploads.s3.amazonaws.com/XVb8CKx1DacAUqjx7B7Oww%2Fdekooning_EDEK_00070_f+copy+2.jpg",
-        "source": "Artsy",
-        "sourceUrl": "https://www.artsy.net/article/artsy-editorial-laine-de-koonings-jfk-portrait-series-view-new-york-fall",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-07-29T20-40_5",
-        "rank": 5,
-        "title": "Best Construction Scheduling Software for Contractors",
-        "category": "robotics",
-        "summary": "Construction scheduling is where most projects quietly fall apart. Not during the build itself, but in the planning gaps where subcontractors overlap, crews wait on materials, and the office loses touch with the field.…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/07/planera-construction-1.jpg",
-        "source": "Robotics & Automation News",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/07/29/best-construction-scheduling-software-for-contractors/103724/",
         "fromX": false
       }
     ]

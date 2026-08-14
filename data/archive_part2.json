@@ -1,5 +1,55 @@
 [
   {
+    "batchId": "auto_2026-07-13T20-45",
+    "scannedAt": "2026-07-13T20:45:36.490Z",
+    "items": [
+      {
+        "id": "auto_2026-07-13T20-45_1",
+        "rank": 1,
+        "title": "Testosterone Drives Early Pubertal Distress in Girls",
+        "category": "neuroscience",
+        "summary": "A new study demonstrates that rising testosterone levels are a primary predictor of anxiety and depression symptoms in preteens aged 10 to 12.",
+        "image": "https://neurosciencenews.com/files/2026/07/testosterone-pubity-emotion-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/testosterone-puberty-girls-emotional-distress-31042/",
+        "imageProxy": "https://images.weserv.nl/?url=neurosciencenews.com%2Ffiles%2F2026%2F07%2Ftestosterone-pubity-emotion-neuroscience-1155x770.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-07-13T20-45_3",
+        "rank": 3,
+        "title": "STAT+: Dementia study replicates promising outcomes following risk-reduction strategies",
+        "category": "biotech",
+        "summary": "A dementia prevention trial praised as a \"landmark\" effort further demonstrated the promise of structured programs tailored to local cultures.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/07/unnamed-1-4-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/07/13/aaic-in-30-alzheimers-treaatments-dementia-day-2-conference/?utm_campaign=rss",
+        "imageProxy": "https://images.weserv.nl/?url=www.statnews.com%2Fwp-content%2Fuploads%2F2026%2F07%2Funnamed-1-4-1024x576.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-07-13T20-45_4",
+        "rank": 4,
+        "title": "NASA Astronaut Anil Menon",
+        "category": "space",
+        "summary": "NASA astronaut Anil Menon poses in a spacesuit for a portrait at NASA's Johnson Space Center in Houston, Texas on Jan. 8, 2026. Menon will launch aboard the Roscosmos Soyuz MS-29 spacecraft to the International Space…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/07/jsc2026e000758orig.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/image-article/nasa-astronaut-anil-menon/",
+        "imageProxy": "https://images.weserv.nl/?url=www.nasa.gov%2Fwp-content%2Fuploads%2F2026%2F07%2Fjsc2026e000758orig.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-07-13T20-45_5",
+        "rank": 5,
+        "title": "A new deal on balcony solar just dropped in the US",
+        "category": "energy",
+        "summary": "Do you live in the U.S. and want balcony solar ? A new initiative could help you get a deal on one of these small but mighty systems that plug into a standard outlet and push clean power into your home. Today,…",
+        "image": "https://img.canarymedia.com/content/uploads/Balcony-Solar-on-Deck.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=a9a2ae85c3d9e6f8c36ffaad3590cef4",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/solar/balcony-panel-bright-saver-deal",
+        "imageProxy": "https://images.weserv.nl/?url=img.canarymedia.com%2Fcontent%2Fuploads%2FBalcony-Solar-on-Deck.jpeg%3Fauto%3Dcompress%252Cformat%26crop%3Dfocalpoint%26fit%3Dcrop%26fp-x%3D0.5%26fp-y%3D0.5%26h%3D630%26q%3D82%26w%3D1200%26s%3Da9a2ae85c3d9e6f8c36ffaad3590cef4&w=640&h=400&fit=cover&we&output=jpg"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-07-12T20-32",
     "scannedAt": "2026-07-12T20:32:43.736Z",
     "items": [
@@ -1302,66 +1352,5 @@
       }
     ],
     "batchId": "b1781116854500"
-  },
-  {
-    "scannedAt": "2026-06-10T16:02:47.858Z",
-    "items": [
-      {
-        "id": "b1781107367857_1",
-        "rank": 1,
-        "title": "Scientists Map Every Neural Connection in Fruit Fly Brain, Revealing Distributed Intelligence",
-        "category": "neuroscience",
-        "summary": "Harvard Medical School and Princeton University researchers published the complete connectome of an adult fruit fly's central nervous system, mapping every neural connection between brain and body. The groundbreaking study reveals that complex behaviors emerge from distributed local circuits rather than a single central controller, offering revolutionary insights into how intelligence and movement are organized in brains. This represents the most complex brain ever fully mapped, with implications for understanding human brain function.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260610003047.htm",
-        "image": "https://www.sciencedaily.com/images/1920/fruit-fly-brain-connectome.webp",
-        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Ffruit-fly-brain-connectome.webp&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "b1781107367857_2",
-        "rank": 2,
-        "title": "China's 'Artificial Sun' Shatters Fusion Energy Density Barrier in Historic Breakthrough",
-        "category": "energy",
-        "summary": "China's EAST nuclear fusion reactor achieved a historic milestone by maintaining stable plasma at extreme densities far beyond the theoretical Greenwald limit. The breakthrough demonstrates that plasma can remain stable even at densities 1.3-1.65 times higher than previously thought possible, potentially removing a major obstacle to commercial fusion power. This advance brings humanity significantly closer to unlimited clean energy by proving the viability of the theorized 'density-free regime' for fusion reactions.",
-        "source": "Live Science",
-        "sourceUrl": "https://www.livescience.com/planet-earth/nuclear-energy/chinas-artificial-sun-reactor-shatters-major-fusion-limit-a-step-closer-to-near-limitless-clean-energy",
-        "image": "https://cdn.mos.cms.futurecdn.net/4WWuJbSzvDL4Fqxz7498Gn-2560-80.jpg",
-        "imageProxy": "https://images.weserv.nl/?url=cdn.mos.cms.futurecdn.net%2F4WWuJbSzvDL4Fqxz7498Gn-2560-80.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "b1781107367857_3",
-        "rank": 3,
-        "title": "AI Breakthrough Cuts Energy Consumption by 100x While Dramatically Improving Performance",
-        "category": "ai",
-        "summary": "Tufts University researchers developed a revolutionary neuro-symbolic AI system that combines neural networks with human-like symbolic reasoning, reducing energy consumption by up to 100 times compared to conventional approaches. In robotic task tests, the hybrid system achieved 95% success rates versus 34% for standard models and completed training in just 34 minutes versus more than 36 hours for traditional systems. This breakthrough addresses AI's massive energy demands while dramatically improving performance.",
-        "source": "Crescendo AI",
-        "sourceUrl": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
-        "image": "https://cdn.prod.website-files.com/67166bf779ba8852260f7d1f/694a731a76c9d6876ddf8a8f_latest-ai-news-and-updates.png",
-        "imageProxy": "https://images.weserv.nl/?url=cdn.prod.website-files.com%2F67166bf779ba8852260f7d1f%2F694a731a76c9d6876ddf8a8f_latest-ai-news-and-updates.png&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "b1781107367857_4",
-        "rank": 4,
-        "title": "NASA's Ultra-Sensitive Sensor Detects Energy Below One Zeptojoule",
-        "category": "space",
-        "summary": "NASA researchers built an ultra-sensitive sensor capable of detecting unimaginably small amounts of energy below one zeptojoule using fragile superconducting materials that react to even the slightest temperature change. Additionally, NASA's new AI space chip demonstrated performance levels hundreds of times beyond current spaceflight processors, potentially allowing spacecraft to operate far more independently in deep space. These advances represent major leaps in space technology capabilities.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/",
-        "image": "https://www.sciencedaily.com/images/scidaily-icon.png",
-        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2Fscidaily-icon.png&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "b1781107367857_5",
-        "rank": 5,
-        "title": "Revolutionary DNA Robots Emerge as Programmable Molecular Machines",
-        "category": "biotech",
-        "summary": "Scientists developed DNA robots as tiny programmable machines that could deliver drugs, hunt viruses, and build molecular-scale devices inside the human body. By borrowing ideas from traditional robotics and combining them with biological systems, these molecular machines represent a breakthrough in precision medicine. The DNA robots can be programmed to perform specific tasks at the cellular level, potentially revolutionizing targeted drug delivery and treatment of diseases.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/news/computers_math/artificial_intelligence/",
-        "image": "https://www.sciencedaily.com/images/scidaily-icon.png",
-        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2Fscidaily-icon.png&w=640&h=400&fit=cover&we&output=jpg"
-      }
-    ],
-    "batchId": "b1781107367857"
   }
 ]
