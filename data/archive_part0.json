@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-08-15T00-26",
+    "scannedAt": "2026-08-15T00:26:17.220Z",
+    "items": [
+      {
+        "id": "auto_2026-08-15T00-26_1",
+        "rank": 1,
+        "title": "Why tech bosses keep sharing their manifestos about AI",
+        "category": "general",
+        "summary": "Meta boss Mark Zuckerberg is the latest Big Tech name to pen a letter thousands of words long about AI.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41d4/live/d7830930-97e5-11f1-a76b-f1c27c51f3da.jpg",
+        "source": "BBC Technology",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cz97ljy91zxo?at_medium=RSS&at_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-15T00-26_2",
+        "rank": 2,
+        "title": "U.S. Space Force adds second surveillance sensor to Japanese constellation",
+        "category": "space",
+        "summary": "The Aug. 10 launch of QZS-7 completes bilateral program to host U.S. sensors aboard Japanese navigation satellites The post U.S. Space Force adds second surveillance sensor to Japanese constellation appeared first on…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/260814-X-X0813-1001.png?fit=768%2C1024&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/u-s-space-force-adds-second-surveillance-sensor-to-japanese-constellation/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-15T00-26_3",
+        "rank": 3,
+        "title": "Youth Protein TIMP2 Restores Immune Function in the Aging Brain",
+        "category": "neuroscience",
+        "summary": "Researchers discovered that the youth-associated protein TIMP2 restores healthy immune function in the aging brain by rejuvenating microglia.",
+        "image": "https://neurosciencenews.com/files/2026/08/youth-protein-timp2-microglia-rejuvenation-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/youth-protein-timp2-restores-immune-function-aging-brain-31207/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-15T00-26_4",
+        "rank": 4,
+        "title": "Epic’s alleged anticompetitive practices under scrutiny from federal, state investigators",
+        "category": "biotech",
+        "summary": "Epic Systems is the subject of a broad inquiry into its business practices, people who were contacted by FTC investigators told STAT.",
+        "image": "https://www.statnews.com/wp-content/uploads/2024/06/AP24158651812213-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/08/14/epic-systems-ftc-review-nda-use-possible-anticompetitive-practices/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-15T00-26_5",
+        "rank": 5,
+        "title": "Artist Builds Free-To-Play Video Game Replica Of Michael Heizer’s City",
+        "category": "art",
+        "summary": "Digital artist Lily Belmira has created a free video game that recreates the environment of Michael Heizer’s monumental land art sculpture City, 1970–2022, in the Nevada desert. Belmira, who is based in Tulsa, Oklahoma,…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/08/city5.png?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/news/artist-builds-free-to-play-vreplica-of-michael-heizer-city-1234757035/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-08-14T20-18",
     "scannedAt": "2026-08-14T20:18:21.262Z",
     "items": [
