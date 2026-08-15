@@ -3,13 +3,11 @@
     "id": "ed_2026-08-14",
     "publishDate": "2026-08-14",
     "status": "published",
-    "needsApproval": false,
-    "updatedAt": "2026-08-15T00:58:49.360Z",
+    "updatedAt": "2026-08-15T03:27:27.402Z",
     "title": "What the replica can open, and what the skull cannot keep sealed",
     "dek": "Convergence of the locked original and the living crossing",
     "authorName": "Dr. Wallace Lynch",
     "authorTitle": "Editor in Chief",
-    "insight": "Convergence of the locked original and the living crossing",
     "body": "Lily Belmira built a free video game of Michael Heizer's City, fifty years of land work in the Nevada desert. The sculpture is a sealed pilgrimage. The replica is open to anyone with a machine. The monument does not move. The copy does.\n\nOn Friday, August 14, 2026, we hold that split to one pressure: what we lock as original, and what still has to cross a border to stay alive. The lock is not the same as the life.\n\nStanford scientists find immune cells from the blood entering the aging brain. The skull was supposed to be a closed room. It is not. The protein TIMP2 restores immune work there by waking microglia. Restoration is not a letter from a tech boss. It is a crossing the body still allows.\n\nCare arrives as protocol. Pediatricians write against federal fearmongering on vaccines. The health secretary goes west and names a new line on addiction. Epic Systems, which holds so many clinic records, is under inquiry by federal and state investigators. The software of care is now a public question.\n\nTech bosses keep posting long letters about AI. Samsung's code hints at over ear headphones. The Space Force adds a second surveillance sensor to a Japanese navigation constellation. Robots lift what a human back cannot. The lift is filmed. The policy is not.\n\nA Picasso print stolen in Milwaukee in 2018 returns from a vacant apartment. At Rønnebæksholm an orchestra plays with tenderness. What was taken can still come home. What was monumental can still be entered as play.\n\nConvergence is not a better replica. It is whether the original we protect, in a desert or a clinic, still lets the living crossing do its work.",
     "paragraphs": [
       "Lily Belmira built a free video game of Michael Heizer's City, fifty years of land work in the Nevada desert. The sculpture is a sealed pilgrimage. The replica is open to anyone with a machine. The monument does not move. The copy does.",
@@ -20,87 +18,110 @@
       "A Picasso print stolen in Milwaukee in 2018 returns from a vacant apartment. At Rønnebæksholm an orchestra plays with tenderness. What was taken can still come home. What was monumental can still be entered as play.",
       "Convergence is not a better replica. It is whether the original we protect, in a desert or a clinic, still lets the living crossing do its work."
     ],
-    "wordCount": 287,
-    "heroImage": "https://neurosciencenews.com/files/2026/08/youth-protein-timp2-microglia-rejuvenation-370x247.jpg",
-    "heroCredit": "Youth Protein TIMP2 Restores Immune Function in the Aging Brain",
-    "heroSource": "Neuroscience News",
-    "heroSourceUrl": "https://neurosciencenews.com/youth-protein-timp2-restores-immune-function-aging-brain-31207/",
+    "wordCount": 285,
+    "heroImage": "https://www.statnews.com/wp-content/uploads/2024/06/AP24158651812213-1024x576.jpg",
+    "heroCredit": "Epic’s alleged anticompetitive practices under scrutiny from federal, state investigators",
+    "heroSource": "STAT News",
+    "heroSourceUrl": "https://www.statnews.com/2026/08/14/epic-systems-ftc-review-nda-use-possible-anticompetitive-practices/?utm_campaign=rss",
     "headlines": [
       {
         "title": "Artist Builds Free-To-Play Video Game Replica Of Michael Heizer’s City",
         "source": "Artforum",
         "category": "art",
-        "sourceUrl": "https://www.artforum.com/news/artist-builds-free-to-play-vreplica-of-michael-heizer-city-1234757035/"
+        "sourceUrl": "https://www.artforum.com/news/artist-builds-free-to-play-vreplica-of-michael-heizer-city-1234757035/",
+        "summary": "Digital artist Lily Belmira has created a free video game that recreates the environment of Michael Heizer’s monumental land art sculpture City, 1970–2022, in the Nevada desert. Belmira, who is based in Tulsa, Oklahoma,…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/08/city5.png?w=650"
       },
       {
         "title": "Epic’s alleged anticompetitive practices under scrutiny from federal, state investigators",
         "source": "STAT News",
         "category": "biotech",
-        "sourceUrl": "https://www.statnews.com/2026/08/14/epic-systems-ftc-review-nda-use-possible-anticompetitive-practices/?utm_campaign=rss"
+        "sourceUrl": "https://www.statnews.com/2026/08/14/epic-systems-ftc-review-nda-use-possible-anticompetitive-practices/?utm_campaign=rss",
+        "summary": "Epic Systems is the subject of a broad inquiry into its business practices, people who were contacted by FTC investigators told STAT.",
+        "image": "https://www.statnews.com/wp-content/uploads/2024/06/AP24158651812213-1024x576.jpg"
       },
       {
         "title": "Why tech bosses keep sharing their manifestos about AI",
         "source": "BBC Technology",
         "category": "general",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cz97ljy91zxo?at_medium=RSS&at_campaign=rss"
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cz97ljy91zxo?at_medium=RSS&at_campaign=rss",
+        "summary": "Meta boss Mark Zuckerberg is the latest Big Tech name to pen a letter thousands of words long about AI.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41d4/live/d7830930-97e5-11f1-a76b-f1c27c51f3da.jpg"
       },
       {
         "title": "Youth Protein TIMP2 Restores Immune Function in the Aging Brain",
         "source": "Neuroscience News",
         "category": "neuroscience",
         "sourceUrl": "https://neurosciencenews.com/youth-protein-timp2-restores-immune-function-aging-brain-31207/",
-        "image": "https://neurosciencenews.com/files/2026/08/youth-protein-timp2-microglia-rejuvenation-370x247.jpg"
+        "summary": "Researchers discovered that the youth-associated protein TIMP2 restores healthy immune function in the aging brain by rejuvenating microglia.",
+        "image": "https://neurosciencenews.com/files/2026/08/youth-protein-timp2-microglia-rejuvenation-1155x770.jpg"
       },
       {
         "title": "U.S. Space Force adds second surveillance sensor to Japanese constellation",
         "source": "SpaceNews",
         "category": "space",
-        "sourceUrl": "https://spacenews.com/u-s-space-force-adds-second-surveillance-sensor-to-japanese-constellation/"
+        "sourceUrl": "https://spacenews.com/u-s-space-force-adds-second-surveillance-sensor-to-japanese-constellation/",
+        "summary": "The Aug. 10 launch of QZS-7 completes bilateral program to host U.S. sensors aboard Japanese navigation satellites The post U.S. Space Force adds second surveillance sensor to Japanese constellation appeared first on…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/260814-X-X0813-1001.png?fit=768%2C1024&ssl=1"
       },
       {
         "title": "Stolen Picasso Print Recovered Eight Years Later in Vacant Apartment",
         "source": "Artforum",
         "category": "art",
-        "sourceUrl": "https://www.artforum.com/news/stolen-picasso-print-recovered-eight-years-later-1234757051/"
+        "sourceUrl": "https://www.artforum.com/news/stolen-picasso-print-recovered-eight-years-later-1234757051/",
+        "summary": "A Picasso print stolen from a Milwaukee gallery in 2018 has miraculously resurfaced in a decrepit apartment in the same city, according to recent reports. The print, Torero (1949), was discovered during a landlord's…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/08/91205863007-02316-b-19-ffca-43-ed-8842799-b-0-ecf-900-f-e1786732192250.webp?w=600"
       },
       {
         "title": "Opinion: AAP president: How pediatricians are navigating federal leaders’ fearmongering on vaccines",
         "source": "STAT News",
         "category": "biotech",
-        "sourceUrl": "https://www.statnews.com/2026/08/14/vaccine-executive-order-policy-aap-president/?utm_campaign=rss"
+        "sourceUrl": "https://www.statnews.com/2026/08/14/vaccine-executive-order-policy-aap-president/?utm_campaign=rss",
+        "summary": "Every parent experiences a unique mix of emotions when caring for a newborn baby. You’re filled with an overwhelming sense of pride, love, and awe for this tiny, precious person…",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/08/AdobeStock_578977705-1024x576.jpeg"
       },
       {
         "title": "Samsung has new Galaxy headphones in the works",
         "source": "The Verge",
         "category": "general",
-        "sourceUrl": "https://www.theverge.com/gadgets/980547/samsung-galaxy-h1-over-ear-headphones"
+        "sourceUrl": "https://www.theverge.com/gadgets/980547/samsung-galaxy-h1-over-ear-headphones",
+        "summary": "Strings of code in Samsung's Galaxy Wearable app hint at an upcoming pair of over-ear headphones that could compete with the AirPods Max, SamMobile reports. Samsung's reportedly referring to the headphones as the…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268384_Samsung_Galaxy_Buds_4_Pro_AKrales_0309.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
       },
       {
         "title": "Immune cells flood into the aging brain, Stanford scientists discover",
         "source": "ScienceDaily",
         "category": "neuroscience",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260814011033.htm"
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260814011033.htm",
+        "summary": "Scientists have discovered that the aging human brain may be far less isolated from the rest of the body than once believed. Stanford researchers found that large numbers of immune cells from the blood begin entering…",
+        "image": "https://www.sciencedaily.com/images/1920/brain-immune-cell-migration.webp"
       },
       {
         "title": "Video Friday: Lift Happens",
         "source": "IEEE Spectrum",
         "category": "robotics",
-        "sourceUrl": "https://spectrum.ieee.org/video-friday-darpa-heavy-lift-challenge"
+        "sourceUrl": "https://spectrum.ieee.org/video-friday-darpa-heavy-lift-challenge",
+        "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us…",
+        "image": "https://spectrum.ieee.org/media-library/drone-crash-on-grassland-engulfed-in-flames-with-thick-black-smoke-rising.png?id=67615846&width=980"
       },
       {
         "title": "An Ethereal Evening at Rønnebæksholm Kunsthal",
         "source": "Artforum",
         "category": "art",
-        "sourceUrl": "https://www.artforum.com/columns/an-ethereal-evening-at-ronnebaeksholm-kunsthal-postcard-1234756970/"
+        "sourceUrl": "https://www.artforum.com/columns/an-ethereal-evening-at-ronnebaeksholm-kunsthal-postcard-1234756970/",
+        "summary": "“A litham-wearing orchestra begins to play with tenderness”",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/08/haloplus-feat-img-real.jpg?w=650"
       },
       {
         "title": "STAT+: Kennedy heads west, slams Becerra",
         "source": "STAT News",
         "category": "biotech",
-        "sourceUrl": "https://www.statnews.com/2026/08/13/rfk-california-tour-hhs-addiction-treatment-plan-dc-diagnosis/?utm_campaign=rss"
+        "sourceUrl": "https://www.statnews.com/2026/08/13/rfk-california-tour-hhs-addiction-treatment-plan-dc-diagnosis/?utm_campaign=rss",
+        "summary": "The health secretary headed to California to lay out the government's new approach to addiction treatment.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/02/GettyImages-2255260434-1024x576.jpg"
       }
     ],
-    "publishedAt": "2026-08-15T00:58:49.360Z"
+    "publishedAt": "2026-08-15T03:27:27.402Z"
   },
   "drafts": {
     "2026-07-21": {
@@ -3134,13 +3155,11 @@
       "id": "ed_2026-08-14",
       "publishDate": "2026-08-14",
       "status": "published",
-      "needsApproval": false,
-      "updatedAt": "2026-08-15T00:58:49.360Z",
+      "updatedAt": "2026-08-15T03:27:27.402Z",
       "title": "What the replica can open, and what the skull cannot keep sealed",
       "dek": "Convergence of the locked original and the living crossing",
       "authorName": "Dr. Wallace Lynch",
       "authorTitle": "Editor in Chief",
-      "insight": "Convergence of the locked original and the living crossing",
       "body": "Lily Belmira built a free video game of Michael Heizer's City, fifty years of land work in the Nevada desert. The sculpture is a sealed pilgrimage. The replica is open to anyone with a machine. The monument does not move. The copy does.\n\nOn Friday, August 14, 2026, we hold that split to one pressure: what we lock as original, and what still has to cross a border to stay alive. The lock is not the same as the life.\n\nStanford scientists find immune cells from the blood entering the aging brain. The skull was supposed to be a closed room. It is not. The protein TIMP2 restores immune work there by waking microglia. Restoration is not a letter from a tech boss. It is a crossing the body still allows.\n\nCare arrives as protocol. Pediatricians write against federal fearmongering on vaccines. The health secretary goes west and names a new line on addiction. Epic Systems, which holds so many clinic records, is under inquiry by federal and state investigators. The software of care is now a public question.\n\nTech bosses keep posting long letters about AI. Samsung's code hints at over ear headphones. The Space Force adds a second surveillance sensor to a Japanese navigation constellation. Robots lift what a human back cannot. The lift is filmed. The policy is not.\n\nA Picasso print stolen in Milwaukee in 2018 returns from a vacant apartment. At Rønnebæksholm an orchestra plays with tenderness. What was taken can still come home. What was monumental can still be entered as play.\n\nConvergence is not a better replica. It is whether the original we protect, in a desert or a clinic, still lets the living crossing do its work.",
       "paragraphs": [
         "Lily Belmira built a free video game of Michael Heizer's City, fifty years of land work in the Nevada desert. The sculpture is a sealed pilgrimage. The replica is open to anyone with a machine. The monument does not move. The copy does.",
@@ -3151,87 +3170,110 @@
         "A Picasso print stolen in Milwaukee in 2018 returns from a vacant apartment. At Rønnebæksholm an orchestra plays with tenderness. What was taken can still come home. What was monumental can still be entered as play.",
         "Convergence is not a better replica. It is whether the original we protect, in a desert or a clinic, still lets the living crossing do its work."
       ],
-      "wordCount": 287,
-      "heroImage": "https://neurosciencenews.com/files/2026/08/youth-protein-timp2-microglia-rejuvenation-370x247.jpg",
-      "heroCredit": "Youth Protein TIMP2 Restores Immune Function in the Aging Brain",
-      "heroSource": "Neuroscience News",
-      "heroSourceUrl": "https://neurosciencenews.com/youth-protein-timp2-restores-immune-function-aging-brain-31207/",
+      "wordCount": 285,
+      "heroImage": "https://www.statnews.com/wp-content/uploads/2024/06/AP24158651812213-1024x576.jpg",
+      "heroCredit": "Epic’s alleged anticompetitive practices under scrutiny from federal, state investigators",
+      "heroSource": "STAT News",
+      "heroSourceUrl": "https://www.statnews.com/2026/08/14/epic-systems-ftc-review-nda-use-possible-anticompetitive-practices/?utm_campaign=rss",
       "headlines": [
         {
           "title": "Artist Builds Free-To-Play Video Game Replica Of Michael Heizer’s City",
           "source": "Artforum",
           "category": "art",
-          "sourceUrl": "https://www.artforum.com/news/artist-builds-free-to-play-vreplica-of-michael-heizer-city-1234757035/"
+          "sourceUrl": "https://www.artforum.com/news/artist-builds-free-to-play-vreplica-of-michael-heizer-city-1234757035/",
+          "summary": "Digital artist Lily Belmira has created a free video game that recreates the environment of Michael Heizer’s monumental land art sculpture City, 1970–2022, in the Nevada desert. Belmira, who is based in Tulsa, Oklahoma,…",
+          "image": "https://www.artforum.com/wp-content/uploads/2026/08/city5.png?w=650"
         },
         {
           "title": "Epic’s alleged anticompetitive practices under scrutiny from federal, state investigators",
           "source": "STAT News",
           "category": "biotech",
-          "sourceUrl": "https://www.statnews.com/2026/08/14/epic-systems-ftc-review-nda-use-possible-anticompetitive-practices/?utm_campaign=rss"
+          "sourceUrl": "https://www.statnews.com/2026/08/14/epic-systems-ftc-review-nda-use-possible-anticompetitive-practices/?utm_campaign=rss",
+          "summary": "Epic Systems is the subject of a broad inquiry into its business practices, people who were contacted by FTC investigators told STAT.",
+          "image": "https://www.statnews.com/wp-content/uploads/2024/06/AP24158651812213-1024x576.jpg"
         },
         {
           "title": "Why tech bosses keep sharing their manifestos about AI",
           "source": "BBC Technology",
           "category": "general",
-          "sourceUrl": "https://www.bbc.co.uk/news/articles/cz97ljy91zxo?at_medium=RSS&at_campaign=rss"
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/cz97ljy91zxo?at_medium=RSS&at_campaign=rss",
+          "summary": "Meta boss Mark Zuckerberg is the latest Big Tech name to pen a letter thousands of words long about AI.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41d4/live/d7830930-97e5-11f1-a76b-f1c27c51f3da.jpg"
         },
         {
           "title": "Youth Protein TIMP2 Restores Immune Function in the Aging Brain",
           "source": "Neuroscience News",
           "category": "neuroscience",
           "sourceUrl": "https://neurosciencenews.com/youth-protein-timp2-restores-immune-function-aging-brain-31207/",
-          "image": "https://neurosciencenews.com/files/2026/08/youth-protein-timp2-microglia-rejuvenation-370x247.jpg"
+          "summary": "Researchers discovered that the youth-associated protein TIMP2 restores healthy immune function in the aging brain by rejuvenating microglia.",
+          "image": "https://neurosciencenews.com/files/2026/08/youth-protein-timp2-microglia-rejuvenation-1155x770.jpg"
         },
         {
           "title": "U.S. Space Force adds second surveillance sensor to Japanese constellation",
           "source": "SpaceNews",
           "category": "space",
-          "sourceUrl": "https://spacenews.com/u-s-space-force-adds-second-surveillance-sensor-to-japanese-constellation/"
+          "sourceUrl": "https://spacenews.com/u-s-space-force-adds-second-surveillance-sensor-to-japanese-constellation/",
+          "summary": "The Aug. 10 launch of QZS-7 completes bilateral program to host U.S. sensors aboard Japanese navigation satellites The post U.S. Space Force adds second surveillance sensor to Japanese constellation appeared first on…",
+          "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/260814-X-X0813-1001.png?fit=768%2C1024&ssl=1"
         },
         {
           "title": "Stolen Picasso Print Recovered Eight Years Later in Vacant Apartment",
           "source": "Artforum",
           "category": "art",
-          "sourceUrl": "https://www.artforum.com/news/stolen-picasso-print-recovered-eight-years-later-1234757051/"
+          "sourceUrl": "https://www.artforum.com/news/stolen-picasso-print-recovered-eight-years-later-1234757051/",
+          "summary": "A Picasso print stolen from a Milwaukee gallery in 2018 has miraculously resurfaced in a decrepit apartment in the same city, according to recent reports. The print, Torero (1949), was discovered during a landlord's…",
+          "image": "https://www.artforum.com/wp-content/uploads/2026/08/91205863007-02316-b-19-ffca-43-ed-8842799-b-0-ecf-900-f-e1786732192250.webp?w=600"
         },
         {
           "title": "Opinion: AAP president: How pediatricians are navigating federal leaders’ fearmongering on vaccines",
           "source": "STAT News",
           "category": "biotech",
-          "sourceUrl": "https://www.statnews.com/2026/08/14/vaccine-executive-order-policy-aap-president/?utm_campaign=rss"
+          "sourceUrl": "https://www.statnews.com/2026/08/14/vaccine-executive-order-policy-aap-president/?utm_campaign=rss",
+          "summary": "Every parent experiences a unique mix of emotions when caring for a newborn baby. You’re filled with an overwhelming sense of pride, love, and awe for this tiny, precious person…",
+          "image": "https://www.statnews.com/wp-content/uploads/2026/08/AdobeStock_578977705-1024x576.jpeg"
         },
         {
           "title": "Samsung has new Galaxy headphones in the works",
           "source": "The Verge",
           "category": "general",
-          "sourceUrl": "https://www.theverge.com/gadgets/980547/samsung-galaxy-h1-over-ear-headphones"
+          "sourceUrl": "https://www.theverge.com/gadgets/980547/samsung-galaxy-h1-over-ear-headphones",
+          "summary": "Strings of code in Samsung's Galaxy Wearable app hint at an upcoming pair of over-ear headphones that could compete with the AirPods Max, SamMobile reports. Samsung's reportedly referring to the headphones as the…",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268384_Samsung_Galaxy_Buds_4_Pro_AKrales_0309.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
         },
         {
           "title": "Immune cells flood into the aging brain, Stanford scientists discover",
           "source": "ScienceDaily",
           "category": "neuroscience",
-          "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260814011033.htm"
+          "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260814011033.htm",
+          "summary": "Scientists have discovered that the aging human brain may be far less isolated from the rest of the body than once believed. Stanford researchers found that large numbers of immune cells from the blood begin entering…",
+          "image": "https://www.sciencedaily.com/images/1920/brain-immune-cell-migration.webp"
         },
         {
           "title": "Video Friday: Lift Happens",
           "source": "IEEE Spectrum",
           "category": "robotics",
-          "sourceUrl": "https://spectrum.ieee.org/video-friday-darpa-heavy-lift-challenge"
+          "sourceUrl": "https://spectrum.ieee.org/video-friday-darpa-heavy-lift-challenge",
+          "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us…",
+          "image": "https://spectrum.ieee.org/media-library/drone-crash-on-grassland-engulfed-in-flames-with-thick-black-smoke-rising.png?id=67615846&width=980"
         },
         {
           "title": "An Ethereal Evening at Rønnebæksholm Kunsthal",
           "source": "Artforum",
           "category": "art",
-          "sourceUrl": "https://www.artforum.com/columns/an-ethereal-evening-at-ronnebaeksholm-kunsthal-postcard-1234756970/"
+          "sourceUrl": "https://www.artforum.com/columns/an-ethereal-evening-at-ronnebaeksholm-kunsthal-postcard-1234756970/",
+          "summary": "“A litham-wearing orchestra begins to play with tenderness”",
+          "image": "https://www.artforum.com/wp-content/uploads/2026/08/haloplus-feat-img-real.jpg?w=650"
         },
         {
           "title": "STAT+: Kennedy heads west, slams Becerra",
           "source": "STAT News",
           "category": "biotech",
-          "sourceUrl": "https://www.statnews.com/2026/08/13/rfk-california-tour-hhs-addiction-treatment-plan-dc-diagnosis/?utm_campaign=rss"
+          "sourceUrl": "https://www.statnews.com/2026/08/13/rfk-california-tour-hhs-addiction-treatment-plan-dc-diagnosis/?utm_campaign=rss",
+          "summary": "The health secretary headed to California to lay out the government's new approach to addiction treatment.",
+          "image": "https://www.statnews.com/wp-content/uploads/2026/02/GettyImages-2255260434-1024x576.jpg"
         }
       ],
-      "publishedAt": "2026-08-15T00:58:49.360Z"
+      "publishedAt": "2026-08-15T03:27:27.402Z"
     },
     {
       "id": "ed_2026-08-12",
