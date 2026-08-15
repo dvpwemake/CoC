@@ -183,6 +183,26 @@
     ]
   },
   {
+    "batchId": "editorial_2026-08-12",
+    "scannedAt": "2026-08-13T03:46:02.377Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-08-12",
+        "rank": 0,
+        "title": "What the wind will not let us keep",
+        "category": "editorial",
+        "summary": "Convergence of the hold we want and the life that will not sit still",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/08/AP26185611765469-1024x576.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-12.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-08-12",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-08-12T20-28",
     "scannedAt": "2026-08-12T20:28:10.771Z",
     "items": [
@@ -1172,67 +1192,6 @@
         "isEditorialArchive": true,
         "publishDate": "2026-07-30",
         "authorName": "Dr. Wallace Lynch"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-07-30T20-52",
-    "scannedAt": "2026-07-30T20:52:23.097Z",
-    "items": [
-      {
-        "id": "auto_2026-07-30T20-52_1",
-        "rank": 1,
-        "title": "Psilocybin Therapy Drives 75% PTSD Remission",
-        "category": "neuroscience",
-        "summary": "A new study demonstrates that psilocybin-assisted therapy is safe and achieves a 75% remission rate in veterans with severe, treatment-resistant PTSD.",
-        "image": "https://neurosciencenews.com/files/2026/07/ptsd-psilocybin-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/psilocybin-ptsd-remission-31159/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-07-30T20-52_2",
-        "rank": 2,
-        "title": "Capricor's data clash and a fugitive in the C-suite",
-        "category": "biotech",
-        "summary": "Is the FDA taking inconsistent approaches to Duchenne drugs? And how will a new batch of drug executives shake up their companies? Find out on the latest episode of \"The…",
-        "image": "https://www.statnews.com/wp-content/uploads/2024/07/ROL_Rectangle-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/07/30/capricor-duchenne-replimune-melanoma-fugitive-biotech-readout-loud-podcast/?utm_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-07-30T20-52_3",
-        "rank": 3,
-        "title": "Antora snags $550M for heat batteries to run data centers and factories",
-        "category": "energy",
-        "summary": "The startup Antora Energy just raised $550 million to build and deploy more of its heat-storing batteries for powering data centers and cleaning up factories. On Thursday, San Jose, California–based Antora said it…",
-        "image": "https://img.canarymedia.com/content/uploads/BigStone_2.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=bffe29e25a03c562c9a933deb142704b",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/climatetech-finance/antora-550m-heat-batteries",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-07-30T20-52_4",
-        "rank": 4,
-        "title": "K2 Space raises $500 million for commercial, defense satellite expansion",
-        "category": "space",
-        "summary": "The Series D more than doubles the satellite manufacturer’s valuation in seven months and will fund a production ramp to as many as 100 large spacecraft a year The post K2 Space raises $500 million for commercial,…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/1784647241166.jpeg?fit=1024%2C683&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/k2-space-raises-500-million-for-commercial-defense-satellite-expansion/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-07-30T20-52_5",
-        "rank": 5,
-        "title": "Sculptor Tony Cragg to be awarded the 2026 European Culture Prize.",
-        "category": "art",
-        "summary": "Sir Tony Cragg will receive the prestigious European Culture Prize 2026, the European Cultural Forum announced. eThe award will be presented on September 4th at the Royal Concertgebouw in Amsterdam. Born in Liverpool in…",
-        "image": "https://artsy-media-uploads.s3.amazonaws.com/WlsBgQKbe0NRpkUhXap6tw%2FCRAG.jpg",
-        "source": "Artsy",
-        "sourceUrl": "https://www.artsy.net/article/artsy-editorial-sculptor-tony-cragg-awarded-2026-european-culture-prize",
-        "fromX": false
       }
     ]
   }
