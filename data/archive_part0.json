@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-08-15T00-26",
-    "scannedAt": "2026-08-15T00:26:17.220Z",
+    "batchId": "auto_2026-08-15T04-16",
+    "scannedAt": "2026-08-15T04:16:35.600Z",
     "items": [
       {
-        "id": "auto_2026-08-15T00-26_1",
+        "id": "auto_2026-08-15T04-16_1",
         "rank": 1,
-        "title": "Why tech bosses keep sharing their manifestos about AI",
-        "category": "general",
-        "summary": "Meta boss Mark Zuckerberg is the latest Big Tech name to pen a letter thousands of words long about AI.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41d4/live/d7830930-97e5-11f1-a76b-f1c27c51f3da.jpg",
-        "source": "BBC Technology",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cz97ljy91zxo?at_medium=RSS&at_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-15T00-26_2",
-        "rank": 2,
-        "title": "U.S. Space Force adds second surveillance sensor to Japanese constellation",
+        "title": "Wallops gears up for an increase in launches",
         "category": "space",
-        "summary": "The Aug. 10 launch of QZS-7 completes bilateral program to host U.S. sensors aboard Japanese navigation satellites The post U.S. Space Force adds second surveillance sensor to Japanese constellation appeared first on…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/260814-X-X0813-1001.png?fit=768%2C1024&ssl=1",
+        "summary": "With a projected surge in launches from Wallops Island in the coming years, companies and officials say now is the time for infrastructure improvements to benefit companies and their workers. The post Wallops gears up…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/wallops-vaspace.jpeg?fit=1024%2C576&ssl=1",
         "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/u-s-space-force-adds-second-surveillance-sensor-to-japanese-constellation/",
+        "sourceUrl": "https://spacenews.com/wallops-gears-up-for-an-increase-in-launches/",
         "fromX": false
       },
       {
-        "id": "auto_2026-08-15T00-26_3",
+        "id": "auto_2026-08-15T04-16_2",
+        "rank": 2,
+        "title": "New York City Lawmakers Push to ‘Ban the Scan’ at MSG",
+        "category": "general",
+        "summary": "At a press conference outside Madison Square Garden, politicians, musicians, and privacy advocates argued for tighter restrictions on how public venues deploy biometric surveillance.",
+        "image": "https://media.wired.com/photos/6a7e4a6728f891277df706a0/master/pass/MSG-Surveillance-Protests-2196667317.jpg",
+        "source": "WIRED",
+        "sourceUrl": "https://www.wired.com/story/new-york-city-lawmakers-push-to-ban-the-scan-at-msg/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-15T04-16_3",
         "rank": 3,
-        "title": "Youth Protein TIMP2 Restores Immune Function in the Aging Brain",
-        "category": "neuroscience",
-        "summary": "Researchers discovered that the youth-associated protein TIMP2 restores healthy immune function in the aging brain by rejuvenating microglia.",
-        "image": "https://neurosciencenews.com/files/2026/08/youth-protein-timp2-microglia-rejuvenation-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/youth-protein-timp2-restores-immune-function-aging-brain-31207/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-15T00-26_4",
-        "rank": 4,
-        "title": "Epic’s alleged anticompetitive practices under scrutiny from federal, state investigators",
-        "category": "biotech",
-        "summary": "Epic Systems is the subject of a broad inquiry into its business practices, people who were contacted by FTC investigators told STAT.",
-        "image": "https://www.statnews.com/wp-content/uploads/2024/06/AP24158651812213-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/08/14/epic-systems-ftc-review-nda-use-possible-anticompetitive-practices/?utm_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-15T00-26_5",
-        "rank": 5,
-        "title": "Artist Builds Free-To-Play Video Game Replica Of Michael Heizer’s City",
+        "title": "Former Philadelphia University Of The Arts Dormitory To House Affordable Apartments",
         "category": "art",
-        "summary": "Digital artist Lily Belmira has created a free video game that recreates the environment of Michael Heizer’s monumental land art sculpture City, 1970–2022, in the Nevada desert. Belmira, who is based in Tulsa, Oklahoma,…",
-        "image": "https://www.artforum.com/wp-content/uploads/2026/08/city5.png?w=650",
+        "summary": "With the help of a $2.5 million grant from the John S. and James L. Knight Foundation, Furness Hall, a former University of the Arts dormitory in Philadelphia, will be turned into 45 new affordable apartments for…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/08/Frank_Furness_-_Philadelphia_PA_-_Pennsylvania_Institute_for_the_Deaf_and_Dumb_addition_1-Large.jpeg?w=650",
         "source": "Artforum",
-        "sourceUrl": "https://www.artforum.com/news/artist-builds-free-to-play-vreplica-of-michael-heizer-city-1234757035/",
+        "sourceUrl": "https://www.artforum.com/news/former-phil-university-of-the-arts-dormitory-apartments-1234757039/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-15T04-16_4",
+        "rank": 4,
+        "title": "Luigi Mangione pleads guilty to federal stalking charges in the killing of UnitedHealthcare CEO",
+        "category": "biotech",
+        "summary": "In pleading guilty, Mangione admitted to following UnitedHealth executive Brian Thompson and then shooting him.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/08/GettyImages-2276390909-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/08/14/luigi-mangione-federal-charges-guilty-plea-killing-of-unitedhealthcare-ceo-brian-thompson/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-15T04-16_5",
+        "rank": 5,
+        "title": "Data centers are officially shaping election season",
+        "category": "energy",
+        "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter. Sign up to get it every Friday. The data center elections are officially upon us. Public frustration with data centers has been simmering, and…",
+        "image": "https://img.canarymedia.com/content/uploads/Stone-Ridge-Virginia-data-center-construction_GettyImages-2289739893.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=5ab067aed566c5017a9de94de741f0a7",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/data-centers/data-centers-2026-elections",
         "fromX": false
       }
     ]
