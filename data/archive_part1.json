@@ -1186,5 +1186,66 @@
         "imageProxy": "https://images.weserv.nl/?url=img.canarymedia.com%2Fcontent%2Fuploads%2FTrenton-New-Jersey-skyline-with-state-capitol_GettyImages-1558575956.jpg%3Fauto%3Dcompress%252Cformat%26crop%3Dfocalpoint%26fit%3Dcrop%26fp-x%3D0.5%26fp-y%3D0.5%26h%3D630%26q%3D82%26w%3D1200%26s%3Dc55f1c0694446300e3bb1ee984f604fd&w=640&h=400&fit=cover&we&output=jpg"
       }
     ]
+  },
+  {
+    "batchId": "auto_2026-07-15T20-45",
+    "scannedAt": "2026-07-15T20:45:50.388Z",
+    "items": [
+      {
+        "id": "auto_2026-07-15T20-45_1",
+        "rank": 1,
+        "title": "STAT+: At key hearing, Kennedy’s ouster of former CDC director looms over nominee to replace her",
+        "category": "biotech",
+        "summary": "Erica Schwartz and Sean Kaufman navigated tough questions about vaccines, political independence, and pushing back on RFK Jr.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/07/GettyImages-2286228706-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/07/15/schwartz-kaufman-senate-confirmation-hearing-key-takeaways/?utm_campaign=rss",
+        "imageProxy": "https://images.weserv.nl/?url=www.statnews.com%2Fwp-content%2Fuploads%2F2026%2F07%2FGettyImages-2286228706-1024x576.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-07-15T20-45_2",
+        "rank": 2,
+        "title": "Gene Therapy Reverses Severe Traits of Fragile X Syndrome",
+        "category": "neuroscience",
+        "summary": "The therapy restored FMRP expression in crucial brain regions, resulting in reduced audiogenic seizure susceptibility, normalized sensory hyperactivity, and complete reversal of elevated low-gamma EEG power.",
+        "image": "https://neurosciencenews.com/files/2026/07/gene-therapy-fragile-x-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/fragile-x-aav-fmr1-gene-therapy-31059/",
+        "imageProxy": "https://images.weserv.nl/?url=neurosciencenews.com%2Ffiles%2F2026%2F07%2Fgene-therapy-fragile-x-neuroscience-1155x770.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-07-15T20-45_3",
+        "rank": 3,
+        "title": "Space Force awards Slingshot $69 million for AI-enabled training technology",
+        "category": "space",
+        "summary": "The 4½-year award will fund simulated satellite-defense scenarios The post Space Force awards Slingshot $69 million for AI-enabled training technology appeared first on SpaceNews .",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/Split_Talos_Satellite_safe_large_notcompressed.jpg?fit=1024%2C684&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/space-force-awards-slingshot-69-million-for-ai-enabled-training-technology/",
+        "imageProxy": "https://images.weserv.nl/?url=i0.wp.com%2Fspacenews.com%2Fwp-content%2Fuploads%2F2026%2F07%2FSplit_Talos_Satellite_safe_large_notcompressed.jpg%3Ffit%3D1024%252C684%26ssl%3D1&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-07-15T20-45_4",
+        "rank": 4,
+        "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+        "category": "ai",
+        "summary": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/spar-red.jpg?resize=1200,600",
+        "source": "MIT Technology Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+        "imageProxy": "https://images.weserv.nl/?url=wp.technologyreview.com%2Fwp-content%2Fuploads%2F2026%2F07%2Fspar-red.jpg%3Fresize%3D1200%2C600&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-07-15T20-45_5",
+        "rank": 5,
+        "title": "Google buys power from record-busting solar-battery site in Arkansas",
+        "category": "energy",
+        "summary": "Longtime solar developer Cypress Creek Energy has not only broken ground on what could be the largest solar-plus-storage plant in the country, but also secured a blue-chip customer to pay for the clean power. Google…",
+        "image": "https://img.canarymedia.com/content/uploads/SteelRiver_Groundbreaking-36.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=a02435a355e5e422a16dfda1b8338bf6",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/corporate-procurement/google-solar-battery-site-arkansas",
+        "imageProxy": "https://images.weserv.nl/?url=img.canarymedia.com%2Fcontent%2Fuploads%2FSteelRiver_Groundbreaking-36.jpg%3Fauto%3Dcompress%252Cformat%26crop%3Dfocalpoint%26fit%3Dcrop%26fp-x%3D0.5%26fp-y%3D0.5%26h%3D630%26q%3D82%26w%3D1200%26s%3Da02435a355e5e422a16dfda1b8338bf6&w=640&h=400&fit=cover&we&output=jpg"
+      }
+    ]
   }
 ]
