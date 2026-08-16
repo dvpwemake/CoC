@@ -3154,49 +3154,61 @@
       "status": "draft",
       "draftKind": "outline",
       "createdAt": "2026-08-16T08:12:57.040Z",
-      "updatedAt": "2026-08-16T16:08:38.955Z",
+      "updatedAt": "2026-08-16T20:05:57.512Z",
       "title": "Editorial brief — 2026-08-16",
       "dek": "Outline of selected article titles and key points for admin to write the final editorial.",
-      "body": "EDITORIAL BRIEF (outline only — not for publication as-is)\nPublish date: 2026-08-16\nInstruction: Use the titles and key points below to write the final ~300-word CoC editorial. Replace this entire brief with your finished prose before publishing.\n\n— Selected articles of the day (12) —\n\n1. [Biotech] STAT+: Epic’s alleged anticompetitive practices under scrutiny from federal, state investigators\n   Source: STAT News\n   URL: https://www.statnews.com/2026/08/14/epic-systems-ftc-review-nda-use-possible-anticompetitive-practices/?utm_campaign=rss\n   Key points:\n   • Epic Systems is the subject of a broad inquiry into its business practices, people who were contacted by FTC investigators told STAT.\n\n2. [Editorial] What a warning can score, and what a room still has to hold\n   Source: Chronicle of Convergence · Editorial\n   URL: https://chronicleofconvergence.com/e/2026-08-15.html\n   Key points:\n   • Convergence of the emptied chair and the work that stays\n\n3. [General] ChatGPT’s Computer History tracks your clicks and keystrokes\n   Source: The Verge\n   URL: https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes\n   Key points:\n   • ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done.\n\n4. [Neuroscience] A little movement in midlife could pay off for your brain years later\n   Source: ScienceDaily\n   URL: https://www.sciencedaily.com/releases/2026/08/260814235839.htm\n   Key points:\n   • Exercise and healthy blood sugar levels in midlife may help slow cognitive decline decades later.\n   • Physical activity appeared especially beneficial for Mexican American adults, suggesting that some brain-protective…\n\n5. [Robotics] Predictive maintenance in the real world: Why service automation and rollout discipline matter more than models\n   Source: Robotics & Automation News\n   URL: https://roboticsandautomationnews.com/2026/08/15/predictive-maintenance-in-the-real-world-why-service-automation-and-rollout-discipline-matter-more-than-models/104183/\n   Key points:\n   • A predictive maintenance system can flag rising vibration, unusual temperature patterns, or a combination of signals that suggests a component is likely to fail.\n   • That may be technically impressive, but it does not…\n\n6. [Space] A black hole shredded a “super sun” — but something strange may have survived\n   Source: ScienceDaily\n   URL: https://www.sciencedaily.com/releases/2026/08/260814235849.htm\n   Key points:\n   • Astronomers have witnessed a black hole violently shredding a massive star, creating one of the most energetic stellar explosions ever observed.\n   • The event, nicknamed “the Whippet,” briefly released about 400 billion…\n\n7. [Art] Former Philadelphia University Of The Arts Dormitory To House Affordable Apartments\n   Source: Artforum\n   URL: https://www.artforum.com/news/former-phil-university-of-the-arts-dormitory-apartments-1234757039/\n   Key points:\n   • With the help of a $2.5 million grant from the John S.\n   • Knight Foundation, Furness Hall, a former University of the Arts dormitory in Philadelphia, will be turned into 45 new affordable apartments for…\n\n8. [Biotech] Luigi Mangione pleads guilty to federal stalking charges in the killing of UnitedHealthcare CEO\n   Source: STAT News\n   URL: https://www.statnews.com/2026/08/14/luigi-mangione-federal-charges-guilty-plea-killing-of-unitedhealthcare-ceo-brian-thompson/?utm_campaign=rss\n   Key points:\n   • In pleading guilty, Mangione admitted to following UnitedHealth executive Brian Thompson and then shooting him.\n\n9. [Editorial] What the replica can open, and what the skull cannot keep sealed\n   Source: Chronicle of Convergence · Editorial\n   URL: https://chronicleofconvergence.com/e/2026-08-14.html\n   Key points:\n   • Convergence of the locked original and the living crossing\n\n10. [General] Don't overlook Elektron's budget electronic music instruments\n   Source: The Verge\n   URL: https://www.theverge.com/gadgets/980275/elektron-model-cycles-model-samples-groovebox-electronic-music-instruments-review\n   Key points:\n   • When I'm asked what to buy if you want to get into making electronic music, I often recommend Elektron's budget-minded Model:Samples and Model:Cycles grooveboxes.\n   • They don't grab headlines the way Teenage Engineering's…\n\n11. [Robotics] 10 Best AI Video Tools That Automate Your Creative Workflow in 2026\n   Source: Robotics & Automation News\n   URL: https://roboticsandautomationnews.com/2026/08/15/best-ai-video-workflow-tools-2026/104186/\n   Key points:\n   • Making a publishable video no longer requires a full crew, a suite of desktop NLEs, and a week of versioning.\n   • AI can now take a brief, a product still, or a script and return motion in minutes.\n\n12. [Space] Wallops gears up for an increase in launches\n   Source: SpaceNews\n   URL: https://spacenews.com/wallops-gears-up-for-an-increase-in-launches/\n   Key points:\n   • With a projected surge in launches from Wallops Island in the coming years, companies and officials say now is the time for infrastructure improvements to benefit companies and their workers.\n   • The post Wallops gears up…\n\n— Categories present —\nBiotech · Editorial · General · Neuroscience · Robotics · Space · Art\n\n— Admin checklist —\n• Draft original title + dek\n• Write body (~280–320 words) in CoC voice\n• Select hero from selected-article head image thumbnails (or paste URL)\n• Mark published when ready",
+      "body": "EDITORIAL BRIEF (outline only — not for publication as-is)\nPublish date: 2026-08-16\nInstruction: Use the titles and key points below to write the final ~300-word CoC editorial. Replace this entire brief with your finished prose before publishing.\n\n— Selected articles of the day (12) —\n\n1. [Art] Artist Builds Free-To-Play Video Game Replica Of Michael Heizer’s City\n   Source: Artforum\n   URL: https://www.artforum.com/news/artist-builds-free-to-play-vreplica-of-michael-heizer-city-1234757035/\n   Key points:\n   • Digital artist Lily Belmira has created a free video game that recreates the environment of Michael Heizer’s monumental land art sculpture City, 1970–2022, in the Nevada desert.\n   • Belmira, who is based in Tulsa, Oklahoma,…\n\n2. [Biotech] STAT+: Up and down the ladder: The latest comings and goings\n   Source: STAT News\n   URL: https://www.statnews.com/pharmalot/2026/08/14/up-down-ladder-latest-comings-goings-jobs/?utm_campaign=rss\n   Key points:\n   • From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.\n\n3. [Editorial] What a warning can score, and what a room still has to hold\n   Source: Chronicle of Convergence · Editorial\n   URL: https://chronicleofconvergence.com/e/2026-08-15.html\n   Key points:\n   • Convergence of the emptied chair and the work that stays\n\n4. [General] Amazon is trying to crush class-action suits before they get started\n   Source: The Verge\n   URL: https://www.theverge.com/tech/980752/amazon-class-action-arbitration-terms-and-conditions\n   Key points:\n   • On Friday, Amazon customers received an email alerting them to an update to the site's terms and conditions.\n   • Most notably, it stated that disputes would now be resolved through arbitration and said users agree to a…\n\n5. [Neuroscience] Youth Protein TIMP2 Restores Immune Function in the Aging Brain\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/youth-protein-timp2-restores-immune-function-aging-brain-31207/\n   Key points:\n   • Researchers discovered that the youth-associated protein TIMP2 restores healthy immune function in the aging brain by rejuvenating microglia.\n\n6. [Space] U.S. defense agencies tap three companies for satellite disposal study\n   Source: SpaceNews\n   URL: https://spacenews.com/u-s-defense-agencies-tap-three-companies-for-satellite-disposal-study/\n   Key points:\n   • Firefly, D-Orbit USA and Katalyst will compete to show how commercial operators could capture and remove aging spacecraft The post U.S.\n   • defense agencies tap three companies for satellite disposal study appeared first on…\n\n7. [Art] Former Philadelphia University Of The Arts Dormitory To House Affordable Apartments\n   Source: Artforum\n   URL: https://www.artforum.com/news/former-phil-university-of-the-arts-dormitory-apartments-1234757039/\n   Key points:\n   • With the help of a $2.5 million grant from the John S.\n   • Knight Foundation, Furness Hall, a former University of the Arts dormitory in Philadelphia, will be turned into 45 new affordable apartments for…\n\n8. [Biotech] Luigi Mangione pleads guilty to federal stalking charges in the killing of UnitedHealthcare CEO\n   Source: STAT News\n   URL: https://www.statnews.com/2026/08/14/luigi-mangione-federal-charges-guilty-plea-killing-of-unitedhealthcare-ceo-brian-thompson/?utm_campaign=rss\n   Key points:\n   • In pleading guilty, Mangione admitted to following UnitedHealth executive Brian Thompson and then shooting him.\n\n9. [Editorial] What the replica can open, and what the skull cannot keep sealed\n   Source: Chronicle of Convergence · Editorial\n   URL: https://chronicleofconvergence.com/e/2026-08-14.html\n   Key points:\n   • Convergence of the locked original and the living crossing\n\n10. [General] Don't overlook Elektron's budget electronic music instruments\n   Source: The Verge\n   URL: https://www.theverge.com/gadgets/980275/elektron-model-cycles-model-samples-groovebox-electronic-music-instruments-review\n   Key points:\n   • When I'm asked what to buy if you want to get into making electronic music, I often recommend Elektron's budget-minded Model:Samples and Model:Cycles grooveboxes.\n   • They don't grab headlines the way Teenage Engineering's…\n\n11. [Robotics] 10 Best AI Video Tools That Automate Your Creative Workflow in 2026\n   Source: Robotics & Automation News\n   URL: https://roboticsandautomationnews.com/2026/08/15/best-ai-video-workflow-tools-2026/104186/\n   Key points:\n   • Making a publishable video no longer requires a full crew, a suite of desktop NLEs, and a week of versioning.\n   • AI can now take a brief, a product still, or a script and return motion in minutes.\n\n12. [Space] Wallops gears up for an increase in launches\n   Source: SpaceNews\n   URL: https://spacenews.com/wallops-gears-up-for-an-increase-in-launches/\n   Key points:\n   • With a projected surge in launches from Wallops Island in the coming years, companies and officials say now is the time for infrastructure improvements to benefit companies and their workers.\n   • The post Wallops gears up…\n\n— Categories present —\nArt · Biotech · Editorial · General · Neuroscience · Space · Robotics\n\n— Admin checklist —\n• Draft original title + dek\n• Write body (~280–320 words) in CoC voice\n• Select hero from selected-article head image thumbnails (or paste URL)\n• Mark published when ready",
       "paragraphs": [
         "EDITORIAL BRIEF (outline only — not for publication as-is)\nPublish date: 2026-08-16\nInstruction: Use the titles and key points below to write the final ~300-word CoC editorial. Replace this entire brief with your finished prose before publishing.",
         "— Selected articles of the day (12) —",
-        "1. [Biotech] STAT+: Epic’s alleged anticompetitive practices under scrutiny from federal, state investigators\n   Source: STAT News\n   URL: https://www.statnews.com/2026/08/14/epic-systems-ftc-review-nda-use-possible-anticompetitive-practices/?utm_campaign=rss\n   Key points:\n   • Epic Systems is the subject of a broad inquiry into its business practices, people who were contacted by FTC investigators told STAT.",
-        "2. [Editorial] What a warning can score, and what a room still has to hold\n   Source: Chronicle of Convergence · Editorial\n   URL: https://chronicleofconvergence.com/e/2026-08-15.html\n   Key points:\n   • Convergence of the emptied chair and the work that stays",
-        "3. [General] ChatGPT’s Computer History tracks your clicks and keystrokes\n   Source: The Verge\n   URL: https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes\n   Key points:\n   • ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done.",
-        "4. [Neuroscience] A little movement in midlife could pay off for your brain years later\n   Source: ScienceDaily\n   URL: https://www.sciencedaily.com/releases/2026/08/260814235839.htm\n   Key points:\n   • Exercise and healthy blood sugar levels in midlife may help slow cognitive decline decades later.\n   • Physical activity appeared especially beneficial for Mexican American adults, suggesting that some brain-protective…",
-        "5. [Robotics] Predictive maintenance in the real world: Why service automation and rollout discipline matter more than models\n   Source: Robotics & Automation News\n   URL: https://roboticsandautomationnews.com/2026/08/15/predictive-maintenance-in-the-real-world-why-service-automation-and-rollout-discipline-matter-more-than-models/104183/\n   Key points:\n   • A predictive maintenance system can flag rising vibration, unusual temperature patterns, or a combination of signals that suggests a component is likely to fail.\n   • That may be technically impressive, but it does not…",
-        "6. [Space] A black hole shredded a “super sun” — but something strange may have survived\n   Source: ScienceDaily\n   URL: https://www.sciencedaily.com/releases/2026/08/260814235849.htm\n   Key points:\n   • Astronomers have witnessed a black hole violently shredding a massive star, creating one of the most energetic stellar explosions ever observed.\n   • The event, nicknamed “the Whippet,” briefly released about 400 billion…",
+        "1. [Art] Artist Builds Free-To-Play Video Game Replica Of Michael Heizer’s City\n   Source: Artforum\n   URL: https://www.artforum.com/news/artist-builds-free-to-play-vreplica-of-michael-heizer-city-1234757035/\n   Key points:\n   • Digital artist Lily Belmira has created a free video game that recreates the environment of Michael Heizer’s monumental land art sculpture City, 1970–2022, in the Nevada desert.\n   • Belmira, who is based in Tulsa, Oklahoma,…",
+        "2. [Biotech] STAT+: Up and down the ladder: The latest comings and goings\n   Source: STAT News\n   URL: https://www.statnews.com/pharmalot/2026/08/14/up-down-ladder-latest-comings-goings-jobs/?utm_campaign=rss\n   Key points:\n   • From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.",
+        "3. [Editorial] What a warning can score, and what a room still has to hold\n   Source: Chronicle of Convergence · Editorial\n   URL: https://chronicleofconvergence.com/e/2026-08-15.html\n   Key points:\n   • Convergence of the emptied chair and the work that stays",
+        "4. [General] Amazon is trying to crush class-action suits before they get started\n   Source: The Verge\n   URL: https://www.theverge.com/tech/980752/amazon-class-action-arbitration-terms-and-conditions\n   Key points:\n   • On Friday, Amazon customers received an email alerting them to an update to the site's terms and conditions.\n   • Most notably, it stated that disputes would now be resolved through arbitration and said users agree to a…",
+        "5. [Neuroscience] Youth Protein TIMP2 Restores Immune Function in the Aging Brain\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/youth-protein-timp2-restores-immune-function-aging-brain-31207/\n   Key points:\n   • Researchers discovered that the youth-associated protein TIMP2 restores healthy immune function in the aging brain by rejuvenating microglia.",
+        "6. [Space] U.S. defense agencies tap three companies for satellite disposal study\n   Source: SpaceNews\n   URL: https://spacenews.com/u-s-defense-agencies-tap-three-companies-for-satellite-disposal-study/\n   Key points:\n   • Firefly, D-Orbit USA and Katalyst will compete to show how commercial operators could capture and remove aging spacecraft The post U.S.\n   • defense agencies tap three companies for satellite disposal study appeared first on…",
         "7. [Art] Former Philadelphia University Of The Arts Dormitory To House Affordable Apartments\n   Source: Artforum\n   URL: https://www.artforum.com/news/former-phil-university-of-the-arts-dormitory-apartments-1234757039/\n   Key points:\n   • With the help of a $2.5 million grant from the John S.\n   • Knight Foundation, Furness Hall, a former University of the Arts dormitory in Philadelphia, will be turned into 45 new affordable apartments for…",
         "8. [Biotech] Luigi Mangione pleads guilty to federal stalking charges in the killing of UnitedHealthcare CEO\n   Source: STAT News\n   URL: https://www.statnews.com/2026/08/14/luigi-mangione-federal-charges-guilty-plea-killing-of-unitedhealthcare-ceo-brian-thompson/?utm_campaign=rss\n   Key points:\n   • In pleading guilty, Mangione admitted to following UnitedHealth executive Brian Thompson and then shooting him.",
         "9. [Editorial] What the replica can open, and what the skull cannot keep sealed\n   Source: Chronicle of Convergence · Editorial\n   URL: https://chronicleofconvergence.com/e/2026-08-14.html\n   Key points:\n   • Convergence of the locked original and the living crossing",
         "10. [General] Don't overlook Elektron's budget electronic music instruments\n   Source: The Verge\n   URL: https://www.theverge.com/gadgets/980275/elektron-model-cycles-model-samples-groovebox-electronic-music-instruments-review\n   Key points:\n   • When I'm asked what to buy if you want to get into making electronic music, I often recommend Elektron's budget-minded Model:Samples and Model:Cycles grooveboxes.\n   • They don't grab headlines the way Teenage Engineering's…",
         "11. [Robotics] 10 Best AI Video Tools That Automate Your Creative Workflow in 2026\n   Source: Robotics & Automation News\n   URL: https://roboticsandautomationnews.com/2026/08/15/best-ai-video-workflow-tools-2026/104186/\n   Key points:\n   • Making a publishable video no longer requires a full crew, a suite of desktop NLEs, and a week of versioning.\n   • AI can now take a brief, a product still, or a script and return motion in minutes.",
         "12. [Space] Wallops gears up for an increase in launches\n   Source: SpaceNews\n   URL: https://spacenews.com/wallops-gears-up-for-an-increase-in-launches/\n   Key points:\n   • With a projected surge in launches from Wallops Island in the coming years, companies and officials say now is the time for infrastructure improvements to benefit companies and their workers.\n   • The post Wallops gears up…",
-        "— Categories present —\nBiotech · Editorial · General · Neuroscience · Robotics · Space · Art",
+        "— Categories present —\nArt · Biotech · Editorial · General · Neuroscience · Space · Robotics",
         "— Admin checklist —\n• Draft original title + dek\n• Write body (~280–320 words) in CoC voice\n• Select hero from selected-article head image thumbnails (or paste URL)\n• Mark published when ready"
       ],
-      "wordCount": 688,
+      "wordCount": 668,
       "themeId": "outline",
       "themeLabel": "Admin outline (titles + key points)",
       "formId": "outline_brief",
       "formLabel": "outline brief",
       "authorName": "Dr. Wallace Lynch",
       "authorTitle": "Editor in Chief",
-      "heroImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&strip=all&crop=0%2C10.742221417566%2C100%2C78.515557164868&w=1200",
-      "heroCredit": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+      "heroImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/acastro_STK103__01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "heroCredit": "Amazon is trying to crush class-action suits before they get started",
       "heroSource": "The Verge",
-      "heroSourceUrl": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+      "heroSourceUrl": "https://www.theverge.com/tech/980752/amazon-class-action-arbitration-terms-and-conditions",
       "headlines": [
         {
-          "title": "STAT+: Epic’s alleged anticompetitive practices under scrutiny from federal, state investigators",
+          "title": "Artist Builds Free-To-Play Video Game Replica Of Michael Heizer’s City",
+          "source": "Artforum",
+          "category": "art",
+          "sourceUrl": "https://www.artforum.com/news/artist-builds-free-to-play-vreplica-of-michael-heizer-city-1234757035/",
+          "summary": "Digital artist Lily Belmira has created a free video game that recreates the environment of Michael Heizer’s monumental land art sculpture City, 1970–2022, in the Nevada desert. Belmira, who is based in Tulsa, Oklahoma,…",
+          "image": "https://www.artforum.com/wp-content/uploads/2026/08/city5.png?w=650",
+          "keyPoints": [
+            "Digital artist Lily Belmira has created a free video game that recreates the environment of Michael Heizer’s monumental land art sculpture City, 1970–2022, in the Nevada desert.",
+            "Belmira, who is based in Tulsa, Oklahoma,…"
+          ]
+        },
+        {
+          "title": "STAT+: Up and down the ladder: The latest comings and goings",
           "source": "STAT News",
           "category": "biotech",
-          "sourceUrl": "https://www.statnews.com/2026/08/14/epic-systems-ftc-review-nda-use-possible-anticompetitive-practices/?utm_campaign=rss",
-          "summary": "Epic Systems is the subject of a broad inquiry into its business practices, people who were contacted by FTC investigators told STAT.",
-          "image": "https://www.statnews.com/wp-content/uploads/2024/06/AP24158651812213-1024x576.jpg",
+          "sourceUrl": "https://www.statnews.com/pharmalot/2026/08/14/up-down-ladder-latest-comings-goings-jobs/?utm_campaign=rss",
+          "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.",
+          "image": "https://www.statnews.com/wp-content/uploads/2021/03/Pharmalot_ComingGoing_STILL-1024x576.jpg",
           "keyPoints": [
-            "Epic Systems is the subject of a broad inquiry into its business practices, people who were contacted by FTC investigators told STAT."
+            "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry."
           ]
         },
         {
@@ -3211,50 +3223,38 @@
           ]
         },
         {
-          "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+          "title": "Amazon is trying to crush class-action suits before they get started",
           "source": "The Verge",
           "category": "general",
-          "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
-          "summary": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses…",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&strip=all&crop=0%2C10.742221417566%2C100%2C78.515557164868&w=1200",
+          "sourceUrl": "https://www.theverge.com/tech/980752/amazon-class-action-arbitration-terms-and-conditions",
+          "summary": "On Friday, Amazon customers received an email alerting them to an update to the site's terms and conditions. Most notably, it stated that disputes would now be resolved through arbitration and said users agree to a…",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/acastro_STK103__01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
           "keyPoints": [
-            "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done."
+            "On Friday, Amazon customers received an email alerting them to an update to the site's terms and conditions.",
+            "Most notably, it stated that disputes would now be resolved through arbitration and said users agree to a…"
           ]
         },
         {
-          "title": "A little movement in midlife could pay off for your brain years later",
-          "source": "ScienceDaily",
+          "title": "Youth Protein TIMP2 Restores Immune Function in the Aging Brain",
+          "source": "Neuroscience News",
           "category": "neuroscience",
-          "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260814235839.htm",
-          "summary": "Exercise and healthy blood sugar levels in midlife may help slow cognitive decline decades later. Physical activity appeared especially beneficial for Mexican American adults, suggesting that some brain-protective…",
-          "image": "https://www.sciencedaily.com/images/1920/hand-holding-glowing-human-brain.webp",
+          "sourceUrl": "https://neurosciencenews.com/youth-protein-timp2-restores-immune-function-aging-brain-31207/",
+          "summary": "Researchers discovered that the youth-associated protein TIMP2 restores healthy immune function in the aging brain by rejuvenating microglia.",
+          "image": "https://neurosciencenews.com/files/2026/08/youth-protein-timp2-microglia-rejuvenation-1155x770.jpg",
           "keyPoints": [
-            "Exercise and healthy blood sugar levels in midlife may help slow cognitive decline decades later.",
-            "Physical activity appeared especially beneficial for Mexican American adults, suggesting that some brain-protective…"
+            "Researchers discovered that the youth-associated protein TIMP2 restores healthy immune function in the aging brain by rejuvenating microglia."
           ]
         },
         {
-          "title": "Predictive maintenance in the real world: Why service automation and rollout discipline matter more than models",
-          "source": "Robotics & Automation News",
-          "category": "robotics",
-          "sourceUrl": "https://roboticsandautomationnews.com/2026/08/15/predictive-maintenance-in-the-real-world-why-service-automation-and-rollout-discipline-matter-more-than-models/104183/",
-          "summary": "A predictive maintenance system can flag rising vibration, unusual temperature patterns, or a combination of signals that suggests a component is likely to fail. That may be technically impressive, but it does not…",
-          "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/2smart-iot-1.jpeg",
-          "keyPoints": [
-            "A predictive maintenance system can flag rising vibration, unusual temperature patterns, or a combination of signals that suggests a component is likely to fail.",
-            "That may be technically impressive, but it does not…"
-          ]
-        },
-        {
-          "title": "A black hole shredded a “super sun” — but something strange may have survived",
-          "source": "ScienceDaily",
+          "title": "U.S. defense agencies tap three companies for satellite disposal study",
+          "source": "SpaceNews",
           "category": "space",
-          "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260814235849.htm",
-          "summary": "Astronomers have witnessed a black hole violently shredding a massive star, creating one of the most energetic stellar explosions ever observed. The event, nicknamed “the Whippet,” briefly released about 400 billion…",
-          "image": "https://www.sciencedaily.com/images/1920/black-hole-explosion-jet-remnant.webp",
+          "sourceUrl": "https://spacenews.com/u-s-defense-agencies-tap-three-companies-for-satellite-disposal-study/",
+          "summary": "Firefly, D-Orbit USA and Katalyst will compete to show how commercial operators could capture and remove aging spacecraft The post U.S. defense agencies tap three companies for satellite disposal study appeared first on…",
+          "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/03/Firefly_ElytraDawn_EarthOrbit.jpg?fit=1024%2C383&ssl=1",
           "keyPoints": [
-            "Astronomers have witnessed a black hole violently shredding a massive star, creating one of the most energetic stellar explosions ever observed.",
-            "The event, nicknamed “the Whippet,” briefly released about 400 billion…"
+            "Firefly, D-Orbit USA and Katalyst will compete to show how commercial operators could capture and remove aging spacecraft The post U.S.",
+            "defense agencies tap three companies for satellite disposal study appeared first on…"
           ]
         },
         {
@@ -5607,6 +5607,7 @@
     "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/2smart-iot-1.jpeg",
     "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/lro-illus.jpeg?fit=1024%2C576&ssl=1",
     "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_A-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&strip=all&crop=0%2C10.742221417566%2C100%2C78.515557164868&w=1200"
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&strip=all&crop=0%2C10.742221417566%2C100%2C78.515557164868&w=1200",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/acastro_STK103__01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
   ]
 }
