@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-07-14T20-46",
+    "scannedAt": "2026-07-14T20:46:51.211Z",
+    "items": [
+      {
+        "id": "auto_2026-07-14T20-46_1",
+        "rank": 1,
+        "title": "The Amygdala Predicts Teen Isolation Years in Advance",
+        "category": "neuroscience",
+        "summary": "A new study reveals that childhood amygdala reactivity to emotional faces isolates future social health profiles two years later.",
+        "image": "https://neurosciencenews.com/files/2026/07/amygdala-teen-isolation-nueroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/adolescent-amygdala-isolation-31051/",
+        "imageProxy": "https://images.weserv.nl/?url=neurosciencenews.com%2Ffiles%2F2026%2F07%2Famygdala-teen-isolation-nueroscience-1155x770.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-07-14T20-46_2",
+        "rank": 2,
+        "title": "STAT+: Sales from controversial U.S. drug discount program rose to $100 billion last year",
+        "category": "biotech",
+        "summary": "Prescription drugs purchased under a controversial government discount program amounted to $100 billion in 2025, a 22.8% increase from the previous year.",
+        "image": "https://www.statnews.com/wp-content/uploads/2022/08/AdobeStock_183329702-1024x576.jpeg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/pharmalot/2026/07/14/sales-from-controversial-drug-discount-program-rose-to-100-billion-last-year/?utm_campaign=rss",
+        "imageProxy": "https://images.weserv.nl/?url=www.statnews.com%2Fwp-content%2Fuploads%2F2022%2F08%2FAdobeStock_183329702-1024x576.jpeg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-07-14T20-46_3",
+        "rank": 3,
+        "title": "NASA Astronaut Anil Menon, Crewmates Arrive at Space Station",
+        "category": "space",
+        "summary": "NASA astronaut Anil Menon, along with Roscosmos cosmonauts Pyotr Dubrov and Anna Kikina, arrived safely at the International Space Station Tuesday, bringing the orbiting laboratory’s crew to 10 for about the next two…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/07/55393472670-5194b57b7f-k.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/news-release/nasa-astronaut-anil-menon-crewmates-arrive-at-space-station/",
+        "imageProxy": "https://images.weserv.nl/?url=www.nasa.gov%2Fwp-content%2Fuploads%2F2026%2F07%2F55393472670-5194b57b7f-k.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-07-14T20-46_4",
+        "rank": 4,
+        "title": "Here’s how offshore wind helped New England beat record heat",
+        "category": "energy",
+        "summary": "America’s offshore wind farms have already shown their ability to keep electricity flowing during brutal winter storms. Now, the clean energy resource has proved it can also bolster the grid during major heat waves.…",
+        "image": "https://img.canarymedia.com/content/uploads/Revolution-wind-April-2023-with-boat_AP26113527293997.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=01a28c990c3c1b26ca2dc590046773d9",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/offshore-wind/offshore-wind-new-england-heat",
+        "imageProxy": "https://images.weserv.nl/?url=img.canarymedia.com%2Fcontent%2Fuploads%2FRevolution-wind-April-2023-with-boat_AP26113527293997.jpg%3Fauto%3Dcompress%252Cformat%26crop%3Dfocalpoint%26fit%3Dcrop%26fp-x%3D0.5%26fp-y%3D0.5%26h%3D630%26q%3D82%26w%3D1200%26s%3D01a28c990c3c1b26ca2dc590046773d9&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-07-14T20-46_5",
+        "rank": 5,
+        "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
+        "category": "ai",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/thinking2.jpg?resize=1200,600",
+        "source": "MIT Technology Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+        "imageProxy": "https://images.weserv.nl/?url=wp.technologyreview.com%2Fwp-content%2Fuploads%2F2026%2F07%2Fthinking2.jpg%3Fresize%3D1200%2C600&w=640&h=400&fit=cover&we&output=jpg"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-07-13T20-45",
     "scannedAt": "2026-07-13T20:45:36.490Z",
     "items": [
@@ -1352,66 +1413,5 @@
       }
     ],
     "batchId": "b1781116854500"
-  },
-  {
-    "scannedAt": "2026-06-10T16:02:47.858Z",
-    "items": [
-      {
-        "id": "b1781107367857_1",
-        "rank": 1,
-        "title": "Scientists Map Every Neural Connection in Fruit Fly Brain, Revealing Distributed Intelligence",
-        "category": "neuroscience",
-        "summary": "Harvard Medical School and Princeton University researchers published the complete connectome of an adult fruit fly's central nervous system, mapping every neural connection between brain and body. The groundbreaking study reveals that complex behaviors emerge from distributed local circuits rather than a single central controller, offering revolutionary insights into how intelligence and movement are organized in brains. This represents the most complex brain ever fully mapped, with implications for understanding human brain function.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260610003047.htm",
-        "image": "https://www.sciencedaily.com/images/1920/fruit-fly-brain-connectome.webp",
-        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Ffruit-fly-brain-connectome.webp&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "b1781107367857_2",
-        "rank": 2,
-        "title": "China's 'Artificial Sun' Shatters Fusion Energy Density Barrier in Historic Breakthrough",
-        "category": "energy",
-        "summary": "China's EAST nuclear fusion reactor achieved a historic milestone by maintaining stable plasma at extreme densities far beyond the theoretical Greenwald limit. The breakthrough demonstrates that plasma can remain stable even at densities 1.3-1.65 times higher than previously thought possible, potentially removing a major obstacle to commercial fusion power. This advance brings humanity significantly closer to unlimited clean energy by proving the viability of the theorized 'density-free regime' for fusion reactions.",
-        "source": "Live Science",
-        "sourceUrl": "https://www.livescience.com/planet-earth/nuclear-energy/chinas-artificial-sun-reactor-shatters-major-fusion-limit-a-step-closer-to-near-limitless-clean-energy",
-        "image": "https://cdn.mos.cms.futurecdn.net/4WWuJbSzvDL4Fqxz7498Gn-2560-80.jpg",
-        "imageProxy": "https://images.weserv.nl/?url=cdn.mos.cms.futurecdn.net%2F4WWuJbSzvDL4Fqxz7498Gn-2560-80.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "b1781107367857_3",
-        "rank": 3,
-        "title": "AI Breakthrough Cuts Energy Consumption by 100x While Dramatically Improving Performance",
-        "category": "ai",
-        "summary": "Tufts University researchers developed a revolutionary neuro-symbolic AI system that combines neural networks with human-like symbolic reasoning, reducing energy consumption by up to 100 times compared to conventional approaches. In robotic task tests, the hybrid system achieved 95% success rates versus 34% for standard models and completed training in just 34 minutes versus more than 36 hours for traditional systems. This breakthrough addresses AI's massive energy demands while dramatically improving performance.",
-        "source": "Crescendo AI",
-        "sourceUrl": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
-        "image": "https://cdn.prod.website-files.com/67166bf779ba8852260f7d1f/694a731a76c9d6876ddf8a8f_latest-ai-news-and-updates.png",
-        "imageProxy": "https://images.weserv.nl/?url=cdn.prod.website-files.com%2F67166bf779ba8852260f7d1f%2F694a731a76c9d6876ddf8a8f_latest-ai-news-and-updates.png&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "b1781107367857_4",
-        "rank": 4,
-        "title": "NASA's Ultra-Sensitive Sensor Detects Energy Below One Zeptojoule",
-        "category": "space",
-        "summary": "NASA researchers built an ultra-sensitive sensor capable of detecting unimaginably small amounts of energy below one zeptojoule using fragile superconducting materials that react to even the slightest temperature change. Additionally, NASA's new AI space chip demonstrated performance levels hundreds of times beyond current spaceflight processors, potentially allowing spacecraft to operate far more independently in deep space. These advances represent major leaps in space technology capabilities.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/",
-        "image": "https://www.sciencedaily.com/images/scidaily-icon.png",
-        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2Fscidaily-icon.png&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "b1781107367857_5",
-        "rank": 5,
-        "title": "Revolutionary DNA Robots Emerge as Programmable Molecular Machines",
-        "category": "biotech",
-        "summary": "Scientists developed DNA robots as tiny programmable machines that could deliver drugs, hunt viruses, and build molecular-scale devices inside the human body. By borrowing ideas from traditional robotics and combining them with biological systems, these molecular machines represent a breakthrough in precision medicine. The DNA robots can be programmed to perform specific tasks at the cellular level, potentially revolutionizing targeted drug delivery and treatment of diseases.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/news/computers_math/artificial_intelligence/",
-        "image": "https://www.sciencedaily.com/images/scidaily-icon.png",
-        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2Fscidaily-icon.png&w=640&h=400&fit=cover&we&output=jpg"
-      }
-    ],
-    "batchId": "b1781107367857"
   }
 ]

@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-08-16T00-27",
+    "scannedAt": "2026-08-16T00:27:04.481Z",
+    "items": [
+      {
+        "id": "auto_2026-08-16T00-27_1",
+        "rank": 1,
+        "title": "Lunar orbiter among upcoming NASA CLPS task orders",
+        "category": "space",
+        "summary": "NASA plans to award three more lunar missions this year through a commercial services program, including an orbiter that would replace the Lunar Reconnaissance Orbiter The post Lunar orbiter among upcoming NASA CLPS…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/lro-illus.jpeg?fit=1024%2C576&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/lunar-orbiter-among-upcoming-nasa-clps-task-orders/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-16T00-27_2",
+        "rank": 2,
+        "title": "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
+        "category": "general",
+        "summary": "Mobile game No 10: Full Confidence recently ranked above Minecraft on the UK App Store paid games chart",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a22/live/86235450-9731-11f1-870d-5d08c49babb2.jpg",
+        "source": "BBC Technology",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq56pzqy6jvo?at_medium=RSS&at_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-16T00-27_3",
+        "rank": 3,
+        "title": "Predictive maintenance in the real world: Why service automation and rollout discipline matter more than models",
+        "category": "robotics",
+        "summary": "A predictive maintenance system can flag rising vibration, unusual temperature patterns, or a combination of signals that suggests a component is likely to fail. That may be technically impressive, but it does not…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/2smart-iot-1.jpeg",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/15/predictive-maintenance-in-the-real-world-why-service-automation-and-rollout-discipline-matter-more-than-models/104183/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-16T00-27_4",
+        "rank": 4,
+        "title": "Youth Protein TIMP2 Restores Immune Function in the Aging Brain",
+        "category": "neuroscience",
+        "summary": "Researchers discovered that the youth-associated protein TIMP2 restores healthy immune function in the aging brain by rejuvenating microglia.",
+        "image": "https://neurosciencenews.com/files/2026/08/youth-protein-timp2-microglia-rejuvenation-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/youth-protein-timp2-restores-immune-function-aging-brain-31207/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-16T00-27_5",
+        "rank": 5,
+        "title": "STAT+: Epic’s alleged anticompetitive practices under scrutiny from federal, state investigators",
+        "category": "biotech",
+        "summary": "Epic Systems is the subject of a broad inquiry into its business practices, people who were contacted by FTC investigators told STAT.",
+        "image": "https://www.statnews.com/wp-content/uploads/2024/06/AP24158651812213-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/08/14/epic-systems-ftc-review-nda-use-possible-anticompetitive-practices/?utm_campaign=rss",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-08-15T20-07",
     "scannedAt": "2026-08-15T20:07:39.127Z",
     "items": [
