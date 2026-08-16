@@ -1,5 +1,25 @@
 [
   {
+    "batchId": "editorial_2026-08-15",
+    "scannedAt": "2026-08-16T04:19:28.833Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-08-15",
+        "rank": 0,
+        "title": "What a warning can score, and what a room still has to hold",
+        "category": "editorial",
+        "summary": "Convergence of the emptied chair and the work that stays",
+        "image": "https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/1a22/live/86235450-9731-11f1-870d-5d08c49babb2.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-15.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-08-15",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-08-16T04-22",
     "scannedAt": "2026-08-16T04:22:37.366Z",
     "items": [
