@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-08-17T00-25",
-    "scannedAt": "2026-08-17T00:25:54.904Z",
+    "batchId": "auto_2026-08-17T04-28",
+    "scannedAt": "2026-08-17T04:28:03.634Z",
     "items": [
       {
-        "id": "auto_2026-08-17T00-25_1",
+        "id": "auto_2026-08-17T04-28_1",
         "rank": 1,
-        "title": "If Meta loses this trial, Instagram and Facebook could change forever",
-        "category": "general",
-        "summary": "Thirty US states have sued Meta to force an overhaul of its platforms for young users.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/078d/live/f51173c0-97c1-11f1-9963-d1f200dff659.jpg",
-        "source": "BBC Technology",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-17T00-25_2",
-        "rank": 2,
-        "title": "Satellite operators emphasize launch deals in a constrained market",
-        "category": "space",
-        "summary": "Amid a constrained launch market, satellite operators are emphasizing to investors and customers that they have lined up launch capacity, even if it is uncertain when it will be available. The post Satellite operators…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/f9-bluebird-aug26.jpeg?fit=1024%2C683&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/satellite-operators-emphasize-launch-deals-in-a-constrained-market/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-17T00-25_3",
-        "rank": 3,
-        "title": "A little movement in midlife could pay off for your brain years later",
-        "category": "neuroscience",
-        "summary": "Exercise and healthy blood sugar levels in midlife may help slow cognitive decline decades later. Physical activity appeared especially beneficial for Mexican American adults, suggesting that some brain-protective…",
-        "image": "https://www.sciencedaily.com/images/1920/hand-holding-glowing-human-brain.webp",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260814235839.htm",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-17T00-25_4",
-        "rank": 4,
-        "title": "Predictive maintenance in the real world: Why service automation and rollout discipline matter more than models",
-        "category": "robotics",
-        "summary": "A predictive maintenance system can flag rising vibration, unusual temperature patterns, or a combination of signals that suggests a component is likely to fail. That may be technically impressive, but it does not…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/2smart-iot-1.jpeg",
-        "source": "Robotics & Automation News",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/15/predictive-maintenance-in-the-real-world-why-service-automation-and-rollout-discipline-matter-more-than-models/104183/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-17T00-25_5",
-        "rank": 5,
-        "title": "STAT+: Epic’s alleged anticompetitive practices under scrutiny from federal, state investigators",
+        "title": "STAT+: State laws may be curbing private equity takeovers of physician group",
         "category": "biotech",
-        "summary": "Epic Systems is the subject of a broad inquiry into its business practices, people who were contacted by FTC investigators told STAT.",
-        "image": "https://www.statnews.com/wp-content/uploads/2024/06/AP24158651812213-1024x576.jpg",
+        "summary": "Private equity deals for practice management firms are declining sharply.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/08/AdobeStock_2070510066-1024x576.jpeg",
         "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/08/14/epic-systems-ftc-review-nda-use-possible-anticompetitive-practices/?utm_campaign=rss",
+        "sourceUrl": "https://www.statnews.com/2026/08/17/private-equity-50-percent-drop-physician-practice-management-deals-2026/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-17T04-28_2",
+        "rank": 2,
+        "title": "OpenAI reportedly disbanded its preparedness team",
+        "category": "general",
+        "summary": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to mitigate those risks.…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-17T04-28_3",
+        "rank": 3,
+        "title": "A black hole shredded a “super sun” — but something strange may have survived",
+        "category": "space",
+        "summary": "Astronomers have witnessed a black hole violently shredding a massive star, creating one of the most energetic stellar explosions ever observed. The event, nicknamed “the Whippet,” briefly released about 400 billion…",
+        "image": "https://www.sciencedaily.com/images/1920/black-hole-explosion-jet-remnant.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260814235849.htm",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-17T04-28_4",
+        "rank": 4,
+        "title": "Sly Foxes Emerge from Boxes and Under Bridges in Murals by Annatomix",
+        "category": "art",
+        "summary": "The street artist is known for her vivid geometric animal murals evocative of origami. Do stories and artists like this matter to you? Become a Colossal Member today and support independent arts publishing for as little…",
+        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/08/annatomix-6.jpg",
+        "source": "Colossal",
+        "sourceUrl": "https://www.thisiscolossal.com/2026/08/annatomix-murals-foxes-animals/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-17T04-28_5",
+        "rank": 5,
+        "title": "Data centers are officially shaping election season",
+        "category": "energy",
+        "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter. Sign up to get it every Friday. The data center elections are officially upon us. Public frustration with data centers has been simmering, and…",
+        "image": "https://img.canarymedia.com/content/uploads/Stone-Ridge-Virginia-data-center-construction_GettyImages-2289739893.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=5ab067aed566c5017a9de94de741f0a7",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/data-centers/data-centers-2026-elections",
         "fromX": false
       }
     ]
