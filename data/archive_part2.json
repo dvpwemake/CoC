@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-07-15T20-45",
+    "scannedAt": "2026-07-15T20:45:50.388Z",
+    "items": [
+      {
+        "id": "auto_2026-07-15T20-45_1",
+        "rank": 1,
+        "title": "STAT+: At key hearing, Kennedy’s ouster of former CDC director looms over nominee to replace her",
+        "category": "biotech",
+        "summary": "Erica Schwartz and Sean Kaufman navigated tough questions about vaccines, political independence, and pushing back on RFK Jr.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/07/GettyImages-2286228706-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/07/15/schwartz-kaufman-senate-confirmation-hearing-key-takeaways/?utm_campaign=rss",
+        "imageProxy": "https://images.weserv.nl/?url=www.statnews.com%2Fwp-content%2Fuploads%2F2026%2F07%2FGettyImages-2286228706-1024x576.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-07-15T20-45_2",
+        "rank": 2,
+        "title": "Gene Therapy Reverses Severe Traits of Fragile X Syndrome",
+        "category": "neuroscience",
+        "summary": "The therapy restored FMRP expression in crucial brain regions, resulting in reduced audiogenic seizure susceptibility, normalized sensory hyperactivity, and complete reversal of elevated low-gamma EEG power.",
+        "image": "https://neurosciencenews.com/files/2026/07/gene-therapy-fragile-x-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/fragile-x-aav-fmr1-gene-therapy-31059/",
+        "imageProxy": "https://images.weserv.nl/?url=neurosciencenews.com%2Ffiles%2F2026%2F07%2Fgene-therapy-fragile-x-neuroscience-1155x770.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-07-15T20-45_3",
+        "rank": 3,
+        "title": "Space Force awards Slingshot $69 million for AI-enabled training technology",
+        "category": "space",
+        "summary": "The 4½-year award will fund simulated satellite-defense scenarios The post Space Force awards Slingshot $69 million for AI-enabled training technology appeared first on SpaceNews .",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/Split_Talos_Satellite_safe_large_notcompressed.jpg?fit=1024%2C684&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/space-force-awards-slingshot-69-million-for-ai-enabled-training-technology/",
+        "imageProxy": "https://images.weserv.nl/?url=i0.wp.com%2Fspacenews.com%2Fwp-content%2Fuploads%2F2026%2F07%2FSplit_Talos_Satellite_safe_large_notcompressed.jpg%3Ffit%3D1024%252C684%26ssl%3D1&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-07-15T20-45_4",
+        "rank": 4,
+        "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+        "category": "ai",
+        "summary": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/spar-red.jpg?resize=1200,600",
+        "source": "MIT Technology Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+        "imageProxy": "https://images.weserv.nl/?url=wp.technologyreview.com%2Fwp-content%2Fuploads%2F2026%2F07%2Fspar-red.jpg%3Fresize%3D1200%2C600&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-07-15T20-45_5",
+        "rank": 5,
+        "title": "Google buys power from record-busting solar-battery site in Arkansas",
+        "category": "energy",
+        "summary": "Longtime solar developer Cypress Creek Energy has not only broken ground on what could be the largest solar-plus-storage plant in the country, but also secured a blue-chip customer to pay for the clean power. Google…",
+        "image": "https://img.canarymedia.com/content/uploads/SteelRiver_Groundbreaking-36.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=a02435a355e5e422a16dfda1b8338bf6",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/corporate-procurement/google-solar-battery-site-arkansas",
+        "imageProxy": "https://images.weserv.nl/?url=img.canarymedia.com%2Fcontent%2Fuploads%2FSteelRiver_Groundbreaking-36.jpg%3Fauto%3Dcompress%252Cformat%26crop%3Dfocalpoint%26fit%3Dcrop%26fp-x%3D0.5%26fp-y%3D0.5%26h%3D630%26q%3D82%26w%3D1200%26s%3Da02435a355e5e422a16dfda1b8338bf6&w=640&h=400&fit=cover&we&output=jpg"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-07-14T20-46",
     "scannedAt": "2026-07-14T20:46:51.211Z",
     "items": [
@@ -1413,66 +1474,5 @@
       }
     ],
     "batchId": "b1781116854500"
-  },
-  {
-    "scannedAt": "2026-06-10T16:02:47.858Z",
-    "items": [
-      {
-        "id": "b1781107367857_1",
-        "rank": 1,
-        "title": "Scientists Map Every Neural Connection in Fruit Fly Brain, Revealing Distributed Intelligence",
-        "category": "neuroscience",
-        "summary": "Harvard Medical School and Princeton University researchers published the complete connectome of an adult fruit fly's central nervous system, mapping every neural connection between brain and body. The groundbreaking study reveals that complex behaviors emerge from distributed local circuits rather than a single central controller, offering revolutionary insights into how intelligence and movement are organized in brains. This represents the most complex brain ever fully mapped, with implications for understanding human brain function.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260610003047.htm",
-        "image": "https://www.sciencedaily.com/images/1920/fruit-fly-brain-connectome.webp",
-        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Ffruit-fly-brain-connectome.webp&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "b1781107367857_2",
-        "rank": 2,
-        "title": "China's 'Artificial Sun' Shatters Fusion Energy Density Barrier in Historic Breakthrough",
-        "category": "energy",
-        "summary": "China's EAST nuclear fusion reactor achieved a historic milestone by maintaining stable plasma at extreme densities far beyond the theoretical Greenwald limit. The breakthrough demonstrates that plasma can remain stable even at densities 1.3-1.65 times higher than previously thought possible, potentially removing a major obstacle to commercial fusion power. This advance brings humanity significantly closer to unlimited clean energy by proving the viability of the theorized 'density-free regime' for fusion reactions.",
-        "source": "Live Science",
-        "sourceUrl": "https://www.livescience.com/planet-earth/nuclear-energy/chinas-artificial-sun-reactor-shatters-major-fusion-limit-a-step-closer-to-near-limitless-clean-energy",
-        "image": "https://cdn.mos.cms.futurecdn.net/4WWuJbSzvDL4Fqxz7498Gn-2560-80.jpg",
-        "imageProxy": "https://images.weserv.nl/?url=cdn.mos.cms.futurecdn.net%2F4WWuJbSzvDL4Fqxz7498Gn-2560-80.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "b1781107367857_3",
-        "rank": 3,
-        "title": "AI Breakthrough Cuts Energy Consumption by 100x While Dramatically Improving Performance",
-        "category": "ai",
-        "summary": "Tufts University researchers developed a revolutionary neuro-symbolic AI system that combines neural networks with human-like symbolic reasoning, reducing energy consumption by up to 100 times compared to conventional approaches. In robotic task tests, the hybrid system achieved 95% success rates versus 34% for standard models and completed training in just 34 minutes versus more than 36 hours for traditional systems. This breakthrough addresses AI's massive energy demands while dramatically improving performance.",
-        "source": "Crescendo AI",
-        "sourceUrl": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
-        "image": "https://cdn.prod.website-files.com/67166bf779ba8852260f7d1f/694a731a76c9d6876ddf8a8f_latest-ai-news-and-updates.png",
-        "imageProxy": "https://images.weserv.nl/?url=cdn.prod.website-files.com%2F67166bf779ba8852260f7d1f%2F694a731a76c9d6876ddf8a8f_latest-ai-news-and-updates.png&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "b1781107367857_4",
-        "rank": 4,
-        "title": "NASA's Ultra-Sensitive Sensor Detects Energy Below One Zeptojoule",
-        "category": "space",
-        "summary": "NASA researchers built an ultra-sensitive sensor capable of detecting unimaginably small amounts of energy below one zeptojoule using fragile superconducting materials that react to even the slightest temperature change. Additionally, NASA's new AI space chip demonstrated performance levels hundreds of times beyond current spaceflight processors, potentially allowing spacecraft to operate far more independently in deep space. These advances represent major leaps in space technology capabilities.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/",
-        "image": "https://www.sciencedaily.com/images/scidaily-icon.png",
-        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2Fscidaily-icon.png&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "b1781107367857_5",
-        "rank": 5,
-        "title": "Revolutionary DNA Robots Emerge as Programmable Molecular Machines",
-        "category": "biotech",
-        "summary": "Scientists developed DNA robots as tiny programmable machines that could deliver drugs, hunt viruses, and build molecular-scale devices inside the human body. By borrowing ideas from traditional robotics and combining them with biological systems, these molecular machines represent a breakthrough in precision medicine. The DNA robots can be programmed to perform specific tasks at the cellular level, potentially revolutionizing targeted drug delivery and treatment of diseases.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/news/computers_math/artificial_intelligence/",
-        "image": "https://www.sciencedaily.com/images/scidaily-icon.png",
-        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2Fscidaily-icon.png&w=640&h=400&fit=cover&we&output=jpg"
-      }
-    ],
-    "batchId": "b1781107367857"
   }
 ]
