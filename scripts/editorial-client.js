@@ -358,7 +358,7 @@
     }
 
     lines.push('— Admin checklist —');
-    lines.push('• Draft original title + dek');
+    lines.push('• Draft original title + dek (vary form: not always What… / Convergence of…)');
     lines.push('• Write body (~280–320 words) in CoC voice');
     lines.push('• Select hero from selected-article head image thumbnails (or paste URL)');
     lines.push('• Mark published when ready');
