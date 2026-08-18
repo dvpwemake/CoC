@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-08-18T00-26",
+    "scannedAt": "2026-08-18T00:26:04.205Z",
+    "items": [
+      {
+        "id": "auto_2026-08-18T00-26_1",
+        "rank": 1,
+        "title": "US vaccination rates fall again as exemptions continue to rise, CDC data shows",
+        "category": "general",
+        "summary": "Again, the CDC did not publish a full report and instead simply put the data online.",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2289391344-1024x648.jpg",
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/health/2026/08/us-vaccination-rates-fall-again-as-exemptions-continue-to-rise-cdc-data-shows/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-18T00-26_2",
+        "rank": 2,
+        "title": "HEO to use Planet satellites for non-Earth imaging",
+        "category": "space",
+        "summary": "HEO, the Australian company that uses Earth observation satellites to take images of other spacecraft, has signed an agreement with Planet to access that company’s satellites The post HEO to use Planet satellites for…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Planet-x-HEO.png?fit=1024%2C576&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/heo-to-use-planet-satellites-for-non-earth-imaging/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-18T00-26_3",
+        "rank": 3,
+        "title": "Milk Cartons and Bottle Gourds Form Sipho Mabona's Tribute to His Late Father",
+        "category": "art",
+        "summary": "Mabona's sculptures highlight how the personal and cultural intersect alongside the distinctly South African sense of resilience. Do stories and artists like this matter to you? Become a Colossal Member today and…",
+        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/08/mabona-7.jpg",
+        "source": "Colossal",
+        "sourceUrl": "https://www.thisiscolossal.com/2026/08/sipho-mabona-calabasha-sculpture-series/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-18T00-26_4",
+        "rank": 4,
+        "title": "What Flock’s defenders are missing",
+        "category": "ai",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Flock, the police-tech giant known for its network of some 120,000 automatic…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/AP26153043646326.jpg?resize=1200,600",
+        "source": "MIT Technology Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-18T00-26_5",
+        "rank": 5,
+        "title": "STAT+: Eyepoint study results for vision treatment disappoint, but company still sees promise",
+        "category": "biotech",
+        "summary": "Eyepoint said patients given its experimental treatment for wet AMD failed to maintain vision with less frequent injections compared to a standard treatment.",
+        "image": "https://www.statnews.com/wp-content/uploads/2024/09/AdobeStock_138806370-1024x576.jpeg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/08/17/eyepoint-duravyu-wet-amd-study/?utm_campaign=rss",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-08-17T20-11",
     "scannedAt": "2026-08-17T20:11:24.270Z",
     "items": [
@@ -1233,26 +1294,6 @@
         "source": "STAT News",
         "sourceUrl": "https://www.statnews.com/pharmalot/2026/07/31/trump-administration-revises-rebate-pilot-drug-discount-program-hospitals/?utm_campaign=rss",
         "fromX": false
-      }
-    ]
-  },
-  {
-    "batchId": "editorial_2026-08-01",
-    "scannedAt": "2026-08-01T19:52:07.146Z",
-    "kind": "editorial_archive",
-    "items": [
-      {
-        "id": "editorial_2026-08-01",
-        "rank": 0,
-        "title": "What the margin makes visible, and what ground still claims",
-        "category": "editorial",
-        "summary": "Convergence of expanded access and reclaimed repair",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/seedance-image-3.png",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-01.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-08-01",
-        "authorName": "Dr. Wallace Lynch"
       }
     ]
   }

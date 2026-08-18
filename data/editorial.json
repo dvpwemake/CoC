@@ -3335,40 +3335,97 @@
       "status": "draft",
       "draftKind": "outline",
       "createdAt": "2026-08-17T02:21:39.112Z",
-      "updatedAt": "2026-08-17T20:11:24.678Z",
+      "updatedAt": "2026-08-18T00:26:04.264Z",
       "title": "Editorial brief — 2026-08-17",
       "dek": "Outline of selected article titles and key points for admin to write the final editorial.",
-      "body": "EDITORIAL BRIEF (outline only — not for publication as-is)\nPublish date: 2026-08-17\nInstruction: Use the titles and key points below to write the final ~300-word CoC editorial. Replace this entire brief with your finished prose before publishing.\n\n— Selected articles of the day (12) —\n\n1. [Art] Brett Littman to Lead Museum of Contemporary Art San Diego\n   Source: Artforum\n   URL: https://www.artforum.com/news/brett-littman-to-helm-museum-of-contemporary-art-san-diego-1234757138/\n   Key points:\n   • The Museum of Contemporary Art San Diego (MCASD) has announced Brett Littman as its new director and CEO.\n   • From 2018 to 2023, Littman served as director of the Noguchi Museum in Long Island City, New York.\n\n2. [Biotech] STAT+: Sanofi to lay off 229 workers in Mass., a year after $9.1B Blueprint Medicines acquisition\n   Source: STAT News\n   URL: https://www.statnews.com/2026/08/17/sanofi-layoffs-mass-blueprint-medicines/?utm_campaign=rss\n   Key points:\n   • Sanofi, one of the Massachusetts' largest pharmaceutical employers, will lay off more than 200 workers there a year after acquiring Blueprint Medicines.\n\n3. [General] Supreme Court rejects Verizon bid for $47 million refund of FCC fine\n   Source: Ars Technica\n   URL: https://arstechnica.com/tech-policy/2026/08/supreme-court-rejects-verizon-bid-for-47-million-refund-of-fcc-fine/\n   Key points:\n   • Despite loss, carriers still claim selling device-location data isn't illegal.\n\n4. [Robotics] Interview with Lattice Semiconductor’s Karl Wachswender: ‘Parallel processing enables more powerful edge AI’\n   Source: Robotics & Automation News\n   URL: https://roboticsandautomationnews.com/2026/08/17/interview-with-lattice-semiconductors-karl-wachswender-parallel-processing-enables-more-powerful-edge-ai/104215/\n   Key points:\n   • As robots become more intelligent, autonomous and connected, much of the attention naturally falls on increasingly powerful AI models.\n   • But underneath those models is an increasingly complex collection of sensors,…\n\n5. [Space] NASA Mission Studies Air Pollution Over Ethiopia\n   Source: NASA\n   URL: https://www.nasa.gov/missions/maia/nasa-mission-studies-air-pollution-over-ethiopia/\n   Key points:\n   • A NASA-funded air pollution monitoring network has provided one of the most detailed long-term views yet of the role of black carbon, or soot produced by fires, diesel vehicles, and other combustion sources, in…\n\n6. [Art] Artist Builds Free-To-Play Video Game Replica Of Michael Heizer’s City\n   Source: Artforum\n   URL: https://www.artforum.com/news/artist-builds-free-to-play-vreplica-of-michael-heizer-city-1234757035/\n   Key points:\n   • Digital artist Lily Belmira has created a free video game that recreates the environment of Michael Heizer’s monumental land art sculpture City, 1970–2022, in the Nevada desert.\n   • Belmira, who is based in Tulsa, Oklahoma,…\n\n7. [Biotech] STAT+: Up and down the ladder: The latest comings and goings\n   Source: STAT News\n   URL: https://www.statnews.com/pharmalot/2026/08/14/up-down-ladder-latest-comings-goings-jobs/?utm_campaign=rss\n   Key points:\n   • From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.\n\n8. [Editorial] What a warning can score, and what a room still has to hold\n   Source: Chronicle of Convergence · Editorial\n   URL: https://chronicleofconvergence.com/e/2026-08-15.html\n   Key points:\n   • Convergence of the emptied chair and the work that stays\n\n9. [General] Amazon is trying to crush class-action suits before they get started\n   Source: The Verge\n   URL: https://www.theverge.com/tech/980752/amazon-class-action-arbitration-terms-and-conditions\n   Key points:\n   • On Friday, Amazon customers received an email alerting them to an update to the site's terms and conditions.\n   • Most notably, it stated that disputes would now be resolved through arbitration and said users agree to a…\n\n10. [Neuroscience] Youth Protein TIMP2 Restores Immune Function in the Aging Brain\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/youth-protein-timp2-restores-immune-function-aging-brain-31207/\n   Key points:\n   • Researchers discovered that the youth-associated protein TIMP2 restores healthy immune function in the aging brain by rejuvenating microglia.\n\n11. [Space] U.S. defense agencies tap three companies for satellite disposal study\n   Source: SpaceNews\n   URL: https://spacenews.com/u-s-defense-agencies-tap-three-companies-for-satellite-disposal-study/\n   Key points:\n   • Firefly, D-Orbit USA and Katalyst will compete to show how commercial operators could capture and remove aging spacecraft The post U.S.\n   • defense agencies tap three companies for satellite disposal study appeared first on…\n\n12. [Art] Former Philadelphia University Of The Arts Dormitory To House Affordable Apartments\n   Source: Artforum\n   URL: https://www.artforum.com/news/former-phil-university-of-the-arts-dormitory-apartments-1234757039/\n   Key points:\n   • With the help of a $2.5 million grant from the John S.\n   • Knight Foundation, Furness Hall, a former University of the Arts dormitory in Philadelphia, will be turned into 45 new affordable apartments for…\n\n— Categories present —\nArt · Biotech · General · Robotics · Space · Editorial · Neuroscience\n\n— Admin checklist —\n• Draft original title + dek\n• Write body (~280–320 words) in CoC voice\n• Select hero from selected-article head image thumbnails (or paste URL)\n• Mark published when ready",
+      "body": "EDITORIAL BRIEF (outline only — not for publication as-is)\nPublish date: 2026-08-17\nInstruction: Use the titles and key points below to write the final ~300-word CoC editorial. Replace this entire brief with your finished prose before publishing.\n\n— Selected articles of the day (12) —\n\n1. [AI] What Flock’s defenders are missing\n   Source: MIT Technology Review\n   URL: https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/\n   Key points:\n   • Flock, the police-tech giant known for its network of some 120,000 automatic…\n\n2. [Art] Milk Cartons and Bottle Gourds Form Sipho Mabona's Tribute to His Late Father\n   Source: Colossal\n   URL: https://www.thisiscolossal.com/2026/08/sipho-mabona-calabasha-sculpture-series/\n   Key points:\n   • Mabona's sculptures highlight how the personal and cultural intersect alongside the distinctly South African sense of resilience.\n   • Do stories and artists like this matter to you?\n   • Become a Colossal Member today and…\n\n3. [Biotech] STAT+: Eyepoint study results for vision treatment disappoint, but company still sees promise\n   Source: STAT News\n   URL: https://www.statnews.com/2026/08/17/eyepoint-duravyu-wet-amd-study/?utm_campaign=rss\n   Key points:\n   • Eyepoint said patients given its experimental treatment for wet AMD failed to maintain vision with less frequent injections compared to a standard treatment.\n\n4. [General] US vaccination rates fall again as exemptions continue to rise, CDC data shows\n   Source: Ars Technica\n   URL: https://arstechnica.com/health/2026/08/us-vaccination-rates-fall-again-as-exemptions-continue-to-rise-cdc-data-shows/\n   Key points:\n   • Again, the CDC did not publish a full report and instead simply put the data online.\n\n5. [Space] HEO to use Planet satellites for non-Earth imaging\n   Source: SpaceNews\n   URL: https://spacenews.com/heo-to-use-planet-satellites-for-non-earth-imaging/\n   Key points:\n   • HEO, the Australian company that uses Earth observation satellites to take images of other spacecraft, has signed an agreement with Planet to access that company’s satellites The post HEO to use Planet satellites for…\n\n6. [Art] Brett Littman to Lead Museum of Contemporary Art San Diego\n   Source: Artforum\n   URL: https://www.artforum.com/news/brett-littman-to-helm-museum-of-contemporary-art-san-diego-1234757138/\n   Key points:\n   • The Museum of Contemporary Art San Diego (MCASD) has announced Brett Littman as its new director and CEO.\n   • From 2018 to 2023, Littman served as director of the Noguchi Museum in Long Island City, New York.\n\n7. [Biotech] STAT+: Sanofi to lay off 229 workers in Mass., a year after $9.1B Blueprint Medicines acquisition\n   Source: STAT News\n   URL: https://www.statnews.com/2026/08/17/sanofi-layoffs-mass-blueprint-medicines/?utm_campaign=rss\n   Key points:\n   • Sanofi, one of the Massachusetts' largest pharmaceutical employers, will lay off more than 200 workers there a year after acquiring Blueprint Medicines.\n\n8. [General] Supreme Court rejects Verizon bid for $47 million refund of FCC fine\n   Source: Ars Technica\n   URL: https://arstechnica.com/tech-policy/2026/08/supreme-court-rejects-verizon-bid-for-47-million-refund-of-fcc-fine/\n   Key points:\n   • Despite loss, carriers still claim selling device-location data isn't illegal.\n\n9. [Robotics] Interview with Lattice Semiconductor’s Karl Wachswender: ‘Parallel processing enables more powerful edge AI’\n   Source: Robotics & Automation News\n   URL: https://roboticsandautomationnews.com/2026/08/17/interview-with-lattice-semiconductors-karl-wachswender-parallel-processing-enables-more-powerful-edge-ai/104215/\n   Key points:\n   • As robots become more intelligent, autonomous and connected, much of the attention naturally falls on increasingly powerful AI models.\n   • But underneath those models is an increasingly complex collection of sensors,…\n\n10. [Space] NASA Mission Studies Air Pollution Over Ethiopia\n   Source: NASA\n   URL: https://www.nasa.gov/missions/maia/nasa-mission-studies-air-pollution-over-ethiopia/\n   Key points:\n   • A NASA-funded air pollution monitoring network has provided one of the most detailed long-term views yet of the role of black carbon, or soot produced by fires, diesel vehicles, and other combustion sources, in…\n\n11. [Art] Artist Builds Free-To-Play Video Game Replica Of Michael Heizer’s City\n   Source: Artforum\n   URL: https://www.artforum.com/news/artist-builds-free-to-play-vreplica-of-michael-heizer-city-1234757035/\n   Key points:\n   • Digital artist Lily Belmira has created a free video game that recreates the environment of Michael Heizer’s monumental land art sculpture City, 1970–2022, in the Nevada desert.\n   • Belmira, who is based in Tulsa, Oklahoma,…\n\n12. [Biotech] STAT+: Up and down the ladder: The latest comings and goings\n   Source: STAT News\n   URL: https://www.statnews.com/pharmalot/2026/08/14/up-down-ladder-latest-comings-goings-jobs/?utm_campaign=rss\n   Key points:\n   • From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.\n\n— Categories present —\nAI · Art · Biotech · General · Space · Robotics\n\n— Admin checklist —\n• Draft original title + dek\n• Write body (~280–320 words) in CoC voice\n• Select hero from selected-article head image thumbnails (or paste URL)\n• Mark published when ready",
       "paragraphs": [
         "EDITORIAL BRIEF (outline only — not for publication as-is)\nPublish date: 2026-08-17\nInstruction: Use the titles and key points below to write the final ~300-word CoC editorial. Replace this entire brief with your finished prose before publishing.",
         "— Selected articles of the day (12) —",
-        "1. [Art] Brett Littman to Lead Museum of Contemporary Art San Diego\n   Source: Artforum\n   URL: https://www.artforum.com/news/brett-littman-to-helm-museum-of-contemporary-art-san-diego-1234757138/\n   Key points:\n   • The Museum of Contemporary Art San Diego (MCASD) has announced Brett Littman as its new director and CEO.\n   • From 2018 to 2023, Littman served as director of the Noguchi Museum in Long Island City, New York.",
-        "2. [Biotech] STAT+: Sanofi to lay off 229 workers in Mass., a year after $9.1B Blueprint Medicines acquisition\n   Source: STAT News\n   URL: https://www.statnews.com/2026/08/17/sanofi-layoffs-mass-blueprint-medicines/?utm_campaign=rss\n   Key points:\n   • Sanofi, one of the Massachusetts' largest pharmaceutical employers, will lay off more than 200 workers there a year after acquiring Blueprint Medicines.",
-        "3. [General] Supreme Court rejects Verizon bid for $47 million refund of FCC fine\n   Source: Ars Technica\n   URL: https://arstechnica.com/tech-policy/2026/08/supreme-court-rejects-verizon-bid-for-47-million-refund-of-fcc-fine/\n   Key points:\n   • Despite loss, carriers still claim selling device-location data isn't illegal.",
-        "4. [Robotics] Interview with Lattice Semiconductor’s Karl Wachswender: ‘Parallel processing enables more powerful edge AI’\n   Source: Robotics & Automation News\n   URL: https://roboticsandautomationnews.com/2026/08/17/interview-with-lattice-semiconductors-karl-wachswender-parallel-processing-enables-more-powerful-edge-ai/104215/\n   Key points:\n   • As robots become more intelligent, autonomous and connected, much of the attention naturally falls on increasingly powerful AI models.\n   • But underneath those models is an increasingly complex collection of sensors,…",
-        "5. [Space] NASA Mission Studies Air Pollution Over Ethiopia\n   Source: NASA\n   URL: https://www.nasa.gov/missions/maia/nasa-mission-studies-air-pollution-over-ethiopia/\n   Key points:\n   • A NASA-funded air pollution monitoring network has provided one of the most detailed long-term views yet of the role of black carbon, or soot produced by fires, diesel vehicles, and other combustion sources, in…",
-        "6. [Art] Artist Builds Free-To-Play Video Game Replica Of Michael Heizer’s City\n   Source: Artforum\n   URL: https://www.artforum.com/news/artist-builds-free-to-play-vreplica-of-michael-heizer-city-1234757035/\n   Key points:\n   • Digital artist Lily Belmira has created a free video game that recreates the environment of Michael Heizer’s monumental land art sculpture City, 1970–2022, in the Nevada desert.\n   • Belmira, who is based in Tulsa, Oklahoma,…",
-        "7. [Biotech] STAT+: Up and down the ladder: The latest comings and goings\n   Source: STAT News\n   URL: https://www.statnews.com/pharmalot/2026/08/14/up-down-ladder-latest-comings-goings-jobs/?utm_campaign=rss\n   Key points:\n   • From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.",
-        "8. [Editorial] What a warning can score, and what a room still has to hold\n   Source: Chronicle of Convergence · Editorial\n   URL: https://chronicleofconvergence.com/e/2026-08-15.html\n   Key points:\n   • Convergence of the emptied chair and the work that stays",
-        "9. [General] Amazon is trying to crush class-action suits before they get started\n   Source: The Verge\n   URL: https://www.theverge.com/tech/980752/amazon-class-action-arbitration-terms-and-conditions\n   Key points:\n   • On Friday, Amazon customers received an email alerting them to an update to the site's terms and conditions.\n   • Most notably, it stated that disputes would now be resolved through arbitration and said users agree to a…",
-        "10. [Neuroscience] Youth Protein TIMP2 Restores Immune Function in the Aging Brain\n   Source: Neuroscience News\n   URL: https://neurosciencenews.com/youth-protein-timp2-restores-immune-function-aging-brain-31207/\n   Key points:\n   • Researchers discovered that the youth-associated protein TIMP2 restores healthy immune function in the aging brain by rejuvenating microglia.",
-        "11. [Space] U.S. defense agencies tap three companies for satellite disposal study\n   Source: SpaceNews\n   URL: https://spacenews.com/u-s-defense-agencies-tap-three-companies-for-satellite-disposal-study/\n   Key points:\n   • Firefly, D-Orbit USA and Katalyst will compete to show how commercial operators could capture and remove aging spacecraft The post U.S.\n   • defense agencies tap three companies for satellite disposal study appeared first on…",
-        "12. [Art] Former Philadelphia University Of The Arts Dormitory To House Affordable Apartments\n   Source: Artforum\n   URL: https://www.artforum.com/news/former-phil-university-of-the-arts-dormitory-apartments-1234757039/\n   Key points:\n   • With the help of a $2.5 million grant from the John S.\n   • Knight Foundation, Furness Hall, a former University of the Arts dormitory in Philadelphia, will be turned into 45 new affordable apartments for…",
-        "— Categories present —\nArt · Biotech · General · Robotics · Space · Editorial · Neuroscience",
+        "1. [AI] What Flock’s defenders are missing\n   Source: MIT Technology Review\n   URL: https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/\n   Key points:\n   • Flock, the police-tech giant known for its network of some 120,000 automatic…",
+        "2. [Art] Milk Cartons and Bottle Gourds Form Sipho Mabona's Tribute to His Late Father\n   Source: Colossal\n   URL: https://www.thisiscolossal.com/2026/08/sipho-mabona-calabasha-sculpture-series/\n   Key points:\n   • Mabona's sculptures highlight how the personal and cultural intersect alongside the distinctly South African sense of resilience.\n   • Do stories and artists like this matter to you?\n   • Become a Colossal Member today and…",
+        "3. [Biotech] STAT+: Eyepoint study results for vision treatment disappoint, but company still sees promise\n   Source: STAT News\n   URL: https://www.statnews.com/2026/08/17/eyepoint-duravyu-wet-amd-study/?utm_campaign=rss\n   Key points:\n   • Eyepoint said patients given its experimental treatment for wet AMD failed to maintain vision with less frequent injections compared to a standard treatment.",
+        "4. [General] US vaccination rates fall again as exemptions continue to rise, CDC data shows\n   Source: Ars Technica\n   URL: https://arstechnica.com/health/2026/08/us-vaccination-rates-fall-again-as-exemptions-continue-to-rise-cdc-data-shows/\n   Key points:\n   • Again, the CDC did not publish a full report and instead simply put the data online.",
+        "5. [Space] HEO to use Planet satellites for non-Earth imaging\n   Source: SpaceNews\n   URL: https://spacenews.com/heo-to-use-planet-satellites-for-non-earth-imaging/\n   Key points:\n   • HEO, the Australian company that uses Earth observation satellites to take images of other spacecraft, has signed an agreement with Planet to access that company’s satellites The post HEO to use Planet satellites for…",
+        "6. [Art] Brett Littman to Lead Museum of Contemporary Art San Diego\n   Source: Artforum\n   URL: https://www.artforum.com/news/brett-littman-to-helm-museum-of-contemporary-art-san-diego-1234757138/\n   Key points:\n   • The Museum of Contemporary Art San Diego (MCASD) has announced Brett Littman as its new director and CEO.\n   • From 2018 to 2023, Littman served as director of the Noguchi Museum in Long Island City, New York.",
+        "7. [Biotech] STAT+: Sanofi to lay off 229 workers in Mass., a year after $9.1B Blueprint Medicines acquisition\n   Source: STAT News\n   URL: https://www.statnews.com/2026/08/17/sanofi-layoffs-mass-blueprint-medicines/?utm_campaign=rss\n   Key points:\n   • Sanofi, one of the Massachusetts' largest pharmaceutical employers, will lay off more than 200 workers there a year after acquiring Blueprint Medicines.",
+        "8. [General] Supreme Court rejects Verizon bid for $47 million refund of FCC fine\n   Source: Ars Technica\n   URL: https://arstechnica.com/tech-policy/2026/08/supreme-court-rejects-verizon-bid-for-47-million-refund-of-fcc-fine/\n   Key points:\n   • Despite loss, carriers still claim selling device-location data isn't illegal.",
+        "9. [Robotics] Interview with Lattice Semiconductor’s Karl Wachswender: ‘Parallel processing enables more powerful edge AI’\n   Source: Robotics & Automation News\n   URL: https://roboticsandautomationnews.com/2026/08/17/interview-with-lattice-semiconductors-karl-wachswender-parallel-processing-enables-more-powerful-edge-ai/104215/\n   Key points:\n   • As robots become more intelligent, autonomous and connected, much of the attention naturally falls on increasingly powerful AI models.\n   • But underneath those models is an increasingly complex collection of sensors,…",
+        "10. [Space] NASA Mission Studies Air Pollution Over Ethiopia\n   Source: NASA\n   URL: https://www.nasa.gov/missions/maia/nasa-mission-studies-air-pollution-over-ethiopia/\n   Key points:\n   • A NASA-funded air pollution monitoring network has provided one of the most detailed long-term views yet of the role of black carbon, or soot produced by fires, diesel vehicles, and other combustion sources, in…",
+        "11. [Art] Artist Builds Free-To-Play Video Game Replica Of Michael Heizer’s City\n   Source: Artforum\n   URL: https://www.artforum.com/news/artist-builds-free-to-play-vreplica-of-michael-heizer-city-1234757035/\n   Key points:\n   • Digital artist Lily Belmira has created a free video game that recreates the environment of Michael Heizer’s monumental land art sculpture City, 1970–2022, in the Nevada desert.\n   • Belmira, who is based in Tulsa, Oklahoma,…",
+        "12. [Biotech] STAT+: Up and down the ladder: The latest comings and goings\n   Source: STAT News\n   URL: https://www.statnews.com/pharmalot/2026/08/14/up-down-ladder-latest-comings-goings-jobs/?utm_campaign=rss\n   Key points:\n   • From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.",
+        "— Categories present —\nAI · Art · Biotech · General · Space · Robotics",
         "— Admin checklist —\n• Draft original title + dek\n• Write body (~280–320 words) in CoC voice\n• Select hero from selected-article head image thumbnails (or paste URL)\n• Mark published when ready"
       ],
-      "wordCount": 672,
+      "wordCount": 650,
       "themeId": "outline",
       "themeLabel": "Admin outline (titles + key points)",
       "formId": "outline_brief",
       "formLabel": "outline brief",
       "authorName": "Dr. Wallace Lynch",
       "authorTitle": "Editor in Chief",
-      "heroImage": "https://www.artforum.com/wp-content/uploads/2026/08/featured00_large-56.jpg-copy.jpg?w=554",
-      "heroCredit": "Brett Littman to Lead Museum of Contemporary Art San Diego",
-      "heroSource": "Artforum",
-      "heroSourceUrl": "https://www.artforum.com/news/brett-littman-to-helm-museum-of-contemporary-art-san-diego-1234757138/",
+      "heroImage": "https://wp.technologyreview.com/wp-content/uploads/2026/08/AP26153043646326.jpg?resize=1200,600",
+      "heroCredit": "What Flock’s defenders are missing",
+      "heroSource": "MIT Technology Review",
+      "heroSourceUrl": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
       "headlines": [
+        {
+          "title": "What Flock’s defenders are missing",
+          "source": "MIT Technology Review",
+          "category": "ai",
+          "sourceUrl": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Flock, the police-tech giant known for its network of some 120,000 automatic…",
+          "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/AP26153043646326.jpg?resize=1200,600",
+          "keyPoints": [
+            "Flock, the police-tech giant known for its network of some 120,000 automatic…"
+          ]
+        },
+        {
+          "title": "Milk Cartons and Bottle Gourds Form Sipho Mabona's Tribute to His Late Father",
+          "source": "Colossal",
+          "category": "art",
+          "sourceUrl": "https://www.thisiscolossal.com/2026/08/sipho-mabona-calabasha-sculpture-series/",
+          "summary": "Mabona's sculptures highlight how the personal and cultural intersect alongside the distinctly South African sense of resilience. Do stories and artists like this matter to you? Become a Colossal Member today and…",
+          "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/08/mabona-7.jpg",
+          "keyPoints": [
+            "Mabona's sculptures highlight how the personal and cultural intersect alongside the distinctly South African sense of resilience.",
+            "Do stories and artists like this matter to you?",
+            "Become a Colossal Member today and…"
+          ]
+        },
+        {
+          "title": "STAT+: Eyepoint study results for vision treatment disappoint, but company still sees promise",
+          "source": "STAT News",
+          "category": "biotech",
+          "sourceUrl": "https://www.statnews.com/2026/08/17/eyepoint-duravyu-wet-amd-study/?utm_campaign=rss",
+          "summary": "Eyepoint said patients given its experimental treatment for wet AMD failed to maintain vision with less frequent injections compared to a standard treatment.",
+          "image": "https://www.statnews.com/wp-content/uploads/2024/09/AdobeStock_138806370-1024x576.jpeg",
+          "keyPoints": [
+            "Eyepoint said patients given its experimental treatment for wet AMD failed to maintain vision with less frequent injections compared to a standard treatment."
+          ]
+        },
+        {
+          "title": "US vaccination rates fall again as exemptions continue to rise, CDC data shows",
+          "source": "Ars Technica",
+          "category": "general",
+          "sourceUrl": "https://arstechnica.com/health/2026/08/us-vaccination-rates-fall-again-as-exemptions-continue-to-rise-cdc-data-shows/",
+          "summary": "Again, the CDC did not publish a full report and instead simply put the data online.",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2289391344-1024x648.jpg",
+          "keyPoints": [
+            "Again, the CDC did not publish a full report and instead simply put the data online."
+          ]
+        },
+        {
+          "title": "HEO to use Planet satellites for non-Earth imaging",
+          "source": "SpaceNews",
+          "category": "space",
+          "sourceUrl": "https://spacenews.com/heo-to-use-planet-satellites-for-non-earth-imaging/",
+          "summary": "HEO, the Australian company that uses Earth observation satellites to take images of other spacecraft, has signed an agreement with Planet to access that company’s satellites The post HEO to use Planet satellites for…",
+          "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Planet-x-HEO.png?fit=1024%2C576&ssl=1",
+          "keyPoints": [
+            "HEO, the Australian company that uses Earth observation satellites to take images of other spacecraft, has signed an agreement with Planet to access that company’s satellites The post HEO to use Planet satellites for…"
+          ]
+        },
         {
           "title": "Brett Littman to Lead Museum of Contemporary Art San Diego",
           "source": "Artforum",
@@ -3447,64 +3504,6 @@
           "image": "https://www.statnews.com/wp-content/uploads/2021/03/Pharmalot_ComingGoing_STILL-1024x576.jpg",
           "keyPoints": [
             "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry."
-          ]
-        },
-        {
-          "title": "What a warning can score, and what a room still has to hold",
-          "source": "Chronicle of Convergence · Editorial",
-          "category": "editorial",
-          "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-15.html",
-          "summary": "Convergence of the emptied chair and the work that stays",
-          "image": "https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/1a22/live/86235450-9731-11f1-870d-5d08c49babb2.jpg",
-          "keyPoints": [
-            "Convergence of the emptied chair and the work that stays"
-          ]
-        },
-        {
-          "title": "Amazon is trying to crush class-action suits before they get started",
-          "source": "The Verge",
-          "category": "general",
-          "sourceUrl": "https://www.theverge.com/tech/980752/amazon-class-action-arbitration-terms-and-conditions",
-          "summary": "On Friday, Amazon customers received an email alerting them to an update to the site's terms and conditions. Most notably, it stated that disputes would now be resolved through arbitration and said users agree to a…",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/acastro_STK103__01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-          "keyPoints": [
-            "On Friday, Amazon customers received an email alerting them to an update to the site's terms and conditions.",
-            "Most notably, it stated that disputes would now be resolved through arbitration and said users agree to a…"
-          ]
-        },
-        {
-          "title": "Youth Protein TIMP2 Restores Immune Function in the Aging Brain",
-          "source": "Neuroscience News",
-          "category": "neuroscience",
-          "sourceUrl": "https://neurosciencenews.com/youth-protein-timp2-restores-immune-function-aging-brain-31207/",
-          "summary": "Researchers discovered that the youth-associated protein TIMP2 restores healthy immune function in the aging brain by rejuvenating microglia.",
-          "image": "https://neurosciencenews.com/files/2026/08/youth-protein-timp2-microglia-rejuvenation-1155x770.jpg",
-          "keyPoints": [
-            "Researchers discovered that the youth-associated protein TIMP2 restores healthy immune function in the aging brain by rejuvenating microglia."
-          ]
-        },
-        {
-          "title": "U.S. defense agencies tap three companies for satellite disposal study",
-          "source": "SpaceNews",
-          "category": "space",
-          "sourceUrl": "https://spacenews.com/u-s-defense-agencies-tap-three-companies-for-satellite-disposal-study/",
-          "summary": "Firefly, D-Orbit USA and Katalyst will compete to show how commercial operators could capture and remove aging spacecraft The post U.S. defense agencies tap three companies for satellite disposal study appeared first on…",
-          "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/03/Firefly_ElytraDawn_EarthOrbit.jpg?fit=1024%2C383&ssl=1",
-          "keyPoints": [
-            "Firefly, D-Orbit USA and Katalyst will compete to show how commercial operators could capture and remove aging spacecraft The post U.S.",
-            "defense agencies tap three companies for satellite disposal study appeared first on…"
-          ]
-        },
-        {
-          "title": "Former Philadelphia University Of The Arts Dormitory To House Affordable Apartments",
-          "source": "Artforum",
-          "category": "art",
-          "sourceUrl": "https://www.artforum.com/news/former-phil-university-of-the-arts-dormitory-apartments-1234757039/",
-          "summary": "With the help of a $2.5 million grant from the John S. and James L. Knight Foundation, Furness Hall, a former University of the Arts dormitory in Philadelphia, will be turned into 45 new affordable apartments for…",
-          "image": "https://www.artforum.com/wp-content/uploads/2026/08/Frank_Furness_-_Philadelphia_PA_-_Pennsylvania_Institute_for_the_Deaf_and_Dumb_addition_1-Large.jpeg?w=650",
-          "keyPoints": [
-            "With the help of a $2.5 million grant from the John S.",
-            "Knight Foundation, Furness Hall, a former University of the Arts dormitory in Philadelphia, will be turned into 45 new affordable apartments for…"
           ]
         }
       ]
@@ -5795,6 +5794,7 @@
     "https://www.sciencedaily.com/images/1920/dna-research-genetics-technology.webp",
     "https://wp.technologyreview.com/wp-content/uploads/2026/08/gettyimages-1289357458-social.jpg?resize=1200,600",
     "https://artsy-media-uploads.s3.amazonaws.com/o8Xk-Bk3tX-vU8eCFiZc-Q%2FTangenMAG1.jpg",
-    "https://www.artforum.com/wp-content/uploads/2026/08/featured00_large-56.jpg-copy.jpg?w=554"
+    "https://www.artforum.com/wp-content/uploads/2026/08/featured00_large-56.jpg-copy.jpg?w=554",
+    "https://wp.technologyreview.com/wp-content/uploads/2026/08/AP26153043646326.jpg?resize=1200,600"
   ]
 }

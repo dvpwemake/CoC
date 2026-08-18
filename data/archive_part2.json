@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-07-16T20-40",
+    "scannedAt": "2026-07-16T20:40:52.706Z",
+    "items": [
+      {
+        "id": "auto_2026-07-16T20-40_1",
+        "rank": 1,
+        "title": "GLP-1's Reduce Binge Eating Symptoms",
+        "category": "neuroscience",
+        "summary": "A new study establishes that GLP-1 receptor agonists significantly reduce core behavioral markers of Binge Eating Disorder, including active binge episodes, loss-of-control eating, and emotional eating.",
+        "image": "https://neurosciencenews.com/files/2026/07/glp1-binge-eating-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/glp1-agonists-binge-eating-31067/",
+        "imageProxy": "https://images.weserv.nl/?url=neurosciencenews.com%2Ffiles%2F2026%2F07%2Fglp1-binge-eating-neuroscience-1155x770.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-07-16T20-40_2",
+        "rank": 2,
+        "title": "Predicting biotech clinical trials &#038; a new Alzheimer's drug controversy",
+        "category": "biotech",
+        "summary": "This week on \"The Readout LOUD\" podcast: a new Alzheimer's drug controversy and prediction markets for clinical trials and FDA drug reviews. Listen now.",
+        "image": "https://www.statnews.com/wp-content/uploads/2024/07/ROL_Rectangle-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/07/16/readout-loud-podcast-predicting-clinical-trials-biogen-alzheimers-tau/?utm_campaign=rss",
+        "imageProxy": "https://images.weserv.nl/?url=www.statnews.com%2Fwp-content%2Fuploads%2F2024%2F07%2FROL_Rectangle-1024x576.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-07-16T20-40_3",
+        "rank": 3,
+        "title": "NASA Study Finds Near-Earth Asteroid Is Actually Comet",
+        "category": "space",
+        "summary": "New research led by scientists at NASA’s Jet Propulsion Laboratory in Southern California has revealed the identity of a puzzling near-Earth object by precisely tracking its motion through space and using powerful…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/07/1-pia21259.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/solar-system/comets/nasa-study-finds-near-earth-asteroid-is-actually-comet/",
+        "imageProxy": "https://images.weserv.nl/?url=www.nasa.gov%2Fwp-content%2Fuploads%2F2026%2F07%2F1-pia21259.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-07-16T20-40_4",
+        "rank": 4,
+        "title": "How to Make an Invisible Drone",
+        "category": "robotics",
+        "summary": "There are many words that I would never, ever use to describe a drone. Stealthy. Subtle. Whatever the opposite of obnoxious is. Much of this is because of the giant angry bee sound that drones tend to make, but it’s…",
+        "image": "https://spectrum.ieee.org/media-library/low-visibility-drone-flying-in-front-of-an-office-plant.jpg?id=67480624&width=980",
+        "source": "IEEE Spectrum",
+        "sourceUrl": "https://spectrum.ieee.org/invisible-spinning-drone",
+        "imageProxy": "https://images.weserv.nl/?url=spectrum.ieee.org%2Fmedia-library%2Flow-visibility-drone-flying-in-front-of-an-office-plant.jpg%3Fid%3D67480624%26width%3D980&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-07-16T20-40_5",
+        "rank": 5,
+        "title": "New Jersey law will let data centers pay for home energy upgrades",
+        "category": "energy",
+        "summary": "New Jersey is offering data centers an unorthodox way to get the power they need: by bankrolling home energy upgrades. Last week, Gov. Mikie Sherrill (D) signed a bill that will create a first-of-its-kind program to…",
+        "image": "https://img.canarymedia.com/content/uploads/Trenton-New-Jersey-skyline-with-state-capitol_GettyImages-1558575956.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=c55f1c0694446300e3bb1ee984f604fd",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/data-centers/new-jersey-data-centers-energy-upgrades",
+        "imageProxy": "https://images.weserv.nl/?url=img.canarymedia.com%2Fcontent%2Fuploads%2FTrenton-New-Jersey-skyline-with-state-capitol_GettyImages-1558575956.jpg%3Fauto%3Dcompress%252Cformat%26crop%3Dfocalpoint%26fit%3Dcrop%26fp-x%3D0.5%26fp-y%3D0.5%26h%3D630%26q%3D82%26w%3D1200%26s%3Dc55f1c0694446300e3bb1ee984f604fd&w=640&h=400&fit=cover&we&output=jpg"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-07-15T20-45",
     "scannedAt": "2026-07-15T20:45:50.388Z",
     "items": [
@@ -1413,66 +1474,5 @@
       }
     ],
     "batchId": "b1781132132976"
-  },
-  {
-    "scannedAt": "2026-06-10T18:40:54.500Z",
-    "items": [
-      {
-        "id": "b1781116854500_1",
-        "rank": 1,
-        "title": "Venus Aerospace Selected as 2026 Technology Pioneer for Revolutionary Rocket Engine",
-        "category": "space",
-        "summary": "Venus Aerospace has been selected for the World Economic Forum's 2026 Technology Pioneers cohort for their rotating detonation rocket engine (RDRE) technology. The RDRE replaces traditional combustion with controlled detonation to burn fuel more efficiently, offering breakthrough capabilities for defense, space missions, and future high-speed flight applications.",
-        "source": "PR Newswire",
-        "sourceUrl": "https://www.prnewswire.com/news-releases/venus-aerospace-selected-as-a-2026-technology-pioneer-by-the-world-economic-forum-302795923.html",
-        "image": "https://mmx.prnewswire.com/media/MS1389807/Venus_Aerospace_logo_NEW.jpg?id=OA2694872&p=facebook",
-        "imageProxy": "https://images.weserv.nl/?url=mmx.prnewswire.com%2Fmedia%2FMS1389807%2FVenus_Aerospace_logo_NEW.jpg%3Fid%3DOA2694872%26p%3Dfacebook&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "b1781116854500_2",
-        "rank": 2,
-        "title": "MIT Develops Chip Cooling Technology Using AI While Studying Fake News Detection",
-        "category": "ai",
-        "summary": "MIT researchers have founded Ferveret, a company that reduces energy and water required to cool AI chips, addressing a critical infrastructure need. Additionally, a Media Lab study reveals that AI assistance can make people worse at detecting fake news, similar to how GPS has weakened navigation skills.",
-        "source": "MIT News",
-        "sourceUrl": "https://news.mit.edu/topic/artificial-intelligence2",
-        "image": "https://news.mit.edu/themes/mit/src/img/placeholder/placeholder--frontpage--featured-news.jpg",
-        "imageProxy": "https://images.weserv.nl/?url=news.mit.edu%2Fthemes%2Fmit%2Fsrc%2Fimg%2Fplaceholder%2Fplaceholder--frontpage--featured-news.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "b1781116854500_3",
-        "rank": 3,
-        "title": "Revolutionary Hydrogen Production Method Converts Waste Heat to Clean Fuel",
-        "category": "energy",
-        "summary": "Researchers at the University of Birmingham developed a perovskite-based catalyst that splits water into hydrogen at much lower temperatures than existing technologies. This breakthrough could allow factories, steel plants, cement works, and renewable energy sites to turn waste heat into valuable hydrogen fuel.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260601025345.htm",
-        "image": "https://www.sciencedaily.com/images/1920/green-energy-hydrogen-pipelines-wind-turbines.webp",
-        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fgreen-energy-hydrogen-pipelines-wind-turbines.webp&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "b1781116854500_4",
-        "rank": 4,
-        "title": "Figure AI Achieves Major Robotics Production Milestone at 1 Robot Per Hour",
-        "category": "robotics",
-        "summary": "Figure AI has achieved a major production milestone with its BotQ factory now producing Figure 03 humanoid robots at 1 robot per hour, while Boston Dynamics' electric Atlas begins initial deployments to Hyundai and DeepMind partners.",
-        "source": "Humanoid Press",
-        "sourceUrl": "https://www.humanoid.press/",
-        "image": "https://www.humanoid.press/gallery_gen/c042cb32c60c76b72b25c8f8cf975ac8_fit.jpg",
-        "imageProxy": "https://images.weserv.nl/?url=www.humanoid.press%2Fgallery_gen%2Fc042cb32c60c76b72b25c8f8cf975ac8_fit.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "b1781116854500_5",
-        "rank": 5,
-        "title": "First Participant Treated in Landmark Cellular Reprogramming Trial for Aging",
-        "category": "biotech",
-        "summary": "The first participant has been treated in a landmark clinical trial of cellular reprogramming, which aims to rejuvenate aging cells. This represents a significant milestone in anti-aging biotechnology research.",
-        "source": "Nature",
-        "sourceUrl": "https://www.nature.com/news",
-        "image": "https://media.nature.com/w768/magazine-assets/d41586-026-01819-8/d41586-026-01819-8_52516030.jpg",
-        "imageProxy": "https://images.weserv.nl/?url=media.nature.com%2Fw768%2Fmagazine-assets%2Fd41586-026-01819-8%2Fd41586-026-01819-8_52516030.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      }
-    ],
-    "batchId": "b1781116854500"
   }
 ]
