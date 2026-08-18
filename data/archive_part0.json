@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-08-18T16-15",
-    "scannedAt": "2026-08-18T16:15:19.020Z",
+    "batchId": "auto_2026-08-18T20-08",
+    "scannedAt": "2026-08-18T20:08:44.971Z",
     "items": [
       {
-        "id": "auto_2026-08-18T16-15_1",
+        "id": "auto_2026-08-18T20-08_1",
         "rank": 1,
-        "title": "Viral Disneyland Content Creator Defends Her ‘Special Friendship’ With Peter Pan",
-        "category": "general",
-        "summary": "Disney superfan Toni Kulusich has been accused of stalking her favorite character, sparking discourse about boundaries with park actors. She tells WIRED the backlash is unfair.",
-        "image": "https://media.wired.com/photos/6a837d321c5a245a00779a77/master/pass/Disney-Adult-Peter-Pan-CultureIMG_2764.jpg",
-        "source": "WIRED",
-        "sourceUrl": "https://www.wired.com/story/viral-disneyland-content-creator-defends-her-special-friendship-with-peter-pan/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-18T16-15_2",
-        "rank": 2,
-        "title": "Anna Weyant paints Marc Jacobs for \"Vanity Fair\" cover.",
+        "title": "Dark Emotions Evoke Growth in Alejandro Aguliar Canela's Graphite Drawings",
         "category": "art",
-        "summary": "Anna Weyant has painted designer Marc Jacobs for the cover of Vanity Fair' s Style 2026 issue, for the cover story ”Marc Jacobs Cannot Tell a Lie.” Published August 18th, the story coincides with Jacobs's sale of his…",
-        "image": "https://artsy-media-uploads.s3.amazonaws.com/NhpFx43TbmBvUyoYvexOPg%2FVF0926_DigitalCover_1500x1000.jpg",
-        "source": "Artsy",
-        "sourceUrl": "https://www.artsy.net/article/artsy-editorial-anna-weyant-paints-marc-jacobs-vanity-fair-cover",
+        "summary": "\"It’s more about not discarding what might be considered unwanted, but instead finding some use for it,\" says the artist. Do stories and artists like this matter to you? Become a Colossal Member today and support…",
+        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/08/canela-5.jpg",
+        "source": "Colossal",
+        "sourceUrl": "https://www.thisiscolossal.com/2026/08/alejandro-aguliar-canela-graphite-drawings/",
         "fromX": false
       },
       {
-        "id": "auto_2026-08-18T16-15_3",
+        "id": "auto_2026-08-18T20-08_2",
+        "rank": 2,
+        "title": "Tech Life",
+        "category": "general",
+        "summary": "Vapour trails from aircraft contribute to warming in the atmosphere.",
+        "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p55phr.jpg",
+        "source": "BBC Technology",
+        "sourceUrl": "https://www.bbc.co.uk/sounds/play/w3ct8jy9?at_medium=RSS&at_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-18T20-08_3",
         "rank": 3,
-        "title": "Warehouse robotics company Brightpick expands partnership with Dr. Max Group",
-        "category": "robotics",
-        "summary": "Brightpick, a provider of AI-powered warehouse automation, is significantly expanding its partnership with Dr. Max Group, Europe’s largest pharmacy chain. Following successful operations and progressive scaling at Dr.…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/Brightpick-dr.-max-group-1.jpg.jpeg",
-        "source": "Robotics & Automation News",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/18/warehouse-robotics-company-brightpick-expands-partnership-with-dr-max-group/104241/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-18T16-15_4",
-        "rank": 4,
-        "title": "STAT+: Government workers feel the squeeze on health care",
+        "title": "Trump administration sued over visa time limit that would affect grad students, postdocs",
         "category": "biotech",
-        "summary": "Municipalities are struggling with the cost of health insurance for their workers, and states are facing a major decision on Medicaid drug coverage.",
-        "image": "https://www.statnews.com/wp-content/uploads/2022/08/AdobeStock_163164311-1024x576.jpeg",
+        "summary": "DHS was sued Tuesday over a sweeping policy change that would limit how long foreign students and scholars can remain in the U.S.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/08/AP26149662430853-1024x576.jpg",
         "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/08/18/health-care-costs-surge-for-cities-counties-generous-model-deadline-for-states/?utm_campaign=rss",
+        "sourceUrl": "https://www.statnews.com/2026/08/18/dhs-sued-over-visa-time-limit-for-foreign-students/?utm_campaign=rss",
         "fromX": false
       },
       {
-        "id": "auto_2026-08-18T16-15_5",
-        "rank": 5,
-        "title": "New report takes closer look at the Space Force spending surge",
+        "id": "auto_2026-08-18T20-08_4",
+        "rank": 4,
+        "title": "NASA’s LRO Images Falcon 9 Crater on Moon, Learns New Details",
         "category": "space",
-        "summary": "Aerospace Corp. analysis finds most growth concentrated in classified programs, target tracking, missile warning and command and control The post New report takes closer look at the Space Force spending surge appeared…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/MissileWarningCenter-scaled.jpg?fit=1024%2C664&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/new-report-takes-closer-look-at-the-space-force-spending-surge/",
+        "summary": "Between Aug. 11 and 12, NASA’s Lunar Reconnaissance Orbiter (LRO) captured a series of images of a new crater on the Moon. The crater formed on Aug. 5, when a SpaceX Falcon 9 upper stage impacted the surface following…",
+        "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/earthset-from-the-lunar-far-side/earthset_55192132107_00dc598014_o.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "source": "NASA",
+        "sourceUrl": "https://science.nasa.gov/solar-system/moon/nasas-lro-images-falcon-9-crater-on-moon-learns-new-details/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-18T20-08_5",
+        "rank": 5,
+        "title": "FORT Robotics to go public via business combination with Newbury Street II Acquisition Corp",
+        "category": "robotics",
+        "summary": "FORT Robotics, a safety platform developing a “trust layer” for physical AI, and Newbury Street II Acquisition Corp, a special purpose acquisition company, have entered into a definitive business combination agreement…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/FORT-Robotics-Trust-Layer-for-Physical-AI.jpeg",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/18/fort-robotics-to-go-public-via-business-combination-with-newbury-street-ii-acquisition-corp/104238/",
         "fromX": false
       }
     ]
