@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-08-19T00-25",
+    "scannedAt": "2026-08-19T00:25:35.747Z",
+    "items": [
+      {
+        "id": "auto_2026-08-19T00-25_1",
+        "rank": 1,
+        "title": "Silicon Valley Executives Are Tech Fans. Just Not For Their Own Kids.",
+        "category": "general",
+        "summary": "At home, moderation and restraint are the rule for tech parents. Boredom is exalted. Maybe they’re onto something.",
+        "image": "https://static01.nyt.com/images/2026/08/18/business/00biz-tech-kids/00biz-tech-kids-mediumSquareAt3X-v2.jpg",
+        "source": "NYT Technology",
+        "sourceUrl": "https://www.nytimes.com/2026/08/18/technology/silicon-valley-tech-fans-children.html",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-19T00-25_2",
+        "rank": 2,
+        "title": "Rocket Lab to test Space Force data network connection in orbit in 2027",
+        "category": "space",
+        "summary": "The company will use a Photon spacecraft to test interoperability with the Space Data Network's core infrastructure built by SpaceX The post Rocket Lab to test Space Force data network connection in orbit in 2027…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Family-of-Spacecraft-V1-sm__FillWzEyMDAsNTQzXQ.jpg?fit=1024%2C463&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/rocket-lab-to-test-space-force-data-network-connection-in-orbit-in-2027/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-19T00-25_3",
+        "rank": 3,
+        "title": "Fauci adviser David Morens pleads guilty to avoiding records requests, conspiracy to defraud government",
+        "category": "biotech",
+        "summary": "Morens said he had agreed to work to avoid public disclosures and to use his influence to advance a company's interests.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/08/GettyImages-2275181685-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/08/18/david-morens-guilty-plea-niaid-fauci-adviser/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-19T00-25_4",
+        "rank": 4,
+        "title": "Deadlines and Divine Distractions",
+        "category": "art",
+        "summary": "“I’m taken over by this impossible life of hers”",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/08/rita-p-feat-image.jpg?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/columns/deadlines-and-divine-distractions-postcard-1234757201/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-19T00-25_5",
+        "rank": 5,
+        "title": "Warehouse robotics company Brightpick expands partnership with Dr. Max Group",
+        "category": "robotics",
+        "summary": "Brightpick, a provider of AI-powered warehouse automation, is significantly expanding its partnership with Dr. Max Group, Europe’s largest pharmacy chain. Following successful operations and progressive scaling at Dr.…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/Brightpick-dr.-max-group-1.jpg.jpeg",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/18/warehouse-robotics-company-brightpick-expands-partnership-with-dr-max-group/104241/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-08-18T20-08",
     "scannedAt": "2026-08-18T20:08:44.971Z",
     "items": [

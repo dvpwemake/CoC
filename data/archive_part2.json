@@ -1,44 +1,5 @@
 [
   {
-    "batchId": "auto_2026-07-17T20-39",
-    "scannedAt": "2026-07-17T20:39:41.942Z",
-    "items": [
-      {
-        "id": "auto_2026-07-17T20-39_1",
-        "rank": 1,
-        "title": "Adolescent Brain Changes Temporarily Obscure Earlier Memories",
-        "category": "neuroscience",
-        "summary": "Late adolescence triggers a temporary destabilization of contextual memory circuits due to the targeted remodeling of perineuronal nets (PNNs) in the retrosplenial cortex (RSP).",
-        "image": "https://neurosciencenews.com/files/2026/07/adolescent-memory-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/adolescent-perineuronal-nets-memory-remodeling-31071/",
-        "imageProxy": "https://images.weserv.nl/?url=neurosciencenews.com%2Ffiles%2F2026%2F07%2Fadolescent-memory-neuroscience-1155x770.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-17T20-39_2",
-        "rank": 2,
-        "title": "NASA's Chandra and IXPE Study Pulsar in Lighthouse Nebula",
-        "category": "space",
-        "summary": "This composite image, released on July 9, 2026, shows the region around a pulsar – a neutron star with a strong magnetic field that spins incredibly fast – within the Lighthouse nebula. The image contains X-ray data…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/07/lighthouse-lg.jpg",
-        "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/image-article/nasas-chandra-and-ixpe-study-pulsar-in-lighthouse-nebula/",
-        "imageProxy": "https://images.weserv.nl/?url=www.nasa.gov%2Fwp-content%2Fuploads%2F2026%2F07%2Flighthouse-lg.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-17T20-39_5",
-        "rank": 5,
-        "title": "Quitting smoking is hard. A Medicare change may push doctors to give more help",
-        "category": "biotech",
-        "summary": "Physicians who offer counseling on quitting cigarettes and alcohol during patient visits would get a 19% increase in reimbursement under a proposed Medicare change.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/07/GettyImages-487902504-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/07/17/medicare-smoking-cessation-reimbursement-increase/?utm_campaign=rss",
-        "imageProxy": "https://images.weserv.nl/?url=www.statnews.com%2Fwp-content%2Fuploads%2F2026%2F07%2FGettyImages-487902504-1024x576.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      }
-    ]
-  },
-  {
     "batchId": "auto_2026-07-16T20-40",
     "scannedAt": "2026-07-16T20:40:52.706Z",
     "items": [
@@ -1452,5 +1413,127 @@
       }
     ],
     "batchId": "b1781194727790"
+  },
+  {
+    "scannedAt": "2026-06-10T22:55:32.976Z",
+    "items": [
+      {
+        "id": "b1781132132976_1",
+        "rank": 1,
+        "title": "Nanoscale Gold Metamaterials Supercharge Heat Transfer by 400%",
+        "category": "energy",
+        "summary": "Scientists used nanoscale gold metamaterials to supercharge heat transfer across tiny gaps, achieving up to four times more energy flow than similar conventional systems. The breakthrough could lead to better chip cooling, more efficient energy technologies, and a new era of precision heat management for data centers and electronics.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com",
+        "image": "https://www.sciencedaily.com/images/scidaily-icon.png",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2Fscidaily-icon.png&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1781132132976_2",
+        "rank": 2,
+        "title": "Tufts AI System Cuts Energy Consumption by 100x While Boosting Performance",
+        "category": "ai",
+        "summary": "Researchers at Tufts University developed a neuro-symbolic AI system that combines neural networks with human-like symbolic reasoning, slashing energy consumption by up to 100 times compared to conventional approaches while dramatically improving performance. In robotic task tests using the Tower of Hanoi puzzle, the hybrid system achieved a 95% success rate versus 34% for standard models and trained in just 34 minutes versus more than a day and a half for traditional systems.",
+        "source": "Crescendo AI",
+        "sourceUrl": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+        "image": "https://cdn.prod.website-files.com/67166bf779ba8852260f7d1f/694a731a76c9d6876ddf8a8f_latest-ai-news-and-updates.png",
+        "imageProxy": "https://images.weserv.nl/?url=cdn.prod.website-files.com%2F67166bf779ba8852260f7d1f%2F694a731a76c9d6876ddf8a8f_latest-ai-news-and-updates.png&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1781132132976_3",
+        "rank": 3,
+        "title": "Scientists Discover New Alzheimer's Target and Experimental Drug",
+        "category": "neuroscience",
+        "summary": "Researchers have identified a new Alzheimer's target and created an experimental compound that blocks a damaging process inside brain cells. In mice, the treatment slowed nerve cell loss, reduced Alzheimer's-related changes, and even appeared to reverse some symptoms in preclinical trials.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com",
+        "image": "https://www.sciencedaily.com/images/scidaily-icon.png",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2Fscidaily-icon.png&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1781132132976_4",
+        "rank": 4,
+        "title": "Breakthrough Hydrogen Production Method Uses Waste Heat",
+        "category": "energy",
+        "summary": "A breakthrough hydrogen-production method could make clean fuel far cheaper and easier to generate. Researchers at the University of Birmingham developed a perovskite-based catalyst that splits water into hydrogen at much lower temperatures than existing technologies, potentially allowing factories, steel plants, cement works, and renewable energy sites to turn waste heat into valuable hydrogen fuel.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com",
+        "image": "https://www.sciencedaily.com/images/scidaily-icon.png",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2Fscidaily-icon.png&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1781132132976_5",
+        "rank": 5,
+        "title": "First Computer-Designed Vaccine Enters Human Clinical Trials",
+        "category": "biotech",
+        "summary": "Researchers at the University of Cambridge and DIOSynVax report the first human clinical trial of a vaccine whose active component was designed entirely by computer simulations. This represents a major milestone in computational drug design and could accelerate vaccine development for future pandemics.",
+        "source": "Wikipedia - 2026 in Science",
+        "sourceUrl": "https://en.wikipedia.org/wiki/2026_in_science",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Artemis_2_Crew_Portrait.jpg/960px-Artemis_2_Crew_Portrait.jpg",
+        "imageProxy": "https://images.weserv.nl/?url=upload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fe%2Fe5%2FArtemis_2_Crew_Portrait.jpg%2F960px-Artemis_2_Crew_Portrait.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      }
+    ],
+    "batchId": "b1781132132976"
+  },
+  {
+    "scannedAt": "2026-06-10T18:40:54.500Z",
+    "items": [
+      {
+        "id": "b1781116854500_1",
+        "rank": 1,
+        "title": "Venus Aerospace Selected as 2026 Technology Pioneer for Revolutionary Rocket Engine",
+        "category": "space",
+        "summary": "Venus Aerospace has been selected for the World Economic Forum's 2026 Technology Pioneers cohort for their rotating detonation rocket engine (RDRE) technology. The RDRE replaces traditional combustion with controlled detonation to burn fuel more efficiently, offering breakthrough capabilities for defense, space missions, and future high-speed flight applications.",
+        "source": "PR Newswire",
+        "sourceUrl": "https://www.prnewswire.com/news-releases/venus-aerospace-selected-as-a-2026-technology-pioneer-by-the-world-economic-forum-302795923.html",
+        "image": "https://mmx.prnewswire.com/media/MS1389807/Venus_Aerospace_logo_NEW.jpg?id=OA2694872&p=facebook",
+        "imageProxy": "https://images.weserv.nl/?url=mmx.prnewswire.com%2Fmedia%2FMS1389807%2FVenus_Aerospace_logo_NEW.jpg%3Fid%3DOA2694872%26p%3Dfacebook&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1781116854500_2",
+        "rank": 2,
+        "title": "MIT Develops Chip Cooling Technology Using AI While Studying Fake News Detection",
+        "category": "ai",
+        "summary": "MIT researchers have founded Ferveret, a company that reduces energy and water required to cool AI chips, addressing a critical infrastructure need. Additionally, a Media Lab study reveals that AI assistance can make people worse at detecting fake news, similar to how GPS has weakened navigation skills.",
+        "source": "MIT News",
+        "sourceUrl": "https://news.mit.edu/topic/artificial-intelligence2",
+        "image": "https://news.mit.edu/themes/mit/src/img/placeholder/placeholder--frontpage--featured-news.jpg",
+        "imageProxy": "https://images.weserv.nl/?url=news.mit.edu%2Fthemes%2Fmit%2Fsrc%2Fimg%2Fplaceholder%2Fplaceholder--frontpage--featured-news.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1781116854500_3",
+        "rank": 3,
+        "title": "Revolutionary Hydrogen Production Method Converts Waste Heat to Clean Fuel",
+        "category": "energy",
+        "summary": "Researchers at the University of Birmingham developed a perovskite-based catalyst that splits water into hydrogen at much lower temperatures than existing technologies. This breakthrough could allow factories, steel plants, cement works, and renewable energy sites to turn waste heat into valuable hydrogen fuel.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260601025345.htm",
+        "image": "https://www.sciencedaily.com/images/1920/green-energy-hydrogen-pipelines-wind-turbines.webp",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fgreen-energy-hydrogen-pipelines-wind-turbines.webp&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1781116854500_4",
+        "rank": 4,
+        "title": "Figure AI Achieves Major Robotics Production Milestone at 1 Robot Per Hour",
+        "category": "robotics",
+        "summary": "Figure AI has achieved a major production milestone with its BotQ factory now producing Figure 03 humanoid robots at 1 robot per hour, while Boston Dynamics' electric Atlas begins initial deployments to Hyundai and DeepMind partners.",
+        "source": "Humanoid Press",
+        "sourceUrl": "https://www.humanoid.press/",
+        "image": "https://www.humanoid.press/gallery_gen/c042cb32c60c76b72b25c8f8cf975ac8_fit.jpg",
+        "imageProxy": "https://images.weserv.nl/?url=www.humanoid.press%2Fgallery_gen%2Fc042cb32c60c76b72b25c8f8cf975ac8_fit.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1781116854500_5",
+        "rank": 5,
+        "title": "First Participant Treated in Landmark Cellular Reprogramming Trial for Aging",
+        "category": "biotech",
+        "summary": "The first participant has been treated in a landmark clinical trial of cellular reprogramming, which aims to rejuvenate aging cells. This represents a significant milestone in anti-aging biotechnology research.",
+        "source": "Nature",
+        "sourceUrl": "https://www.nature.com/news",
+        "image": "https://media.nature.com/w768/magazine-assets/d41586-026-01819-8/d41586-026-01819-8_52516030.jpg",
+        "imageProxy": "https://images.weserv.nl/?url=media.nature.com%2Fw768%2Fmagazine-assets%2Fd41586-026-01819-8%2Fd41586-026-01819-8_52516030.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      }
+    ],
+    "batchId": "b1781116854500"
   }
 ]

@@ -3334,40 +3334,98 @@
       "status": "draft",
       "draftKind": "outline",
       "createdAt": "2026-08-18T02:17:34.998Z",
-      "updatedAt": "2026-08-18T20:08:45.021Z",
+      "updatedAt": "2026-08-19T00:25:36.082Z",
       "title": "Editorial brief — 2026-08-18",
       "dek": "Outline of selected article titles and key points for admin to write the final editorial.",
-      "body": "EDITORIAL BRIEF (outline only — not for publication as-is)\nPublish date: 2026-08-18\nInstruction: Use the titles and key points below to write the final ~300-word CoC editorial. Replace this entire brief with your finished prose before publishing.\n\n— Selected articles of the day (12) —\n\n1. [Art] Dark Emotions Evoke Growth in Alejandro Aguliar Canela's Graphite Drawings\n   Source: Colossal\n   URL: https://www.thisiscolossal.com/2026/08/alejandro-aguliar-canela-graphite-drawings/\n   Key points:\n   • \"It’s more about not discarding what might be considered unwanted, but instead finding some use for it,\" says the artist.\n   • Do stories and artists like this matter to you?\n   • Become a Colossal Member today and support…\n\n2. [Biotech] Trump administration sued over visa time limit that would affect grad students, postdocs\n   Source: STAT News\n   URL: https://www.statnews.com/2026/08/18/dhs-sued-over-visa-time-limit-for-foreign-students/?utm_campaign=rss\n   Key points:\n   • DHS was sued Tuesday over a sweeping policy change that would limit how long foreign students and scholars can remain in the U.S.\n\n3. [General] Tech Life\n   Source: BBC Technology\n   URL: https://www.bbc.co.uk/sounds/play/w3ct8jy9?at_medium=RSS&at_campaign=rss\n   Key points:\n   • Vapour trails from aircraft contribute to warming in the atmosphere.\n\n4. [Robotics] FORT Robotics to go public via business combination with Newbury Street II Acquisition Corp\n   Source: Robotics & Automation News\n   URL: https://roboticsandautomationnews.com/2026/08/18/fort-robotics-to-go-public-via-business-combination-with-newbury-street-ii-acquisition-corp/104238/\n   Key points:\n   • FORT Robotics, a safety platform developing a “trust layer” for physical AI, and Newbury Street II Acquisition Corp, a special purpose acquisition company, have entered into a definitive business combination agreement…\n\n5. [Space] NASA’s LRO Images Falcon 9 Crater on Moon, Learns New Details\n   Source: NASA\n   URL: https://science.nasa.gov/solar-system/moon/nasas-lro-images-falcon-9-crater-on-moon-learns-new-details/\n   Key points:\n   • 11 and 12, NASA’s Lunar Reconnaissance Orbiter (LRO) captured a series of images of a new crater on the Moon.\n   • 5, when a SpaceX Falcon 9 upper stage impacted the surface following…\n\n6. [Art] Brett Littman to Lead Museum of Contemporary Art San Diego\n   Source: Artforum\n   URL: https://www.artforum.com/news/brett-littman-to-helm-museum-of-contemporary-art-san-diego-1234757138/\n   Key points:\n   • The Museum of Contemporary Art San Diego (MCASD) has announced Brett Littman as its new director and CEO.\n   • From 2018 to 2023, Littman served as director of the Noguchi Museum in Long Island City, New York.\n\n7. [Biotech] STAT+: Sanofi to lay off 229 workers in Mass., a year after $9.1B Blueprint Medicines acquisition\n   Source: STAT News\n   URL: https://www.statnews.com/2026/08/17/sanofi-layoffs-mass-blueprint-medicines/?utm_campaign=rss\n   Key points:\n   • Sanofi, one of the Massachusetts' largest pharmaceutical employers, will lay off more than 200 workers there a year after acquiring Blueprint Medicines.\n\n8. [General] Supreme Court rejects Verizon bid for $47 million refund of FCC fine\n   Source: Ars Technica\n   URL: https://arstechnica.com/tech-policy/2026/08/supreme-court-rejects-verizon-bid-for-47-million-refund-of-fcc-fine/\n   Key points:\n   • Despite loss, carriers still claim selling device-location data isn't illegal.\n\n9. [Robotics] Interview with Lattice Semiconductor’s Karl Wachswender: ‘Parallel processing enables more powerful edge AI’\n   Source: Robotics & Automation News\n   URL: https://roboticsandautomationnews.com/2026/08/17/interview-with-lattice-semiconductors-karl-wachswender-parallel-processing-enables-more-powerful-edge-ai/104215/\n   Key points:\n   • As robots become more intelligent, autonomous and connected, much of the attention naturally falls on increasingly powerful AI models.\n   • But underneath those models is an increasingly complex collection of sensors,…\n\n10. [Space] NASA Mission Studies Air Pollution Over Ethiopia\n   Source: NASA\n   URL: https://www.nasa.gov/missions/maia/nasa-mission-studies-air-pollution-over-ethiopia/\n   Key points:\n   • A NASA-funded air pollution monitoring network has provided one of the most detailed long-term views yet of the role of black carbon, or soot produced by fires, diesel vehicles, and other combustion sources, in…\n\n11. [Art] Artist Builds Free-To-Play Video Game Replica Of Michael Heizer’s City\n   Source: Artforum\n   URL: https://www.artforum.com/news/artist-builds-free-to-play-vreplica-of-michael-heizer-city-1234757035/\n   Key points:\n   • Digital artist Lily Belmira has created a free video game that recreates the environment of Michael Heizer’s monumental land art sculpture City, 1970–2022, in the Nevada desert.\n   • Belmira, who is based in Tulsa, Oklahoma,…\n\n12. [Biotech] STAT+: Up and down the ladder: The latest comings and goings\n   Source: STAT News\n   URL: https://www.statnews.com/pharmalot/2026/08/14/up-down-ladder-latest-comings-goings-jobs/?utm_campaign=rss\n   Key points:\n   • From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.\n\n— Categories present —\nArt · Biotech · General · Robotics · Space\n\n— Admin checklist —\n• Draft original title + dek (vary form: not always What… / Convergence of…)\n• Write body (~280–320 words) in CoC voice\n• Select hero from selected-article head image thumbnails (or paste URL)\n• Mark published when ready",
+      "body": "EDITORIAL BRIEF (outline only — not for publication as-is)\nPublish date: 2026-08-18\nInstruction: Use the titles and key points below to write the final ~300-word CoC editorial. Replace this entire brief with your finished prose before publishing.\n\n— Selected articles of the day (12) —\n\n1. [Art] Deadlines and Divine Distractions\n   Source: Artforum\n   URL: https://www.artforum.com/columns/deadlines-and-divine-distractions-postcard-1234757201/\n   Key points:\n   • “I’m taken over by this impossible life of hers”\n\n2. [Biotech] Fauci adviser David Morens pleads guilty to avoiding records requests, conspiracy to defraud government\n   Source: STAT News\n   URL: https://www.statnews.com/2026/08/18/david-morens-guilty-plea-niaid-fauci-adviser/?utm_campaign=rss\n   Key points:\n   • Morens said he had agreed to work to avoid public disclosures and to use his influence to advance a company's interests.\n\n3. [General] Silicon Valley Executives Are Tech Fans. Just Not For Their Own Kids.\n   Source: NYT Technology\n   URL: https://www.nytimes.com/2026/08/18/technology/silicon-valley-tech-fans-children.html\n   Key points:\n   • At home, moderation and restraint are the rule for tech parents.\n   • Maybe they’re onto something.\n\n4. [Robotics] Warehouse robotics company Brightpick expands partnership with Dr. Max Group\n   Source: Robotics & Automation News\n   URL: https://roboticsandautomationnews.com/2026/08/18/warehouse-robotics-company-brightpick-expands-partnership-with-dr-max-group/104241/\n   Key points:\n   • Brightpick, a provider of AI-powered warehouse automation, is significantly expanding its partnership with Dr.\n   • Max Group, Europe’s largest pharmacy chain.\n   • Following successful operations and progressive scaling at Dr.…\n\n5. [Space] Rocket Lab to test Space Force data network connection in orbit in 2027\n   Source: SpaceNews\n   URL: https://spacenews.com/rocket-lab-to-test-space-force-data-network-connection-in-orbit-in-2027/\n   Key points:\n   • The company will use a Photon spacecraft to test interoperability with the Space Data Network's core infrastructure built by SpaceX The post Rocket Lab to test Space Force data network connection in orbit in 2027…\n\n6. [Art] Dark Emotions Evoke Growth in Alejandro Aguliar Canela's Graphite Drawings\n   Source: Colossal\n   URL: https://www.thisiscolossal.com/2026/08/alejandro-aguliar-canela-graphite-drawings/\n   Key points:\n   • \"It’s more about not discarding what might be considered unwanted, but instead finding some use for it,\" says the artist.\n   • Do stories and artists like this matter to you?\n   • Become a Colossal Member today and support…\n\n7. [Biotech] Trump administration sued over visa time limit that would affect grad students, postdocs\n   Source: STAT News\n   URL: https://www.statnews.com/2026/08/18/dhs-sued-over-visa-time-limit-for-foreign-students/?utm_campaign=rss\n   Key points:\n   • DHS was sued Tuesday over a sweeping policy change that would limit how long foreign students and scholars can remain in the U.S.\n\n8. [General] Tech Life\n   Source: BBC Technology\n   URL: https://www.bbc.co.uk/sounds/play/w3ct8jy9?at_medium=RSS&at_campaign=rss\n   Key points:\n   • Vapour trails from aircraft contribute to warming in the atmosphere.\n\n9. [Robotics] FORT Robotics to go public via business combination with Newbury Street II Acquisition Corp\n   Source: Robotics & Automation News\n   URL: https://roboticsandautomationnews.com/2026/08/18/fort-robotics-to-go-public-via-business-combination-with-newbury-street-ii-acquisition-corp/104238/\n   Key points:\n   • FORT Robotics, a safety platform developing a “trust layer” for physical AI, and Newbury Street II Acquisition Corp, a special purpose acquisition company, have entered into a definitive business combination agreement…\n\n10. [Space] NASA’s LRO Images Falcon 9 Crater on Moon, Learns New Details\n   Source: NASA\n   URL: https://science.nasa.gov/solar-system/moon/nasas-lro-images-falcon-9-crater-on-moon-learns-new-details/\n   Key points:\n   • 11 and 12, NASA’s Lunar Reconnaissance Orbiter (LRO) captured a series of images of a new crater on the Moon.\n   • 5, when a SpaceX Falcon 9 upper stage impacted the surface following…\n\n11. [Art] Brett Littman to Lead Museum of Contemporary Art San Diego\n   Source: Artforum\n   URL: https://www.artforum.com/news/brett-littman-to-helm-museum-of-contemporary-art-san-diego-1234757138/\n   Key points:\n   • The Museum of Contemporary Art San Diego (MCASD) has announced Brett Littman as its new director and CEO.\n   • From 2018 to 2023, Littman served as director of the Noguchi Museum in Long Island City, New York.\n\n12. [Biotech] STAT+: Sanofi to lay off 229 workers in Mass., a year after $9.1B Blueprint Medicines acquisition\n   Source: STAT News\n   URL: https://www.statnews.com/2026/08/17/sanofi-layoffs-mass-blueprint-medicines/?utm_campaign=rss\n   Key points:\n   • Sanofi, one of the Massachusetts' largest pharmaceutical employers, will lay off more than 200 workers there a year after acquiring Blueprint Medicines.\n\n— Categories present —\nArt · Biotech · General · Robotics · Space\n\n— Admin checklist —\n• Draft original title + dek (vary form: not always What… / Convergence of…)\n• Write body (~280–320 words) in CoC voice\n• Select hero from selected-article head image thumbnails (or paste URL)\n• Mark published when ready",
       "paragraphs": [
         "EDITORIAL BRIEF (outline only — not for publication as-is)\nPublish date: 2026-08-18\nInstruction: Use the titles and key points below to write the final ~300-word CoC editorial. Replace this entire brief with your finished prose before publishing.",
         "— Selected articles of the day (12) —",
-        "1. [Art] Dark Emotions Evoke Growth in Alejandro Aguliar Canela's Graphite Drawings\n   Source: Colossal\n   URL: https://www.thisiscolossal.com/2026/08/alejandro-aguliar-canela-graphite-drawings/\n   Key points:\n   • \"It’s more about not discarding what might be considered unwanted, but instead finding some use for it,\" says the artist.\n   • Do stories and artists like this matter to you?\n   • Become a Colossal Member today and support…",
-        "2. [Biotech] Trump administration sued over visa time limit that would affect grad students, postdocs\n   Source: STAT News\n   URL: https://www.statnews.com/2026/08/18/dhs-sued-over-visa-time-limit-for-foreign-students/?utm_campaign=rss\n   Key points:\n   • DHS was sued Tuesday over a sweeping policy change that would limit how long foreign students and scholars can remain in the U.S.",
-        "3. [General] Tech Life\n   Source: BBC Technology\n   URL: https://www.bbc.co.uk/sounds/play/w3ct8jy9?at_medium=RSS&at_campaign=rss\n   Key points:\n   • Vapour trails from aircraft contribute to warming in the atmosphere.",
-        "4. [Robotics] FORT Robotics to go public via business combination with Newbury Street II Acquisition Corp\n   Source: Robotics & Automation News\n   URL: https://roboticsandautomationnews.com/2026/08/18/fort-robotics-to-go-public-via-business-combination-with-newbury-street-ii-acquisition-corp/104238/\n   Key points:\n   • FORT Robotics, a safety platform developing a “trust layer” for physical AI, and Newbury Street II Acquisition Corp, a special purpose acquisition company, have entered into a definitive business combination agreement…",
-        "5. [Space] NASA’s LRO Images Falcon 9 Crater on Moon, Learns New Details\n   Source: NASA\n   URL: https://science.nasa.gov/solar-system/moon/nasas-lro-images-falcon-9-crater-on-moon-learns-new-details/\n   Key points:\n   • 11 and 12, NASA’s Lunar Reconnaissance Orbiter (LRO) captured a series of images of a new crater on the Moon.\n   • 5, when a SpaceX Falcon 9 upper stage impacted the surface following…",
-        "6. [Art] Brett Littman to Lead Museum of Contemporary Art San Diego\n   Source: Artforum\n   URL: https://www.artforum.com/news/brett-littman-to-helm-museum-of-contemporary-art-san-diego-1234757138/\n   Key points:\n   • The Museum of Contemporary Art San Diego (MCASD) has announced Brett Littman as its new director and CEO.\n   • From 2018 to 2023, Littman served as director of the Noguchi Museum in Long Island City, New York.",
-        "7. [Biotech] STAT+: Sanofi to lay off 229 workers in Mass., a year after $9.1B Blueprint Medicines acquisition\n   Source: STAT News\n   URL: https://www.statnews.com/2026/08/17/sanofi-layoffs-mass-blueprint-medicines/?utm_campaign=rss\n   Key points:\n   • Sanofi, one of the Massachusetts' largest pharmaceutical employers, will lay off more than 200 workers there a year after acquiring Blueprint Medicines.",
-        "8. [General] Supreme Court rejects Verizon bid for $47 million refund of FCC fine\n   Source: Ars Technica\n   URL: https://arstechnica.com/tech-policy/2026/08/supreme-court-rejects-verizon-bid-for-47-million-refund-of-fcc-fine/\n   Key points:\n   • Despite loss, carriers still claim selling device-location data isn't illegal.",
-        "9. [Robotics] Interview with Lattice Semiconductor’s Karl Wachswender: ‘Parallel processing enables more powerful edge AI’\n   Source: Robotics & Automation News\n   URL: https://roboticsandautomationnews.com/2026/08/17/interview-with-lattice-semiconductors-karl-wachswender-parallel-processing-enables-more-powerful-edge-ai/104215/\n   Key points:\n   • As robots become more intelligent, autonomous and connected, much of the attention naturally falls on increasingly powerful AI models.\n   • But underneath those models is an increasingly complex collection of sensors,…",
-        "10. [Space] NASA Mission Studies Air Pollution Over Ethiopia\n   Source: NASA\n   URL: https://www.nasa.gov/missions/maia/nasa-mission-studies-air-pollution-over-ethiopia/\n   Key points:\n   • A NASA-funded air pollution monitoring network has provided one of the most detailed long-term views yet of the role of black carbon, or soot produced by fires, diesel vehicles, and other combustion sources, in…",
-        "11. [Art] Artist Builds Free-To-Play Video Game Replica Of Michael Heizer’s City\n   Source: Artforum\n   URL: https://www.artforum.com/news/artist-builds-free-to-play-vreplica-of-michael-heizer-city-1234757035/\n   Key points:\n   • Digital artist Lily Belmira has created a free video game that recreates the environment of Michael Heizer’s monumental land art sculpture City, 1970–2022, in the Nevada desert.\n   • Belmira, who is based in Tulsa, Oklahoma,…",
-        "12. [Biotech] STAT+: Up and down the ladder: The latest comings and goings\n   Source: STAT News\n   URL: https://www.statnews.com/pharmalot/2026/08/14/up-down-ladder-latest-comings-goings-jobs/?utm_campaign=rss\n   Key points:\n   • From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.",
+        "1. [Art] Deadlines and Divine Distractions\n   Source: Artforum\n   URL: https://www.artforum.com/columns/deadlines-and-divine-distractions-postcard-1234757201/\n   Key points:\n   • “I’m taken over by this impossible life of hers”",
+        "2. [Biotech] Fauci adviser David Morens pleads guilty to avoiding records requests, conspiracy to defraud government\n   Source: STAT News\n   URL: https://www.statnews.com/2026/08/18/david-morens-guilty-plea-niaid-fauci-adviser/?utm_campaign=rss\n   Key points:\n   • Morens said he had agreed to work to avoid public disclosures and to use his influence to advance a company's interests.",
+        "3. [General] Silicon Valley Executives Are Tech Fans. Just Not For Their Own Kids.\n   Source: NYT Technology\n   URL: https://www.nytimes.com/2026/08/18/technology/silicon-valley-tech-fans-children.html\n   Key points:\n   • At home, moderation and restraint are the rule for tech parents.\n   • Maybe they’re onto something.",
+        "4. [Robotics] Warehouse robotics company Brightpick expands partnership with Dr. Max Group\n   Source: Robotics & Automation News\n   URL: https://roboticsandautomationnews.com/2026/08/18/warehouse-robotics-company-brightpick-expands-partnership-with-dr-max-group/104241/\n   Key points:\n   • Brightpick, a provider of AI-powered warehouse automation, is significantly expanding its partnership with Dr.\n   • Max Group, Europe’s largest pharmacy chain.\n   • Following successful operations and progressive scaling at Dr.…",
+        "5. [Space] Rocket Lab to test Space Force data network connection in orbit in 2027\n   Source: SpaceNews\n   URL: https://spacenews.com/rocket-lab-to-test-space-force-data-network-connection-in-orbit-in-2027/\n   Key points:\n   • The company will use a Photon spacecraft to test interoperability with the Space Data Network's core infrastructure built by SpaceX The post Rocket Lab to test Space Force data network connection in orbit in 2027…",
+        "6. [Art] Dark Emotions Evoke Growth in Alejandro Aguliar Canela's Graphite Drawings\n   Source: Colossal\n   URL: https://www.thisiscolossal.com/2026/08/alejandro-aguliar-canela-graphite-drawings/\n   Key points:\n   • \"It’s more about not discarding what might be considered unwanted, but instead finding some use for it,\" says the artist.\n   • Do stories and artists like this matter to you?\n   • Become a Colossal Member today and support…",
+        "7. [Biotech] Trump administration sued over visa time limit that would affect grad students, postdocs\n   Source: STAT News\n   URL: https://www.statnews.com/2026/08/18/dhs-sued-over-visa-time-limit-for-foreign-students/?utm_campaign=rss\n   Key points:\n   • DHS was sued Tuesday over a sweeping policy change that would limit how long foreign students and scholars can remain in the U.S.",
+        "8. [General] Tech Life\n   Source: BBC Technology\n   URL: https://www.bbc.co.uk/sounds/play/w3ct8jy9?at_medium=RSS&at_campaign=rss\n   Key points:\n   • Vapour trails from aircraft contribute to warming in the atmosphere.",
+        "9. [Robotics] FORT Robotics to go public via business combination with Newbury Street II Acquisition Corp\n   Source: Robotics & Automation News\n   URL: https://roboticsandautomationnews.com/2026/08/18/fort-robotics-to-go-public-via-business-combination-with-newbury-street-ii-acquisition-corp/104238/\n   Key points:\n   • FORT Robotics, a safety platform developing a “trust layer” for physical AI, and Newbury Street II Acquisition Corp, a special purpose acquisition company, have entered into a definitive business combination agreement…",
+        "10. [Space] NASA’s LRO Images Falcon 9 Crater on Moon, Learns New Details\n   Source: NASA\n   URL: https://science.nasa.gov/solar-system/moon/nasas-lro-images-falcon-9-crater-on-moon-learns-new-details/\n   Key points:\n   • 11 and 12, NASA’s Lunar Reconnaissance Orbiter (LRO) captured a series of images of a new crater on the Moon.\n   • 5, when a SpaceX Falcon 9 upper stage impacted the surface following…",
+        "11. [Art] Brett Littman to Lead Museum of Contemporary Art San Diego\n   Source: Artforum\n   URL: https://www.artforum.com/news/brett-littman-to-helm-museum-of-contemporary-art-san-diego-1234757138/\n   Key points:\n   • The Museum of Contemporary Art San Diego (MCASD) has announced Brett Littman as its new director and CEO.\n   • From 2018 to 2023, Littman served as director of the Noguchi Museum in Long Island City, New York.",
+        "12. [Biotech] STAT+: Sanofi to lay off 229 workers in Mass., a year after $9.1B Blueprint Medicines acquisition\n   Source: STAT News\n   URL: https://www.statnews.com/2026/08/17/sanofi-layoffs-mass-blueprint-medicines/?utm_campaign=rss\n   Key points:\n   • Sanofi, one of the Massachusetts' largest pharmaceutical employers, will lay off more than 200 workers there a year after acquiring Blueprint Medicines.",
         "— Categories present —\nArt · Biotech · General · Robotics · Space",
         "— Admin checklist —\n• Draft original title + dek (vary form: not always What… / Convergence of…)\n• Write body (~280–320 words) in CoC voice\n• Select hero from selected-article head image thumbnails (or paste URL)\n• Mark published when ready"
       ],
-      "wordCount": 671,
+      "wordCount": 653,
       "themeId": "outline",
       "themeLabel": "Admin outline (titles + key points)",
       "formId": "outline_brief",
       "formLabel": "outline brief",
       "authorName": "Dr. Wallace Lynch",
       "authorTitle": "Editor in Chief",
-      "heroImage": "https://www.thisiscolossal.com/wp-content/uploads/2026/08/canela-5.jpg",
-      "heroCredit": "Dark Emotions Evoke Growth in Alejandro Aguliar Canela's Graphite Drawings",
-      "heroSource": "Colossal",
-      "heroSourceUrl": "https://www.thisiscolossal.com/2026/08/alejandro-aguliar-canela-graphite-drawings/",
+      "heroImage": "https://www.artforum.com/wp-content/uploads/2026/08/rita-p-feat-image.jpg?w=650",
+      "heroCredit": "Deadlines and Divine Distractions",
+      "heroSource": "Artforum",
+      "heroSourceUrl": "https://www.artforum.com/columns/deadlines-and-divine-distractions-postcard-1234757201/",
       "headlines": [
+        {
+          "title": "Deadlines and Divine Distractions",
+          "source": "Artforum",
+          "category": "art",
+          "sourceUrl": "https://www.artforum.com/columns/deadlines-and-divine-distractions-postcard-1234757201/",
+          "summary": "“I’m taken over by this impossible life of hers”",
+          "image": "https://www.artforum.com/wp-content/uploads/2026/08/rita-p-feat-image.jpg?w=650",
+          "keyPoints": [
+            "“I’m taken over by this impossible life of hers”"
+          ]
+        },
+        {
+          "title": "Fauci adviser David Morens pleads guilty to avoiding records requests, conspiracy to defraud government",
+          "source": "STAT News",
+          "category": "biotech",
+          "sourceUrl": "https://www.statnews.com/2026/08/18/david-morens-guilty-plea-niaid-fauci-adviser/?utm_campaign=rss",
+          "summary": "Morens said he had agreed to work to avoid public disclosures and to use his influence to advance a company's interests.",
+          "image": "https://www.statnews.com/wp-content/uploads/2026/08/GettyImages-2275181685-1024x576.jpg",
+          "keyPoints": [
+            "Morens said he had agreed to work to avoid public disclosures and to use his influence to advance a company's interests."
+          ]
+        },
+        {
+          "title": "Silicon Valley Executives Are Tech Fans. Just Not For Their Own Kids.",
+          "source": "NYT Technology",
+          "category": "general",
+          "sourceUrl": "https://www.nytimes.com/2026/08/18/technology/silicon-valley-tech-fans-children.html",
+          "summary": "At home, moderation and restraint are the rule for tech parents. Boredom is exalted. Maybe they’re onto something.",
+          "image": "https://static01.nyt.com/images/2026/08/18/business/00biz-tech-kids/00biz-tech-kids-mediumSquareAt3X-v2.jpg",
+          "keyPoints": [
+            "At home, moderation and restraint are the rule for tech parents.",
+            "Maybe they’re onto something."
+          ]
+        },
+        {
+          "title": "Warehouse robotics company Brightpick expands partnership with Dr. Max Group",
+          "source": "Robotics & Automation News",
+          "category": "robotics",
+          "sourceUrl": "https://roboticsandautomationnews.com/2026/08/18/warehouse-robotics-company-brightpick-expands-partnership-with-dr-max-group/104241/",
+          "summary": "Brightpick, a provider of AI-powered warehouse automation, is significantly expanding its partnership with Dr. Max Group, Europe’s largest pharmacy chain. Following successful operations and progressive scaling at Dr.…",
+          "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/Brightpick-dr.-max-group-1.jpg.jpeg",
+          "keyPoints": [
+            "Brightpick, a provider of AI-powered warehouse automation, is significantly expanding its partnership with Dr.",
+            "Max Group, Europe’s largest pharmacy chain.",
+            "Following successful operations and progressive scaling at Dr.…"
+          ]
+        },
+        {
+          "title": "Rocket Lab to test Space Force data network connection in orbit in 2027",
+          "source": "SpaceNews",
+          "category": "space",
+          "sourceUrl": "https://spacenews.com/rocket-lab-to-test-space-force-data-network-connection-in-orbit-in-2027/",
+          "summary": "The company will use a Photon spacecraft to test interoperability with the Space Data Network's core infrastructure built by SpaceX The post Rocket Lab to test Space Force data network connection in orbit in 2027…",
+          "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Family-of-Spacecraft-V1-sm__FillWzEyMDAsNTQzXQ.jpg?fit=1024%2C463&ssl=1",
+          "keyPoints": [
+            "The company will use a Photon spacecraft to test interoperability with the Space Data Network's core infrastructure built by SpaceX The post Rocket Lab to test Space Force data network connection in orbit in 2027…"
+          ]
+        },
         {
           "title": "Dark Emotions Evoke Growth in Alejandro Aguliar Canela's Graphite Drawings",
           "source": "Colossal",
@@ -3447,63 +3505,6 @@
           "image": "https://www.statnews.com/wp-content/uploads/2026/07/GettyImages-2281597952-1024x576.jpg",
           "keyPoints": [
             "Sanofi, one of the Massachusetts' largest pharmaceutical employers, will lay off more than 200 workers there a year after acquiring Blueprint Medicines."
-          ]
-        },
-        {
-          "title": "Supreme Court rejects Verizon bid for $47 million refund of FCC fine",
-          "source": "Ars Technica",
-          "category": "general",
-          "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/supreme-court-rejects-verizon-bid-for-47-million-refund-of-fcc-fine/",
-          "summary": "Despite loss, carriers still claim selling device-location data isn't illegal.",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/verizon-stock-ticker-1152x648-1786994944.jpg",
-          "keyPoints": [
-            "Despite loss, carriers still claim selling device-location data isn't illegal."
-          ]
-        },
-        {
-          "title": "Interview with Lattice Semiconductor’s Karl Wachswender: ‘Parallel processing enables more powerful edge AI’",
-          "source": "Robotics & Automation News",
-          "category": "robotics",
-          "sourceUrl": "https://roboticsandautomationnews.com/2026/08/17/interview-with-lattice-semiconductors-karl-wachswender-parallel-processing-enables-more-powerful-edge-ai/104215/",
-          "summary": "As robots become more intelligent, autonomous and connected, much of the attention naturally falls on increasingly powerful AI models. But underneath those models is an increasingly complex collection of sensors,…",
-          "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/Lattice-Image-3.png",
-          "keyPoints": [
-            "As robots become more intelligent, autonomous and connected, much of the attention naturally falls on increasingly powerful AI models.",
-            "But underneath those models is an increasingly complex collection of sensors,…"
-          ]
-        },
-        {
-          "title": "NASA Mission Studies Air Pollution Over Ethiopia",
-          "source": "NASA",
-          "category": "space",
-          "sourceUrl": "https://www.nasa.gov/missions/maia/nasa-mission-studies-air-pollution-over-ethiopia/",
-          "summary": "A NASA-funded air pollution monitoring network has provided one of the most detailed long-term views yet of the role of black carbon, or soot produced by fires, diesel vehicles, and other combustion sources, in…",
-          "image": "https://www.nasa.gov/wp-content/uploads/2026/08/1-addis-ababa-city-view.jpg",
-          "keyPoints": [
-            "A NASA-funded air pollution monitoring network has provided one of the most detailed long-term views yet of the role of black carbon, or soot produced by fires, diesel vehicles, and other combustion sources, in…"
-          ]
-        },
-        {
-          "title": "Artist Builds Free-To-Play Video Game Replica Of Michael Heizer’s City",
-          "source": "Artforum",
-          "category": "art",
-          "sourceUrl": "https://www.artforum.com/news/artist-builds-free-to-play-vreplica-of-michael-heizer-city-1234757035/",
-          "summary": "Digital artist Lily Belmira has created a free video game that recreates the environment of Michael Heizer’s monumental land art sculpture City, 1970–2022, in the Nevada desert. Belmira, who is based in Tulsa, Oklahoma,…",
-          "image": "https://www.artforum.com/wp-content/uploads/2026/08/city5.png?w=650",
-          "keyPoints": [
-            "Digital artist Lily Belmira has created a free video game that recreates the environment of Michael Heizer’s monumental land art sculpture City, 1970–2022, in the Nevada desert.",
-            "Belmira, who is based in Tulsa, Oklahoma,…"
-          ]
-        },
-        {
-          "title": "STAT+: Up and down the ladder: The latest comings and goings",
-          "source": "STAT News",
-          "category": "biotech",
-          "sourceUrl": "https://www.statnews.com/pharmalot/2026/08/14/up-down-ladder-latest-comings-goings-jobs/?utm_campaign=rss",
-          "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.",
-          "image": "https://www.statnews.com/wp-content/uploads/2021/03/Pharmalot_ComingGoing_STILL-1024x576.jpg",
-          "keyPoints": [
-            "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry."
           ]
         }
       ]
@@ -5925,6 +5926,7 @@
     "https://img.canarymedia.com/content/uploads/Xavier-Becerra-in-LA-in-January_GettyImages-2280179810.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=ffcd4889fc5b1e429297f2195bfde77c",
     "https://cdn.sanity.io/images/cxgd3urn/production/4b813ed35a3c9eb51ba25a68024a668d3d7c31ba-4134x3100.jpg?w=140",
     "https://artsy-media-uploads.s3.amazonaws.com/NhpFx43TbmBvUyoYvexOPg%2FVF0926_DigitalCover_1500x1000.jpg",
-    "https://www.thisiscolossal.com/wp-content/uploads/2026/08/canela-5.jpg"
+    "https://www.thisiscolossal.com/wp-content/uploads/2026/08/canela-5.jpg",
+    "https://www.artforum.com/wp-content/uploads/2026/08/rita-p-feat-image.jpg?w=650"
   ]
 }
