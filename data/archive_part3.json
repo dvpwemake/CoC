@@ -1,5 +1,66 @@
 [
   {
+    "scannedAt": "2026-06-10T18:40:54.500Z",
+    "items": [
+      {
+        "id": "b1781116854500_1",
+        "rank": 1,
+        "title": "Venus Aerospace Selected as 2026 Technology Pioneer for Revolutionary Rocket Engine",
+        "category": "space",
+        "summary": "Venus Aerospace has been selected for the World Economic Forum's 2026 Technology Pioneers cohort for their rotating detonation rocket engine (RDRE) technology. The RDRE replaces traditional combustion with controlled detonation to burn fuel more efficiently, offering breakthrough capabilities for defense, space missions, and future high-speed flight applications.",
+        "source": "PR Newswire",
+        "sourceUrl": "https://www.prnewswire.com/news-releases/venus-aerospace-selected-as-a-2026-technology-pioneer-by-the-world-economic-forum-302795923.html",
+        "image": "https://mmx.prnewswire.com/media/MS1389807/Venus_Aerospace_logo_NEW.jpg?id=OA2694872&p=facebook",
+        "imageProxy": "https://images.weserv.nl/?url=mmx.prnewswire.com%2Fmedia%2FMS1389807%2FVenus_Aerospace_logo_NEW.jpg%3Fid%3DOA2694872%26p%3Dfacebook&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1781116854500_2",
+        "rank": 2,
+        "title": "MIT Develops Chip Cooling Technology Using AI While Studying Fake News Detection",
+        "category": "ai",
+        "summary": "MIT researchers have founded Ferveret, a company that reduces energy and water required to cool AI chips, addressing a critical infrastructure need. Additionally, a Media Lab study reveals that AI assistance can make people worse at detecting fake news, similar to how GPS has weakened navigation skills.",
+        "source": "MIT News",
+        "sourceUrl": "https://news.mit.edu/topic/artificial-intelligence2",
+        "image": "https://news.mit.edu/themes/mit/src/img/placeholder/placeholder--frontpage--featured-news.jpg",
+        "imageProxy": "https://images.weserv.nl/?url=news.mit.edu%2Fthemes%2Fmit%2Fsrc%2Fimg%2Fplaceholder%2Fplaceholder--frontpage--featured-news.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1781116854500_3",
+        "rank": 3,
+        "title": "Revolutionary Hydrogen Production Method Converts Waste Heat to Clean Fuel",
+        "category": "energy",
+        "summary": "Researchers at the University of Birmingham developed a perovskite-based catalyst that splits water into hydrogen at much lower temperatures than existing technologies. This breakthrough could allow factories, steel plants, cement works, and renewable energy sites to turn waste heat into valuable hydrogen fuel.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260601025345.htm",
+        "image": "https://www.sciencedaily.com/images/1920/green-energy-hydrogen-pipelines-wind-turbines.webp",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fgreen-energy-hydrogen-pipelines-wind-turbines.webp&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1781116854500_4",
+        "rank": 4,
+        "title": "Figure AI Achieves Major Robotics Production Milestone at 1 Robot Per Hour",
+        "category": "robotics",
+        "summary": "Figure AI has achieved a major production milestone with its BotQ factory now producing Figure 03 humanoid robots at 1 robot per hour, while Boston Dynamics' electric Atlas begins initial deployments to Hyundai and DeepMind partners.",
+        "source": "Humanoid Press",
+        "sourceUrl": "https://www.humanoid.press/",
+        "image": "https://www.humanoid.press/gallery_gen/c042cb32c60c76b72b25c8f8cf975ac8_fit.jpg",
+        "imageProxy": "https://images.weserv.nl/?url=www.humanoid.press%2Fgallery_gen%2Fc042cb32c60c76b72b25c8f8cf975ac8_fit.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1781116854500_5",
+        "rank": 5,
+        "title": "First Participant Treated in Landmark Cellular Reprogramming Trial for Aging",
+        "category": "biotech",
+        "summary": "The first participant has been treated in a landmark clinical trial of cellular reprogramming, which aims to rejuvenate aging cells. This represents a significant milestone in anti-aging biotechnology research.",
+        "source": "Nature",
+        "sourceUrl": "https://www.nature.com/news",
+        "image": "https://media.nature.com/w768/magazine-assets/d41586-026-01819-8/d41586-026-01819-8_52516030.jpg",
+        "imageProxy": "https://images.weserv.nl/?url=media.nature.com%2Fw768%2Fmagazine-assets%2Fd41586-026-01819-8%2Fd41586-026-01819-8_52516030.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      }
+    ],
+    "batchId": "b1781116854500"
+  },
+  {
     "scannedAt": "2026-06-10T16:02:47.858Z",
     "items": [
       {

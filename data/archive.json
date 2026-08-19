@@ -122,6 +122,26 @@
     ]
   },
   {
+    "batchId": "editorial_2026-08-17",
+    "scannedAt": "2026-08-18T02:01:59.929Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-08-17",
+        "rank": 0,
+        "title": "The vessel does not keep a plate",
+        "category": "editorial",
+        "summary": "A father's tribute, and a city's search",
+        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/08/mabona-7.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-17.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-08-17",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-08-17T20-11",
     "scannedAt": "2026-08-17T20:11:24.270Z",
     "items": [

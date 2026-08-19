@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-08-02T20-39",
+    "scannedAt": "2026-08-02T20:39:34.821Z",
+    "items": [
+      {
+        "id": "auto_2026-08-02T20-39_1",
+        "rank": 1,
+        "title": "STAT+: Michigan Supreme Court ruling allows probe into Lilly insulin pricing",
+        "category": "biotech",
+        "summary": "Lilly was accused of charging “grossly” excessive prices for different insulin products that forced some patients to ration or forego the drug.",
+        "image": "https://www.statnews.com/wp-content/uploads/2025/08/GettyImages-2092473213-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/pharmalot/2026/08/02/michigan-supreme-court-ruling-allows-probe-into-lilly-insulin-pricing/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-02T20-39_2",
+        "rank": 2,
+        "title": "Dark matter’s secret force does the opposite of what scientists expected",
+        "category": "space",
+        "summary": "Dark matter particles may exert a hidden force on one another, but its effects are stranger than expected. An extra attraction helps the particles cluster, yet it also makes dark matter effectively lighter as the…",
+        "image": "https://www.sciencedaily.com/images/1920/dark-matter-glow.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260801042822.htm",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-02T20-39_3",
+        "rank": 3,
+        "title": "Why Gaining Free Time Unexpectedly Makes People Late",
+        "category": "neuroscience",
+        "summary": "Unexpectedly gained free time subjectively expands in our minds, causing people to perform tasks slower and arrive late.",
+        "image": "https://neurosciencenews.com/files/2026/08/free-time-lateness-psychology-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/time-perception-late-decisions-31168/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-02T20-39_4",
+        "rank": 4,
+        "title": "Seedance 2.5: Advancing AI Video Creation for Modern Content Workflows",
+        "category": "robotics",
+        "summary": "AI keeps reshaping how digital content actually gets made, and Seedance 2.5 is just the latest checkpoint in that ongoing shift toward better AI-assisted video. Creators, marketers, educators, and businesses are all…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/seedance-image-3.png",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/01/seedance-2-5-advancing-ai-video-creation-for-modern-content-workflows/103829/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-02T20-39_5",
+        "rank": 5,
+        "title": "Heritage Bookbinding Elements Transform in Contemporary Sculptures by Adelene Koh",
+        "category": "art",
+        "summary": "For Koh, an under-appreciated element of a book's construction becomes the highlight. Do stories and artists like this matter to you? Become a Colossal Member today and support independent arts publishing for as little…",
+        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/07/koh-4.jpg",
+        "source": "Colossal",
+        "sourceUrl": "https://www.thisiscolossal.com/2026/07/adelene-koh-bookbinding-paper-sewing-sculpture-loewe-craft-prize/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-08-01T20-37",
     "scannedAt": "2026-08-01T20:37:20.851Z",
     "items": [
@@ -1185,45 +1246,6 @@
         "source": "NASA",
         "sourceUrl": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pushes-new-wing-design-to-find-structural-limits/",
         "imageProxy": "https://images.weserv.nl/?url=images-assets.nasa.gov%2Fimage%2FAFRC2025-0136-1632%2FAFRC2025-0136-1632~large.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-07-17T20-39",
-    "scannedAt": "2026-07-17T20:39:41.942Z",
-    "items": [
-      {
-        "id": "auto_2026-07-17T20-39_1",
-        "rank": 1,
-        "title": "Adolescent Brain Changes Temporarily Obscure Earlier Memories",
-        "category": "neuroscience",
-        "summary": "Late adolescence triggers a temporary destabilization of contextual memory circuits due to the targeted remodeling of perineuronal nets (PNNs) in the retrosplenial cortex (RSP).",
-        "image": "https://neurosciencenews.com/files/2026/07/adolescent-memory-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/adolescent-perineuronal-nets-memory-remodeling-31071/",
-        "imageProxy": "https://images.weserv.nl/?url=neurosciencenews.com%2Ffiles%2F2026%2F07%2Fadolescent-memory-neuroscience-1155x770.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-17T20-39_2",
-        "rank": 2,
-        "title": "NASA's Chandra and IXPE Study Pulsar in Lighthouse Nebula",
-        "category": "space",
-        "summary": "This composite image, released on July 9, 2026, shows the region around a pulsar – a neutron star with a strong magnetic field that spins incredibly fast – within the Lighthouse nebula. The image contains X-ray data…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/07/lighthouse-lg.jpg",
-        "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/image-article/nasas-chandra-and-ixpe-study-pulsar-in-lighthouse-nebula/",
-        "imageProxy": "https://images.weserv.nl/?url=www.nasa.gov%2Fwp-content%2Fuploads%2F2026%2F07%2Flighthouse-lg.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-17T20-39_5",
-        "rank": 5,
-        "title": "Quitting smoking is hard. A Medicare change may push doctors to give more help",
-        "category": "biotech",
-        "summary": "Physicians who offer counseling on quitting cigarettes and alcohol during patient visits would get a 19% increase in reimbursement under a proposed Medicare change.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/07/GettyImages-487902504-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/07/17/medicare-smoking-cessation-reimbursement-increase/?utm_campaign=rss",
-        "imageProxy": "https://images.weserv.nl/?url=www.statnews.com%2Fwp-content%2Fuploads%2F2026%2F07%2FGettyImages-487902504-1024x576.jpg&w=640&h=400&fit=cover&we&output=jpg"
       }
     ]
   }

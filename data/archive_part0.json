@@ -122,6 +122,26 @@
     ]
   },
   {
+    "batchId": "editorial_2026-08-17",
+    "scannedAt": "2026-08-18T02:01:59.929Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-08-17",
+        "rank": 0,
+        "title": "The vessel does not keep a plate",
+        "category": "editorial",
+        "summary": "A father's tribute, and a city's search",
+        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/08/mabona-7.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-17.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-08-17",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-08-17T20-11",
     "scannedAt": "2026-08-17T20:11:24.270Z",
     "items": [
@@ -1253,67 +1273,6 @@
         "isEditorialArchive": true,
         "publishDate": "2026-08-02",
         "authorName": "Dr. Wallace Lynch"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-08-02T20-39",
-    "scannedAt": "2026-08-02T20:39:34.821Z",
-    "items": [
-      {
-        "id": "auto_2026-08-02T20-39_1",
-        "rank": 1,
-        "title": "STAT+: Michigan Supreme Court ruling allows probe into Lilly insulin pricing",
-        "category": "biotech",
-        "summary": "Lilly was accused of charging “grossly” excessive prices for different insulin products that forced some patients to ration or forego the drug.",
-        "image": "https://www.statnews.com/wp-content/uploads/2025/08/GettyImages-2092473213-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/pharmalot/2026/08/02/michigan-supreme-court-ruling-allows-probe-into-lilly-insulin-pricing/?utm_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-02T20-39_2",
-        "rank": 2,
-        "title": "Dark matter’s secret force does the opposite of what scientists expected",
-        "category": "space",
-        "summary": "Dark matter particles may exert a hidden force on one another, but its effects are stranger than expected. An extra attraction helps the particles cluster, yet it also makes dark matter effectively lighter as the…",
-        "image": "https://www.sciencedaily.com/images/1920/dark-matter-glow.webp",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260801042822.htm",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-02T20-39_3",
-        "rank": 3,
-        "title": "Why Gaining Free Time Unexpectedly Makes People Late",
-        "category": "neuroscience",
-        "summary": "Unexpectedly gained free time subjectively expands in our minds, causing people to perform tasks slower and arrive late.",
-        "image": "https://neurosciencenews.com/files/2026/08/free-time-lateness-psychology-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/time-perception-late-decisions-31168/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-02T20-39_4",
-        "rank": 4,
-        "title": "Seedance 2.5: Advancing AI Video Creation for Modern Content Workflows",
-        "category": "robotics",
-        "summary": "AI keeps reshaping how digital content actually gets made, and Seedance 2.5 is just the latest checkpoint in that ongoing shift toward better AI-assisted video. Creators, marketers, educators, and businesses are all…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/seedance-image-3.png",
-        "source": "Robotics & Automation News",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/01/seedance-2-5-advancing-ai-video-creation-for-modern-content-workflows/103829/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-02T20-39_5",
-        "rank": 5,
-        "title": "Heritage Bookbinding Elements Transform in Contemporary Sculptures by Adelene Koh",
-        "category": "art",
-        "summary": "For Koh, an under-appreciated element of a book's construction becomes the highlight. Do stories and artists like this matter to you? Become a Colossal Member today and support independent arts publishing for as little…",
-        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/07/koh-4.jpg",
-        "source": "Colossal",
-        "sourceUrl": "https://www.thisiscolossal.com/2026/07/adelene-koh-bookbinding-paper-sewing-sculpture-loewe-craft-prize/",
-        "fromX": false
       }
     ]
   }
