@@ -1,5 +1,25 @@
 [
   {
+    "batchId": "editorial_2026-08-02",
+    "scannedAt": "2026-08-02T21:53:22.378Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-08-02",
+        "rank": 0,
+        "title": "What free time dilates, and what price still rations",
+        "category": "editorial",
+        "summary": "Convergence of surplus perception and contested care",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2023/09/Screenshot-2023-09-19-at-8.07.27-AM.png?fit=1024%2C635&ssl=1",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-02.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-08-02",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-08-02T20-39",
     "scannedAt": "2026-08-02T20:39:34.821Z",
     "items": [
@@ -1207,45 +1227,6 @@
         "source": "IEEE Spectrum",
         "sourceUrl": "https://spectrum.ieee.org/graduate-student-nasas-robots-assembly",
         "imageProxy": "https://images.weserv.nl/?url=spectrum.ieee.org%2Fmedia-library%2Fa-young-woman-with-blonde-hair-softly-smiling-next-to-a-pair-of-collaborative-robot-arms.jpg%3Fid%3D67499761%26width%3D980&w=640&h=400&fit=cover&we&output=jpg"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-07-18T20-34",
-    "scannedAt": "2026-07-18T20:34:18.303Z",
-    "items": [
-      {
-        "id": "auto_2026-07-18T20-34_1",
-        "rank": 1,
-        "title": "BCI Neurofeedback Amplifies Brainwaves to Detect Micro-Errors",
-        "category": "neuroscience",
-        "summary": "A new study demonstrates that non-invasive brain-computer interface (BCI) training accelerates perceptual learning by actively amplifying the Error Positivity (Pe) neural signature.",
-        "image": "https://neurosciencenews.com/files/2026/07/bci-error-deteaction-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/bci-error-positivity-pe-wave-perceptual-learning-31079/",
-        "imageProxy": "https://images.weserv.nl/?url=neurosciencenews.com%2Ffiles%2F2026%2F07%2Fbci-error-deteaction-neuroscience-1155x770.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-18T20-34_2",
-        "rank": 2,
-        "title": "Opinion: STAT readers on the value of primary care, obesity as a disease, and more",
-        "category": "biotech",
-        "summary": "“The real opportunity is to move beyond policies and narratives that pit specialties against one another,” presidents of the AAFP, ACP, and AAP write.",
-        "image": "https://www.statnews.com/wp-content/uploads/2023/11/LettersToEditor_v2_Illustration_MollyFerguson_112723-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/07/18/primary-care-debate-letters-to-editor/?utm_campaign=rss",
-        "imageProxy": "https://images.weserv.nl/?url=www.statnews.com%2Fwp-content%2Fuploads%2F2023%2F11%2FLettersToEditor_v2_Illustration_MollyFerguson_112723-1024x576.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-18T20-34_3",
-        "rank": 3,
-        "title": "NASA Pushes New Wing Design to Find Structural Limits",
-        "category": "space",
-        "summary": "NASA researchers recently put a new wing design, appearing long and thin with a lightweight structural design, through a series of grueling tests to find its structural limits. What they found left them encouraged about…",
-        "image": "https://images-assets.nasa.gov/image/AFRC2025-0136-1632/AFRC2025-0136-1632~large.jpg",
-        "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pushes-new-wing-design-to-find-structural-limits/",
-        "imageProxy": "https://images.weserv.nl/?url=images-assets.nasa.gov%2Fimage%2FAFRC2025-0136-1632%2FAFRC2025-0136-1632~large.jpg&w=640&h=400&fit=cover&we&output=jpg"
       }
     ]
   }
