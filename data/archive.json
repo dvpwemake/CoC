@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-08-20T16-18",
-    "scannedAt": "2026-08-20T16:18:04.215Z",
+    "batchId": "auto_2026-08-20T20-13",
+    "scannedAt": "2026-08-20T20:13:59.508Z",
     "items": [
       {
-        "id": "auto_2026-08-20T16-18_1",
+        "id": "auto_2026-08-20T20-13_1",
         "rank": 1,
-        "title": "Moog Highlights Huntsville Expansion and New Hardware-in-the-Loop Lab During Space and Missile Defense Symposium",
-        "category": "space",
-        "summary": "Huntsville, AL — Moog Inc. (NYSE: MOG.A and MOG.B) announces a significant expansion at its Huntsville, AL facility that now includes a new secure Hypersonic/Interceptor Hardware-in-the-Loop (HWIL) lab. It is […] The…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/12/Moog_logo_maroon-1.png?fit=1024%2C1024&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/moog-highlights-huntsville-expansion-and-new-hardware-in-the-loop-lab-during-space-and-missile-defense-symposium/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-20T16-18_2",
-        "rank": 2,
-        "title": "Rare Bernini painting discovered in Vienna museum storeroom ahead of major exhibition.",
-        "category": "art",
-        "summary": "A new painting by Renaissance master Gian Lorenzo Bernini has been discovered and will be unveiled in December at Vienna’s Kunsthistorisches Museum, according to The Art Newspaper . The painting, titled Portrait of an…",
-        "image": "https://artsy-media-uploads.s3.amazonaws.com/c2Y9LmGUXr7XWrDLlaS3GQ%2Funnamed_1500x1000+%281%29.jpg",
-        "source": "Artsy",
-        "sourceUrl": "https://www.artsy.net/article/artsy-editorial-rare-bernini-painting-discovered-vienna-museum-storeroom-ahead-major-exhibition",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-20T16-18_3",
-        "rank": 3,
-        "title": "It’s Greg Brockman’s OpenAI now",
+        "title": "China Is Strapping ‘Digital Bombs’ to Civilian Infrastructure—Is the US Ready?",
         "category": "general",
-        "summary": "OpenAI has had a hell of a year. The company spent months battling former co-founder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny…",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP221_GREG_BROCKMAN2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
+        "summary": "This week on “Uncanny Valley,” Andy Greenberg discusses sitting in on a war game simulating a cyberattack from the Chinese hacking group Volt Typhoon",
+        "image": "https://media.wired.com/photos/6a861888d3fed06f8e21101b/master/pass/Uncanny-Valley-Podcast-Typhoon-Hack-Security-1130970903.jpg",
+        "source": "WIRED",
+        "sourceUrl": "https://www.wired.com/story/china-is-strapping-digital-bombs-to-civilian-infrastructure-is-the-us-ready/",
         "fromX": false
       },
       {
-        "id": "auto_2026-08-20T16-18_4",
+        "id": "auto_2026-08-20T20-13_2",
+        "rank": 2,
+        "title": "National Gallery of Art Adds a Slew of New Artists to Its Collection",
+        "category": "art",
+        "summary": "The National Gallery of Art in Washington, DC, has announced a raft of new acquisitions, including works by artists entering the collection for the first time. Among these are Marie Bracquemond, T. C. Cannon, LaToya…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/08/hobbs-dahliasfornaima.jpg?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/news/national-gallery-of-art-adds-new-roster-of-artists-1234757484/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-20T20-13_3",
+        "rank": 3,
+        "title": "Key Reasons Contractors in Saskatchewan Prefer Steel Structures",
+        "category": "robotics",
+        "summary": "Contractors face serious pressure whenever harsh weather conditions interrupt commercial construction plans across Saskatchewan. Reliable building materials help them maintain steady project schedules and satisfy…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/norsteel-buildings-1.png",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/20/key-reasons-contractors-in-saskatchewan-prefer-steel-structures/104366/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-20T20-13_4",
         "rank": 4,
-        "title": "Debates over AI consciousness are a trap",
-        "category": "ai",
-        "summary": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis,…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/smokescreen.jpg?resize=1200,600",
-        "source": "MIT Technology Review",
-        "sourceUrl": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+        "title": "What's next for ISR in space",
+        "category": "space",
+        "summary": "In this episode, SpaceNews correspondent Debra Werner leads a panel of experts to discuss the role of ISR in space and what comes next. This session was recorded in May […] The post What's next for ISR in space appeared…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/space-minds-podcast-ICEYE-ISR-2000-1500.jpg?fit=1024%2C768&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/whats-next-for-isr-in-space/",
         "fromX": false
       },
       {
-        "id": "auto_2026-08-20T16-18_5",
+        "id": "auto_2026-08-20T20-13_5",
         "rank": 5,
-        "title": "STAT+: How a Trump loyalist got the FDA nomination",
+        "title": "STAT+: FDA approves Ultragenyx gene therapy",
         "category": "biotech",
-        "summary": "What you need to know about Heidi Overton, and Erica Schwartz's first speech to CDC staff.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/08/AP26222696212458-1024x576.jpg",
+        "summary": "Regeneron wins ultra-rare disease drug approval, a validating win for mRNA research, and more biotech news from The Readout",
+        "image": "https://www.statnews.com/wp-content/uploads/2024/05/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_Wiggs-_Bedford_2-1024x576.jpg",
         "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/08/20/heidi-overton-fda-commissioner-nominee-erica-schwartz-cdc-speech/?utm_campaign=rss",
+        "sourceUrl": "https://www.statnews.com/2026/08/20/biotech-news-fda-approves-utlragenyx-gene-therapy/?utm_campaign=rss",
         "fromX": false
       }
     ]
