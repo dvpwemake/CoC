@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-08-20T00-25",
-    "scannedAt": "2026-08-20T00:25:57.866Z",
+    "batchId": "auto_2026-08-20T04-23",
+    "scannedAt": "2026-08-20T04:23:11.400Z",
     "items": [
       {
-        "id": "auto_2026-08-20T00-25_1",
+        "id": "auto_2026-08-20T04-23_1",
         "rank": 1,
-        "title": "CES Asia Unveiled Expands to Hong Kong on the Road to CES 2027 - CES.tech",
+        "title": "AI-designed “intrabodies” could unlock new treatments for Alzheimer’s, Parkinson’s and MND",
+        "category": "neuroscience",
+        "summary": "Researchers have developed a new way to turn ordinary antibodies into tiny disease-fighting molecules that can work inside human cells, potentially opening new paths for treating Alzheimer’s, Parkinson’s, Huntington’s…",
+        "image": "https://www.sciencedaily.com/images/1920/neuron-damage-brain-cell-inflammation.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260819041242.htm",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-20T04-23_2",
+        "rank": 2,
+        "title": "CES Asia Unveiled Seoul - CES.tech",
         "category": "general",
-        "summary": "CES Asia Unveiled Expands to Hong Kong on the Road to CES 2027 CES.tech",
+        "summary": "CES Asia Unveiled Seoul CES.tech",
         "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
         "source": "CES (ces.tech)",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPakhCc0ViYXlXS3hTTjk3YU1zMFRjSk1GcjREc0lsYmVEX2NRdmVXNzRQYjI1YlBMcFZ5SG1zV0gycm5QaEZPVjBoVFZHeGtQQ1pQUXNIVU94NlpTVTQ2NzdTcWFQMVJ4ZmFkODRlaG11Q0VTOVpqbzlENG1EWFdtRy1xSzd3MDl6c3BqNW5oV0QyVzlvbENNXzQ0UlZ5NWs?oc=5",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9qcGtCdF9pQUllYWZJQVJJMzlwUWt4eE1IaFJ4dDBMUnU1SElObGtWUlI4VnVKOE9pMXh2Q3U2S1MxSjdJZFR0VzQ0ZjB4OTUzZnlqUUtpV01GVHVQNU9kTHVn?oc=5",
         "fromX": false
       },
       {
-        "id": "auto_2026-08-20T00-25_2",
-        "rank": 2,
-        "title": "Hypersonic missile startup Castelion raises $1 billion",
-        "category": "space",
-        "summary": "Company founded by former SpaceX executives aims to produce a low-cost hypersonic weapon and a broader portfolio of longer-range strike and missile defense weapons The post Hypersonic missile startup Castelion raises $1…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/081926-Castelion-Blackbeard.jpg-scaled.jpeg?fit=1024%2C683&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/hypersonic-missile-startup-castelion-raises-1-billion/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-20T00-25_3",
+        "id": "auto_2026-08-20T04-23_3",
         "rank": 3,
-        "title": "In Michigan, LG opens one of America’s biggest battery cell factories",
-        "category": "energy",
-        "summary": "LANSING, Mich. — The Trump administration has made clear its disdain for electric vehicles and clean energy. Yet at the grand opening of South Korea–based LG Energy Solution’s latest battery manufacturing facility,…",
-        "image": "https://img.canarymedia.com/content/uploads/LG-Energy-Solution_ESMI-LansingProductionLine-0181.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=5bfbeaad137254f68d8bf62ba38cdea0",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/batteries/michigan-lg-biggest-battery-cell-factory",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-20T00-25_4",
-        "rank": 4,
-        "title": "Rijksmuseum Receives Book of Drawings Made By Rombout van Uylenburgh",
-        "category": "art",
-        "summary": "The Rijksmuseum in Amsterdam recently received an exceptionally well-preserved 17th-century drawing book as a donation from the prominent Van Eeghen family in the Netherlands, the museum announced. The book, which has…",
-        "image": "https://www.artforum.com/wp-content/uploads/2026/08/Van20Eeghen-8.jpg?w=650",
-        "source": "Artforum",
-        "sourceUrl": "https://www.artforum.com/news/rijksmuseum-receives-drawings-by-rombout-van-uylenburgh-1234757391/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-20T00-25_5",
-        "rank": 5,
-        "title": "STAT+: New CDC director tells staff she is prepared to speak ‘truth to power’",
+        "title": "These trees are making air quality in cities worse",
         "category": "biotech",
-        "summary": "Then new CDC director told staff she is “very comfortable and very confident ... [in] speaking truth to power.”",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/08/GettyImages-2286228728-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/08/19/cdc-director-erica-schwartz-staff-meeting-truth-to-power/?utm_campaign=rss",
+        "summary": "Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02586-2 They release compounds that contribute to ozone emissions, and rising temperatures could exacerbate the problem.",
+        "image": "",
+        "source": "Nature",
+        "sourceUrl": "https://www.nature.com/articles/d41586-026-02586-2",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-20T04-23_4",
+        "rank": 4,
+        "title": "Eartheye Space forges strategic partnership with IN2",
+        "category": "space",
+        "summary": "SAN FRANCISCO – Strategic communications and consulting firm IN2 will have access to Eartheye Space multi-sensor satellite tasking and analytics through a memorandum of understanding signed Aug. 19. IN2 will […] The…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/rsz_eartheye_in2.png?fit=879%2C689&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/eartheye-space-forges-strategic-partnership-with-in2/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-20T04-23_5",
+        "rank": 5,
+        "title": "Damien Hoar de Galvan Puzzles Scraps of Reclaimed Wood for a Daily Sculpture Project",
+        "category": "art",
+        "summary": "From reclaimed wood, Damien Hoar de Galvan pieces together dynamic sculptures for a daily project. Do stories and artists like this matter to you? Become a Colossal Member today and support independent arts publishing…",
+        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/08/hoar-de-galvin-4.jpg",
+        "source": "Colossal",
+        "sourceUrl": "https://www.thisiscolossal.com/2026/08/damien-hoar-de-galvan-wood-sculptures/",
         "fromX": false
       }
     ]
