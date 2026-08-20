@@ -61,6 +61,26 @@
     ]
   },
   {
+    "batchId": "editorial_2026-08-19",
+    "scannedAt": "2026-08-19T22:01:06.428Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-08-19",
+        "rank": 0,
+        "title": "The unwanted still has a use",
+        "category": "editorial",
+        "summary": "Graphite that keeps the dark, granite they would coat white",
+        "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/earthset-from-the-lunar-far-side/earthset_55192132107_00dc598014_o.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-19.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-08-19",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-08-19T20-11",
     "scannedAt": "2026-08-19T20:11:25.130Z",
     "items": [
@@ -1253,67 +1273,6 @@
         "isEditorialArchive": true,
         "publishDate": "2026-08-03",
         "authorName": "Dr. Wallace Lynch"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-08-03T20-49",
-    "scannedAt": "2026-08-03T20:49:30.852Z",
-    "items": [
-      {
-        "id": "auto_2026-08-03T20-49_1",
-        "rank": 1,
-        "title": "Trump’s AI protectionism has come for robotics",
-        "category": "ai",
-        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children,…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/AP26206077599738.jpg?resize=1200,600",
-        "source": "MIT Technology Review",
-        "sourceUrl": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-03T20-49_2",
-        "rank": 2,
-        "title": "Neural Mechanism Behind Goal-Directed Behavior Revealed",
-        "category": "neuroscience",
-        "summary": "Orexin neurons dynamically scale with effort, proving necessary for sustained goal-directed motivation.",
-        "image": "https://neurosciencenews.com/files/2026/08/orexin-neurons-motivation-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/orexin-neurons-motivation-31173/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-03T20-49_3",
-        "rank": 3,
-        "title": "Monumental Joyful Murals by Ella & Pitr Fill Urban Rooftops and Fields",
-        "category": "art",
-        "summary": "Ella & Pitr bring eccentric joy to urban spaces. Do stories and artists like this matter to you? Become a Colossal Member today and support independent arts publishing for as little as $7 per month. The article…",
-        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/08/ella-pitr-8-e1785768010553.jpg",
-        "source": "Colossal",
-        "sourceUrl": "https://www.thisiscolossal.com/2026/08/ella-pitr-monumental-urban-murals-street-art/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-03T20-49_4",
-        "rank": 4,
-        "title": "Michigan reports first two U.S. deaths in outbreak of cyclospora",
-        "category": "biotech",
-        "summary": "Two people have died in the cyclospora outbreak in Michigan in the first confirmed deaths in the U.S. related to the microscopic parasite, state health officials announced.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/07/AP26189642009611-e1784894199578-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/08/03/cyclospora-outbreak-two-fatalities-reported-michigan/?utm_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-03T20-49_5",
-        "rank": 5,
-        "title": "Hughes files for bankruptcy after GEO business loses ground to Starlink",
-        "category": "space",
-        "summary": "EchoStar’s Hughes geostationary satellite broadband business has filed for bankruptcy in the United States after years of mounting competition from SpaceX’s Starlink constellation. The post Hughes files for bankruptcy…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/01/J-3-satellite--scaled.jpg?fit=1024%2C763&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/hughes-files-for-bankruptcy-after-geo-business-loses-ground-to-starlink/",
-        "fromX": false
       }
     ]
   }

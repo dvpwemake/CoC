@@ -1,35 +1,100 @@
 {
   "published": {
-    "id": "ed_2026-08-19",
-    "publishDate": "2026-08-19",
+    "id": "ed_2026-08-20",
+    "publishDate": "2026-08-20",
     "status": "published",
-    "updatedAt": "2026-08-19T22:01:06.428Z",
-    "title": "The unwanted still has a use",
-    "dek": "Graphite that keeps the dark, granite they would coat white",
+    "needsApproval": false,
+    "createdAt": "2026-08-20T02:19:13.301Z",
+    "updatedAt": "2026-08-20T23:30:09.351Z",
+    "title": "First names in the collection",
+    "dek": "New work on a museum wall, new lines on a civilian grid",
+    "insight": "New work on a museum wall, new lines on a civilian grid",
     "authorName": "Dr. Wallace Lynch",
     "authorTitle": "Editor in Chief",
-    "body": "Alejandro Aguilar Canela draws in graphite and keeps the smudge. The Austin artist welcomes the mark that was not planned. There is another side to our own darkness, he says. It is more about not discarding what might be considered unwanted, but instead finding some use for it. His work is up at Ki Smith Gallery in New York through September 6.\n\nOn Wednesday, August 19, 2026, we hold that smudge to one pressure: what we would coat over, and what still has to remain in use.\n\nA federal judge granted the Trump administration permission to proceed with paint tests on the Eisenhower Executive Office Building. The desire is to coat the granite facade with white paint. The grain of the stone is the thing they would discard.\n\nIn Independence, Missouri, and in other towns, voters move to oust local officials who backed data centers. The servers want land, power, water. The recall is a use the ballot still has. FORT Robotics, which builds a trust layer for physical AI, plans to go public through a business combination. The machine asks to be trusted. The town asks to be heard.\n\nHeidi Overton is the president's pick to run the FDA. The Department of Homeland Security was sued over a policy that would limit how long foreign students and scholars can remain. Katalyst Space and NASA abandon a plan to raise the orbit of Swift, citing attitude control problems with the Link spacecraft. NASA's Lunar Reconnaissance Orbiter images a new crater on the Moon, left by a Falcon 9 upper stage on August 5. Aircraft vapor trails still warm the air.\n\nConvergence is not a whiter facade. It is whether the unwanted, in a drawing or a stone, still gets to be used.",
+    "body": "The National Gallery of Art in Washington, DC, has announced a raft of new acquisitions, about 190 works since March. Many of the names enter the collection for the first time. Marie Bracquemond. T. C. Cannon. LaToya Hobbs. Stacey Kranitz. Lorraine O'Grady. Christina Quarles. A first hanging is a kind of citizenship. The wall says they belong.\n\nOn Thursday, August 20, 2026, we hold that wall to one pressure: what we admit into the hold, and what we strap to the life that already lives there.\n\nThe FDA granted accelerated approval to an Ultragenyx gene therapy, the first treatment designed for the underlying cause of glycogen storage disease type Ia. A rare metabolism gets a door. Heidi Overton is the president's pick to run that agency. The Department of Homeland Security was sued over a policy that would limit how long foreign students and scholars can remain.\n\nWIRED reports a war game on Volt Typhoon, a Chinese hacking group, and digital bombs strapped to civilian infrastructure. In Independence, Missouri, and other towns, voters move to oust officials who backed data centers. What we admit to the grid is not only a server. It is a town.\n\nKatalyst Space and NASA abandon a plan to raise the orbit of Swift, citing attitude control problems with the Link spacecraft. A SpaceNews panel asks what comes next for intelligence from orbit. The sky is a sensor. The sensor can fail to hold.\n\nThe strap is not a theory. It is a pipe, a clinic record, a pad. Convergence is not a thicker wall. It is whether the names we let in, in a gallery or a clinic, still belong to the living hold and not only to the strap.",
     "paragraphs": [
-      "Alejandro Aguilar Canela draws in graphite and keeps the smudge. The Austin artist welcomes the mark that was not planned. There is another side to our own darkness, he says. It is more about not discarding what might be considered unwanted, but instead finding some use for it. His work is up at Ki Smith Gallery in New York through September 6.",
-      "On Wednesday, August 19, 2026, we hold that smudge to one pressure: what we would coat over, and what still has to remain in use.",
-      "A federal judge granted the Trump administration permission to proceed with paint tests on the Eisenhower Executive Office Building. The desire is to coat the granite facade with white paint. The grain of the stone is the thing they would discard.",
-      "In Independence, Missouri, and in other towns, voters move to oust local officials who backed data centers. The servers want land, power, water. The recall is a use the ballot still has. FORT Robotics, which builds a trust layer for physical AI, plans to go public through a business combination. The machine asks to be trusted. The town asks to be heard.",
-      "Heidi Overton is the president's pick to run the FDA. The Department of Homeland Security was sued over a policy that would limit how long foreign students and scholars can remain. Katalyst Space and NASA abandon a plan to raise the orbit of Swift, citing attitude control problems with the Link spacecraft. NASA's Lunar Reconnaissance Orbiter images a new crater on the Moon, left by a Falcon 9 upper stage on August 5. Aircraft vapor trails still warm the air.",
-      "Convergence is not a whiter facade. It is whether the unwanted, in a drawing or a stone, still gets to be used."
+      "The National Gallery of Art in Washington, DC, has announced a raft of new acquisitions, about 190 works since March. Many of the names enter the collection for the first time. Marie Bracquemond. T. C. Cannon. LaToya Hobbs. Stacey Kranitz. Lorraine O'Grady. Christina Quarles. A first hanging is a kind of citizenship. The wall says they belong.",
+      "On Thursday, August 20, 2026, we hold that wall to one pressure: what we admit into the hold, and what we strap to the life that already lives there.",
+      "The FDA granted accelerated approval to an Ultragenyx gene therapy, the first treatment designed for the underlying cause of glycogen storage disease type Ia. A rare metabolism gets a door. Heidi Overton is the president's pick to run that agency. The Department of Homeland Security was sued over a policy that would limit how long foreign students and scholars can remain.",
+      "WIRED reports a war game on Volt Typhoon, a Chinese hacking group, and digital bombs strapped to civilian infrastructure. In Independence, Missouri, and other towns, voters move to oust officials who backed data centers. What we admit to the grid is not only a server. It is a town.",
+      "Katalyst Space and NASA abandon a plan to raise the orbit of Swift, citing attitude control problems with the Link spacecraft. A SpaceNews panel asks what comes next for intelligence from orbit. The sky is a sensor. The sensor can fail to hold.",
+      "The strap is not a theory. It is a pipe, a clinic record, a pad. Convergence is not a thicker wall. It is whether the names we let in, in a gallery or a clinic, still belong to the living hold and not only to the strap."
     ],
-    "wordCount": 292,
-    "heroImage": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/earthset-from-the-lunar-far-side/earthset_55192132107_00dc598014_o.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-    "heroCredit": "NASA’s LRO Images Falcon 9 Crater on Moon, Learns New Details",
-    "heroSource": "NASA",
-    "heroSourceUrl": "https://science.nasa.gov/solar-system/moon/nasas-lro-images-falcon-9-crater-on-moon-learns-new-details/",
+    "wordCount": 286,
+    "heroImage": "https://www.artforum.com/wp-content/uploads/2026/08/hobbs-dahliasfornaima.jpg?w=650",
+    "heroCredit": "National Gallery of Art Adds a Slew of New Artists to Its Collection",
+    "heroSource": "Artforum",
+    "heroSourceUrl": "https://www.artforum.com/news/national-gallery-of-art-adds-new-roster-of-artists-1234757484/",
     "headlines": [
+      {
+        "title": "National Gallery of Art Adds a Slew of New Artists to Its Collection",
+        "source": "Artforum",
+        "category": "art",
+        "sourceUrl": "https://www.artforum.com/news/national-gallery-of-art-adds-new-roster-of-artists-1234757484/",
+        "summary": "The National Gallery of Art in Washington, DC, has announced a raft of new acquisitions, including works by artists entering the collection for the first time. Among these are Marie Bracquemond, T. C. Cannon, LaToya…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/08/hobbs-dahliasfornaima.jpg?w=650",
+        "keyPoints": [
+          "The National Gallery of Art in Washington, DC, has announced a raft of new acquisitions, including works by artists entering the collection for the first time.",
+          "Among these are Marie Bracquemond, T."
+        ]
+      },
+      {
+        "title": "STAT+: FDA approves Ultragenyx gene therapy",
+        "source": "STAT News",
+        "category": "biotech",
+        "sourceUrl": "https://www.statnews.com/2026/08/20/biotech-news-fda-approves-utlragenyx-gene-therapy/?utm_campaign=rss",
+        "summary": "Regeneron wins ultra-rare disease drug approval, a validating win for mRNA research, and more biotech news from The Readout",
+        "image": "https://www.statnews.com/wp-content/uploads/2024/05/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_Wiggs-_Bedford_2-1024x576.jpg",
+        "keyPoints": [
+          "Regeneron wins ultra-rare disease drug approval, a validating win for mRNA research, and more biotech news from The Readout"
+        ]
+      },
+      {
+        "title": "China Is Strapping ‘Digital Bombs’ to Civilian Infrastructure—Is the US Ready?",
+        "source": "WIRED",
+        "category": "general",
+        "sourceUrl": "https://www.wired.com/story/china-is-strapping-digital-bombs-to-civilian-infrastructure-is-the-us-ready/",
+        "summary": "This week on “Uncanny Valley,” Andy Greenberg discusses sitting in on a war game simulating a cyberattack from the Chinese hacking group Volt Typhoon",
+        "image": "https://media.wired.com/photos/6a861888d3fed06f8e21101b/master/pass/Uncanny-Valley-Podcast-Typhoon-Hack-Security-1130970903.jpg",
+        "keyPoints": [
+          "This week on “Uncanny Valley,” Andy Greenberg discusses sitting in on a war game simulating a cyberattack from the Chinese hacking group Volt Typhoon"
+        ]
+      },
+      {
+        "title": "Key Reasons Contractors in Saskatchewan Prefer Steel Structures",
+        "source": "Robotics & Automation News",
+        "category": "robotics",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/20/key-reasons-contractors-in-saskatchewan-prefer-steel-structures/104366/",
+        "summary": "Contractors face serious pressure whenever harsh weather conditions interrupt commercial construction plans across Saskatchewan. Reliable building materials help them maintain steady project schedules and satisfy…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/norsteel-buildings-1.png",
+        "keyPoints": [
+          "Contractors face serious pressure whenever harsh weather conditions interrupt commercial construction plans across Saskatchewan.",
+          "Reliable building materials help them maintain steady project schedules and satisfy…"
+        ]
+      },
+      {
+        "title": "What's next for ISR in space",
+        "source": "SpaceNews",
+        "category": "space",
+        "sourceUrl": "https://spacenews.com/whats-next-for-isr-in-space/",
+        "summary": "In this episode, SpaceNews correspondent Debra Werner leads a panel of experts to discuss the role of ISR in space and what comes next. This session was recorded in May […] The post What's next for ISR in space appeared…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/space-minds-podcast-ICEYE-ISR-2000-1500.jpg?fit=1024%2C768&ssl=1",
+        "keyPoints": [
+          "In this episode, SpaceNews correspondent Debra Werner leads a panel of experts to discuss the role of ISR in space and what comes next.",
+          "This session was recorded in May […] The post What's next for ISR in space appeared…"
+        ]
+      },
       {
         "title": "Judge Approves Trump Administration’s Paint Tests On Eisenhower Building",
         "source": "Artforum",
         "category": "art",
         "sourceUrl": "https://www.artforum.com/news/judge-approves-trump-paint-tests-on-eisenhower-building-1234757385/",
         "summary": "On Tuesday, a federal judge granted the Trump administration permission to proceed with paint tests on the Eisenhower Executive Building. Trump’s desire, which is to coat the granite facade with white paint, has been…",
-        "image": "https://www.artforum.com/wp-content/uploads/2026/08/Eisenhower_Executive_Office_Building_20240601.jpg?w=650"
+        "image": "https://www.artforum.com/wp-content/uploads/2026/08/Eisenhower_Executive_Office_Building_20240601.jpg?w=650",
+        "keyPoints": [
+          "On Tuesday, a federal judge granted the Trump administration permission to proceed with paint tests on the Eisenhower Executive Building.",
+          "Trump’s desire, which is to coat the granite facade with white paint, has been…"
+        ]
       },
       {
         "title": "STAT+: How Trump loyalist Heidi Overton became the president’s pick to run the FDA",
@@ -37,7 +102,10 @@
         "category": "biotech",
         "sourceUrl": "https://www.statnews.com/2026/08/19/heidi-overton-fda-commissioner-nominee-competing-interests-ahead/?utm_campaign=rss",
         "summary": "If she wins confirmation as FDA commissioner, Heidi Overton will face plenty of big challenges.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/08/AP25289733434052-1024x576.jpg"
+        "image": "https://www.statnews.com/wp-content/uploads/2026/08/AP25289733434052-1024x576.jpg",
+        "keyPoints": [
+          "If she wins confirmation as FDA commissioner, Heidi Overton will face plenty of big challenges."
+        ]
       },
       {
         "title": "Voters Aren’t Waiting for November to Try Ousting Officials Over Data Centers",
@@ -45,7 +113,10 @@
         "category": "general",
         "sourceUrl": "https://www.nytimes.com/2026/08/19/technology/data-centers-voter-concerns-independence-missouri.html",
         "summary": "As a backlash grows over data centers, more local officials are facing recall elections for their support of the computing sites.",
-        "image": "https://static01.nyt.com/images/2026/08/12/multimedia/DATACENTER-RECALLS-1-01-bvfh/DATACENTER-RECALLS-1-01-bvfh-mediumSquareAt3X.jpg"
+        "image": "https://static01.nyt.com/images/2026/08/12/multimedia/DATACENTER-RECALLS-1-01-bvfh/DATACENTER-RECALLS-1-01-bvfh-mediumSquareAt3X.jpg",
+        "keyPoints": [
+          "As a backlash grows over data centers, more local officials are facing recall elections for their support of the computing sites."
+        ]
       },
       {
         "title": "The Evidence That Can Start Disappearing After a Truck Accident",
@@ -53,7 +124,12 @@
         "category": "robotics",
         "sourceUrl": "https://roboticsandautomationnews.com/2026/08/19/the-evidence-that-can-start-disappearing-after-a-truck-accident/104313/",
         "summary": "After a serious truck crash, the wreckage gets most of the attention. Damaged vehicles are sitting on the road, emergency crews are working, and traffic may be backed up for miles. It feels like everything that matters…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/truck-on-road-1.jpg"
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/truck-on-road-1.jpg",
+        "keyPoints": [
+          "After a serious truck crash, the wreckage gets most of the attention.",
+          "Damaged vehicles are sitting on the road, emergency crews are working, and traffic may be backed up for miles.",
+          "It feels like everything that matters…"
+        ]
       },
       {
         "title": "Katalyst Space and NASA abandon plans for Swift reboost",
@@ -61,7 +137,10 @@
         "category": "space",
         "sourceUrl": "https://spacenews.com/katalyst-space-and-nasa-abandon-plans-for-swift-reboost/",
         "summary": "Katalyst Space and NASA have called off plans to use the company’s Link spacecraft to raise the orbit of the agency’s Swift gamma-ray observatory, citing attitude-control problems with the spacecraft. The post Katalyst…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/swift-link.jpeg?fit=1024%2C576&ssl=1"
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/swift-link.jpeg?fit=1024%2C576&ssl=1",
+        "keyPoints": [
+          "Katalyst Space and NASA have called off plans to use the company’s Link spacecraft to raise the orbit of the agency’s Swift gamma-ray observatory, citing attitude-control problems with the spacecraft."
+        ]
       },
       {
         "title": "Dark Emotions Evoke Growth in Alejandro Aguliar Canela's Graphite Drawings",
@@ -69,7 +148,12 @@
         "category": "art",
         "sourceUrl": "https://www.thisiscolossal.com/2026/08/alejandro-aguliar-canela-graphite-drawings/",
         "summary": "\"It’s more about not discarding what might be considered unwanted, but instead finding some use for it,\" says the artist. Do stories and artists like this matter to you? Become a Colossal Member today and support…",
-        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/08/canela-5.jpg"
+        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/08/canela-5.jpg",
+        "keyPoints": [
+          "\"It’s more about not discarding what might be considered unwanted, but instead finding some use for it,\" says the artist.",
+          "Do stories and artists like this matter to you?",
+          "Become a Colossal Member today and support…"
+        ]
       },
       {
         "title": "Trump administration sued over visa time limit that would affect grad students, postdocs",
@@ -77,50 +161,13 @@
         "category": "biotech",
         "sourceUrl": "https://www.statnews.com/2026/08/18/dhs-sued-over-visa-time-limit-for-foreign-students/?utm_campaign=rss",
         "summary": "DHS was sued Tuesday over a sweeping policy change that would limit how long foreign students and scholars can remain in the U.S.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/08/AP26149662430853-1024x576.jpg"
-      },
-      {
-        "title": "Tech Life",
-        "source": "BBC Technology",
-        "category": "general",
-        "sourceUrl": "https://www.bbc.co.uk/sounds/play/w3ct8jy9?at_medium=RSS&at_campaign=rss",
-        "summary": "Vapour trails from aircraft contribute to warming in the atmosphere.",
-        "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p55phr.jpg"
-      },
-      {
-        "title": "FORT Robotics to go public via business combination with Newbury Street II Acquisition Corp",
-        "source": "Robotics & Automation News",
-        "category": "robotics",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/18/fort-robotics-to-go-public-via-business-combination-with-newbury-street-ii-acquisition-corp/104238/",
-        "summary": "FORT Robotics, a safety platform developing a “trust layer” for physical AI, and Newbury Street II Acquisition Corp, a special purpose acquisition company, have entered into a definitive business combination agreement…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/FORT-Robotics-Trust-Layer-for-Physical-AI.jpeg"
-      },
-      {
-        "title": "NASA’s LRO Images Falcon 9 Crater on Moon, Learns New Details",
-        "source": "NASA",
-        "category": "space",
-        "sourceUrl": "https://science.nasa.gov/solar-system/moon/nasas-lro-images-falcon-9-crater-on-moon-learns-new-details/",
-        "summary": "Between Aug. 11 and 12, NASA’s Lunar Reconnaissance Orbiter (LRO) captured a series of images of a new crater on the Moon. The crater formed on Aug. 5, when a SpaceX Falcon 9 upper stage impacted the surface following…",
-        "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/earthset-from-the-lunar-far-side/earthset_55192132107_00dc598014_o.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg"
-      },
-      {
-        "title": "Brett Littman to Lead Museum of Contemporary Art San Diego",
-        "source": "Artforum",
-        "category": "art",
-        "sourceUrl": "https://www.artforum.com/news/brett-littman-to-helm-museum-of-contemporary-art-san-diego-1234757138/",
-        "summary": "The Museum of Contemporary Art San Diego (MCASD) has announced Brett Littman as its new director and CEO. From 2018 to 2023, Littman served as director of the Noguchi Museum in Long Island City, New York. He succeeds…",
-        "image": "https://www.artforum.com/wp-content/uploads/2026/08/featured00_large-56.jpg-copy.jpg?w=554"
-      },
-      {
-        "title": "STAT+: Sanofi to lay off 229 workers in Mass., a year after $9.1B Blueprint Medicines acquisition",
-        "source": "STAT News",
-        "category": "biotech",
-        "sourceUrl": "https://www.statnews.com/2026/08/17/sanofi-layoffs-mass-blueprint-medicines/?utm_campaign=rss",
-        "summary": "Sanofi, one of the Massachusetts' largest pharmaceutical employers, will lay off more than 200 workers there a year after acquiring Blueprint Medicines.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/07/GettyImages-2281597952-1024x576.jpg"
+        "image": "https://www.statnews.com/wp-content/uploads/2026/08/AP26149662430853-1024x576.jpg",
+        "keyPoints": [
+          "DHS was sued Tuesday over a sweeping policy change that would limit how long foreign students and scholars can remain in the U.S."
+        ]
       }
     ],
-    "publishedAt": "2026-08-19T22:01:06.428Z"
+    "publishedAt": "2026-08-20T23:30:09.351Z"
   },
   "drafts": {
     "2026-07-21": {
@@ -3689,42 +3736,31 @@
           ]
         }
       ]
-    },
-    "2026-08-20": {
+    }
+  },
+  "history": [
+    {
       "id": "ed_2026-08-20",
       "publishDate": "2026-08-20",
-      "status": "draft",
-      "draftKind": "outline",
+      "status": "published",
+      "needsApproval": false,
       "createdAt": "2026-08-20T02:19:13.301Z",
-      "updatedAt": "2026-08-20T20:13:59.554Z",
-      "title": "Editorial brief — 2026-08-20",
-      "dek": "Outline of selected article titles and key points for admin to write the final editorial.",
-      "body": "EDITORIAL BRIEF (outline only — not for publication as-is)\nPublish date: 2026-08-20\nInstruction: Use the titles and key points below to write the final ~300-word CoC editorial. Replace this entire brief with your finished prose before publishing.\n\n— Selected articles of the day (12) —\n\n1. [Art] National Gallery of Art Adds a Slew of New Artists to Its Collection\n   Source: Artforum\n   URL: https://www.artforum.com/news/national-gallery-of-art-adds-new-roster-of-artists-1234757484/\n   Key points:\n   • The National Gallery of Art in Washington, DC, has announced a raft of new acquisitions, including works by artists entering the collection for the first time.\n   • Among these are Marie Bracquemond, T.\n\n2. [Biotech] STAT+: FDA approves Ultragenyx gene therapy\n   Source: STAT News\n   URL: https://www.statnews.com/2026/08/20/biotech-news-fda-approves-utlragenyx-gene-therapy/?utm_campaign=rss\n   Key points:\n   • Regeneron wins ultra-rare disease drug approval, a validating win for mRNA research, and more biotech news from The Readout\n\n3. [General] China Is Strapping ‘Digital Bombs’ to Civilian Infrastructure—Is the US Ready?\n   Source: WIRED\n   URL: https://www.wired.com/story/china-is-strapping-digital-bombs-to-civilian-infrastructure-is-the-us-ready/\n   Key points:\n   • This week on “Uncanny Valley,” Andy Greenberg discusses sitting in on a war game simulating a cyberattack from the Chinese hacking group Volt Typhoon\n\n4. [Robotics] Key Reasons Contractors in Saskatchewan Prefer Steel Structures\n   Source: Robotics & Automation News\n   URL: https://roboticsandautomationnews.com/2026/08/20/key-reasons-contractors-in-saskatchewan-prefer-steel-structures/104366/\n   Key points:\n   • Contractors face serious pressure whenever harsh weather conditions interrupt commercial construction plans across Saskatchewan.\n   • Reliable building materials help them maintain steady project schedules and satisfy…\n\n5. [Space] What's next for ISR in space\n   Source: SpaceNews\n   URL: https://spacenews.com/whats-next-for-isr-in-space/\n   Key points:\n   • In this episode, SpaceNews correspondent Debra Werner leads a panel of experts to discuss the role of ISR in space and what comes next.\n   • This session was recorded in May […] The post What's next for ISR in space appeared…\n\n6. [Art] Judge Approves Trump Administration’s Paint Tests On Eisenhower Building\n   Source: Artforum\n   URL: https://www.artforum.com/news/judge-approves-trump-paint-tests-on-eisenhower-building-1234757385/\n   Key points:\n   • On Tuesday, a federal judge granted the Trump administration permission to proceed with paint tests on the Eisenhower Executive Building.\n   • Trump’s desire, which is to coat the granite facade with white paint, has been…\n\n7. [Biotech] STAT+: How Trump loyalist Heidi Overton became the president’s pick to run the FDA\n   Source: STAT News\n   URL: https://www.statnews.com/2026/08/19/heidi-overton-fda-commissioner-nominee-competing-interests-ahead/?utm_campaign=rss\n   Key points:\n   • If she wins confirmation as FDA commissioner, Heidi Overton will face plenty of big challenges.\n\n8. [General] Voters Aren’t Waiting for November to Try Ousting Officials Over Data Centers\n   Source: NYT Technology\n   URL: https://www.nytimes.com/2026/08/19/technology/data-centers-voter-concerns-independence-missouri.html\n   Key points:\n   • As a backlash grows over data centers, more local officials are facing recall elections for their support of the computing sites.\n\n9. [Robotics] The Evidence That Can Start Disappearing After a Truck Accident\n   Source: Robotics & Automation News\n   URL: https://roboticsandautomationnews.com/2026/08/19/the-evidence-that-can-start-disappearing-after-a-truck-accident/104313/\n   Key points:\n   • After a serious truck crash, the wreckage gets most of the attention.\n   • Damaged vehicles are sitting on the road, emergency crews are working, and traffic may be backed up for miles.\n   • It feels like everything that matters…\n\n10. [Space] Katalyst Space and NASA abandon plans for Swift reboost\n   Source: SpaceNews\n   URL: https://spacenews.com/katalyst-space-and-nasa-abandon-plans-for-swift-reboost/\n   Key points:\n   • Katalyst Space and NASA have called off plans to use the company’s Link spacecraft to raise the orbit of the agency’s Swift gamma-ray observatory, citing attitude-control problems with the spacecraft.\n\n11. [Art] Dark Emotions Evoke Growth in Alejandro Aguliar Canela's Graphite Drawings\n   Source: Colossal\n   URL: https://www.thisiscolossal.com/2026/08/alejandro-aguliar-canela-graphite-drawings/\n   Key points:\n   • \"It’s more about not discarding what might be considered unwanted, but instead finding some use for it,\" says the artist.\n   • Do stories and artists like this matter to you?\n   • Become a Colossal Member today and support…\n\n12. [Biotech] Trump administration sued over visa time limit that would affect grad students, postdocs\n   Source: STAT News\n   URL: https://www.statnews.com/2026/08/18/dhs-sued-over-visa-time-limit-for-foreign-students/?utm_campaign=rss\n   Key points:\n   • DHS was sued Tuesday over a sweeping policy change that would limit how long foreign students and scholars can remain in the U.S.\n\n— Categories present —\nArt · Biotech · General · Robotics · Space\n\n— Admin checklist —\n• Draft original title + dek (vary form: not always What… / Convergence of…)\n• Write body (~280–320 words) in CoC voice\n• Select hero from selected-article head image thumbnails (or paste URL)\n• Mark published when ready",
-      "paragraphs": [
-        "EDITORIAL BRIEF (outline only — not for publication as-is)\nPublish date: 2026-08-20\nInstruction: Use the titles and key points below to write the final ~300-word CoC editorial. Replace this entire brief with your finished prose before publishing.",
-        "— Selected articles of the day (12) —",
-        "1. [Art] National Gallery of Art Adds a Slew of New Artists to Its Collection\n   Source: Artforum\n   URL: https://www.artforum.com/news/national-gallery-of-art-adds-new-roster-of-artists-1234757484/\n   Key points:\n   • The National Gallery of Art in Washington, DC, has announced a raft of new acquisitions, including works by artists entering the collection for the first time.\n   • Among these are Marie Bracquemond, T.",
-        "2. [Biotech] STAT+: FDA approves Ultragenyx gene therapy\n   Source: STAT News\n   URL: https://www.statnews.com/2026/08/20/biotech-news-fda-approves-utlragenyx-gene-therapy/?utm_campaign=rss\n   Key points:\n   • Regeneron wins ultra-rare disease drug approval, a validating win for mRNA research, and more biotech news from The Readout",
-        "3. [General] China Is Strapping ‘Digital Bombs’ to Civilian Infrastructure—Is the US Ready?\n   Source: WIRED\n   URL: https://www.wired.com/story/china-is-strapping-digital-bombs-to-civilian-infrastructure-is-the-us-ready/\n   Key points:\n   • This week on “Uncanny Valley,” Andy Greenberg discusses sitting in on a war game simulating a cyberattack from the Chinese hacking group Volt Typhoon",
-        "4. [Robotics] Key Reasons Contractors in Saskatchewan Prefer Steel Structures\n   Source: Robotics & Automation News\n   URL: https://roboticsandautomationnews.com/2026/08/20/key-reasons-contractors-in-saskatchewan-prefer-steel-structures/104366/\n   Key points:\n   • Contractors face serious pressure whenever harsh weather conditions interrupt commercial construction plans across Saskatchewan.\n   • Reliable building materials help them maintain steady project schedules and satisfy…",
-        "5. [Space] What's next for ISR in space\n   Source: SpaceNews\n   URL: https://spacenews.com/whats-next-for-isr-in-space/\n   Key points:\n   • In this episode, SpaceNews correspondent Debra Werner leads a panel of experts to discuss the role of ISR in space and what comes next.\n   • This session was recorded in May […] The post What's next for ISR in space appeared…",
-        "6. [Art] Judge Approves Trump Administration’s Paint Tests On Eisenhower Building\n   Source: Artforum\n   URL: https://www.artforum.com/news/judge-approves-trump-paint-tests-on-eisenhower-building-1234757385/\n   Key points:\n   • On Tuesday, a federal judge granted the Trump administration permission to proceed with paint tests on the Eisenhower Executive Building.\n   • Trump’s desire, which is to coat the granite facade with white paint, has been…",
-        "7. [Biotech] STAT+: How Trump loyalist Heidi Overton became the president’s pick to run the FDA\n   Source: STAT News\n   URL: https://www.statnews.com/2026/08/19/heidi-overton-fda-commissioner-nominee-competing-interests-ahead/?utm_campaign=rss\n   Key points:\n   • If she wins confirmation as FDA commissioner, Heidi Overton will face plenty of big challenges.",
-        "8. [General] Voters Aren’t Waiting for November to Try Ousting Officials Over Data Centers\n   Source: NYT Technology\n   URL: https://www.nytimes.com/2026/08/19/technology/data-centers-voter-concerns-independence-missouri.html\n   Key points:\n   • As a backlash grows over data centers, more local officials are facing recall elections for their support of the computing sites.",
-        "9. [Robotics] The Evidence That Can Start Disappearing After a Truck Accident\n   Source: Robotics & Automation News\n   URL: https://roboticsandautomationnews.com/2026/08/19/the-evidence-that-can-start-disappearing-after-a-truck-accident/104313/\n   Key points:\n   • After a serious truck crash, the wreckage gets most of the attention.\n   • Damaged vehicles are sitting on the road, emergency crews are working, and traffic may be backed up for miles.\n   • It feels like everything that matters…",
-        "10. [Space] Katalyst Space and NASA abandon plans for Swift reboost\n   Source: SpaceNews\n   URL: https://spacenews.com/katalyst-space-and-nasa-abandon-plans-for-swift-reboost/\n   Key points:\n   • Katalyst Space and NASA have called off plans to use the company’s Link spacecraft to raise the orbit of the agency’s Swift gamma-ray observatory, citing attitude-control problems with the spacecraft.",
-        "11. [Art] Dark Emotions Evoke Growth in Alejandro Aguliar Canela's Graphite Drawings\n   Source: Colossal\n   URL: https://www.thisiscolossal.com/2026/08/alejandro-aguliar-canela-graphite-drawings/\n   Key points:\n   • \"It’s more about not discarding what might be considered unwanted, but instead finding some use for it,\" says the artist.\n   • Do stories and artists like this matter to you?\n   • Become a Colossal Member today and support…",
-        "12. [Biotech] Trump administration sued over visa time limit that would affect grad students, postdocs\n   Source: STAT News\n   URL: https://www.statnews.com/2026/08/18/dhs-sued-over-visa-time-limit-for-foreign-students/?utm_campaign=rss\n   Key points:\n   • DHS was sued Tuesday over a sweeping policy change that would limit how long foreign students and scholars can remain in the U.S.",
-        "— Categories present —\nArt · Biotech · General · Robotics · Space",
-        "— Admin checklist —\n• Draft original title + dek (vary form: not always What… / Convergence of…)\n• Write body (~280–320 words) in CoC voice\n• Select hero from selected-article head image thumbnails (or paste URL)\n• Mark published when ready"
-      ],
-      "wordCount": 683,
-      "themeId": "outline",
-      "themeLabel": "Admin outline (titles + key points)",
-      "formId": "outline_brief",
-      "formLabel": "outline brief",
+      "updatedAt": "2026-08-20T23:30:09.351Z",
+      "title": "First names in the collection",
+      "dek": "New work on a museum wall, new lines on a civilian grid",
+      "insight": "New work on a museum wall, new lines on a civilian grid",
       "authorName": "Dr. Wallace Lynch",
       "authorTitle": "Editor in Chief",
+      "body": "The National Gallery of Art in Washington, DC, has announced a raft of new acquisitions, about 190 works since March. Many of the names enter the collection for the first time. Marie Bracquemond. T. C. Cannon. LaToya Hobbs. Stacey Kranitz. Lorraine O'Grady. Christina Quarles. A first hanging is a kind of citizenship. The wall says they belong.\n\nOn Thursday, August 20, 2026, we hold that wall to one pressure: what we admit into the hold, and what we strap to the life that already lives there.\n\nThe FDA granted accelerated approval to an Ultragenyx gene therapy, the first treatment designed for the underlying cause of glycogen storage disease type Ia. A rare metabolism gets a door. Heidi Overton is the president's pick to run that agency. The Department of Homeland Security was sued over a policy that would limit how long foreign students and scholars can remain.\n\nWIRED reports a war game on Volt Typhoon, a Chinese hacking group, and digital bombs strapped to civilian infrastructure. In Independence, Missouri, and other towns, voters move to oust officials who backed data centers. What we admit to the grid is not only a server. It is a town.\n\nKatalyst Space and NASA abandon a plan to raise the orbit of Swift, citing attitude control problems with the Link spacecraft. A SpaceNews panel asks what comes next for intelligence from orbit. The sky is a sensor. The sensor can fail to hold.\n\nThe strap is not a theory. It is a pipe, a clinic record, a pad. Convergence is not a thicker wall. It is whether the names we let in, in a gallery or a clinic, still belong to the living hold and not only to the strap.",
+      "paragraphs": [
+        "The National Gallery of Art in Washington, DC, has announced a raft of new acquisitions, about 190 works since March. Many of the names enter the collection for the first time. Marie Bracquemond. T. C. Cannon. LaToya Hobbs. Stacey Kranitz. Lorraine O'Grady. Christina Quarles. A first hanging is a kind of citizenship. The wall says they belong.",
+        "On Thursday, August 20, 2026, we hold that wall to one pressure: what we admit into the hold, and what we strap to the life that already lives there.",
+        "The FDA granted accelerated approval to an Ultragenyx gene therapy, the first treatment designed for the underlying cause of glycogen storage disease type Ia. A rare metabolism gets a door. Heidi Overton is the president's pick to run that agency. The Department of Homeland Security was sued over a policy that would limit how long foreign students and scholars can remain.",
+        "WIRED reports a war game on Volt Typhoon, a Chinese hacking group, and digital bombs strapped to civilian infrastructure. In Independence, Missouri, and other towns, voters move to oust officials who backed data centers. What we admit to the grid is not only a server. It is a town.",
+        "Katalyst Space and NASA abandon a plan to raise the orbit of Swift, citing attitude control problems with the Link spacecraft. A SpaceNews panel asks what comes next for intelligence from orbit. The sky is a sensor. The sensor can fail to hold.",
+        "The strap is not a theory. It is a pipe, a clinic record, a pad. Convergence is not a thicker wall. It is whether the names we let in, in a gallery or a clinic, still belong to the living hold and not only to the strap."
+      ],
+      "wordCount": 286,
       "heroImage": "https://www.artforum.com/wp-content/uploads/2026/08/hobbs-dahliasfornaima.jpg?w=650",
       "heroCredit": "National Gallery of Art Adds a Slew of New Artists to Its Collection",
       "heroSource": "Artforum",
@@ -3870,10 +3906,9 @@
             "DHS was sued Tuesday over a sweeping policy change that would limit how long foreign students and scholars can remain in the U.S."
           ]
         }
-      ]
-    }
-  },
-  "history": [
+      ],
+      "publishedAt": "2026-08-20T23:30:09.351Z"
+    },
     {
       "id": "ed_2026-08-19",
       "publishDate": "2026-08-19",
