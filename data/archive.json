@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-08-20T12-18",
-    "scannedAt": "2026-08-20T12:18:41.409Z",
+    "batchId": "auto_2026-08-20T16-18",
+    "scannedAt": "2026-08-20T16:18:04.215Z",
     "items": [
       {
-        "id": "auto_2026-08-20T12-18_1",
+        "id": "auto_2026-08-20T16-18_1",
         "rank": 1,
-        "title": "Meta glasses are a workplace menace",
-        "category": "general",
-        "summary": "In August, Toru Hinkle was stocking shelves at their job at Target when they noticed two customers and asked if they needed any help. The men requested a price check on an item - but even after Hinkle told them the item…",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268688_Smart_glasses_at_work__CVirginia2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "sourceUrl": "https://www.theverge.com/report/982414/meta-glasses-work-surveillance-labor-security",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-20T12-18_2",
-        "rank": 2,
-        "title": "Collector couple to fund art history and AI fellowship at London’s Birkbeck",
-        "category": "art",
-        "summary": "The fellowship, supported by the founders of the Klesch Collection, is looking for an early-career researcher ‘redefining how art history is studied in the age of artificial intelligence and digital technologies’",
-        "image": "https://cdn.sanity.io/images/cxgd3urn/production/a57be69cc638ecc779c1c7a994f9665c03de5b87-4998x3124.jpg?w=140",
-        "source": "The Art Newspaper",
-        "sourceUrl": "https://www.theartnewspaper.com/2026/08/20/klesch-collection-endow-postdoctoral-fellowship-focusing-art-history-ai-birkbeck-london",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-20T12-18_3",
-        "rank": 3,
-        "title": "Schizophrenia’s lost brain connections follow a surprising pattern",
-        "category": "neuroscience",
-        "summary": "Specialized brain scans reveal that schizophrenia is linked to widespread loss of the synapses that connect brain cells, with the left side of the brain hit especially hard. The damage follows a surprisingly organized…",
-        "image": "https://www.sciencedaily.com/images/1920/glitchy-face-distortion.webp",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260820002443.htm",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-20T12-18_4",
-        "rank": 4,
-        "title": "Muon Space raises $250 million to ramp up satellite production",
+        "title": "Moog Highlights Huntsville Expansion and New Hardware-in-the-Loop Lab During Space and Missile Defense Symposium",
         "category": "space",
-        "summary": "Muon Space has raised $250 million to fuel the small satellite specialist’s push into larger, more powerful spacecraft and constellations. The post Muon Space raises $250 million to ramp up satellite production appeared…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/muon_grandopening-3-1-scaled.jpg?fit=1024%2C683&ssl=1",
+        "summary": "Huntsville, AL — Moog Inc. (NYSE: MOG.A and MOG.B) announces a significant expansion at its Huntsville, AL facility that now includes a new secure Hypersonic/Interceptor Hardware-in-the-Loop (HWIL) lab. It is […] The…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/12/Moog_logo_maroon-1.png?fit=1024%2C1024&ssl=1",
         "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/muon-space-raises-250-million-to-ramp-up-satellite-production/",
+        "sourceUrl": "https://spacenews.com/moog-highlights-huntsville-expansion-and-new-hardware-in-the-loop-lab-during-space-and-missile-defense-symposium/",
         "fromX": false
       },
       {
-        "id": "auto_2026-08-20T12-18_5",
+        "id": "auto_2026-08-20T16-18_2",
+        "rank": 2,
+        "title": "Rare Bernini painting discovered in Vienna museum storeroom ahead of major exhibition.",
+        "category": "art",
+        "summary": "A new painting by Renaissance master Gian Lorenzo Bernini has been discovered and will be unveiled in December at Vienna’s Kunsthistorisches Museum, according to The Art Newspaper . The painting, titled Portrait of an…",
+        "image": "https://artsy-media-uploads.s3.amazonaws.com/c2Y9LmGUXr7XWrDLlaS3GQ%2Funnamed_1500x1000+%281%29.jpg",
+        "source": "Artsy",
+        "sourceUrl": "https://www.artsy.net/article/artsy-editorial-rare-bernini-painting-discovered-vienna-museum-storeroom-ahead-major-exhibition",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-20T16-18_3",
+        "rank": 3,
+        "title": "It’s Greg Brockman’s OpenAI now",
+        "category": "general",
+        "summary": "OpenAI has had a hell of a year. The company spent months battling former co-founder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP221_GREG_BROCKMAN2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-20T16-18_4",
+        "rank": 4,
+        "title": "Debates over AI consciousness are a trap",
+        "category": "ai",
+        "summary": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis,…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/smokescreen.jpg?resize=1200,600",
+        "source": "MIT Technology Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-20T16-18_5",
         "rank": 5,
-        "title": "STAT+: One of the most consequential years for cancer treatment, ever",
+        "title": "STAT+: How a Trump loyalist got the FDA nomination",
         "category": "biotech",
-        "summary": "Between success with a pancreatic cancer drug and now success with an mRNA neoantigen vaccine, it has been a banner year for developing cancer therapies.",
-        "image": "https://www.statnews.com/wp-content/uploads/2023/10/AdobeStock_427218185-1024x576.jpeg",
+        "summary": "What you need to know about Heidi Overton, and Erica Schwartz's first speech to CDC staff.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/08/AP26222696212458-1024x576.jpg",
         "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/08/20/cancer-vaccine-merck-moderna-biotech-observations/?utm_campaign=rss",
+        "sourceUrl": "https://www.statnews.com/2026/08/20/heidi-overton-fda-commissioner-nominee-erica-schwartz-cdc-speech/?utm_campaign=rss",
         "fromX": false
       }
     ]
