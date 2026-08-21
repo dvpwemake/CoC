@@ -1229,5 +1229,66 @@
         "imageProxy": "https://images.weserv.nl/?url=neurosciencenews.com%2Ffiles%2F2026%2F07%2Fbook-adaption-aphantasia-neuroscience-1155x770.jpg&w=640&h=400&fit=cover&we&output=jpg"
       }
     ]
+  },
+  {
+    "batchId": "auto_2026-07-19T20-34",
+    "scannedAt": "2026-07-19T20:34:41.126Z",
+    "items": [
+      {
+        "id": "auto_2026-07-19T20-34_1",
+        "rank": 1,
+        "title": "Is Working Memory the Subconscious Engine of Consciousness?",
+        "category": "neuroscience",
+        "summary": "A new study evaluates the historical capacity debates and architectural frameworks linking working memory to conscious awareness, presenting an alternative \"Spectrum Model\" of human memory encoding.",
+        "image": "https://neurosciencenews.com/files/2026/07/working-memory-consciousness-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/working-memory-conscious-awareness-31081/",
+        "imageProxy": "https://images.weserv.nl/?url=neurosciencenews.com%2Ffiles%2F2026%2F07%2Fworking-memory-consciousness-neuroscience-1155x770.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-07-19T20-34_2",
+        "rank": 2,
+        "title": "Opinion: Beware the unintended consequences of testosterone screening for military servicemembers",
+        "category": "biotech",
+        "summary": "“I fear that the widespread rollout of testosterone screening may lead to some surprising and unintended consequences,” writes a urologist who studies testosterone.",
+        "image": "https://www.statnews.com/wp-content/uploads/2019/05/AdobeStock_115344809-1024x576.jpeg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/07/18/military-testosterone-screening-supplements/?utm_campaign=rss",
+        "imageProxy": "https://images.weserv.nl/?url=www.statnews.com%2Fwp-content%2Fuploads%2F2019%2F05%2FAdobeStock_115344809-1024x576.jpeg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-07-19T20-34_3",
+        "rank": 3,
+        "title": "Mauritius becomes 70th nation to sign the Artemis Accords",
+        "category": "space",
+        "summary": "The island nation of Mauritius signed the Artemis Accords July 17, becoming the 70th nation to do so in less than six years. The post Mauritius becomes 70th nation to sign the Artemis Accords appeared first on SpaceNews…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/artemisaccords-70.jpeg?fit=1024%2C576&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/mauritius-becomes-70th-nation-to-sign-the-artemis-accords/",
+        "imageProxy": "https://images.weserv.nl/?url=i0.wp.com%2Fspacenews.com%2Fwp-content%2Fuploads%2F2026%2F07%2Fartemisaccords-70.jpeg%3Ffit%3D1024%252C576%26ssl%3D1&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-07-19T20-34_4",
+        "rank": 4,
+        "title": "Clean energy still beats fossil fuels on cost, despite, well, everything",
+        "category": "energy",
+        "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter. Sign up to get it every Friday. Pretty much every type of energy is getting more expensive in the U.S., but clean energy is still a better bet…",
+        "image": "https://img.canarymedia.com/content/uploads/Palm-Springs-wind-turbines_GettyImages-1397404262.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=e75b2cd71bfb52a62639fbfccbbf85dc",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/clean-energy/lcoe-lazard-clean-energy",
+        "imageProxy": "https://images.weserv.nl/?url=img.canarymedia.com%2Fcontent%2Fuploads%2FPalm-Springs-wind-turbines_GettyImages-1397404262.jpg%3Fauto%3Dcompress%252Cformat%26crop%3Dfocalpoint%26fit%3Dcrop%26fp-x%3D0.5%26fp-y%3D0.5%26h%3D630%26q%3D82%26w%3D1200%26s%3De75b2cd71bfb52a62639fbfccbbf85dc&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-07-19T20-34_5",
+        "rank": 5,
+        "title": "This Graduate Student Equips NASA’s Robots With Assembly Skills",
+        "category": "robotics",
+        "summary": "Like many engineers, Sarah Downs says she knew she wanted to pursue a STEM career from a young age. As a teenager, she discovered robotics through her Tulsa, Okla., middle school’s First Lego League team, and she fell…",
+        "image": "https://spectrum.ieee.org/media-library/a-young-woman-with-blonde-hair-softly-smiling-next-to-a-pair-of-collaborative-robot-arms.jpg?id=67499761&width=980",
+        "source": "IEEE Spectrum",
+        "sourceUrl": "https://spectrum.ieee.org/graduate-student-nasas-robots-assembly",
+        "imageProxy": "https://images.weserv.nl/?url=spectrum.ieee.org%2Fmedia-library%2Fa-young-woman-with-blonde-hair-softly-smiling-next-to-a-pair-of-collaborative-robot-arms.jpg%3Fid%3D67499761%26width%3D980&w=640&h=400&fit=cover&we&output=jpg"
+      }
+    ]
   }
 ]

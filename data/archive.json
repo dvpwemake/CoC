@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-08-21T00-28",
+    "scannedAt": "2026-08-21T00:28:37.132Z",
+    "items": [
+      {
+        "id": "auto_2026-08-21T00-28_1",
+        "rank": 1,
+        "title": "New space transportation policy focuses on increased launch rates",
+        "category": "space",
+        "summary": "The White House released a new space transportation policy Aug. 20 with an emphasis on enabling a sharp increase in the number of launches and reentries. The post New space transportation policy focuses on increased…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/HNZKBrTWYAAvWKc-scaled.jpeg?fit=1024%2C653&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/new-space-transportation-policy-focuses-on-increased-launch-rates/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-21T00-28_2",
+        "rank": 2,
+        "title": "Google Pixel 11 Review: Minor Upgrade",
+        "category": "general",
+        "summary": "Incremental improvements fail to generate much excitement, but Google’s Pixel 11 is still an accomplished Android phone.",
+        "image": "https://media.wired.com/photos/6a8780863aef0f642ff30070/master/pass/Google-Pixel-11-1-SOURCE-Simon-Hill.jpg",
+        "source": "WIRED",
+        "sourceUrl": "https://www.wired.com/review/google-pixel-11/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-21T00-28_3",
+        "rank": 3,
+        "title": "PJM wants data centers to bring their own power. Pennsylvania’s on it.",
+        "category": "energy",
+        "summary": "Last month, grid operator PJM Interconnection unveiled a long-awaited proposal to prevent data centers from spiking power prices — but the plan largely relies on states to give it teeth . Pennsylvania, one of the…",
+        "image": "https://img.canarymedia.com/content/uploads/Josh-Shapiro-May-19-event_GettyImages-2276618450.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=a498af41cd59dd74fb27cb2d0c3e4dc0",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/data-centers/pjm-data-centers-pennsylvania",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-21T00-28_4",
+        "rank": 4,
+        "title": "French Heat Wave Fries Flowers at Monet Gardens in Giverny",
+        "category": "art",
+        "summary": "The recent heat waves that have set France abroil—shuttering museums, sparking wildfires, and sending citizens plunging into the Seine—have taken their toll on the famed gardens of Claude Monet in Giverny in Normandy.…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/08/GettyImages-2158931515.jpg?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/news/french-heat-wave-fries-flowers-at-monet-gardens-1234757474/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-21T00-28_5",
+        "rank": 5,
+        "title": "Debates over AI consciousness are a trap",
+        "category": "ai",
+        "summary": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis,…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/smokescreen.jpg?resize=1200,600",
+        "source": "MIT Technology Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-08-20T20-13",
     "scannedAt": "2026-08-20T20:13:59.508Z",
     "items": [
