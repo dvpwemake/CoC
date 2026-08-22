@@ -122,6 +122,26 @@
     ]
   },
   {
+    "batchId": "editorial_2026-08-20",
+    "scannedAt": "2026-08-20T23:40:25.972Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-08-20",
+        "rank": 0,
+        "title": "First names in the collection",
+        "category": "editorial",
+        "summary": "New work on a museum wall, new lines on a civilian grid",
+        "image": "https://media.wired.com/photos/6a861888d3fed06f8e21101b/master/pass/Uncanny-Valley-Podcast-Typhoon-Hack-Security-1130970903.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-20.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-08-20",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-08-20T20-13",
     "scannedAt": "2026-08-20T20:13:59.508Z",
     "items": [

@@ -1,5 +1,66 @@
 [
   {
+    "scannedAt": "2026-06-11T16:18:47.790Z",
+    "items": [
+      {
+        "id": "b1781194727790_1",
+        "rank": 1,
+        "title": "Scientists Discover Colossal Fan-Shaped Structure Hidden Beneath Antarctica",
+        "category": "space",
+        "summary": "Researchers have identified a massive hidden geological feature beneath the East Antarctic Ice Sheet - the East Antarctic Fan-Shaped Basin Province (EAFBP). This continent-scale structure consists of enormous interconnected basins buried under up to 3 kilometers of ice. The fan-shaped formation likely formed through rotational crustal extension before the breakup of the ancient Gondwana supercontinent, potentially influencing Antarctica's separation from Australia. The discovery reshapes understanding of Antarctic geology and could impact ice sheet stability predictions for climate change models.",
+        "source": "SciTechDaily",
+        "sourceUrl": "https://scitechdaily.com/scientists-discover-colossal-hidden-structure-beneath-antarctica/",
+        "image": "https://www.sciencedaily.com/images/1920/antarctica-ice-sheet-satellite.webp",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fantarctica-ice-sheet-satellite.webp&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1781194727790_2",
+        "rank": 2,
+        "title": "Quantum Metasurface Breakthrough Boosts Terahertz Detection by 20 Times",
+        "category": "ai",
+        "summary": "Scientists have developed a revolutionary quantum metasurface photodetector that dramatically improves terahertz radiation detection capabilities. The compact device combines quantum physics with specially engineered metasurfaces, achieving 20x better sensitivity than previous designs. Using the in-plane photoelectric effect with a two-dimensional electron system, the detector overcomes major limitations in THz technology. This breakthrough could enable practical applications in medical imaging, wireless communications, security screening, and scientific research that were previously impossible due to poor THz detection sensitivity.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://scitechdaily.com/this-quantum-detector-boosts-terahertz-sensitivity-by-20-times/",
+        "image": "https://scitechdaily.com/images/Quantum-Metasurface-Based-Photoelectric-Tunable-Step-Terahertz-Detector.jpg",
+        "imageProxy": "https://images.weserv.nl/?url=scitechdaily.com%2Fimages%2FQuantum-Metasurface-Based-Photoelectric-Tunable-Step-Terahertz-Detector.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1781194727790_3",
+        "rank": 3,
+        "title": "Neuro-Symbolic AI System Slashes Energy Use by 100x While Boosting Performance",
+        "category": "ai",
+        "summary": "Researchers at Tufts University have developed a groundbreaking neuro-symbolic AI system that combines neural networks with human-like symbolic reasoning. The hybrid approach consumes up to 100 times less energy than conventional AI methods while dramatically improving accuracy. In robotic task tests using the Tower of Hanoi puzzle, the system achieved a 95% success rate compared to 34% for standard models, training in just 34 minutes versus over a day for traditional systems. This breakthrough addresses AI's massive energy consumption problem while advancing toward more human-like reasoning capabilities.",
+        "source": "Crescendo AI",
+        "sourceUrl": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+        "image": "https://cdn.prod.website-files.com/67166bf779ba8852260f7d1f/694a731a76c9d6876ddf8a8f_latest-ai-news-and-updates.png",
+        "imageProxy": "https://images.weserv.nl/?url=cdn.prod.website-files.com%2F67166bf779ba8852260f7d1f%2F694a731a76c9d6876ddf8a8f_latest-ai-news-and-updates.png&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1781194727790_4",
+        "rank": 4,
+        "title": "Light-Matter Particle Breakthrough Could Revolutionize AI Computing",
+        "category": "ai",
+        "summary": "University of Pennsylvania researchers have created hybrid light-matter particles called exciton-polaritons that could dramatically speed up AI computing while using far less energy. The breakthrough involves coupling light into nanoscale cavities with atomically thin materials, creating particles that combine light's speed with matter's interaction capabilities. This technology could replace some electronic computing processes with ultra-efficient light-based alternatives, potentially solving AI's growing energy crisis. The work represents a major step toward photonic computing systems that could power future AI applications.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
+        "image": "https://www.sciencedaily.com/images/1920/photonic-computing-component.webp",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fphotonic-computing-component.webp&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "b1781194727790_5",
+        "rank": 5,
+        "title": "Revolutionary Light-Powered Chip Advances AI and Quantum Computing",
+        "category": "ai",
+        "summary": "Scientists at Monash University have created a groundbreaking photonic chip that can generate, steer, and read light-based information within a single device. The chip uses atomically thin materials and nanoscale structures to control the 'valley' degree of freedom in light - a unique quantum property that enables new ways of encoding information. This valleytronics breakthrough marks a significant milestone toward ultra-fast, energy-efficient computing systems that could accelerate both AI applications and quantum technologies. The all-in-one design represents a major advance in photonic information processing.",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260601025343.htm",
+        "image": "https://www.sciencedaily.com/images/1920/photonic-valleytronic-chip-for-information-processing.webp",
+        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fphotonic-valleytronic-chip-for-information-processing.webp&w=640&h=400&fit=cover&we&output=jpg"
+      }
+    ],
+    "batchId": "b1781194727790"
+  },
+  {
     "scannedAt": "2026-06-10T22:55:32.976Z",
     "items": [
       {
