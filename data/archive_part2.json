@@ -1,5 +1,25 @@
 [
   {
+    "batchId": "editorial_2026-07-20",
+    "scannedAt": "2026-07-20T16:03:59.666Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-07-20",
+        "rank": 0,
+        "title": "Sacred rooms and civic streets",
+        "category": "editorial",
+        "summary": "Sacred rooms and civic streets—a short editorial on attention under pressure.",
+        "image": "https://images-assets.nasa.gov/image/PIA18033/PIA18033~medium.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-07-20.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-07-20",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-07-20T13-40",
     "scannedAt": "2026-07-20T13:40:10.612Z",
     "items": [
@@ -1502,55 +1522,5 @@
       }
     ],
     "batchId": "b1781218477364"
-  },
-  {
-    "scannedAt": "2026-06-11T18:54:12.807Z",
-    "items": [
-      {
-        "id": "b1781204052807_2",
-        "rank": 2,
-        "title": "JWST Reveals Two Completely Different Twilights on Ultra-Hot Exoplanet WASP-121 b",
-        "category": "space",
-        "summary": "The James Webb Space Telescope has uncovered striking differences between the dawn and dusk regions of the ultra-hot exoplanet WASP-121 b. Scientists found that fierce winds carry heat from the planet's permanent dayside, making the evening side hotter and more expanded. The discovery reveals that water molecules break apart at extreme temperatures and mysterious mineral clouds may be shaping the cooler side's atmosphere, providing the first observational evidence of atmospheric asymmetry on an exoplanet.",
-        "source": "Nature Astronomy",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260611024559.htm",
-        "image": "https://www.sciencedaily.com/images/1920/exoplanet-wasp-121-b-artists-impression.webp",
-        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fexoplanet-wasp-121-b-artists-impression.webp&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "b1781204052807_3",
-        "rank": 3,
-        "title": "Naqi Logix Unveils AI Neural Earbuds for Hands-Free, Voice-Free Technology Control",
-        "category": "ai",
-        "summary": "Naqi Logix announced its breakthrough neural interface technology that transforms everyday earbuds into intuitive, hands-free controllers. The AI-powered neural earbuds detect subtle facial micro-gestures and head movements, converting them into digital commands without cameras, voice commands, or screens. The technology enables control of computers, robotics, mobile devices, and smart environments, representing a significant advance in human-machine interfaces and accessibility technology.",
-        "source": "EINPresswire",
-        "sourceUrl": "https://www.einpresswire.com/article/918770716/naqi-logix-showcases-the-future-of-ai-neurotechnology-at-europe-s-vivatech-2026",
-        "image": "https://img.einnews.com/facebook/1129354/naqi-black-earbuds-with-logo.png",
-        "imageProxy": "https://images.weserv.nl/?url=img.einnews.com%2Ffacebook%2F1129354%2Fnaqi-black-earbuds-with-logo.png&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "b1781204052807_4",
-        "rank": 4,
-        "title": "Tufts Researchers Develop Neuro-Symbolic AI System Slashing Energy Use by 100x",
-        "category": "ai",
-        "summary": "Researchers at Tufts University developed a revolutionary neuro-symbolic AI system that combines neural networks with human-like symbolic reasoning, reducing energy consumption by up to 100 times compared to conventional approaches while dramatically improving performance. In robotic task tests, the hybrid system achieved a 95% success rate versus 34% for standard models and trained in just 34 minutes versus more than a day and a half for traditional systems. This breakthrough addresses AI's growing energy demands and could transform robotics applications.",
-        "source": "Crescendo AI",
-        "sourceUrl": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
-        "image": "https://cdn.prod.website-files.com/67166bf779ba8852260f7d1f/694a731a76c9d6876ddf8a8f_latest-ai-news-and-updates.png",
-        "imageProxy": "https://images.weserv.nl/?url=cdn.prod.website-files.com%2F67166bf779ba8852260f7d1f%2F694a731a76c9d6876ddf8a8f_latest-ai-news-and-updates.png&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "b1781204052807_5",
-        "rank": 5,
-        "title": "Cell-Free Biomanufacturing Systems Revolutionize On-Demand Protein Production",
-        "category": "biotech",
-        "summary": "Leading biotechnology companies have achieved breakthrough advances in cell-free biomanufacturing systems that can produce proteins, enzymes, and chemicals on demand without living organisms or fermentation tanks. These modular, freeze-dried systems are faster, more stable, and easier to scale than traditional methods. The technology enables portable, real-time, programmable production for diagnostics, therapeutics, and sustainable materials, representing a paradigm shift in biotechnology manufacturing that could revolutionize drug discovery and vaccine development.",
-        "source": "CAS Insights",
-        "sourceUrl": "https://www.cas.org/resources/cas-insights/scientific-breakthroughs-2026-emerging-trends-watch",
-        "image": "https://cdn.prod.website-files.com/650867962272bf8f15c1034b/692da5a43ed15a57aaebbce0_Trends-to-watch-2026-Social-CAS-Insights-INSSOC102780ENG-Article.avif",
-        "imageProxy": "https://images.weserv.nl/?url=cdn.prod.website-files.com%2F650867962272bf8f15c1034b%2F692da5a43ed15a57aaebbce0_Trends-to-watch-2026-Social-CAS-Insights-INSSOC102780ENG-Article.avif&w=640&h=400&fit=cover&we&output=jpg"
-      }
-    ],
-    "batchId": "b1781204052807"
   }
 ]

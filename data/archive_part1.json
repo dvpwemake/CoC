@@ -1,5 +1,25 @@
 [
   {
+    "batchId": "editorial_2026-08-04",
+    "scannedAt": "2026-08-05T03:26:34.131Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-08-04",
+        "rank": 0,
+        "title": "What authenticity claims, and what the standard still bars",
+        "category": "editorial",
+        "summary": "Convergence of measured distance and contested scale",
+        "image": "https://img.canarymedia.com/content/uploads/GettyImages-2212809333-2-copy.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=1a7aa3b2de4b12098fc955c3ceadca64",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-04.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-08-04",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-08-04T20-58",
     "scannedAt": "2026-08-04T20:58:37.186Z",
     "items": [
@@ -1227,26 +1247,6 @@
         "source": "Canary Media",
         "sourceUrl": "https://www.canarymedia.com/articles/wind/states-lawsuit-trump-defense-permitting-freeze",
         "imageProxy": "https://images.weserv.nl/?url=img.canarymedia.com%2Fcontent%2Fuploads%2FGettyImages-2284679445.jpg%3Fauto%3Dcompress%252Cformat%26crop%3Dfocalpoint%26fit%3Dcrop%26fp-x%3D0.5%26fp-y%3D0.5%26h%3D630%26q%3D82%26w%3D1200%26s%3D1631f1ba3c3e2c2428a65eada6de81e6&w=640&h=400&fit=cover&we&output=jpg"
-      }
-    ]
-  },
-  {
-    "batchId": "editorial_2026-07-20",
-    "scannedAt": "2026-07-20T16:03:59.666Z",
-    "kind": "editorial_archive",
-    "items": [
-      {
-        "id": "editorial_2026-07-20",
-        "rank": 0,
-        "title": "Sacred rooms and civic streets",
-        "category": "editorial",
-        "summary": "Sacred rooms and civic streets—a short editorial on attention under pressure.",
-        "image": "https://images-assets.nasa.gov/image/PIA18033/PIA18033~medium.jpg",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-07-20.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-07-20",
-        "authorName": "Dr. Wallace Lynch"
       }
     ]
   }

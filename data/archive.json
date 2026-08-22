@@ -1,5 +1,25 @@
 [
   {
+    "batchId": "editorial_2026-08-21",
+    "scannedAt": "2026-08-22T05:01:16.146Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-08-21",
+        "rank": 0,
+        "title": "Totality, then the furnace",
+        "category": "editorial",
+        "summary": "The sun’s outer air, and a 500 million dollar turn back to coal",
+        "image": "https://img.canarymedia.com/content/uploads/Middletown-Ohio-Cliffs-workers-August-2026_GettyImages-2290802933.jpg?auto=compress%2Cformat&w=1200",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-21.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-08-21",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-08-22T04-18",
     "scannedAt": "2026-08-22T04:18:50.064Z",
     "items": [
