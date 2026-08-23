@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-08-23T00-27",
+    "scannedAt": "2026-08-23T00:27:39.980Z",
+    "items": [
+      {
+        "id": "auto_2026-08-23T00-27_1",
+        "rank": 1,
+        "title": "Sick of Constant Pings, They’re Sending Texts at the Speed of Carrier Pigeon",
+        "category": "general",
+        "summary": "Apps that let users send digital messages at ultraslow speeds have taken off, with users reveling in a slower pace of life. (Just don’t use the them to make dinner plans.)",
+        "image": "https://static01.nyt.com/images/2026/08/21/technology/22xp-pigeons-PROMO/oakImage-1787350721844-mediumSquareAt3X.png",
+        "source": "NYT Technology",
+        "sourceUrl": "https://www.nytimes.com/2026/08/22/technology/carrier-pigeon-app-texting-technology.html",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-23T00-27_2",
+        "rank": 2,
+        "title": "Multilingual people may have brains up to 13 years younger",
+        "category": "neuroscience",
+        "summary": "People who speak several languages may have brains that age more slowly, with four-language speakers showing brains that appeared about 13 years younger than those of monolinguals. Starting earlier and becoming highly…",
+        "image": "https://www.sciencedaily.com/images/1920/human-brain-model-surrounded-by-colorful-alphabet-letters-close.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260821012226.htm",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-23T00-27_3",
+        "rank": 3,
+        "title": "Travere Therapeutics Turns a Rare Disease Approval into Two Quarters of Accelerating Sales",
+        "category": "robotics",
+        "summary": "The Food and Drug Administration granted Travere Therapeutics full approval for FILSPARI in focal segmental glomerulosclerosis on April 13, 2026, the drug's second full approval after a 2023 clearance for IgA…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/stocks-and-shares-1.jpg",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/22/travere-therapeutics-turns-a-rare-disease-approval-into-two-quarters-of-accelerating-sales/104412/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-23T00-27_4",
+        "rank": 4,
+        "title": "JWST finds early galaxies may be 4 times more massive than thought",
+        "category": "space",
+        "summary": "Astronomers using JWST have discovered that massive early galaxies contain far more small, faint stars than expected. That hidden population could make some of these galaxies three to four times more massive than…",
+        "image": "https://www.sciencedaily.com/images/1920/six-early-galaxies.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260822015141.htm",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-23T00-27_5",
+        "rank": 5,
+        "title": "Mariam Elnozahy Appointed As Curator Of The 2027 Ulaanbaatar Biennale",
+        "category": "art",
+        "summary": "Researcher, writer, and curator Mariam Elnozahy has been announced as chief curator of the second edition of the Ulaanbaatar Biennale. The event, which serves as a nexus for the Mongolian arts and culture sector to…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/08/Mariam-Portrait-_-Louise-Helmfrid-scaled-1.jpg?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/news/mariam-elnozahy-ulaanbaatar-biennale-1234757716/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-08-22T20-07",
     "scannedAt": "2026-08-22T20:07:53.967Z",
     "items": [
