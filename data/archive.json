@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-08-23T00-27",
-    "scannedAt": "2026-08-23T00:27:39.980Z",
+    "batchId": "auto_2026-08-23T04-24",
+    "scannedAt": "2026-08-23T04:24:08.785Z",
     "items": [
       {
-        "id": "auto_2026-08-23T00-27_1",
+        "id": "auto_2026-08-23T04-24_1",
         "rank": 1,
-        "title": "Sick of Constant Pings, They’re Sending Texts at the Speed of Carrier Pigeon",
+        "title": "Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has.",
         "category": "general",
-        "summary": "Apps that let users send digital messages at ultraslow speeds have taken off, with users reveling in a slower pace of life. (Just don’t use the them to make dinner plans.)",
-        "image": "https://static01.nyt.com/images/2026/08/21/technology/22xp-pigeons-PROMO/oakImage-1787350721844-mediumSquareAt3X.png",
+        "summary": "The mysterious collapse of a European cryptocurrency exchange helps to explain why the industry hasn’t shaken off its reputation as a magnet for criminals.",
+        "image": "https://static01.nyt.com/images/2026/08/23/multimedia/23int-poland-crypto-hqbv/23int-poland-crypto-hqbv-mediumSquareAt3X.jpg",
         "source": "NYT Technology",
-        "sourceUrl": "https://www.nytimes.com/2026/08/22/technology/carrier-pigeon-app-texting-technology.html",
+        "sourceUrl": "https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html",
         "fromX": false
       },
       {
-        "id": "auto_2026-08-23T00-27_2",
+        "id": "auto_2026-08-23T04-24_2",
         "rank": 2,
-        "title": "Multilingual people may have brains up to 13 years younger",
-        "category": "neuroscience",
-        "summary": "People who speak several languages may have brains that age more slowly, with four-language speakers showing brains that appeared about 13 years younger than those of monolinguals. Starting earlier and becoming highly…",
-        "image": "https://www.sciencedaily.com/images/1920/human-brain-model-surrounded-by-colorful-alphabet-letters-close.webp",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260821012226.htm",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-23T00-27_3",
-        "rank": 3,
-        "title": "Travere Therapeutics Turns a Rare Disease Approval into Two Quarters of Accelerating Sales",
-        "category": "robotics",
-        "summary": "The Food and Drug Administration granted Travere Therapeutics full approval for FILSPARI in focal segmental glomerulosclerosis on April 13, 2026, the drug's second full approval after a 2023 clearance for IgA…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/stocks-and-shares-1.jpg",
-        "source": "Robotics & Automation News",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/22/travere-therapeutics-turns-a-rare-disease-approval-into-two-quarters-of-accelerating-sales/104412/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-23T00-27_4",
-        "rank": 4,
-        "title": "JWST finds early galaxies may be 4 times more massive than thought",
+        "title": "APOD: 2026 August 22 – Mostly Perseids",
         "category": "space",
-        "summary": "Astronomers using JWST have discovered that massive early galaxies contain far more small, faint stars than expected. That hidden population could make some of these galaxies three to four times more massive than…",
-        "image": "https://www.sciencedaily.com/images/1920/six-early-galaxies.webp",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260822015141.htm",
+        "summary": "APOD Science APOD APOD: 2026 August 22… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph…",
+        "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/august/allsky_CEMeNt_Aug12-13final_pretty_8bit.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "source": "NASA",
+        "sourceUrl": "https://science.nasa.gov/image-article/apod/apod-2026-august-22-mostly-perseids/",
         "fromX": false
       },
       {
-        "id": "auto_2026-08-23T00-27_5",
-        "rank": 5,
-        "title": "Mariam Elnozahy Appointed As Curator Of The 2027 Ulaanbaatar Biennale",
+        "id": "auto_2026-08-23T04-24_3",
+        "rank": 3,
+        "title": "MoMA PS1 Will Open New Café, Chef DeVonn Francis’s Symone, This October",
         "category": "art",
-        "summary": "Researcher, writer, and curator Mariam Elnozahy has been announced as chief curator of the second edition of the Ulaanbaatar Biennale. The event, which serves as a nexus for the Mongolian arts and culture sector to…",
-        "image": "https://www.artforum.com/wp-content/uploads/2026/08/Mariam-Portrait-_-Louise-Helmfrid-scaled-1.jpg?w=650",
+        "summary": "MoMA PS1, the Museum of Modern Art’s sister museum in Long Island City, Queens, will welcome a new eatery to its restaurant space in the fall, per a press release. In early October, Chef DeVonn Francis will debut…",
+        "image": "https://www.artforum.com/wp-content/uploads/2025/12/PS1_Aerial-Building-Shot_Noel-Woodford-0Q3A2693_SELECT-2000x1333-1.jpg?w=650",
         "source": "Artforum",
-        "sourceUrl": "https://www.artforum.com/news/mariam-elnozahy-ulaanbaatar-biennale-1234757716/",
+        "sourceUrl": "https://www.artforum.com/news/moma-ps1-will-open-new-cafe-this-october-1234757714/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-23T04-24_4",
+        "rank": 4,
+        "title": "STAT+: Are cancer patients getting too much drug?",
+        "category": "biotech",
+        "summary": "Moderna's stunning surge and drop, AI in scientific writing, and more biotech news from The Readout",
+        "image": "https://www.statnews.com/wp-content/uploads/2024/10/AdobeStock_380541572-1024x576.jpeg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/08/21/biotech-news-are-cancer-patients-us-getting-too-much-drug/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-23T04-24_5",
+        "rank": 5,
+        "title": "NFTs vs Traditional Art Sales: Opportunities and Challenges",
+        "category": "robotics",
+        "summary": "Artists have sold their work through galleries, art fairs and auction houses to collectors worldwide for centuries: walk in, look at a piece and pay for something to hang on a wall. NFTs changed that. Now an artist can…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/Artiststore-1.png",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/21/nfts-vs-traditional-art-sales-opportunities-and-challenges/104387/",
         "fromX": false
       }
     ]
