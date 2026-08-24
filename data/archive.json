@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-08-24T04-32",
-    "scannedAt": "2026-08-24T04:32:01.638Z",
+    "batchId": "auto_2026-08-24T08-32",
+    "scannedAt": "2026-08-24T08:32:10.625Z",
     "items": [
       {
-        "id": "auto_2026-08-24T04-32_1",
+        "id": "auto_2026-08-24T08-32_1",
         "rank": 1,
-        "title": "We’re All Going to the World’s Fair is an intimate coming-of-age horror film",
-        "category": "general",
-        "summary": "Jane Schoenbrun's latest film, Teenage Sex and Death at Camp Miasma, is making a splash in theaters right now. So it seems like the perfect time to revisit their first film, We're All Going to the World's Fair. I fell…",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/MV5BNGQyNmE1ZDctNzlhYS00NDQyLWIwNjctYTQzNGFkZTNiZmUwXkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw%40%40._V1_.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-        "source": "The Verge",
-        "sourceUrl": "https://www.theverge.com/entertainment/983177/jane-schoenbrun-were-all-going-to-the-worlds-fair-horror-movie-review",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-24T04-32_2",
-        "rank": 2,
-        "title": "Black holes keep tearing these stars apart, but they survive",
-        "category": "space",
-        "summary": "Astronomers have found stars that repeatedly skim past supermassive black holes, surviving each encounter while producing a new burst of light. In some systems, those flares mysteriously fade with every return.…",
-        "image": "https://www.sciencedaily.com/images/1920/star-ripped-apart-by-tidal-forces-of-supermassive-black-hole.webp",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260822015119.htm",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-24T04-32_3",
-        "rank": 3,
-        "title": "Quitting alcohol may prime the brain for relapse",
-        "category": "neuroscience",
-        "summary": "Mice that developed compulsive drinking after alcohol abstinence showed more than double the activity in a brain region associated with stress and addiction. Because the signal appeared before they drank again,…",
-        "image": "https://www.sciencedaily.com/images/1920/human-brain-in-alcohol-glass.webp",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260822015148.htm",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-24T04-32_4",
-        "rank": 4,
-        "title": "MoMA PS1 Will Open New Café, Chef DeVonn Francis’s Symone, This October",
-        "category": "art",
-        "summary": "MoMA PS1, the Museum of Modern Art’s sister museum in Long Island City, Queens, will welcome a new eatery to its restaurant space in the fall, per a press release. In early October, Chef DeVonn Francis will debut…",
-        "image": "https://www.artforum.com/wp-content/uploads/2025/12/PS1_Aerial-Building-Shot_Noel-Woodford-0Q3A2693_SELECT-2000x1333-1.jpg?w=650",
-        "source": "Artforum",
-        "sourceUrl": "https://www.artforum.com/news/moma-ps1-will-open-new-cafe-this-october-1234757714/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-24T04-32_5",
-        "rank": 5,
-        "title": "STAT+: Are cancer patients getting too much drug?",
+        "title": "STAT+: Inside Moderna and Merck’s cancer vaccine triumph",
         "category": "biotech",
-        "summary": "Moderna's stunning surge and drop, AI in scientific writing, and more biotech news from The Readout",
-        "image": "https://www.statnews.com/wp-content/uploads/2024/10/AdobeStock_380541572-1024x576.jpeg",
+        "summary": "Moderna and Merck's wild gambit on a cancer vaccine appears to have worked, despite big doubts, logistical challenges, and pandemic-era complications.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/08/image-15-1024x576.jpg",
         "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/08/21/biotech-news-are-cancer-patients-us-getting-too-much-drug/?utm_campaign=rss",
+        "sourceUrl": "https://www.statnews.com/2026/08/24/inside-moderna-and-merck-cancer-vaccine-triumph/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-24T08-32_2",
+        "rank": 2,
+        "title": "Humanoid developer Neura acquires cleaning automation company Adlatus Robotics",
+        "category": "robotics",
+        "summary": "Neura Robotics is expanding its physical AI ecosystem into another key application area. Neura Mobile Robots is acquiring 100 percent of the shares in Adlatus Robotics, an established provider of autonomous cleaning…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/Adlatus-NEURA-1.jpeg",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/24/humanoid-developer-neura-acquires-cleaning-automation-company-adlatus-robotics/104422/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-24T08-32_3",
+        "rank": 3,
+        "title": "Arizona is having a grid battery growth spurt. Will that last?",
+        "category": "energy",
+        "summary": "California and Texas have led the charge on America's grid battery revolution . Now, a third state is racing to catch up: Arizona. The Grand Canyon State installed more battery capacity than every state besides Texas…",
+        "image": "https://img.canarymedia.com/content/uploads/Arizona-welcome-sign_GettyImages-466659863.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=de2996d471cdc3e38a3d84f34d01cf9b",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/batteries/arizona-grid-battery-growth",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-24T08-32_4",
+        "rank": 4,
+        "title": "A major Alzheimer’s risk gene may shrink brain cells years before symptoms",
+        "category": "neuroscience",
+        "summary": "Researchers have uncovered a possible reason why the Alzheimer’s risk gene APOE4 can disrupt the brain long before memory problems begin. In mice, APOE4 increased a protein called Nell2, shrinking neurons and making…",
+        "image": "https://www.sciencedaily.com/images/1920/neurons-in-alzheimers-disease.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260821012234.htm",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-24T08-32_5",
+        "rank": 5,
+        "title": "Due to need for 'absolute success,' China delays critical Moon launch to 2027",
+        "category": "general",
+        "summary": "\"The Chang’e 7 mission does not meet the conditions for launch.\"",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2012/06/shackleton_center_cropped-1152x648.jpg",
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/",
         "fromX": false
       }
     ]
