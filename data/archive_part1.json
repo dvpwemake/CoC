@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-08-06T13-25",
+    "scannedAt": "2026-08-06T13:25:47.922Z",
+    "items": [
+      {
+        "id": "auto_2026-08-06T13-25_1",
+        "rank": 1,
+        "title": "TikTok Lays Off 250 Employees in Office That Includes Content Moderation",
+        "category": "general",
+        "summary": "TikTok did not give a detailed reason for the layoffs, which will shutter its Nashville office.",
+        "image": "https://static01.nyt.com/images/2025/05/03/multimedia/05xp-tiktok-layoffs-1/05xp-tiktok-layoffs-1-mediumSquareAt3X.jpg",
+        "source": "NYT Technology",
+        "sourceUrl": "https://www.nytimes.com/2026/08/05/technology/tiktok-layoffs-nashville.html",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-06T13-25_2",
+        "rank": 2,
+        "title": "Senate committee votes along party lines to hold Fauci in contempt of Congress",
+        "category": "biotech",
+        "summary": "A Senate committee has voted to hold Anthony Fauci in contempt of Congress after he declined to answer questions about his role in the Covid pandemic.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/08/GettyImages-2287493293-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/08/06/anthony-fauci-fifth-amendment-rand-paul-seeks-criminal-contempt/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-06T13-25_3",
+        "rank": 3,
+        "title": "A star’s violent death exposed a hidden supermassive black hole",
+        "category": "space",
+        "summary": "A supermassive black hole has been found lurking about 30,000 light-years from the center of its galaxy—the first dormant black hole detected so far from a galactic core. It revealed itself only after shredding a…",
+        "image": "https://www.sciencedaily.com/images/1920/black-hole-consuming-orbiting-star.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260805082457.htm",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-06T13-25_4",
+        "rank": 4,
+        "title": "Nuclear startup Oklo splits its first atoms in test reactor",
+        "category": "energy",
+        "summary": "Oklo , a publicly traded small-modular-reactor firm backed by OpenAI chief Sam Altman, has become one of the highest-profile companies working on next-generation nuclear energy technologies. Two years ago it debuted on…",
+        "image": "https://img.canarymedia.com/content/uploads/GettyImages-2282798411.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=448602243bf067d072848414acd1726b",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/nuclear/nuclear-startup-oklo-splits-its-first-atoms-in-test-reactor",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-06T13-25_5",
+        "rank": 5,
+        "title": "Sarla Aviation adopts Siemens Xcelerator to accelerate eVTOL aircraft development",
+        "category": "robotics",
+        "summary": "Indian startup Sarla Aviation is using the Siemens Xcelerator portfolio of industry software to accelerate the development of its next-generation electric vertical take-off and landing (eVTOL) aircraft for urban air…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/siemens-sarla-aviation-1.jpg",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/06/sarla-aviation-adopts-siemens-xcelerator-to-accelerate-evtol-aircraft-development/103956/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-08-05T20-52",
     "scannedAt": "2026-08-05T20:52:25.430Z",
     "items": [
@@ -1247,67 +1308,6 @@
         "image": "https://img.canarymedia.com/content/uploads/Tesla-batteris-in-Canada-home_GettyImages-967233426.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=d3ef0d003b9eaa23273e8dcbafef9b02",
         "source": "Canary Media",
         "sourceUrl": "https://www.canarymedia.com/articles/batteries/haven-energy-low-cost-batteries-massachusetts"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-07-20T20-56",
-    "scannedAt": "2026-07-20T20:56:27.718Z",
-    "items": [
-      {
-        "id": "auto_2026-07-20T20-56_1",
-        "rank": 1,
-        "title": "FDA still focused on lettuce supplier as source of parasite, despite faulty test result",
-        "category": "biotech",
-        "summary": "The FDA said Monday it is still focused on lettuce from Taylor Farms as the source of a multistate outbreak of a diarrhea-causing parasite, despite a faulty test result.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/07/GettyImages-2286439838-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/07/20/cyclospora-lettuce-tests-continue-restaurant-visits-decline/?utm_campaign=rss",
-        "imageProxy": "https://images.weserv.nl/?url=www.statnews.com%2Fwp-content%2Fuploads%2F2026%2F07%2FGettyImages-2286439838-1024x576.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-20T20-56_2",
-        "rank": 2,
-        "title": "Sparse Neural Connections Balance Cortical Clock Sync and Autonomy",
-        "category": "neuroscience",
-        "summary": "A new study demonstrates how the brain balances localized autonomy and inter-regional synchronization during time tracking.",
-        "image": "https://neurosciencenews.com/files/2026/07/brain-time-keeping-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/brain-internal-clock-synchronization-31088/",
-        "imageProxy": "https://images.weserv.nl/?url=neurosciencenews.com%2Ffiles%2F2026%2F07%2Fbrain-time-keeping-neuroscience-1155x770.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-20T20-56_3",
-        "rank": 3,
-        "title": "China’s AI models have Trump’s AI world at war with itself",
-        "category": "ai",
-        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Over the weekend, several current and former advisors to President Donald…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/GettyImages-2194586709.jpg?resize=1200,600",
-        "source": "MIT Technology Review",
-        "sourceUrl": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
-        "imageProxy": "https://images.weserv.nl/?url=wp.technologyreview.com%2Fwp-content%2Fuploads%2F2026%2F07%2FGettyImages-2194586709.jpg%3Fresize%3D1200%2C600&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-20T20-56_4",
-        "rank": 4,
-        "title": "Pipelines to payloads: risk management lessons for the space economy",
-        "category": "space",
-        "summary": "The energy sector has spent decades learning how to manage complex disputes that touch on sovereign power, geopolitics, regulation and private capital. Those same dynamics are at play in the […] The post Pipelines to…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/transporter16.jpeg?fit=1024%2C683&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/pipelines-to-payloads-risk-management-lessons-for-the-space-economy/",
-        "imageProxy": "https://images.weserv.nl/?url=i0.wp.com%2Fspacenews.com%2Fwp-content%2Fuploads%2F2026%2F03%2Ftransporter16.jpeg%3Ffit%3D1024%252C683%26ssl%3D1&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-20T20-56_5",
-        "rank": 5,
-        "title": "States join fight against Trump administration’s wind farm blockade",
-        "category": "energy",
-        "summary": "A coalition of 18 states and Washington, D.C., has moved to join an industry lawsuit challenging the Department of Defense’s freeze on onshore wind projects in America. It’s the latest in a nearly yearlong saga during…",
-        "image": "https://img.canarymedia.com/content/uploads/GettyImages-2284679445.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=1631f1ba3c3e2c2428a65eada6de81e6",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/wind/states-lawsuit-trump-defense-permitting-freeze",
-        "imageProxy": "https://images.weserv.nl/?url=img.canarymedia.com%2Fcontent%2Fuploads%2FGettyImages-2284679445.jpg%3Fauto%3Dcompress%252Cformat%26crop%3Dfocalpoint%26fit%3Dcrop%26fp-x%3D0.5%26fp-y%3D0.5%26h%3D630%26q%3D82%26w%3D1200%26s%3D1631f1ba3c3e2c2428a65eada6de81e6&w=640&h=400&fit=cover&we&output=jpg"
       }
     ]
   }

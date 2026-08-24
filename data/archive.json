@@ -183,6 +183,26 @@
     ]
   },
   {
+    "batchId": "editorial_2026-08-22",
+    "scannedAt": "2026-08-22T05:15:45.199Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-08-22",
+        "rank": 0,
+        "title": "Named for a niece",
+        "category": "editorial",
+        "summary": "A café that asks you back, a lab priced past SpaceX",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/Artiststore-1.png",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-22.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-08-22",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "editorial_2026-08-21",
     "scannedAt": "2026-08-22T05:01:16.146Z",
     "kind": "editorial_archive",

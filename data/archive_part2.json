@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-07-20T20-56",
+    "scannedAt": "2026-07-20T20:56:27.718Z",
+    "items": [
+      {
+        "id": "auto_2026-07-20T20-56_1",
+        "rank": 1,
+        "title": "FDA still focused on lettuce supplier as source of parasite, despite faulty test result",
+        "category": "biotech",
+        "summary": "The FDA said Monday it is still focused on lettuce from Taylor Farms as the source of a multistate outbreak of a diarrhea-causing parasite, despite a faulty test result.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/07/GettyImages-2286439838-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/07/20/cyclospora-lettuce-tests-continue-restaurant-visits-decline/?utm_campaign=rss",
+        "imageProxy": "https://images.weserv.nl/?url=www.statnews.com%2Fwp-content%2Fuploads%2F2026%2F07%2FGettyImages-2286439838-1024x576.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-07-20T20-56_2",
+        "rank": 2,
+        "title": "Sparse Neural Connections Balance Cortical Clock Sync and Autonomy",
+        "category": "neuroscience",
+        "summary": "A new study demonstrates how the brain balances localized autonomy and inter-regional synchronization during time tracking.",
+        "image": "https://neurosciencenews.com/files/2026/07/brain-time-keeping-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/brain-internal-clock-synchronization-31088/",
+        "imageProxy": "https://images.weserv.nl/?url=neurosciencenews.com%2Ffiles%2F2026%2F07%2Fbrain-time-keeping-neuroscience-1155x770.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-07-20T20-56_3",
+        "rank": 3,
+        "title": "China’s AI models have Trump’s AI world at war with itself",
+        "category": "ai",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Over the weekend, several current and former advisors to President Donald…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/GettyImages-2194586709.jpg?resize=1200,600",
+        "source": "MIT Technology Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
+        "imageProxy": "https://images.weserv.nl/?url=wp.technologyreview.com%2Fwp-content%2Fuploads%2F2026%2F07%2FGettyImages-2194586709.jpg%3Fresize%3D1200%2C600&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-07-20T20-56_4",
+        "rank": 4,
+        "title": "Pipelines to payloads: risk management lessons for the space economy",
+        "category": "space",
+        "summary": "The energy sector has spent decades learning how to manage complex disputes that touch on sovereign power, geopolitics, regulation and private capital. Those same dynamics are at play in the […] The post Pipelines to…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/transporter16.jpeg?fit=1024%2C683&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/pipelines-to-payloads-risk-management-lessons-for-the-space-economy/",
+        "imageProxy": "https://images.weserv.nl/?url=i0.wp.com%2Fspacenews.com%2Fwp-content%2Fuploads%2F2026%2F03%2Ftransporter16.jpeg%3Ffit%3D1024%252C683%26ssl%3D1&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-07-20T20-56_5",
+        "rank": 5,
+        "title": "States join fight against Trump administration’s wind farm blockade",
+        "category": "energy",
+        "summary": "A coalition of 18 states and Washington, D.C., has moved to join an industry lawsuit challenging the Department of Defense’s freeze on onshore wind projects in America. It’s the latest in a nearly yearlong saga during…",
+        "image": "https://img.canarymedia.com/content/uploads/GettyImages-2284679445.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=1631f1ba3c3e2c2428a65eada6de81e6",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/wind/states-lawsuit-trump-defense-permitting-freeze",
+        "imageProxy": "https://images.weserv.nl/?url=img.canarymedia.com%2Fcontent%2Fuploads%2FGettyImages-2284679445.jpg%3Fauto%3Dcompress%252Cformat%26crop%3Dfocalpoint%26fit%3Dcrop%26fp-x%3D0.5%26fp-y%3D0.5%26h%3D630%26q%3D82%26w%3D1200%26s%3D1631f1ba3c3e2c2428a65eada6de81e6&w=640&h=400&fit=cover&we&output=jpg"
+      }
+    ]
+  },
+  {
     "batchId": "editorial_2026-07-20",
     "scannedAt": "2026-07-20T16:03:59.666Z",
     "kind": "editorial_archive",
@@ -1522,55 +1583,5 @@
       }
     ],
     "batchId": "b1781218477364"
-  },
-  {
-    "scannedAt": "2026-06-11T18:54:12.807Z",
-    "items": [
-      {
-        "id": "b1781204052807_2",
-        "rank": 2,
-        "title": "JWST Reveals Two Completely Different Twilights on Ultra-Hot Exoplanet WASP-121 b",
-        "category": "space",
-        "summary": "The James Webb Space Telescope has uncovered striking differences between the dawn and dusk regions of the ultra-hot exoplanet WASP-121 b. Scientists found that fierce winds carry heat from the planet's permanent dayside, making the evening side hotter and more expanded. The discovery reveals that water molecules break apart at extreme temperatures and mysterious mineral clouds may be shaping the cooler side's atmosphere, providing the first observational evidence of atmospheric asymmetry on an exoplanet.",
-        "source": "Nature Astronomy",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260611024559.htm",
-        "image": "https://www.sciencedaily.com/images/1920/exoplanet-wasp-121-b-artists-impression.webp",
-        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fexoplanet-wasp-121-b-artists-impression.webp&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "b1781204052807_3",
-        "rank": 3,
-        "title": "Naqi Logix Unveils AI Neural Earbuds for Hands-Free, Voice-Free Technology Control",
-        "category": "ai",
-        "summary": "Naqi Logix announced its breakthrough neural interface technology that transforms everyday earbuds into intuitive, hands-free controllers. The AI-powered neural earbuds detect subtle facial micro-gestures and head movements, converting them into digital commands without cameras, voice commands, or screens. The technology enables control of computers, robotics, mobile devices, and smart environments, representing a significant advance in human-machine interfaces and accessibility technology.",
-        "source": "EINPresswire",
-        "sourceUrl": "https://www.einpresswire.com/article/918770716/naqi-logix-showcases-the-future-of-ai-neurotechnology-at-europe-s-vivatech-2026",
-        "image": "https://img.einnews.com/facebook/1129354/naqi-black-earbuds-with-logo.png",
-        "imageProxy": "https://images.weserv.nl/?url=img.einnews.com%2Ffacebook%2F1129354%2Fnaqi-black-earbuds-with-logo.png&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "b1781204052807_4",
-        "rank": 4,
-        "title": "Tufts Researchers Develop Neuro-Symbolic AI System Slashing Energy Use by 100x",
-        "category": "ai",
-        "summary": "Researchers at Tufts University developed a revolutionary neuro-symbolic AI system that combines neural networks with human-like symbolic reasoning, reducing energy consumption by up to 100 times compared to conventional approaches while dramatically improving performance. In robotic task tests, the hybrid system achieved a 95% success rate versus 34% for standard models and trained in just 34 minutes versus more than a day and a half for traditional systems. This breakthrough addresses AI's growing energy demands and could transform robotics applications.",
-        "source": "Crescendo AI",
-        "sourceUrl": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
-        "image": "https://cdn.prod.website-files.com/67166bf779ba8852260f7d1f/694a731a76c9d6876ddf8a8f_latest-ai-news-and-updates.png",
-        "imageProxy": "https://images.weserv.nl/?url=cdn.prod.website-files.com%2F67166bf779ba8852260f7d1f%2F694a731a76c9d6876ddf8a8f_latest-ai-news-and-updates.png&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "b1781204052807_5",
-        "rank": 5,
-        "title": "Cell-Free Biomanufacturing Systems Revolutionize On-Demand Protein Production",
-        "category": "biotech",
-        "summary": "Leading biotechnology companies have achieved breakthrough advances in cell-free biomanufacturing systems that can produce proteins, enzymes, and chemicals on demand without living organisms or fermentation tanks. These modular, freeze-dried systems are faster, more stable, and easier to scale than traditional methods. The technology enables portable, real-time, programmable production for diagnostics, therapeutics, and sustainable materials, representing a paradigm shift in biotechnology manufacturing that could revolutionize drug discovery and vaccine development.",
-        "source": "CAS Insights",
-        "sourceUrl": "https://www.cas.org/resources/cas-insights/scientific-breakthroughs-2026-emerging-trends-watch",
-        "image": "https://cdn.prod.website-files.com/650867962272bf8f15c1034b/692da5a43ed15a57aaebbce0_Trends-to-watch-2026-Social-CAS-Insights-INSSOC102780ENG-Article.avif",
-        "imageProxy": "https://images.weserv.nl/?url=cdn.prod.website-files.com%2F650867962272bf8f15c1034b%2F692da5a43ed15a57aaebbce0_Trends-to-watch-2026-Social-CAS-Insights-INSSOC102780ENG-Article.avif&w=640&h=400&fit=cover&we&output=jpg"
-      }
-    ],
-    "batchId": "b1781204052807"
   }
 ]
