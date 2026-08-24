@@ -4241,40 +4241,99 @@
       "status": "draft",
       "draftKind": "outline",
       "createdAt": "2026-08-23T02:25:41.795Z",
-      "updatedAt": "2026-08-23T20:07:20.240Z",
+      "updatedAt": "2026-08-24T00:27:00.317Z",
       "title": "Editorial brief — 2026-08-23",
       "dek": "Outline of selected article titles and key points for admin to write the final editorial.",
-      "body": "EDITORIAL BRIEF (outline only — not for publication as-is)\nPublish date: 2026-08-23\nInstruction: Use the titles and key points below to write the final ~300-word CoC editorial. Replace this entire brief with your finished prose before publishing.\n\n— Selected articles of the day (12) —\n\n1. [Art] Mariam Elnozahy Appointed As Curator Of The 2027 Ulaanbaatar Biennale\n   Source: Artforum\n   URL: https://www.artforum.com/news/mariam-elnozahy-ulaanbaatar-biennale-1234757716/\n   Key points:\n   • Researcher, writer, and curator Mariam Elnozahy has been announced as chief curator of the second edition of the Ulaanbaatar Biennale.\n   • The event, which serves as a nexus for the Mongolian arts and culture sector to…\n\n2. [General] GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series\n   Source: The Verge\n   URL: https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games\n   Key points:\n   • It’s been over a decade and two console generations since GTA V came out, and its sequel is still a work in progress.\n   • GTA VI has faced multiple delays, with developer Rockstar Games bumping back its predicted release…\n\n3. [Neuroscience] This common vitamin was linked to 13% better cognitive scores\n   Source: ScienceDaily\n   URL: https://www.sciencedaily.com/releases/2026/08/260822015138.htm\n   Key points:\n   • Older adults with mild cognitive impairment and sleep problems who took at least 5,000 IU of vitamin D daily scored more than 13% higher on a cognitive test than those taking none.\n   • The preliminary findings suggest…\n\n4. [Robotics] Travere Therapeutics Turns a Rare Disease Approval into Two Quarters of Accelerating Sales\n   Source: Robotics & Automation News\n   URL: https://roboticsandautomationnews.com/2026/08/22/travere-therapeutics-turns-a-rare-disease-approval-into-two-quarters-of-accelerating-sales/104412/\n   Key points:\n   • The Food and Drug Administration granted Travere Therapeutics full approval for FILSPARI in focal segmental glomerulosclerosis on April 13, 2026, the drug's second full approval after a 2023 clearance for IgA…\n\n5. [Space] Curiosity Blog, Sols 4982–4987: Back to Our Regularly Scheduled Programming\n   Source: NASA\n   URL: https://science.nasa.gov/blog/curiosity-blog-sols-4982-4987-back-to-our-regularly-scheduled-programming/\n   Key points:\n   • By Allison Dries-Padilla, Missions Operations Specialist at Malin Space Science Systems Earth planning date: Friday, Aug.\n   • 14, 2026 This week of Curiosity Mars rover operations takes us back to our “regularly scheduled…\n\n6. [Art] Estefania Ajcip's Sculptural Paintings Unite the Memories of a Separated Family\n   Source: Colossal\n   URL: https://www.thisiscolossal.com/2026/08/estefania-ajcip-sculpture-paintings-folded-memories/\n   Key points:\n   • Through vivid sculptural paintings, Estefania Ajcip peers in on the fractures families face when split apart.\n   • Do stories and artists like this matter to you?\n   • Become a Colossal Member today and support independent arts…\n\n7. [Biotech] STAT+: Pharmalittle: We're reading about a big Roche investment in the U.S., estrogen patch shortages, and more\n   Source: STAT News\n   URL: https://www.statnews.com/pharmalot/2026/08/21/roche-genentech-investment-estrogen-patch-shortages/?utm_campaign=rss\n   Key points:\n   • Roche's Genentech will invest $750 million to double the size of its existing production facility in Oregon\n\n8. [Editorial] Totality, then the furnace\n   Source: Chronicle of Convergence · Editorial\n   URL: https://chronicleofconvergence.com/e/2026-08-21.html\n   Key points:\n   • The sun’s outer air, and a 500 million dollar turn back to coal\n\n9. [Energy] America’s hydropower challenge goes beyond the West\n   Source: Canary Media\n   URL: https://www.canarymedia.com/articles/hydropower/hydropower-drought-west-lake-mead\n   Key points:\n   • depends on hydroelectric power — and ever-worsening drought is threatening its supply.\n\n10. [General] Doodle generative compositions in your browser with Musical Spirograph\n   Source: The Verge\n   URL: https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition\n   Key points:\n   • I remember having a Spirograph as a kid and being obsessed with it.\n   • Its geometric patterns are hypnotic and gorgeous.\n   • I also love generative music composition.\n   • So bringing those two things together in a browser tab, I'm…\n\n11. [Space] New Novaspace forecast: 6,500+ EO satellites to launch by 2035\n   Source: SpaceNews\n   URL: https://spacenews.com/new-novaspace-forecast-6500-eo-satellites-to-launch-by-2035/\n   Key points:\n   • Paris, France | August 2026– More than 6,500 Earth observation (EO) satellites are expected to launch by 2035, generating $155.9 billion in manufacturing revenues as governments expand sovereign intelligence,…\n\n12. [Art] Nonprofit Blank Forms To Move Into A New Space In SoHo This Fall\n   Source: Artforum\n   URL: https://www.artforum.com/news/nonprofit-blank-forms-to-move-into-a-new-space-in-soho-1234757686/\n   Key points:\n   • Blank Forms has announced plans to shift base from its current Clinton Hill, Brooklyn premises to an 8,000-square-foot open plan loft on the sixth floor of 151 Lafayette Street in SoHo.\n   • The nonprofit experimental…\n\n— Categories present —\nArt · General · Neuroscience · Robotics · Space · Biotech · Editorial · Energy\n\n— Admin checklist —\n• Draft original title + dek (vary form: not always What… / Convergence of…)\n• Write body (~280–320 words) in CoC voice\n• Select hero from selected-article head image thumbnails (or paste URL)\n• Mark published when ready",
+      "body": "EDITORIAL BRIEF (outline only — not for publication as-is)\nPublish date: 2026-08-23\nInstruction: Use the titles and key points below to write the final ~300-word CoC editorial. Replace this entire brief with your finished prose before publishing.\n\n— Selected articles of the day (12) —\n\n1. [Energy] Scientists turn tiny “defects” into a 5.5x heat transfer boost\n   Source: ScienceDaily\n   URL: https://www.sciencedaily.com/releases/2026/08/260823014940.htm\n   Key points:\n   • Scientists have developed an ultrathin coating that could dramatically improve how efficiently heat is transferred during condensation.\n   • By turning tiny polymer structures once considered “defects” into places where…\n\n2. [General] Why students are being paid £2,000 to play computer games\n   Source: BBC Technology\n   URL: https://www.bbc.co.uk/news/articles/cz647wlvg1do?at_medium=RSS&at_campaign=rss\n   Key points:\n   • Roehampton University offers students £2,000 a year to play esports alongside their studies.\n\n3. [Neuroscience] A major Alzheimer’s risk gene may shrink brain cells years before symptoms\n   Source: ScienceDaily\n   URL: https://www.sciencedaily.com/releases/2026/08/260821012234.htm\n   Key points:\n   • Researchers have uncovered a possible reason why the Alzheimer’s risk gene APOE4 can disrupt the brain long before memory problems begin.\n   • In mice, APOE4 increased a protein called Nell2, shrinking neurons and making…\n\n4. [Robotics] A hidden “on switch” in human DNA has finally been decoded\n   Source: ScienceDaily\n   URL: https://www.sciencedaily.com/releases/2026/08/260823014943.htm\n   Key points:\n   • Researchers have used AI to uncover the DNA signature of a key genetic “switch” involved in turning genes on.\n   • After analyzing about 500,000 DNA sequences, the model identified the initiator in roughly 60% of human…\n\n5. [Space] Physicists create a tiny “Big Bang” with surprisingly small atomic nuclei\n   Source: ScienceDaily\n   URL: https://www.sciencedaily.com/releases/2026/08/260822015143.htm\n   Key points:\n   • Researchers at CERN have created microscopic versions of the early Universe by colliding surprisingly small atomic nuclei at nearly the speed of light.\n   • The collisions produced quark-gluon plasma, the ultra-hot matter…\n\n6. [Art] Mariam Elnozahy Appointed As Curator Of The 2027 Ulaanbaatar Biennale\n   Source: Artforum\n   URL: https://www.artforum.com/news/mariam-elnozahy-ulaanbaatar-biennale-1234757716/\n   Key points:\n   • Researcher, writer, and curator Mariam Elnozahy has been announced as chief curator of the second edition of the Ulaanbaatar Biennale.\n   • The event, which serves as a nexus for the Mongolian arts and culture sector to…\n\n7. [General] GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series\n   Source: The Verge\n   URL: https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games\n   Key points:\n   • It’s been over a decade and two console generations since GTA V came out, and its sequel is still a work in progress.\n   • GTA VI has faced multiple delays, with developer Rockstar Games bumping back its predicted release…\n\n8. [Neuroscience] This common vitamin was linked to 13% better cognitive scores\n   Source: ScienceDaily\n   URL: https://www.sciencedaily.com/releases/2026/08/260822015138.htm\n   Key points:\n   • Older adults with mild cognitive impairment and sleep problems who took at least 5,000 IU of vitamin D daily scored more than 13% higher on a cognitive test than those taking none.\n   • The preliminary findings suggest…\n\n9. [Robotics] Travere Therapeutics Turns a Rare Disease Approval into Two Quarters of Accelerating Sales\n   Source: Robotics & Automation News\n   URL: https://roboticsandautomationnews.com/2026/08/22/travere-therapeutics-turns-a-rare-disease-approval-into-two-quarters-of-accelerating-sales/104412/\n   Key points:\n   • The Food and Drug Administration granted Travere Therapeutics full approval for FILSPARI in focal segmental glomerulosclerosis on April 13, 2026, the drug's second full approval after a 2023 clearance for IgA…\n\n10. [Space] Curiosity Blog, Sols 4982–4987: Back to Our Regularly Scheduled Programming\n   Source: NASA\n   URL: https://science.nasa.gov/blog/curiosity-blog-sols-4982-4987-back-to-our-regularly-scheduled-programming/\n   Key points:\n   • By Allison Dries-Padilla, Missions Operations Specialist at Malin Space Science Systems Earth planning date: Friday, Aug.\n   • 14, 2026 This week of Curiosity Mars rover operations takes us back to our “regularly scheduled…\n\n11. [Art] Estefania Ajcip's Sculptural Paintings Unite the Memories of a Separated Family\n   Source: Colossal\n   URL: https://www.thisiscolossal.com/2026/08/estefania-ajcip-sculpture-paintings-folded-memories/\n   Key points:\n   • Through vivid sculptural paintings, Estefania Ajcip peers in on the fractures families face when split apart.\n   • Do stories and artists like this matter to you?\n   • Become a Colossal Member today and support independent arts…\n\n12. [Biotech] STAT+: Pharmalittle: We're reading about a big Roche investment in the U.S., estrogen patch shortages, and more\n   Source: STAT News\n   URL: https://www.statnews.com/pharmalot/2026/08/21/roche-genentech-investment-estrogen-patch-shortages/?utm_campaign=rss\n   Key points:\n   • Roche's Genentech will invest $750 million to double the size of its existing production facility in Oregon\n\n— Categories present —\nEnergy · General · Neuroscience · Robotics · Space · Art · Biotech\n\n— Admin checklist —\n• Draft original title + dek (vary form: not always What… / Convergence of…)\n• Write body (~280–320 words) in CoC voice\n• Select hero from selected-article head image thumbnails (or paste URL)\n• Mark published when ready",
       "paragraphs": [
         "EDITORIAL BRIEF (outline only — not for publication as-is)\nPublish date: 2026-08-23\nInstruction: Use the titles and key points below to write the final ~300-word CoC editorial. Replace this entire brief with your finished prose before publishing.",
         "— Selected articles of the day (12) —",
-        "1. [Art] Mariam Elnozahy Appointed As Curator Of The 2027 Ulaanbaatar Biennale\n   Source: Artforum\n   URL: https://www.artforum.com/news/mariam-elnozahy-ulaanbaatar-biennale-1234757716/\n   Key points:\n   • Researcher, writer, and curator Mariam Elnozahy has been announced as chief curator of the second edition of the Ulaanbaatar Biennale.\n   • The event, which serves as a nexus for the Mongolian arts and culture sector to…",
-        "2. [General] GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series\n   Source: The Verge\n   URL: https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games\n   Key points:\n   • It’s been over a decade and two console generations since GTA V came out, and its sequel is still a work in progress.\n   • GTA VI has faced multiple delays, with developer Rockstar Games bumping back its predicted release…",
-        "3. [Neuroscience] This common vitamin was linked to 13% better cognitive scores\n   Source: ScienceDaily\n   URL: https://www.sciencedaily.com/releases/2026/08/260822015138.htm\n   Key points:\n   • Older adults with mild cognitive impairment and sleep problems who took at least 5,000 IU of vitamin D daily scored more than 13% higher on a cognitive test than those taking none.\n   • The preliminary findings suggest…",
-        "4. [Robotics] Travere Therapeutics Turns a Rare Disease Approval into Two Quarters of Accelerating Sales\n   Source: Robotics & Automation News\n   URL: https://roboticsandautomationnews.com/2026/08/22/travere-therapeutics-turns-a-rare-disease-approval-into-two-quarters-of-accelerating-sales/104412/\n   Key points:\n   • The Food and Drug Administration granted Travere Therapeutics full approval for FILSPARI in focal segmental glomerulosclerosis on April 13, 2026, the drug's second full approval after a 2023 clearance for IgA…",
-        "5. [Space] Curiosity Blog, Sols 4982–4987: Back to Our Regularly Scheduled Programming\n   Source: NASA\n   URL: https://science.nasa.gov/blog/curiosity-blog-sols-4982-4987-back-to-our-regularly-scheduled-programming/\n   Key points:\n   • By Allison Dries-Padilla, Missions Operations Specialist at Malin Space Science Systems Earth planning date: Friday, Aug.\n   • 14, 2026 This week of Curiosity Mars rover operations takes us back to our “regularly scheduled…",
-        "6. [Art] Estefania Ajcip's Sculptural Paintings Unite the Memories of a Separated Family\n   Source: Colossal\n   URL: https://www.thisiscolossal.com/2026/08/estefania-ajcip-sculpture-paintings-folded-memories/\n   Key points:\n   • Through vivid sculptural paintings, Estefania Ajcip peers in on the fractures families face when split apart.\n   • Do stories and artists like this matter to you?\n   • Become a Colossal Member today and support independent arts…",
-        "7. [Biotech] STAT+: Pharmalittle: We're reading about a big Roche investment in the U.S., estrogen patch shortages, and more\n   Source: STAT News\n   URL: https://www.statnews.com/pharmalot/2026/08/21/roche-genentech-investment-estrogen-patch-shortages/?utm_campaign=rss\n   Key points:\n   • Roche's Genentech will invest $750 million to double the size of its existing production facility in Oregon",
-        "8. [Editorial] Totality, then the furnace\n   Source: Chronicle of Convergence · Editorial\n   URL: https://chronicleofconvergence.com/e/2026-08-21.html\n   Key points:\n   • The sun’s outer air, and a 500 million dollar turn back to coal",
-        "9. [Energy] America’s hydropower challenge goes beyond the West\n   Source: Canary Media\n   URL: https://www.canarymedia.com/articles/hydropower/hydropower-drought-west-lake-mead\n   Key points:\n   • depends on hydroelectric power — and ever-worsening drought is threatening its supply.",
-        "10. [General] Doodle generative compositions in your browser with Musical Spirograph\n   Source: The Verge\n   URL: https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition\n   Key points:\n   • I remember having a Spirograph as a kid and being obsessed with it.\n   • Its geometric patterns are hypnotic and gorgeous.\n   • I also love generative music composition.\n   • So bringing those two things together in a browser tab, I'm…",
-        "11. [Space] New Novaspace forecast: 6,500+ EO satellites to launch by 2035\n   Source: SpaceNews\n   URL: https://spacenews.com/new-novaspace-forecast-6500-eo-satellites-to-launch-by-2035/\n   Key points:\n   • Paris, France | August 2026– More than 6,500 Earth observation (EO) satellites are expected to launch by 2035, generating $155.9 billion in manufacturing revenues as governments expand sovereign intelligence,…",
-        "12. [Art] Nonprofit Blank Forms To Move Into A New Space In SoHo This Fall\n   Source: Artforum\n   URL: https://www.artforum.com/news/nonprofit-blank-forms-to-move-into-a-new-space-in-soho-1234757686/\n   Key points:\n   • Blank Forms has announced plans to shift base from its current Clinton Hill, Brooklyn premises to an 8,000-square-foot open plan loft on the sixth floor of 151 Lafayette Street in SoHo.\n   • The nonprofit experimental…",
-        "— Categories present —\nArt · General · Neuroscience · Robotics · Space · Biotech · Editorial · Energy",
+        "1. [Energy] Scientists turn tiny “defects” into a 5.5x heat transfer boost\n   Source: ScienceDaily\n   URL: https://www.sciencedaily.com/releases/2026/08/260823014940.htm\n   Key points:\n   • Scientists have developed an ultrathin coating that could dramatically improve how efficiently heat is transferred during condensation.\n   • By turning tiny polymer structures once considered “defects” into places where…",
+        "2. [General] Why students are being paid £2,000 to play computer games\n   Source: BBC Technology\n   URL: https://www.bbc.co.uk/news/articles/cz647wlvg1do?at_medium=RSS&at_campaign=rss\n   Key points:\n   • Roehampton University offers students £2,000 a year to play esports alongside their studies.",
+        "3. [Neuroscience] A major Alzheimer’s risk gene may shrink brain cells years before symptoms\n   Source: ScienceDaily\n   URL: https://www.sciencedaily.com/releases/2026/08/260821012234.htm\n   Key points:\n   • Researchers have uncovered a possible reason why the Alzheimer’s risk gene APOE4 can disrupt the brain long before memory problems begin.\n   • In mice, APOE4 increased a protein called Nell2, shrinking neurons and making…",
+        "4. [Robotics] A hidden “on switch” in human DNA has finally been decoded\n   Source: ScienceDaily\n   URL: https://www.sciencedaily.com/releases/2026/08/260823014943.htm\n   Key points:\n   • Researchers have used AI to uncover the DNA signature of a key genetic “switch” involved in turning genes on.\n   • After analyzing about 500,000 DNA sequences, the model identified the initiator in roughly 60% of human…",
+        "5. [Space] Physicists create a tiny “Big Bang” with surprisingly small atomic nuclei\n   Source: ScienceDaily\n   URL: https://www.sciencedaily.com/releases/2026/08/260822015143.htm\n   Key points:\n   • Researchers at CERN have created microscopic versions of the early Universe by colliding surprisingly small atomic nuclei at nearly the speed of light.\n   • The collisions produced quark-gluon plasma, the ultra-hot matter…",
+        "6. [Art] Mariam Elnozahy Appointed As Curator Of The 2027 Ulaanbaatar Biennale\n   Source: Artforum\n   URL: https://www.artforum.com/news/mariam-elnozahy-ulaanbaatar-biennale-1234757716/\n   Key points:\n   • Researcher, writer, and curator Mariam Elnozahy has been announced as chief curator of the second edition of the Ulaanbaatar Biennale.\n   • The event, which serves as a nexus for the Mongolian arts and culture sector to…",
+        "7. [General] GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series\n   Source: The Verge\n   URL: https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games\n   Key points:\n   • It’s been over a decade and two console generations since GTA V came out, and its sequel is still a work in progress.\n   • GTA VI has faced multiple delays, with developer Rockstar Games bumping back its predicted release…",
+        "8. [Neuroscience] This common vitamin was linked to 13% better cognitive scores\n   Source: ScienceDaily\n   URL: https://www.sciencedaily.com/releases/2026/08/260822015138.htm\n   Key points:\n   • Older adults with mild cognitive impairment and sleep problems who took at least 5,000 IU of vitamin D daily scored more than 13% higher on a cognitive test than those taking none.\n   • The preliminary findings suggest…",
+        "9. [Robotics] Travere Therapeutics Turns a Rare Disease Approval into Two Quarters of Accelerating Sales\n   Source: Robotics & Automation News\n   URL: https://roboticsandautomationnews.com/2026/08/22/travere-therapeutics-turns-a-rare-disease-approval-into-two-quarters-of-accelerating-sales/104412/\n   Key points:\n   • The Food and Drug Administration granted Travere Therapeutics full approval for FILSPARI in focal segmental glomerulosclerosis on April 13, 2026, the drug's second full approval after a 2023 clearance for IgA…",
+        "10. [Space] Curiosity Blog, Sols 4982–4987: Back to Our Regularly Scheduled Programming\n   Source: NASA\n   URL: https://science.nasa.gov/blog/curiosity-blog-sols-4982-4987-back-to-our-regularly-scheduled-programming/\n   Key points:\n   • By Allison Dries-Padilla, Missions Operations Specialist at Malin Space Science Systems Earth planning date: Friday, Aug.\n   • 14, 2026 This week of Curiosity Mars rover operations takes us back to our “regularly scheduled…",
+        "11. [Art] Estefania Ajcip's Sculptural Paintings Unite the Memories of a Separated Family\n   Source: Colossal\n   URL: https://www.thisiscolossal.com/2026/08/estefania-ajcip-sculpture-paintings-folded-memories/\n   Key points:\n   • Through vivid sculptural paintings, Estefania Ajcip peers in on the fractures families face when split apart.\n   • Do stories and artists like this matter to you?\n   • Become a Colossal Member today and support independent arts…",
+        "12. [Biotech] STAT+: Pharmalittle: We're reading about a big Roche investment in the U.S., estrogen patch shortages, and more\n   Source: STAT News\n   URL: https://www.statnews.com/pharmalot/2026/08/21/roche-genentech-investment-estrogen-patch-shortages/?utm_campaign=rss\n   Key points:\n   • Roche's Genentech will invest $750 million to double the size of its existing production facility in Oregon",
+        "— Categories present —\nEnergy · General · Neuroscience · Robotics · Space · Art · Biotech",
         "— Admin checklist —\n• Draft original title + dek (vary form: not always What… / Convergence of…)\n• Write body (~280–320 words) in CoC voice\n• Select hero from selected-article head image thumbnails (or paste URL)\n• Mark published when ready"
       ],
-      "wordCount": 712,
+      "wordCount": 731,
       "themeId": "outline",
       "themeLabel": "Admin outline (titles + key points)",
       "formId": "outline_brief",
       "formLabel": "outline brief",
       "authorName": "Dr. Wallace Lynch",
       "authorTitle": "Editor in Chief",
-      "heroImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/VINTAGE_VICE_CITY_PACK_02.jpg?quality=90&strip=all&crop=18.6%2C0%2C78.2%2C72.786503781268&w=1200",
-      "heroCredit": "GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series",
-      "heroSource": "The Verge",
-      "heroSourceUrl": "https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games",
+      "heroImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e70/live/c3634490-9c9c-11f1-a5a0-114ca9d4a1bc.jpg",
+      "heroCredit": "Why students are being paid £2,000 to play computer games",
+      "heroSource": "BBC Technology",
+      "heroSourceUrl": "https://www.bbc.co.uk/news/articles/cz647wlvg1do?at_medium=RSS&at_campaign=rss",
       "headlines": [
+        {
+          "title": "Scientists turn tiny “defects” into a 5.5x heat transfer boost",
+          "source": "ScienceDaily",
+          "category": "energy",
+          "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260823014940.htm",
+          "summary": "Scientists have developed an ultrathin coating that could dramatically improve how efficiently heat is transferred during condensation. By turning tiny polymer structures once considered “defects” into places where…",
+          "image": "https://www.sciencedaily.com/images/1920/defects-enhance-droplet-formation-and-heat-transfer-performance.webp",
+          "keyPoints": [
+            "Scientists have developed an ultrathin coating that could dramatically improve how efficiently heat is transferred during condensation.",
+            "By turning tiny polymer structures once considered “defects” into places where…"
+          ]
+        },
+        {
+          "title": "Why students are being paid £2,000 to play computer games",
+          "source": "BBC Technology",
+          "category": "general",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/cz647wlvg1do?at_medium=RSS&at_campaign=rss",
+          "summary": "Roehampton University offers students £2,000 a year to play esports alongside their studies.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e70/live/c3634490-9c9c-11f1-a5a0-114ca9d4a1bc.jpg",
+          "keyPoints": [
+            "Roehampton University offers students £2,000 a year to play esports alongside their studies."
+          ]
+        },
+        {
+          "title": "A major Alzheimer’s risk gene may shrink brain cells years before symptoms",
+          "source": "ScienceDaily",
+          "category": "neuroscience",
+          "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260821012234.htm",
+          "summary": "Researchers have uncovered a possible reason why the Alzheimer’s risk gene APOE4 can disrupt the brain long before memory problems begin. In mice, APOE4 increased a protein called Nell2, shrinking neurons and making…",
+          "image": "https://www.sciencedaily.com/images/1920/neurons-in-alzheimers-disease.webp",
+          "keyPoints": [
+            "Researchers have uncovered a possible reason why the Alzheimer’s risk gene APOE4 can disrupt the brain long before memory problems begin.",
+            "In mice, APOE4 increased a protein called Nell2, shrinking neurons and making…"
+          ]
+        },
+        {
+          "title": "A hidden “on switch” in human DNA has finally been decoded",
+          "source": "ScienceDaily",
+          "category": "robotics",
+          "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260823014943.htm",
+          "summary": "Researchers have used AI to uncover the DNA signature of a key genetic “switch” involved in turning genes on. After analyzing about 500,000 DNA sequences, the model identified the initiator in roughly 60% of human…",
+          "image": "https://www.sciencedaily.com/images/1920/biological-dna-structure-with-gene-mutation.webp",
+          "keyPoints": [
+            "Researchers have used AI to uncover the DNA signature of a key genetic “switch” involved in turning genes on.",
+            "After analyzing about 500,000 DNA sequences, the model identified the initiator in roughly 60% of human…"
+          ]
+        },
+        {
+          "title": "Physicists create a tiny “Big Bang” with surprisingly small atomic nuclei",
+          "source": "ScienceDaily",
+          "category": "space",
+          "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260822015143.htm",
+          "summary": "Researchers at CERN have created microscopic versions of the early Universe by colliding surprisingly small atomic nuclei at nearly the speed of light. The collisions produced quark-gluon plasma, the ultra-hot matter…",
+          "image": "https://www.sciencedaily.com/images/1920/neon-20-and-oxygen-16-collisions.webp",
+          "keyPoints": [
+            "Researchers at CERN have created microscopic versions of the early Universe by colliding surprisingly small atomic nuclei at nearly the speed of light.",
+            "The collisions produced quark-gluon plasma, the ultra-hot matter…"
+          ]
+        },
         {
           "title": "Mariam Elnozahy Appointed As Curator Of The 2027 Ulaanbaatar Biennale",
           "source": "Artforum",
@@ -4356,65 +4415,6 @@
           "image": "https://www.statnews.com/wp-content/uploads/2015/11/PHARMALOT_LITTLE-copy-1024x576.jpg",
           "keyPoints": [
             "Roche's Genentech will invest $750 million to double the size of its existing production facility in Oregon"
-          ]
-        },
-        {
-          "title": "Totality, then the furnace",
-          "source": "Chronicle of Convergence · Editorial",
-          "category": "editorial",
-          "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-21.html",
-          "summary": "The sun’s outer air, and a 500 million dollar turn back to coal",
-          "image": "https://img.canarymedia.com/content/uploads/Middletown-Ohio-Cliffs-workers-August-2026_GettyImages-2290802933.jpg?auto=compress%2Cformat&w=1200",
-          "keyPoints": [
-            "The sun’s outer air, and a 500 million dollar turn back to coal"
-          ]
-        },
-        {
-          "title": "America’s hydropower challenge goes beyond the West",
-          "source": "Canary Media",
-          "category": "energy",
-          "sourceUrl": "https://www.canarymedia.com/articles/hydropower/hydropower-drought-west-lake-mead",
-          "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter. Sign up to get it every Friday. The U.S. depends on hydroelectric power — and ever-worsening drought is threatening its supply. The western…",
-          "image": "https://img.canarymedia.com/content/uploads/Colorado-River-In-Boulder-City-Nevada_GettyImages-2207325476.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=24c5d2176769302f20886560a9644f1d",
-          "keyPoints": [
-            "depends on hydroelectric power — and ever-worsening drought is threatening its supply."
-          ]
-        },
-        {
-          "title": "Doodle generative compositions in your browser with Musical Spirograph",
-          "source": "The Verge",
-          "category": "general",
-          "sourceUrl": "https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition",
-          "summary": "I remember having a Spirograph as a kid and being obsessed with it. Its geometric patterns are hypnotic and gorgeous. I also love generative music composition. So bringing those two things together in a browser tab, I'm…",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-21-at-2.49.24-PM.png?quality=90&strip=all&crop=2.1844993141289%2C0%2C95.631001371742%2C100&w=1200",
-          "keyPoints": [
-            "I remember having a Spirograph as a kid and being obsessed with it.",
-            "Its geometric patterns are hypnotic and gorgeous.",
-            "I also love generative music composition.",
-            "So bringing those two things together in a browser tab, I'm…"
-          ]
-        },
-        {
-          "title": "New Novaspace forecast: 6,500+ EO satellites to launch by 2035",
-          "source": "SpaceNews",
-          "category": "space",
-          "sourceUrl": "https://spacenews.com/new-novaspace-forecast-6500-eo-satellites-to-launch-by-2035/",
-          "summary": "Paris, France | August 2026– More than 6,500 Earth observation (EO) satellites are expected to launch by 2035, generating $155.9 billion in manufacturing revenues as governments expand sovereign intelligence,…",
-          "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/04/novaspace-square-1-scaled.png?fit=1024%2C1024&ssl=1",
-          "keyPoints": [
-            "Paris, France | August 2026– More than 6,500 Earth observation (EO) satellites are expected to launch by 2035, generating $155.9 billion in manufacturing revenues as governments expand sovereign intelligence,…"
-          ]
-        },
-        {
-          "title": "Nonprofit Blank Forms To Move Into A New Space In SoHo This Fall",
-          "source": "Artforum",
-          "category": "art",
-          "sourceUrl": "https://www.artforum.com/news/nonprofit-blank-forms-to-move-into-a-new-space-in-soho-1234757686/",
-          "summary": "Blank Forms has announced plans to shift base from its current Clinton Hill, Brooklyn premises to an 8,000-square-foot open plan loft on the sixth floor of 151 Lafayette Street in SoHo. The nonprofit experimental…",
-          "image": "https://www.artforum.com/wp-content/uploads/2026/08/DSCF6249-1-copy_1.jpg?w=650",
-          "keyPoints": [
-            "Blank Forms has announced plans to shift base from its current Clinton Hill, Brooklyn premises to an 8,000-square-foot open plan loft on the sixth floor of 151 Lafayette Street in SoHo.",
-            "The nonprofit experimental…"
           ]
         }
       ]
@@ -7415,6 +7415,7 @@
     "https://www.sciencedaily.com/images/1920/hand-holding-vitamin-d-pill-in-sunlight.webp",
     "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Lucia_Caminos_01.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
     "https://www.sciencedaily.com/images/1920/defects-enhance-droplet-formation-and-heat-transfer-performance.webp",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/VINTAGE_VICE_CITY_PACK_02.jpg?quality=90&strip=all&crop=18.6%2C0%2C78.2%2C72.786503781268&w=1200"
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/VINTAGE_VICE_CITY_PACK_02.jpg?quality=90&strip=all&crop=18.6%2C0%2C78.2%2C72.786503781268&w=1200",
+    "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e70/live/c3634490-9c9c-11f1-a5a0-114ca9d4a1bc.jpg"
   ]
 }

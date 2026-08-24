@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-08-05T20-52",
+    "scannedAt": "2026-08-05T20:52:25.430Z",
+    "items": [
+      {
+        "id": "auto_2026-08-05T20-52_1",
+        "rank": 1,
+        "title": "Takeda’s narcolepsy drug approved by the FDA, a boon for new class of treatments",
+        "category": "biotech",
+        "summary": "The FDA approved a novel type of treatment for narcolepsy made by Takeda, backing a new drug class that scientists hope can be used to treat other conditions.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/08/AdobeStock_729644280_Editorial_Use_Only-1024x576.jpeg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/08/05/takeda-narcolepsy-drug-fda-approval-orzeyful/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-05T20-52_2",
+        "rank": 2,
+        "title": "Unlocking Hidden Brain Cancer Vaccine Targets",
+        "category": "neuroscience",
+        "summary": "A new study uses single-cell long-read sequencing to map hidden genetic isoforms in glioblastoma, unlocking novel targets for personalized cancer vaccines.",
+        "image": "https://neurosciencenews.com/files/2026/08/glioblastoma-targets-genetics-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/genetics-brain-cancer-vaccine-targets-31185/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-05T20-52_3",
+        "rank": 3,
+        "title": "How to Tell if Your Neighborhood Still Fits Your Life",
+        "category": "robotics",
+        "summary": "Staying in a home you love feels like the obvious move when your mortgage rate is well below today's market. But a house doesn't exist in isolation – the neighborhood around it shapes daily life just as much as the…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/rocket-mortgage-1.jpg",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/05/how-to-tell-if-your-neighborhood-still-fits-your-life/103929/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-05T20-52_4",
+        "rank": 4,
+        "title": "Monumental Painted Wood Carvings by Jiang Miao Center Mindfulness",
+        "category": "art",
+        "summary": "Whitestone Gallery in Seoul presents the artist's solo exhibition, 'Spiral of Energy.' Do stories and artists like this matter to you? Become a Colossal Member today and support independent arts publishing for as little…",
+        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/08/miao-1.jpg",
+        "source": "Colossal",
+        "sourceUrl": "https://www.thisiscolossal.com/2026/08/jiang-miao-spiral-of-energy-exhibition-wood-carvings-acrylic-paintings/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-05T20-52_5",
+        "rank": 5,
+        "title": "Artemis III Orion Crew and Service Models Joined",
+        "category": "space",
+        "summary": "Technicians joined the Orion crew and service modules together on July 30, 2026, inside the Neil Armstrong Operations and Checkout Building at NASA's Kennedy Space Center in Florida. The crew module will carry and…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/08/ksc-20260730-ph-as01-6583.webp",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/image-article/artemis-iii-orion-crew-and-service-models-joined/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "editorial_2026-08-04",
     "scannedAt": "2026-08-05T03:26:34.131Z",
     "kind": "editorial_archive",
@@ -1247,26 +1308,6 @@
         "source": "Canary Media",
         "sourceUrl": "https://www.canarymedia.com/articles/wind/states-lawsuit-trump-defense-permitting-freeze",
         "imageProxy": "https://images.weserv.nl/?url=img.canarymedia.com%2Fcontent%2Fuploads%2FGettyImages-2284679445.jpg%3Fauto%3Dcompress%252Cformat%26crop%3Dfocalpoint%26fit%3Dcrop%26fp-x%3D0.5%26fp-y%3D0.5%26h%3D630%26q%3D82%26w%3D1200%26s%3D1631f1ba3c3e2c2428a65eada6de81e6&w=640&h=400&fit=cover&we&output=jpg"
-      }
-    ]
-  },
-  {
-    "batchId": "editorial_2026-07-20",
-    "scannedAt": "2026-07-20T16:03:59.666Z",
-    "kind": "editorial_archive",
-    "items": [
-      {
-        "id": "editorial_2026-07-20",
-        "rank": 0,
-        "title": "Sacred rooms and civic streets",
-        "category": "editorial",
-        "summary": "Sacred rooms and civic streets—a short editorial on attention under pressure.",
-        "image": "https://images-assets.nasa.gov/image/PIA18033/PIA18033~medium.jpg",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-07-20.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-07-20",
-        "authorName": "Dr. Wallace Lynch"
       }
     ]
   }

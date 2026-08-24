@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-08-24T00-27",
+    "scannedAt": "2026-08-24T00:27:00.263Z",
+    "items": [
+      {
+        "id": "auto_2026-08-24T00-27_1",
+        "rank": 1,
+        "title": "Why students are being paid £2,000 to play computer games",
+        "category": "general",
+        "summary": "Roehampton University offers students £2,000 a year to play esports alongside their studies.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e70/live/c3634490-9c9c-11f1-a5a0-114ca9d4a1bc.jpg",
+        "source": "BBC Technology",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cz647wlvg1do?at_medium=RSS&at_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-24T00-27_2",
+        "rank": 2,
+        "title": "A major Alzheimer’s risk gene may shrink brain cells years before symptoms",
+        "category": "neuroscience",
+        "summary": "Researchers have uncovered a possible reason why the Alzheimer’s risk gene APOE4 can disrupt the brain long before memory problems begin. In mice, APOE4 increased a protein called Nell2, shrinking neurons and making…",
+        "image": "https://www.sciencedaily.com/images/1920/neurons-in-alzheimers-disease.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260821012234.htm",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-24T00-27_3",
+        "rank": 3,
+        "title": "Physicists create a tiny “Big Bang” with surprisingly small atomic nuclei",
+        "category": "space",
+        "summary": "Researchers at CERN have created microscopic versions of the early Universe by colliding surprisingly small atomic nuclei at nearly the speed of light. The collisions produced quark-gluon plasma, the ultra-hot matter…",
+        "image": "https://www.sciencedaily.com/images/1920/neon-20-and-oxygen-16-collisions.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260822015143.htm",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-24T00-27_4",
+        "rank": 4,
+        "title": "A hidden “on switch” in human DNA has finally been decoded",
+        "category": "robotics",
+        "summary": "Researchers have used AI to uncover the DNA signature of a key genetic “switch” involved in turning genes on. After analyzing about 500,000 DNA sequences, the model identified the initiator in roughly 60% of human…",
+        "image": "https://www.sciencedaily.com/images/1920/biological-dna-structure-with-gene-mutation.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260823014943.htm",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-24T00-27_5",
+        "rank": 5,
+        "title": "Scientists turn tiny “defects” into a 5.5x heat transfer boost",
+        "category": "energy",
+        "summary": "Scientists have developed an ultrathin coating that could dramatically improve how efficiently heat is transferred during condensation. By turning tiny polymer structures once considered “defects” into places where…",
+        "image": "https://www.sciencedaily.com/images/1920/defects-enhance-droplet-formation-and-heat-transfer-performance.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260823014940.htm",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-08-23T20-07",
     "scannedAt": "2026-08-23T20:07:19.979Z",
     "items": [
