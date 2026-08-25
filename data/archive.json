@@ -1,5 +1,25 @@
 [
   {
+    "batchId": "editorial_2026-08-24",
+    "scannedAt": "2026-08-24T04:15:29.426Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-08-24",
+        "rank": 0,
+        "title": "She still holds the string",
+        "category": "editorial",
+        "summary": "A fold that keeps a family, a cell that thins before memory speaks",
+        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/08/ajcip-1.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-24.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-08-24",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-08-25T20-13",
     "scannedAt": "2026-08-25T20:13:14.046Z",
     "items": [
