@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-08-25T00-26",
-    "scannedAt": "2026-08-25T00:26:39.881Z",
+    "batchId": "auto_2026-08-25T04-25",
+    "scannedAt": "2026-08-25T04:25:29.936Z",
     "items": [
       {
-        "id": "auto_2026-08-25T00-26_1",
+        "id": "auto_2026-08-25T04-25_1",
         "rank": 1,
-        "title": "Lenovo confirms Legion Go issues after gamers report bricked devices",
+        "title": "Data Centers Are Driving an Alarming Gas Power Expansion in the US",
         "category": "general",
-        "summary": "When a company's software update turns your computer into a useless brick, should fixes be free? Framework, the modular computer startup, apparently thinks so. But it's not clear that computing giant Lenovo will go that…",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/verge-legion-go-sean-hollister-1-2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "sourceUrl": "https://www.theverge.com/games/983457/lenovo-bad-legion-go-bios-update-bricked",
+        "summary": "There’s no clearer sign of the data center boom than rampant gas projects that have been proposed or that are already under construction.",
+        "image": "https://media.wired.com/photos/6a8ce07d60f23f7c6261c515/master/pass/AP26092141058357.jpg",
+        "source": "WIRED",
+        "sourceUrl": "https://www.wired.com/story/us-data-centers-drive-gas-power-expansion/",
         "fromX": false
       },
       {
-        "id": "auto_2026-08-25T00-26_2",
+        "id": "auto_2026-08-25T04-25_2",
         "rank": 2,
-        "title": "Tesla ditches solar roof — and embraces regular solar panels",
-        "category": "energy",
-        "summary": "A thousand solar roofs per week. That was the pace Elon Musk predicted Tesla would install its electricity-generating roof tiles in 2020, more than three years after he unveiled the product to great fanfare on the set…",
-        "image": "https://img.canarymedia.com/content/uploads/Tesla-Solar-Roof_GettyImages-1813818799.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=b62b8f08c654c54e925b303195056dbe",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/solar/tesla-pulls-plug-on-solar-roof-as-it-chases-wild-new-solar-dreams",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-25T00-26_3",
-        "rank": 3,
-        "title": "Robotics and the future of on-orbit labor",
-        "category": "space",
-        "summary": "In this episode, SpaceNews' Mike Gruss interviews Icarus Robotics CEO and co-founder Ethan Barajas at the 2026 Small Satellite Conference in Salt Lake City, Utah. They discuss why astronauts have […] The post Robotics…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/1500-1000-space-minds-icarus-robotics-smallsat26-scaled.jpg?fit=1024%2C768&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/robotics-and-the-future-of-on-orbit-labor/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-25T00-26_4",
-        "rank": 4,
-        "title": "Details Of Allegations Against Suspended MuCEM President Revealed",
+        "title": "Former Pussy Riot member says she was recruited by Russian security service to spy on dissident artists",
         "category": "art",
-        "summary": "French newspaper Le Monde has published allegations of sexual and professional misconduct against Marseille museum president Pierre-Olivier Costa, sourced from a confidential report compiled by France’s General…",
-        "image": "https://www.artforum.com/wp-content/uploads/2026/08/GettyImages-2036328763.jpg?w=650",
-        "source": "Artforum",
-        "sourceUrl": "https://www.artforum.com/news/allegations-against-suspended-mucem-president-revealed-1234757770/",
+        "summary": "Rita Flores, in a new video interview, claims she was pressured by FSB agents who threatened to kill her family",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/61ccfdcad11ac7a619382e3f654f04e2ac59658c-2000x1521.jpg?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/08/24/pussy-riot-rita-flores-margarita-konovalova-fsb-spying-pressure",
         "fromX": false
       },
       {
-        "id": "auto_2026-08-25T00-26_5",
-        "rank": 5,
-        "title": "Abacus.AI Complete Guide: ChatLLM, Personal Agents, Supercomputer and Studio Explained",
+        "id": "auto_2026-08-25T04-25_3",
+        "rank": 3,
+        "title": "NASA Sets Coverage for Roman Space Telescope Launch from Florida",
+        "category": "space",
+        "summary": "Coverage plans are ready for NASA’s Nancy Grace Roman Space Telescope prelaunch and launch activities. Roman is NASA’s next-generation observatory designed to explore some of the universe’s biggest mysteries, including…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/08/ksc-20260821-ph-ser01-0003large.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-roman-space-telescope-launch-from-florida/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-25T04-25_4",
+        "rank": 4,
+        "title": "J&T Express Adds 22 Automated Sorting Systems as Unmanned Delivery Fleet Tops 1,900",
         "category": "robotics",
-        "summary": "If you've searched \"Abacus.AI\" recently, you've probably landed on a review that covers one or two products and leaves you wondering how everything fits together. That's the gap this guide fills. Abacus.AI does not…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/LLMs-image-1.jpeg",
+        "summary": "J&T Global Express has expanded automated sortation across its express network to 435 sets of automated sorting machines, adding 22 sets in the first half of 2026, while deployment of unmanned delivery vehicles rose 87…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/JT-Express-warehouse-1.jpeg",
         "source": "Robotics & Automation News",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/24/abacus-ai-complete-guide-chatllm-personal-agents-supercomputer-and-studio-explained/104435/",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/24/jt-express-adds-22-automated-sorting-systems-as-unmanned-delivery-fleet-tops-1900/104432/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-25T04-25_5",
+        "rank": 5,
+        "title": "STAT+: Lady Gaga and her fiancé launch a biotech startup",
+        "category": "biotech",
+        "summary": "FTC challenges Amgen's Enbrel patent strategy, the long, winding path for the Moderna-Merck cancer vaccine, and more biotech news",
+        "image": "https://www.statnews.com/wp-content/uploads/2021/05/AdobeStock_388097046-1024x576.jpeg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/08/24/biotech-news-lady-gaga-and-her-fiance-launch-biotech-startup/?utm_campaign=rss",
         "fromX": false
       }
     ]
