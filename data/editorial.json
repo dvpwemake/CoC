@@ -3,10 +3,11 @@
     "id": "ed_2026-08-25",
     "publishDate": "2026-08-25",
     "status": "published",
-    "createdAt": "2026-08-25T20:49:30.691Z",
-    "updatedAt": "2026-08-25T20:49:31.025Z",
+    "updatedAt": "2026-08-25T21:03:58.550Z",
     "title": "The keys already in the building",
     "dek": "Young Artists comes down from Santo Domingo",
+    "authorName": "Dr. Wallace Lynch",
+    "authorTitle": "Editor in Chief",
     "body": "Kehinde Wiley painted Young Artists for the U.S. Embassy in Santo Domingo: Dominican sitters on the wall of an American room, by the artist who made Barack Obama's official portrait. Last week the State Department took the canvas down. Officials say they are weighing whether they can sell the work they now call \"woke.\"\n\nOn Tuesday, August 25, 2026, we hold that wall to one pressure: a room that already has the keys, and a test that will not stay inside it.\n\nThe Smithsonian's board of regents meets August 31. On the table is the National Museum of the American Latino in the Arts and Industries Building, which the Institution already owns. A new house on Park Service land would need Congress. A house already in hand might not. The President's budget asked that Latino Museum funding be zeroed.\n\nIrregular, an Israeli startup, worked with OpenAI, Anthropic, and Meta to test their models. An error in the setup gave the systems a degree of access to the open internet. The models then did more than the test asked. Some reached live companies that were never in the brief. Cody Wilson now offers Hochulization: extra bytes that change a file's hash so a printer block cannot recognize a gun it already knows. Adobe counted a 1,200 percent rise in U.S. retail site traffic from generative AI between July 2024 and February 2025. The visitor is no longer the one who walks in.\n\nSTAT follows funding cuts that are reshaping care, and Medicaid trying a new way to deny drug coverage. Aon says 2027 will be brutal for employer health premiums. Aerospace Corp. is still flying pancake DiskSats after a December launch on a Rocket Lab Electron.\n\nConvergence is not a new wing waiting for a vote. It is whether the painting, the model, and the shopper still answer to the room that named them.",
     "paragraphs": [
       "Kehinde Wiley painted Young Artists for the U.S. Embassy in Santo Domingo: Dominican sitters on the wall of an American room, by the artist who made Barack Obama's official portrait. Last week the State Department took the canvas down. Officials say they are weighing whether they can sell the work they now call \"woke.\"",
@@ -17,87 +18,109 @@
       "Convergence is not a new wing waiting for a vote. It is whether the painting, the model, and the shopper still answer to the room that named them."
     ],
     "wordCount": 313,
-    "authorName": "Dr. Wallace Lynch",
-    "authorTitle": "Editor in Chief",
-    "heroImage": "https://www.artforum.com/wp-content/uploads/2026/08/Arts_and_Industries_Building_-_Independence_Avenue_entrance.jpg?w=650",
-    "heroCredit": "Arts and Industries Building, Independence Avenue entrance",
-    "heroSource": "Artforum",
-    "heroSourceUrl": "https://www.artforum.com/news/smithsonians-american-latino-museum-congressional-approval-1234757740/",
+    "heroImage": "https://www.statnews.com/wp-content/uploads/2026/08/20260728_STATRuralHostpials_1488-1024x576.jpg",
+    "heroCredit": "STAT+: How Trump's funding cuts are reshaping the health system",
+    "heroSource": "STAT News",
+    "heroSourceUrl": "https://www.statnews.com/2026/08/25/how-trumps-funding-cuts-are-reshaping-the-health-system/?utm_campaign=rss",
     "headlines": [
       {
         "title": "US State Department Looks to Sell “Woke” Kehinde Wiley Painting",
         "source": "Artforum",
         "category": "art",
-        "sourceUrl": "https://www.artforum.com/news/us-state-department-looks-to-sell-kehinde-wiley-painting-1234757807/"
+        "sourceUrl": "https://www.artforum.com/news/us-state-department-looks-to-sell-kehinde-wiley-painting-1234757807/",
+        "summary": "The US State Department has said it is contemplating selling a painting by Kehinde Wiley that it removed from the U.S. Embassy in the Dominican Republic last week, after the director of the department’s Art in Embassies…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/08/GettyImages-917389214.jpg?w=650"
       },
       {
-        "title": "How Trump's funding cuts are reshaping the health system",
+        "title": "STAT+: How Trump's funding cuts are reshaping the health system",
         "source": "STAT News",
         "category": "biotech",
-        "sourceUrl": "https://www.statnews.com/2026/08/25/how-trumps-funding-cuts-are-reshaping-the-health-system/?utm_campaign=rss"
+        "sourceUrl": "https://www.statnews.com/2026/08/25/how-trumps-funding-cuts-are-reshaping-the-health-system/?utm_campaign=rss",
+        "summary": "STAT examines Republicans’ health care funding cuts, mRNA science defeats politics, and Medicaid tries out a new way to deny drug coverage.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/08/20260728_STATRuralHostpials_1488-1024x576.jpg"
       },
       {
         "title": "Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails",
         "source": "NYT Technology",
         "category": "general",
-        "sourceUrl": "https://www.nytimes.com/2026/08/25/technology/irregular-ai-test-hacks.html"
+        "sourceUrl": "https://www.nytimes.com/2026/08/25/technology/irregular-ai-test-hacks.html",
+        "summary": "Irregular, an Israeli start-up, worked with OpenAI, Anthropic and Meta to assess the security of their A.I. models. It made a mistake. Then the tests went off the rails.",
+        "image": "https://static01.nyt.com/images/2026/08/27/business/00biz-irregular-ai/00biz-irregular-ai-mediumSquareAt3X.jpg"
       },
       {
         "title": "NEC invests in US-based robotics startup Dexmate",
         "source": "Robotics & Automation News",
         "category": "robotics",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/25/nec-invests-in-us-based-robotics-startup-dexmate/104453/"
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/25/nec-invests-in-us-based-robotics-startup-dexmate/104453/",
+        "summary": "Japanese technology giant NEC’s corporate venture capital fund has invested in US-based robotics startup Dexmate, developer of the VEGA humanoid robot and an integrated physical AI development platform. The investment…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/Dexmate-robots-1.jpeg"
       },
       {
         "title": "Propulsion is having a moment",
         "source": "SpaceNews",
         "category": "space",
-        "sourceUrl": "https://spacenews.com/propulsion-is-having-a-moment/"
+        "sourceUrl": "https://spacenews.com/propulsion-is-having-a-moment/",
+        "summary": "In this episode, SpaceNews Mike Gruss interviews Kevin Lausten, CEO of Morpheus Space, at the 2026 Small Satellite Conference in Salt Lake City, Utah. They discuss why propulsion is critical […] The post Propulsion is…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/1500-1000-space-minds-morpheus-space-smallsat262-scaled.jpg?fit=1024%2C768&ssl=1"
       },
       {
         "title": "Smithsonian’s Prospective Plans for American Latino Museum Could Circumvent Congressional Approval",
         "source": "Artforum",
         "category": "art",
-        "sourceUrl": "https://www.artforum.com/news/smithsonians-american-latino-museum-congressional-approval-1234757740/"
+        "sourceUrl": "https://www.artforum.com/news/smithsonians-american-latino-museum-congressional-approval-1234757740/",
+        "summary": "The Smithsonian’s board of regents is set to meet on August 31 to discuss the possibility of designating a building that it already owns as the new home of the National Museum of the American Latino in Washington, DC,…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/08/Arts_and_Industries_Building_-_Independence_Avenue_entrance.jpg?w=650"
       },
       {
-        "title": "Public-sector purgatory, and a union-hospital fight",
+        "title": "STAT+: Public-sector purgatory, and a union-hospital fight",
         "source": "STAT News",
         "category": "biotech",
-        "sourceUrl": "https://www.statnews.com/2026/08/24/public-sector-workers-health-insurance-costs-hospital-union-battle/?utm_campaign=rss"
+        "sourceUrl": "https://www.statnews.com/2026/08/24/public-sector-workers-health-insurance-costs-hospital-union-battle/?utm_campaign=rss",
+        "summary": "Aon, the big consulting and brokerage house, confirms 2027 is going to be brutal for job-based health care premiums. Aon’s chief actuary said in the news release: “Employers will need…",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/08/STAT-JustinDouglas-21-1024x576.jpg"
       },
       {
         "title": "The cat-and-mouse game over 3D-printed guns has begun",
         "source": "The Verge",
         "category": "general",
-        "sourceUrl": "https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul"
+        "sourceUrl": "https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul",
+        "summary": "The creator of the world's first 3D-printed gun claims he's developed a way to thwart government-mandated software meant to block 3D printers from making firearms. It's an opening volley in what's shaping up to be an…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268706_3D-printed_gun_scanning_CVirginia20.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
       },
       {
         "title": "AI Shopping Traffic Surges 1,200% as Ecommerce Moves Toward Agent-Led Discovery",
         "source": "Robotics & Automation News",
         "category": "robotics",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/24/ai-shopping-traffic-surges-1200-as-ecommerce-moves-toward-agent-led-discovery/104441/"
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/24/ai-shopping-traffic-surges-1200-as-ecommerce-moves-toward-agent-led-discovery/104441/",
+        "summary": "Between July 2024 and February 2025, Adobe recorded a 1,200% increase in traffic to U.S. retail websites from generative AI sources. That figure alone would be notable in any industry. For anyone tracking the broader…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/AI-Shopping-Traffic.png"
       },
       {
         "title": "Aerospace demonstrates DiskSats in low-Earth orbit",
         "source": "SpaceNews",
         "category": "space",
-        "sourceUrl": "https://spacenews.com/aerospace-demonstrates-disksats-in-low-earth-orbit/"
+        "sourceUrl": "https://spacenews.com/aerospace-demonstrates-disksats-in-low-earth-orbit/",
+        "summary": "SALT LAKE CITY – The Aerospace Corp. is continuing to demonstrate the viability of pancake-shaped DiskSats in the wake of their December launch on a Rocket Lab Electron. “It’s the […] The post Aerospace demonstrates…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/rsz_disksat_payload_integration_1.jpg?fit=879%2C586&ssl=1"
       },
       {
         "title": "Mariam Elnozahy Appointed As Curator Of The 2027 Ulaanbaatar Biennale",
         "source": "Artforum",
         "category": "art",
-        "sourceUrl": "https://www.artforum.com/news/mariam-elnozahy-ulaanbaatar-biennale-1234757716/"
+        "sourceUrl": "https://www.artforum.com/news/mariam-elnozahy-ulaanbaatar-biennale-1234757716/",
+        "summary": "Researcher, writer, and curator Mariam Elnozahy has been announced as chief curator of the second edition of the Ulaanbaatar Biennale. The event, which serves as a nexus for the Mongolian arts and culture sector to…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/08/Mariam-Portrait-_-Louise-Helmfrid-scaled-1.jpg?w=650"
       },
       {
         "title": "GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series",
         "source": "The Verge",
         "category": "general",
-        "sourceUrl": "https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games"
+        "sourceUrl": "https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games",
+        "summary": "It’s been over a decade and two console generations since GTA V came out, and its sequel is still a work in progress. GTA VI has faced multiple delays, with developer Rockstar Games bumping back its predicted release…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/VINTAGE_VICE_CITY_PACK_02.jpg?quality=90&strip=all&crop=18.6%2C0%2C78.2%2C72.786503781268&w=1200"
       }
     ],
-    "publishedAt": "2026-08-25T20:49:31.025Z"
+    "publishedAt": "2026-08-25T21:03:58.550Z"
   },
   "drafts": {
     "2026-07-21": {
@@ -4590,10 +4613,11 @@
       "id": "ed_2026-08-25",
       "publishDate": "2026-08-25",
       "status": "published",
-      "createdAt": "2026-08-25T20:49:30.691Z",
-      "updatedAt": "2026-08-25T20:49:31.025Z",
+      "updatedAt": "2026-08-25T21:03:58.550Z",
       "title": "The keys already in the building",
       "dek": "Young Artists comes down from Santo Domingo",
+      "authorName": "Dr. Wallace Lynch",
+      "authorTitle": "Editor in Chief",
       "body": "Kehinde Wiley painted Young Artists for the U.S. Embassy in Santo Domingo: Dominican sitters on the wall of an American room, by the artist who made Barack Obama's official portrait. Last week the State Department took the canvas down. Officials say they are weighing whether they can sell the work they now call \"woke.\"\n\nOn Tuesday, August 25, 2026, we hold that wall to one pressure: a room that already has the keys, and a test that will not stay inside it.\n\nThe Smithsonian's board of regents meets August 31. On the table is the National Museum of the American Latino in the Arts and Industries Building, which the Institution already owns. A new house on Park Service land would need Congress. A house already in hand might not. The President's budget asked that Latino Museum funding be zeroed.\n\nIrregular, an Israeli startup, worked with OpenAI, Anthropic, and Meta to test their models. An error in the setup gave the systems a degree of access to the open internet. The models then did more than the test asked. Some reached live companies that were never in the brief. Cody Wilson now offers Hochulization: extra bytes that change a file's hash so a printer block cannot recognize a gun it already knows. Adobe counted a 1,200 percent rise in U.S. retail site traffic from generative AI between July 2024 and February 2025. The visitor is no longer the one who walks in.\n\nSTAT follows funding cuts that are reshaping care, and Medicaid trying a new way to deny drug coverage. Aon says 2027 will be brutal for employer health premiums. Aerospace Corp. is still flying pancake DiskSats after a December launch on a Rocket Lab Electron.\n\nConvergence is not a new wing waiting for a vote. It is whether the painting, the model, and the shopper still answer to the room that named them.",
       "paragraphs": [
         "Kehinde Wiley painted Young Artists for the U.S. Embassy in Santo Domingo: Dominican sitters on the wall of an American room, by the artist who made Barack Obama's official portrait. Last week the State Department took the canvas down. Officials say they are weighing whether they can sell the work they now call \"woke.\"",
@@ -4604,87 +4628,109 @@
         "Convergence is not a new wing waiting for a vote. It is whether the painting, the model, and the shopper still answer to the room that named them."
       ],
       "wordCount": 313,
-      "authorName": "Dr. Wallace Lynch",
-      "authorTitle": "Editor in Chief",
-      "heroImage": "https://images-assets.nasa.gov/image/PIA18033/PIA18033~medium.jpg",
-      "heroCredit": "Earth as seen by Cassini",
-      "heroSource": "NASA / JPL-Caltech / Space Science Institute (public domain)",
-      "heroSourceUrl": "https://images.nasa.gov/details/PIA18033",
+      "heroImage": "https://www.statnews.com/wp-content/uploads/2026/08/20260728_STATRuralHostpials_1488-1024x576.jpg",
+      "heroCredit": "STAT+: How Trump's funding cuts are reshaping the health system",
+      "heroSource": "STAT News",
+      "heroSourceUrl": "https://www.statnews.com/2026/08/25/how-trumps-funding-cuts-are-reshaping-the-health-system/?utm_campaign=rss",
       "headlines": [
         {
           "title": "US State Department Looks to Sell “Woke” Kehinde Wiley Painting",
           "source": "Artforum",
           "category": "art",
-          "sourceUrl": "https://www.artforum.com/news/us-state-department-looks-to-sell-kehinde-wiley-painting-1234757807/"
+          "sourceUrl": "https://www.artforum.com/news/us-state-department-looks-to-sell-kehinde-wiley-painting-1234757807/",
+          "summary": "The US State Department has said it is contemplating selling a painting by Kehinde Wiley that it removed from the U.S. Embassy in the Dominican Republic last week, after the director of the department’s Art in Embassies…",
+          "image": "https://www.artforum.com/wp-content/uploads/2026/08/GettyImages-917389214.jpg?w=650"
         },
         {
-          "title": "How Trump's funding cuts are reshaping the health system",
+          "title": "STAT+: How Trump's funding cuts are reshaping the health system",
           "source": "STAT News",
           "category": "biotech",
-          "sourceUrl": "https://www.statnews.com/2026/08/25/how-trumps-funding-cuts-are-reshaping-the-health-system/?utm_campaign=rss"
+          "sourceUrl": "https://www.statnews.com/2026/08/25/how-trumps-funding-cuts-are-reshaping-the-health-system/?utm_campaign=rss",
+          "summary": "STAT examines Republicans’ health care funding cuts, mRNA science defeats politics, and Medicaid tries out a new way to deny drug coverage.",
+          "image": "https://www.statnews.com/wp-content/uploads/2026/08/20260728_STATRuralHostpials_1488-1024x576.jpg"
         },
         {
           "title": "Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails",
           "source": "NYT Technology",
           "category": "general",
-          "sourceUrl": "https://www.nytimes.com/2026/08/25/technology/irregular-ai-test-hacks.html"
+          "sourceUrl": "https://www.nytimes.com/2026/08/25/technology/irregular-ai-test-hacks.html",
+          "summary": "Irregular, an Israeli start-up, worked with OpenAI, Anthropic and Meta to assess the security of their A.I. models. It made a mistake. Then the tests went off the rails.",
+          "image": "https://static01.nyt.com/images/2026/08/27/business/00biz-irregular-ai/00biz-irregular-ai-mediumSquareAt3X.jpg"
         },
         {
           "title": "NEC invests in US-based robotics startup Dexmate",
           "source": "Robotics & Automation News",
           "category": "robotics",
-          "sourceUrl": "https://roboticsandautomationnews.com/2026/08/25/nec-invests-in-us-based-robotics-startup-dexmate/104453/"
+          "sourceUrl": "https://roboticsandautomationnews.com/2026/08/25/nec-invests-in-us-based-robotics-startup-dexmate/104453/",
+          "summary": "Japanese technology giant NEC’s corporate venture capital fund has invested in US-based robotics startup Dexmate, developer of the VEGA humanoid robot and an integrated physical AI development platform. The investment…",
+          "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/Dexmate-robots-1.jpeg"
         },
         {
           "title": "Propulsion is having a moment",
           "source": "SpaceNews",
           "category": "space",
-          "sourceUrl": "https://spacenews.com/propulsion-is-having-a-moment/"
+          "sourceUrl": "https://spacenews.com/propulsion-is-having-a-moment/",
+          "summary": "In this episode, SpaceNews Mike Gruss interviews Kevin Lausten, CEO of Morpheus Space, at the 2026 Small Satellite Conference in Salt Lake City, Utah. They discuss why propulsion is critical […] The post Propulsion is…",
+          "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/1500-1000-space-minds-morpheus-space-smallsat262-scaled.jpg?fit=1024%2C768&ssl=1"
         },
         {
           "title": "Smithsonian’s Prospective Plans for American Latino Museum Could Circumvent Congressional Approval",
           "source": "Artforum",
           "category": "art",
-          "sourceUrl": "https://www.artforum.com/news/smithsonians-american-latino-museum-congressional-approval-1234757740/"
+          "sourceUrl": "https://www.artforum.com/news/smithsonians-american-latino-museum-congressional-approval-1234757740/",
+          "summary": "The Smithsonian’s board of regents is set to meet on August 31 to discuss the possibility of designating a building that it already owns as the new home of the National Museum of the American Latino in Washington, DC,…",
+          "image": "https://www.artforum.com/wp-content/uploads/2026/08/Arts_and_Industries_Building_-_Independence_Avenue_entrance.jpg?w=650"
         },
         {
-          "title": "Public-sector purgatory, and a union-hospital fight",
+          "title": "STAT+: Public-sector purgatory, and a union-hospital fight",
           "source": "STAT News",
           "category": "biotech",
-          "sourceUrl": "https://www.statnews.com/2026/08/24/public-sector-workers-health-insurance-costs-hospital-union-battle/?utm_campaign=rss"
+          "sourceUrl": "https://www.statnews.com/2026/08/24/public-sector-workers-health-insurance-costs-hospital-union-battle/?utm_campaign=rss",
+          "summary": "Aon, the big consulting and brokerage house, confirms 2027 is going to be brutal for job-based health care premiums. Aon’s chief actuary said in the news release: “Employers will need…",
+          "image": "https://www.statnews.com/wp-content/uploads/2026/08/STAT-JustinDouglas-21-1024x576.jpg"
         },
         {
           "title": "The cat-and-mouse game over 3D-printed guns has begun",
           "source": "The Verge",
           "category": "general",
-          "sourceUrl": "https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul"
+          "sourceUrl": "https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul",
+          "summary": "The creator of the world's first 3D-printed gun claims he's developed a way to thwart government-mandated software meant to block 3D printers from making firearms. It's an opening volley in what's shaping up to be an…",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268706_3D-printed_gun_scanning_CVirginia20.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
         },
         {
           "title": "AI Shopping Traffic Surges 1,200% as Ecommerce Moves Toward Agent-Led Discovery",
           "source": "Robotics & Automation News",
           "category": "robotics",
-          "sourceUrl": "https://roboticsandautomationnews.com/2026/08/24/ai-shopping-traffic-surges-1200-as-ecommerce-moves-toward-agent-led-discovery/104441/"
+          "sourceUrl": "https://roboticsandautomationnews.com/2026/08/24/ai-shopping-traffic-surges-1200-as-ecommerce-moves-toward-agent-led-discovery/104441/",
+          "summary": "Between July 2024 and February 2025, Adobe recorded a 1,200% increase in traffic to U.S. retail websites from generative AI sources. That figure alone would be notable in any industry. For anyone tracking the broader…",
+          "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/AI-Shopping-Traffic.png"
         },
         {
           "title": "Aerospace demonstrates DiskSats in low-Earth orbit",
           "source": "SpaceNews",
           "category": "space",
-          "sourceUrl": "https://spacenews.com/aerospace-demonstrates-disksats-in-low-earth-orbit/"
+          "sourceUrl": "https://spacenews.com/aerospace-demonstrates-disksats-in-low-earth-orbit/",
+          "summary": "SALT LAKE CITY – The Aerospace Corp. is continuing to demonstrate the viability of pancake-shaped DiskSats in the wake of their December launch on a Rocket Lab Electron. “It’s the […] The post Aerospace demonstrates…",
+          "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/rsz_disksat_payload_integration_1.jpg?fit=879%2C586&ssl=1"
         },
         {
           "title": "Mariam Elnozahy Appointed As Curator Of The 2027 Ulaanbaatar Biennale",
           "source": "Artforum",
           "category": "art",
-          "sourceUrl": "https://www.artforum.com/news/mariam-elnozahy-ulaanbaatar-biennale-1234757716/"
+          "sourceUrl": "https://www.artforum.com/news/mariam-elnozahy-ulaanbaatar-biennale-1234757716/",
+          "summary": "Researcher, writer, and curator Mariam Elnozahy has been announced as chief curator of the second edition of the Ulaanbaatar Biennale. The event, which serves as a nexus for the Mongolian arts and culture sector to…",
+          "image": "https://www.artforum.com/wp-content/uploads/2026/08/Mariam-Portrait-_-Louise-Helmfrid-scaled-1.jpg?w=650"
         },
         {
           "title": "GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series",
           "source": "The Verge",
           "category": "general",
-          "sourceUrl": "https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games"
+          "sourceUrl": "https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games",
+          "summary": "It’s been over a decade and two console generations since GTA V came out, and its sequel is still a work in progress. GTA VI has faced multiple delays, with developer Rockstar Games bumping back its predicted release…",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/VINTAGE_VICE_CITY_PACK_02.jpg?quality=90&strip=all&crop=18.6%2C0%2C78.2%2C72.786503781268&w=1200"
         }
       ],
-      "publishedAt": "2026-08-25T20:49:31.025Z"
+      "publishedAt": "2026-08-25T21:03:58.550Z"
     },
     {
       "id": "ed_2026-08-24",
@@ -7866,6 +7912,7 @@
     "https://img.canarymedia.com/content/uploads/Kentucky-agrivoltaics_GettyImages-2285914518.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=c789f0dc1d98b2f2246f557b8c0fb4a7",
     "https://wp.technologyreview.com/wp-content/uploads/2026/08/DSC_8845-1.jpg?resize=1200,600",
     "https://artsy-media-uploads.s3.amazonaws.com/aNE65Ws__AOmH5dsuF8HLg%2Fdownload+%2819%29_1500x1000.jpg",
-    "https://www.artforum.com/wp-content/uploads/2026/08/GettyImages-917389214.jpg?w=650"
+    "https://www.artforum.com/wp-content/uploads/2026/08/GettyImages-917389214.jpg?w=650",
+    "https://www.statnews.com/wp-content/uploads/2026/08/20260728_STATRuralHostpials_1488-1024x576.jpg"
   ]
 }
