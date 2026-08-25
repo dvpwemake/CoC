@@ -293,6 +293,12 @@ ${prose}
 `;
 }
 
+function writeIfChanged(filePath, text) {
+  if (fs.existsSync(filePath) && fs.readFileSync(filePath, 'utf8') === text) return false;
+  fs.writeFileSync(filePath, text);
+  return true;
+}
+
 function writeSitemap(dates) {
   const today = new Date().toISOString().slice(0, 10);
   const staticUrls = [
@@ -332,7 +338,7 @@ function writeSitemap(dates) {
 ${body}
 </urlset>
 `;
-  fs.writeFileSync(SITEMAP_PATH, xml);
+  writeIfChanged(SITEMAP_PATH, xml);
 }
 
 function generateAll() {
@@ -343,13 +349,12 @@ function generateAll() {
   let n = 0;
   for (const d of dates) {
     const html = renderPage(map[d], d);
-    fs.writeFileSync(path.join(OUT_DIR, d + '.html'), html);
-    n++;
+    if (writeIfChanged(path.join(OUT_DIR, d + '.html'), html)) n++;
   }
   // index redirect helper
   const latest = store.published && store.published.publishDate;
   if (latest && map[latest]) {
-    fs.writeFileSync(
+    writeIfChanged(
       path.join(OUT_DIR, 'index.html'),
       `<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta http-equiv="refresh" content="0;url=${latest}.html">
 <link rel="canonical" href="${SITE}/e/${latest}.html"><title>Editorials — CoC</title>

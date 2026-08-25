@@ -433,7 +433,63 @@
     const used = usedHeroUrls(store);
     used.add(hero.url);
     store.usedHeroImages = Array.from(used);
+    pruneEditorialStore(store);
     return { draft, created: true, store };
+  }
+
+  function isOutlineBrief(ed) {
+    if (!ed) return false;
+    if (ed.draftKind === 'outline' || ed.formId === 'outline_brief' || ed.themeId === 'outline') return true;
+    const blob = String(ed.title || '') + '\n' + String(ed.body || '');
+    return (
+      /EDITORIAL BRIEF\s*\(outline only/i.test(blob) ||
+      /^Editorial brief\s*[—–-]/.test(String(ed.title || '').trim())
+    );
+  }
+
+  /** History keeps prose + hero. Headlines stay on published + live outline only. */
+  function slimHistoryEntry(ed) {
+    if (!ed || typeof ed !== 'object') return ed;
+    const out = Object.assign({}, ed);
+    delete out.headlines;
+    delete out.outlineItems;
+    if (Array.isArray(out.paragraphs) && out.paragraphs.length) delete out.body;
+    return out;
+  }
+
+  /**
+   * Retention lock (2026-08-25): outline drafts = today + tomorrow only.
+   * Never keep an outline for a date already in published/history.
+   * History entries must not carry the 12-headline dump.
+   */
+  function pruneEditorialStore(store, todayStr) {
+    if (!store || typeof store !== 'object') return store;
+    const today = todayStr || nyParts().dateStr;
+    const keepOutline = {};
+    keepOutline[today] = true;
+    keepOutline[addDaysNy(today, 1)] = true;
+    const publishedDate = store.published && store.published.publishDate;
+    const histDates = {};
+    (store.history || []).forEach(function (h) {
+      if (h && h.publishDate && !isOutlineBrief(h)) histDates[h.publishDate] = true;
+    });
+    const drafts = store.drafts || {};
+    const next = {};
+    Object.keys(drafts).forEach(function (date) {
+      const d = drafts[date];
+      if (!d) return;
+      if (publishedDate && date === publishedDate) return;
+      if (histDates[date]) return;
+      if (isOutlineBrief(d) && !keepOutline[date]) return;
+      if (!isOutlineBrief(d) && date < today) return;
+      next[date] = d;
+    });
+    store.drafts = next;
+    store.history = (store.history || [])
+      .filter(function (h) { return h && h.publishDate; })
+      .map(slimHistoryEntry)
+      .slice(0, 60);
+    return store;
   }
 
   function nextPublishDate(date) {
@@ -463,6 +519,9 @@
     wordCount,
     headlinesFromArchive,
     headlinesFromBatches,
-    createDraftForDate
+    createDraftForDate,
+    isOutlineBrief,
+    slimHistoryEntry,
+    pruneEditorialStore
   };
 });

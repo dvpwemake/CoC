@@ -31,7 +31,8 @@ jobs:
           git config user.name "Chronicle Bot"
           git config user.email "bot@chronicleofconvergence.com"
           # Crawl updates archive + index; also writes editorial outline draft
-          git add index.html data/archive.json data/archive_part*.json data/editorial.json
+          # editorial.json is 9pm draft + publish only (not every 4h crawl)
+          git add index.html data/archive.json data/archive_part*.json
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else

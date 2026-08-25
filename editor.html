@@ -1876,6 +1876,9 @@ function saveEditorial(){
     }
     ED.drafts[ed.publishDate]=ed;
   }
+  if(window.CocEditorial&&CocEditorial.pruneEditorialStore){
+    CocEditorial.pruneEditorialStore(ED);
+  }
   localStorage.setItem(EK,JSON.stringify(ED));
   // No download — browser store only
   toast('Saved in browser (~'+ed.wordCount+' words)','success');
@@ -2055,6 +2058,9 @@ async function publishEditorialToGitHub(){
       usedHeroImages:ED.usedHeroImages||[]
     };
     delete store.drafts[ed.publishDate];
+    if(window.CocEditorial&&CocEditorial.pruneEditorialStore){
+      CocEditorial.pruneEditorialStore(store);
+    }
     if(ed.heroImage){
       const used=new Set(store.usedHeroImages);
       used.add(ed.heroImage);

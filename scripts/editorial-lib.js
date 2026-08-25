@@ -37,9 +37,21 @@ function loadJson(p, fallback) {
   return fallback;
 }
 
+const EDITORIAL_JSON_MAX_BYTES = 200 * 1024;
+
 function saveJson(p, data) {
   fs.mkdirSync(path.dirname(p), { recursive: true });
-  fs.writeFileSync(p, JSON.stringify(data, null, 2));
+  let out = data;
+  if (p === EDITORIAL_PATH && out && typeof out === 'object') {
+    out = CocEditorial.pruneEditorialStore(out);
+    const bytes = Buffer.byteLength(JSON.stringify(out, null, 2), 'utf8');
+    if (bytes > EDITORIAL_JSON_MAX_BYTES) {
+      console.warn(
+        'editorial.json ' + bytes + ' bytes exceeds ' + EDITORIAL_JSON_MAX_BYTES + ' cap after prune'
+      );
+    }
+  }
+  fs.writeFileSync(p, JSON.stringify(out, null, 2));
 }
 
 function wordCount(text) {
@@ -56,6 +68,14 @@ function ensureStore() {
   if (!store.drafts) store.drafts = {};
   if (!store.history) store.history = [];
   return store;
+}
+
+function pruneAndSave() {
+  const store = ensureStore();
+  saveJson(EDITORIAL_PATH, store);
+  const bytes = fs.statSync(EDITORIAL_PATH).size;
+  console.log('editorial.json pruned →', bytes, 'bytes');
+  return { store, bytes };
 }
 
 /**
@@ -229,8 +249,9 @@ function publishDate(dateStr, { allowOutline = false } = {}) {
     ed.body = chunks.join('\n\n');
   }
   store.published = ed;
-  store.history = [ed, ...(store.history || []).filter((h) => h && h.id !== ed.id)].slice(0, 60);
+  store.history = [CocEditorial.slimHistoryEntry(ed), ...(store.history || []).filter((h) => h && h.id !== ed.id)].slice(0, 60);
   if (store.drafts) delete store.drafts[dateStr];
+  CocEditorial.pruneEditorialStore(store);
   if (ed.heroImage) {
     const used = new Set(store.usedHeroImages || []);
     used.add(ed.heroImage);
@@ -303,7 +324,10 @@ function publishIfDue() {
   return publishDate(ny.dateStr);
 }
 
-/** After a news crawl: force outline for today from latest archive headlines. */
+/**
+ * Outline after crawl is editor / 9pm-draft only.
+ * 4h auto-scan must NOT call this (2026-08-25: editorial.json bloat + Pages queue).
+ */
 function outlineAfterCrawl() {
   const ny = nyParts();
   return createDraftForDate(ny.dateStr, { force: true });
@@ -322,9 +346,11 @@ module.exports = {
   outlineAfterCrawl,
   injectIntoIndex,
   ensureStore,
+  pruneAndSave,
   EDITORIAL_PATH,
   isOutlineBrief,
   previousEditorialAsNewsItem,
   archivePreviousEditorialAsNews,
-  wordCount
+  wordCount,
+  EDITORIAL_JSON_MAX_BYTES
 };

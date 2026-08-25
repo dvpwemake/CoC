@@ -131,20 +131,8 @@ async function main() {
     `Updated archive — ${batch.items.length} new items, ${saved.length} total batches, ${saved.reduce((n, b) => n + (b.items || []).length, 0)} titles`
   );
 
-  // Workflow step 1→2: after crawl, compile outline into today's editorial draft
-  try {
-    const editorialLib = require('./editorial-lib.js');
-    const draft = editorialLib.outlineAfterCrawl();
-    console.log(
-      'Editorial outline populated for',
-      draft && draft.publishDate,
-      '·',
-      (draft && draft.headlines && draft.headlines.length) || 0,
-      'articles'
-    );
-  } catch (e) {
-    console.warn('Editorial outline after crawl failed:', e.message);
-  }
+  // Do not write data/editorial.json here. Outline is 9pm ET draft job + editor button.
+  // Locked 2026-08-25 after 4h scan + force outline ballooned editorial.json to 900KB.
 }
 
 main().catch((e) => {

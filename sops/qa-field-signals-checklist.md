@@ -14,6 +14,7 @@
 5. **No duplicate thumbs in grid** — Same image URL must not appear on two visible cards (second uses category fallback).
 6. **Load budget** — `index.html` under ~40KB without full archive embed; news loads from `data/archive.json`; first paint shows ≤12 cards + Load more.
 6b. **Editorial length** — published piece ~300 words (band 280–320); page meta word count matches.
+6c. **Editorial store** — `data/editorial.json` under **200 KB**. Outline drafts: today + tomorrow ET only. `history[]` must not include `headlines`. Auto-scan must **not** commit `editorial.json`. BLOCKING (2026-08-25 bloat incident).
 7. **Footer** — Terms, Privacy, Contact, **E** only. No “v2 staging”, no “Human voice…” taglines in header/footer.
 8. **Legal pages** — `terms.html` and `privacy.html` open with brand chrome and link home.
 
@@ -26,3 +27,12 @@
 - **Data ownership:** **Leo Tran (Backup)** — archive merge on cutover so history is not lost.
 
 Signed into IT worklog 2026-07-20.
+
+## Editorial store bloat (closed, permanent gate) — 2026-08-25
+
+- **Symptom:** Editor and Publish Editorial felt slow. `editorial.json` at 900 KB. Pages deploys queued/cancelled.
+- **Cause:** 4h auto-scan force-wrote today's outline into `editorial.json` and committed it; unused outline drafts accumulated; `history[]` kept 12 full headlines per day; editor PUT the whole file via GitHub Contents API.
+- **Accountable:** Nora Kim (Web) + Leo Tran (retention) + Ava Brooks (scan must not commit `editorial.json`).
+- **QA:** Naomi Park — checklist **6c** is blocking.
+
+Signed into IT worklog 2026-08-25.
