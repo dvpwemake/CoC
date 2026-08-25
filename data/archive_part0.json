@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-08-25T16-21",
-    "scannedAt": "2026-08-25T16:21:20.401Z",
+    "batchId": "auto_2026-08-25T20-13",
+    "scannedAt": "2026-08-25T20:13:14.046Z",
     "items": [
       {
-        "id": "auto_2026-08-25T16-21_1",
+        "id": "auto_2026-08-25T20-13_1",
         "rank": 1,
-        "title": "Polestar claims it was blindsided by sales ban",
-        "category": "general",
-        "summary": "Polestar said the Trump administration strung it along for months before finally rejecting its request to continue selling its electric vehicles in the US under a rule outlawing vehicles with connected software from…",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2283439943.jpg?quality=90&strip=all&crop=0%2C10.535871136409%2C100%2C78.928257727182&w=1200",
-        "source": "The Verge",
-        "sourceUrl": "https://www.theverge.com/transportation/984390/polestar-blindsided-sales-ban-letter-dealer-trump",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-25T16-21_2",
-        "rank": 2,
-        "title": "Pennsylvania reports first 2 measles deaths in the U.S. this year, both people unvaccinated",
-        "category": "biotech",
-        "summary": "Two unvaccinated Pennsylvania residents have died from measles, state health officials said Tuesday, the first measles-related deaths in the U.S. this year.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/08/AP26229720134154-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/08/25/two-measles-deaths-reported-pennsylvania-residents-not-vaccinated/?utm_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-25T16-21_3",
-        "rank": 3,
-        "title": "Sliman Mansour, Palestinian artist of land and memory, has died at 79.",
+        "title": "US State Department Looks to Sell “Woke” Kehinde Wiley Painting",
         "category": "art",
-        "summary": "Untitled, 1988 Sliman Mansour Gallery One Sliman Mansour , the Palestinian painter whose depictions of farmers, hill villages, and embroidered dress are some of the most widely circulated in modern Arab art, has died at…",
-        "image": "https://artsy-media-uploads.s3.amazonaws.com/aNE65Ws__AOmH5dsuF8HLg%2Fdownload+%2819%29_1500x1000.jpg",
-        "source": "Artsy",
-        "sourceUrl": "https://www.artsy.net/article/artsy-editorial-sliman-mansour-palestinian-artist-land-memory-died-79",
+        "summary": "The US State Department has said it is contemplating selling a painting by Kehinde Wiley that it removed from the U.S. Embassy in the Dominican Republic last week, after the director of the department’s Art in Embassies…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/08/GettyImages-917389214.jpg?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/news/us-state-department-looks-to-sell-kehinde-wiley-painting-1234757807/",
         "fromX": false
       },
       {
-        "id": "auto_2026-08-25T16-21_4",
-        "rank": 4,
-        "title": "Space Angel secures $1.75m WA Government backing to advance Western Australian spaceport plans",
+        "id": "auto_2026-08-25T20-13_2",
+        "rank": 2,
+        "title": "Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails",
+        "category": "general",
+        "summary": "Irregular, an Israeli start-up, worked with OpenAI, Anthropic and Meta to assess the security of their A.I. models. It made a mistake. Then the tests went off the rails.",
+        "image": "https://static01.nyt.com/images/2026/08/27/business/00biz-irregular-ai/00biz-irregular-ai-mediumSquareAt3X.jpg",
+        "source": "NYT Technology",
+        "sourceUrl": "https://www.nytimes.com/2026/08/25/technology/irregular-ai-test-hacks.html",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-25T20-13_3",
+        "rank": 3,
+        "title": "Propulsion is having a moment",
         "category": "space",
-        "summary": "Space Angel has welcomed its selection by the Western Australian Government as the recipient of the $1.75 million Spaceport Establishment Support Grant, announced by Science and Innovation Minister Stephen Dawson. […]…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/space-angel-scaled.png?fit=1024%2C1024&ssl=1",
+        "summary": "In this episode, SpaceNews Mike Gruss interviews Kevin Lausten, CEO of Morpheus Space, at the 2026 Small Satellite Conference in Salt Lake City, Utah. They discuss why propulsion is critical […] The post Propulsion is…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/1500-1000-space-minds-morpheus-space-smallsat262-scaled.jpg?fit=1024%2C768&ssl=1",
         "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/space-angel-secures-1-75m-wa-government-backing-to-advance-western-australian-spaceport-plans/",
+        "sourceUrl": "https://spacenews.com/propulsion-is-having-a-moment/",
         "fromX": false
       },
       {
-        "id": "auto_2026-08-25T16-21_5",
+        "id": "auto_2026-08-25T20-13_4",
+        "rank": 4,
+        "title": "STAT+: How Trump's funding cuts are reshaping the health system",
+        "category": "biotech",
+        "summary": "STAT examines Republicans’ health care funding cuts, mRNA science defeats politics, and Medicaid tries out a new way to deny drug coverage.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/08/20260728_STATRuralHostpials_1488-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/08/25/how-trumps-funding-cuts-are-reshaping-the-health-system/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-25T20-13_5",
         "rank": 5,
-        "title": "Real Madrid official ambassador Roberto Carlos visits Linglong Tire to launch ‘Legendary Journey’",
+        "title": "NEC invests in US-based robotics startup Dexmate",
         "category": "robotics",
-        "summary": "Real Madrid official ambassador and football legend Roberto Carlos visited Linglong Tire‘s Zhaoyuan production base, gathering with nearly 900 Linglong Tire channel partners for a three-day \"Legendary Journey\". This…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/carlos-Linglong-2-2.jpg",
+        "summary": "Japanese technology giant NEC’s corporate venture capital fund has invested in US-based robotics startup Dexmate, developer of the VEGA humanoid robot and an integrated physical AI development platform. The investment…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/Dexmate-robots-1.jpeg",
         "source": "Robotics & Automation News",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/25/real-madrid-official-ambassador-roberto-carlos-visits-linglong-tire-to-launch-legendary-journey/104446/",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/25/nec-invests-in-us-based-robotics-startup-dexmate/104453/",
         "fromX": false
       }
     ]
