@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-08-26T08-26",
-    "scannedAt": "2026-08-26T08:26:40.645Z",
+    "batchId": "auto_2026-08-26T12-21",
+    "scannedAt": "2026-08-26T12:21:26.062Z",
     "items": [
       {
-        "id": "auto_2026-08-26T08-26_1",
+        "id": "auto_2026-08-26T12-21_1",
         "rank": 1,
-        "title": "How Smart Solar Technology is Making Off-Grid Power More Efficient",
-        "category": "robotics",
-        "summary": "It's not just about the installation of more solar panels for the next generation of renewable energy. It has to do with the utilization of every single square meter of PV surface in an even better way, and with the use…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/solar-panels-being-carried.png",
-        "source": "Robotics & Automation News",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/26/how-smart-solar-technology-is-making-off-grid-power-more-efficient/104457/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-26T08-26_2",
-        "rank": 2,
-        "title": "Geothermal needs better tools for superhot drilling. Hephae can help.",
-        "category": "energy",
-        "summary": "Thousands of feet beneath the desert valley of southwest Utah, a slender tool tucked inside a drill pipe is barreling through hot granite. The rod-shaped device, built by the startup Hephae Energy Technology , is a…",
-        "image": "https://img.canarymedia.com/content/uploads/Hephae-Tool-Box-1.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=dd7211f077a6d55d80177d1cce3ebb12",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/geothermal/geothermal-needs-better-tools-hephae",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-26T08-26_3",
-        "rank": 3,
-        "title": "Bill Gates Is Warning That A.I. Is More Dangerous Than Big Tech Will Admit",
-        "category": "general",
-        "summary": "In an hourlong interview, he said his industry was downplaying the risks, which he believes include mass unemployment and bioterrorism.",
-        "image": "https://static01.nyt.com/images/2026/08/26/multimedia/26biz-gates-ai-01-jgcq/26biz-gates-ai-01-jgcq-mediumSquareAt3X.jpg",
-        "source": "NYT Technology",
-        "sourceUrl": "https://www.nytimes.com/2026/08/26/technology/bill-gates-ai-risks.html",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-26T08-26_4",
-        "rank": 4,
-        "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
-        "category": "ai",
-        "summary": "It’s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, and the sky is incapable of being any more blue. The view from the…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/MIT_07_21_2026_0057.jpg?resize=1200,600",
-        "source": "MIT Technology Review",
-        "sourceUrl": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-26T08-26_5",
-        "rank": 5,
-        "title": "111 Works from Canada’s Federal Indigenous Art Collection Remain Missing",
+        "title": "When Dolly met Andy: a snapshot of the country music legend’s impact on artists",
         "category": "art",
-        "summary": "Two years after an internal audit of the Canadian federal government found that 132 pieces in its Indigenous art collection were unaccounted for, the government has still failed to locate 111 of these objects, per…",
-        "image": "https://www.artforum.com/wp-content/uploads/2026/08/iac_gallery_1718805074285_eng.jpg?w=650",
-        "source": "Artforum",
-        "sourceUrl": "https://www.artforum.com/news/111-works-from-canadas-indigenous-art-collection-missing-1234757891/",
+        "summary": "From Warhol to Annie Leibovitz, the late Dolly Parton was an inspiration to artists over her nearly 60-year career",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/98d6eb177d37fab09df05dd72ed06331317c68d5-1500x1055.jpg?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/08/26/when-dolly-met-andy-a-snapshot-of-the-country-music-legends-impact-on-artists",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-26T12-21_2",
+        "rank": 2,
+        "title": "Rockstar finally responds to ‘heartbreaking' GTA 6 leaks",
+        "category": "general",
+        "summary": "Rockstar Games has released its first official statement following days of sustained leaks of footage from Grand Theft Auto VI, calling the period \"heartbreaking for our team.\" \"It would be an understatement to say that…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ULTIMATE_EDITION_01_de9b57.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+        "source": "The Verge",
+        "sourceUrl": "https://www.theverge.com/games/984959/gta-vi-leaks-rockstar-games-official-statement-heartbreaking",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-26T12-21_3",
+        "rank": 3,
+        "title": "Burns & McDonnell and Gritt partner to deploy AI-powered robots on solar construction sites",
+        "category": "robotics",
+        "summary": "Burns & McDonnell and Gritt have entered into a strategic partnership focused on evaluating and deploying AI-powered robotics technology on utility-scale solar projects. The technology will help improve safety, enhance…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/Grit-solar-construction-robots-1.jpg",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/26/burns-mcdonnell-and-gritt-partner-to-deploy-ai-powered-robots-on-solar-construction-sites/104468/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-26T12-21_4",
+        "rank": 4,
+        "title": "Raised on AI",
+        "category": "ai",
+        "summary": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In short, I began…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2025/06/mat_debrief-thumb.jpg?resize=1200,600",
+        "source": "MIT Technology Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-26T12-21_5",
+        "rank": 5,
+        "title": "Newer shingles vaccine linked to lower heart disease risk, ‘natural experiment’ shows",
+        "category": "biotech",
+        "summary": "Oxford researchers call shingles shot first vaccine protecting both heart and brain. Lower heart disease risk follows study showing reduced dementia risk.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/08/https___arcmigration-prdweb.bostonglobe.com_r_Boston_2011-2020_2018_11_30_BostonGlobe.com_Metro_Images_c8ef4a764fc24e57a3889703200b19fb-41ee6d1ba8a94163ad13b410dcade85d-0-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/08/26/shingles-vaccine-shingrix-reduces-heart-disease-dementia-risk-oxford-study/?utm_campaign=rss",
         "fromX": false
       }
     ]
