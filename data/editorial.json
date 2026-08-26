@@ -122,7 +122,187 @@
     ],
     "publishedAt": "2026-08-25T21:03:58.550Z"
   },
-  "drafts": {},
+  "drafts": {
+    "2026-08-26": {
+      "id": "ed_2026-08-26",
+      "publishDate": "2026-08-26",
+      "status": "draft",
+      "draftKind": "outline",
+      "createdAt": "2026-08-26T02:26:38.357Z",
+      "updatedAt": "2026-08-26T02:26:38.357Z",
+      "title": "Editorial brief — 2026-08-26",
+      "dek": "Outline of selected article titles and key points for admin to write the final editorial.",
+      "body": "EDITORIAL BRIEF (outline only — not for publication as-is)\nPublish date: 2026-08-26\nInstruction: Use the titles and key points below to write the final ~300-word CoC editorial. Replace this entire brief with your finished prose before publishing.\n\n— Selected articles of the day (12) —\n\n1. [Art] 111 Works from Canada’s Federal Indigenous Art Collection Remain Missing\n   Source: Artforum\n   URL: https://www.artforum.com/news/111-works-from-canadas-indigenous-art-collection-missing-1234757891/\n   Key points:\n   • Two years after an internal audit of the Canadian federal government found that 132 pieces in its Indigenous art collection were unaccounted for, the government has still failed to locate 111 of these objects, per…\n\n2. [Biotech] STAT+: Sword Health to acquire Headspace, according to filing\n   Source: STAT News\n   URL: https://www.statnews.com/2026/08/25/sword-health-to-acquire-headspace-per-regulatory-filing/?utm_campaign=rss\n   Key points:\n   • Sword Health, a digital health company, plans to acquire mental health services provider Headspace, according to a regulatory filing.\n\n3. [Energy] Is Maine finally about to make wind power happen?\n   Source: Canary Media\n   URL: https://www.canarymedia.com/articles/wind/maine-make-wind-power-happen\n   Key points:\n   • For nearly two decades, Maine has tried to build utility-scale wind in the northern reaches of the state.\n   • On Tuesday morning, utility regulators brought that vision a little closer to reality, choosing an 800-megawatt…\n\n4. [General] Firms scramble for battery power in Spain and Portugal\n   Source: BBC Technology\n   URL: https://www.bbc.co.uk/news/articles/cjrg10j721jo?at_medium=RSS&at_campaign=rss\n   Key points:\n   • After last year's massive power failure Spanish and Portuguese firms are buying battery back ups.\n\n5. [Space] Space Angel secures $1.75m WA Government backing to advance Western Australian spaceport plans\n   Source: SpaceNews\n   URL: https://spacenews.com/space-angel-secures-1-75m-wa-government-backing-to-advance-western-australian-spaceport-plans/\n   Key points:\n   • Space Angel has welcomed its selection by the Western Australian Government as the recipient of the $1.75 million Spaceport Establishment Support Grant, announced by Science and Innovation Minister Stephen Dawson.\n\n6. [Art] US State Department Looks to Sell “Woke” Kehinde Wiley Painting\n   Source: Artforum\n   URL: https://www.artforum.com/news/us-state-department-looks-to-sell-kehinde-wiley-painting-1234757807/\n   Key points:\n   • The US State Department has said it is contemplating selling a painting by Kehinde Wiley that it removed from the U.S.\n   • Embassy in the Dominican Republic last week, after the director of the department’s Art in Embassies…\n\n7. [Biotech] STAT+: How Trump's funding cuts are reshaping the health system\n   Source: STAT News\n   URL: https://www.statnews.com/2026/08/25/how-trumps-funding-cuts-are-reshaping-the-health-system/?utm_campaign=rss\n   Key points:\n   • STAT examines Republicans’ health care funding cuts, mRNA science defeats politics, and Medicaid tries out a new way to deny drug coverage.\n\n8. [General] Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails\n   Source: NYT Technology\n   URL: https://www.nytimes.com/2026/08/25/technology/irregular-ai-test-hacks.html\n   Key points:\n   • Irregular, an Israeli start-up, worked with OpenAI, Anthropic and Meta to assess the security of their A.I.\n   • Then the tests went off the rails.\n\n9. [Robotics] NEC invests in US-based robotics startup Dexmate\n   Source: Robotics & Automation News\n   URL: https://roboticsandautomationnews.com/2026/08/25/nec-invests-in-us-based-robotics-startup-dexmate/104453/\n   Key points:\n   • Japanese technology giant NEC’s corporate venture capital fund has invested in US-based robotics startup Dexmate, developer of the VEGA humanoid robot and an integrated physical AI development platform.\n\n10. [Space] Propulsion is having a moment\n   Source: SpaceNews\n   URL: https://spacenews.com/propulsion-is-having-a-moment/\n   Key points:\n   • In this episode, SpaceNews Mike Gruss interviews Kevin Lausten, CEO of Morpheus Space, at the 2026 Small Satellite Conference in Salt Lake City, Utah.\n   • They discuss why propulsion is critical […] The post Propulsion is…\n\n11. [Art] Smithsonian’s Prospective Plans for American Latino Museum Could Circumvent Congressional Approval\n   Source: Artforum\n   URL: https://www.artforum.com/news/smithsonians-american-latino-museum-congressional-approval-1234757740/\n   Key points:\n   • The Smithsonian’s board of regents is set to meet on August 31 to discuss the possibility of designating a building that it already owns as the new home of the National Museum of the American Latino in Washington, DC,…\n\n12. [Biotech] STAT+: Public-sector purgatory, and a union-hospital fight\n   Source: STAT News\n   URL: https://www.statnews.com/2026/08/24/public-sector-workers-health-insurance-costs-hospital-union-battle/?utm_campaign=rss\n   Key points:\n   • Aon, the big consulting and brokerage house, confirms 2027 is going to be brutal for job-based health care premiums.\n   • Aon’s chief actuary said in the news release: “Employers will need…\n\n— Categories present —\nArt · Biotech · Energy · General · Space · Robotics\n\n— Admin checklist —\n• Draft original title + dek (vary form: not always What… / Convergence of…)\n• Write body (~280–320 words) in CoC voice\n• Select hero from selected-article head image thumbnails (or paste URL)\n• Mark published when ready",
+      "paragraphs": [
+        "EDITORIAL BRIEF (outline only — not for publication as-is)\nPublish date: 2026-08-26\nInstruction: Use the titles and key points below to write the final ~300-word CoC editorial. Replace this entire brief with your finished prose before publishing.",
+        "— Selected articles of the day (12) —",
+        "1. [Art] 111 Works from Canada’s Federal Indigenous Art Collection Remain Missing\n   Source: Artforum\n   URL: https://www.artforum.com/news/111-works-from-canadas-indigenous-art-collection-missing-1234757891/\n   Key points:\n   • Two years after an internal audit of the Canadian federal government found that 132 pieces in its Indigenous art collection were unaccounted for, the government has still failed to locate 111 of these objects, per…",
+        "2. [Biotech] STAT+: Sword Health to acquire Headspace, according to filing\n   Source: STAT News\n   URL: https://www.statnews.com/2026/08/25/sword-health-to-acquire-headspace-per-regulatory-filing/?utm_campaign=rss\n   Key points:\n   • Sword Health, a digital health company, plans to acquire mental health services provider Headspace, according to a regulatory filing.",
+        "3. [Energy] Is Maine finally about to make wind power happen?\n   Source: Canary Media\n   URL: https://www.canarymedia.com/articles/wind/maine-make-wind-power-happen\n   Key points:\n   • For nearly two decades, Maine has tried to build utility-scale wind in the northern reaches of the state.\n   • On Tuesday morning, utility regulators brought that vision a little closer to reality, choosing an 800-megawatt…",
+        "4. [General] Firms scramble for battery power in Spain and Portugal\n   Source: BBC Technology\n   URL: https://www.bbc.co.uk/news/articles/cjrg10j721jo?at_medium=RSS&at_campaign=rss\n   Key points:\n   • After last year's massive power failure Spanish and Portuguese firms are buying battery back ups.",
+        "5. [Space] Space Angel secures $1.75m WA Government backing to advance Western Australian spaceport plans\n   Source: SpaceNews\n   URL: https://spacenews.com/space-angel-secures-1-75m-wa-government-backing-to-advance-western-australian-spaceport-plans/\n   Key points:\n   • Space Angel has welcomed its selection by the Western Australian Government as the recipient of the $1.75 million Spaceport Establishment Support Grant, announced by Science and Innovation Minister Stephen Dawson.",
+        "6. [Art] US State Department Looks to Sell “Woke” Kehinde Wiley Painting\n   Source: Artforum\n   URL: https://www.artforum.com/news/us-state-department-looks-to-sell-kehinde-wiley-painting-1234757807/\n   Key points:\n   • The US State Department has said it is contemplating selling a painting by Kehinde Wiley that it removed from the U.S.\n   • Embassy in the Dominican Republic last week, after the director of the department’s Art in Embassies…",
+        "7. [Biotech] STAT+: How Trump's funding cuts are reshaping the health system\n   Source: STAT News\n   URL: https://www.statnews.com/2026/08/25/how-trumps-funding-cuts-are-reshaping-the-health-system/?utm_campaign=rss\n   Key points:\n   • STAT examines Republicans’ health care funding cuts, mRNA science defeats politics, and Medicaid tries out a new way to deny drug coverage.",
+        "8. [General] Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails\n   Source: NYT Technology\n   URL: https://www.nytimes.com/2026/08/25/technology/irregular-ai-test-hacks.html\n   Key points:\n   • Irregular, an Israeli start-up, worked with OpenAI, Anthropic and Meta to assess the security of their A.I.\n   • Then the tests went off the rails.",
+        "9. [Robotics] NEC invests in US-based robotics startup Dexmate\n   Source: Robotics & Automation News\n   URL: https://roboticsandautomationnews.com/2026/08/25/nec-invests-in-us-based-robotics-startup-dexmate/104453/\n   Key points:\n   • Japanese technology giant NEC’s corporate venture capital fund has invested in US-based robotics startup Dexmate, developer of the VEGA humanoid robot and an integrated physical AI development platform.",
+        "10. [Space] Propulsion is having a moment\n   Source: SpaceNews\n   URL: https://spacenews.com/propulsion-is-having-a-moment/\n   Key points:\n   • In this episode, SpaceNews Mike Gruss interviews Kevin Lausten, CEO of Morpheus Space, at the 2026 Small Satellite Conference in Salt Lake City, Utah.\n   • They discuss why propulsion is critical […] The post Propulsion is…",
+        "11. [Art] Smithsonian’s Prospective Plans for American Latino Museum Could Circumvent Congressional Approval\n   Source: Artforum\n   URL: https://www.artforum.com/news/smithsonians-american-latino-museum-congressional-approval-1234757740/\n   Key points:\n   • The Smithsonian’s board of regents is set to meet on August 31 to discuss the possibility of designating a building that it already owns as the new home of the National Museum of the American Latino in Washington, DC,…",
+        "12. [Biotech] STAT+: Public-sector purgatory, and a union-hospital fight\n   Source: STAT News\n   URL: https://www.statnews.com/2026/08/24/public-sector-workers-health-insurance-costs-hospital-union-battle/?utm_campaign=rss\n   Key points:\n   • Aon, the big consulting and brokerage house, confirms 2027 is going to be brutal for job-based health care premiums.\n   • Aon’s chief actuary said in the news release: “Employers will need…",
+        "— Categories present —\nArt · Biotech · Energy · General · Space · Robotics",
+        "— Admin checklist —\n• Draft original title + dek (vary form: not always What… / Convergence of…)\n• Write body (~280–320 words) in CoC voice\n• Select hero from selected-article head image thumbnails (or paste URL)\n• Mark published when ready"
+      ],
+      "wordCount": 685,
+      "themeId": "outline",
+      "themeLabel": "Admin outline (titles + key points)",
+      "formId": "outline_brief",
+      "formLabel": "outline brief",
+      "authorName": "Dr. Wallace Lynch",
+      "authorTitle": "Editor in Chief",
+      "heroImage": "https://www.artforum.com/wp-content/uploads/2026/08/iac_gallery_1718805074285_eng.jpg?w=650",
+      "heroCredit": "111 Works from Canada’s Federal Indigenous Art Collection Remain Missing",
+      "heroSource": "Artforum",
+      "heroSourceUrl": "https://www.artforum.com/news/111-works-from-canadas-indigenous-art-collection-missing-1234757891/",
+      "headlines": [
+        {
+          "title": "111 Works from Canada’s Federal Indigenous Art Collection Remain Missing",
+          "source": "Artforum",
+          "category": "art",
+          "sourceUrl": "https://www.artforum.com/news/111-works-from-canadas-indigenous-art-collection-missing-1234757891/",
+          "summary": "Two years after an internal audit of the Canadian federal government found that 132 pieces in its Indigenous art collection were unaccounted for, the government has still failed to locate 111 of these objects, per…",
+          "image": "https://www.artforum.com/wp-content/uploads/2026/08/iac_gallery_1718805074285_eng.jpg?w=650",
+          "keyPoints": [
+            "Two years after an internal audit of the Canadian federal government found that 132 pieces in its Indigenous art collection were unaccounted for, the government has still failed to locate 111 of these objects, per…"
+          ]
+        },
+        {
+          "title": "STAT+: Sword Health to acquire Headspace, according to filing",
+          "source": "STAT News",
+          "category": "biotech",
+          "sourceUrl": "https://www.statnews.com/2026/08/25/sword-health-to-acquire-headspace-per-regulatory-filing/?utm_campaign=rss",
+          "summary": "Sword Health, a digital health company, plans to acquire mental health services provider Headspace, according to a regulatory filing.",
+          "image": "https://www.statnews.com/wp-content/uploads/2026/08/AdobeStock_451619906_Editorial_Use_Only-1024x576.jpeg",
+          "keyPoints": [
+            "Sword Health, a digital health company, plans to acquire mental health services provider Headspace, according to a regulatory filing."
+          ]
+        },
+        {
+          "title": "Is Maine finally about to make wind power happen?",
+          "source": "Canary Media",
+          "category": "energy",
+          "sourceUrl": "https://www.canarymedia.com/articles/wind/maine-make-wind-power-happen",
+          "summary": "For nearly two decades, Maine has tried to build utility-scale wind in the northern reaches of the state. On Tuesday morning, utility regulators brought that vision a little closer to reality, choosing an 800-megawatt…",
+          "image": "https://img.canarymedia.com/content/uploads/Aroostook-County-Maine-road_-GettyImages-1141634880.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=7569b93f8398558486376e92dfeebbc5",
+          "keyPoints": [
+            "For nearly two decades, Maine has tried to build utility-scale wind in the northern reaches of the state.",
+            "On Tuesday morning, utility regulators brought that vision a little closer to reality, choosing an 800-megawatt…"
+          ]
+        },
+        {
+          "title": "Firms scramble for battery power in Spain and Portugal",
+          "source": "BBC Technology",
+          "category": "general",
+          "sourceUrl": "https://www.bbc.co.uk/news/articles/cjrg10j721jo?at_medium=RSS&at_campaign=rss",
+          "summary": "After last year's massive power failure Spanish and Portuguese firms are buying battery back ups.",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee02/live/d89808b0-a056-11f1-b109-879e35c24276.jpg",
+          "keyPoints": [
+            "After last year's massive power failure Spanish and Portuguese firms are buying battery back ups."
+          ]
+        },
+        {
+          "title": "Space Angel secures $1.75m WA Government backing to advance Western Australian spaceport plans",
+          "source": "SpaceNews",
+          "category": "space",
+          "sourceUrl": "https://spacenews.com/space-angel-secures-1-75m-wa-government-backing-to-advance-western-australian-spaceport-plans/",
+          "summary": "Space Angel has welcomed its selection by the Western Australian Government as the recipient of the $1.75 million Spaceport Establishment Support Grant, announced by Science and Innovation Minister Stephen Dawson. […]…",
+          "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/space-angel-scaled.png?fit=1024%2C1024&ssl=1",
+          "keyPoints": [
+            "Space Angel has welcomed its selection by the Western Australian Government as the recipient of the $1.75 million Spaceport Establishment Support Grant, announced by Science and Innovation Minister Stephen Dawson."
+          ]
+        },
+        {
+          "title": "US State Department Looks to Sell “Woke” Kehinde Wiley Painting",
+          "source": "Artforum",
+          "category": "art",
+          "sourceUrl": "https://www.artforum.com/news/us-state-department-looks-to-sell-kehinde-wiley-painting-1234757807/",
+          "summary": "The US State Department has said it is contemplating selling a painting by Kehinde Wiley that it removed from the U.S. Embassy in the Dominican Republic last week, after the director of the department’s Art in Embassies…",
+          "image": "https://www.artforum.com/wp-content/uploads/2026/08/GettyImages-917389214.jpg?w=650",
+          "keyPoints": [
+            "The US State Department has said it is contemplating selling a painting by Kehinde Wiley that it removed from the U.S.",
+            "Embassy in the Dominican Republic last week, after the director of the department’s Art in Embassies…"
+          ]
+        },
+        {
+          "title": "STAT+: How Trump's funding cuts are reshaping the health system",
+          "source": "STAT News",
+          "category": "biotech",
+          "sourceUrl": "https://www.statnews.com/2026/08/25/how-trumps-funding-cuts-are-reshaping-the-health-system/?utm_campaign=rss",
+          "summary": "STAT examines Republicans’ health care funding cuts, mRNA science defeats politics, and Medicaid tries out a new way to deny drug coverage.",
+          "image": "https://www.statnews.com/wp-content/uploads/2026/08/20260728_STATRuralHostpials_1488-1024x576.jpg",
+          "keyPoints": [
+            "STAT examines Republicans’ health care funding cuts, mRNA science defeats politics, and Medicaid tries out a new way to deny drug coverage."
+          ]
+        },
+        {
+          "title": "Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails",
+          "source": "NYT Technology",
+          "category": "general",
+          "sourceUrl": "https://www.nytimes.com/2026/08/25/technology/irregular-ai-test-hacks.html",
+          "summary": "Irregular, an Israeli start-up, worked with OpenAI, Anthropic and Meta to assess the security of their A.I. models. It made a mistake. Then the tests went off the rails.",
+          "image": "https://static01.nyt.com/images/2026/08/27/business/00biz-irregular-ai/00biz-irregular-ai-mediumSquareAt3X.jpg",
+          "keyPoints": [
+            "Irregular, an Israeli start-up, worked with OpenAI, Anthropic and Meta to assess the security of their A.I.",
+            "Then the tests went off the rails."
+          ]
+        },
+        {
+          "title": "NEC invests in US-based robotics startup Dexmate",
+          "source": "Robotics & Automation News",
+          "category": "robotics",
+          "sourceUrl": "https://roboticsandautomationnews.com/2026/08/25/nec-invests-in-us-based-robotics-startup-dexmate/104453/",
+          "summary": "Japanese technology giant NEC’s corporate venture capital fund has invested in US-based robotics startup Dexmate, developer of the VEGA humanoid robot and an integrated physical AI development platform. The investment…",
+          "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/Dexmate-robots-1.jpeg",
+          "keyPoints": [
+            "Japanese technology giant NEC’s corporate venture capital fund has invested in US-based robotics startup Dexmate, developer of the VEGA humanoid robot and an integrated physical AI development platform."
+          ]
+        },
+        {
+          "title": "Propulsion is having a moment",
+          "source": "SpaceNews",
+          "category": "space",
+          "sourceUrl": "https://spacenews.com/propulsion-is-having-a-moment/",
+          "summary": "In this episode, SpaceNews Mike Gruss interviews Kevin Lausten, CEO of Morpheus Space, at the 2026 Small Satellite Conference in Salt Lake City, Utah. They discuss why propulsion is critical […] The post Propulsion is…",
+          "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/1500-1000-space-minds-morpheus-space-smallsat262-scaled.jpg?fit=1024%2C768&ssl=1",
+          "keyPoints": [
+            "In this episode, SpaceNews Mike Gruss interviews Kevin Lausten, CEO of Morpheus Space, at the 2026 Small Satellite Conference in Salt Lake City, Utah.",
+            "They discuss why propulsion is critical […] The post Propulsion is…"
+          ]
+        },
+        {
+          "title": "Smithsonian’s Prospective Plans for American Latino Museum Could Circumvent Congressional Approval",
+          "source": "Artforum",
+          "category": "art",
+          "sourceUrl": "https://www.artforum.com/news/smithsonians-american-latino-museum-congressional-approval-1234757740/",
+          "summary": "The Smithsonian’s board of regents is set to meet on August 31 to discuss the possibility of designating a building that it already owns as the new home of the National Museum of the American Latino in Washington, DC,…",
+          "image": "https://www.artforum.com/wp-content/uploads/2026/08/Arts_and_Industries_Building_-_Independence_Avenue_entrance.jpg?w=650",
+          "keyPoints": [
+            "The Smithsonian’s board of regents is set to meet on August 31 to discuss the possibility of designating a building that it already owns as the new home of the National Museum of the American Latino in Washington, DC,…"
+          ]
+        },
+        {
+          "title": "STAT+: Public-sector purgatory, and a union-hospital fight",
+          "source": "STAT News",
+          "category": "biotech",
+          "sourceUrl": "https://www.statnews.com/2026/08/24/public-sector-workers-health-insurance-costs-hospital-union-battle/?utm_campaign=rss",
+          "summary": "Aon, the big consulting and brokerage house, confirms 2027 is going to be brutal for job-based health care premiums. Aon’s chief actuary said in the news release: “Employers will need…",
+          "image": "https://www.statnews.com/wp-content/uploads/2026/08/STAT-JustinDouglas-21-1024x576.jpg",
+          "keyPoints": [
+            "Aon, the big consulting and brokerage house, confirms 2027 is going to be brutal for job-based health care premiums.",
+            "Aon’s chief actuary said in the news release: “Employers will need…"
+          ]
+        }
+      ]
+    }
+  },
   "history": [
     {
       "id": "ed_2026-08-25",
@@ -1076,6 +1256,7 @@
     "https://wp.technologyreview.com/wp-content/uploads/2026/08/DSC_8845-1.jpg?resize=1200,600",
     "https://artsy-media-uploads.s3.amazonaws.com/aNE65Ws__AOmH5dsuF8HLg%2Fdownload+%2819%29_1500x1000.jpg",
     "https://www.artforum.com/wp-content/uploads/2026/08/GettyImages-917389214.jpg?w=650",
-    "https://www.statnews.com/wp-content/uploads/2026/08/20260728_STATRuralHostpials_1488-1024x576.jpg"
+    "https://www.statnews.com/wp-content/uploads/2026/08/20260728_STATRuralHostpials_1488-1024x576.jpg",
+    "https://www.artforum.com/wp-content/uploads/2026/08/iac_gallery_1718805074285_eng.jpg?w=650"
   ]
 }
