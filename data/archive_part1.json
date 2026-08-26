@@ -1,5 +1,25 @@
 [
   {
+    "batchId": "editorial_2026-08-07",
+    "scannedAt": "2026-08-08T01:30:06.544Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-08-07",
+        "rank": 0,
+        "title": "What we restore under light, and what still leaves in the dark",
+        "category": "editorial",
+        "summary": "Convergence of repaired rooms and contested origins",
+        "image": "https://img.canarymedia.com/content/uploads/Trump-and-Lutnick-polysilcon-announcement_GettyImages-2288526842.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=692c59fa6178001ae8dfd9660615e7fd",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-07.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-08-07",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-08-07T20-25",
     "scannedAt": "2026-08-07T20:25:13.612Z",
     "items": [
@@ -1272,67 +1292,6 @@
         "isEditorialArchive": true,
         "publishDate": "2026-07-22",
         "authorName": "Dr. Wallace Lynch"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-07-22T20-50",
-    "scannedAt": "2026-07-22T20:50:38.346Z",
-    "items": [
-      {
-        "id": "auto_2026-07-22T20-50_1",
-        "rank": 1,
-        "title": "New Chip Matches Real-Time Human Brain Speed",
-        "category": "neuroscience",
-        "summary": "A new study presents the world's first neuromorphic chip capable of matching the operational speed of the human brain.",
-        "image": "https://neurosciencenews.com/files/2026/07/brain-speed-chip-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/memristor-chip-brain-speed-neurotech-31110/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-07-22T20-50_2",
-        "rank": 2,
-        "title": "Tate Names Dia Leader Jessica Morgan as Next Director",
-        "category": "art",
-        "summary": "The British curator will return to London to helm the museum network beginning next year.",
-        "image": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/07/Jessica-Morgan-photo-by-Gabriela-Herman.jpg",
-        "source": "Hyperallergic",
-        "sourceUrl": "https://hyperallergic.com/tate-names-dia-leader-jessica-morgan-as-next-director/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-07-22T20-50_3",
-        "rank": 3,
-        "title": "Orania Limited’s 5-Layer Approach to Platform Data Governance",
-        "category": "robotics",
-        "summary": "Data governance is one of those disciplines that most platforms know they need and few feel they've actually figured out. The concept is straightforward enough: ensure data is managed properly, protected appropriately,…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/07/oranio-image-1.png",
-        "source": "Robotics & Automation News",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/07/22/platform-data-governance-orania-limited/103600/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-07-22T20-50_4",
-        "rank": 4,
-        "title": "NASA to Showcase Agency’s Newest Wind Tunnel in Virginia",
-        "category": "space",
-        "summary": "Media are invited to NASA’s Langley Research Center in Hampton, Virginia, on Friday, July 31, to attend a media tour and ribbon-cutting ceremony for the Flight Dynamics Research Facility, the agency’s first new wind…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/07/langleyfdrfjune2026-ba2289.jpg",
-        "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/news-release/nasa-to-showcase-agencys-newest-wind-tunnel-in-virginia/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-07-22T20-50_5",
-        "rank": 5,
-        "title": "Gemini 3.6 Flash and 3.5 Flash-Lite now available through official API for developers and AI agents",
-        "category": "ai",
-        "summary": "Model ecosystem expansion: Gemini 3.6 Flash and Gemini 3.5 Flash-Lite via official API access.",
-        "image": "https://pbs.twimg.com/media/HN1SnDCWEAA2hmA.jpg",
-        "source": "X · @web3l0var",
-        "sourceUrl": "https://x.com/web3l0var/status/2079909448219271368",
-        "fromX": true
       }
     ]
   }

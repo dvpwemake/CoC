@@ -61,6 +61,26 @@
     ]
   },
   {
+    "batchId": "editorial_2026-08-25",
+    "scannedAt": "2026-08-25T21:03:58.550Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-08-25",
+        "rank": 0,
+        "title": "The keys already in the building",
+        "category": "editorial",
+        "summary": "Young Artists comes down from Santo Domingo",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/08/20260728_STATRuralHostpials_1488-1024x576.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-25.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-08-25",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-08-25T20-13",
     "scannedAt": "2026-08-25T20:13:14.046Z",
     "items": [
