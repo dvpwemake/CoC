@@ -3,10 +3,11 @@
     "id": "ed_2026-08-26",
     "publishDate": "2026-08-26",
     "status": "published",
-    "createdAt": "2026-08-26T22:29:47.830Z",
-    "updatedAt": "2026-08-26T22:29:53.945Z",
+    "updatedAt": "2026-08-26T22:34:28.505Z",
     "title": "The claws stay in",
     "dek": "Ordinary cats, a scan that barely votes",
+    "authorName": "Dr. Wallace Lynch",
+    "authorTitle": "Editor in Chief",
     "body": "Minyoung Kim paints black cats for what she calls \"the contrast between how ordinary and how weird they are.\" A 2023 canvas, Love Hurts, shows a cat nestled into a woman's hair, claws down her back. The work looks inviting. Then a reflection is wrong, a paw reaches for a knife. She wants the familiar just a little off.\n\nOn Wednesday, August 26, 2026, we hold that canvas to one pressure: the picture we buy to settle a question, and the hold that already includes the claws.\n\nSTAT reports that coronary artery calcium scans have become a popular picture of the heart. In borderline cases the calcium can be a tiebreaker for a statin. Two new studies find that for most people the PREVENT score already has the number, and a CAC of zero is not a veto against the pill. The image is tangible. It does not, for most, change the vote.\n\nApple has set September 9 at 1 p.m. Eastern in the Steve Jobs Theater. The invite says Surprise and shine. It is the first launch under John Ternus, who takes the company from Tim Cook on September 1. A foldable phone rides the rumor. The surprise is already dated.\n\nNEC's venture fund put money into Dexmate, whose VEGA humanoid is sold as a body anyone can run in a real room. Blue Canyon, part of RTX, offers FleXbus: heritage parts you assemble in your own shop. In Salt Lake City, Morpheus Space's Kevin Lausten said propulsion is having a moment. The box is not the craft until it can still move.\n\nConvergence is not the shine on the invite. It is whether the ordinary thing is still allowed to stay weird, and whether we will take the pill without a picture that pretends to decide.",
     "paragraphs": [
       "Minyoung Kim paints black cats for what she calls \"the contrast between how ordinary and how weird they are.\" A 2023 canvas, Love Hurts, shows a cat nestled into a woman's hair, claws down her back. The work looks inviting. Then a reflection is wrong, a paw reaches for a knife. She wants the familiar just a little off.",
@@ -17,8 +18,6 @@
       "Convergence is not the shine on the invite. It is whether the ordinary thing is still allowed to stay weird, and whether we will take the pill without a picture that pretends to decide."
     ],
     "wordCount": 298,
-    "authorName": "Dr. Wallace Lynch",
-    "authorTitle": "Editor in Chief",
     "heroImage": "https://www.thisiscolossal.com/wp-content/uploads/2026/08/kim-5.jpg",
     "heroCredit": "Mischievous Cats Rule in Minyoung Kim's Affectionately Quirky Paintings",
     "heroSource": "Colossal",
@@ -29,7 +28,7 @@
         "source": "Colossal",
         "category": "art",
         "sourceUrl": "https://www.thisiscolossal.com/2026/08/minyoung-kim-cats-paintings-humor/",
-        "summary": "When it comes to felines, the artist revels in \"the contrast between how ordinary and how weird they are.\"",
+        "summary": "When it comes to felines, the artist revels in \"the contrast between how ordinary and how weird they are.\" Do stories and artists like this matter to you? Become a Colossal Member today and support independent arts…",
         "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/08/kim-5.jpg"
       },
       {
@@ -38,38 +37,38 @@
         "category": "biotech",
         "sourceUrl": "https://www.statnews.com/2026/08/26/cac-scans-statin-use-prevent-calculator-heart-disease-risk/?utm_campaign=rss",
         "summary": "The increasingly popular coronary artery calcium scan is helpful in guiding statin use in only a small share of cases, new studies find.",
-        "image": ""
+        "image": "https://www.statnews.com/wp-content/uploads/2026/08/AdobeStock_1954477401-1024x576.jpg"
       },
       {
         "title": "Apple announces September iPhone launch event",
         "source": "The Verge",
         "category": "general",
         "sourceUrl": "https://www.theverge.com/tech/983407/apple-iphone-launch-event-2026-date",
-        "summary": "Apple's next launch event will take place on September 9th at 1PM ET. Invites to the event, which has a \"Surprise and shine\" tagline, were sent out on Wednesday.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-26-at-9.17.30-AM.png?quality=90&strip=all&crop=14.597345132743%2C0%2C70.805309734513%2C94.827045012242&w=2400"
+        "summary": "Apple's next launch event will take place on September 9th at 1PM ET. Invites to the event, which has a \"Surprise and shine\" tagline, were sent out on Wednesday. The event will take place at the Steve Jobs Theater in…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-26-at-9.17.30-AM.png?quality=90&strip=all&crop=4.9206194690266%2C0%2C90.158761061947%2C94.827045012242&w=1200"
       },
       {
         "title": "5 Practical Equipment Choices to Cut Labor Hours",
         "source": "Robotics & Automation News",
         "category": "robotics",
         "sourceUrl": "https://roboticsandautomationnews.com/2026/08/26/5-practical-equipment-choices-to-cut-labor-hours/104485/",
-        "summary": "Equipment Choices for large estates offer critical time savings for grounds managers, estates teams, facilities teams, and municipal maintenance crews.",
-        "image": ""
+        "summary": "Equipment Choices for large estates offer critical time savings for grounds managers, estates teams, facilities teams, and municipal maintenance crews. This guide reviews five practical equipment upgrades from industry…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/garage-1.png"
       },
       {
         "title": "RTX’s Blue Canyon Technologies introduces new spacecraft mission enabler",
         "source": "SpaceNews",
         "category": "space",
         "sourceUrl": "https://spacenews.com/rtxs-blue-canyon-technologies-introduces-new-spacecraft-mission-enabler/",
-        "summary": "Small satellite manufacturer and mission services provider Blue Canyon Technologies, part of RTX’s Raytheon business, has unveiled its latest spacecraft subsystem, the FleXbus.",
-        "image": ""
+        "summary": "LAFAYETTE, Colo. (August 26, 2026) — Small satellite manufacturer and mission services provider Blue Canyon Technologies, part of RTX’s (NYSE: RTX) Raytheon business, has unveiled its latest spacecraft subsystem, the…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/blue-canyon-technologies-logo-square.png?fit=962%2C964&ssl=1"
       },
       {
         "title": "US State Department Looks to Sell “Woke” Kehinde Wiley Painting",
         "source": "Artforum",
         "category": "art",
         "sourceUrl": "https://www.artforum.com/news/us-state-department-looks-to-sell-kehinde-wiley-painting-1234757807/",
-        "summary": "The US State Department has said it is contemplating selling a painting by Kehinde Wiley that it removed from the U.S. Embassy in the Dominican Republic last week.",
+        "summary": "The US State Department has said it is contemplating selling a painting by Kehinde Wiley that it removed from the U.S. Embassy in the Dominican Republic last week, after the director of the department’s Art in Embassies…",
         "image": "https://www.artforum.com/wp-content/uploads/2026/08/GettyImages-917389214.jpg?w=650"
       },
       {
@@ -85,7 +84,7 @@
         "source": "NYT Technology",
         "category": "general",
         "sourceUrl": "https://www.nytimes.com/2026/08/25/technology/irregular-ai-test-hacks.html",
-        "summary": "Irregular, an Israeli start-up, worked with OpenAI, Anthropic and Meta to assess the security of their A.I. Then the tests went off the rails.",
+        "summary": "Irregular, an Israeli start-up, worked with OpenAI, Anthropic and Meta to assess the security of their A.I. models. It made a mistake. Then the tests went off the rails.",
         "image": "https://static01.nyt.com/images/2026/08/27/business/00biz-irregular-ai/00biz-irregular-ai-mediumSquareAt3X.jpg"
       },
       {
@@ -93,7 +92,7 @@
         "source": "Robotics & Automation News",
         "category": "robotics",
         "sourceUrl": "https://roboticsandautomationnews.com/2026/08/25/nec-invests-in-us-based-robotics-startup-dexmate/104453/",
-        "summary": "Japanese technology giant NEC’s corporate venture capital fund has invested in US-based robotics startup Dexmate, developer of the VEGA humanoid robot and an integrated physical AI development platform.",
+        "summary": "Japanese technology giant NEC’s corporate venture capital fund has invested in US-based robotics startup Dexmate, developer of the VEGA humanoid robot and an integrated physical AI development platform. The investment…",
         "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/Dexmate-robots-1.jpeg"
       },
       {
@@ -101,7 +100,7 @@
         "source": "SpaceNews",
         "category": "space",
         "sourceUrl": "https://spacenews.com/propulsion-is-having-a-moment/",
-        "summary": "SpaceNews Mike Gruss interviews Kevin Lausten, CEO of Morpheus Space, at the 2026 Small Satellite Conference in Salt Lake City, Utah.",
+        "summary": "In this episode, SpaceNews Mike Gruss interviews Kevin Lausten, CEO of Morpheus Space, at the 2026 Small Satellite Conference in Salt Lake City, Utah. They discuss why propulsion is critical […] The post Propulsion is…",
         "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/1500-1000-space-minds-morpheus-space-smallsat262-scaled.jpg?fit=1024%2C768&ssl=1"
       },
       {
@@ -109,7 +108,7 @@
         "source": "Artforum",
         "category": "art",
         "sourceUrl": "https://www.artforum.com/news/smithsonians-american-latino-museum-congressional-approval-1234757740/",
-        "summary": "The Smithsonian’s board of regents is set to meet on August 31 to discuss the possibility of designating a building that it already owns as the new home of the National Museum of the American Latino in Washington, DC.",
+        "summary": "The Smithsonian’s board of regents is set to meet on August 31 to discuss the possibility of designating a building that it already owns as the new home of the National Museum of the American Latino in Washington, DC,…",
         "image": "https://www.artforum.com/wp-content/uploads/2026/08/Arts_and_Industries_Building_-_Independence_Avenue_entrance.jpg?w=650"
       },
       {
@@ -117,11 +116,11 @@
         "source": "STAT News",
         "category": "biotech",
         "sourceUrl": "https://www.statnews.com/2026/08/24/public-sector-workers-health-insurance-costs-hospital-union-battle/?utm_campaign=rss",
-        "summary": "Aon, the big consulting and brokerage house, confirms 2027 is going to be brutal for job-based health care premiums.",
+        "summary": "Aon, the big consulting and brokerage house, confirms 2027 is going to be brutal for job-based health care premiums. Aon’s chief actuary said in the news release: “Employers will need…",
         "image": "https://www.statnews.com/wp-content/uploads/2026/08/STAT-JustinDouglas-21-1024x576.jpg"
       }
     ],
-    "publishedAt": "2026-08-26T22:29:53.945Z"
+    "publishedAt": "2026-08-26T22:34:28.505Z"
   },
   "drafts": {},
   "history": [
@@ -129,10 +128,11 @@
       "id": "ed_2026-08-26",
       "publishDate": "2026-08-26",
       "status": "published",
-      "createdAt": "2026-08-26T22:29:47.830Z",
-      "updatedAt": "2026-08-26T22:29:53.945Z",
+      "updatedAt": "2026-08-26T22:34:28.505Z",
       "title": "The claws stay in",
       "dek": "Ordinary cats, a scan that barely votes",
+      "authorName": "Dr. Wallace Lynch",
+      "authorTitle": "Editor in Chief",
       "paragraphs": [
         "Minyoung Kim paints black cats for what she calls \"the contrast between how ordinary and how weird they are.\" A 2023 canvas, Love Hurts, shows a cat nestled into a woman's hair, claws down her back. The work looks inviting. Then a reflection is wrong, a paw reaches for a knife. She wants the familiar just a little off.",
         "On Wednesday, August 26, 2026, we hold that canvas to one pressure: the picture we buy to settle a question, and the hold that already includes the claws.",
@@ -142,13 +142,11 @@
         "Convergence is not the shine on the invite. It is whether the ordinary thing is still allowed to stay weird, and whether we will take the pill without a picture that pretends to decide."
       ],
       "wordCount": 298,
-      "authorName": "Dr. Wallace Lynch",
-      "authorTitle": "Editor in Chief",
       "heroImage": "https://www.thisiscolossal.com/wp-content/uploads/2026/08/kim-5.jpg",
       "heroCredit": "Mischievous Cats Rule in Minyoung Kim's Affectionately Quirky Paintings",
       "heroSource": "Colossal",
       "heroSourceUrl": "https://www.thisiscolossal.com/2026/08/minyoung-kim-cats-paintings-humor/",
-      "publishedAt": "2026-08-26T22:29:53.945Z"
+      "publishedAt": "2026-08-26T22:34:28.505Z"
     },
     {
       "id": "ed_2026-08-25",
