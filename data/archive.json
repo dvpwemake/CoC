@@ -61,6 +61,26 @@
     ]
   },
   {
+    "batchId": "editorial_2026-08-26",
+    "scannedAt": "2026-08-26T22:34:28.505Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-08-26",
+        "rank": 0,
+        "title": "The claws stay in",
+        "category": "editorial",
+        "summary": "Ordinary cats, a scan that barely votes",
+        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/08/kim-5.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-26.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-08-26",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-08-26T16-39",
     "scannedAt": "2026-08-26T16:39:20.111Z",
     "items": [
