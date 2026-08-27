@@ -1,5 +1,25 @@
 [
   {
+    "batchId": "editorial_2026-07-22",
+    "scannedAt": "2026-07-22T22:06:30.754Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-07-22",
+        "rank": 0,
+        "title": "The Referee Problem: Civilization's Defining Test",
+        "category": "editorial",
+        "summary": "When the Machine Outruns the Referee",
+        "image": "https://images-assets.nasa.gov/image/PIA01492/PIA01492~medium.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-07-22.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-07-22",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-07-22T20-50",
     "scannedAt": "2026-07-22T20:50:38.346Z",
     "items": [
@@ -1578,66 +1598,5 @@
         "imageProxy": "https://images.weserv.nl/?url=wp.technologyreview.com%2Fwp-content%2Fuploads%2F2026%2F06%2FiStock-1714934690.jpg%3Fresize%3D1200%2C600&w=640&h=400&fit=cover&we&output=jpg"
       }
     ]
-  },
-  {
-    "scannedAt": "2026-06-12T18:19:32.258Z",
-    "items": [
-      {
-        "id": "b1781288372258_1",
-        "rank": 1,
-        "title": "Stanford Scientists Regrow Lost Cartilage and Reverse Arthritis in Major Breakthrough",
-        "category": "biotech",
-        "summary": "Stanford Medicine researchers achieved a groundbreaking treatment that blocks an aging-related protein, successfully restoring lost cartilage in old mice and helping prevent arthritis after knee injuries. Human cartilage samples showed similar signs of regeneration, raising hopes for future drugs that could replace joint surgery. The therapy dramatically improved movement and joint function by targeting the 15-PGDH protein linked to aging.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260612021604.htm",
-        "image": "https://www.sciencedaily.com/images/1920/3d-knee-joint-inflammation-osteoarthritis.webp",
-        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2F3d-knee-joint-inflammation-osteoarthritis.webp&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "b1781288372258_2",
-        "rank": 2,
-        "title": "Prometheus AI Company Raises $12 Billion for Artificial General Engineers",
-        "category": "ai",
-        "summary": "Biotech AI startup Prometheus secured a massive $12 billion funding round to develop artificial general engineers that can automate complex engineering tasks in drug discovery and biotechnology. The company aims to create AI systems capable of independent scientific reasoning and experimental design, potentially revolutionizing pharmaceutical research and development timelines.",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/06/12/biotech-news-prometheus-raises-12-billion-for-artificial-engineers/",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/04/AdobeStock_573445441-1024x576.jpeg",
-        "imageProxy": "https://images.weserv.nl/?url=www.statnews.com%2Fwp-content%2Fuploads%2F2026%2F04%2FAdobeStock_573445441-1024x576.jpeg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "b1781288372258_3",
-        "rank": 3,
-        "title": "Giant Underground Neutrino Detector Achieves Precision Breakthrough in China",
-        "category": "neuroscience",
-        "summary": "The massive JUNO neutrino observatory deep beneath the ground in China delivered its first major scientific breakthrough, achieving one of the most precise measurements yet of how elusive neutrino particles behave. This advancement brings scientists closer to cracking fundamental mysteries about neutrinos and could revolutionize our understanding of particle physics and the universe.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/",
-        "image": "https://www.sciencedaily.com/images/scidaily-icon.png",
-        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2Fscidaily-icon.png&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "b1781288372258_4",
-        "rank": 4,
-        "title": "NASA Announces Artemis III Crew for Critical Moon Mission Testing",
-        "category": "space",
-        "summary": "NASA revealed the four-astronaut crew selected for the crucial Artemis III mission, designed to test rendezvous and docking procedures with lunar landers in Earth orbit next year. The mission represents a critical milestone before sending astronauts back to the Moon for landing in 2028, involving both SpaceX Starship and Blue Origin's Blue Moon Mark 2 landers.",
-        "source": "Spaceflight Now",
-        "sourceUrl": "https://www.nasa.gov/missions/artemis/artemis-iii/",
-        "image": "https://www.nasa.gov/wp-content/uploads/2022/11/52508358665_efb8a65d31_o.jpg",
-        "imageProxy": "https://images.weserv.nl/?url=www.nasa.gov%2Fwp-content%2Fuploads%2F2022%2F11%2F52508358665_efb8a65d31_o.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "b1781288372258_5",
-        "rank": 5,
-        "title": "Brain-Inspired Chip Functions Near Absolute Zero for Quantum Computing",
-        "category": "energy",
-        "summary": "Scientists at the University of Hong Kong created a remarkable brain-inspired chip that can function just above absolute zero temperature, representing one of the coldest operational environments ever achieved. This breakthrough could transform quantum computing by enabling ultra-efficient processing in cryogenic conditions, potentially solving major energy challenges in quantum systems.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/",
-        "image": "https://www.sciencedaily.com/images/scidaily-icon.png",
-        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2Fscidaily-icon.png&w=640&h=400&fit=cover&we&output=jpg"
-      }
-    ],
-    "batchId": "b1781288372258"
   }
 ]

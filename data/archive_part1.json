@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-08-08T20-13",
+    "scannedAt": "2026-08-08T20:13:45.422Z",
+    "items": [
+      {
+        "id": "auto_2026-08-08T20-13_1",
+        "rank": 1,
+        "title": "Prefrontal Cortex Can Block Creative Problem-Solving",
+        "category": "neuroscience",
+        "summary": "The medial prefrontal cortex can block creative problem-solving by enforcing default habits, and silencing it accelerates strategy shifts.",
+        "image": "https://neurosciencenews.com/files/2026/08/pfc-creative-problem-solving-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/prefrontal-cortex-creative-problem-solving-31201/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-08T20-13_2",
+        "rank": 2,
+        "title": "New Amazon Data Center Stokes Worry It Would Be the Most Polluting Power Plant in the U.S.",
+        "category": "general",
+        "summary": "The tech giant is investing in the natural-gas-burning power plant as part of a huge data center in Texas, even as it pledges to honor climate commitments.",
+        "image": "https://static01.nyt.com/images/2026/08/08/multimedia/08CLI-AMAZON-jtbw/08CLI-AMAZON-jtbw-mediumSquareAt3X.jpg",
+        "source": "NYT Technology",
+        "sourceUrl": "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-08T20-13_3",
+        "rank": 3,
+        "title": "Northrop Grumman, Canadian Space Agency repurpose their Gateway projects",
+        "category": "space",
+        "summary": "Northrop Grumman and the Canadian Space Agency will adapt what they had been working on for NASA’s lunar Gateway into applications for a planned lunar base, albeit with few specifics. The post Northrop Grumman, Canadian…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/northrop-lid.jpeg?fit=1024%2C576&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/northrop-grumman-canadian-space-agency-repurpose-their-gateway-projects/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-08T20-13_4",
+        "rank": 4,
+        "title": "Sunlight creates quantum entanglement once thought to require lasers",
+        "category": "energy",
+        "summary": "Scientists have generated quantum entanglement directly from sunlight, potentially offering a lower-energy alternative to the lasers normally used in quantum technology. Their outdoor experiment produced entangled…",
+        "image": "https://www.sciencedaily.com/images/1920/quantum-entanglement-using-sunlight.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260807035133.htm",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-08T20-13_5",
+        "rank": 5,
+        "title": "White Cube New York Loses Three Top Directors",
+        "category": "art",
+        "summary": "Three star directors have severed ties with White Cube’s New York gallery, Artnet News reports. The trio—Courtney Willis Blair, Sukanya Rajaratnam, and Jessie Washburne-Harris—offered varying reasons for their…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/08/1002-Madison-Avenue-683x1024_Crop.jpg?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/news/white-cube-new-york-loses-three-star-directors-1234756678/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "editorial_2026-08-07",
     "scannedAt": "2026-08-08T01:30:06.544Z",
     "kind": "editorial_archive",
@@ -1272,26 +1333,6 @@
         "source": "X · @web3l0var",
         "sourceUrl": "https://x.com/web3l0var/status/2079909448219271368",
         "fromX": true
-      }
-    ]
-  },
-  {
-    "batchId": "editorial_2026-07-22",
-    "scannedAt": "2026-07-22T22:06:30.754Z",
-    "kind": "editorial_archive",
-    "items": [
-      {
-        "id": "editorial_2026-07-22",
-        "rank": 0,
-        "title": "The Referee Problem: Civilization's Defining Test",
-        "category": "editorial",
-        "summary": "When the Machine Outruns the Referee",
-        "image": "https://images-assets.nasa.gov/image/PIA01492/PIA01492~medium.jpg",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-07-22.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-07-22",
-        "authorName": "Dr. Wallace Lynch"
       }
     ]
   }
