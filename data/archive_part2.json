@@ -1,5 +1,25 @@
 [
   {
+    "batchId": "editorial_2026-07-22",
+    "scannedAt": "2026-07-22T22:06:30.754Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-07-22",
+        "rank": 0,
+        "title": "The Referee Problem: Civilization's Defining Test",
+        "category": "editorial",
+        "summary": "When the Machine Outruns the Referee",
+        "image": "https://images-assets.nasa.gov/image/PIA01492/PIA01492~medium.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-07-22.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-07-22",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-07-22T20-50",
     "scannedAt": "2026-07-22T20:50:38.346Z",
     "items": [
@@ -1639,66 +1659,5 @@
       }
     ],
     "batchId": "b1781288372258"
-  },
-  {
-    "scannedAt": "2026-06-11T22:54:37.365Z",
-    "items": [
-      {
-        "id": "b1781218477364_1",
-        "rank": 1,
-        "title": "Scientists Discover Hidden Cause of Aging Cells That Can Be Reversed",
-        "category": "biotech",
-        "summary": "Researchers discovered that declining levels of phosphatidylcholine may be a major cause of age-related mitochondrial dysfunction and loss of cellular energy. Remarkably, boosting this nutrient restored more youthful mitochondrial performance in aging organisms, suggesting some aspects of aging can be slowed or reversed. This breakthrough from the Leibniz Institute on Aging offers hope for developing treatments to slow cellular aging processes.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260610003119.htm",
-        "image": "https://www.sciencedaily.com/images/1920/glowing-mitochondria-cell-biology.webp",
-        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fglowing-mitochondria-cell-biology.webp&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "b1781218477364_2",
-        "rank": 2,
-        "title": "Battery-Free Device Turns Sunlight Into Fuel Using Self-Regulating System",
-        "category": "energy",
-        "summary": "Scientists have developed an artificial photosynthesis system that essentially regulates itself, eliminating the need for batteries used in many current designs. The key innovation is an electrolyzer that automatically adapts to changing sunlight by altering its electrical properties as it heats up. This keeps solar fuel production more stable while reducing cost and complexity. The system produces formic acid from carbon dioxide and water.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260611024601.htm",
-        "image": "https://www.sciencedaily.com/images/1920/artificial-photosynthesis-electrochemical-fuel-production-system.webp",
-        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fartificial-photosynthesis-electrochemical-fuel-production-system.webp&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "b1781218477364_3",
-        "rank": 3,
-        "title": "Revolutionary AI Cuts Robot Energy Use by 100x While Boosting Accuracy",
-        "category": "ai",
-        "summary": "Researchers at Tufts University developed a neuro-symbolic AI system that combines neural networks with human-like symbolic reasoning, slashing energy consumption by up to 100 times compared to conventional approaches while dramatically improving performance. In robotic task tests using the Tower of Hanoi puzzle, the hybrid system achieved a 95% success rate versus 34% for standard models and trained in just 34 minutes versus more than a day and a half for traditional systems.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/04/260405003952.htm",
-        "image": "https://www.sciencedaily.com/images/1920/server-facility-at-sandia-national-laboratory.webp",
-        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fserver-facility-at-sandia-national-laboratory.webp&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "b1781218477364_4",
-        "rank": 4,
-        "title": "NASA's Next-Gen AI Space Chip Could Let Spacecraft Think for Themselves",
-        "category": "space",
-        "summary": "NASA is testing a next-generation space computer chip that could give spacecraft the ability to operate far more independently in deep space. With onboard artificial intelligence, spacecraft could respond to unexpected situations in real time when communication delays make human control impractical. The chip could also help deep space missions process, store, and transmit massive amounts of scientific data back to Earth more efficiently. The radiation-hardened processor shows performance levels hundreds of times beyond current spaceflight technology.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
-        "image": "https://www.sciencedaily.com/images/1920/nasa-high-performance-spaceflight-computing-processor.webp",
-        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fnasa-high-performance-spaceflight-computing-processor.webp&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "b1781218477364_5",
-        "rank": 5,
-        "title": "Scientists Reverse Anxiety by Fixing Tiny Brain Circuit in Breakthrough Study",
-        "category": "neuroscience",
-        "summary": "A newly identified group of amygdala neurons appears to play a central role in anxiety and social behavior. Restoring normal activity in this tiny brain circuit reversed anxiety and social deficits in mice, revealing a promising new target for treating anxiety disorders. The research offers hope for developing more targeted treatments for anxiety and social behavioral disorders by focusing on specific neural circuits rather than broad brain regions.",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260603001847.htm",
-        "image": "https://www.sciencedaily.com/images/1920/brain-scan-color-black-and-white.webp",
-        "imageProxy": "https://images.weserv.nl/?url=www.sciencedaily.com%2Fimages%2F1920%2Fbrain-scan-color-black-and-white.webp&w=640&h=400&fit=cover&we&output=jpg"
-      }
-    ],
-    "batchId": "b1781218477364"
   }
 ]

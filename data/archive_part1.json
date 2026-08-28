@@ -1,5 +1,25 @@
 [
   {
+    "batchId": "editorial_2026-08-08",
+    "scannedAt": "2026-08-08T20:15:00.706Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-08-08",
+        "rank": 0,
+        "title": "What the freeze no longer owns, and what growth still costs",
+        "category": "editorial",
+        "summary": "Convergence of open instruments and living stakes",
+        "image": "https://media.wired.com/photos/6a763d9eaaeaaaadb9031470/master/pass/fotografia%20del%20sol.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-08.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-08-08",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-08-08T20-13",
     "scannedAt": "2026-08-08T20:13:45.422Z",
     "items": [
@@ -1333,26 +1353,6 @@
         "source": "X · @web3l0var",
         "sourceUrl": "https://x.com/web3l0var/status/2079909448219271368",
         "fromX": true
-      }
-    ]
-  },
-  {
-    "batchId": "editorial_2026-07-22",
-    "scannedAt": "2026-07-22T22:06:30.754Z",
-    "kind": "editorial_archive",
-    "items": [
-      {
-        "id": "editorial_2026-07-22",
-        "rank": 0,
-        "title": "The Referee Problem: Civilization's Defining Test",
-        "category": "editorial",
-        "summary": "When the Machine Outruns the Referee",
-        "image": "https://images-assets.nasa.gov/image/PIA01492/PIA01492~medium.jpg",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-07-22.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-07-22",
-        "authorName": "Dr. Wallace Lynch"
       }
     ]
   }

@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-08-28T03-52",
+    "scannedAt": "2026-08-28T03:52:36.014Z",
+    "items": [
+      {
+        "id": "auto_2026-08-28T03-52_1",
+        "rank": 1,
+        "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
+        "category": "general",
+        "summary": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a battle with the Trump administration. The…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD_0617_Fable5.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-28T03-52_2",
+        "rank": 2,
+        "title": "Granite Noguchi Sculpture to Be Installed at the New Orleans Museum of Art",
+        "category": "art",
+        "summary": "Isamu Noguchi's 41-ton granite sculpture Mississippi Fountain will shortly be installed at the entrance to the New Orleans Museum of Art (NOMA), per reports. The sculpture, completed by the artist between 1961 and 1962,…",
+        "image": "https://www.artforum.com/wp-content/uploads/2020/10/article00_large-56.jpg?w=564",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/news/noguchi-sculpture-installed-at-the-new-orleans-museum-1234758201/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-28T03-52_3",
+        "rank": 3,
+        "title": "How much of a threat do heat waves pose to nuclear plants?",
+        "category": "energy",
+        "summary": "Europe’s increasingly hot summers come with a worrying trend. The air conditioning that the continent long eschewed as an American indulgence is becoming a necessity, and some of the nuclear reactors needed to run those…",
+        "image": "https://img.canarymedia.com/content/uploads/Paks-Nuclear-Power-Plant-in-Hungary_GettyImages-2289900877.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=ac0981e6161bbe610ef1778f3f7ac87c",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/nuclear/heat-waves-nuclear-plants",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-28T03-52_4",
+        "rank": 4,
+        "title": "STAT+: FDA approves Roivant therapy for rare autoimmune disease",
+        "category": "biotech",
+        "summary": "The FDA approved a new medicine from Roivant and its subsidiary Priovant for the treatment of dermatomyositis, a rare autoimmune disease.",
+        "image": "https://www.statnews.com/wp-content/uploads/2025/06/AP25112808062997-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/08/27/fda-approves-roivant-therapy-for-rare-autoimmune-disease/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-28T03-52_5",
+        "rank": 5,
+        "title": "The electronics ‘under the hood' of space networking",
+        "category": "space",
+        "summary": "In this episode, SpaceNews' Mike Gruss interviews Jeff Janicik, founder and chairman of Innoflight. They discuss Golden Dome, Artemis and working with big numbers for the Space Development Agency. Sponsored […] The post…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/1500-1000-space-minds-innoflight-smallsat26-scaled.jpg?fit=1024%2C768&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/the-electronics-under-the-hood-of-space-networking/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-08-27T18-25",
     "scannedAt": "2026-08-27T18:25:50.482Z",
     "items": [
