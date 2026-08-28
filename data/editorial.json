@@ -3,10 +3,11 @@
     "id": "ed_2026-08-27",
     "publishDate": "2026-08-27",
     "status": "published",
-    "createdAt": "2026-08-27T23:59:02.000Z",
-    "updatedAt": "2026-08-27T23:59:02.353Z",
+    "updatedAt": "2026-08-28T00:04:29.965Z",
     "title": "She would not stay in one medium",
     "dek": "Stones in the water, a search that will not stop",
+    "authorName": "Dr. Wallace Lynch",
+    "authorTitle": "Editor in Chief",
     "body": "Amélia Toledo made work from crystals, shells, and stones. She mounted them on steel, set them in water, laid them as mosaics, photographed them magnified. Hélio Goldsztejn's new film, Amelia Toledo: Lembrar de Não Esquecer (Don't Forget to Remember), follows an artist who would not stay in one movement. She was born in São Paulo in 1926 and died in Cotia in 2017.\n\nOn Thursday, August 27, 2026, we hold those stones to one pressure: a practice that would not stay put, and a search that will not stop.\n\nIn Alpharetta, Georgia, patrolman Dustin Bozzo used Flock 56 times from March to May to look up a former partner, a fellow officer. When her car kept appearing near another officer's, he searched that plate 29 times. After she borrowed her uncle's car, he searched it 18 times. Asked for a reason, he chose Wanted Person or Traffic Infraction. He said it was just a quick keystroke. He resigned August 5. A criminal investigation continues.\n\nMarc Tessier-Lavigne, who left the Stanford presidency in 2023, posted more than 3,000 words on his lab site this week, plus emails with former colleagues. He is answering Theo Baker's book How to Rule the World, which returns to a 2009 Nature paper from his Genentech years and alleges fabricated results and that he hid them.\n\nAt Washington State, an AI searched more than 100 million ways to print GRCop-42, NASA's copper rocket alloy. After 40 experiments the system found six that work, one at 500 watts, low enough for common printers. At Ames, new civil servants took the oath inside the 80 by 120 foot wind tunnel, the largest swearing in at the center in nearly 87 years.\n\nConvergence is not a closed file. It is whether the stones can still move, and whether a search that will not stop still has to answer for its reason.",
     "paragraphs": [
       "Amélia Toledo made work from crystals, shells, and stones. She mounted them on steel, set them in water, laid them as mosaics, photographed them magnified. Hélio Goldsztejn's new film, Amelia Toledo: Lembrar de Não Esquecer (Don't Forget to Remember), follows an artist who would not stay in one movement. She was born in São Paulo in 1926 and died in Cotia in 2017.",
@@ -17,12 +18,10 @@
       "Convergence is not a closed file. It is whether the stones can still move, and whether a search that will not stop still has to answer for its reason."
     ],
     "wordCount": 312,
-    "authorName": "Dr. Wallace Lynch",
-    "authorTitle": "Editor in Chief",
-    "heroImage": "https://cdn.sanity.io/images/cxgd3urn/production/6b068dbe11300628e5d93a4e5296b7a4e010caef-2000x1125.jpg",
-    "heroCredit": "New documentary chronicles the late Brazilian artist Amélia Toledo’s boundary-pushing work",
-    "heroSource": "The Art Newspaper",
-    "heroSourceUrl": "https://www.theartnewspaper.com/2026/08/27/amelia-toledo-brazilian-contemporary-artist-documentary",
+    "heroImage": "https://www.sciencedaily.com/images/1920/3d-printing-metal-parts-close.webp",
+    "heroCredit": "AI searched 100 million possibilities and found a cheaper way to 3D-print a NASA rocket alloy",
+    "heroSource": "ScienceDaily",
+    "heroSourceUrl": "https://www.sciencedaily.com/releases/2026/08/260827010504.htm",
     "headlines": [
       {
         "title": "New documentary chronicles the late Brazilian artist Amélia Toledo’s boundary-pushing work",
@@ -30,7 +29,7 @@
         "category": "art",
         "sourceUrl": "https://www.theartnewspaper.com/2026/08/27/amelia-toledo-brazilian-contemporary-artist-documentary",
         "summary": "From works made of crystals, shells and stones, to hard-edged abstraction and photography, Toledo bridged many movements and media across her six-decade career, as director Hélio Goldsztejn’s new film shows",
-        "image": "https://cdn.sanity.io/images/cxgd3urn/production/6b068dbe11300628e5d93a4e5296b7a4e010caef-2000x1125.jpg"
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/6b068dbe11300628e5d93a4e5296b7a4e010caef-2000x1125.jpg?w=140"
       },
       {
         "title": "STAT+: Former Stanford president releases emails to rebut fraud and cover-up allegations in new book",
@@ -45,7 +44,7 @@
         "source": "WIRED",
         "category": "general",
         "sourceUrl": "https://www.wired.com/story/a-georgia-cop-used-flock-to-track-2-other-cops-his-ex-and-her-friend/",
-        "summary": "After an affair with a fellow police officer ended, a Georgia cop used Flock to track her movements, and those of a man whose vehicle often showed up near hers, internal investigation records show.",
+        "summary": "After an affair with a fellow police officer ended, a Georgia cop used Flock to track her movements—and those of a man whose vehicle often showed up near hers, internal investigation records show.",
         "image": "https://media.wired.com/photos/6a8d9086ba467cf540f2c239/master/pass/082526_Flock-Camera-Stalking-Police.jpg"
       },
       {
@@ -53,7 +52,7 @@
         "source": "ScienceDaily",
         "category": "robotics",
         "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260827010504.htm",
-        "summary": "Researchers used AI to search through more than 100 million possible settings for 3D-printing a high-performance NASA alloy. After only 40 experiments, the system identified six successful configurations, including one at 500 watts.",
+        "summary": "Researchers used AI to search through more than 100 million possible settings for 3D-printing a high-performance NASA alloy. After only 40 experiments, the system identified six successful configurations, including one…",
         "image": "https://www.sciencedaily.com/images/1920/3d-printing-metal-parts-close.webp"
       },
       {
@@ -61,11 +60,67 @@
         "source": "NASA",
         "category": "space",
         "sourceUrl": "https://www.nasa.gov/image-article/civil-servants-sworn-in-at-nasa-ames/",
-        "summary": "New civil servants and guests pose for a group photo with NASA and center leadership in the National Full-Scale Aerodynamics Complex (NFAC) 80-by-120-foot test section, N221 on Aug. 24, 2026.",
+        "summary": "New civil servants and guests pose for a group photo with NASA and center leadership in the National Full-Scale Aerodynamics Complex (NFAC) 80-by-120-foot test section, N221 on Aug. 24, 2026. The civil servants were…",
         "image": "https://www.nasa.gov/wp-content/uploads/2026/08/acd26-0108-042orig.jpg"
+      },
+      {
+        "title": "Mischievous Cats Rule in Minyoung Kim's Affectionately Quirky Paintings",
+        "source": "Colossal",
+        "category": "art",
+        "sourceUrl": "https://www.thisiscolossal.com/2026/08/minyoung-kim-cats-paintings-humor/",
+        "summary": "When it comes to felines, the artist revels in \"the contrast between how ordinary and how weird they are.\" Do stories and artists like this matter to you? Become a Colossal Member today and support independent arts…",
+        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/08/kim-5.jpg"
+      },
+      {
+        "title": "On the fence about a statin? In borderline cases, calcium scans could be a tiebreaker",
+        "source": "STAT News",
+        "category": "biotech",
+        "sourceUrl": "https://www.statnews.com/2026/08/26/cac-scans-statin-use-prevent-calculator-heart-disease-risk/?utm_campaign=rss",
+        "summary": "The increasingly popular coronary artery calcium scan is helpful in guiding statin use in only a small share of cases, new studies find.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/08/AdobeStock_1954477401-1024x576.jpg"
+      },
+      {
+        "title": "Apple announces September iPhone launch event",
+        "source": "The Verge",
+        "category": "general",
+        "sourceUrl": "https://www.theverge.com/tech/983407/apple-iphone-launch-event-2026-date",
+        "summary": "Apple's next launch event will take place on September 9th at 1PM ET. Invites to the event, which has a \"Surprise and shine\" tagline, were sent out on Wednesday. The event will take place at the Steve Jobs Theater in…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-26-at-9.17.30-AM.png?quality=90&strip=all&crop=4.9206194690266%2C0%2C90.158761061947%2C94.827045012242&w=1200"
+      },
+      {
+        "title": "5 Practical Equipment Choices to Cut Labor Hours",
+        "source": "Robotics & Automation News",
+        "category": "robotics",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/26/5-practical-equipment-choices-to-cut-labor-hours/104485/",
+        "summary": "Equipment Choices for large estates offer critical time savings for grounds managers, estates teams, facilities teams, and municipal maintenance crews. This guide reviews five practical equipment upgrades from industry…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/garage-1.png"
+      },
+      {
+        "title": "RTX’s Blue Canyon Technologies introduces new spacecraft mission enabler",
+        "source": "SpaceNews",
+        "category": "space",
+        "sourceUrl": "https://spacenews.com/rtxs-blue-canyon-technologies-introduces-new-spacecraft-mission-enabler/",
+        "summary": "LAFAYETTE, Colo. (August 26, 2026) — Small satellite manufacturer and mission services provider Blue Canyon Technologies, part of RTX’s (NYSE: RTX) Raytheon business, has unveiled its latest spacecraft subsystem, the…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/blue-canyon-technologies-logo-square.png?fit=962%2C964&ssl=1"
+      },
+      {
+        "title": "US State Department Looks to Sell “Woke” Kehinde Wiley Painting",
+        "source": "Artforum",
+        "category": "art",
+        "sourceUrl": "https://www.artforum.com/news/us-state-department-looks-to-sell-kehinde-wiley-painting-1234757807/",
+        "summary": "The US State Department has said it is contemplating selling a painting by Kehinde Wiley that it removed from the U.S. Embassy in the Dominican Republic last week, after the director of the department’s Art in Embassies…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/08/GettyImages-917389214.jpg?w=650"
+      },
+      {
+        "title": "STAT+: How Trump's funding cuts are reshaping the health system",
+        "source": "STAT News",
+        "category": "biotech",
+        "sourceUrl": "https://www.statnews.com/2026/08/25/how-trumps-funding-cuts-are-reshaping-the-health-system/?utm_campaign=rss",
+        "summary": "STAT examines Republicans’ health care funding cuts, mRNA science defeats politics, and Medicaid tries out a new way to deny drug coverage.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/08/20260728_STATRuralHostpials_1488-1024x576.jpg"
       }
     ],
-    "publishedAt": "2026-08-27T23:59:02.353Z"
+    "publishedAt": "2026-08-28T00:04:29.965Z"
   },
   "drafts": {},
   "history": [
@@ -73,10 +128,11 @@
       "id": "ed_2026-08-27",
       "publishDate": "2026-08-27",
       "status": "published",
-      "createdAt": "2026-08-27T23:59:02.000Z",
-      "updatedAt": "2026-08-27T23:59:02.353Z",
+      "updatedAt": "2026-08-28T00:04:29.965Z",
       "title": "She would not stay in one medium",
       "dek": "Stones in the water, a search that will not stop",
+      "authorName": "Dr. Wallace Lynch",
+      "authorTitle": "Editor in Chief",
       "paragraphs": [
         "Amélia Toledo made work from crystals, shells, and stones. She mounted them on steel, set them in water, laid them as mosaics, photographed them magnified. Hélio Goldsztejn's new film, Amelia Toledo: Lembrar de Não Esquecer (Don't Forget to Remember), follows an artist who would not stay in one movement. She was born in São Paulo in 1926 and died in Cotia in 2017.",
         "On Thursday, August 27, 2026, we hold those stones to one pressure: a practice that would not stay put, and a search that will not stop.",
@@ -86,13 +142,11 @@
         "Convergence is not a closed file. It is whether the stones can still move, and whether a search that will not stop still has to answer for its reason."
       ],
       "wordCount": 312,
-      "authorName": "Dr. Wallace Lynch",
-      "authorTitle": "Editor in Chief",
-      "heroImage": "https://cdn.sanity.io/images/cxgd3urn/production/6b068dbe11300628e5d93a4e5296b7a4e010caef-2000x1125.jpg",
-      "heroCredit": "New documentary chronicles the late Brazilian artist Amélia Toledo’s boundary-pushing work",
-      "heroSource": "The Art Newspaper",
-      "heroSourceUrl": "https://www.theartnewspaper.com/2026/08/27/amelia-toledo-brazilian-contemporary-artist-documentary",
-      "publishedAt": "2026-08-27T23:59:02.353Z"
+      "heroImage": "https://www.sciencedaily.com/images/1920/3d-printing-metal-parts-close.webp",
+      "heroCredit": "AI searched 100 million possibilities and found a cheaper way to 3D-print a NASA rocket alloy",
+      "heroSource": "ScienceDaily",
+      "heroSourceUrl": "https://www.sciencedaily.com/releases/2026/08/260827010504.htm",
+      "publishedAt": "2026-08-28T00:04:29.965Z"
     },
     {
       "id": "ed_2026-08-26",
@@ -1072,6 +1126,7 @@
     "https://www.artforum.com/wp-content/uploads/2026/08/GettyImages-917389214.jpg?w=650",
     "https://www.statnews.com/wp-content/uploads/2026/08/20260728_STATRuralHostpials_1488-1024x576.jpg",
     "https://www.thisiscolossal.com/wp-content/uploads/2026/08/kim-5.jpg",
-    "https://cdn.sanity.io/images/cxgd3urn/production/6b068dbe11300628e5d93a4e5296b7a4e010caef-2000x1125.jpg"
+    "https://cdn.sanity.io/images/cxgd3urn/production/6b068dbe11300628e5d93a4e5296b7a4e010caef-2000x1125.jpg",
+    "https://www.sciencedaily.com/images/1920/3d-printing-metal-parts-close.webp"
   ]
 }
