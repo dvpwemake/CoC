@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-08-29T00-10",
+    "scannedAt": "2026-08-29T00:10:27.182Z",
+    "items": [
+      {
+        "id": "auto_2026-08-29T00-10_1",
+        "rank": 1,
+        "title": "Prediction Markets Should Be Regulated as Gambling, Appeals Court Says",
+        "category": "general",
+        "summary": "The outcome contradicted an earlier appeals court decision. Federal regulators said the split rulings called for resolution by the Supreme Court.",
+        "image": "https://static01.nyt.com/images/2026/08/28/multimedia/28biz-prediction-appeals-czhp/28biz-prediction-appeals-czhp-mediumSquareAt3X.jpg",
+        "source": "NYT Technology",
+        "sourceUrl": "https://www.nytimes.com/2026/08/28/technology/kalshi-prediction-markets-federal-courts.html",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-29T00-10_2",
+        "rank": 2,
+        "title": "Sliman Mansour, Artist of the Intifada, Dead at 79",
+        "category": "art",
+        "summary": "Palestinian artist Sliman Mansour, known for his radiant, powerful paintings of the faces and landscapes of occupied Palestine, died on August 24 in Jerusalem, following a long illness. He was seventy-nine. His work…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/08/Sliman_Mansour_4b326c.jpg?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/news/sliman-mansour-artist-of-the-intifada-dies-at-79-1234758361/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-29T00-10_3",
+        "rank": 3,
+        "title": "NASA's Artemis II Crew Receives Congressional Space Medal of Honor",
+        "category": "space",
+        "summary": "From left to right: NASA astronauts Victor Glover and Christina Koch, CSA (Canadian Space Agency) astronaut Jeremy Hansen, and NASA astronaut Reid Wiseman receive the Congressional Space Medal of Honor from President…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/08/20260828-120552-jk1-3999-1.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/image-article/nasas-artemis-ii-crew-receives-congressional-space-medal-of-honor/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-29T00-10_4",
+        "rank": 4,
+        "title": "Juul gets OK to sell updated vaping device with age-gating technology",
+        "category": "biotech",
+        "summary": "Juul has received FDA clearance to sell an updated version of its e-cigarette, which includes an optional age-verification system designed to prevent underage use.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/08/AP26240674505739-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/08/28/juul-fda-clearance-updated-ecigarette-age-gating-technology/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-29T00-10_5",
+        "rank": 5,
+        "title": "Automating Responsibly: How to Build Guardrails Without Putting the Brakes on Innovation",
+        "category": "robotics",
+        "summary": "By Tristan Harrison, MD, BearJam Every business experimenting with AI-powered automation eventually asks the same question: how far do we take this? Get it wrong in one direction and you move slowly, while competitors…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/BearJam-video-production-2-1.jpg",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/28/automating-responsibly-how-to-build-guardrails-without-putting-the-brakes-on-innovation/104572/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-08-28T15-42",
     "scannedAt": "2026-08-28T15:42:57.521Z",
     "items": [

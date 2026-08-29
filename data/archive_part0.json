@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-08-29T00-10",
+    "scannedAt": "2026-08-29T00:10:27.182Z",
+    "items": [
+      {
+        "id": "auto_2026-08-29T00-10_1",
+        "rank": 1,
+        "title": "Prediction Markets Should Be Regulated as Gambling, Appeals Court Says",
+        "category": "general",
+        "summary": "The outcome contradicted an earlier appeals court decision. Federal regulators said the split rulings called for resolution by the Supreme Court.",
+        "image": "https://static01.nyt.com/images/2026/08/28/multimedia/28biz-prediction-appeals-czhp/28biz-prediction-appeals-czhp-mediumSquareAt3X.jpg",
+        "source": "NYT Technology",
+        "sourceUrl": "https://www.nytimes.com/2026/08/28/technology/kalshi-prediction-markets-federal-courts.html",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-29T00-10_2",
+        "rank": 2,
+        "title": "Sliman Mansour, Artist of the Intifada, Dead at 79",
+        "category": "art",
+        "summary": "Palestinian artist Sliman Mansour, known for his radiant, powerful paintings of the faces and landscapes of occupied Palestine, died on August 24 in Jerusalem, following a long illness. He was seventy-nine. His work…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/08/Sliman_Mansour_4b326c.jpg?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/news/sliman-mansour-artist-of-the-intifada-dies-at-79-1234758361/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-29T00-10_3",
+        "rank": 3,
+        "title": "NASA's Artemis II Crew Receives Congressional Space Medal of Honor",
+        "category": "space",
+        "summary": "From left to right: NASA astronauts Victor Glover and Christina Koch, CSA (Canadian Space Agency) astronaut Jeremy Hansen, and NASA astronaut Reid Wiseman receive the Congressional Space Medal of Honor from President…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/08/20260828-120552-jk1-3999-1.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/image-article/nasas-artemis-ii-crew-receives-congressional-space-medal-of-honor/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-29T00-10_4",
+        "rank": 4,
+        "title": "Juul gets OK to sell updated vaping device with age-gating technology",
+        "category": "biotech",
+        "summary": "Juul has received FDA clearance to sell an updated version of its e-cigarette, which includes an optional age-verification system designed to prevent underage use.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/08/AP26240674505739-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/08/28/juul-fda-clearance-updated-ecigarette-age-gating-technology/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-29T00-10_5",
+        "rank": 5,
+        "title": "Automating Responsibly: How to Build Guardrails Without Putting the Brakes on Innovation",
+        "category": "robotics",
+        "summary": "By Tristan Harrison, MD, BearJam Every business experimenting with AI-powered automation eventually asks the same question: how far do we take this? Get it wrong in one direction and you move slowly, while competitors…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/BearJam-video-production-2-1.jpg",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/28/automating-responsibly-how-to-build-guardrails-without-putting-the-brakes-on-innovation/104572/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-08-28T15-42",
     "scannedAt": "2026-08-28T15:42:57.521Z",
     "items": [
@@ -1414,67 +1475,6 @@
         "image": "https://www.statnews.com/wp-content/uploads/2026/08/AP26222684085830-1024x576.jpg",
         "source": "STAT News",
         "sourceUrl": "https://www.statnews.com/2026/08/10/trump-return-to-vaccine-policy-executive-order/?utm_campaign=rss",
-        "fromX": false
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-08-09T20-16",
-    "scannedAt": "2026-08-09T20:16:03.361Z",
-    "items": [
-      {
-        "id": "auto_2026-08-09T20-16_1",
-        "rank": 1,
-        "title": "Zuckerberg's yacht was closer, but someone else saved a stranded boat",
-        "category": "general",
-        "summary": "Earlier this week, the Alaskan cruise ship Wilderness Legacy rescued a small skiff stranded near Farragut Bay after running out of fuel. But, according to tracking data reviewed by the Alaska Beacon and Halifax Shipping…",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2190858037.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "sourceUrl": "https://www.theverge.com/tech/977161/mark-zuckerberg-yacht-wilderness-legacy-stranded-boat",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-09T20-16_2",
-        "rank": 2,
-        "title": "Scientists say just 7 days of meditation can rewire your brain",
-        "category": "neuroscience",
-        "summary": "An intensive seven-day meditation retreat triggered striking changes across the brain and body, including shifts tied to neuroplasticity, immunity, metabolism, and natural pain relief. Participants also showed brain…",
-        "image": "https://www.sciencedaily.com/images/1920/human-enlightenment-brain-intelligence-boost-close.webp",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260807235243.htm",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-09T20-16_3",
-        "rank": 3,
-        "title": "The sun is covered in tiny whirlpools we’ve never seen before",
-        "category": "space",
-        "summary": "Scientists have discovered incredibly tiny plasma whirlpools swirling across the Sun’s surface, some just 20 kilometers wide. These previously invisible vortices may twist magnetic fields and help build up the energy…",
-        "image": "https://www.sciencedaily.com/images/1920/inouye-solar-telescope-tiny-vortices-on-sun.webp",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260807035142.htm",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-09T20-16_4",
-        "rank": 4,
-        "title": "Trump launched big new solar tariffs. Here's what it means.",
-        "category": "energy",
-        "summary": "A far-reaching new tariff on solar imports promises to both raise the cost of installing the clean energy source and strengthen efforts to reshore solar manufacturing. The White House announced the new tariffs Thursday…",
-        "image": "https://img.canarymedia.com/content/uploads/Trump-and-Lutnick-polysilcon-announcement_GettyImages-2288526842.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=692c59fa6178001ae8dfd9660615e7fd",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/solar/trump-new-solar-tariffs",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-09T20-16_5",
-        "rank": 5,
-        "title": "Longtime Andrew Kreps Gallery Partner Elizabeth Mulholland Moves To David Zwirner",
-        "category": "art",
-        "summary": "Elizabeth Mulholland is set to take on the role of senior director at David Zwirner Gallery’s Los Angeles outpost, according to ARTnews. The move follows Mulholland’s two-decade tenure at Andrew Kreps Gallery in New…",
-        "image": "https://www.artforum.com/wp-content/uploads/2024/05/DZ-606-Exterior-2.jpg?w=650",
-        "source": "Artforum",
-        "sourceUrl": "https://www.artforum.com/news/andrew-kreps-partner-elizabeth-mulholland-joins-zwirner-1234756674/",
         "fromX": false
       }
     ]
