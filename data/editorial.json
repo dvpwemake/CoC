@@ -3,10 +3,11 @@
     "id": "ed_2026-08-29",
     "publishDate": "2026-08-29",
     "status": "published",
-    "createdAt": "2026-08-29T08:07:27.000Z",
-    "updatedAt": "2026-08-29T08:07:38.174Z",
-    "title": "Jerusalem in the sack",
+    "updatedAt": "2026-08-29T08:15:33.425Z",
+    "title": "Jerusalem in the sack is live",
     "dek": "Hay and henna, a lock you can leave off",
+    "authorName": "Dr. Wallace Lynch",
+    "authorTitle": "Editor in Chief",
     "body": "Sliman Mansour painted an elderly man staggering, Jerusalem stuffed in the sack on his back, the golden dome in the load. The 1973 canvas is Jamal al Mahamel, Camel of Hardship. He was born in Birzeit on July 27, 1947. He died in Jerusalem on August 24, at 79, after a long illness.\n\nOn Saturday, August 29, 2026, we hold that sack to one pressure: a city that is still carried, and a lock that now claims the habit is finished.\n\nHe was jailed four or five times, his canvases seized. In 1989 he founded New Visions with Nabil Anani, Vera Tamari, and Tayseer Barakat. They put down imported paint and took up mud, coffee, henna, and hay. The land became the pigment.\n\nOn Friday the FDA cleared Juul2, the first new device in more than a decade. An app can lock it until age is verified. The lock is optional. Juul has paid about $3 billion to settle suits over teen use. Meta settled with 47 states for up to $17.1 billion over ten years, two hours a day for teens. Smoking used to be everywhere the way the feeds are now. Society decided to break the habit. It took a long time. Seventeen billion is not the end of the feed.\n\nThe Ninth Circuit told Kalshi that sports event contracts are sports bets, not swaps. Nevada may treat them as gambling. The Third Circuit said the opposite in April. The split, regulators say, belongs at the Supreme Court. In Houston the Artemis II crew received the Congressional Space Medal of Honor: Victor Glover, Christina Koch, Jeremy Hansen, Reid Wiseman. NASA's Roman will take in a hundred times more sky than Hubble.\n\nConvergence is not a medal. It is whether the city is still carried in the hay, and whether a lock you can leave off still has to answer for the young.",
     "paragraphs": [
       "Sliman Mansour painted an elderly man staggering, Jerusalem stuffed in the sack on his back, the golden dome in the load. The 1973 canvas is Jamal al Mahamel, Camel of Hardship. He was born in Birzeit on July 27, 1947. He died in Jerusalem on August 24, at 79, after a long illness.",
@@ -17,20 +18,18 @@
       "Convergence is not a medal. It is whether the city is still carried in the hay, and whether a lock you can leave off still has to answer for the young."
     ],
     "wordCount": 314,
-    "authorName": "Dr. Wallace Lynch",
-    "authorTitle": "Editor in Chief",
-    "heroImage": "https://www.artforum.com/wp-content/uploads/2026/08/Sliman_Mansour_4b326c.jpg",
-    "heroCredit": "Sliman Mansour, Artist of the Intifada, Dead at 79",
-    "heroSource": "Artforum",
-    "heroSourceUrl": "https://www.artforum.com/news/sliman-mansour-artist-of-the-intifada-dies-at-79-1234758361/",
+    "heroImage": "https://www.nasa.gov/wp-content/uploads/2026/08/20260828-120552-jk1-3999-1.jpg",
+    "heroCredit": "NASA's Artemis II Crew Receives Congressional Space Medal of Honor",
+    "heroSource": "NASA",
+    "heroSourceUrl": "https://www.nasa.gov/image-article/nasas-artemis-ii-crew-receives-congressional-space-medal-of-honor/",
     "headlines": [
       {
         "title": "Sliman Mansour, Artist of the Intifada, Dead at 79",
         "source": "Artforum",
         "category": "art",
         "sourceUrl": "https://www.artforum.com/news/sliman-mansour-artist-of-the-intifada-dies-at-79-1234758361/",
-        "summary": "Palestinian artist Sliman Mansour, known for his radiant, powerful paintings of the faces and landscapes of occupied Palestine, died on August 24 in Jerusalem, following a long illness.",
-        "image": "https://www.artforum.com/wp-content/uploads/2026/08/Sliman_Mansour_4b326c.jpg"
+        "summary": "Palestinian artist Sliman Mansour, known for his radiant, powerful paintings of the faces and landscapes of occupied Palestine, died on August 24 in Jerusalem, following a long illness. He was seventy-nine. His work…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/08/Sliman_Mansour_4b326c.jpg?w=650"
       },
       {
         "title": "Juul gets OK to sell updated vaping device with age-gating technology",
@@ -41,39 +40,87 @@
         "image": "https://www.statnews.com/wp-content/uploads/2026/08/AP26240674505739-1024x576.jpg"
       },
       {
-        "title": "Social Media and the Myth of the Big Tobacco Moment",
-        "source": "NYT Technology",
-        "category": "general",
-        "sourceUrl": "https://www.nytimes.com/2026/08/28/technology/meta-social-media-big-tobacco.html",
-        "summary": "Smoking used to be everywhere, the way Facebook, TikTok, Snap, YouTube and Instagram are now. Society decided to break the habit, but it took a long time.",
-        "image": ""
-      },
-      {
         "title": "Prediction Markets Should Be Regulated as Gambling, Appeals Court Says",
         "source": "NYT Technology",
         "category": "general",
         "sourceUrl": "https://www.nytimes.com/2026/08/28/technology/kalshi-prediction-markets-federal-courts.html",
         "summary": "The outcome contradicted an earlier appeals court decision. Federal regulators said the split rulings called for resolution by the Supreme Court.",
-        "image": ""
+        "image": "https://static01.nyt.com/images/2026/08/28/multimedia/28biz-prediction-appeals-czhp/28biz-prediction-appeals-czhp-mediumSquareAt3X.jpg"
+      },
+      {
+        "title": "Automating Responsibly: How to Build Guardrails Without Putting the Brakes on Innovation",
+        "source": "Robotics & Automation News",
+        "category": "robotics",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/28/automating-responsibly-how-to-build-guardrails-without-putting-the-brakes-on-innovation/104572/",
+        "summary": "By Tristan Harrison, MD, BearJam Every business experimenting with AI-powered automation eventually asks the same question: how far do we take this? Get it wrong in one direction and you move slowly, while competitors…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/BearJam-video-production-2-1.jpg"
       },
       {
         "title": "NASA's Artemis II Crew Receives Congressional Space Medal of Honor",
         "source": "NASA",
         "category": "space",
         "sourceUrl": "https://www.nasa.gov/image-article/nasas-artemis-ii-crew-receives-congressional-space-medal-of-honor/",
-        "summary": "From left to right: NASA astronauts Victor Glover and Christina Koch, CSA (Canadian Space Agency) astronaut Jeremy Hansen, and NASA astronaut Reid Wiseman receive the Congressional Space Medal of Honor from President Trump.",
+        "summary": "From left to right: NASA astronauts Victor Glover and Christina Koch, CSA (Canadian Space Agency) astronaut Jeremy Hansen, and NASA astronaut Reid Wiseman receive the Congressional Space Medal of Honor from President…",
         "image": "https://www.nasa.gov/wp-content/uploads/2026/08/20260828-120552-jk1-3999-1.jpg"
+      },
+      {
+        "title": "Rotterdam’s Museum Boijmans Van Beuningen caught up in alleged bribery scandal as civil servants dismissed",
+        "source": "The Art Newspaper",
+        "category": "art",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/08/28/rotterdams-museum-boijmans-van-beuningen-caught-up-in-alleged-bribery-scandal-as-civil-servants-dismissed",
+        "summary": "The city’s mayor said that two civil servants were found to have accepted “gifts from the municipality’s business contacts in exchange for possible preferential treatment”",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/11157f7a5810ad0d098e50a0ccd4afcc5e524f8e-5472x3648.jpg?w=140"
+      },
+      {
+        "title": "STAT+: AstraZeneca and Ionis detail surprise failure of heart disease drug, with Alnylam closely watching",
+        "source": "STAT News",
+        "category": "biotech",
+        "sourceUrl": "https://www.statnews.com/2026/08/28/biotech-news-astrazeneca-ionis-detail-surprise-failure-of-heart-disease-drug/?utm_campaign=rss",
+        "summary": "Roivant's autoimmune drug approval, Cytokinetics reports full data for heart condition treatment, and more biotech news",
+        "image": "https://www.statnews.com/wp-content/uploads/2023/08/AdobeStock_571236433_Editorial_Use_Only-1024x576.jpeg"
+      },
+      {
+        "title": "So, where exactly does the US energy transition stand?",
+        "source": "Canary Media",
+        "category": "energy",
+        "sourceUrl": "https://www.canarymedia.com/articles/clean-energy/taking-stock-of-the-messy-us-energy-transition",
+        "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter. Sign up to get it every Friday. Glass half-empty or glass half-full? The classic question is now gripping the policy wonks who are trying to…",
+        "image": "https://img.canarymedia.com/content/uploads/GettyImages-1449681083.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=118e4cd91e9c5f54437f275d0ed0d1a2"
+      },
+      {
+        "title": "Social Media and the Myth of the Big Tobacco Moment",
+        "source": "NYT Technology",
+        "category": "general",
+        "sourceUrl": "https://www.nytimes.com/2026/08/28/technology/meta-social-media-big-tobacco.html",
+        "summary": "Smoking used to be everywhere, the way Facebook, TikTok, Snap, YouTube and Instagram are now. Society decided to break the habit, but it took a long time.",
+        "image": "https://static01.nyt.com/images/2026/08/28/multimedia/28biz-meta-tobacco--01-vqml/28biz-meta-tobacco--01-vqml-mediumSquareAt3X.jpg"
       },
       {
         "title": "NASA’s Roman telescope will see 100 times more sky than Hubble",
         "source": "ScienceDaily",
         "category": "space",
         "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260828082333.htm",
-        "summary": "NASA’s Roman Space Telescope will combine Hubble-like detail with a field of view 100 times larger, giving astronomers a sweeping new way to explore the cosmos.",
+        "summary": "NASA’s Roman Space Telescope will combine Hubble-like detail with a field of view 100 times larger, giving astronomers a sweeping new way to explore the cosmos. Its observations could uncover hidden planets, map…",
         "image": "https://www.sciencedaily.com/images/1920/nasa-roman-space-telescope-observes-cosmos.webp"
+      },
+      {
+        "title": "New documentary chronicles the late Brazilian artist Amélia Toledo’s boundary-pushing work",
+        "source": "The Art Newspaper",
+        "category": "art",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/08/27/amelia-toledo-brazilian-contemporary-artist-documentary",
+        "summary": "From works made of crystals, shells and stones, to hard-edged abstraction and photography, Toledo bridged many movements and media across her six-decade career, as director Hélio Goldsztejn’s new film shows",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/6b068dbe11300628e5d93a4e5296b7a4e010caef-2000x1125.jpg?w=140"
+      },
+      {
+        "title": "STAT+: Former Stanford president releases emails to rebut fraud and cover-up allegations in new book",
+        "source": "STAT News",
+        "category": "biotech",
+        "sourceUrl": "https://www.statnews.com/2026/08/27/marc-tessier-lavigne-responds-theo-baker-book-misconduct-stanford-genentech/?utm_campaign=rss",
+        "summary": "Marc Tessier-Lavigne released new details from his research and travel in an attempt to refute allegations in a new book that he published fraudulent results.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/08/marc-1024x576.jpg"
       }
     ],
-    "publishedAt": "2026-08-29T08:07:38.174Z"
+    "publishedAt": "2026-08-29T08:15:33.425Z"
   },
   "drafts": {},
   "history": [
@@ -81,10 +128,11 @@
       "id": "ed_2026-08-29",
       "publishDate": "2026-08-29",
       "status": "published",
-      "createdAt": "2026-08-29T08:07:27.000Z",
-      "updatedAt": "2026-08-29T08:07:38.174Z",
-      "title": "Jerusalem in the sack",
+      "updatedAt": "2026-08-29T08:15:33.425Z",
+      "title": "Jerusalem in the sack is live",
       "dek": "Hay and henna, a lock you can leave off",
+      "authorName": "Dr. Wallace Lynch",
+      "authorTitle": "Editor in Chief",
       "paragraphs": [
         "Sliman Mansour painted an elderly man staggering, Jerusalem stuffed in the sack on his back, the golden dome in the load. The 1973 canvas is Jamal al Mahamel, Camel of Hardship. He was born in Birzeit on July 27, 1947. He died in Jerusalem on August 24, at 79, after a long illness.",
         "On Saturday, August 29, 2026, we hold that sack to one pressure: a city that is still carried, and a lock that now claims the habit is finished.",
@@ -94,13 +142,11 @@
         "Convergence is not a medal. It is whether the city is still carried in the hay, and whether a lock you can leave off still has to answer for the young."
       ],
       "wordCount": 314,
-      "authorName": "Dr. Wallace Lynch",
-      "authorTitle": "Editor in Chief",
-      "heroImage": "https://www.artforum.com/wp-content/uploads/2026/08/Sliman_Mansour_4b326c.jpg",
-      "heroCredit": "Sliman Mansour, Artist of the Intifada, Dead at 79",
-      "heroSource": "Artforum",
-      "heroSourceUrl": "https://www.artforum.com/news/sliman-mansour-artist-of-the-intifada-dies-at-79-1234758361/",
-      "publishedAt": "2026-08-29T08:07:38.174Z"
+      "heroImage": "https://www.nasa.gov/wp-content/uploads/2026/08/20260828-120552-jk1-3999-1.jpg",
+      "heroCredit": "NASA's Artemis II Crew Receives Congressional Space Medal of Honor",
+      "heroSource": "NASA",
+      "heroSourceUrl": "https://www.nasa.gov/image-article/nasas-artemis-ii-crew-receives-congressional-space-medal-of-honor/",
+      "publishedAt": "2026-08-29T08:15:33.425Z"
     },
     {
       "id": "ed_2026-08-27",
@@ -1106,6 +1152,7 @@
     "https://www.statnews.com/wp-content/uploads/2026/08/20260728_STATRuralHostpials_1488-1024x576.jpg",
     "https://www.thisiscolossal.com/wp-content/uploads/2026/08/kim-5.jpg",
     "https://cdn.sanity.io/images/cxgd3urn/production/6b068dbe11300628e5d93a4e5296b7a4e010caef-2000x1125.jpg",
-    "https://www.artforum.com/wp-content/uploads/2026/08/Sliman_Mansour_4b326c.jpg"
+    "https://www.artforum.com/wp-content/uploads/2026/08/Sliman_Mansour_4b326c.jpg",
+    "https://www.nasa.gov/wp-content/uploads/2026/08/20260828-120552-jk1-3999-1.jpg"
   ]
 }
