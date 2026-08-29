@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-08-10T20-27",
+    "scannedAt": "2026-08-10T20:27:55.817Z",
+    "items": [
+      {
+        "id": "auto_2026-08-10T20-27_1",
+        "rank": 1,
+        "title": "Kepler books Neutron for 2028 optical relay launch",
+        "category": "space",
+        "summary": "Kepler Communications plans to deploy next-generation optical relay satellites on Rocket Lab’s upcoming Neutron rocket in one of several launches the Canadian operator has slated for 2028. The post Kepler books Neutron…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/HO6iYUea4AAYYav.jpeg?fit=1024%2C904&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/kepler-books-neutron-for-2028-optical-relay-launch/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-10T20-27_2",
+        "rank": 2,
+        "title": "Flock Cameras Can Track Every Car in America. Police Love Them. Citizens Don’t.",
+        "category": "general",
+        "summary": "In Texas, there’s one thing liberals and conservatives agree on: They don’t want cameras trained on their cars.",
+        "image": "https://static01.nyt.com/images/2026/08/07/multimedia/07nat-flock-safety-TOP-jlhp/07nat-flock-safety-TOP-jlhp-mediumSquareAt3X.jpg",
+        "source": "NYT Technology",
+        "sourceUrl": "https://www.nytimes.com/2026/08/10/us/flock-cameras-can-track-every-car-in-america-police-love-them-citizens-dont.html",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-10T20-27_3",
+        "rank": 3,
+        "title": "AI professors are negotiating the new realities of academic research",
+        "category": "ai",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel in Mountain View,…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/pacademicAI1a.jpg?resize=1200,600",
+        "source": "MIT Technology Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-10T20-27_4",
+        "rank": 4,
+        "title": "Remains of colonial hospital and church discovered in Lima’s historic centre",
+        "category": "art",
+        "summary": "Walls, floors, human burials and 18th-century tiles have been uncovered in what was once the Hospital and Church of the Holy Spirit in Peru",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/dbca7ef5ee89cc2ac501f2b33e4c9555c0cb324f-2000x1333.jpg?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/08/10/remains-colonial-hospital-discovered-luma",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-10T20-27_5",
+        "rank": 5,
+        "title": "Trump returns to controversial vaccine policy with order questioning childhood schedule",
+        "category": "biotech",
+        "summary": "The Trump administration, which had recently avoided public discussions of vaccine policy because of concern around the political repercussions, is changing course.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/08/AP26222684085830-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/08/10/trump-return-to-vaccine-policy-executive-order/?utm_campaign=rss",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-08-09T20-16",
     "scannedAt": "2026-08-09T20:16:03.361Z",
     "items": [
@@ -1333,26 +1394,6 @@
         "source": "X · @web3l0var",
         "sourceUrl": "https://x.com/web3l0var/status/2079909448219271368",
         "fromX": true
-      }
-    ]
-  },
-  {
-    "batchId": "editorial_2026-07-23",
-    "scannedAt": "2026-07-24T03:04:09.511Z",
-    "kind": "editorial_archive",
-    "items": [
-      {
-        "id": "editorial_2026-07-23",
-        "rank": 0,
-        "title": "Brain speed and slow rooms",
-        "category": "editorial",
-        "summary": "Neuromorphic clocks, agent APIs, and the institutions still measured in people",
-        "image": "https://images-assets.nasa.gov/image/PIA15416/PIA15416~medium.jpg",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-07-23.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-07-23",
-        "authorName": "Dr. Wallace Lynch"
       }
     ]
   }

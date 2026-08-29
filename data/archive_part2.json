@@ -1,5 +1,25 @@
 [
   {
+    "batchId": "editorial_2026-07-23",
+    "scannedAt": "2026-07-24T03:04:09.511Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-07-23",
+        "rank": 0,
+        "title": "Brain speed and slow rooms",
+        "category": "editorial",
+        "summary": "Neuromorphic clocks, agent APIs, and the institutions still measured in people",
+        "image": "https://images-assets.nasa.gov/image/PIA15416/PIA15416~medium.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-07-23.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-07-23",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-07-23T20-47",
     "scannedAt": "2026-07-23T20:47:32.101Z",
     "items": [
@@ -1596,67 +1616,6 @@
         "source": "MIT Technology Review",
         "sourceUrl": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
         "imageProxy": "https://images.weserv.nl/?url=wp.technologyreview.com%2Fwp-content%2Fuploads%2F2026%2F05%2FMITTRIInfosysMacys-social-1200px.png%3Fresize%3D1200%2C600&w=640&h=400&fit=cover&we&output=jpg"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-06-25T07-30",
-    "scannedAt": "2026-06-25T07:30:30.711Z",
-    "items": [
-      {
-        "id": "auto_2026-06-25T07-30_1",
-        "rank": 1,
-        "title": "A Turquoise Tint for the Black Sea",
-        "category": "space",
-        "summary": "Phytoplankton added a milky blue hue to the waters of the Black Sea and nearby waterways in spring and summer 2026.",
-        "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/a-turquoise-tint-for-the-black-sea/ISS074-E-619520_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-        "source": "NASA",
-        "sourceUrl": "https://science.nasa.gov/earth/earth-observatory/a-turquoise-tint-for-the-black-sea/",
-        "imageProxy": "https://images.weserv.nl/?url=assets.science.nasa.gov%2Fcontent%2Fdam%2Fscience%2Fesd%2Feo%2Fimages%2Fiotd%2F2026%2Fa-turquoise-tint-for-the-black-sea%2FISS074-E-619520_th.jpg%2Fjcr%3Acontent%2Frenditions%2Fcq5dam.web.1280.1280.jpeg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-06-25T07-30_2",
-        "rank": 2,
-        "title": "Pop Music Echoes a Growing Culture of Vices",
-        "category": "neuroscience",
-        "summary": "An extensive computational analysis of over 380,000 songs spanning 1960 to 2023 has revealed that popular music lyrics have become increasingly negative, showcasing a steady historical decline in language related to…",
-        "image": "https://neurosciencenews.com/files/2026/06/music-morality-psychology-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/music-lyrics-vices-cultural-barometer-30956/",
-        "imageProxy": "https://images.weserv.nl/?url=neurosciencenews.com%2Ffiles%2F2026%2F06%2Fmusic-morality-psychology-neuroscience-1155x770.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-06-25T07-30_3",
-        "rank": 3,
-        "title": "STAT+: Eli Lilly dives into hair loss treatments with investment in AI startup Absci",
-        "category": "biotech",
-        "summary": "Eli Lilly is investing in a small startup developing a medication to spur hair growth, and potentially also treat endometriosis.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/06/AdobeStock_175910024-1024x576.jpeg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/06/24/eli-lilly-absci-hair-loss-treatments/?utm_campaign=rss",
-        "imageProxy": "https://images.weserv.nl/?url=www.statnews.com%2Fwp-content%2Fuploads%2F2026%2F06%2FAdobeStock_175910024-1024x576.jpeg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-06-25T07-30_4",
-        "rank": 4,
-        "title": "Base Power brings cheap batteries to residents in power-starved PJM",
-        "category": "energy",
-        "summary": "PJM Interconnection, which serves 67 million people across 13 states from the mid-Atlantic to the Midwest, has become a poster child for how not to keep up with soaring energy demand. Startup Base Power is taking a…",
-        "image": "https://img.canarymedia.com/content/uploads/Chicago-skyline-with-Chicago-sign_GettyImages-2277954000-1.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=e26ffebd840a7ad1989546c9b657992c",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/batteries/base-power-cheap-batteries-pjm",
-        "imageProxy": "https://images.weserv.nl/?url=img.canarymedia.com%2Fcontent%2Fuploads%2FChicago-skyline-with-Chicago-sign_GettyImages-2277954000-1.jpg%3Fauto%3Dcompress%252Cformat%26crop%3Dfocalpoint%26fit%3Dcrop%26fp-x%3D0.5%26fp-y%3D0.5%26h%3D630%26q%3D82%26w%3D1200%26s%3De26ffebd840a7ad1989546c9b657992c&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-06-25T07-30_5",
-        "rank": 5,
-        "title": "The emergence of the web data infrastructure layer for AI",
-        "category": "ai",
-        "summary": "AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstructured, which…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/iStock-1714934690.jpg?resize=1200,600",
-        "source": "MIT Technology Review",
-        "sourceUrl": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
-        "imageProxy": "https://images.weserv.nl/?url=wp.technologyreview.com%2Fwp-content%2Fuploads%2F2026%2F06%2FiStock-1714934690.jpg%3Fresize%3D1200%2C600&w=640&h=400&fit=cover&we&output=jpg"
       }
     ]
   }

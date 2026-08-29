@@ -122,6 +122,26 @@
     ]
   },
   {
+    "batchId": "editorial_2026-08-27",
+    "scannedAt": "2026-08-27T23:59:02.353Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-08-27",
+        "rank": 0,
+        "title": "She would not stay in one medium",
+        "category": "editorial",
+        "summary": "Stones in the water, a search that will not stop",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/6b068dbe11300628e5d93a4e5296b7a4e010caef-2000x1125.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-27.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-08-27",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-08-27T18-25",
     "scannedAt": "2026-08-27T18:25:50.482Z",
     "items": [
