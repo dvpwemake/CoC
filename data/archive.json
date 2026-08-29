@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-08-29T15-46",
-    "scannedAt": "2026-08-29T15:46:30.862Z",
+    "batchId": "auto_2026-08-29T18-56",
+    "scannedAt": "2026-08-29T18:56:05.775Z",
     "items": [
       {
-        "id": "auto_2026-08-29T15-46_1",
+        "id": "auto_2026-08-29T18-56_1",
         "rank": 1,
-        "title": "Political Campaigns Are Quietly Paying Influencers to Support Candidates",
+        "title": "Sony Music and Warner Chappell are suing Anthropic",
         "category": "general",
-        "summary": "Their videos have proliferated on social media, but the payments are frequently hidden from viewers.",
-        "image": "",
-        "source": "NYT Technology",
-        "sourceUrl": "https://www.nytimes.com/2026/08/29/us/politics/campaigns-paid-influencers.html",
+        "summary": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
         "fromX": false
       },
       {
-        "id": "auto_2026-08-29T15-46_2",
+        "id": "auto_2026-08-29T18-56_2",
         "rank": 2,
-        "title": "The universe is still speeding up, but nobody knows why",
-        "category": "space",
-        "summary": "A major new analysis challenges recent claims that the universe's expansion is slowing, finding that the evidence for cosmic acceleration remains strong. The findings preserve the leading role of dark energy, while…",
-        "image": "https://www.sciencedaily.com/images/1920/universe-expansion-dark-energy.webp",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260828082325.htm",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-29T15-46_3",
-        "rank": 3,
-        "title": "Sliman Mansour, Artist of the Intifada, Dead at 79",
-        "category": "art",
-        "summary": "Palestinian artist Sliman Mansour, known for his radiant, powerful paintings of the faces and landscapes of occupied Palestine, died on August 24 in Jerusalem, following a long illness. He was seventy-nine. His work…",
-        "image": "https://www.artforum.com/wp-content/uploads/2026/08/Sliman_Mansour_4b326c.jpg?w=650",
-        "source": "Artforum",
-        "sourceUrl": "https://www.artforum.com/news/sliman-mansour-artist-of-the-intifada-dies-at-79-1234758361/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-29T15-46_4",
-        "rank": 4,
-        "title": "Juul gets OK to sell updated vaping device with age-gating technology",
+        "title": "STAT+: A Novartis drug cut inflammation. Can it improve heart outcomes?",
         "category": "biotech",
-        "summary": "Juul has received FDA clearance to sell an updated version of its e-cigarette, which includes an optional age-verification system designed to prevent underage use.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/08/AP26240674505739-1024x576.jpg",
+        "summary": "A newly acquired Novartis drug cut signs of inflammation. The test will be whether that can improve people's heart health.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/08/AdobeStock_508908319_Editorial_Use_Only-1024x576.jpeg",
         "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/08/28/juul-fda-clearance-updated-ecigarette-age-gating-technology/?utm_campaign=rss",
+        "sourceUrl": "https://www.statnews.com/2026/08/29/novartis-pacibekitug-inflammation-il6-tourmaline-heart-disease/?utm_campaign=rss",
         "fromX": false
       },
       {
-        "id": "auto_2026-08-29T15-46_5",
+        "id": "auto_2026-08-29T18-56_3",
+        "rank": 3,
+        "title": "NASA's Artemis II Crew Receives Congressional Space Medal of Honor",
+        "category": "space",
+        "summary": "From left to right: NASA astronauts Victor Glover and Christina Koch, CSA (Canadian Space Agency) astronaut Jeremy Hansen, and NASA astronaut Reid Wiseman receive the Congressional Space Medal of Honor from President…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/08/20260828-120552-jk1-3999-1.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/image-article/nasas-artemis-ii-crew-receives-congressional-space-medal-of-honor/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-29T18-56_4",
+        "rank": 4,
+        "title": "Thieves Pay Admission to Vienna Museum Before Stealing 200-Carat Necklace",
+        "category": "art",
+        "summary": "On August 27, two men paid for admission to the Museum of Applied Arts (MAK) in Vienna, before stealing a 200-carat platinum and diamond necklace. The necklace was designed by the French jewelry company Van Cleef &…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/08/GettyImages-2291736893.jpg?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/news/vienna-museum-thieves-steal-200-carat-necklace-1234758334/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-29T18-56_5",
         "rank": 5,
-        "title": "How much of a threat do heat waves pose to nuclear plants?",
-        "category": "energy",
-        "summary": "Europe’s increasingly hot summers come with a worrying trend. The air conditioning that the continent long eschewed as an American indulgence is becoming a necessity, and some of the nuclear reactors needed to run those…",
-        "image": "https://img.canarymedia.com/content/uploads/Paks-Nuclear-Power-Plant-in-Hungary_GettyImages-2289900877.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=ac0981e6161bbe610ef1778f3f7ac87c",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/nuclear/heat-waves-nuclear-plants",
+        "title": "Video Friday: Meet Microduck",
+        "category": "robotics",
+        "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us…",
+        "image": "https://spectrum.ieee.org/media-library/colorful-desk-robots-posed-among-books-beside-an-open-laptop-in-an-office.png?id=67687638&width=980",
+        "source": "IEEE Spectrum",
+        "sourceUrl": "https://spectrum.ieee.org/video-friday-microduck-robot",
         "fromX": false
       }
     ]
