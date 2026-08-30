@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-08-30T09-29",
-    "scannedAt": "2026-08-30T09:29:35.784Z",
+    "batchId": "auto_2026-08-30T15-30",
+    "scannedAt": "2026-08-30T15:30:55.619Z",
     "items": [
       {
-        "id": "auto_2026-08-30T09-29_1",
+        "id": "auto_2026-08-30T15-30_1",
         "rank": 1,
-        "title": "Scientists Create the Littlest Big Bang to Study the Universe's Origins",
-        "category": "general",
-        "summary": "The discovery redefines how large atoms need to be to produce the extreme state of matter found in the early universe.",
-        "image": "https://media.wired.com/photos/6a91cdabbb3a85e785f50a72/master/pass/2191305242",
-        "source": "WIRED",
-        "sourceUrl": "https://www.wired.com/story/scientists-create-littlest-big-bang-to-study-universe-origins/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-30T09-29_2",
-        "rank": 2,
-        "title": "NASA's Artemis II Crew Receives Congressional Space Medal of Honor",
+        "title": "This strange “spacetime crystal” can suddenly become a black hole",
         "category": "space",
-        "summary": "From left to right: NASA astronauts Victor Glover and Christina Koch, CSA (Canadian Space Agency) astronaut Jeremy Hansen, and NASA astronaut Reid Wiseman receive the Congressional Space Medal of Honor from President…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/08/20260828-120552-jk1-3999-1.jpg",
-        "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/image-article/nasas-artemis-ii-crew-receives-congressional-space-medal-of-honor/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-30T09-29_3",
-        "rank": 3,
-        "title": "Ryoji Ikeda Wins 2026 Nam June Paik Prize",
-        "category": "art",
-        "summary": "The Nam June Paik Art Center in Yongin, South Korea, has named Japanese-born electronic composer and artist Ryoji Ikeda as the winner of the ninth Nam June Paik Prize. Ikeda will receive KRW 50 million ($36,300) during…",
-        "image": "https://www.artforum.com/wp-content/uploads/2026/08/GettyImages-513198454.jpg?w=650",
-        "source": "Artforum",
-        "sourceUrl": "https://www.artforum.com/news/ryoji-ikeda-awarded-2026-nam-june-paik-prize-1234758313/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-30T09-29_4",
-        "rank": 4,
-        "title": "Opinion: The unintended consequences of the Lindsay Clancy case",
-        "category": "biotech",
-        "summary": "“We are concerned the [Lindsay] Clancy case could make psychiatrists more reluctant to treat mothers with mental illness,” write reproductive and forensic psychiatrists.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/08/AP26229766962785-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/08/28/lindsay-clancy-postpartum-psychosis-reproductive-psychiatrists-liability/?utm_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-30T09-29_5",
-        "rank": 5,
-        "title": "Scientists switch on a strange new form of magnetism in an ultrathin material",
-        "category": "energy",
-        "summary": "Scientists have found a surprising way to potentially switch on an unusual form of magnetism in ruthenium dioxide, a material that normally appears nonmagnetic. When the material was made into an ultrathin film only a…",
-        "image": "https://www.sciencedaily.com/images/1920/abstract-atomic-material-quantum-magnetism.webp",
+        "summary": "Physicists have mathematically captured a bizarre “spacetime crystal” that can either dissolve or collapse into a microscopic black hole after only a tiny change in energy. Their breakthrough came from an unusual trick…",
+        "image": "https://www.sciencedaily.com/images/1920/black-hole-spacetime-crystal.webp",
         "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260826055454.htm",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260829035225.htm",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-30T15-30_2",
+        "rank": 2,
+        "title": "IBM quantum computer solves classically intractable problem in 15 minutes",
+        "category": "ai",
+        "summary": "IBM and University of Chicago researchers have completed a quantum computation that leading classical methods could not practically reproduce. The system used 70 error-corrected logical qubits and finished the task in…",
+        "image": "https://www.sciencedaily.com/images/1920/futuristic-quantum-computer-system-glowing.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260829035219.htm",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-30T15-30_3",
+        "rank": 3,
+        "title": "HEPA air purifiers may boost brain function after just one month",
+        "category": "neuroscience",
+        "summary": "Adults aged 40 and older performed about 12% faster on a test of executive function after using a HEPA air purifier at home for one month. The findings suggest that cleaner indoor air could offer a simple way to help…",
+        "image": "https://www.sciencedaily.com/images/1920/neuroscience-brain-boost-glow.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260830000016.htm",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-30T15-30_4",
+        "rank": 4,
+        "title": "Chess.com launched a poker site and is planning even more classic games",
+        "category": "general",
+        "summary": "Chess.com has done one thing, and one thing very well, for almost 20 years, but now it's going beyond its domain name. The biggest name in online chess quietly launched its first companion site in beta back in May:…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/chess-com-gambit-launch-bot-match.png?quality=90&strip=all&crop=0%2C1.4388257843755%2C100%2C97.122348431249&w=1200",
+        "source": "The Verge",
+        "sourceUrl": "https://www.theverge.com/games/986302/chess-poker-expansion-gambit",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-30T15-30_5",
+        "rank": 5,
+        "title": "Lift-off! NASA launches Roman Space Telescope to tackle dark-energy mysteries",
+        "category": "biotech",
+        "summary": "Nature, Published online: 30 August 2026; doi:10.1038/d41586-026-02727-7 The space observatory will have an expansive view of the Universe as well as sharp resolution.",
+        "image": "",
+        "source": "Nature",
+        "sourceUrl": "https://www.nature.com/articles/d41586-026-02727-7",
         "fromX": false
       }
     ]
