@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-08-11T20-30",
+    "scannedAt": "2026-08-11T20:30:24.348Z",
+    "items": [
+      {
+        "id": "auto_2026-08-11T20-30_1",
+        "rank": 1,
+        "title": "Is It Safe to Eat Lettuce Yet?",
+        "category": "general",
+        "summary": "“That product is off the market, so I think there’s absolutely lower risk for cyclospora in terms of eating lettuce,” one professor of food safety tells WIRED.",
+        "image": "https://media.wired.com/photos/6a7b0862e8bb799c3501eef8/master/pass/Lettuce-.gif",
+        "source": "WIRED",
+        "sourceUrl": "https://www.wired.com/story/is-it-safe-to-eat-lettuce-yet/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-11T20-30_2",
+        "rank": 2,
+        "title": "The Flaunted Mansion",
+        "category": "art",
+        "summary": "“I can't help but be astonished by the class of people who erected things like this”",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/08/Cameron-feat-img.jpg?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/columns/the-flaunted-mansion-postcard-1234756743/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-11T20-30_3",
+        "rank": 3,
+        "title": "Golden Dome money starting to reach contractors, but long-term funding still unclear",
+        "category": "space",
+        "summary": "Pentagon contractors are beginning to book Golden Dome related work, but much of it is flowing through established programs The post Golden Dome money starting to reach contractors, but long-term funding still unclear…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Layered_Missile_Defense_Release_HIGH_RES.png?fit=1024%2C612&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/golden-dome-money-starting-to-reach-contractors-but-long-term-funding-still-unclear/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-11T20-30_4",
+        "rank": 4,
+        "title": "STAT+: Trump is counting on the health care industry to remake vaccines. It’s pushing back instead",
+        "category": "biotech",
+        "summary": "Trump wants to change how American kids are vaccinated, but doctors and the pharma industry aren't on board.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/08/GettyImages-2202122601-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/08/11/health-care-pharma-industry-pushes-back-trump-vaccine-policy-changes/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-11T20-30_5",
+        "rank": 5,
+        "title": "From 2D Ideas to Printable Reality: How Hi3D Makes AI 3D Creation Easier with Image Conversion and Smart Printing Workflows",
+        "category": "robotics",
+        "summary": "3D printing is gradually becoming part of everyday creativity. From personalized designs and creative projects to prototypes and physical models, it gives more people the ability to turn digital ideas into real objects.…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/Hi3D-1.png",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/11/from-2d-ideas-to-printable-reality-how-hi3d-makes-ai-3d-creation-easier-with-image-conversion-and-smart-printing-workflows/104057/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "editorial_2026-08-10",
     "scannedAt": "2026-08-11T01:55:43.406Z",
     "kind": "editorial_archive",
@@ -1353,67 +1414,6 @@
         "isEditorialArchive": true,
         "publishDate": "2026-07-24",
         "authorName": "Dr. Wallace Lynch"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-07-24T20-52",
-    "scannedAt": "2026-07-24T20:52:56.207Z",
-    "items": [
-      {
-        "id": "auto_2026-07-24T20-52_1",
-        "rank": 1,
-        "title": "ULA deals with financial challenges caused by Vulcan grounding",
-        "category": "space",
-        "summary": "United Launch Alliance’s corporate parents have guaranteed a loan to the company as it addresses “financial challenges” caused by the grounding of its Vulcan Centaur rocket. The post ULA deals with financial challenges…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/03/55090240803_a555b0ee7e_k.jpg?fit=1024%2C683&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/ula-deals-with-financial-challenges-caused-by-vulcan-grounding/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-07-24T20-52_2",
-        "rank": 2,
-        "title": "Trump Installs Thomas Jefferson Statue in the Rose Garden",
-        "category": "art",
-        "summary": "The artist behind the piece is also responsible for a MAGA-friendly Trump statue.",
-        "image": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/07/IMG_8870-2.jpeg",
-        "source": "Hyperallergic",
-        "sourceUrl": "https://hyperallergic.com/trump-installs-thomas-jefferson-statue-in-the-rose-garden/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-07-24T20-52_3",
-        "rank": 3,
-        "title": "Opinion: I led the FDA’s food safety and nutrition center. Here’s what people are missing about the cyclospora outbreak",
-        "category": "biotech",
-        "summary": "“Consumers should not be faced with a trade-off between nutrition and food safety,” writes Susan Mayne, former director of the FDA Center for Food Safety and Applied Nutrition.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/07/AP26131788035261-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/07/24/cyclospora-outbreak-contradiction-eat-real-food-less-safety-monitoring/?utm_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-07-24T20-52_4",
-        "rank": 4,
-        "title": "Detailed Robot Feedback Can Overload Human Learners",
-        "category": "neuroscience",
-        "summary": "A new study reveals that detailed personalized feedback from humanoid robots causes immediate cognitive overload after errors, slowing immediate recovery despite improving long-term task performance.",
-        "image": "https://neurosciencenews.com/files/2026/07/learning-overload-robotics-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/robot-feedback-overload-human-learners-31126/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-07-24T20-52_5",
-        "rank": 5,
-        "title": "Gemini 3.6 Flash and 3.5 Flash-Lite now available through official API for developers and AI agents",
-        "category": "ai",
-        "summary": "Model ecosystem expansion: Gemini 3.6 Flash and Gemini 3.5 Flash-Lite via official API access.",
-        "image": "https://pbs.twimg.com/media/HN1SnDCWEAA2hmA.jpg",
-        "source": "X · @web3l0var",
-        "sourceUrl": "https://x.com/web3l0var/status/2079909448219271368",
-        "fromX": true
       }
     ]
   }

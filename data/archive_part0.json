@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-08-31T01-44",
-    "scannedAt": "2026-08-31T01:44:46.426Z",
+    "batchId": "auto_2026-08-31T10-07",
+    "scannedAt": "2026-08-31T10:07:50.014Z",
     "items": [
       {
-        "id": "auto_2026-08-31T01-44_1",
+        "id": "auto_2026-08-31T10-07_1",
         "rank": 1,
-        "title": "A 12TB Steam “teraleak” spills more than a decade of lost PC gaming history",
+        "title": "The 9 Best MagSafe Phone Grips for Your Butter Fingers (2026)",
         "category": "general",
-        "summary": "Cut content from Portal 2 , hints of Half Life 2: Episode 3 , and so much more.",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/teraweapon-1152x648-1788124932.jpg",
-        "source": "Ars Technica",
-        "sourceUrl": "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/",
+        "summary": "Keep your phone firmly in hand and add some personality with these comfortable, durable, and nifty smartphone grips.",
+        "image": "https://media.wired.com/photos/6a92405cbb3a85e785f50cad/master/pass/The-Best-MagSafe-Phone-Grips.jpg",
+        "source": "WIRED",
+        "sourceUrl": "https://www.wired.com/gallery/best-magsafe-grips/",
         "fromX": false
       },
       {
-        "id": "auto_2026-08-31T01-44_2",
+        "id": "auto_2026-08-31T10-07_2",
         "rank": 2,
-        "title": "STAT+: FDA approves Protagonist and Takeda’s drug for rare blood cancer",
+        "title": "Opinion: The most shocking thing about the latest statistics on CTE in football is that we find them so shocking",
         "category": "biotech",
-        "summary": "Mimrylo, from Takeda and Protagonist, is a new kind of treatment for the blood cancer polycythemia vera.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/08/AdobeStock_729644280_Editorial_Use_Only-1024x576.jpeg",
+        "summary": "The latest study on CTE in football players “quantifies but does not reveal a problem,” writes Emily Harrison, a historian who studies brain injury in football.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/08/AP26240726456760-1024x576.jpg",
         "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/08/30/fda-approves-mimrylo-takeda-protagonist-treatment-for-polycythemia-vera/?utm_campaign=rss",
+        "sourceUrl": "https://www.statnews.com/2026/08/31/cte-nfl-boston-university-study-football-concussion-history/?utm_campaign=rss",
         "fromX": false
       },
       {
-        "id": "auto_2026-08-31T01-44_3",
+        "id": "auto_2026-08-31T10-07_3",
         "rank": 3,
-        "title": "Ribbon-Cutting Event for NASA Deep Space Network’s Deep Space Station 23",
-        "category": "space",
-        "summary": "Description Leadership from NASA Headquarters, the Jet Propulsion Laboratory, and the Deep Space Network (DSN) stand in front of the recently completed Deep Space Station 23 antenna at the Deep Space Network’s Goldstone…",
-        "image": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26779/PIA26779.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-        "source": "NASA",
-        "sourceUrl": "https://science.nasa.gov/photojournal/ribbon-cutting-event-for-nasa-deep-space-networks-deep-space-station-23/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-31T01-44_4",
-        "rank": 4,
-        "title": "Thieves Pay Admission to Vienna Museum Before Stealing 200-Carat Necklace",
+        "title": "A curator’s crucial perspective on Hong Kong’s burgeoning art scene in the 1980s and 1990s",
         "category": "art",
-        "summary": "On August 27, two men paid for admission to the Museum of Applied Arts (MAK) in Vienna, before stealing a 200-carat platinum and diamond necklace. The necklace was designed by the French jewelry company Van Cleef &…",
-        "image": "https://www.artforum.com/wp-content/uploads/2026/08/GettyImages-2291736893.jpg?w=650",
-        "source": "Artforum",
-        "sourceUrl": "https://www.artforum.com/news/vienna-museum-thieves-steal-200-carat-necklace-1234758334/",
+        "summary": "In a new book, Oscar Ho Hing-kay outlines the growing visibility of boundary-breaking local artists and their responses to the 1997 handover to China",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/5d0c5b9e020684c2ebea28378c2ad9d0e21d837a-2965x3992.jpg?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/08/31/a-curators-crucial-perspective-on-hong-kongs-burgeoning-art-scene-in-the-1980s-and-1990s",
         "fromX": false
       },
       {
-        "id": "auto_2026-08-31T01-44_5",
+        "id": "auto_2026-08-31T10-07_4",
+        "rank": 4,
+        "title": "Gary power outage underscores stakes of Solar for All cancellation",
+        "category": "energy",
+        "summary": "Stephen Mays was left without power for 12 days after violent storms and tornadoes struck northwest Indiana this month. Lori Latham for 13. Thousands of other residents of Gary, Indiana, where both Mays and Latham live…",
+        "image": "https://img.canarymedia.com/content/uploads/GettyImages-2291343427.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=fba22047e1bd7cd9a118e0816e15db75",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/climate-crisis/gary-power-outage-solar-for-all",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-31T10-07_5",
         "rank": 5,
-        "title": "Video Friday: Meet Microduck",
-        "category": "robotics",
-        "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us…",
-        "image": "https://spectrum.ieee.org/media-library/colorful-desk-robots-posed-among-books-beside-an-open-laptop-in-an-office.png?id=67687638&width=980",
-        "source": "IEEE Spectrum",
-        "sourceUrl": "https://spectrum.ieee.org/video-friday-microduck-robot",
+        "title": "Scientists discover a massive heat anomaly deep inside Mars",
+        "category": "space",
+        "summary": "Mars has a hidden temperature divide, with its southern interior potentially hundreds of degrees hotter than the north and partially molten. The discovery could help explain several long-standing Martian mysteries,…",
+        "image": "https://www.sciencedaily.com/images/1920/mars-warm-southern-interior.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260828082336.htm",
         "fromX": false
       }
     ]
@@ -179,6 +179,26 @@
         "source": "Canary Media",
         "sourceUrl": "https://www.canarymedia.com/articles/fossil-fuels/us-gas-plant-construction-uncertain-ai",
         "fromX": false
+      }
+    ]
+  },
+  {
+    "batchId": "editorial_2026-08-29",
+    "scannedAt": "2026-08-29T08:15:33.425Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-08-29",
+        "rank": 0,
+        "title": "Jerusalem in the sack is live",
+        "category": "editorial",
+        "summary": "Hay and henna, a lock you can leave off",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/08/20260828-120552-jk1-3999-1.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-29.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-08-29",
+        "authorName": "Dr. Wallace Lynch"
       }
     ]
   },
@@ -1475,67 +1495,6 @@
         "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/typical-US-home-electricity-needs.jpg",
         "source": "Robotics & Automation News",
         "sourceUrl": "https://roboticsandautomationnews.com/2026/08/12/robots-could-consume-as-much-electricity-as-35-million-us-homes-by-2035/104073/",
-        "fromX": false
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-08-11T20-30",
-    "scannedAt": "2026-08-11T20:30:24.348Z",
-    "items": [
-      {
-        "id": "auto_2026-08-11T20-30_1",
-        "rank": 1,
-        "title": "Is It Safe to Eat Lettuce Yet?",
-        "category": "general",
-        "summary": "“That product is off the market, so I think there’s absolutely lower risk for cyclospora in terms of eating lettuce,” one professor of food safety tells WIRED.",
-        "image": "https://media.wired.com/photos/6a7b0862e8bb799c3501eef8/master/pass/Lettuce-.gif",
-        "source": "WIRED",
-        "sourceUrl": "https://www.wired.com/story/is-it-safe-to-eat-lettuce-yet/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-11T20-30_2",
-        "rank": 2,
-        "title": "The Flaunted Mansion",
-        "category": "art",
-        "summary": "“I can't help but be astonished by the class of people who erected things like this”",
-        "image": "https://www.artforum.com/wp-content/uploads/2026/08/Cameron-feat-img.jpg?w=650",
-        "source": "Artforum",
-        "sourceUrl": "https://www.artforum.com/columns/the-flaunted-mansion-postcard-1234756743/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-11T20-30_3",
-        "rank": 3,
-        "title": "Golden Dome money starting to reach contractors, but long-term funding still unclear",
-        "category": "space",
-        "summary": "Pentagon contractors are beginning to book Golden Dome related work, but much of it is flowing through established programs The post Golden Dome money starting to reach contractors, but long-term funding still unclear…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/Layered_Missile_Defense_Release_HIGH_RES.png?fit=1024%2C612&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/golden-dome-money-starting-to-reach-contractors-but-long-term-funding-still-unclear/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-11T20-30_4",
-        "rank": 4,
-        "title": "STAT+: Trump is counting on the health care industry to remake vaccines. It’s pushing back instead",
-        "category": "biotech",
-        "summary": "Trump wants to change how American kids are vaccinated, but doctors and the pharma industry aren't on board.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/08/GettyImages-2202122601-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/08/11/health-care-pharma-industry-pushes-back-trump-vaccine-policy-changes/?utm_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-11T20-30_5",
-        "rank": 5,
-        "title": "From 2D Ideas to Printable Reality: How Hi3D Makes AI 3D Creation Easier with Image Conversion and Smart Printing Workflows",
-        "category": "robotics",
-        "summary": "3D printing is gradually becoming part of everyday creativity. From personalized designs and creative projects to prototypes and physical models, it gives more people the ability to turn digital ideas into real objects.…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/Hi3D-1.png",
-        "source": "Robotics & Automation News",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/11/from-2d-ideas-to-printable-reality-how-hi3d-makes-ai-3d-creation-easier-with-image-conversion-and-smart-printing-workflows/104057/",
         "fromX": false
       }
     ]
