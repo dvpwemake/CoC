@@ -1,5 +1,25 @@
 [
   {
+    "batchId": "editorial_2026-08-31",
+    "scannedAt": "2026-08-31T06:58:25.079Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-08-31",
+        "rank": 0,
+        "title": "The ticket was enough",
+        "category": "editorial",
+        "summary": "Two men paid to enter a Vienna hall. A painter of faces died in Jerusalem. A leak named games that never opened.",
+        "image": "https://spectrum.ieee.org/media-library/colorful-desk-robots-posed-among-books-beside-an-open-laptop-in-an-office.png?id=67687638&width=980",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-31.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-08-31",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-09-01T02-08",
     "scannedAt": "2026-09-01T02:08:35.691Z",
     "items": [
