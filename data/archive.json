@@ -1,81 +1,61 @@
 [
   {
-    "batchId": "editorial_2026-08-31",
-    "scannedAt": "2026-08-31T06:58:25.079Z",
-    "kind": "editorial_archive",
+    "batchId": "auto_2026-09-01T08-56",
+    "scannedAt": "2026-09-01T08:56:07.749Z",
     "items": [
       {
-        "id": "editorial_2026-08-31",
-        "rank": 0,
-        "title": "The ticket was enough",
-        "category": "editorial",
-        "summary": "Two men paid to enter a Vienna hall. A painter of faces died in Jerusalem. A leak named games that never opened.",
-        "image": "https://spectrum.ieee.org/media-library/colorful-desk-robots-posed-among-books-beside-an-open-laptop-in-an-office.png?id=67687638&width=980",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-31.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-08-31",
-        "authorName": "Dr. Wallace Lynch"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-09-01T02-08",
-    "scannedAt": "2026-09-01T02:08:35.691Z",
-    "items": [
-      {
-        "id": "auto_2026-09-01T02-08_1",
+        "id": "auto_2026-09-01T08-56_1",
         "rank": 1,
-        "title": "The Bentley Supersports: A stripped-out engineer's indulgence",
-        "category": "general",
-        "summary": "It's the lightest Bentley in 85 years.",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/DragonRed.Supersports-6-1152x648.jpg",
-        "source": "Ars Technica",
-        "sourceUrl": "https://arstechnica.com/cars/2026/08/the-bentley-supersports-a-stripped-out-engineers-indulgence/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-01T02-08_2",
-        "rank": 2,
-        "title": "Metropolitan Museum and designer John Galliano cancel planned Costume Institute exhibition amid backlash",
-        "category": "art",
-        "summary": "A chorus of Jewish community leaders, donors, politicians and others criticised the Met’s decision to honour Galliano in light of a 2011 conviction for an antisemitic hate crime",
-        "image": "https://cdn.sanity.io/images/cxgd3urn/production/ad3b443ae6405e6c9c4efd663da6d75a9edae060-2000x1334.jpg?w=140",
-        "source": "The Art Newspaper",
-        "sourceUrl": "https://www.theartnewspaper.com/2026/08/31/metropolitan-museum-costume-institute-john-galliano-exhibition-cancelled",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-01T02-08_3",
-        "rank": 3,
-        "title": "Trump strikes nine more deals with drugmakers to lower prices",
+        "title": "STAT+: NIH proposal to cap research grants draws mixed reception, agency says",
         "category": "biotech",
-        "summary": "President Trump on Monday announced the next round of pricing deals with drugmakers, with nine new companies making such agreements.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/08/GettyImages-2292466588-1024x576.jpg",
+        "summary": "An NIH proposal to cap the number of research grants investigators can receive has drawn a mixed reception, the agency says.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/08/AdobeStock_1240429246-1024x576.jpeg",
         "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/08/31/trump-most-favored-nation-drug-pricing-new-round-price-cuts-announced/?utm_campaign=rss",
+        "sourceUrl": "https://www.statnews.com/2026/09/01/nih-grant-cap-proposal-researcher-feedback/?utm_campaign=rss",
         "fromX": false
       },
       {
-        "id": "auto_2026-09-01T02-08_4",
-        "rank": 4,
-        "title": "September 2026 Satellite Puzzler",
-        "category": "space",
-        "summary": "Here’s the August 2026 puzzler. Quick, where is this? And what makes this place interesting or unique?",
-        "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/satellite-puzzler/2026_septemberpuzzler.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-        "source": "NASA",
-        "sourceUrl": "https://science.nasa.gov/earth/earth-observatory/september-2026-satellite-puzzler/",
+        "id": "auto_2026-09-01T08-56_2",
+        "rank": 2,
+        "title": "A bonanza of Bayeux Tapestry books to accompany the blockbuster British Museum exhibition",
+        "category": "art",
+        "summary": "There is plenty to read about the medieval masterpiece as it returns to England for the first time in almost 1,000 years",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/700308305485c7a96d735685e7f75100cd102ee6-1496x979.jpg?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/09/01/a-bonanza-of-bayeux-tapestry-books-to-accompany-the-blockbuster-british-museum-exhibition",
         "fromX": false
       },
       {
-        "id": "auto_2026-09-01T02-08_5",
-        "rank": 5,
-        "title": "Scientists discover two superconducting states hiding as one",
+        "id": "auto_2026-09-01T08-56_3",
+        "rank": 3,
+        "title": "Meet the super PAC working to crush clean energy's political foes",
         "category": "energy",
-        "summary": "Scientists have uncovered hidden complexity inside two ultrathin superconductors that seemed much simpler than they really are. Niobium diselenide and tantalum disulfide appeared to have a single superconducting state,…",
-        "image": "https://www.sciencedaily.com/images/1920/superconductor-hidden-identity-revealed.webp",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260828005222.htm",
+        "summary": "Last summer, when the Republican-controlled Congress took a wrecking ball to the Inflation Reduction Act, Tom Matzzie was pissed. Though some Republican members of Congress had written letters trying to save wind and…",
+        "image": "https://img.canarymedia.com/content/uploads/Dont-Mess-With-Solar-billboard-truck-DCGettyImages-2280948571.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=5b28c7d2c258e3955157c47f9827198b",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/politics/super-pac-crushing-clean-energy-foes",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-01T08-56_4",
+        "rank": 4,
+        "title": "Chewy Promo Codes: $20 Off September 2026",
+        "category": "general",
+        "summary": "Explore Chewy coupon codes for $30 off, $20 off your first order $49, 50% off pet food, and more September 2026 discounts.",
+        "image": "https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg",
+        "source": "WIRED",
+        "sourceUrl": "https://www.wired.com/story/chewy-promo-code/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-01T08-56_5",
+        "rank": 5,
+        "title": "APOD: 2026 September 1 – A Plane Lunar Eclipse",
+        "category": "space",
+        "summary": "APOD Science APOD APOD: 2026 September 1 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or…",
+        "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/september/PlaneEclipse_Ferreira_1059.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "source": "NASA",
+        "sourceUrl": "https://science.nasa.gov/image-article/apod-2026-september-1-a-plane-lunar-eclipse/",
         "fromX": false
       }
     ]
@@ -138,6 +118,26 @@
         "source": "MIT Technology Review",
         "sourceUrl": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
         "fromX": false
+      }
+    ]
+  },
+  {
+    "batchId": "editorial_2026-08-31",
+    "scannedAt": "2026-08-31T06:58:25.079Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-08-31",
+        "rank": 0,
+        "title": "The ticket was enough",
+        "category": "editorial",
+        "summary": "Two men paid to enter a Vienna hall. A painter of faces died in Jerusalem. A leak named games that never opened.",
+        "image": "https://spectrum.ieee.org/media-library/colorful-desk-robots-posed-among-books-beside-an-open-laptop-in-an-office.png?id=67687638&width=980",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-31.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-08-31",
+        "authorName": "Dr. Wallace Lynch"
       }
     ]
   },
