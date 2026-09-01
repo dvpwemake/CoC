@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-09-01T18-54",
-    "scannedAt": "2026-09-01T18:54:05.659Z",
+    "batchId": "auto_2026-09-01T22-07",
+    "scannedAt": "2026-09-01T22:07:35.422Z",
     "items": [
       {
-        "id": "auto_2026-09-01T18-54_1",
+        "id": "auto_2026-09-01T22-07_1",
         "rank": 1,
-        "title": "John Ternus sends first memo as Apple CEO teasing a ‘huge launch next week'",
+        "title": "Map Apps Are Handling Trump’s Renaming of Lake Ontario to Lake America Differently",
         "category": "general",
-        "summary": "New Apple CEO John Ternus sent out his first staff memo, thanking his predecessor Tim Cook, and quickly turning to what the company will do next, reports Bloomberg. \"We have a huge launch next week that's going to be…",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2287305192.jpg?quality=90&strip=all&crop=0%2C13.353228458417%2C100%2C73.293543083166&w=1200",
-        "source": "The Verge",
-        "sourceUrl": "https://www.theverge.com/tech/987583/apple-john-ternus-staff-memo",
+        "summary": "Navigation companies face a new dilemma after President Trump ordered Lake Ontario to be renamed Lake America.",
+        "image": "https://static01.nyt.com/images/2026/09/01/multimedia/01xp-lake-ontario-01-cmhb/01xp-lake-ontario-01-cmhb-mediumSquareAt3X.jpg",
+        "source": "NYT Technology",
+        "sourceUrl": "https://www.nytimes.com/2026/09/01/us/lake-ontario-america-name-apple-maps-mapquest.html",
         "fromX": false
       },
       {
-        "id": "auto_2026-09-01T18-54_2",
+        "id": "auto_2026-09-01T22-07_2",
         "rank": 2,
-        "title": "STAT+: House votes to temporarily block Trump plan to politicize federal grants",
-        "category": "biotech",
-        "summary": "The House voted to pass a stopgap funding bill that, for now, blocks a White House proposal to give political appointees more control over research grants.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/01/GettyImages-1244635656-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/09/01/stopgap-spending-bill-contains-reprieve-nih-research-grant-control/?utm_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-01T18-54_3",
-        "rank": 3,
-        "title": "Your Guide to the Art World in Fall 2026",
-        "category": "art",
-        "summary": "Fall 2026 is stacked for the art world. Five continents’ worth of art fairs, a run of blockbuster museum openings, two major auction weeks, and more than a dozen gallery weekends are all packed into 16 weeks. The season…",
-        "image": "https://artsy-media-uploads.s3.amazonaws.com/j_aUag9bMtG0KoAdQzUIDQ%2FPrint_approx_21_x_14_cm_ABP25__Public_Interactions__PR__General_I_HiRes-3_1500x1000.jpg",
-        "source": "Artsy",
-        "sourceUrl": "https://www.artsy.net/article/artsy-editorial-guide-art-fall-2026",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-01T18-54_4",
-        "rank": 4,
-        "title": "Historic Engines Take Their Place on Artemis III",
-        "category": "space",
-        "summary": "On Aug. 24, technicians at NASA’s Kennedy Space Center in Florida began installing the four RS‑25 engines in the core stage of the agency’s Space Launch System (SLS) rocket that will carry the Artemis III crew into low…",
-        "image": "https://images-assets.nasa.gov/image/KSC-20260825-PH-RCR01_0045/KSC-20260825-PH-RCR01_0045~large.jpg",
-        "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/image-article/historic-engines-take-their-place-on-artemis-iii/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-01T18-54_5",
-        "rank": 5,
-        "title": "Meet the super PAC working to crush clean energy's political foes",
+        "title": "The US built more grid batteries last quarter than ever before",
         "category": "energy",
-        "summary": "Last summer, when the Republican-controlled Congress took a wrecking ball to the Inflation Reduction Act, Tom Matzzie was pissed. Though some Republican members of Congress had written letters trying to save wind and…",
-        "image": "https://img.canarymedia.com/content/uploads/Dont-Mess-With-Solar-billboard-truck-DCGettyImages-2280948571.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=5b28c7d2c258e3955157c47f9827198b",
+        "summary": "There’s never been a better time to build energy storage in the U.S. than right now. Grid batteries — which sop up power when it’s abundant and discharge that energy when it’s needed — have been ascendant for a decade,…",
+        "image": "https://img.canarymedia.com/content/uploads/Pastoria-CA-battery-energy-storage-system_GettyImages-2271289830.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=d0eff0dc504391e03ac73243be774129",
         "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/politics/super-pac-crushing-clean-energy-foes",
+        "sourceUrl": "https://www.canarymedia.com/articles/batteries/us-built-more-grid-batteries",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-01T22-07_3",
+        "rank": 3,
+        "title": "Institute of Contemporary Art, San Diego faces financial and leadership crisis",
+        "category": "art",
+        "summary": "After the museum laid off almost half its staff over the summer, its main campus was shut down and employees are calling for the removal of its director",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/24c6ac009926457d21d6c18e4e84d3d1f1e854aa-1080x900.jpg?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/09/01/institute-contemporary-art-san-diego-financial-leadership-crisis-layoffs",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-01T22-07_4",
+        "rank": 4,
+        "title": "NASA Selects Blue Origin as Mars Telecommunications Network Provider",
+        "category": "space",
+        "summary": "NASA awarded Blue Origin a contract Tuesday to develop the agency’s Mars Telecommunications Network, a next-generation communications system that will enable reliable, high-bandwidth communications and navigation…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/news-release/nasa-selects-blue-origin-as-mars-telecommunications-network-provider/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-01T22-07_5",
+        "rank": 5,
+        "title": "Opinion: I’m a reproductive psychiatrist. The Lindsay Clancy trial will cause terrible damage to my field",
+        "category": "biotech",
+        "summary": "“The whole of my field has been flattened into a single lazy question: Did the health care system fail her?” writes Jennifer Okwerekwu.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/08/AP26231616995533-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/09/01/lindsay-clancy-trial-verdict-postpartum-psychosis-psychiatry/?utm_campaign=rss",
         "fromX": false
       }
     ]
