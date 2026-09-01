@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-09-01T02-08",
+    "scannedAt": "2026-09-01T02:08:35.691Z",
+    "items": [
+      {
+        "id": "auto_2026-09-01T02-08_1",
+        "rank": 1,
+        "title": "The Bentley Supersports: A stripped-out engineer's indulgence",
+        "category": "general",
+        "summary": "It's the lightest Bentley in 85 years.",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/DragonRed.Supersports-6-1152x648.jpg",
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/cars/2026/08/the-bentley-supersports-a-stripped-out-engineers-indulgence/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-01T02-08_2",
+        "rank": 2,
+        "title": "Metropolitan Museum and designer John Galliano cancel planned Costume Institute exhibition amid backlash",
+        "category": "art",
+        "summary": "A chorus of Jewish community leaders, donors, politicians and others criticised the Met’s decision to honour Galliano in light of a 2011 conviction for an antisemitic hate crime",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/ad3b443ae6405e6c9c4efd663da6d75a9edae060-2000x1334.jpg?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/08/31/metropolitan-museum-costume-institute-john-galliano-exhibition-cancelled",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-01T02-08_3",
+        "rank": 3,
+        "title": "Trump strikes nine more deals with drugmakers to lower prices",
+        "category": "biotech",
+        "summary": "President Trump on Monday announced the next round of pricing deals with drugmakers, with nine new companies making such agreements.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/08/GettyImages-2292466588-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/08/31/trump-most-favored-nation-drug-pricing-new-round-price-cuts-announced/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-01T02-08_4",
+        "rank": 4,
+        "title": "September 2026 Satellite Puzzler",
+        "category": "space",
+        "summary": "Here’s the August 2026 puzzler. Quick, where is this? And what makes this place interesting or unique?",
+        "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/satellite-puzzler/2026_septemberpuzzler.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "source": "NASA",
+        "sourceUrl": "https://science.nasa.gov/earth/earth-observatory/september-2026-satellite-puzzler/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-01T02-08_5",
+        "rank": 5,
+        "title": "Scientists discover two superconducting states hiding as one",
+        "category": "energy",
+        "summary": "Scientists have uncovered hidden complexity inside two ultrathin superconductors that seemed much simpler than they really are. Niobium diselenide and tantalum disulfide appeared to have a single superconducting state,…",
+        "image": "https://www.sciencedaily.com/images/1920/superconductor-hidden-identity-revealed.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260828005222.htm",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-08-31T23-27",
     "scannedAt": "2026-08-31T23:27:05.672Z",
     "items": [

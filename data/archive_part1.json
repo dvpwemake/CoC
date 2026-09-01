@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-08-12T20-28",
+    "scannedAt": "2026-08-12T20:28:10.771Z",
+    "items": [
+      {
+        "id": "auto_2026-08-12T20-28_1",
+        "rank": 1,
+        "title": "The Best Way to Avoid Diarrhea Lettuce? This Indoor Garden",
+        "category": "general",
+        "summary": "Lettuce Grow, one of my favorite indoor gardens, lets you cultivate your own salad greens safely, right in your living room. And it’s 20 percent off right now.",
+        "image": "https://media.wired.com/photos/6a7cb24ff364ac5424573890/master/pass/Tired-of-Diarrhea-Lettuce--Grow-Your-Own-Greens-for-20-Percent-Off.jpg",
+        "source": "WIRED",
+        "sourceUrl": "https://www.wired.com/story/lettuce-grow-20-percent-off-2026/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-12T20-28_2",
+        "rank": 2,
+        "title": "2026 Total Solar Eclipse in Spain",
+        "category": "space",
+        "summary": "A total solar eclipse is seen from San Millán de los Caballeros, Spain, Wednesday, Aug. 12, 2026. A total solar eclipse – the Moon passing between the Sun and Earth, completely blocking the face of the Sun – swept…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/08/55459753868-458217b2c9-o.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/image-article/2026-total-solar-eclipse-in-spain/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-12T20-28_3",
+        "rank": 3,
+        "title": "Black Mid-Century Artist Felrath Hines Is Finally Getting His Due for His Luminous Abstractions",
+        "category": "art",
+        "summary": "He was a member of the Spiral Group , the pioneering collective of African American artists in the 1960s, and an artistic peer to Romare Bearden and Emma Amos . Georgia O’Keeffe so admired his talents that she hired him…",
+        "image": "https://artsy-media-uploads.s3.amazonaws.com/xW5_HiB7_WMyMLxZzdfiYQ%2FPress+Felrath+Hines+Landscape%2C+1953+12513.jpg",
+        "source": "Artsy",
+        "sourceUrl": "https://www.artsy.net/article/artsy-editorial-black-mid-century-artist-felrath-hines-finally-luminous-abstractions",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-12T20-28_4",
+        "rank": 4,
+        "title": "Trump administration’s new ‘treatment-first’ addiction toolkit emphasizes faith, abstinence",
+        "category": "biotech",
+        "summary": "The White House nods to use of addiction medications but moves away from other harm reduction strategies.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/08/GettyImages-2289375722-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/08/12/addiction-homelessness-hhs-toolkit-harm-reduction/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-12T20-28_5",
+        "rank": 5,
+        "title": "Robots could consume as much electricity as 35 million US homes by 2035",
+        "category": "robotics",
+        "summary": "The rapidly expanding global robotics industry could require 363 TWh of electricity annually by 2035 – equivalent to the yearly consumption of around 35 million average US households – according to new research from…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/typical-US-home-electricity-needs.jpg",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/12/robots-could-consume-as-much-electricity-as-35-million-us-homes-by-2035/104073/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-08-11T20-30",
     "scannedAt": "2026-08-11T20:30:24.348Z",
     "items": [
@@ -1394,26 +1455,6 @@
         "source": "X · @web3l0var",
         "sourceUrl": "https://x.com/web3l0var/status/2079909448219271368",
         "fromX": true
-      }
-    ]
-  },
-  {
-    "batchId": "editorial_2026-07-24",
-    "scannedAt": "2026-07-25T02:54:54.620Z",
-    "kind": "editorial_archive",
-    "items": [
-      {
-        "id": "editorial_2026-07-24",
-        "rank": 0,
-        "title": "After the Error",
-        "category": "editorial",
-        "summary": "When machines flood the interval that judgment needs most.",
-        "image": "https://images-assets.nasa.gov/image/PIA01492/PIA01492~medium.jpg",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-07-24.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-07-24",
-        "authorName": "Dr. Wallace Lynch"
       }
     ]
   }
