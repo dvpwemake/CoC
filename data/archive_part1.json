@@ -1,5 +1,25 @@
 [
   {
+    "batchId": "editorial_2026-08-12",
+    "scannedAt": "2026-08-13T03:46:02.377Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-08-12",
+        "rank": 0,
+        "title": "What the wind will not let us keep",
+        "category": "editorial",
+        "summary": "Convergence of the hold we want and the life that will not sit still",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/08/AP26185611765469-1024x576.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-12.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-08-12",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-08-12T20-28",
     "scannedAt": "2026-08-12T20:28:10.771Z",
     "items": [
@@ -1455,26 +1475,6 @@
         "source": "X · @web3l0var",
         "sourceUrl": "https://x.com/web3l0var/status/2079909448219271368",
         "fromX": true
-      }
-    ]
-  },
-  {
-    "batchId": "editorial_2026-07-24",
-    "scannedAt": "2026-07-25T02:54:54.620Z",
-    "kind": "editorial_archive",
-    "items": [
-      {
-        "id": "editorial_2026-07-24",
-        "rank": 0,
-        "title": "After the Error",
-        "category": "editorial",
-        "summary": "When machines flood the interval that judgment needs most.",
-        "image": "https://images-assets.nasa.gov/image/PIA01492/PIA01492~medium.jpg",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-07-24.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-07-24",
-        "authorName": "Dr. Wallace Lynch"
       }
     ]
   }

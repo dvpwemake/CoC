@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-09-02T01-31",
+    "scannedAt": "2026-09-02T01:31:38.915Z",
+    "items": [
+      {
+        "id": "auto_2026-09-02T01-31_1",
+        "rank": 1,
+        "title": "Fake 10 Downing Street listing exposes 'unfit' Booking.com, says consumer group",
+        "category": "general",
+        "summary": "Booking.com said the \"limited test\" was \"not a true reflection of the experience of millions of listings or reviews\".",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f10/live/ff12f590-a5f1-11f1-8348-fb0cb1cd9761.jpg",
+        "source": "BBC Technology",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cly4e0wn452o?at_medium=RSS&at_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-02T01-31_2",
+        "rank": 2,
+        "title": "STAT+: ADA review of members’ expulsion denies group censored opinions, called in police",
+        "category": "biotech",
+        "summary": "A review of findings from a five-person committee is being sent to the ADA board for action, STAT has learned, but it appears unlikely to quiet the controversy.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/06/conference-center-1024x576.jpeg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/09/01/ada-members-review-june-expulsion-denies-censoring-opinions-calling-new-orleans-police/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-02T01-31_3",
+        "rank": 3,
+        "title": "Playful Patterns Adorn Ashley Percival's Collections of Creatures",
+        "category": "art",
+        "summary": "Ashley Percival imagines fanciful menagerie in which poodles, rotund birds, and boot-wearing insects try on a vast array of vibrant costumes. Do stories and artists like this matter to you? Become a Colossal Member…",
+        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/09/percival-1.jpg",
+        "source": "Colossal",
+        "sourceUrl": "https://www.thisiscolossal.com/2026/09/ashley-percival-animal-illustrations/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-02T01-31_4",
+        "rank": 4,
+        "title": "What’s Up: September 2026 Skywatching Tips from NASA",
+        "category": "space",
+        "summary": "Brilliant Venus and a Harvest Moon Use the Moon to find Antares and the Teapot, spot brilliant Venus, welcome the equinox, and see the Harvest Moon near Saturn and Neptune. Skywatching Highlights Transcript The Moon…",
+        "image": "https://assets.science.nasa.gov/content/dam/science/psd/solar-system/skywatching/2026/september/Harvest%20Moon_212_Mike%20Linnihan_Used%20with%20Permission.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "source": "NASA",
+        "sourceUrl": "https://science.nasa.gov/solar-system/skywatching/whats-up-september-2026-skywatching-tips-from-nasa/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-02T01-31_5",
+        "rank": 5,
+        "title": "Fervo and Google sign world’s largest deal for next-gen geothermal power",
+        "category": "energy",
+        "summary": "Fervo Energy inked a landmark deal to supply Google with nearly 400 megawatts of clean electricity from the startup’s geothermal project in southwest Utah. The agreement is the largest of its kind for a next-generation…",
+        "image": "https://img.canarymedia.com/content/uploads/Phase-Two-Power-Plant-and-Drilling-Rigs-2_8.10.26.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=738457ab7cf309e62c3ab2e46a476b06",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/geothermal/fervo-google-deal-next-gen-geothermal",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-09-01T22-07",
     "scannedAt": "2026-09-01T22:07:35.422Z",
     "items": [
