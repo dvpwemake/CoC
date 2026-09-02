@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-09-02T08-09",
-    "scannedAt": "2026-09-02T08:09:58.127Z",
+    "batchId": "auto_2026-09-02T15-24",
+    "scannedAt": "2026-09-02T15:24:51.912Z",
     "items": [
       {
-        "id": "auto_2026-09-02T08-09_1",
+        "id": "auto_2026-09-02T15-24_1",
         "rank": 1,
-        "title": "Wind energy benefits North Dakota. So why has the state soured on it?",
-        "category": "energy",
-        "summary": "WISHEK, N.D. — George Wolff offered a cautious greeting through the window of my rented F-150. He was fresh from tending livestock, which explained the dried mud on his forehead and shirt. His boots and jeans were…",
-        "image": "https://img.canarymedia.com/content/uploads/June2026.CanaryMedia.NDWindPower054.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=98d786449b1ce54ce094c10d6e160181",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/wind/wind-energy-north-dakota-benefits",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-02T08-09_2",
-        "rank": 2,
-        "title": "Dell’s newest laptop sounds a lot like a MacBook Neo",
+        "title": "In a Big Win, Google Won’t Have to Break Up Its Ad Tech Business, Court Rules",
         "category": "general",
-        "summary": "Dell's new Dell 14S laptop sounds a lot like a MacBook Neo: it comes in four colors, is aimed at students, and it starts with 8GB of RAM and 256GB of storage. Announced at IFA 2026, the 14S is meant to sit below the…",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Dell-14S_Velvet-Green_Lifestyle.jpg?quality=90&strip=all&crop=0%2C16.709105790342%2C100%2C66.581788419316&w=1200",
-        "source": "The Verge",
-        "sourceUrl": "https://www.theverge.com/gadgets/987839/dell-14s-student-laptop-ifa-2026-price-specs",
+        "summary": "In a long awaited decision, the judge said Google must make some changes to its ad tech business to handle antitrust issues, but did not disclose the measures publicly.",
+        "image": "https://static01.nyt.com/images/2025/12/29/multimedia/00biz-google-hfo-phtj/00biz-google-hfo-phtj-mediumSquareAt3X.jpg",
+        "source": "NYT Technology",
+        "sourceUrl": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html",
         "fromX": false
       },
       {
-        "id": "auto_2026-09-02T08-09_3",
-        "rank": 3,
-        "title": "Earth may have lost the Sun’s protective shield millions of years ago",
-        "category": "space",
-        "summary": "NASA-funded studies suggest Earth’s climate has been influenced by both the Sun’s travels through dense regions of the Milky Way and the violent superflares of its youth. Those events may help explain ancient ice ages…",
-        "image": "https://www.sciencedaily.com/images/1920/nasa-heliosphere-illustration-close.webp",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260901070523.htm",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-02T08-09_4",
-        "rank": 4,
-        "title": "Satellite images before Nepal disaster showed warning signs",
-        "category": "biotech",
-        "summary": "Nature, Published online: 02 September 2026; doi:10.1038/d41586-026-02746-4 Images revealed the accelerated movement of a glacier–rock mass just days before it collapsed, triggering a deadly flash flood.",
-        "image": "",
-        "source": "Nature",
-        "sourceUrl": "https://www.nature.com/articles/d41586-026-02746-4",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-02T08-09_5",
-        "rank": 5,
-        "title": "Supreme Court Green-Lights White House Ballroom Despite Lack of Congressional Approval",
+        "id": "auto_2026-09-02T15-24_2",
+        "rank": 2,
+        "title": "Galerie Nordenhake opens new Berlin space in Charlottenburg.",
         "category": "art",
-        "summary": "The Supreme Court on August 31 voted 5–4 in favor of allowing the White House to proceed with the construction of its $400 million ballroom, the Associated Press reports. The decision replaces a temporary order issued…",
-        "image": "https://www.artforum.com/wp-content/uploads/2026/09/GettyImages-2291330330.jpg?w=650",
-        "source": "Artforum",
-        "sourceUrl": "https://www.artforum.com/news/supreme-court-gives-trump-ballroom-the-go-ahead-1234758581/",
+        "summary": "Galerie Nordenhake is opening a new, larger location in Berlin’s Charlottenburg district, the gallery announced this week. The space, at Goethestraße 2–3, opens to the public on September 10th with a reception timed to…",
+        "image": "https://artsy-media-uploads.s3.amazonaws.com/jE2g7Jv4kagT7_4qyK1PDg%2FMAG__LIN1094-HDR-2_1500x1000.jpg",
+        "source": "Artsy",
+        "sourceUrl": "https://www.artsy.net/article/artsy-editorial-galerie-nordenhake-opens-new-berlin-space-charlottenburg",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-02T15-24_3",
+        "rank": 3,
+        "title": "Interstellar solar sails hit a strange problem at 75% of light speed",
+        "category": "space",
+        "summary": "Solar sails pushed by powerful lasers could reach incredible speeds, but relativity may eventually make the light itself work against them. At around 75% of the speed of light, scattered photons can begin creating drag,…",
+        "image": "https://www.sciencedaily.com/images/1920/diffractive-solar-sail.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260831015157.htm",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-02T15-24_4",
+        "rank": 4,
+        "title": "Money problems may age your brain faster",
+        "category": "neuroscience",
+        "summary": "Persistent financial hardship in early and middle adulthood was linked to poorer thinking skills by the 50s and more signs of brain aging later in life. Researchers say years of chronic stress and financial worry may…",
+        "image": "https://www.sciencedaily.com/images/1920/brain-intelligence-money-cash.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260831015154.htm",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-02T15-24_5",
+        "rank": 5,
+        "title": "Doctors groups release vaccination guidelines ahead of respiratory illness season",
+        "category": "biotech",
+        "summary": "Ahead of respiratory illness season, professional organizations have issued guidance on flu, Covid, and RSV vaccines.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/08/AdobeStock_578977705-1024x576.jpeg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/09/02/vaccine-integrity-project-fall-winter-guidelines-rsv-covid-flu-shots/?utm_campaign=rss",
         "fromX": false
       }
     ]
