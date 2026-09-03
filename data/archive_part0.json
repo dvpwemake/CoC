@@ -183,6 +183,26 @@
     ]
   },
   {
+    "batchId": "editorial_2026-09-01",
+    "scannedAt": "2026-09-01T04:05:06.337Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-09-01",
+        "rank": 0,
+        "title": "Not this spring",
+        "category": "editorial",
+        "summary": "The Costume Institute show is off. On Vinalhaven, a painter's lodge is for sale.",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/DragonRed.Supersports-6-1152x648.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-09-01.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-09-01",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-08-31T23-27",
     "scannedAt": "2026-08-31T23:27:05.672Z",
     "items": [
@@ -1496,67 +1516,6 @@
         "isEditorialArchive": true,
         "publishDate": "2026-08-14",
         "authorName": "Dr. Wallace Lynch"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-08-14T20-18",
-    "scannedAt": "2026-08-14T20:18:21.262Z",
-    "items": [
-      {
-        "id": "auto_2026-08-14T20-18_1",
-        "rank": 1,
-        "title": "Samsung has new Galaxy headphones in the works",
-        "category": "general",
-        "summary": "Strings of code in Samsung's Galaxy Wearable app hint at an upcoming pair of over-ear headphones that could compete with the AirPods Max, SamMobile reports. Samsung's reportedly referring to the headphones as the…",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268384_Samsung_Galaxy_Buds_4_Pro_AKrales_0309.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "sourceUrl": "https://www.theverge.com/gadgets/980547/samsung-galaxy-h1-over-ear-headphones",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-14T20-18_2",
-        "rank": 2,
-        "title": "Opinion: AAP president: How pediatricians are navigating federal leaders’ fearmongering on vaccines",
-        "category": "biotech",
-        "summary": "Every parent experiences a unique mix of emotions when caring for a newborn baby. You’re filled with an overwhelming sense of pride, love, and awe for this tiny, precious person…",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/08/AdobeStock_578977705-1024x576.jpeg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/08/14/vaccine-executive-order-policy-aap-president/?utm_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-14T20-18_3",
-        "rank": 3,
-        "title": "Stolen Picasso Print Recovered Eight Years Later in Vacant Apartment",
-        "category": "art",
-        "summary": "A Picasso print stolen from a Milwaukee gallery in 2018 has miraculously resurfaced in a decrepit apartment in the same city, according to recent reports. The print, Torero (1949), was discovered during a landlord's…",
-        "image": "https://www.artforum.com/wp-content/uploads/2026/08/91205863007-02316-b-19-ffca-43-ed-8842799-b-0-ecf-900-f-e1786732192250.webp?w=600",
-        "source": "Artforum",
-        "sourceUrl": "https://www.artforum.com/news/stolen-picasso-print-recovered-eight-years-later-1234757051/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-14T20-18_4",
-        "rank": 4,
-        "title": "Video Friday: Lift Happens",
-        "category": "robotics",
-        "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us…",
-        "image": "https://spectrum.ieee.org/media-library/drone-crash-on-grassland-engulfed-in-flames-with-thick-black-smoke-rising.png?id=67615846&width=980",
-        "source": "IEEE Spectrum",
-        "sourceUrl": "https://spectrum.ieee.org/video-friday-darpa-heavy-lift-challenge",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-14T20-18_5",
-        "rank": 5,
-        "title": "Immune cells flood into the aging brain, Stanford scientists discover",
-        "category": "neuroscience",
-        "summary": "Scientists have discovered that the aging human brain may be far less isolated from the rest of the body than once believed. Stanford researchers found that large numbers of immune cells from the blood begin entering…",
-        "image": "https://www.sciencedaily.com/images/1920/brain-immune-cell-migration.webp",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260814011033.htm",
-        "fromX": false
       }
     ]
   }

@@ -183,6 +183,26 @@
     ]
   },
   {
+    "batchId": "editorial_2026-09-01",
+    "scannedAt": "2026-09-01T04:05:06.337Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-09-01",
+        "rank": 0,
+        "title": "Not this spring",
+        "category": "editorial",
+        "summary": "The Costume Institute show is off. On Vinalhaven, a painter's lodge is for sale.",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/DragonRed.Supersports-6-1152x648.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-09-01.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-09-01",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-08-31T23-27",
     "scannedAt": "2026-08-31T23:27:05.672Z",
     "items": [

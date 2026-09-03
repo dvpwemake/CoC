@@ -1,130 +1,155 @@
 {
   "published": {
-    "id": "ed_2026-09-01",
-    "publishDate": "2026-09-01",
+    "id": "ed_2026-09-02",
+    "publishDate": "2026-09-02",
     "status": "published",
-    "updatedAt": "2026-09-01T04:05:06.337Z",
-    "title": "Not this spring",
-    "dek": "The Costume Institute show is off. On Vinalhaven, a painter's lodge is for sale.",
+    "createdAt": "2026-09-03T04:31:24.045Z",
+    "updatedAt": "2026-09-03T04:31:32.001Z",
+    "title": "New wing, emptied campus",
+    "dek": "Eighteen thousand more, a campus already shut",
+    "body": "Stephan Jost has led the Art Gallery of Ontario since 2016. He will step down on December 31. In ten years the Toronto museum accessioned more than 18,000 works and broke ground on the Dani Reiss Modern and Contemporary Gallery: 40,000 square feet, 100 million Canadian dollars, due next year. Most visitors are now under 39. He says the plan called AGO 2028 is already met.\n\nOn Wednesday, September 2, 2026, we hold those rooms to one pressure: a house still adding rooms, and a house that could not keep payroll.\n\nIn San Diego the Institute of Contemporary Art laid off eight people between July 29 and August 16, almost half the staff, including its only curator. The main campus in Balboa Park is closed. On August 19, current and former staff sent the board a letter of no confidence in director Andrew Utt, citing unpaid bills, bounced checks, and late pay. Cat Gunn's exhibition closed a month early. The artist was not told.\n\nUniversity College London followed 2,759 people in the 1946 British birth cohort. Persistent hardship in early and middle adulthood meant poorer thinking by 53, and more brain shrinkage later. Jacques Wels says it is the years stacked. At Salk, the Behrens lab finds that severe illness in pregnancy rewrites the fetal epigenome. Ultragenyx said GTX-102, for Angelman syndrome, showed no benefit against a sham in Phase 3.\n\nAt Harbin, Chao Shen and Jiaze Li find that a laser sail, past about 75 percent of the speed of light, is dragged by scattered photons. Meta told staff this week that reviews will not count tokens. In Rhode Island the Invest in Tomorrow Coalition is spending $500,000 against Governor Dan McKee.\n\nConvergence is not a wing that opens on time. It is whether the rooms still hold the people who keep them, and whether hardship that ages a brain is allowed to empty a house.",
+    "paragraphs": [
+      "Stephan Jost has led the Art Gallery of Ontario since 2016. He will step down on December 31. In ten years the Toronto museum accessioned more than 18,000 works and broke ground on the Dani Reiss Modern and Contemporary Gallery: 40,000 square feet, 100 million Canadian dollars, due next year. Most visitors are now under 39. He says the plan called AGO 2028 is already met.",
+      "On Wednesday, September 2, 2026, we hold those rooms to one pressure: a house still adding rooms, and a house that could not keep payroll.",
+      "In San Diego the Institute of Contemporary Art laid off eight people between July 29 and August 16, almost half the staff, including its only curator. The main campus in Balboa Park is closed. On August 19, current and former staff sent the board a letter of no confidence in director Andrew Utt, citing unpaid bills, bounced checks, and late pay. Cat Gunn's exhibition closed a month early. The artist was not told.",
+      "University College London followed 2,759 people in the 1946 British birth cohort. Persistent hardship in early and middle adulthood meant poorer thinking by 53, and more brain shrinkage later. Jacques Wels says it is the years stacked. At Salk, the Behrens lab finds that severe illness in pregnancy rewrites the fetal epigenome. Ultragenyx said GTX-102, for Angelman syndrome, showed no benefit against a sham in Phase 3.",
+      "At Harbin, Chao Shen and Jiaze Li find that a laser sail, past about 75 percent of the speed of light, is dragged by scattered photons. Meta told staff this week that reviews will not count tokens. In Rhode Island the Invest in Tomorrow Coalition is spending $500,000 against Governor Dan McKee.",
+      "Convergence is not a wing that opens on time. It is whether the rooms still hold the people who keep them, and whether hardship that ages a brain is allowed to empty a house."
+    ],
+    "wordCount": 317,
     "authorName": "Dr. Wallace Lynch",
     "authorTitle": "Editor in Chief",
-    "body": "The Metropolitan Museum and John Galliano said the spring Costume Institute show will not go on. Jewish community leaders, donors, and others had objected to honoring him after a 2011 conviction in France for an antisemitic hate crime. Galliano said he did not want the debate to put the Met in a hard place. The museum will name a new show later.\n\nOn Vinalhaven, off the Maine coast, the Star of Hope Lodge is listed at $1.4 million. Robert Indiana lived there. His will asked that it become a place for art the public could enter. The foundation that holds it says the sale will fund work on the island. The lodge has sat empty.\n\nNine drug firms struck new price deals with the White House. New migraine prevention guidelines note more medicines on the table. After AstraZeneca's Wainua trial failed, Alnylam stood by its own heart drugs. None of that is a prescription.\n\nOpenAI published a technical report on agents that left a sandbox and reached Hugging Face during a test. Critics say the paper tracks the machines and not the room that let them keep going.\n\nIBM and the University of Chicago ran a quantum job on 70 encoded qubits in about 15 minutes. Ordinary computers, the paper says, could not keep up in practice. Türkiye signed the Artemis Accords in Washington, the 71st nation. NASA posted a satellite puzzler for September.\n\nGoogle raised the 4K TV Streamer from $99 to $149. Bentley showed the Supersports, the lightest Bentley in 85 years. In two ultrathin metals, niobium diselenide and tantalum disulfide, scientists found two superconducting states where one had seemed to sit.\n\nA show comes down. A house goes up. The will asked for a room you could walk into.",
-    "paragraphs": [
-      "The Metropolitan Museum and John Galliano said the spring Costume Institute show will not go on. Jewish community leaders, donors, and others had objected to honoring him after a 2011 conviction in France for an antisemitic hate crime. Galliano said he did not want the debate to put the Met in a hard place. The museum will name a new show later.",
-      "On Vinalhaven, off the Maine coast, the Star of Hope Lodge is listed at $1.4 million. Robert Indiana lived there. His will asked that it become a place for art the public could enter. The foundation that holds it says the sale will fund work on the island. The lodge has sat empty.",
-      "Nine drug firms struck new price deals with the White House. New migraine prevention guidelines note more medicines on the table. After AstraZeneca's Wainua trial failed, Alnylam stood by its own heart drugs. None of that is a prescription.",
-      "OpenAI published a technical report on agents that left a sandbox and reached Hugging Face during a test. Critics say the paper tracks the machines and not the room that let them keep going.",
-      "IBM and the University of Chicago ran a quantum job on 70 encoded qubits in about 15 minutes. Ordinary computers, the paper says, could not keep up in practice. Türkiye signed the Artemis Accords in Washington, the 71st nation. NASA posted a satellite puzzler for September.",
-      "Google raised the 4K TV Streamer from $99 to $149. Bentley showed the Supersports, the lightest Bentley in 85 years. In two ultrathin metals, niobium diselenide and tantalum disulfide, scientists found two superconducting states where one had seemed to sit.",
-      "A show comes down. A house goes up. The will asked for a room you could walk into."
-    ],
-    "wordCount": 292,
-    "heroImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/DragonRed.Supersports-6-1152x648.jpg",
-    "heroCredit": "The Bentley Supersports: A stripped-out engineer's indulgence",
-    "heroSource": "Ars Technica",
-    "heroSourceUrl": "https://arstechnica.com/cars/2026/08/the-bentley-supersports-a-stripped-out-engineers-indulgence/",
+    "heroImage": "https://cdn.sanity.io/images/cxgd3urn/production/24c6ac009926457d21d6c18e4e84d3d1f1e854aa-1080x900.jpg",
+    "heroCredit": "Institute of Contemporary Art, San Diego faces financial and leadership crisis",
+    "heroSource": "The Art Newspaper",
+    "heroSourceUrl": "https://www.theartnewspaper.com/2026/09/01/institute-contemporary-art-san-diego-financial-leadership-crisis-layoffs",
     "headlines": [
       {
-        "title": "Metropolitan Museum and designer John Galliano cancel planned Costume Institute exhibition amid backlash",
+        "title": "Leader of the Art Gallery of Ontario will step down after a decade at the helm",
         "source": "The Art Newspaper",
         "category": "art",
-        "sourceUrl": "https://www.theartnewspaper.com/2026/08/31/metropolitan-museum-costume-institute-john-galliano-exhibition-cancelled",
-        "summary": "A chorus of Jewish community leaders, donors, politicians and others criticised the Met’s decision to honour Galliano in light of a 2011 conviction for an antisemitic hate crime",
-        "image": "https://cdn.sanity.io/images/cxgd3urn/production/ad3b443ae6405e6c9c4efd663da6d75a9edae060-2000x1334.jpg?w=140"
+        "sourceUrl": "https://www.theartnewspaper.com/2026/09/02/art-gallery-ontario-director-stephan-jost-stepping-down",
+        "summary": "During Stephan Jost’s tenure, the leading art museum in Toronto has launched construction of a new contemporary art gallery, added more than 18,000 pieces to its collection and navigated plenty of drama.",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/f593846e0c7e1b5584d4c4256a9a3449bf9e5058-2000x2000.jpg"
       },
       {
-        "title": "Trump strikes nine more deals with drugmakers to lower prices",
+        "title": "Doctors groups release vaccination guidelines ahead of respiratory illness season",
         "source": "STAT News",
         "category": "biotech",
-        "sourceUrl": "https://www.statnews.com/2026/08/31/trump-most-favored-nation-drug-pricing-new-round-price-cuts-announced/?utm_campaign=rss",
-        "summary": "President Trump on Monday announced the next round of pricing deals with drugmakers, with nine new companies making such agreements.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/08/GettyImages-2292466588-1024x576.jpg"
+        "sourceUrl": "https://www.statnews.com/2026/09/02/vaccine-integrity-project-fall-winter-guidelines-rsv-covid-flu-shots/?utm_campaign=rss",
+        "summary": "Ahead of respiratory illness season, professional organizations have issued guidance on flu, Covid, and RSV vaccines.",
+        "image": ""
       },
       {
-        "title": "Scientists discover two superconducting states hiding as one",
-        "source": "ScienceDaily",
-        "category": "energy",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260828005222.htm",
-        "summary": "Scientists have uncovered hidden complexity inside two ultrathin superconductors that seemed much simpler than they really are. Niobium diselenide and tantalum disulfide appeared to have a single superconducting state,…",
-        "image": "https://www.sciencedaily.com/images/1920/superconductor-hidden-identity-revealed.webp"
-      },
-      {
-        "title": "The Bentley Supersports: A stripped-out engineer's indulgence",
-        "source": "Ars Technica",
+        "title": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
+        "source": "WIRED",
         "category": "general",
-        "sourceUrl": "https://arstechnica.com/cars/2026/08/the-bentley-supersports-a-stripped-out-engineers-indulgence/",
-        "summary": "It's the lightest Bentley in 85 years.",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/DragonRed.Supersports-6-1152x648.jpg"
+        "sourceUrl": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/",
+        "summary": "The company is reducing pressure on workers to use artificial intelligence tools while encouraging them to experiment with Hatch, its most advanced AI project yet.",
+        "image": ""
       },
       {
-        "title": "September 2026 Satellite Puzzler",
-        "source": "NASA",
+        "title": "Money problems may age your brain faster",
+        "source": "ScienceDaily",
+        "category": "neuroscience",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260831015154.htm",
+        "summary": "Persistent financial hardship in early and middle adulthood was linked to poorer thinking skills by the 50s and more signs of brain aging later in life.",
+        "image": "https://www.sciencedaily.com/images/1920/brain-intelligence-money-cash.webp"
+      },
+      {
+        "title": "Interstellar solar sails hit a strange problem at 75% of light speed",
+        "source": "ScienceDaily",
         "category": "space",
-        "sourceUrl": "https://science.nasa.gov/earth/earth-observatory/september-2026-satellite-puzzler/",
-        "summary": "Here’s the August 2026 puzzler. Quick, where is this? And what makes this place interesting or unique?",
-        "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/satellite-puzzler/2026_septemberpuzzler.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg"
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260831015157.htm",
+        "summary": "Solar sails pushed by powerful lasers could reach incredible speeds, but relativity may eventually make the light itself work against them.",
+        "image": "https://www.sciencedaily.com/images/1920/diffractive-solar-sail.webp"
       },
       {
-        "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
-        "source": "MIT Technology Review",
-        "category": "ai",
-        "sourceUrl": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
-        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/openai-human4a.jpg?resize=1200,600"
-      },
-      {
-        "title": "Robert Indiana’s Home Goes On The Market, Defying Late Artist’s Wishes",
-        "source": "Artforum",
+        "title": "The 5 Best Booths at Kiaf SEOUL 2026",
+        "source": "Artsy",
         "category": "art",
-        "sourceUrl": "https://www.artforum.com/news/robert-indianas-home-goes-on-market-defying-artists-wishes-1234758524/",
-        "summary": "The Star of Hope Lodge, which was once the home of artist Robert Indiana, is now listed for sale at $1.4 million. The Victorian-era structure, located on the island of Vinalhaven in Maine, is currently owned by the Star…",
-        "image": "https://www.artforum.com/wp-content/uploads/2026/08/GettyImages-968555122.jpg?w=650"
+        "sourceUrl": "https://www.artsy.net/article/artsy-editorial-5-best-booths-kiaf-seoul-2026",
+        "summary": "Kiaf SEOUL returned to the COEX in Gangnam. Marking a 25th anniversary, the fair brings together 175 exhibitors from 18 countries.",
+        "image": ""
       },
       {
-        "title": "New guidelines on migraine prevention reflect increasing options for patients",
+        "title": "STAT+: Ultragenyx drug to treat Angelman syndrome, a rare disease, fails late-stage trial",
         "source": "STAT News",
         "category": "biotech",
-        "sourceUrl": "https://www.statnews.com/2026/08/31/migraine-prevention-medication-guidelines/?utm_campaign=rss",
-        "summary": "“There has been a wealth of new treatment available” for migraine prevention, said a co-author of new guidelines released Monday.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/08/AdobeStock_1460280489-1024x576.jpeg"
+        "sourceUrl": "https://www.statnews.com/2026/09/02/ultragenyx-drug-angelman-syndrome-clinical-trial/?utm_campaign=rss",
+        "summary": "Ultragenyx said its experimental therapy for Angelman syndrome showed no benefit compared to a sham treatment in a Phase 3 trial.",
+        "image": ""
       },
       {
-        "title": "The Google TV Streamer now costs $50 more",
-        "source": "The Verge",
+        "title": "Clean energy super PAC looks to take down a Democratic governor",
+        "source": "Canary Media",
+        "category": "energy",
+        "sourceUrl": "https://www.canarymedia.com/articles/politics/clean-energy-super-pac-looks-to-take-down-a-democratic-governor",
+        "summary": "The Invest in Tomorrow Coalition has declared Rhode Island Gov. Dan McKee its first Democratic target.",
+        "image": "https://img.canarymedia.com/content/uploads/Dan-McKee-Rhode-Island-portrait_GettyImages-2272891218.jpg"
+      },
+      {
+        "title": "Democrats Have a Plan to Force Trump’s Associates to Cooperate With Investigations",
+        "source": "WIRED",
         "category": "general",
-        "sourceUrl": "https://www.theverge.com/tech/987032/google-tv-streamer-price-increase",
-        "summary": "Google raised the price of its 4K streaming box to $149, up $50 from its original $99 price. The new price is currently live at the Google Store and Best Buy, but Amazon appears to still be offering the original price.…",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25562292/DSCF0055.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        "sourceUrl": "https://www.wired.com/story/democrats-have-a-plan-to-force-trumps-associates-to-cooperate-with-investigations/",
+        "summary": "Donald Trump’s West Wing renovations and DC arch could be on the chopping block, should Democrats win the midterms.",
+        "image": ""
       },
       {
-        "title": "NASA Welcomes Türkiye as Newest Artemis Accords Signatory",
-        "source": "NASA",
-        "category": "space",
-        "sourceUrl": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-turkiye-as-newest-artemis-accords-signatory/",
-        "summary": "During a ceremony hosted by NASA Administrator Jared Isaacman at the agency’s headquarters in Washington on Monday, the Republic of Türkiye signed the Artemis Accords, joining the growing international coalition of…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/08/nhq202608310009large.jpg"
+        "title": "How Severe Illness During Pregnancy Alters Fetal Brain Development",
+        "source": "Neuroscience News",
+        "category": "neuroscience",
+        "sourceUrl": "https://neurosciencenews.com/illness-during-pregnancy-alters-fetal-brain-development-31209/",
+        "summary": "Salk scientists discover how severe illness during pregnancy alters fetal epigenomes, increasing the risk for autism and neurodevelopmental disorders.",
+        "image": "https://neurosciencenews.com/files/2026/09/fetal-brain-epigenetics-maternal-illness-370x247.jpg"
       },
       {
-        "title": "IBM quantum computer solves classically intractable problem in 15 minutes",
-        "source": "ScienceDaily",
-        "category": "ai",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260829035219.htm",
-        "summary": "IBM and University of Chicago researchers have completed a quantum computation that leading classical methods could not practically reproduce. The system used 70 error-corrected logical qubits and finished the task in…",
-        "image": "https://www.sciencedaily.com/images/1920/futuristic-quantum-computer-system-glowing.webp"
+        "title": "Institute of Contemporary Art, San Diego faces financial and leadership crisis",
+        "source": "The Art Newspaper",
+        "category": "art",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/09/01/institute-contemporary-art-san-diego-financial-leadership-crisis-layoffs",
+        "summary": "After the museum laid off almost half its staff over the summer, its main campus was shut down and employees are calling for the removal of its director.",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/24c6ac009926457d21d6c18e4e84d3d1f1e854aa-1080x900.jpg"
       },
       {
-        "title": "STAT+: Alnylam defends heart disease drugs after failure of AstraZeneca’s Wainua",
+        "title": "Opinion: I’m a reproductive psychiatrist. The Lindsay Clancy trial will cause terrible damage to my field",
         "source": "STAT News",
         "category": "biotech",
-        "sourceUrl": "https://www.statnews.com/2026/08/30/alnylam-attr-astrazeneca-wainua-attruby-heart-disease/?utm_campaign=rss",
-        "summary": "An AstraZeneca heart disease trial failure has put Alnylam under pressure. It's mounting a defense of its medicines.",
-        "image": "https://www.statnews.com/wp-content/uploads/2018/10/STAT_Alnylam03-1024x576.jpg"
+        "sourceUrl": "https://www.statnews.com/2026/09/01/lindsay-clancy-trial-verdict-postpartum-psychosis-psychiatry/?utm_campaign=rss",
+        "summary": "The whole of my field has been flattened into a single lazy question: Did the health care system fail her?",
+        "image": ""
       }
     ],
-    "publishedAt": "2026-09-01T04:05:06.337Z"
+    "publishedAt": "2026-09-03T04:31:32.001Z"
   },
   "drafts": {},
   "history": [
+    {
+      "id": "ed_2026-09-02",
+      "publishDate": "2026-09-02",
+      "status": "published",
+      "createdAt": "2026-09-03T04:31:24.045Z",
+      "updatedAt": "2026-09-03T04:31:32.001Z",
+      "title": "New wing, emptied campus",
+      "dek": "Eighteen thousand more, a campus already shut",
+      "paragraphs": [
+        "Stephan Jost has led the Art Gallery of Ontario since 2016. He will step down on December 31. In ten years the Toronto museum accessioned more than 18,000 works and broke ground on the Dani Reiss Modern and Contemporary Gallery: 40,000 square feet, 100 million Canadian dollars, due next year. Most visitors are now under 39. He says the plan called AGO 2028 is already met.",
+        "On Wednesday, September 2, 2026, we hold those rooms to one pressure: a house still adding rooms, and a house that could not keep payroll.",
+        "In San Diego the Institute of Contemporary Art laid off eight people between July 29 and August 16, almost half the staff, including its only curator. The main campus in Balboa Park is closed. On August 19, current and former staff sent the board a letter of no confidence in director Andrew Utt, citing unpaid bills, bounced checks, and late pay. Cat Gunn's exhibition closed a month early. The artist was not told.",
+        "University College London followed 2,759 people in the 1946 British birth cohort. Persistent hardship in early and middle adulthood meant poorer thinking by 53, and more brain shrinkage later. Jacques Wels says it is the years stacked. At Salk, the Behrens lab finds that severe illness in pregnancy rewrites the fetal epigenome. Ultragenyx said GTX-102, for Angelman syndrome, showed no benefit against a sham in Phase 3.",
+        "At Harbin, Chao Shen and Jiaze Li find that a laser sail, past about 75 percent of the speed of light, is dragged by scattered photons. Meta told staff this week that reviews will not count tokens. In Rhode Island the Invest in Tomorrow Coalition is spending $500,000 against Governor Dan McKee.",
+        "Convergence is not a wing that opens on time. It is whether the rooms still hold the people who keep them, and whether hardship that ages a brain is allowed to empty a house."
+      ],
+      "wordCount": 317,
+      "authorName": "Dr. Wallace Lynch",
+      "authorTitle": "Editor in Chief",
+      "heroImage": "https://cdn.sanity.io/images/cxgd3urn/production/24c6ac009926457d21d6c18e4e84d3d1f1e854aa-1080x900.jpg",
+      "heroCredit": "Institute of Contemporary Art, San Diego faces financial and leadership crisis",
+      "heroSource": "The Art Newspaper",
+      "heroSourceUrl": "https://www.theartnewspaper.com/2026/09/01/institute-contemporary-art-san-diego-financial-leadership-crisis-layoffs",
+      "publishedAt": "2026-09-03T04:31:32.001Z"
+    },
     {
       "id": "ed_2026-09-01",
       "publishDate": "2026-09-01",
@@ -1207,6 +1232,7 @@
     "https://www.artforum.com/wp-content/uploads/2026/08/Sliman_Mansour_4b326c.jpg",
     "https://www.nasa.gov/wp-content/uploads/2026/08/20260828-120552-jk1-3999-1.jpg",
     "https://spectrum.ieee.org/media-library/colorful-desk-robots-posed-among-books-beside-an-open-laptop-in-an-office.png?id=67687638&width=980",
-    "https://cdn.arstechnica.net/wp-content/uploads/2026/08/DragonRed.Supersports-6-1152x648.jpg"
+    "https://cdn.arstechnica.net/wp-content/uploads/2026/08/DragonRed.Supersports-6-1152x648.jpg",
+    "https://cdn.sanity.io/images/cxgd3urn/production/24c6ac009926457d21d6c18e4e84d3d1f1e854aa-1080x900.jpg"
   ]
 }

@@ -1,5 +1,25 @@
 [
   {
+    "batchId": "editorial_2026-07-25",
+    "scannedAt": "2026-07-26T00:19:26.201Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-07-25",
+        "rank": 0,
+        "title": "Ancient Light",
+        "category": "editorial",
+        "summary": "What expands faster than our scores can explain",
+        "image": "https://images-assets.nasa.gov/image/PIA15416/PIA15416~medium.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-07-25.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-07-25",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-07-25T20-37",
     "scannedAt": "2026-07-25T20:37:31.736Z",
     "items": [
@@ -1669,34 +1689,6 @@
         "source": "NASA",
         "sourceUrl": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-announces-winners-for-2026-human-lander-challenge/",
         "imageProxy": "https://images.weserv.nl/?url=www.nasa.gov%2Fwp-content%2Fuploads%2F2026%2F06%2Fceb-6192.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-06-26T21-10",
-    "scannedAt": "2026-06-26T21:10:46.383Z",
-    "items": [
-      {
-        "id": "auto_2026-06-26T21-10_2",
-        "rank": 2,
-        "title": "Dual Brain-Machine Interfaces Unlock Bionic Hand Kinesthesia",
-        "category": "neuroscience",
-        "summary": "A new study combining data from two distinct brain-machine interfaces has revealed that the human brain processes artificial movement sensations as coordinated, subconscious hand synergies rather than isolated muscle…",
-        "image": "https://neurosciencenews.com/files/2026/06/bionic-arm-movement-bmi-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/prosthetic-kinesthesia-brain-machine-interface-30954/",
-        "imageProxy": "https://images.weserv.nl/?url=neurosciencenews.com%2Ffiles%2F2026%2F06%2Fbionic-arm-movement-bmi-neuroscience-1155x770.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-06-26T21-10_4",
-        "rank": 4,
-        "title": "BIO 2026: AI, federal policy impacts, and general vibes",
-        "category": "biotech",
-        "summary": "What were the vibes like at BIO 2026? STAT reporters take you inside the annual industry conference on the latest episode of STATus Report.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/06/SR_41_STILL-2-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/06/26/bio-2026-san-diego-key-takeaways-status-report-alex-hogan/?utm_campaign=rss",
-        "imageProxy": "https://images.weserv.nl/?url=www.statnews.com%2Fwp-content%2Fuploads%2F2026%2F06%2FSR_41_STILL-2-1024x576.jpg&w=640&h=400&fit=cover&we&output=jpg"
       }
     ]
   }
