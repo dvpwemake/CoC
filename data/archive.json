@@ -1,5 +1,25 @@
 [
   {
+    "batchId": "editorial_2026-09-02",
+    "scannedAt": "2026-09-03T04:58:45.691Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-09-02",
+        "rank": 0,
+        "title": "Counted the rooms",
+        "category": "editorial",
+        "summary": "A plan already met, a paycheck that bounced",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/24c6ac009926457d21d6c18e4e84d3d1f1e854aa-1080x900.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-09-02.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-09-02",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-09-03T01-35",
     "scannedAt": "2026-09-03T01:35:07.473Z",
     "items": [
