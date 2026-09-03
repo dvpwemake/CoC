@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-07-25T20-37",
+    "scannedAt": "2026-07-25T20:37:31.736Z",
+    "items": [
+      {
+        "id": "auto_2026-07-25T20-37_1",
+        "rank": 1,
+        "title": "Alzheimer Genetic Risk Scores Do Not Explain SuperAging",
+        "category": "neuroscience",
+        "summary": "A new study demonstrates that SuperAgers cannot be distinguished from cognitively average peers by APOE status or polygenic risk scores.",
+        "image": "https://neurosciencenews.com/files/2026/07/alzhimers-genetics-superagers-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/alzheimer-genetic-superager-memory-31129/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-25T20-37_2",
+        "rank": 2,
+        "title": "The Universe can outrun light without breaking Einstein’s rules",
+        "category": "space",
+        "summary": "Cosmic expansion allows distant galaxies to move away faster than light, while still letting us see ancient light they emitted when they were much closer. Eventually, accelerating expansion will push nearly every galaxy…",
+        "image": "https://www.sciencedaily.com/images/1920/universe-expansion-funnel-evolution-timeline.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/07/260724061444.htm",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-25T20-37_3",
+        "rank": 3,
+        "title": "Christopher Nolan, David Hockney, Luis Manuel Otero Alcántara",
+        "category": "art",
+        "summary": "A political prisoner is freed, a Homerist reviews Nolan’s “The Odyssey,” and do we have to pretend to like David Hockney’s iPad paintings?",
+        "image": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/07/odyssey.jpg",
+        "source": "Hyperallergic",
+        "sourceUrl": "https://hyperallergic.com/christopher-nolan-david-hockney-luis-manuel-otero-alcantara/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-25T20-37_4",
+        "rank": 4,
+        "title": "Duh, solar power doesn't work at night — but it excels during the day",
+        "category": "energy",
+        "summary": "Yesterday, the Department of Energy took to social media to try and make a scandal out of a well-known fact: Solar panels do not generate power at night. It’s an old and lazy swipe that critics of renewable energy love…",
+        "image": "https://img.canarymedia.com/content/uploads/panels-sun-getty.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=50eb58f573f1cb6a2f4b673098529eb7",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/solar/doe-solar-power-day-night-texas",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-25T20-37_5",
+        "rank": 5,
+        "title": "Gemini 3.6 Flash and 3.5 Flash-Lite now available through official API for developers and AI agents",
+        "category": "ai",
+        "summary": "Model ecosystem expansion: Gemini 3.6 Flash and Gemini 3.5 Flash-Lite via official API access.",
+        "image": "https://pbs.twimg.com/media/HN1SnDCWEAA2hmA.jpg",
+        "source": "X · @web3l0var",
+        "sourceUrl": "https://x.com/web3l0var/status/2079909448219271368",
+        "fromX": true
+      }
+    ]
+  },
+  {
     "batchId": "editorial_2026-07-24",
     "scannedAt": "2026-07-25T02:54:54.620Z",
     "kind": "editorial_archive",
@@ -1636,67 +1697,6 @@
         "source": "STAT News",
         "sourceUrl": "https://www.statnews.com/2026/06/26/bio-2026-san-diego-key-takeaways-status-report-alex-hogan/?utm_campaign=rss",
         "imageProxy": "https://images.weserv.nl/?url=www.statnews.com%2Fwp-content%2Fuploads%2F2026%2F06%2FSR_41_STILL-2-1024x576.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-06-25T21-19",
-    "scannedAt": "2026-06-25T21:19:33.819Z",
-    "items": [
-      {
-        "id": "auto_2026-06-25T21-19_1",
-        "rank": 1,
-        "title": "NASA, US Small Business Administration to Announce Partnership",
-        "category": "space",
-        "summary": "NASA and the U.S. Small Business Administration will sign a memorandum of agreement during a ceremony at 1 p.m. EDT, Monday, June 29, at NASA Headquarters in Washington. The agreement will create a new interagency…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
-        "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/news-release/nasa-us-small-business-administration-to-announce-partnership/",
-        "imageProxy": "https://images.weserv.nl/?url=www.nasa.gov%2Fwp-content%2Fuploads%2F2022%2F02%2Fnasa_meatball_large.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-06-25T21-19_2",
-        "rank": 2,
-        "title": "Canine Cognitive Decline Alters Gait",
-        "category": "neuroscience",
-        "summary": "Researchers established that canine cognitive decline is directly associated with a shortened stride length in dogs' front limbs. Because thoracic limbs require heavy cortical control for balance and spatial awareness,…",
-        "image": "https://neurosciencenews.com/files/2026/06/canine-gait-cognitive-decline-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/dog-dementia-gait-stride-length-30955/",
-        "imageProxy": "https://images.weserv.nl/?url=neurosciencenews.com%2Ffiles%2F2026%2F06%2Fcanine-gait-cognitive-decline-neuroscience-1155x770.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-06-25T21-19_3",
-        "rank": 3,
-        "title": "New ACIP charter broadens criteria for members, calls for review of alternatives to vaccines",
-        "category": "biotech",
-        "summary": "A new charter for the panel that advises the CDC on vaccine use substantially refocuses the responsibilities of the committee, downplaying its role in recommending the use of new vaccines.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/06/GettyImages-2249461848-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/06/25/acip-charter-responsibilities-rfk-jr/?utm_campaign=rss",
-        "imageProxy": "https://images.weserv.nl/?url=www.statnews.com%2Fwp-content%2Fuploads%2F2026%2F06%2FGettyImages-2249461848-1024x576.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-06-25T21-19_4",
-        "rank": 4,
-        "title": "Massachusetts Senate preserves energy-efficiency funding in new bill",
-        "category": "energy",
-        "summary": "The Massachusetts Senate on Wednesday unveiled its long-awaited energy legislation, a wide-ranging bill that touches on dozens of topics from plug-in solar to renewable energy procurement. Sponsors say the measures…",
-        "image": "https://img.canarymedia.com/content/uploads/Massachusetts-statehouse-golden-dome_GettyImages-2264475594.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=45304341fb72fc57b59e14b5dfd36bbb",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/energy-efficiency/massachusetts-senate-preserves-energy-efficiency-funding",
-        "imageProxy": "https://images.weserv.nl/?url=img.canarymedia.com%2Fcontent%2Fuploads%2FMassachusetts-statehouse-golden-dome_GettyImages-2264475594.jpg%3Fauto%3Dcompress%252Cformat%26crop%3Dfocalpoint%26fit%3Dcrop%26fp-x%3D0.5%26fp-y%3D0.5%26h%3D630%26q%3D82%26w%3D1200%26s%3D45304341fb72fc57b59e14b5dfd36bbb&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-06-25T21-19_5",
-        "rank": 5,
-        "title": "Repositioning retail for the AI era",
-        "category": "ai",
-        "summary": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/MITTRIInfosysMacys-social-1200px.png?resize=1200,600",
-        "source": "MIT Technology Review",
-        "sourceUrl": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
-        "imageProxy": "https://images.weserv.nl/?url=wp.technologyreview.com%2Fwp-content%2Fuploads%2F2026%2F05%2FMITTRIInfosysMacys-social-1200px.png%3Fresize%3D1200%2C600&w=640&h=400&fit=cover&we&output=jpg"
       }
     ]
   }

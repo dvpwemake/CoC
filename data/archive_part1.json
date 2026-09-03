@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-08-13T20-26",
+    "scannedAt": "2026-08-13T20:26:16.594Z",
+    "items": [
+      {
+        "id": "auto_2026-08-13T20-26_1",
+        "rank": 1,
+        "title": "This school-friendly laptop from HP is $300 off",
+        "category": "general",
+        "summary": "With memory prices still high and showing no signs of dropping, we’re always happy to find a good deal on a budget-friendly system with an adequate amount of RAM. Best Buy has the HP OmniBook X Flip discounted by $300,…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/HP-Omnibook-X-Flip-roundup.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "sourceUrl": "https://www.theverge.com/gadgets/979699/hp-omnibook-x-flip-pixel-buds-pro-2-deal-sale",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-13T20-26_2",
+        "rank": 2,
+        "title": "An Ethereal Evening at Rønnebæksholm Kunsthal",
+        "category": "art",
+        "summary": "“A litham-wearing orchestra begins to play with tenderness”",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/08/haloplus-feat-img-real.jpg?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/columns/an-ethereal-evening-at-ronnebaeksholm-kunsthal-postcard-1234756970/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-13T20-26_3",
+        "rank": 3,
+        "title": "NASA’s 737 Reveals New Paint",
+        "category": "space",
+        "summary": "NASA’s 737 aircraft was painted this week in Oklahoma as it progresses with modifications for use as a reduced gravity test aircraft for the agency. NASA’s Armstrong Flight Research Center in Edwards, California, took…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/08/20260813-nasa-737paint.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/image-article/nasas-737-reveals-new-paint/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-13T20-26_4",
+        "rank": 4,
+        "title": "7 Best Free People Finder Sites in 2026 – No Subscription Required",
+        "category": "robotics",
+        "summary": "“Free people search” is the most abused phrase on the internet. The standard experience: you type a name, watch a fake progress bar “scan millions of records” for three minutes, and land on a checkout page. The search…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/people-finder-image-1.jpg",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/13/7-best-free-people-finder-sites-in-2026-no-subscription-required/104135/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-13T20-26_5",
+        "rank": 5,
+        "title": "STAT+: Kennedy heads west, slams Becerra",
+        "category": "biotech",
+        "summary": "The health secretary headed to California to lay out the government's new approach to addiction treatment.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/02/GettyImages-2255260434-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/08/13/rfk-california-tour-hhs-addiction-treatment-plan-dc-diagnosis/?utm_campaign=rss",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "editorial_2026-08-12",
     "scannedAt": "2026-08-13T03:46:02.377Z",
     "kind": "editorial_archive",
@@ -1414,67 +1475,6 @@
         "isEditorialArchive": true,
         "publishDate": "2026-07-25",
         "authorName": "Dr. Wallace Lynch"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-07-25T20-37",
-    "scannedAt": "2026-07-25T20:37:31.736Z",
-    "items": [
-      {
-        "id": "auto_2026-07-25T20-37_1",
-        "rank": 1,
-        "title": "Alzheimer Genetic Risk Scores Do Not Explain SuperAging",
-        "category": "neuroscience",
-        "summary": "A new study demonstrates that SuperAgers cannot be distinguished from cognitively average peers by APOE status or polygenic risk scores.",
-        "image": "https://neurosciencenews.com/files/2026/07/alzhimers-genetics-superagers-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/alzheimer-genetic-superager-memory-31129/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-07-25T20-37_2",
-        "rank": 2,
-        "title": "The Universe can outrun light without breaking Einstein’s rules",
-        "category": "space",
-        "summary": "Cosmic expansion allows distant galaxies to move away faster than light, while still letting us see ancient light they emitted when they were much closer. Eventually, accelerating expansion will push nearly every galaxy…",
-        "image": "https://www.sciencedaily.com/images/1920/universe-expansion-funnel-evolution-timeline.webp",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/07/260724061444.htm",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-07-25T20-37_3",
-        "rank": 3,
-        "title": "Christopher Nolan, David Hockney, Luis Manuel Otero Alcántara",
-        "category": "art",
-        "summary": "A political prisoner is freed, a Homerist reviews Nolan’s “The Odyssey,” and do we have to pretend to like David Hockney’s iPad paintings?",
-        "image": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/07/odyssey.jpg",
-        "source": "Hyperallergic",
-        "sourceUrl": "https://hyperallergic.com/christopher-nolan-david-hockney-luis-manuel-otero-alcantara/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-07-25T20-37_4",
-        "rank": 4,
-        "title": "Duh, solar power doesn't work at night — but it excels during the day",
-        "category": "energy",
-        "summary": "Yesterday, the Department of Energy took to social media to try and make a scandal out of a well-known fact: Solar panels do not generate power at night. It’s an old and lazy swipe that critics of renewable energy love…",
-        "image": "https://img.canarymedia.com/content/uploads/panels-sun-getty.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=50eb58f573f1cb6a2f4b673098529eb7",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/solar/doe-solar-power-day-night-texas",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-07-25T20-37_5",
-        "rank": 5,
-        "title": "Gemini 3.6 Flash and 3.5 Flash-Lite now available through official API for developers and AI agents",
-        "category": "ai",
-        "summary": "Model ecosystem expansion: Gemini 3.6 Flash and Gemini 3.5 Flash-Lite via official API access.",
-        "image": "https://pbs.twimg.com/media/HN1SnDCWEAA2hmA.jpg",
-        "source": "X · @web3l0var",
-        "sourceUrl": "https://x.com/web3l0var/status/2079909448219271368",
-        "fromX": true
       }
     ]
   }

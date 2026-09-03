@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-09-03T01-35",
+    "scannedAt": "2026-09-03T01:35:07.473Z",
+    "items": [
+      {
+        "id": "auto_2026-09-03T01-35_1",
+        "rank": 1,
+        "title": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
+        "category": "general",
+        "summary": "The company is reducing pressure on workers to use artificial intelligence tools while encouraging them to experiment with Hatch, its most advanced AI project yet.",
+        "image": "https://media.wired.com/photos/6a98bc1a652ea8849cb4e3a3/master/pass/Meta-Stops-Forcing-Employees-To-Use-AI-Business-1461790372.jpg",
+        "source": "WIRED",
+        "sourceUrl": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-03T01-35_2",
+        "rank": 2,
+        "title": "Leader of the Art Gallery of Ontario will step down after a decade at the helm",
+        "category": "art",
+        "summary": "During Stephan Jost’s tenure, the leading art museum in Toronto has launched construction of a new contemporary art gallery, added more than 18,000 pieces to its collection and navigated plenty of drama",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/f593846e0c7e1b5584d4c4256a9a3449bf9e5058-2000x2000.jpg?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/09/02/art-gallery-ontario-director-stephan-jost-stepping-down",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-03T01-35_3",
+        "rank": 3,
+        "title": "Interstellar solar sails hit a strange problem at 75% of light speed",
+        "category": "space",
+        "summary": "Solar sails pushed by powerful lasers could reach incredible speeds, but relativity may eventually make the light itself work against them. At around 75% of the speed of light, scattered photons can begin creating drag,…",
+        "image": "https://www.sciencedaily.com/images/1920/diffractive-solar-sail.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260831015157.htm",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-03T01-35_4",
+        "rank": 4,
+        "title": "Money problems may age your brain faster",
+        "category": "neuroscience",
+        "summary": "Persistent financial hardship in early and middle adulthood was linked to poorer thinking skills by the 50s and more signs of brain aging later in life. Researchers say years of chronic stress and financial worry may…",
+        "image": "https://www.sciencedaily.com/images/1920/brain-intelligence-money-cash.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260831015154.htm",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-03T01-35_5",
+        "rank": 5,
+        "title": "Doctors groups release vaccination guidelines ahead of respiratory illness season",
+        "category": "biotech",
+        "summary": "Ahead of respiratory illness season, professional organizations have issued guidance on flu, Covid, and RSV vaccines.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/08/AdobeStock_578977705-1024x576.jpeg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/09/02/vaccine-integrity-project-fall-winter-guidelines-rsv-covid-flu-shots/?utm_campaign=rss",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-09-02T22-02",
     "scannedAt": "2026-09-02T22:02:46.823Z",
     "items": [
