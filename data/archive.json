@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-09-03T08-19",
-    "scannedAt": "2026-09-03T08:19:11.868Z",
+    "batchId": "auto_2026-09-03T15-16",
+    "scannedAt": "2026-09-03T15:16:41.155Z",
     "items": [
       {
-        "id": "auto_2026-09-03T08-19_1",
+        "id": "auto_2026-09-03T15-16_1",
         "rank": 1,
-        "title": "Belkin’s first trackers come ready to attach to your gear.",
+        "title": "Why the Courts Are Hesitant to Punish Tech Giants Like Meta and Google",
         "category": "general",
-        "summary": "After selling accessories for attaching Apple's AirTags to everything from keys to backpacks, Belkin is introducing its own trackers that work with either Apple's Find My or Google's Find Hub tracking networks. In…",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/belkintracker3.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
-        "source": "The Verge",
-        "sourceUrl": "https://www.theverge.com/tech/987565/belkin-tracker-apple-find-my-google-find-hub-surefind-wallet-card-spot-tag",
+        "summary": "After finding antitrust violations, federal courts have been reluctant to impose harsh sanctions. They fear meddling in markets where technology is racing ahead.",
+        "image": "https://static01.nyt.com/images/2026/02/13/multimedia/00antitrust-courts-ztvc/00antitrust-courts-ztvc-mediumSquareAt3X.jpg",
+        "source": "NYT Technology",
+        "sourceUrl": "https://www.nytimes.com/2026/09/03/business/google-antitrust-ad-tech-remedies-analysis.html",
         "fromX": false
       },
       {
-        "id": "auto_2026-09-03T08-19_2",
+        "id": "auto_2026-09-03T15-16_2",
         "rank": 2,
-        "title": "The universe has plenty of hydrogen. So why is star formation collapsing?",
-        "category": "space",
-        "summary": "Star formation across the universe has fallen dramatically over the past 4.5 billion years, but astronomers have uncovered a surprising twist: the supply of neutral hydrogen, a key ingredient for making stars, has…",
-        "image": "https://www.sciencedaily.com/images/1920/fast-and-desi-reshape-our-view-of-cosmic-evolution.webp",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260902234442.htm",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-03T08-19_3",
-        "rank": 3,
-        "title": "New York’s big new bet on nuclear energy",
-        "category": "energy",
-        "summary": "When Gov. Kathy Hochul took office in 2021, New York was in the middle of a complicated energy transition. Albany had passed one of the nation’s most ambitious decarbonization laws only two years earlier, yet the state…",
-        "image": "https://img.canarymedia.com/content/uploads/Kathy-Hochul-July-2022_GettyImages-1241755017.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=f6c6608395b7b446e46a5a2b8dbe7d5e",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/nuclear/new-york-big-new-bet-on-nuclear-energy",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-03T08-19_4",
-        "rank": 4,
-        "title": "Why are drug overdose deaths declining?",
+        "title": "STAT+: Seattle scientists launch $95 million AI biology effort",
         "category": "biotech",
-        "summary": "Naloxone and harm reduction measures may be helping to curb drug overdose deaths, a new report says.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/09/GettyImages-1236946488-1024x576.jpg",
+        "summary": "Ultragenyx drug fails pivotal Phase 3, FDA's success at regulating unproven stem cells, and other biotech news",
+        "image": "https://www.statnews.com/wp-content/uploads/2025/01/photo-illo-AI-Drug-Hype-2-1024x576.jpg",
         "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/09/03/drug-overdose-deaths-down-sharply-commonwealth-fund-study/?utm_campaign=rss",
+        "sourceUrl": "https://www.statnews.com/2026/09/03/biotech-news-seattle-scientists-launch-95-million-ai-biology-effort/?utm_campaign=rss",
         "fromX": false
       },
       {
-        "id": "auto_2026-09-03T08-19_5",
+        "id": "auto_2026-09-03T15-16_3",
+        "rank": 3,
+        "title": "75,000 Patterned Paper Kites Cascade in Jacob Hashimoto's Largest-Ever Installation",
+        "category": "art",
+        "summary": "Hashimoto’s elaborate 'Giant Arc' installation is a vibrant \"cloud canopy\" at SFMOMA. Do stories and artists like this matter to you? Become a Colossal Member today and support independent arts publishing for as little…",
+        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/09/hashimoto-5.jpg",
+        "source": "Colossal",
+        "sourceUrl": "https://www.thisiscolossal.com/2026/09/jacob-hashimoto-giant-arc-sfmoma-installation-exhibition/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-03T15-16_4",
+        "rank": 4,
+        "title": "Galaxia Takes Next Step in Earth Observation with purchase of Simera Sense Hyperspectral Imager",
+        "category": "space",
+        "summary": "Leuven, Belgium & Halifax, Canada – 3 September 2026 – European optical payload provider Simera Sense today announced that Canadian space technology company Galaxia has acquired a HyperScape100 hyperspectral imaging […]…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/09/Orange-square-scaled.png?fit=1024%2C1024&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/galaxia-takes-next-step-in-earth-observation-with-purchase-of-simera-sense-hyperspectral-imager/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-03T15-16_5",
         "rank": 5,
-        "title": "ADHD may have a surprising creative advantage",
-        "category": "neuroscience",
-        "summary": "Some of the attention patterns that make ADHD challenging may also help spark creativity by allowing the brain to explore more ideas and unexpected connections. Researchers think creative activities could potentially…",
-        "image": "https://www.sciencedaily.com/images/1920/colorful-creativity-brain-explosion.webp",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260831015150.htm",
+        "title": "Protecting Dynamic Industrial Robot Cable Carriers",
+        "category": "robotics",
+        "summary": "This article is brought to you by Tsubaki KabelSchlepp . In modern automated manufacturing, six-axis articulated robots perform high-speed, multidirectional maneuvers under demanding operational cycles. However, as…",
+        "image": "https://spectrum.ieee.org/media-library/industrial-robotic-arm-with-cable-management-system-and-flexible-energy-chains.jpg?id=67633840&width=980",
+        "source": "IEEE Spectrum",
+        "sourceUrl": "https://spectrum.ieee.org/industrial-robot-cable-carrier-protection",
         "fromX": false
       }
     ]
