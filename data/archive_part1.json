@@ -1,5 +1,25 @@
 [
   {
+    "batchId": "editorial_2026-08-14",
+    "scannedAt": "2026-08-15T03:27:27.402Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-08-14",
+        "rank": 0,
+        "title": "What the replica can open, and what the skull cannot keep sealed",
+        "category": "editorial",
+        "summary": "Convergence of the locked original and the living crossing",
+        "image": "https://www.statnews.com/wp-content/uploads/2024/06/AP24158651812213-1024x576.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-14.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-08-14",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-08-14T20-18",
     "scannedAt": "2026-08-14T20:18:21.262Z",
     "items": [
@@ -1515,26 +1535,6 @@
         "sourceUrl": "https://chronicleofconvergence.com/e/2026-07-26.html",
         "isEditorialArchive": true,
         "publishDate": "2026-07-26",
-        "authorName": "Dr. Wallace Lynch"
-      }
-    ]
-  },
-  {
-    "batchId": "editorial_2026-07-25",
-    "scannedAt": "2026-07-26T00:19:26.201Z",
-    "kind": "editorial_archive",
-    "items": [
-      {
-        "id": "editorial_2026-07-25",
-        "rank": 0,
-        "title": "Ancient Light",
-        "category": "editorial",
-        "summary": "What expands faster than our scores can explain",
-        "image": "https://images-assets.nasa.gov/image/PIA15416/PIA15416~medium.jpg",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-07-25.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-07-25",
         "authorName": "Dr. Wallace Lynch"
       }
     ]

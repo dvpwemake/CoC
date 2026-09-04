@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-09-04T01-28",
+    "scannedAt": "2026-09-04T01:28:59.079Z",
+    "items": [
+      {
+        "id": "auto_2026-09-04T01-28_1",
+        "rank": 1,
+        "title": "Wikipedia Workers Unionize for the First Time",
+        "category": "general",
+        "summary": "More than 200 people in roles such as engineering, finance, and communications will now be represented by the Communication Workers of America.",
+        "image": "https://media.wired.com/photos/6a9a07338aae3f350260c9af/master/pass/Wikipedia-Workers-Vote-on-Whether-to-Unionize-Business.jpg",
+        "source": "WIRED",
+        "sourceUrl": "https://www.wired.com/story/wikipedia-workers-vote-on-whether-to-unionize/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-04T01-28_2",
+        "rank": 2,
+        "title": "Institute of Contemporary Art San Diego Facing Financial Strain and Staffer Pushback",
+        "category": "art",
+        "summary": "Tension is boiling over at San Diego's Institute of Contemporary Art due to a spate of recent firings, exhibition closures, and budgetary concerns, according to reports. Over the course of late July through early…",
+        "image": "https://www.artforum.com/wp-content/uploads/2021/05/article00_large-97.jpg?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/news/ica-san-diego-facing-financial-strain-1234758811/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-04T01-28_3",
+        "rank": 3,
+        "title": "STAT+: Recipients of gene-edited pig kidneys successfully receive human organs",
+        "category": "biotech",
+        "summary": "Two recipients of gene-edited pig kidneys have successfully received human organs, a milestone in the wider effort to advance xenografts.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/09/AP23227774736501-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/09/03/recipients-of-gene-edited-pig-kidneys-receive-human-organs/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-04T01-28_4",
+        "rank": 4,
+        "title": "Galaxia Takes Next Step in Earth Observation with purchase of Simera Sense Hyperspectral Imager",
+        "category": "space",
+        "summary": "Leuven, Belgium & Halifax, Canada – 3 September 2026 – European optical payload provider Simera Sense today announced that Canadian space technology company Galaxia has acquired a HyperScape100 hyperspectral imaging […]…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/09/Orange-square-scaled.png?fit=1024%2C1024&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/galaxia-takes-next-step-in-earth-observation-with-purchase-of-simera-sense-hyperspectral-imager/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-04T01-28_5",
+        "rank": 5,
+        "title": "Scientists just overturned a century-old physics assumption",
+        "category": "energy",
+        "summary": "Scientists at Carnegie Mellon University have discovered an unexpected form of the Hall effect, overturning the long-held assumption that this electrical response only appears when a magnetic field points perpendicular…",
+        "image": "https://www.sciencedaily.com/images/1920/carnegie-mellon-hall-effect-device.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260901010659.htm",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-09-03T21-57",
     "scannedAt": "2026-09-03T21:57:01.114Z",
     "items": [
@@ -1516,26 +1577,6 @@
         "source": "STAT News",
         "sourceUrl": "https://www.statnews.com/2026/08/14/luigi-mangione-federal-charges-guilty-plea-killing-of-unitedhealthcare-ceo-brian-thompson/?utm_campaign=rss",
         "fromX": false
-      }
-    ]
-  },
-  {
-    "batchId": "editorial_2026-08-14",
-    "scannedAt": "2026-08-15T03:27:27.402Z",
-    "kind": "editorial_archive",
-    "items": [
-      {
-        "id": "editorial_2026-08-14",
-        "rank": 0,
-        "title": "What the replica can open, and what the skull cannot keep sealed",
-        "category": "editorial",
-        "summary": "Convergence of the locked original and the living crossing",
-        "image": "https://www.statnews.com/wp-content/uploads/2024/06/AP24158651812213-1024x576.jpg",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-14.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-08-14",
-        "authorName": "Dr. Wallace Lynch"
       }
     ]
   }
