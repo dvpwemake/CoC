@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-09-04T01-28",
-    "scannedAt": "2026-09-04T01:28:59.079Z",
+    "batchId": "auto_2026-09-04T08-15",
+    "scannedAt": "2026-09-04T08:15:24.101Z",
     "items": [
       {
-        "id": "auto_2026-09-04T01-28_1",
+        "id": "auto_2026-09-04T08-15_1",
         "rank": 1,
-        "title": "Wikipedia Workers Unionize for the First Time",
-        "category": "general",
-        "summary": "More than 200 people in roles such as engineering, finance, and communications will now be represented by the Communication Workers of America.",
-        "image": "https://media.wired.com/photos/6a9a07338aae3f350260c9af/master/pass/Wikipedia-Workers-Vote-on-Whether-to-Unionize-Business.jpg",
-        "source": "WIRED",
-        "sourceUrl": "https://www.wired.com/story/wikipedia-workers-vote-on-whether-to-unionize/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-04T01-28_2",
-        "rank": 2,
-        "title": "Institute of Contemporary Art San Diego Facing Financial Strain and Staffer Pushback",
-        "category": "art",
-        "summary": "Tension is boiling over at San Diego's Institute of Contemporary Art due to a spate of recent firings, exhibition closures, and budgetary concerns, according to reports. Over the course of late July through early…",
-        "image": "https://www.artforum.com/wp-content/uploads/2021/05/article00_large-97.jpg?w=650",
-        "source": "Artforum",
-        "sourceUrl": "https://www.artforum.com/news/ica-san-diego-facing-financial-strain-1234758811/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-04T01-28_3",
-        "rank": 3,
-        "title": "STAT+: Recipients of gene-edited pig kidneys successfully receive human organs",
-        "category": "biotech",
-        "summary": "Two recipients of gene-edited pig kidneys have successfully received human organs, a milestone in the wider effort to advance xenografts.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/09/AP23227774736501-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/09/03/recipients-of-gene-edited-pig-kidneys-receive-human-organs/?utm_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-04T01-28_4",
-        "rank": 4,
-        "title": "Galaxia Takes Next Step in Earth Observation with purchase of Simera Sense Hyperspectral Imager",
-        "category": "space",
-        "summary": "Leuven, Belgium & Halifax, Canada – 3 September 2026 – European optical payload provider Simera Sense today announced that Canadian space technology company Galaxia has acquired a HyperScape100 hyperspectral imaging […]…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/09/Orange-square-scaled.png?fit=1024%2C1024&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/galaxia-takes-next-step-in-earth-observation-with-purchase-of-simera-sense-hyperspectral-imager/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-04T01-28_5",
-        "rank": 5,
-        "title": "Scientists just overturned a century-old physics assumption",
+        "title": "Solar-plus-storage is having a global growth spurt",
         "category": "energy",
-        "summary": "Scientists at Carnegie Mellon University have discovered an unexpected form of the Hall effect, overturning the long-held assumption that this electrical response only appears when a magnetic field points perpendicular…",
-        "image": "https://www.sciencedaily.com/images/1920/carnegie-mellon-hall-effect-device.webp",
+        "summary": "See more from Canary Media’s ​“Chart of the Week” column . Peanut butter and jelly. Batman and Robin. Solar and storage. Some things just go together, and that’s why investors around the world are pouring more and more…",
+        "image": "https://img.canarymedia.com/content/uploads/COTW-colocated-solar.png?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=80&w=1200&s=f8c766b11c96b4b8a079567ff8eeb187",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/solar/solar-plus-storage-global-growth-spurt",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-04T08-15_2",
+        "rank": 2,
+        "title": "Lexar’s Muse is an ultra-slim portable SSD that’s less than 4mm thick",
+        "category": "general",
+        "summary": "Following the lead of companies like Xteink, Lexar is the latest to sacrifice a USB-C port in the pursuit of slimming down its hardware. When the Lexar Muse Ultra-Slim Portable SSD launches later this year in 512GB and…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/lexarmuse1.jpg?quality=90&strip=all&crop=0,10.766205118665,100,78.46758976267",
+        "source": "The Verge",
+        "sourceUrl": "https://www.theverge.com/tech/986960/lexar-muse-ultra-thin-ssd-storage-drive-proprietary-cable",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-04T08-15_3",
+        "rank": 3,
+        "title": "Atlanta’s High Museum of Art Will Celebrate Centennial With Over 200 New Acquisitions",
+        "category": "art",
+        "summary": "This fall, Atlanta’s High Museum of Art will commemorate its centennial with the unveiling of significant recent acquisitions, some of which will be displayed in its American and African Art collection galleries. These…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/09/High_Museum_of_Art_8215188177.jpg?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/news/high-museum-celebrates-centennial-with-new-acquisitions-1234758770/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-04T08-15_4",
+        "rank": 4,
+        "title": "‘Tactical athletes’ get new guidance for cardiovascular fitness",
+        "category": "biotech",
+        "summary": "Tactical athletes, a category of people first recognized in the early 2000s, also need distinct kinds of health care.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/09/GettyImages-2228259906-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/09/03/tactical-athlete-health-risks-new-cardiovascular-guidelines-police-firefighters/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-04T08-15_5",
+        "rank": 5,
+        "title": "NASA scientists discover a giant 10-sided pattern on Saturn",
+        "category": "space",
+        "summary": "A huge 10-sided atmospheric pattern has appeared around Saturn’s south pole, giving the planet a surprising counterpart to its famous northern hexagon. Hubble data suggest the strange decagon only began emerging in the…",
+        "image": "https://www.sciencedaily.com/images/1920/decagon-encircling-saturns-south-pole.webp",
         "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260901010659.htm",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260903064229.htm",
         "fromX": false
       }
     ]
