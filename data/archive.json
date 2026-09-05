@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-09-05T01-30",
+    "scannedAt": "2026-09-05T01:30:32.016Z",
+    "items": [
+      {
+        "id": "auto_2026-09-05T01-30_1",
+        "rank": 1,
+        "title": "Tech Now",
+        "category": "general",
+        "summary": "Laura Cress has the highlights from Gamescom, the biggest gaming convention in the world.",
+        "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p7zp18.jpg",
+        "source": "BBC Technology",
+        "sourceUrl": "https://www.bbc.co.uk/iplayer/episode/m0031d1p?at_medium=RSS&at_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-05T01-30_2",
+        "rank": 2,
+        "title": "China Withdraws from Gwangju Biennale Over Taiwan Pavilion",
+        "category": "art",
+        "summary": "On Thursday, China announced that it would withdraw its pavilion from the forthcoming Gwangju Biennale, You Must Change Your Life, over claims that the festival was misrepresenting Taiwan as an autonomous nation through…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/08/taiwan-pavilion.jpg?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/news/china-withdraws-from-gwangju-biennale-1234758880/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-05T01-30_3",
+        "rank": 3,
+        "title": "NASA Hosts Virtual Artemis Webinar for Blind, Low-Vision Community",
+        "category": "space",
+        "summary": "NASA will host a virtual webinar at 2 p.m. EDT on Friday, Oct. 2, titled “The RS-25 Engine and the Future of Artemis Missions: An Accessible Webinar for the Blind and Low-Vision Community.” This webinar is open to the…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/09/blindlowvision.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/general/nasa-hosts-virtual-artemis-webinar-for-blind-low-vision-community/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-05T01-30_4",
+        "rank": 4,
+        "title": "STAT+: Top Boston hospitals clash over Medicare Advantage network after split",
+        "category": "biotech",
+        "summary": "First, Mass General Brigham split with Dana-Farber. Now its Medicare Advantage plan is dropping the cancer hospital.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/09/CEASOAV62YN32HCQ3PQMDZCAIE-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/09/04/mass-general-brigham-medicare-advantage-network-cancer-treatment-dana-farber/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-05T01-30_5",
+        "rank": 5,
+        "title": "Solar is now bigger than coal in China — and yet still way behind",
+        "category": "energy",
+        "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter. Sign up to get it every Friday. Solar is beating coal in China. Sorta. But also not at all. Let me explain. An eye-popping new chart made the…",
+        "image": "https://img.canarymedia.com/content/uploads/Huaibei-China-solar-technicians_GettyImages-2287938874.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=2869de1e2fe5a2c10c31527e568b6751",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/solar/did-solar-beat-coal-china",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-09-04T21-53",
     "scannedAt": "2026-09-04T21:53:05.640Z",
     "items": [
