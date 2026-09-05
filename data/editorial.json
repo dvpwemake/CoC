@@ -3,10 +3,11 @@
     "id": "ed_2026-09-05",
     "publishDate": "2026-09-05",
     "status": "published",
-    "createdAt": "2026-09-05T23:08:27.768Z",
-    "updatedAt": "2026-09-05T23:08:27.803Z",
+    "updatedAt": "2026-09-05T23:39:15.654Z",
     "title": "Cropped from the frame",
     "dek": "Lucas opens to the press. Dana-Farber is off the plan.",
+    "authorName": "Dr. Wallace Lynch",
+    "authorTitle": "Editor in Chief",
     "body": "The Lucas Museum of Narrative Art opened to the press in Los Angeles this week. George Lucas and Mellody Hobson built it for stories. The reviews split. Some saw a house of plot. Some saw a brand with a roof.\n\nOn Friday, September 4, 2026, we hold that opening to one pressure: who still gets into the story, and who is cropped from the frame.\n\nMass General Brigham had already split with Dana-Farber. Now its Medicare Advantage plan is dropping the cancer hospital. Ionis won FDA approval for Zanvastro, the first disease-modifying treatment for Alexander disease, a rare and fatal neurological disorder. The same week Novartis said pelacarsen, a closely watched heart drug, failed a pivotal study. A first. A miss. A network that lets a cancer hospital go.\n\nGeles Cabrera, who forged a sculptural language of the human figure in Mexico, has died at 100. In New York, Erin Milez's Everything the Light Touches opens September 10 at Monya Rowe Gallery. She paints people packed onto beaches and subways, faces cropped, devices on, nobody speaking. She left New York for Seattle and started counting how close you can sit without looking up.\n\nNASA will host a virtual Artemis webinar for the blind and low-vision community on the RS-25 engine. IEEE Spectrum describes electronics-covered cockroaches with spring-loaded needles, meant to reach people under rubble. The Verge points to field recordings you can work to, sleep to, or listen to as if they were the room. Audacity 4 rebuilt the world's most popular audio editor after a logo fight. Plasmalogens from edible sea squirts improved memory and synapses in aged mice. Mice. Not a prescription.\n\nA museum for narrative. A painting of people who do not look. Convergence is not the opening. It is whether the plan still holds the person under the rubble, and the one the network dropped.",
     "paragraphs": [
       "The Lucas Museum of Narrative Art opened to the press in Los Angeles this week. George Lucas and Mellody Hobson built it for stories. The reviews split. Some saw a house of plot. Some saw a brand with a roof.",
@@ -17,99 +18,109 @@
       "A museum for narrative. A painting of people who do not look. Convergence is not the opening. It is whether the plan still holds the person under the rubble, and the one the network dropped."
     ],
     "wordCount": 309,
-    "authorName": "Dr. Wallace Lynch",
-    "authorTitle": "Editor in Chief",
-    "heroImage": "https://www.thisiscolossal.com/wp-content/uploads/2026/09/milez-7.jpg",
-    "heroCredit": "Erin Milez, “Pick Your Plot.” Courtesy the artist and Monya Rowe Gallery",
-    "heroSource": "Colossal",
-    "heroSourceUrl": "https://www.thisiscolossal.com/2026/09/erin-milez-everything-the-light-touches-city-paintings/",
+    "heroImage": "https://www.artforum.com/wp-content/uploads/2026/09/GettyImages-2293233681.jpg?w=650",
+    "heroCredit": "Long-Awaited Lucas Museum Receives Mixed Reviews Ahead of Opening",
+    "heroSource": "Artforum",
+    "heroSourceUrl": "https://www.artforum.com/news/lucas-museum-receives-mixed-reviews-ahead-of-opening-1234758846/",
     "headlines": [
       {
         "title": "Long-Awaited Lucas Museum Receives Mixed Reviews Ahead of Opening",
         "source": "Artforum",
         "category": "art",
         "sourceUrl": "https://www.artforum.com/news/lucas-museum-receives-mixed-reviews-ahead-of-opening-1234758846/",
-        "summary": "Los Angeles's Lucas Museum of Narrative Art opened to the press, and the resulting opinions are sharply divided."
+        "summary": "Los Angeles's Lucas Museum of Narrative Art opened to the press earlier this week, and the resulting opinions are sharply divided. Founded by Star Wars creator George Lucas and his wife, investor Mellody Hobson, and…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/09/GettyImages-2293233681.jpg?w=650"
       },
       {
-        "title": "Top Boston hospitals clash over Medicare Advantage network after split",
+        "title": "STAT+: Top Boston hospitals clash over Medicare Advantage network after split",
         "source": "STAT News",
         "category": "biotech",
-        "sourceUrl": "https://www.statnews.com/2026/09/04/mass-general-brigham-medicare-advantage-network-cancer-treatment-dana-farber/",
-        "summary": "Mass General Brigham split with Dana-Farber. Now its Medicare Advantage plan is dropping the cancer hospital."
+        "sourceUrl": "https://www.statnews.com/2026/09/04/mass-general-brigham-medicare-advantage-network-cancer-treatment-dana-farber/?utm_campaign=rss",
+        "summary": "First, Mass General Brigham split with Dana-Farber. Now its Medicare Advantage plan is dropping the cancer hospital.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/09/CEASOAV62YN32HCQ3PQMDZCAIE-1024x576.jpg"
       },
       {
         "title": "Explore the globe in field recordings",
         "source": "The Verge",
         "category": "general",
         "sourceUrl": "https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings",
-        "summary": "Field recordings as ambient work, sleep, and active listening."
+        "summary": "I love field recordings. I love making them. I love them when they're incorporated into my ambient music. They're great background noise for working or sleeping. But they're also great for active listening, focusing in…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-05-at-5.23.38-PM.png?quality=90&strip=all&crop=0%2C1.5344138631358%2C100%2C96.931172273728&w=1200"
       },
       {
         "title": "Cyborg Roaches Can Stab You With Needles",
         "source": "IEEE Spectrum",
         "category": "robotics",
         "sourceUrl": "https://spectrum.ieee.org/cyborg-rescue-roach",
-        "summary": "Electronics-covered cockroaches with spring-loaded needles designed to reach people under rubble."
+        "summary": "Imagine you are trapped under rubble after an earthquake and you see an electronics-covered cockroach with a spring-loaded needle on its back scuttling toward you. Although the sight might be unnerving, to say the…",
+        "image": "https://spectrum.ieee.org/media-library/large-brown-cockroach-fitted-with-an-electronic-device-and-wires-on-its-back.jpg?id=67724302&width=980"
       },
       {
         "title": "NASA Hosts Virtual Artemis Webinar for Blind, Low-Vision Community",
         "source": "NASA",
         "category": "space",
         "sourceUrl": "https://www.nasa.gov/general/nasa-hosts-virtual-artemis-webinar-for-blind-low-vision-community/",
-        "summary": "Accessible webinar on the RS-25 engine and the future of Artemis missions."
+        "summary": "NASA will host a virtual webinar at 2 p.m. EDT on Friday, Oct. 2, titled “The RS-25 Engine and the Future of Artemis Missions: An Accessible Webinar for the Blind and Low-Vision Community.” This webinar is open to the…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/09/blindlowvision.jpg"
       },
       {
         "title": "Geles Cabrera, the pioneering Mexican sculptor, has died, aged 100",
         "source": "The Art Newspaper",
         "category": "art",
         "sourceUrl": "https://www.theartnewspaper.com/2026/09/04/geles-cabrera-mexican-sculptor-obituary",
-        "summary": "Through her sinuous approach to the human figure, Cabrera forged a distinctive sculptural language."
+        "summary": "Through her sinuous approach to the human figure, Cabrera forged a distinctive sculptural language and challenged conventions",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/a785817dbcb8959225a17ebfbe025877af450722-2000x3041.jpg?w=140"
       },
       {
-        "title": "Novartis’ experimental cardiovascular drug fails a pivotal study",
+        "title": "STAT+: Novartis’ experimental cardiovascular drug fails a pivotal study",
         "source": "STAT News",
         "category": "biotech",
-        "sourceUrl": "https://www.statnews.com/2026/09/04/novartis-therapy-pelacarsen-fails-cardiovascular-trial/",
-        "summary": "Pelacarsen failed in a pivotal study, a major blow to Novartis."
+        "sourceUrl": "https://www.statnews.com/2026/09/04/novartis-therapy-pelacarsen-fails-cardiovascular-trial/?utm_campaign=rss",
+        "summary": "A closely watched cardiovascular drug from Novartis failed in a pivotal study, the company said Friday, a major blow to the firm.",
+        "image": "https://www.statnews.com/wp-content/uploads/2018/10/STAT_Novartis02-1024x576.jpg"
       },
       {
         "title": "Audacity 4 is a complete revamp of the ‘world’s most popular’ audio editor",
         "source": "The Verge",
         "category": "general",
         "sourceUrl": "https://www.theverge.com/tech/990658/audacity-4-update-audio-editing",
-        "summary": "Audacity 4 is a complete rebuild after a logo controversy last year."
+        "summary": "Audacity 4 has been in the works for some time, and had its own mini controversy last year when an unfortunate redesigned logo started making the rounds. The final version of the new icon isn't nearly as bad as the…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Audacity-4.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
       },
       {
         "title": "Stanford scientists discover a seafood that can reverse signs of aging",
         "source": "ScienceDaily",
         "category": "neuroscience",
         "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260902234518.htm",
-        "summary": "Plasmalogens from edible sea squirts reversed several signs of aging in older mice."
+        "summary": "A substance found in edible sea squirts appeared to reverse several signs of aging in older mice. Plasmalogen supplements improved memory and learning, strengthened connections between brain cells, reduced inflammation,…",
+        "image": "https://www.sciencedaily.com/images/1920/longevity-anti-aging-beauty-skincare.webp"
       },
       {
         "title": "NASA Ames Fire Department Aircraft Firefighting Training",
         "source": "NASA",
         "category": "space",
         "sourceUrl": "https://www.nasa.gov/news-release/nasa-ames-fire-department-aircraft-firefighting-training/",
-        "summary": "Training on Moffett Federal Airfield beginning Tuesday."
+        "summary": "The fire department at NASA’s Ames Research Center in California’s Silicon Valley will perform training on the Moffett Federal Airfield beginning Tuesday, Sept. 8 through Friday, Sept. 11. The training will involve the…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/04/nasa-meatball-1.webp"
       },
       {
         "title": "Denizens of a Crowded City Populate Erin Milez's Dense Paintings",
         "source": "Colossal",
         "category": "art",
         "sourceUrl": "https://www.thisiscolossal.com/2026/09/erin-milez-everything-the-light-touches-city-paintings/",
-        "summary": "Milez's new body of work goes on view in Everything the Light Touches at Monya Rowe Gallery."
+        "summary": "Milez's new body of work goes on view this month in 'Everything the Light Touches' at Monya Rowe Gallery. Do stories and artists like this matter to you? Become a Colossal Member today and support independent arts…",
+        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/09/milez-7.jpg"
       },
       {
-        "title": "Ionis wins FDA approval for first drug for Alexander disease",
+        "title": "STAT+: Ionis wins FDA approval for first drug for Alexander disease, a rare and deadly neurological disorder",
         "source": "STAT News",
         "category": "biotech",
-        "sourceUrl": "https://www.statnews.com/2026/09/03/ionis-fda-approval-zanvastro-alexander-disease/",
-        "summary": "Zanvastro is the first disease-modifying treatment for Alexander disease."
+        "sourceUrl": "https://www.statnews.com/2026/09/03/ionis-fda-approval-zanvastro-alexander-disease/?utm_campaign=rss",
+        "summary": "Zanvastro is the first disease-modifying treatment for Alexander disease, a rare and fatal disorder.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/09/AP7357695644179726-1024x576.jpg"
       }
     ],
-    "publishedAt": "2026-09-05T23:08:27.803Z"
+    "publishedAt": "2026-09-05T23:39:15.654Z"
   },
   "drafts": {},
   "history": [
@@ -117,10 +128,11 @@
       "id": "ed_2026-09-05",
       "publishDate": "2026-09-05",
       "status": "published",
-      "createdAt": "2026-09-05T23:08:27.768Z",
-      "updatedAt": "2026-09-05T23:08:27.803Z",
+      "updatedAt": "2026-09-05T23:39:15.654Z",
       "title": "Cropped from the frame",
       "dek": "Lucas opens to the press. Dana-Farber is off the plan.",
+      "authorName": "Dr. Wallace Lynch",
+      "authorTitle": "Editor in Chief",
       "paragraphs": [
         "The Lucas Museum of Narrative Art opened to the press in Los Angeles this week. George Lucas and Mellody Hobson built it for stories. The reviews split. Some saw a house of plot. Some saw a brand with a roof.",
         "On Friday, September 4, 2026, we hold that opening to one pressure: who still gets into the story, and who is cropped from the frame.",
@@ -130,13 +142,11 @@
         "A museum for narrative. A painting of people who do not look. Convergence is not the opening. It is whether the plan still holds the person under the rubble, and the one the network dropped."
       ],
       "wordCount": 309,
-      "authorName": "Dr. Wallace Lynch",
-      "authorTitle": "Editor in Chief",
-      "heroImage": "https://www.thisiscolossal.com/wp-content/uploads/2026/09/milez-7.jpg",
-      "heroCredit": "Erin Milez, “Pick Your Plot.” Courtesy the artist and Monya Rowe Gallery",
-      "heroSource": "Colossal",
-      "heroSourceUrl": "https://www.thisiscolossal.com/2026/09/erin-milez-everything-the-light-touches-city-paintings/",
-      "publishedAt": "2026-09-05T23:08:27.803Z"
+      "heroImage": "https://www.artforum.com/wp-content/uploads/2026/09/GettyImages-2293233681.jpg?w=650",
+      "heroCredit": "Long-Awaited Lucas Museum Receives Mixed Reviews Ahead of Opening",
+      "heroSource": "Artforum",
+      "heroSourceUrl": "https://www.artforum.com/news/lucas-museum-receives-mixed-reviews-ahead-of-opening-1234758846/",
+      "publishedAt": "2026-09-05T23:39:15.654Z"
     },
     {
       "id": "ed_2026-09-03",
@@ -1272,6 +1282,7 @@
     "https://cdn.arstechnica.net/wp-content/uploads/2026/08/DragonRed.Supersports-6-1152x648.jpg",
     "https://cdn.sanity.io/images/cxgd3urn/production/24c6ac009926457d21d6c18e4e84d3d1f1e854aa-1080x900.jpg",
     "https://www.sciencedaily.com/images/1920/brain-intelligence-money-cash.webp",
-    "https://www.thisiscolossal.com/wp-content/uploads/2026/09/milez-7.jpg"
+    "https://www.thisiscolossal.com/wp-content/uploads/2026/09/milez-7.jpg",
+    "https://www.artforum.com/wp-content/uploads/2026/09/GettyImages-2293233681.jpg?w=650"
   ]
 }
