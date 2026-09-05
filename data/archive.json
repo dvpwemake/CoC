@@ -183,6 +183,26 @@
     ]
   },
   {
+    "batchId": "editorial_2026-09-03",
+    "scannedAt": "2026-09-03T05:03:25.704Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-09-03",
+        "rank": 0,
+        "title": "Counted the rooms",
+        "category": "editorial",
+        "summary": "A plan already met, a paycheck that bounced",
+        "image": "https://www.sciencedaily.com/images/1920/brain-intelligence-money-cash.webp",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-09-03.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-09-03",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "editorial_2026-09-02",
     "scannedAt": "2026-09-03T04:58:45.691Z",
     "kind": "editorial_archive",

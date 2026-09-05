@@ -1,5 +1,25 @@
 [
   {
+    "batchId": "editorial_2026-08-15",
+    "scannedAt": "2026-08-16T04:19:28.833Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-08-15",
+        "rank": 0,
+        "title": "What a warning can score, and what a room still has to hold",
+        "category": "editorial",
+        "summary": "Convergence of the emptied chair and the work that stays",
+        "image": "https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/1a22/live/86235450-9731-11f1-870d-5d08c49babb2.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-15.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-08-15",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-08-15T20-07",
     "scannedAt": "2026-08-15T20:07:39.127Z",
     "items": [
@@ -1516,67 +1536,6 @@
         "source": "Robotics & Automation News",
         "sourceUrl": "https://roboticsandautomationnews.com/2026/07/27/what-problems-can-raspberry-pi-solve-for-businesses-using-multiple-displays/103641/",
         "fromX": false
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-07-26T20-42",
-    "scannedAt": "2026-07-26T20:42:29.589Z",
-    "items": [
-      {
-        "id": "auto_2026-07-26T20-42_1",
-        "rank": 1,
-        "title": "Restricted Eating Windows Aid Cognitive Function",
-        "category": "neuroscience",
-        "summary": "Restricting daily eating to an 8 to 9 hour window yields cognitive improvements in spatial planning and problem-solving for older, overweight women beyond the benefits of caloric reduction alone.",
-        "image": "https://neurosciencenews.com/files/2026/07/restricted-eating-cognition-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/restricted-eating-cognition-aging-31130/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-07-26T20-42_2",
-        "rank": 2,
-        "title": "Optical Tech Would Update a Robot’s AI on the Fly",
-        "category": "robotics",
-        "summary": "Atop a lab bench, Cornell Tech postdoctoral researcher Yifan He positions the lens of an optical receiver almost a meter away from an LED emitting a beam of red light. The computer monitor attached to the receiver takes…",
-        "image": "https://spectrum.ieee.org/media-library/an-asian-man-positions-the-lens-of-an-optical-receiver-a-meter-away-from-a-beam-of-led-light-in-a-lab.jpg?id=67530602&width=980",
-        "source": "IEEE Spectrum",
-        "sourceUrl": "https://spectrum.ieee.org/ai-in-robotics",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-07-26T20-42_3",
-        "rank": 3,
-        "title": "NASA and ESA facilities avoid major damage from wildfires in Spain",
-        "category": "space",
-        "summary": "Key ground stations in Spain operated by NASA and the European Space Agency have avoided serious damage from major wildfires in the country. The post NASA and ESA facilities avoid major damage from wildfires in Spain…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/dsn-madrid-fire.jpeg?fit=1024%2C576&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/nasa-and-esa-facilities-avoid-major-damage-from-wildfires-in-spain/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-07-26T20-42_4",
-        "rank": 4,
-        "title": "Christopher Nolan, David Hockney, Luis Manuel Otero Alcántara",
-        "category": "art",
-        "summary": "A political prisoner is freed, a Homerist reviews Nolan’s “The Odyssey,” and do we have to pretend to like David Hockney’s iPad paintings?",
-        "image": "",
-        "source": "Hyperallergic",
-        "sourceUrl": "https://hyperallergic.com/christopher-nolan-david-hockney-luis-manuel-otero-alcantara/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-07-26T20-42_5",
-        "rank": 5,
-        "title": "Gemini 3.6 Flash and 3.5 Flash-Lite now available through official API for developers and AI agents",
-        "category": "ai",
-        "summary": "Model ecosystem expansion: Gemini 3.6 Flash and Gemini 3.5 Flash-Lite via official API access.",
-        "image": "https://pbs.twimg.com/media/HN1SnDCWEAA2hmA.jpg",
-        "source": "X · @web3l0var",
-        "sourceUrl": "https://x.com/web3l0var/status/2079909448219271368",
-        "fromX": true
       }
     ]
   }
