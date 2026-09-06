@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-09-06T01-24",
+    "scannedAt": "2026-09-06T01:24:48.571Z",
+    "items": [
+      {
+        "id": "auto_2026-09-06T01-24_1",
+        "rank": 1,
+        "title": "Kenyans Made a Living Writing College Essays. Then A.I. Arrived.",
+        "category": "general",
+        "summary": "Thousands of Kenyans made a living writing essays for overseas students. With A.I., the work has dried up, a warning for online gig work that has been a global lifeline.",
+        "image": "https://static01.nyt.com/images/2026/08/31/multimedia/00biz-ai-essay-mills-Teresios-kjzh/00biz-ai-essay-mills-Teresios-kjzh-mediumSquareAt3X.jpg",
+        "source": "NYT Technology",
+        "sourceUrl": "https://www.nytimes.com/2026/09/05/technology/kenya-college-essays-ai.html",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-06T01-24_2",
+        "rank": 2,
+        "title": "Opinion: What STAT readers think about M.D. vs. D.O., AI in medicine, surrogacy, and more",
+        "category": "biotech",
+        "summary": "“A click, signature, or brief review should not magically transfer responsibility from an AI developer or platform to a physician,” a reader tells STAT.",
+        "image": "https://www.statnews.com/wp-content/uploads/2023/11/LettersToEditor_v2_Illustration_MollyFerguson_112723-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/09/05/md-vs-do-surrogacy-ai-medicine-stat-letters-to-editor/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-06T01-24_3",
+        "rank": 3,
+        "title": "APOD: 2026 September 5 – Chasing the Moon’s Shadow",
+        "category": "space",
+        "summary": "APOD Science APOD APOD: 2026 September 5 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or…",
+        "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/september/2026Eclipse_WB57GoPro_Totality_H264_Abridged.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "source": "NASA",
+        "sourceUrl": "https://science.nasa.gov/image-article/apod-2026-september-5-chasing-the-moons-shadow/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-06T01-24_4",
+        "rank": 4,
+        "title": "China Withdraws from Gwangju Biennale Over Taiwan Pavilion",
+        "category": "art",
+        "summary": "On Thursday, China announced that it would withdraw its pavilion from the forthcoming Gwangju Biennale, You Must Change Your Life, over claims that the festival was misrepresenting Taiwan as an autonomous nation through…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/08/taiwan-pavilion.jpg?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/news/china-withdraws-from-gwangju-biennale-1234758880/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-06T01-24_5",
+        "rank": 5,
+        "title": "Video Friday: Digit Redecorates",
+        "category": "robotics",
+        "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us…",
+        "image": "https://spectrum.ieee.org/media-library/humanoid-robot-tidies-an-orange-couch-while-a-person-watches-in-a-modern-living-room.gif?id=67725697&width=980",
+        "source": "IEEE Spectrum",
+        "sourceUrl": "https://spectrum.ieee.org/video-friday-agility-robotics-digit",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-09-05T21-44",
     "scannedAt": "2026-09-05T21:44:20.239Z",
     "items": [
