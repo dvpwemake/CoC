@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-07-27T20-57",
+    "scannedAt": "2026-07-27T20:57:37.248Z",
+    "items": [
+      {
+        "id": "auto_2026-07-27T20-57_1",
+        "rank": 1,
+        "title": "STAT+: HIV resurgence is feared as global funding to combat the disease falls 18%",
+        "category": "biotech",
+        "summary": "The world risks a resurgence of the HIV epidemic after international financing to combat the disease suffered a “profound shock” last year, according to a new report from UNAIDS.",
+        "image": "https://www.statnews.com/wp-content/uploads/2023/11/AdobeStock_658340371-e1699309224459-1024x576.jpeg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/pharmalot/2026/07/27/hiv-resurgence-is-feared-as-global-fund-to-combat-the-disease-falls-18-percent/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-27T20-57_2",
+        "rank": 2,
+        "title": "3-Region Neural Circuit Required for Sleep Memory",
+        "category": "neuroscience",
+        "summary": "A new study reveals that memory consolidation during sleep requires coordinated signaling among the orbitofrontal cortex, thalamus, and hippocampus, and shows how epileptic spikes break this circuit.",
+        "image": "https://neurosciencenews.com/files/2026/07/sleep-memory-consolidation-neurosience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/sleep-memory-epilepsy-neuroscience-31138/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-27T20-57_3",
+        "rank": 3,
+        "title": "The Smithsonian Is Not the President's Museum",
+        "category": "art",
+        "summary": "The Trump administration’s latest order marks an unprecedented effort to subordinate one of America's foremost public institutions to partisan power.",
+        "image": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/07/GettyImages-2230033223.jpg",
+        "source": "Hyperallergic",
+        "sourceUrl": "https://hyperallergic.com/the-smithsonian-is-not-the-presidents-museum/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-27T20-57_4",
+        "rank": 4,
+        "title": "Upper C-band auction offers another lift for GEO industry",
+        "category": "space",
+        "summary": "Satellite operators have welcomed the prospect of reaping more than $6 billion for quickly clearing upper C-band spectrum the FCC aims to auction next year, with billions more set to cover new geostationary spacecraft…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/SES-Press-Release_SES-Completes-Acquisition-of-Intelsat_image-scaled-1.jpg?fit=1024%2C576&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/upper-c-band-auction-offers-another-lift-for-geo-industry/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-27T20-57_5",
+        "rank": 5,
+        "title": "What Problems Can Raspberry Pi Solve for Businesses Using Multiple Displays?",
+        "category": "robotics",
+        "summary": "Managing several display screens across one location or multiple sites can become difficult without the right system. Different content, inconsistent updates, and manual changes take valuable time away from daily…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/07/raspberry-pi-1.jpg",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/07/27/what-problems-can-raspberry-pi-solve-for-businesses-using-multiple-displays/103641/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-07-26T20-42",
     "scannedAt": "2026-07-26T20:42:29.589Z",
     "items": [
@@ -1753,23 +1814,6 @@
         "source": "IEEE Spectrum",
         "sourceUrl": "https://spectrum.ieee.org/video-friday-robot-grippers",
         "imageProxy": "https://images.weserv.nl/?url=spectrum.ieee.org%2Fmedia-library%2Fthree-fingered-robotic-gripper-arm-crawls-upright-on-a-white-table.gif%3Fid%3D67036633%26width%3D980&w=640&h=400&fit=cover&we&output=jpg"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-06-27T20-45",
-    "scannedAt": "2026-06-27T20:45:56.064Z",
-    "items": [
-      {
-        "id": "auto_2026-06-27T20-45_3",
-        "rank": 3,
-        "title": "NASA Announces Winners for 2026 Human Lander Challenge",
-        "category": "space",
-        "summary": "NASA has announced the top student-developed solutions for environmental control and life support systems in future crewed lunar landers from participants in the 2026 Human Lander Challenge. The announcement marks the…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/06/ceb-6192.jpg",
-        "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-announces-winners-for-2026-human-lander-challenge/",
-        "imageProxy": "https://images.weserv.nl/?url=www.nasa.gov%2Fwp-content%2Fuploads%2F2026%2F06%2Fceb-6192.jpg&w=640&h=400&fit=cover&we&output=jpg"
       }
     ]
   }

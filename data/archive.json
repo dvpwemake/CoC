@@ -122,6 +122,26 @@
     ]
   },
   {
+    "batchId": "editorial_2026-09-05",
+    "scannedAt": "2026-09-05T23:39:15.654Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-09-05",
+        "rank": 0,
+        "title": "Cropped from the frame",
+        "category": "editorial",
+        "summary": "Lucas opens to the press. Dana-Farber is off the plan.",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/09/GettyImages-2293233681.jpg?w=650",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-09-05.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-09-05",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-09-05T21-44",
     "scannedAt": "2026-09-05T21:44:20.239Z",
     "items": [
