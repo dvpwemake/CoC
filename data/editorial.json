@@ -3,113 +3,124 @@
     "id": "ed_2026-09-07",
     "publishDate": "2026-09-07",
     "status": "published",
-    "createdAt": "2026-09-07T06:49:27.822Z",
-    "updatedAt": "2026-09-07T06:49:27.848Z",
+    "updatedAt": "2026-09-07T06:53:51.732Z",
     "title": "Objects in limbo",
-    "dek": "Toledo is sending five artifacts home. China leaves Gwangju. Dana-Farber is off the card.",
-    "body": "The Toledo Museum of Art is sending five artifacts from a private collection back to Ethiopia. The new partnership with the Ethiopian Heritage Authority is a process, not a press line. Objects in limbo get a room that will take them.\n\nOn Saturday, September 6, 2026, we hold that return to one pressure: who is allowed to stay in the room, and who is asked to leave.\n\nChina withdrew its pavilion from the Gwangju Biennale over a Taiwan pavilion. You Must Change Your Life is the title. The pavilion left. In Boston, Mass General Brigham already split with Dana-Farber. Now its Medicare Advantage plan is dropping the cancer hospital. A member ejected from the American Diabetes Association's June meeting says the group continues to move from crisis to crisis to crisis.\n\nThe Seattle Times and Newsday sued OpenAI and Microsoft. They say their journalism trained a model without permission. A STAT reader wrote that a click should not magically transfer responsibility from an AI developer to a physician. Princeton tested an AI that can hold fusion plasma in milliseconds, faster than a human operator. Digit, the Agility robot, redecorated on Video Friday. An Amazon cargo plane overran a Miami runway on Sunday.\n\nLatAm-FINGERS, across eleven countries, found a structured lifestyle program improved global cognition 55 percent more than general health advice. Exercise, diet, cognitive training, social meetings. A large study of more than 270,000 people linked higher blood tyrosine to a shorter lifespan in men. Coaching is a room. A supplement is a bottle.\n\nFive objects going home. A pavilion that left. Convergence is not the model. It is whether the person still has a chair when the network redraws the map.",
+    "dek": "",
+    "authorName": "Dr. Wallace Lynch",
+    "authorTitle": "Editor in Chief",
+    "body": "The Toledo Museum of Art is sending five artifacts from a private collection back to Ethiopia. The new partnership with the Ethiopian Heritage Authority is a process, not a press line. Objects in limbo get a room that will take them.\n\nOn Sunday, September 6, 2026, we hold that return to one pressure: who is allowed to stay in the room, and who is asked to leave.\n\nChina withdrew its pavilion from the Gwangju Biennale over a Taiwan pavilion. You Must Change Your Life is the title. The pavilion left. In Boston, Mass General Brigham already split with Dana-Farber. Now its Medicare Advantage plan is dropping the cancer hospital. A member ejected from the American Diabetes Association's June meeting says the group continues to move from crisis to crisis to crisis.\n\nThe Seattle Times and Newsday sued OpenAI and Microsoft. They say their journalism trained a model without permission. A STAT reader wrote that a click should not magically transfer responsibility from an AI developer to a physician. Princeton tested an AI that can hold fusion plasma in milliseconds, faster than a human operator. Digit, the Agility robot, redecorated on Video Friday. An Amazon cargo plane overran a Miami runway on Sunday.\n\nLatAm-FINGERS, across eleven countries, found a structured lifestyle program improved global cognition 55 percent more than general health advice. Exercise, diet, cognitive training, social meetings. A large study of more than 270,000 people linked higher blood tyrosine to a shorter lifespan in men. Coaching is a room. A supplement is a bottle.\n\nFive objects going home. A pavilion that left. Convergence is not the model. It is whether the person still has a chair when the network redraws the map.",
     "paragraphs": [
       "The Toledo Museum of Art is sending five artifacts from a private collection back to Ethiopia. The new partnership with the Ethiopian Heritage Authority is a process, not a press line. Objects in limbo get a room that will take them.",
-      "On Saturday, September 6, 2026, we hold that return to one pressure: who is allowed to stay in the room, and who is asked to leave.",
+      "On Sunday, September 6, 2026, we hold that return to one pressure: who is allowed to stay in the room, and who is asked to leave.",
       "China withdrew its pavilion from the Gwangju Biennale over a Taiwan pavilion. You Must Change Your Life is the title. The pavilion left. In Boston, Mass General Brigham already split with Dana-Farber. Now its Medicare Advantage plan is dropping the cancer hospital. A member ejected from the American Diabetes Association's June meeting says the group continues to move from crisis to crisis to crisis.",
       "The Seattle Times and Newsday sued OpenAI and Microsoft. They say their journalism trained a model without permission. A STAT reader wrote that a click should not magically transfer responsibility from an AI developer to a physician. Princeton tested an AI that can hold fusion plasma in milliseconds, faster than a human operator. Digit, the Agility robot, redecorated on Video Friday. An Amazon cargo plane overran a Miami runway on Sunday.",
       "LatAm-FINGERS, across eleven countries, found a structured lifestyle program improved global cognition 55 percent more than general health advice. Exercise, diet, cognitive training, social meetings. A large study of more than 270,000 people linked higher blood tyrosine to a shorter lifespan in men. Coaching is a room. A supplement is a bottle.",
       "Five objects going home. A pavilion that left. Convergence is not the model. It is whether the person still has a chair when the network redraws the map."
     ],
     "wordCount": 282,
-    "authorName": "Dr. Wallace Lynch",
-    "authorTitle": "Editor in Chief",
-    "heroImage": "https://www.sciencedaily.com/images/1920/smiling-senior-man-strength-fitness-exercise.webp",
-    "heroCredit": "LatAm-FINGERS lifestyle intervention. ScienceDaily / Shutterstock",
-    "heroSource": "ScienceDaily",
-    "heroSourceUrl": "https://www.sciencedaily.com/releases/2026/09/260903064246.htm",
+    "heroImage": "https://spectrum.ieee.org/media-library/humanoid-robot-tidies-an-orange-couch-while-a-person-watches-in-a-modern-living-room.gif?id=67725697&width=980",
+    "heroCredit": "Video Friday: Digit Redecorates",
+    "heroSource": "IEEE Spectrum",
+    "heroSourceUrl": "https://spectrum.ieee.org/video-friday-agility-robotics-digit",
     "headlines": [
       {
         "title": "Toledo Museum of Art partners with Ethiopian Heritage Authority to find solutions for ‘objects in limbo’",
         "source": "The Art Newspaper",
         "category": "art",
         "sourceUrl": "https://www.theartnewspaper.com/2026/09/04/toledo-museum-art-partners-ethiopian-heritage-authority-repatriation-five-artefacts",
-        "summary": "The museum is already in the process of returning five artefacts from a private collection to Ethiopian authorities."
+        "summary": "Through the new partnership, the museum is already in the process of returning five artefacts from a private collection to Ethiopian authorities",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/6aae9448cba5d6249c37ed3d05027187e9a1bf4b-2000x1333.jpg?w=140"
       },
       {
-        "title": "Not so fast: Diabetes association panel not done reviewing ejections from its June meeting",
+        "title": "STAT+: Not so fast: Diabetes association panel not done reviewing ejections from its June meeting",
         "source": "STAT News",
         "category": "biotech",
-        "sourceUrl": "https://www.statnews.com/2026/09/06/ada-diabetes-association-ejection-conference-review-not-final/",
-        "summary": "The American Diabetes Association continues to move from crisis to crisis, says one of five members ejected from the June conference."
+        "sourceUrl": "https://www.statnews.com/2026/09/06/ada-diabetes-association-ejection-conference-review-not-final/?utm_campaign=rss",
+        "summary": "The American Diabetes Association “continues to move from crisis to crisis to crisis,” says one of five members ejected from June conference.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/06/IMG_9697-1024x576.jpeg"
       },
       {
         "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
         "source": "The Verge",
         "category": "general",
         "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
-        "summary": "The two outlets say OpenAI used their journalism as training data without permission."
+        "summary": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI models without…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292926705.jpg?quality=90&strip=all&crop=0%2C10.654918655606%2C100%2C78.690162688789&w=1200"
       },
       {
         "title": "This lifestyle program improved cognition 55% more than basic health advice",
         "source": "ScienceDaily",
         "category": "neuroscience",
         "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260903064246.htm",
-        "summary": "Structured lifestyle programs improved memory and thinking more than general health advice in older adults at risk of dementia."
+        "summary": "Older adults at risk of dementia improved their memory and thinking after following lifestyle programs combining exercise, healthy eating, cognitive training, and social engagement. Those who received regular coaching…",
+        "image": "https://www.sciencedaily.com/images/1920/smiling-senior-man-strength-fitness-exercise.webp"
       },
       {
         "title": "Video Friday: Digit Redecorates",
         "source": "IEEE Spectrum",
         "category": "robotics",
         "sourceUrl": "https://spectrum.ieee.org/video-friday-agility-robotics-digit",
-        "summary": "Weekly robotics videos including Agility Robotics' Digit."
+        "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us…",
+        "image": "https://spectrum.ieee.org/media-library/humanoid-robot-tidies-an-orange-couch-while-a-person-watches-in-a-modern-living-room.gif?id=67725697&width=980"
       },
       {
         "title": "China Withdraws from Gwangju Biennale Over Taiwan Pavilion",
         "source": "Artforum",
         "category": "art",
         "sourceUrl": "https://www.artforum.com/news/china-withdraws-from-gwangju-biennale-1234758880/",
-        "summary": "China withdrew its pavilion over claims the festival misrepresented Taiwan as an autonomous nation."
+        "summary": "On Thursday, China announced that it would withdraw its pavilion from the forthcoming Gwangju Biennale, You Must Change Your Life, over claims that the festival was misrepresenting Taiwan as an autonomous nation through…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/08/taiwan-pavilion.jpg?w=650"
       },
       {
-        "title": "What STAT readers think about M.D. vs. D.O., AI in medicine, surrogacy, and more",
+        "title": "Opinion: What STAT readers think about M.D. vs. D.O., AI in medicine, surrogacy, and more",
         "source": "STAT News",
         "category": "biotech",
-        "sourceUrl": "https://www.statnews.com/2026/09/05/md-vs-do-surrogacy-ai-medicine-stat-letters-to-editor/",
-        "summary": "A reader argues a click should not transfer responsibility from an AI developer to a physician."
+        "sourceUrl": "https://www.statnews.com/2026/09/05/md-vs-do-surrogacy-ai-medicine-stat-letters-to-editor/?utm_campaign=rss",
+        "summary": "“A click, signature, or brief review should not magically transfer responsibility from an AI developer or platform to a physician,” a reader tells STAT.",
+        "image": "https://www.statnews.com/wp-content/uploads/2023/11/LettersToEditor_v2_Illustration_MollyFerguson_112723-1024x576.jpg"
       },
       {
         "title": "An Amazon cargo plane crashed at Miami International Airport",
         "source": "The Verge",
         "category": "general",
         "sourceUrl": "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami",
-        "summary": "A plane bearing an Amazon logo overran the runway on Sunday during landing."
+        "summary": "A plane bearing an Amazon logo overran the runway at Miami International Airport on Sunday during landing, crashing into vehicles and resulting in multiple injuries. The extent of the damage or the seriousness of the…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2293852643.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
       },
       {
         "title": "Popular brain supplement linked to shorter lifespan in men",
         "source": "ScienceDaily",
         "category": "neuroscience",
         "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260904000330.htm",
-        "summary": "Higher blood tyrosine linked to shorter lifespan in men in a study of more than 270,000 people."
+        "summary": "A large study involving more than 270,000 people has linked higher blood levels of the amino acid tyrosine to a shorter lifespan in men. Using both observational data and genetic analysis, researchers found that…",
+        "image": "https://www.sciencedaily.com/images/1920/man-holding-supplement-capsule.webp"
       },
       {
         "title": "AI can now control fusion plasma faster than humans can react",
         "source": "ScienceDaily",
         "category": "robotics",
         "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260903064215.htm",
-        "summary": "Princeton tested an AI that can monitor and control fusion plasma in milliseconds."
+        "summary": "Princeton researchers have tested an AI system that can monitor and control fusion plasma in milliseconds, reacting far faster than a human operator. In one experiment, it predicted a damaging instability about 200…",
+        "image": "https://www.sciencedaily.com/images/1920/pacman-artificial-intelligence-framework-for-fusion-systems.webp"
       },
       {
         "title": "Long-Awaited Lucas Museum Receives Mixed Reviews Ahead of Opening",
         "source": "Artforum",
         "category": "art",
         "sourceUrl": "https://www.artforum.com/news/lucas-museum-receives-mixed-reviews-ahead-of-opening-1234758846/",
-        "summary": "The Lucas Museum of Narrative Art opened to the press, and opinions are sharply divided."
+        "summary": "Los Angeles's Lucas Museum of Narrative Art opened to the press earlier this week, and the resulting opinions are sharply divided. Founded by Star Wars creator George Lucas and his wife, investor Mellody Hobson, and…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/09/GettyImages-2293233681.jpg?w=650"
       },
       {
-        "title": "Top Boston hospitals clash over Medicare Advantage network after split",
+        "title": "STAT+: Top Boston hospitals clash over Medicare Advantage network after split",
         "source": "STAT News",
         "category": "biotech",
-        "sourceUrl": "https://www.statnews.com/2026/09/04/mass-general-brigham-medicare-advantage-network-cancer-treatment-dana-farber/",
-        "summary": "Mass General Brigham split with Dana-Farber. Now its Medicare Advantage plan is dropping the cancer hospital."
+        "sourceUrl": "https://www.statnews.com/2026/09/04/mass-general-brigham-medicare-advantage-network-cancer-treatment-dana-farber/?utm_campaign=rss",
+        "summary": "First, Mass General Brigham split with Dana-Farber. Now its Medicare Advantage plan is dropping the cancer hospital.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/09/CEASOAV62YN32HCQ3PQMDZCAIE-1024x576.jpg"
       }
     ],
-    "publishedAt": "2026-09-07T06:49:27.848Z"
+    "publishedAt": "2026-09-07T06:53:51.732Z"
   },
   "drafts": {},
   "history": [
@@ -117,26 +128,25 @@
       "id": "ed_2026-09-07",
       "publishDate": "2026-09-07",
       "status": "published",
-      "createdAt": "2026-09-07T06:49:27.822Z",
-      "updatedAt": "2026-09-07T06:49:27.848Z",
+      "updatedAt": "2026-09-07T06:53:51.732Z",
       "title": "Objects in limbo",
-      "dek": "Toledo is sending five artifacts home. China leaves Gwangju. Dana-Farber is off the card.",
+      "dek": "",
+      "authorName": "Dr. Wallace Lynch",
+      "authorTitle": "Editor in Chief",
       "paragraphs": [
         "The Toledo Museum of Art is sending five artifacts from a private collection back to Ethiopia. The new partnership with the Ethiopian Heritage Authority is a process, not a press line. Objects in limbo get a room that will take them.",
-        "On Saturday, September 6, 2026, we hold that return to one pressure: who is allowed to stay in the room, and who is asked to leave.",
+        "On Sunday, September 6, 2026, we hold that return to one pressure: who is allowed to stay in the room, and who is asked to leave.",
         "China withdrew its pavilion from the Gwangju Biennale over a Taiwan pavilion. You Must Change Your Life is the title. The pavilion left. In Boston, Mass General Brigham already split with Dana-Farber. Now its Medicare Advantage plan is dropping the cancer hospital. A member ejected from the American Diabetes Association's June meeting says the group continues to move from crisis to crisis to crisis.",
         "The Seattle Times and Newsday sued OpenAI and Microsoft. They say their journalism trained a model without permission. A STAT reader wrote that a click should not magically transfer responsibility from an AI developer to a physician. Princeton tested an AI that can hold fusion plasma in milliseconds, faster than a human operator. Digit, the Agility robot, redecorated on Video Friday. An Amazon cargo plane overran a Miami runway on Sunday.",
         "LatAm-FINGERS, across eleven countries, found a structured lifestyle program improved global cognition 55 percent more than general health advice. Exercise, diet, cognitive training, social meetings. A large study of more than 270,000 people linked higher blood tyrosine to a shorter lifespan in men. Coaching is a room. A supplement is a bottle.",
         "Five objects going home. A pavilion that left. Convergence is not the model. It is whether the person still has a chair when the network redraws the map."
       ],
       "wordCount": 282,
-      "authorName": "Dr. Wallace Lynch",
-      "authorTitle": "Editor in Chief",
-      "heroImage": "https://www.sciencedaily.com/images/1920/smiling-senior-man-strength-fitness-exercise.webp",
-      "heroCredit": "LatAm-FINGERS lifestyle intervention. ScienceDaily / Shutterstock",
-      "heroSource": "ScienceDaily",
-      "heroSourceUrl": "https://www.sciencedaily.com/releases/2026/09/260903064246.htm",
-      "publishedAt": "2026-09-07T06:49:27.848Z"
+      "heroImage": "https://spectrum.ieee.org/media-library/humanoid-robot-tidies-an-orange-couch-while-a-person-watches-in-a-modern-living-room.gif?id=67725697&width=980",
+      "heroCredit": "Video Friday: Digit Redecorates",
+      "heroSource": "IEEE Spectrum",
+      "heroSourceUrl": "https://spectrum.ieee.org/video-friday-agility-robotics-digit",
+      "publishedAt": "2026-09-07T06:53:51.732Z"
     },
     {
       "id": "ed_2026-09-05",
@@ -1298,6 +1308,7 @@
     "https://www.sciencedaily.com/images/1920/brain-intelligence-money-cash.webp",
     "https://www.thisiscolossal.com/wp-content/uploads/2026/09/milez-7.jpg",
     "https://www.artforum.com/wp-content/uploads/2026/09/GettyImages-2293233681.jpg?w=650",
-    "https://www.sciencedaily.com/images/1920/smiling-senior-man-strength-fitness-exercise.webp"
+    "https://www.sciencedaily.com/images/1920/smiling-senior-man-strength-fitness-exercise.webp",
+    "https://spectrum.ieee.org/media-library/humanoid-robot-tidies-an-orange-couch-while-a-person-watches-in-a-modern-living-room.gif?id=67725697&width=980"
   ]
 }
