@@ -3,10 +3,11 @@
     "id": "ed_2026-09-07",
     "publishDate": "2026-09-07",
     "status": "published",
-    "createdAt": "2026-09-07T17:55:14.547Z",
-    "updatedAt": "2026-09-07T17:55:14.618Z",
+    "updatedAt": "2026-09-07T17:58:20.792Z",
     "title": "You sit down",
-    "dek": "The machine finds the vein. Two heart trials stop.",
+    "dek": "The machine finds the vein. Two heart trials stop",
+    "authorName": "Dr. Wallace Lynch",
+    "authorTitle": "Editor in Chief",
     "body": "You sit down and put your arm in the cradle. Aletta, from Vitestro, is the first autonomous blood draw the FDA has cleared for adults outside a hospital. Infrared light hunts for a vein. A puff of alcohol hits the skin. Ultrasound maps how deep the vessel runs. The needle comes down. In a Dutch trial of more than 1,600 people it succeeded on the first try in 94.5 percent of cases. No human has to touch you.\n\nOn Monday, September 7, 2026, we hold that arm to one pressure: who still holds the body when the machine is faster than the person, and when the trial leaves.\n\nNovo Nordisk stopped HERMES and ATHENA, two trials of ziltivekimab meant to tame inflammation in heart failure. A monitoring committee saw little chance they would beat ZEUS, which already missed deaths, heart attacks, and strokes. ARTEMIS, after a heart attack, continues. Princeton's PACMAN loop on a tokamak runs in about 20 milliseconds. It predicted a tearing mode 200 milliseconds early. The physicists still set the goal.\n\nA STAT reader wrote that a click, a signature, or a brief review should not magically transfer responsibility from an AI developer to a physician. China withdrew its pavilion from the Gwangju Biennale over Taiwan. The exhibition is titled You Must Change Your Life. The pavilion left. An Amazon Air Boeing 767, operated by 21 Air from San Juan, overran a Miami runway on Sunday. Fire. Injuries. Berlin Art Week is back. Summer is over.\n\nA study of more than 270,000 people linked higher blood tyrosine to a shorter life in men, nearly a year. It did not test the supplement bottle. The arm is still in the cradle. Convergence is not the robot. It is whether a person is still in the room when the committee stops the trial, and when the click is asked to carry the blame.",
     "paragraphs": [
       "You sit down and put your arm in the cradle. Aletta, from Vitestro, is the first autonomous blood draw the FDA has cleared for adults outside a hospital. Infrared light hunts for a vein. A puff of alcohol hits the skin. Ultrasound maps how deep the vessel runs. The needle comes down. In a Dutch trial of more than 1,600 people it succeeded on the first try in 94.5 percent of cases. No human has to touch you.",
@@ -16,63 +17,109 @@
       "A study of more than 270,000 people linked higher blood tyrosine to a shorter life in men, nearly a year. It did not test the supplement bottle. The arm is still in the cradle. Convergence is not the robot. It is whether a person is still in the room when the committee stops the trial, and when the click is asked to carry the blame."
     ],
     "wordCount": 314,
-    "authorName": "Dr. Wallace Lynch",
-    "authorTitle": "Editor in Chief",
-    "heroImage": "https://spectrum.ieee.org/media-library/an-older-silver-haired-woman-seated-at-automated-medical-device-with-a-robotic-arm-drawing-blood.jpg?id=67726417&width=1200&quality=85",
-    "heroCredit": "Aletta autonomous blood draw. Vitestro / IEEE Spectrum",
-    "heroSource": "IEEE Spectrum",
-    "heroSourceUrl": "https://spectrum.ieee.org/blood-draw-robot-vitestro-aletta",
+    "heroImage": "https://artsy-media-uploads.s3.amazonaws.com/z01HSkcyLZsJtb5h0U0OdA%2FMAG_99326_Loie_Hollowell_Mother_Radar_in_green_a.width-1100_1500x1000.jpg",
+    "heroCredit": "8 Must-See Shows at Berlin Art Week 2026",
+    "heroSource": "Artsy",
+    "heroSourceUrl": "https://www.artsy.net/article/artsy-editorial-8-must-see-berlin-art-week-2026",
     "headlines": [
       {
         "title": "8 Must-See Shows at Berlin Art Week 2026",
         "source": "Artsy",
         "category": "art",
-        "sourceUrl": "https://www.artsy.net/article/artsy-editorial-8-must-see-berlin-art-week-2026"
+        "sourceUrl": "https://www.artsy.net/article/artsy-editorial-8-must-see-berlin-art-week-2026",
+        "summary": "Berlin Art Week is back, which officially signals the end of the months of Aperol spritzes, pool trips, and pretending the heat wasn’t unbearable. A slow August can be great, but now it’s time for the city to get back…",
+        "image": "https://artsy-media-uploads.s3.amazonaws.com/z01HSkcyLZsJtb5h0U0OdA%2FMAG_99326_Loie_Hollowell_Mother_Radar_in_green_a.width-1100_1500x1000.jpg"
       },
       {
-        "title": "Novo Nordisk stops two cardiovascular trials of drug aimed at lowering inflammation",
+        "title": "STAT+: Novo Nordisk stops two cardiovascular trials of drug aimed at lowering inflammation",
         "source": "STAT News",
         "category": "biotech",
-        "sourceUrl": "https://www.statnews.com/2026/09/07/novo-nordisk-heart-studies-inflammation-ziltivekimab/"
+        "sourceUrl": "https://www.statnews.com/2026/09/07/novo-nordisk-heart-studies-inflammation-ziltivekimab/?utm_campaign=rss",
+        "summary": "Novo Nordisk has stopped two trials of a drug that aims to tame inflammation as a way to improve cardiovascular health, another blow for the approach.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/01/heart-1-1024x576.jpg"
+      },
+      {
+        "title": "Home Depot Labor Day Sale (2026): BOGO on Best Grills and Tools",
+        "source": "WIRED",
+        "category": "general",
+        "sourceUrl": "https://www.wired.com/story/home-depot-labor-day-sale-deals-2026/",
+        "summary": "The Home Depot Labor Day sale goes hard on grills and tools. Here are our recommendations on what to buy—and what to ignore.",
+        "image": "https://media.wired.com/photos/6a9b0a92df1ff8f5f606a6e1/master/pass/Home-Depot"
       },
       {
         "title": "This Robot Will Draw Your Blood Now",
         "source": "IEEE Spectrum",
         "category": "robotics",
-        "sourceUrl": "https://spectrum.ieee.org/blood-draw-robot-vitestro-aletta"
+        "sourceUrl": "https://spectrum.ieee.org/blood-draw-robot-vitestro-aletta",
+        "summary": "You sit down and put your arm in the cradle. You press a button. The machine takes it from there. A near-infrared light sweeps your inner elbow, hunting for a vein. A puff of alcohol hits your skin. An ultrasound probe…",
+        "image": "https://spectrum.ieee.org/media-library/an-older-silver-haired-woman-seated-at-automated-medical-device-with-a-robotic-arm-drawing-blood.jpg?id=67726417&width=980"
+      },
+      {
+        "title": "APOD: 2026 September 7 – The Pelican Nebula in Gas, Dust, and Stars",
+        "source": "NASA",
+        "category": "space",
+        "sourceUrl": "https://science.nasa.gov/image-article/apod-2026-september-7-the-pelican-nebula-in-gas-dust-and-stars/",
+        "summary": "APOD Science APOD APOD: 2026 September 7 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or…",
+        "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/september/Pelican_Killion_4800.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg"
       },
       {
         "title": "China Withdraws from Gwangju Biennale Over Taiwan Pavilion",
         "source": "Artforum",
         "category": "art",
-        "sourceUrl": "https://www.artforum.com/news/china-withdraws-from-gwangju-biennale-1234758880/"
+        "sourceUrl": "https://www.artforum.com/news/china-withdraws-from-gwangju-biennale-1234758880/",
+        "summary": "On Thursday, China announced that it would withdraw its pavilion from the forthcoming Gwangju Biennale, You Must Change Your Life, over claims that the festival was misrepresenting Taiwan as an autonomous nation through…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/08/taiwan-pavilion.jpg?w=650"
       },
       {
-        "title": "What STAT readers think about M.D. vs. D.O., AI in medicine, surrogacy, and more",
+        "title": "Opinion: What STAT readers think about M.D. vs. D.O., AI in medicine, surrogacy, and more",
         "source": "STAT News",
         "category": "biotech",
-        "sourceUrl": "https://www.statnews.com/2026/09/05/md-vs-do-surrogacy-ai-medicine-stat-letters-to-editor/"
+        "sourceUrl": "https://www.statnews.com/2026/09/05/md-vs-do-surrogacy-ai-medicine-stat-letters-to-editor/?utm_campaign=rss",
+        "summary": "“A click, signature, or brief review should not magically transfer responsibility from an AI developer or platform to a physician,” a reader tells STAT.",
+        "image": "https://www.statnews.com/wp-content/uploads/2023/11/LettersToEditor_v2_Illustration_MollyFerguson_112723-1024x576.jpg"
       },
       {
         "title": "An Amazon cargo plane crashed at Miami International Airport",
         "source": "The Verge",
         "category": "general",
-        "sourceUrl": "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami"
+        "sourceUrl": "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami",
+        "summary": "A plane bearing an Amazon logo overran the runway at Miami International Airport on Sunday during landing, crashing into vehicles and resulting in multiple injuries. The extent of the damage or the seriousness of the…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2293852643.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
       },
       {
         "title": "Popular brain supplement linked to shorter lifespan in men",
         "source": "ScienceDaily",
         "category": "neuroscience",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260904000330.htm"
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260904000330.htm",
+        "summary": "A large study involving more than 270,000 people has linked higher blood levels of the amino acid tyrosine to a shorter lifespan in men. Using both observational data and genetic analysis, researchers found that…",
+        "image": "https://www.sciencedaily.com/images/1920/man-holding-supplement-capsule.webp"
       },
       {
         "title": "AI can now control fusion plasma faster than humans can react",
         "source": "ScienceDaily",
         "category": "robotics",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260903064215.htm"
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260903064215.htm",
+        "summary": "Princeton researchers have tested an AI system that can monitor and control fusion plasma in milliseconds, reacting far faster than a human operator. In one experiment, it predicted a damaging instability about 200…",
+        "image": "https://www.sciencedaily.com/images/1920/pacman-artificial-intelligence-framework-for-fusion-systems.webp"
+      },
+      {
+        "title": "Long-Awaited Lucas Museum Receives Mixed Reviews Ahead of Opening",
+        "source": "Artforum",
+        "category": "art",
+        "sourceUrl": "https://www.artforum.com/news/lucas-museum-receives-mixed-reviews-ahead-of-opening-1234758846/",
+        "summary": "Los Angeles's Lucas Museum of Narrative Art opened to the press earlier this week, and the resulting opinions are sharply divided. Founded by Star Wars creator George Lucas and his wife, investor Mellody Hobson, and…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/09/GettyImages-2293233681.jpg?w=650"
+      },
+      {
+        "title": "STAT+: Top Boston hospitals clash over Medicare Advantage network after split",
+        "source": "STAT News",
+        "category": "biotech",
+        "sourceUrl": "https://www.statnews.com/2026/09/04/mass-general-brigham-medicare-advantage-network-cancer-treatment-dana-farber/?utm_campaign=rss",
+        "summary": "First, Mass General Brigham split with Dana-Farber. Now its Medicare Advantage plan is dropping the cancer hospital.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/09/CEASOAV62YN32HCQ3PQMDZCAIE-1024x576.jpg"
       }
     ],
-    "publishedAt": "2026-09-07T17:55:14.618Z"
+    "publishedAt": "2026-09-07T17:58:20.792Z"
   },
   "drafts": {},
   "history": [
@@ -80,10 +127,11 @@
       "id": "ed_2026-09-07",
       "publishDate": "2026-09-07",
       "status": "published",
-      "createdAt": "2026-09-07T17:55:14.547Z",
-      "updatedAt": "2026-09-07T17:55:14.618Z",
+      "updatedAt": "2026-09-07T17:58:20.792Z",
       "title": "You sit down",
-      "dek": "The machine finds the vein. Two heart trials stop.",
+      "dek": "The machine finds the vein. Two heart trials stop",
+      "authorName": "Dr. Wallace Lynch",
+      "authorTitle": "Editor in Chief",
       "paragraphs": [
         "You sit down and put your arm in the cradle. Aletta, from Vitestro, is the first autonomous blood draw the FDA has cleared for adults outside a hospital. Infrared light hunts for a vein. A puff of alcohol hits the skin. Ultrasound maps how deep the vessel runs. The needle comes down. In a Dutch trial of more than 1,600 people it succeeded on the first try in 94.5 percent of cases. No human has to touch you.",
         "On Monday, September 7, 2026, we hold that arm to one pressure: who still holds the body when the machine is faster than the person, and when the trial leaves.",
@@ -92,13 +140,11 @@
         "A study of more than 270,000 people linked higher blood tyrosine to a shorter life in men, nearly a year. It did not test the supplement bottle. The arm is still in the cradle. Convergence is not the robot. It is whether a person is still in the room when the committee stops the trial, and when the click is asked to carry the blame."
       ],
       "wordCount": 314,
-      "authorName": "Dr. Wallace Lynch",
-      "authorTitle": "Editor in Chief",
-      "heroImage": "https://spectrum.ieee.org/media-library/an-older-silver-haired-woman-seated-at-automated-medical-device-with-a-robotic-arm-drawing-blood.jpg?id=67726417&width=1200&quality=85",
-      "heroCredit": "Aletta autonomous blood draw. Vitestro / IEEE Spectrum",
-      "heroSource": "IEEE Spectrum",
-      "heroSourceUrl": "https://spectrum.ieee.org/blood-draw-robot-vitestro-aletta",
-      "publishedAt": "2026-09-07T17:55:14.618Z"
+      "heroImage": "https://artsy-media-uploads.s3.amazonaws.com/z01HSkcyLZsJtb5h0U0OdA%2FMAG_99326_Loie_Hollowell_Mother_Radar_in_green_a.width-1100_1500x1000.jpg",
+      "heroCredit": "8 Must-See Shows at Berlin Art Week 2026",
+      "heroSource": "Artsy",
+      "heroSourceUrl": "https://www.artsy.net/article/artsy-editorial-8-must-see-berlin-art-week-2026",
+      "publishedAt": "2026-09-07T17:58:20.792Z"
     },
     {
       "id": "ed_2026-09-05",
@@ -1261,6 +1307,7 @@
     "https://www.thisiscolossal.com/wp-content/uploads/2026/09/milez-7.jpg",
     "https://www.artforum.com/wp-content/uploads/2026/09/GettyImages-2293233681.jpg?w=650",
     "https://www.sciencedaily.com/images/1920/smiling-senior-man-strength-fitness-exercise.webp",
-    "https://spectrum.ieee.org/media-library/an-older-silver-haired-woman-seated-at-automated-medical-device-with-a-robotic-arm-drawing-blood.jpg?id=67726417&width=1200&quality=85"
+    "https://spectrum.ieee.org/media-library/an-older-silver-haired-woman-seated-at-automated-medical-device-with-a-robotic-arm-drawing-blood.jpg?id=67726417&width=1200&quality=85",
+    "https://artsy-media-uploads.s3.amazonaws.com/z01HSkcyLZsJtb5h0U0OdA%2FMAG_99326_Loie_Hollowell_Mother_Radar_in_green_a.width-1100_1500x1000.jpg"
   ]
 }
