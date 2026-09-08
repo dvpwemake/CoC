@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-09-08T01-32",
+    "scannedAt": "2026-09-08T01:32:27.315Z",
+    "items": [
+      {
+        "id": "auto_2026-09-08T01-32_1",
+        "rank": 1,
+        "title": "AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
+        "category": "general",
+        "summary": "The head of chip designer Arm says modelling how a DNA marker is impacted by cancer cannot be done now, but computers are \"going to solve it\".",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/192e/live/85ed8b30-aaa1-11f1-aed2-8d6da8d75094.jpg",
+        "source": "BBC Technology",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-08T01-32_2",
+        "rank": 2,
+        "title": "8 Must-See Shows at Berlin Art Week 2026",
+        "category": "art",
+        "summary": "Berlin Art Week is back, which officially signals the end of the months of Aperol spritzes, pool trips, and pretending the heat wasn’t unbearable. A slow August can be great, but now it’s time for the city to get back…",
+        "image": "https://artsy-media-uploads.s3.amazonaws.com/z01HSkcyLZsJtb5h0U0OdA%2FMAG_99326_Loie_Hollowell_Mother_Radar_in_green_a.width-1100_1500x1000.jpg",
+        "source": "Artsy",
+        "sourceUrl": "https://www.artsy.net/article/artsy-editorial-8-must-see-berlin-art-week-2026",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-08T01-32_3",
+        "rank": 3,
+        "title": "This Robot Will Draw Your Blood Now",
+        "category": "robotics",
+        "summary": "You sit down and put your arm in the cradle. You press a button. The machine takes it from there. A near-infrared light sweeps your inner elbow, hunting for a vein. A puff of alcohol hits your skin. An ultrasound probe…",
+        "image": "https://spectrum.ieee.org/media-library/an-older-silver-haired-woman-seated-at-automated-medical-device-with-a-robotic-arm-drawing-blood.jpg?id=67726417&width=980",
+        "source": "IEEE Spectrum",
+        "sourceUrl": "https://spectrum.ieee.org/blood-draw-robot-vitestro-aletta",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-08T01-32_4",
+        "rank": 4,
+        "title": "STAT+: Novo Nordisk stops two cardiovascular trials of drug aimed at lowering inflammation",
+        "category": "biotech",
+        "summary": "Novo Nordisk has stopped two trials of a drug that aims to tame inflammation as a way to improve cardiovascular health, another blow for the approach.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/01/heart-1-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/09/07/novo-nordisk-heart-studies-inflammation-ziltivekimab/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-08T01-32_5",
+        "rank": 5,
+        "title": "APOD: 2026 September 7 – The Pelican Nebula in Gas, Dust, and Stars",
+        "category": "space",
+        "summary": "APOD Science APOD APOD: 2026 September 7 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or…",
+        "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/september/Pelican_Killion_4800.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "source": "NASA",
+        "sourceUrl": "https://science.nasa.gov/image-article/apod-2026-september-7-the-pelican-nebula-in-gas-dust-and-stars/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-09-07T22-19",
     "scannedAt": "2026-09-07T22:19:09.789Z",
     "items": [

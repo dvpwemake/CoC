@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-09-08T01-32",
+    "scannedAt": "2026-09-08T01:32:27.315Z",
+    "items": [
+      {
+        "id": "auto_2026-09-08T01-32_1",
+        "rank": 1,
+        "title": "AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
+        "category": "general",
+        "summary": "The head of chip designer Arm says modelling how a DNA marker is impacted by cancer cannot be done now, but computers are \"going to solve it\".",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/192e/live/85ed8b30-aaa1-11f1-aed2-8d6da8d75094.jpg",
+        "source": "BBC Technology",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-08T01-32_2",
+        "rank": 2,
+        "title": "8 Must-See Shows at Berlin Art Week 2026",
+        "category": "art",
+        "summary": "Berlin Art Week is back, which officially signals the end of the months of Aperol spritzes, pool trips, and pretending the heat wasn’t unbearable. A slow August can be great, but now it’s time for the city to get back…",
+        "image": "https://artsy-media-uploads.s3.amazonaws.com/z01HSkcyLZsJtb5h0U0OdA%2FMAG_99326_Loie_Hollowell_Mother_Radar_in_green_a.width-1100_1500x1000.jpg",
+        "source": "Artsy",
+        "sourceUrl": "https://www.artsy.net/article/artsy-editorial-8-must-see-berlin-art-week-2026",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-08T01-32_3",
+        "rank": 3,
+        "title": "This Robot Will Draw Your Blood Now",
+        "category": "robotics",
+        "summary": "You sit down and put your arm in the cradle. You press a button. The machine takes it from there. A near-infrared light sweeps your inner elbow, hunting for a vein. A puff of alcohol hits your skin. An ultrasound probe…",
+        "image": "https://spectrum.ieee.org/media-library/an-older-silver-haired-woman-seated-at-automated-medical-device-with-a-robotic-arm-drawing-blood.jpg?id=67726417&width=980",
+        "source": "IEEE Spectrum",
+        "sourceUrl": "https://spectrum.ieee.org/blood-draw-robot-vitestro-aletta",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-08T01-32_4",
+        "rank": 4,
+        "title": "STAT+: Novo Nordisk stops two cardiovascular trials of drug aimed at lowering inflammation",
+        "category": "biotech",
+        "summary": "Novo Nordisk has stopped two trials of a drug that aims to tame inflammation as a way to improve cardiovascular health, another blow for the approach.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/01/heart-1-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/09/07/novo-nordisk-heart-studies-inflammation-ziltivekimab/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-08T01-32_5",
+        "rank": 5,
+        "title": "APOD: 2026 September 7 – The Pelican Nebula in Gas, Dust, and Stars",
+        "category": "space",
+        "summary": "APOD Science APOD APOD: 2026 September 7 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or…",
+        "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/september/Pelican_Killion_4800.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "source": "NASA",
+        "sourceUrl": "https://science.nasa.gov/image-article/apod-2026-september-7-the-pelican-nebula-in-gas-dust-and-stars/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-09-07T22-19",
     "scannedAt": "2026-09-07T22:19:09.789Z",
     "items": [
@@ -1577,67 +1638,6 @@
         "isEditorialArchive": true,
         "publishDate": "2026-08-17",
         "authorName": "Dr. Wallace Lynch"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-08-17T20-11",
-    "scannedAt": "2026-08-17T20:11:24.270Z",
-    "items": [
-      {
-        "id": "auto_2026-08-17T20-11_1",
-        "rank": 1,
-        "title": "Interview with Lattice Semiconductor’s Karl Wachswender: ‘Parallel processing enables more powerful edge AI’",
-        "category": "robotics",
-        "summary": "As robots become more intelligent, autonomous and connected, much of the attention naturally falls on increasingly powerful AI models. But underneath those models is an increasingly complex collection of sensors,…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/Lattice-Image-3.png",
-        "source": "Robotics & Automation News",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/17/interview-with-lattice-semiconductors-karl-wachswender-parallel-processing-enables-more-powerful-edge-ai/104215/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-17T20-11_2",
-        "rank": 2,
-        "title": "Supreme Court rejects Verizon bid for $47 million refund of FCC fine",
-        "category": "general",
-        "summary": "Despite loss, carriers still claim selling device-location data isn't illegal.",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/verizon-stock-ticker-1152x648-1786994944.jpg",
-        "source": "Ars Technica",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/supreme-court-rejects-verizon-bid-for-47-million-refund-of-fcc-fine/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-17T20-11_3",
-        "rank": 3,
-        "title": "Brett Littman to Lead Museum of Contemporary Art San Diego",
-        "category": "art",
-        "summary": "The Museum of Contemporary Art San Diego (MCASD) has announced Brett Littman as its new director and CEO. From 2018 to 2023, Littman served as director of the Noguchi Museum in Long Island City, New York. He succeeds…",
-        "image": "https://www.artforum.com/wp-content/uploads/2026/08/featured00_large-56.jpg-copy.jpg?w=554",
-        "source": "Artforum",
-        "sourceUrl": "https://www.artforum.com/news/brett-littman-to-helm-museum-of-contemporary-art-san-diego-1234757138/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-17T20-11_4",
-        "rank": 4,
-        "title": "NASA Mission Studies Air Pollution Over Ethiopia",
-        "category": "space",
-        "summary": "A NASA-funded air pollution monitoring network has provided one of the most detailed long-term views yet of the role of black carbon, or soot produced by fires, diesel vehicles, and other combustion sources, in…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/08/1-addis-ababa-city-view.jpg",
-        "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/missions/maia/nasa-mission-studies-air-pollution-over-ethiopia/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-17T20-11_5",
-        "rank": 5,
-        "title": "STAT+: Sanofi to lay off 229 workers in Mass., a year after $9.1B Blueprint Medicines acquisition",
-        "category": "biotech",
-        "summary": "Sanofi, one of the Massachusetts' largest pharmaceutical employers, will lay off more than 200 workers there a year after acquiring Blueprint Medicines.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/07/GettyImages-2281597952-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/08/17/sanofi-layoffs-mass-blueprint-medicines/?utm_campaign=rss",
-        "fromX": false
       }
     ]
   }
