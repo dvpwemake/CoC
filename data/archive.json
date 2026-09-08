@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-09-08T01-32",
-    "scannedAt": "2026-09-08T01:32:27.315Z",
+    "batchId": "auto_2026-09-08T08-21",
+    "scannedAt": "2026-09-08T08:21:59.591Z",
     "items": [
       {
-        "id": "auto_2026-09-08T01-32_1",
+        "id": "auto_2026-09-08T08-21_1",
         "rank": 1,
-        "title": "AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
-        "category": "general",
-        "summary": "The head of chip designer Arm says modelling how a DNA marker is impacted by cancer cannot be done now, but computers are \"going to solve it\".",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/192e/live/85ed8b30-aaa1-11f1-aed2-8d6da8d75094.jpg",
-        "source": "BBC Technology",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+        "title": "A Virginia school district pioneers solar and battery microgrids",
+        "category": "energy",
+        "summary": "As climate change intensifies, communities around the country are looking for ways to better prepare for extreme weather, from ice storms to heat waves. In Roanoke, Virginia, nestled in the Blue Ridge Mountains, that…",
+        "image": "https://img.canarymedia.com/content/uploads/Lucy-Addison-Middle-4.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=5ff523f3227efbbc37f52f2982d2c715",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/solar/virginia-school-district-solar-battery-microgrids",
         "fromX": false
       },
       {
-        "id": "auto_2026-09-08T01-32_2",
+        "id": "auto_2026-09-08T08-21_2",
         "rank": 2,
-        "title": "8 Must-See Shows at Berlin Art Week 2026",
-        "category": "art",
-        "summary": "Berlin Art Week is back, which officially signals the end of the months of Aperol spritzes, pool trips, and pretending the heat wasn’t unbearable. A slow August can be great, but now it’s time for the city to get back…",
-        "image": "https://artsy-media-uploads.s3.amazonaws.com/z01HSkcyLZsJtb5h0U0OdA%2FMAG_99326_Loie_Hollowell_Mother_Radar_in_green_a.width-1100_1500x1000.jpg",
-        "source": "Artsy",
-        "sourceUrl": "https://www.artsy.net/article/artsy-editorial-8-must-see-berlin-art-week-2026",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-08T01-32_3",
-        "rank": 3,
-        "title": "This Robot Will Draw Your Blood Now",
-        "category": "robotics",
-        "summary": "You sit down and put your arm in the cradle. You press a button. The machine takes it from there. A near-infrared light sweeps your inner elbow, hunting for a vein. A puff of alcohol hits your skin. An ultrasound probe…",
-        "image": "https://spectrum.ieee.org/media-library/an-older-silver-haired-woman-seated-at-automated-medical-device-with-a-robotic-arm-drawing-blood.jpg?id=67726417&width=980",
-        "source": "IEEE Spectrum",
-        "sourceUrl": "https://spectrum.ieee.org/blood-draw-robot-vitestro-aletta",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-08T01-32_4",
-        "rank": 4,
-        "title": "STAT+: Novo Nordisk stops two cardiovascular trials of drug aimed at lowering inflammation",
+        "title": "STAT+: Neuromuscular drug from Novartis fails in key study, adding to pressure on company",
         "category": "biotech",
-        "summary": "Novo Nordisk has stopped two trials of a drug that aims to tame inflammation as a way to improve cardiovascular health, another blow for the approach.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/01/heart-1-1024x576.jpg",
+        "summary": "A Novartis drug for a rare neuromuscular condition failed in a key study, the company's second major trial collapse in a matter of days.",
+        "image": "https://www.statnews.com/wp-content/uploads/2018/10/STAT_Novartis01-1024x576.jpg",
         "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/09/07/novo-nordisk-heart-studies-inflammation-ziltivekimab/?utm_campaign=rss",
+        "sourceUrl": "https://www.statnews.com/2026/09/08/novartis-del-desiran-myotonic-dystrophy-harbor-trial-failure-neuromuscular/?utm_campaign=rss",
         "fromX": false
       },
       {
-        "id": "auto_2026-09-08T01-32_5",
-        "rank": 5,
-        "title": "APOD: 2026 September 7 – The Pelican Nebula in Gas, Dust, and Stars",
+        "id": "auto_2026-09-08T08-21_3",
+        "rank": 3,
+        "title": "Xiaomi’s wide foldable promises more power than Samsung’s",
+        "category": "general",
+        "summary": "Xiaomi is the latest manufacturer to release a short, wide foldable phone, in the week Apple is expected to do the same. I got to try the 18 Fold behind closed doors at IFA last week, and while it looks and feels…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/xiaomi-18-fold-hands-on-impressions-10.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "sourceUrl": "https://www.theverge.com/tech/991008/xiaomi-18-fold-hands-on-impressions-specs-wide",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-08T08-21_4",
+        "rank": 4,
+        "title": "APOD: 2026 September 8 – Hubble: Decagon Around Saturn’s South Pole",
         "category": "space",
-        "summary": "APOD Science APOD APOD: 2026 September 7 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or…",
-        "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/september/Pelican_Killion_4800.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "summary": "APOD Science APOD APOD: 2026 September 8 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or…",
+        "image": "https://assets.science.nasa.gov/content/dam/science/missions/hubble/releases/2026/09/Hubble_Saturn_SouthPole_Decagon.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
         "source": "NASA",
-        "sourceUrl": "https://science.nasa.gov/image-article/apod-2026-september-7-the-pelican-nebula-in-gas-dust-and-stars/",
+        "sourceUrl": "https://science.nasa.gov/image-article/apod-2026-september-8-hubble-decagon-around-saturns-south-pole/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-08T08-21_5",
+        "rank": 5,
+        "title": "Jacques Rancière on Creative Emancipation",
+        "category": "art",
+        "summary": "The philosopher probes the \"precinct of art\"",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/09/Screenshot-2026-09-07-at-4.42.52-AM.png?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/columns/jacques-ranciere-creative-emancipation-1234758890/",
         "fromX": false
       }
     ]
