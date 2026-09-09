@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-09-09T15-22",
-    "scannedAt": "2026-09-09T15:22:13.064Z",
+    "batchId": "auto_2026-09-09T18-53",
+    "scannedAt": "2026-09-09T18:53:00.898Z",
     "items": [
       {
-        "id": "auto_2026-09-09T15-22_1",
+        "id": "auto_2026-09-09T18-53_1",
         "rank": 1,
-        "title": "Could a Kid Do It? The Wa Transforms Buildings into Childlike Drawings",
-        "category": "art",
-        "summary": "In his series 'A Kid Could Do It,' The Wa transforms otherwise nondescript structures into jubilant, youthful drawings. Do stories and artists like this matter to you? Become a Colossal Member today and support…",
-        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/09/the-wa-7-e1788964208216.jpg",
-        "source": "Colossal",
-        "sourceUrl": "https://www.thisiscolossal.com/2026/09/a-kid-could-do-it-the-wa-pfffestival-murals/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-09T15-22_2",
-        "rank": 2,
-        "title": "STAT+: Can AI fix the emergency room?",
-        "category": "biotech",
-        "summary": "AI can't change the ER's problems, which exemplify health care's bigger problems, writes Brittany Trang in this week's AI Prognosis.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/09/AIPrognosis_Wordpress_ER-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/09/09/scribe-emergency-room-fix-health-care-ai-prognosis/?utm_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-09T15-22_3",
-        "rank": 3,
-        "title": "The Switch 2 is getting a 2D Metroid called Ravenous",
+        "title": "Apple Unveils the iPhone Duo, a Foldable Phone That Costs $1,999",
         "category": "general",
-        "summary": "Nintendo just announced a new 2D entry in the Metroid series for the Switch 2, titled Metroid Ravenous. It's launching on January 28th, 2027. The new game looks like an evolution of Metroid Dread. While it's still a 2D…",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-09-at-7.44.37-AM.png?quality=90&strip=all&crop=0%2C2.8499270178814%2C100%2C94.300145964237&w=1200",
-        "source": "The Verge",
-        "sourceUrl": "https://www.theverge.com/games/992053/the-switch-2-is-getting-a-2d-metroid-called-ravenous",
+        "summary": "At the company’s annual September product event, Apple also demonstrated its work on artificial intelligence and other new devices.",
+        "image": "https://static01.nyt.com/images/2026/09/09/multimedia/09biz-apple-event-phone-zgmf/09biz-apple-event-phone-zgmf-mediumSquareAt3X.jpg",
+        "source": "NYT Technology",
+        "sourceUrl": "https://www.nytimes.com/2026/09/09/technology/apple-iphone-duo-foldable-phone.html",
         "fromX": false
       },
       {
-        "id": "auto_2026-09-09T15-22_4",
-        "rank": 4,
-        "title": "NASA Names Two Artemis II Astronauts to Emeritus Program",
+        "id": "auto_2026-09-09T18-53_2",
+        "rank": 2,
+        "title": "NASA’s Chandra Unveils Mysterious X-Ray Objects",
         "category": "space",
-        "summary": "Following their landmark Artemis II mission earlier this year, distinguished NASA astronauts Victor Glover and Reid Wiseman are transitioning in September to emeritus status at the agency’s Johnson Space Center in…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/09/glover-and-wiseman-announcement-sept-9.jpg",
+        "summary": "Using NASA’s Chandra X-ray Observatory, scientists have discovered a new class of objects behaving unlike any they have seen before. Astronomers suggest these newly spotted objects in other galaxies may help solve not…",
+        "image": "https://assets.science.nasa.gov/content/dam/science/missions/chandra/2026/m101_labeled.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
         "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/news-release/nasa-names-two-artemis-ii-astronauts-to-emeritus-program/",
+        "sourceUrl": "https://science.nasa.gov/missions/chandra/nasas-chandra-unveils-mysterious-x-ray-objects/",
         "fromX": false
       },
       {
-        "id": "auto_2026-09-09T15-22_5",
+        "id": "auto_2026-09-09T18-53_3",
+        "rank": 3,
+        "title": "National Gallery’s Robert Stein Named Executive Director of Amon Carter Museum in Fort Worth",
+        "category": "art",
+        "summary": "The Amon Carter Museum of American Art in Fort Worth has announced Robert Stein as its new executive director and CEO. Stein joins the institution from the National Gallery of Art in Washington, DC, where he has served…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/09/Rob-Stein_Photo-Courtesy-of-the-National-Gallery-of-Art-1-801x1024.jpg.webp?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/news/robert-stein-named-executive-director-of-amon-carter-museum-1234758971/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-09T18-53_4",
+        "rank": 4,
+        "title": "STAT+: ARPA-H to invest $62 million to develop FDA-authorized AI to help treat heart failure",
+        "category": "biotech",
+        "summary": "ARPA-H, the government agency that funds cutting edge health research, plans to commit $62.7 million to develop artificial intelligence bots that direct treatment of heart failure.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/09/AdobeStock_312976841-1024x576.jpeg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/09/09/arpa-h-advocate-program-autonomous-ai-bots-for-heart-failure/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-09T18-53_5",
         "rank": 5,
-        "title": "Questionable data center forecasts are driving up Ohio power bills",
+        "title": "Virginia kept its climate law. Dominion sees a loophole.",
         "category": "energy",
-        "summary": "Ohio has emerged as one of the top states for data center developers, with roughly 100 of the facilities already up and running and nearly 150 more on the way. Many of those planned facilities may never get built, but…",
-        "image": "https://img.canarymedia.com/content/uploads/COL5-AI-Data-Center-Construction-Lewis-Ohio_GettyImages-2226519839.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=20735b02a1eb0e5cc03703a85b9a2cc4",
+        "summary": "Even as data centers spike energy demand and electricity rates rise, Virginia has stood by its landmark climate targets when other states, from New York to Hawaii , have wavered. Legislators in the data center capital…",
+        "image": "https://img.canarymedia.com/content/uploads/AP18199714018124.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=5317de40e530c6f2ec19dcaedfc508e0",
         "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/data-centers/questionable-data-center-forecasts-ohio-power-bills",
+        "sourceUrl": "https://www.canarymedia.com/articles/fossil-fuels/virginia-climate-law-dominion-loophole",
         "fromX": false
       }
     ]
