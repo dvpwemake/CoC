@@ -1,105 +1,149 @@
 {
   "published": {
-    "id": "ed_2026-09-08",
-    "publishDate": "2026-09-08",
+    "id": "ed_2026-09-09",
+    "publishDate": "2026-09-09",
     "status": "published",
-    "createdAt": "2026-09-09T05:53:32.621Z",
-    "updatedAt": "2026-09-09T05:53:45.421Z",
+    "updatedAt": "2026-09-09T06:00:00.100Z",
     "title": "No name on the door",
-    "dek": "Agents that plan for the unexpected. Three hundred homes that did not ask.",
-    "body": "Danijar Hafner's office in San Francisco's SoMa district sits mostly empty. The startup is in stealth. There is no name on the door. He is building agents that can plan ahead for the unexpected. On the day MIT Technology Review visits, one other person is there.\n\nOn Tuesday, September 8, 2026, we hold that empty room to one pressure: who still gets to refuse the plan that arrives without a name.\n\nThe housing authority in Concord, New Hampshire, put Minut sensors in three hundred public homes. Noise. Motion. Tenants are suing to take them out. The FDA warned an API supplier about residue on the walls, a corroded product line, and open-toed sandals. Then it named the acting heads of the drug and vaccine centers to permanent jobs. Stability, after the exits. NextEra closed a Department of Energy loan of up to $1.9 billion to restart a shuttered nuclear plant in Iowa. Roanoke's schools are building solar and battery microgrids for ice and heat.\n\nLucien Smith has died at thirty-seven. Painting, public work, restaurants. An Argentina court ordered a Nazi-looted Old Master portrait returned to the heir of Jacques Goudstikker, from a private collection, through a criminal case. Phaidon will publish more than two hundred works on fungi. Sony is still killing the game disc in January 2028. The last plant is not closing as fast as we thought. Jaden Caradine wanted to be an engineer at eight. He took the Corps, then Embry-Riddle, then NASA. Nature posted an author correction on AhR inhibition and axon regeneration: a stress-growth switch, revised.\n\nAn unnamed door. A sensor in the wall. A plant that was dead. Convergence is not the agent that plans ahead. It is whether the unexpected still belongs to the person who lives in the room.",
+    "dek": "Agents that plan for the unexpected. Three hundred homes that did not ask",
+    "authorName": "Dr. Wallace Lynch",
+    "authorTitle": "Editor in Chief",
+    "body": "Danijar Hafner's office in San Francisco's SoMa district sits mostly empty. The startup is in stealth. There is no name on the door. He is building agents that can plan ahead for the unexpected. On the day MIT Technology Review visits, one other person is there.\n\nThe housing authority in Concord, New Hampshire, put Minut sensors in three hundred public homes. Noise. Motion. Tenants are suing to take them out. The FDA warned an API supplier about residue on the walls, a corroded product line, and open-toed sandals. Then it named the acting heads of the drug and vaccine centers to permanent jobs. Stability, after the exits. NextEra closed a Department of Energy loan of up to $1.9 billion to restart a shuttered nuclear plant in Iowa. Roanoke's schools are building solar and battery microgrids for ice and heat.\n\nLucien Smith has died at thirty-seven. Painting, public work, restaurants. An Argentina court ordered a Nazi-looted Old Master portrait returned to the heir of Jacques Goudstikker, from a private collection, through a criminal case. Phaidon will publish more than two hundred works on fungi. Sony is still killing the game disc in January 2028. The last plant is not closing as fast as we thought. Jaden Caradine wanted to be an engineer at eight. He took the Corps, then Embry-Riddle, then NASA. Nature posted an author correction on AhR inhibition and axon regeneration: a stress-growth switch, revised.\n\nAn unnamed door. A sensor in the wall. A plant that was dead. Convergence is not the agent that plans ahead. It is whether the unexpected still belongs to the person who lives in the room.",
     "paragraphs": [
       "Danijar Hafner's office in San Francisco's SoMa district sits mostly empty. The startup is in stealth. There is no name on the door. He is building agents that can plan ahead for the unexpected. On the day MIT Technology Review visits, one other person is there.",
-      "On Tuesday, September 8, 2026, we hold that empty room to one pressure: who still gets to refuse the plan that arrives without a name.",
       "The housing authority in Concord, New Hampshire, put Minut sensors in three hundred public homes. Noise. Motion. Tenants are suing to take them out. The FDA warned an API supplier about residue on the walls, a corroded product line, and open-toed sandals. Then it named the acting heads of the drug and vaccine centers to permanent jobs. Stability, after the exits. NextEra closed a Department of Energy loan of up to $1.9 billion to restart a shuttered nuclear plant in Iowa. Roanoke's schools are building solar and battery microgrids for ice and heat.",
       "Lucien Smith has died at thirty-seven. Painting, public work, restaurants. An Argentina court ordered a Nazi-looted Old Master portrait returned to the heir of Jacques Goudstikker, from a private collection, through a criminal case. Phaidon will publish more than two hundred works on fungi. Sony is still killing the game disc in January 2028. The last plant is not closing as fast as we thought. Jaden Caradine wanted to be an engineer at eight. He took the Corps, then Embry-Riddle, then NASA. Nature posted an author correction on AhR inhibition and axon regeneration: a stress-growth switch, revised.",
       "An unnamed door. A sensor in the wall. A plant that was dead. Convergence is not the agent that plans ahead. It is whether the unexpected still belongs to the person who lives in the room."
     ],
-    "wordCount": 297,
-    "authorName": "Dr. Wallace Lynch",
-    "authorTitle": "Editor in Chief",
-    "heroImage": "https://wp.technologyreview.com/wp-content/uploads/2026/08/Danijar-0G6A8052-2.jpg?resize=1200,600",
-    "heroCredit": "Danijar Hafner. MIT Technology Review",
-    "heroSource": "MIT Technology Review",
-    "heroSourceUrl": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
+    "wordCount": 272,
+    "heroImage": "https://img.canarymedia.com/content/uploads/Lucy-Addison-Middle-4.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=5ff523f3227efbbc37f52f2982d2c715",
+    "heroCredit": "A Virginia school district pioneers solar and battery microgrids",
+    "heroSource": "Canary Media",
+    "heroSourceUrl": "https://www.canarymedia.com/articles/solar/virginia-school-district-solar-battery-microgrids",
     "headlines": [
       {
         "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
         "source": "MIT Technology Review",
         "category": "ai",
-        "sourceUrl": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/"
+        "sourceUrl": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
+        "summary": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visit, there’s only one other person…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/Danijar-0G6A8052-2.jpg?resize=1200,600"
       },
       {
         "title": "Lucien Smith, Whose Meteoric Rise Presaged a Diverse Second Act, Dies at 37",
         "source": "Artforum",
         "category": "art",
-        "sourceUrl": "https://www.artforum.com/news/lucien-smith-dies-at-37-1234758939/"
+        "sourceUrl": "https://www.artforum.com/news/lucien-smith-dies-at-37-1234758939/",
+        "summary": "Lucien Smith, an artist whose career spanned painting, public projects, and restaurants, has died at the age of thirty-seven. His death, news of which circulated widely on social media, was first reported by Art News.…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/09/Screenshot-2026-09-08-at-5.35.01-PM.png?w=650"
       },
       {
-        "title": "FDA warns an API supplier about residue on walls, a corroded product line, and open-toed sandals",
+        "title": "STAT+: FDA warns an API supplier about residue on walls, a corroded product line, and open-toed sandals",
         "source": "STAT News",
         "category": "biotech",
-        "sourceUrl": "https://www.statnews.com/pharmalot/2026/09/08/fda-warns-api-supplier-residue-corroded-production-line-sandals/?utm_campaign=rss"
+        "sourceUrl": "https://www.statnews.com/pharmalot/2026/09/08/fda-warns-api-supplier-residue-corroded-production-line-sandals/?utm_campaign=rss",
+        "summary": "The FDA warned a supplier of active pharma ingredients about residue on walls, a corroded product line, and open-toed sandals at its facility. It also included photos.",
+        "image": "https://www.statnews.com/wp-content/uploads/2023/04/AdobeStock_521699065_Editorial_Use_Only-1024x576.jpeg"
       },
       {
         "title": "A Virginia school district pioneers solar and battery microgrids",
         "source": "Canary Media",
         "category": "energy",
-        "sourceUrl": "https://www.canarymedia.com/articles/solar/virginia-school-district-solar-battery-microgrids"
+        "sourceUrl": "https://www.canarymedia.com/articles/solar/virginia-school-district-solar-battery-microgrids",
+        "summary": "As climate change intensifies, communities around the country are looking for ways to better prepare for extreme weather, from ice storms to heat waves. In Roanoke, Virginia, nestled in the Blue Ridge Mountains, that…",
+        "image": "https://img.canarymedia.com/content/uploads/Lucy-Addison-Middle-4.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=5ff523f3227efbbc37f52f2982d2c715"
       },
       {
         "title": "Noise and Motion Monitors in Their Homes? These Tenants Say No.",
         "source": "NYT Technology",
         "category": "general",
-        "sourceUrl": "https://www.nytimes.com/2026/09/02/technology/noise-monitors-public-housing.html"
+        "sourceUrl": "https://www.nytimes.com/2026/09/02/technology/noise-monitors-public-housing.html",
+        "summary": "The public housing authority in Concord, N.H., installed monitoring devices in 300 homes. Tenants are now suing to remove the Minut sensors.",
+        "image": "https://static01.nyt.com/images/2026/09/09/multimedia/02biz-noise-monitoring-01-bjpv/02biz-noise-monitoring-01-bjpv-mediumSquareAt3X.jpg"
       },
       {
         "title": "Spanning 200+ Works, a New Book Celebrates the World of Fungi",
         "source": "Colossal",
         "category": "art",
-        "sourceUrl": "https://www.thisiscolossal.com/2026/09/spanning-200-works-a-new-book-celebrates-the-world-of-fungi/"
+        "sourceUrl": "https://www.thisiscolossal.com/2026/09/spanning-200-works-a-new-book-celebrates-the-world-of-fungi/",
+        "summary": "Following surveys of butterflies, birds, oceans, and trees, the editors at Phaidon have settled on their next topic of inquiry: fungi. This October, the publisher will release an expansive tome gathering more than 200…",
+        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/09/fungi-7.jpg"
       },
       {
-        "title": "FDA names acting heads of drug and vaccine centers to permanent roles",
+        "title": "STAT+: FDA names acting heads of drug and vaccine centers to permanent roles",
         "source": "STAT News",
         "category": "biotech",
-        "sourceUrl": "https://www.statnews.com/2026/09/08/fda-names-leaders-cder-cber-michael-davis-karim-mikhail/?utm_campaign=rss"
+        "sourceUrl": "https://www.statnews.com/2026/09/08/fda-names-leaders-cder-cber-michael-davis-karim-mikhail/?utm_campaign=rss",
+        "summary": "The moves bring stability to an agency that's been rocked by the exits of top leadership.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/09/Mike-1024x576.jpg"
       },
       {
         "title": "Shuttered nuclear plant in Iowa gets $1.9B federal loan to restart",
         "source": "Canary Media",
         "category": "energy",
-        "sourceUrl": "https://www.canarymedia.com/articles/nuclear/shuttered-nuclear-plant-in-iowa-gets-1-9b-federal-loan-to-restart"
+        "sourceUrl": "https://www.canarymedia.com/articles/nuclear/shuttered-nuclear-plant-in-iowa-gets-1-9b-federal-loan-to-restart",
+        "summary": "A third shuttered U.S. nuclear power plant is set to attempt a comeback with hefty support from the federal government. On Tuesday, the U.S. Department of Energy said it closed a loan of up to $1.9 billion to NextEra…",
+        "image": "https://img.canarymedia.com/content/uploads/AP-Duane-Arnold.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=7f74c01d1087f016f12340b55543cb9d"
       },
       {
         "title": "Sony isn’t phasing out discs quite as quickly as we thought",
         "source": "The Verge",
         "category": "general",
-        "sourceUrl": "https://www.theverge.com/games/991806/sony-disc-plant-90-percent-10-percent"
+        "sourceUrl": "https://www.theverge.com/games/991806/sony-disc-plant-90-percent-10-percent",
+        "summary": "Sony isn't backing away from its decision to kill the video game disc in January 2028. But Sony isn't shutting down production as quickly as we thought, either. Two months after reports that Sony's last discmaking plant…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25717617/247361_PS5_Pro_VPavic_224.jpg?quality=90&strip=all&crop=0%2C10.761835884455%2C100%2C78.47632823109&w=1200"
       },
       {
         "title": "From the Corps to the Cosmos, featuring Jaden Caradine",
         "source": "NASA",
         "category": "space",
-        "sourceUrl": "https://www.nasa.gov/general/from-the-corps-to-the-cosmos-featuring-jaden-caradine/"
+        "sourceUrl": "https://www.nasa.gov/general/from-the-corps-to-the-cosmos-featuring-jaden-caradine/",
+        "summary": "Jaden Caradine knew he wanted to be an engineer at eight years old. He just took a winding road to get there. Before he enrolled at Embry-Riddle Aeronautical University, before he discovered the field that would become…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/09/img-20260417-wa0008.jpg"
       },
       {
         "title": "Argentina court orders return of Nazi-looted Old Master portrait to Jewish dealer’s heir",
         "source": "The Art Newspaper",
         "category": "art",
-        "sourceUrl": "https://www.theartnewspaper.com/2026/09/07/nazi-looted-old-master-portrait-argentina-restitution-jacques-goudstikker-heirs"
+        "sourceUrl": "https://www.theartnewspaper.com/2026/09/07/nazi-looted-old-master-portrait-argentina-restitution-jacques-goudstikker-heirs",
+        "summary": "Lawyers for the heir, a descendant of the Dutch dealer Jacques Goudstikker, say the outcome is ‘unprecedented’ as it involves the recovery of a work held in private hands through a criminal case",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/69bf95ddee3b84c28f3c5ab3ab3e5a54cbf9de51-2000x1687.jpg?w=140"
       },
       {
         "title": "Author Correction: AhR inhibition promotes axon regeneration via a stress–growth switch",
         "source": "Nature",
         "category": "biotech",
-        "sourceUrl": "https://www.nature.com/articles/s41586-026-11103-4"
+        "sourceUrl": "https://www.nature.com/articles/s41586-026-11103-4",
+        "summary": "Nature, Published online: 07 September 2026; doi:10.1038/s41586-026-11103-4 Author Correction: AhR inhibition promotes axon regeneration via a stress–growth switch",
+        "image": ""
       }
     ],
-    "publishedAt": "2026-09-09T05:53:45.421Z"
+    "publishedAt": "2026-09-09T06:00:00.100Z"
   },
   "drafts": {},
   "history": [
+    {
+      "id": "ed_2026-09-09",
+      "publishDate": "2026-09-09",
+      "status": "published",
+      "updatedAt": "2026-09-09T06:00:00.100Z",
+      "title": "No name on the door",
+      "dek": "Agents that plan for the unexpected. Three hundred homes that did not ask",
+      "authorName": "Dr. Wallace Lynch",
+      "authorTitle": "Editor in Chief",
+      "paragraphs": [
+        "Danijar Hafner's office in San Francisco's SoMa district sits mostly empty. The startup is in stealth. There is no name on the door. He is building agents that can plan ahead for the unexpected. On the day MIT Technology Review visits, one other person is there.",
+        "The housing authority in Concord, New Hampshire, put Minut sensors in three hundred public homes. Noise. Motion. Tenants are suing to take them out. The FDA warned an API supplier about residue on the walls, a corroded product line, and open-toed sandals. Then it named the acting heads of the drug and vaccine centers to permanent jobs. Stability, after the exits. NextEra closed a Department of Energy loan of up to $1.9 billion to restart a shuttered nuclear plant in Iowa. Roanoke's schools are building solar and battery microgrids for ice and heat.",
+        "Lucien Smith has died at thirty-seven. Painting, public work, restaurants. An Argentina court ordered a Nazi-looted Old Master portrait returned to the heir of Jacques Goudstikker, from a private collection, through a criminal case. Phaidon will publish more than two hundred works on fungi. Sony is still killing the game disc in January 2028. The last plant is not closing as fast as we thought. Jaden Caradine wanted to be an engineer at eight. He took the Corps, then Embry-Riddle, then NASA. Nature posted an author correction on AhR inhibition and axon regeneration: a stress-growth switch, revised.",
+        "An unnamed door. A sensor in the wall. A plant that was dead. Convergence is not the agent that plans ahead. It is whether the unexpected still belongs to the person who lives in the room."
+      ],
+      "wordCount": 272,
+      "heroImage": "https://img.canarymedia.com/content/uploads/Lucy-Addison-Middle-4.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=5ff523f3227efbbc37f52f2982d2c715",
+      "heroCredit": "A Virginia school district pioneers solar and battery microgrids",
+      "heroSource": "Canary Media",
+      "heroSourceUrl": "https://www.canarymedia.com/articles/solar/virginia-school-district-solar-battery-microgrids",
+      "publishedAt": "2026-09-09T06:00:00.100Z"
+    },
     {
       "id": "ed_2026-09-08",
       "publishDate": "2026-09-08",
@@ -1311,6 +1355,7 @@
     "https://www.sciencedaily.com/images/1920/smiling-senior-man-strength-fitness-exercise.webp",
     "https://spectrum.ieee.org/media-library/an-older-silver-haired-woman-seated-at-automated-medical-device-with-a-robotic-arm-drawing-blood.jpg?id=67726417&width=1200&quality=85",
     "https://wp.technologyreview.com/wp-content/uploads/2026/08/Danijar-0G6A8052-2.jpg?resize=1200,600",
-    "https://artsy-media-uploads.s3.amazonaws.com/z01HSkcyLZsJtb5h0U0OdA%2FMAG_99326_Loie_Hollowell_Mother_Radar_in_green_a.width-1100_1500x1000.jpg"
+    "https://artsy-media-uploads.s3.amazonaws.com/z01HSkcyLZsJtb5h0U0OdA%2FMAG_99326_Loie_Hollowell_Mother_Radar_in_green_a.width-1100_1500x1000.jpg",
+    "https://img.canarymedia.com/content/uploads/Lucy-Addison-Middle-4.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=5ff523f3227efbbc37f52f2982d2c715"
   ]
 }
