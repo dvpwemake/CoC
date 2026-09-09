@@ -1,62 +1,82 @@
 [
   {
-    "batchId": "auto_2026-09-09T01-40",
-    "scannedAt": "2026-09-09T01:40:44.771Z",
+    "batchId": "auto_2026-09-09T08-24",
+    "scannedAt": "2026-09-09T08:24:40.475Z",
     "items": [
       {
-        "id": "auto_2026-09-09T01-40_1",
+        "id": "auto_2026-09-09T08-24_1",
         "rank": 1,
-        "title": "Noise and Motion Monitors in Their Homes? These Tenants Say No.",
-        "category": "general",
-        "summary": "The public housing authority in Concord, N.H., installed monitoring devices in 300 homes. Tenants are now suing to remove the Minut sensors.",
-        "image": "https://static01.nyt.com/images/2026/09/09/multimedia/02biz-noise-monitoring-01-bjpv/02biz-noise-monitoring-01-bjpv-mediumSquareAt3X.jpg",
-        "source": "NYT Technology",
-        "sourceUrl": "https://www.nytimes.com/2026/09/02/technology/noise-monitors-public-housing.html",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-09T01-40_2",
-        "rank": 2,
-        "title": "Lucien Smith, Whose Meteoric Rise Presaged a Diverse Second Act, Dies at 37",
-        "category": "art",
-        "summary": "Lucien Smith, an artist whose career spanned painting, public projects, and restaurants, has died at the age of thirty-seven. His death, news of which circulated widely on social media, was first reported by Art News.…",
-        "image": "https://www.artforum.com/wp-content/uploads/2026/09/Screenshot-2026-09-08-at-5.35.01-PM.png?w=650",
-        "source": "Artforum",
-        "sourceUrl": "https://www.artforum.com/news/lucien-smith-dies-at-37-1234758939/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-09T01-40_3",
-        "rank": 3,
-        "title": "STAT+: FDA warns an API supplier about residue on walls, a corroded product line, and open-toed sandals",
-        "category": "biotech",
-        "summary": "The FDA warned a supplier of active pharma ingredients about residue on walls, a corroded product line, and open-toed sandals at its facility. It also included photos.",
-        "image": "https://www.statnews.com/wp-content/uploads/2023/04/AdobeStock_521699065_Editorial_Use_Only-1024x576.jpeg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/pharmalot/2026/09/08/fda-warns-api-supplier-residue-corroded-production-line-sandals/?utm_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-09T01-40_4",
-        "rank": 4,
-        "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
-        "category": "ai",
-        "summary": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visit, there’s only one other person…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/Danijar-0G6A8052-2.jpg?resize=1200,600",
-        "source": "MIT Technology Review",
-        "sourceUrl": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-09T01-40_5",
-        "rank": 5,
-        "title": "A Virginia school district pioneers solar and battery microgrids",
+        "title": "Virginia kept its climate law. Dominion sees a loophole.",
         "category": "energy",
-        "summary": "As climate change intensifies, communities around the country are looking for ways to better prepare for extreme weather, from ice storms to heat waves. In Roanoke, Virginia, nestled in the Blue Ridge Mountains, that…",
-        "image": "https://img.canarymedia.com/content/uploads/Lucy-Addison-Middle-4.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=5ff523f3227efbbc37f52f2982d2c715",
+        "summary": "Even as data centers spike energy demand and electricity rates rise, Virginia has stood by its landmark climate targets when other states, from New York to Hawaii , have wavered. Legislators in the data center capital…",
+        "image": "https://img.canarymedia.com/content/uploads/AP18199714018124.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=5317de40e530c6f2ec19dcaedfc508e0",
         "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/solar/virginia-school-district-solar-battery-microgrids",
+        "sourceUrl": "https://www.canarymedia.com/articles/fossil-fuels/virginia-climate-law-dominion-loophole",
         "fromX": false
+      },
+      {
+        "id": "auto_2026-09-09T08-24_2",
+        "rank": 2,
+        "title": "Curiosity Blog, Sols 4995-5001: 5,000 (Martian) Days on Mars",
+        "category": "space",
+        "summary": "Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, Aug. 28, 2026 The span of sols spanned by this blog post is noteworthy in several ways. First, Curiosity became…",
+        "image": "https://assets.science.nasa.gov/content/dam/science/missions/msl/2026/curiosity-rover-updates/august/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04998_opgs_edr_ncam_NRB_841193197EDR_F1241978NCAM00296M_.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "source": "NASA",
+        "sourceUrl": "https://science.nasa.gov/blog/curiosity-blog-sols-4995-5001-5000-martian-days-on-mars/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-09T08-24_3",
+        "rank": 3,
+        "title": "Apple’s foldable ‘iPhone Duo’ will reportedly start at $2,000",
+        "category": "general",
+        "summary": "With only a few hours left until the first iPhone launch event since John Ternus took over as the CEO of Apple, Bloomberg reporter Mark Gurman says the name of the company's long-rumored folding phone is the iPhone Duo.…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK071_APPLE_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "sourceUrl": "https://www.theverge.com/tech/991884/apple-iphone-duo-rumor-foldable",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-09T08-24_4",
+        "rank": 4,
+        "title": "What OpenAI’s latest controversy tells us about the future of math",
+        "category": "ai",
+        "summary": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/math-2c.jpg?resize=1200,600",
+        "source": "MIT Technology Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-09T08-24_5",
+        "rank": 5,
+        "title": "Smithsonian leader Lonnie G. Bunch to retire",
+        "category": "art",
+        "summary": "The steadfast historian leaves the institution after 38 years, the past couple of them marred by political tensions with the Trump administration",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/3776f4b29b8bc67d31c14218a01fa9f3d41f834f-957x638.jpg?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/09/08/lonnie-bunch-smithsonian-institution-secretary-retiring",
+        "fromX": false
+      }
+    ]
+  },
+  {
+    "batchId": "editorial_2026-09-08",
+    "scannedAt": "2026-09-09T05:53:45.421Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-09-08",
+        "rank": 0,
+        "title": "No name on the door",
+        "category": "editorial",
+        "summary": "Agents that plan for the unexpected. Three hundred homes that did not ask.",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/Danijar-0G6A8052-2.jpg?resize=1200,600",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-09-08.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-09-08",
+        "authorName": "Dr. Wallace Lynch"
       }
     ]
   },
@@ -178,6 +198,87 @@
         "image": "https://spectrum.ieee.org/media-library/humanoid-robot-tidies-an-orange-couch-while-a-person-watches-in-a-modern-living-room.gif?id=67725697&width=980",
         "source": "IEEE Spectrum",
         "sourceUrl": "https://spectrum.ieee.org/video-friday-agility-robotics-digit",
+        "fromX": false
+      }
+    ]
+  },
+  {
+    "batchId": "editorial_2026-09-07",
+    "scannedAt": "2026-09-07T17:55:14.618Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-09-07",
+        "rank": 0,
+        "title": "You sit down",
+        "category": "editorial",
+        "summary": "The machine finds the vein. Two heart trials stop.",
+        "image": "https://spectrum.ieee.org/media-library/an-older-silver-haired-woman-seated-at-automated-medical-device-with-a-robotic-arm-drawing-blood.jpg?id=67726417&width=1200&quality=85",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-09-07.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-09-07",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
+    "batchId": "auto_2026-09-07T16-41",
+    "scannedAt": "2026-09-07T16:41:30.926Z",
+    "items": [
+      {
+        "id": "auto_2026-09-07T16-41_1",
+        "rank": 1,
+        "title": "Home Depot Labor Day Sale (2026): BOGO on Best Grills and Tools",
+        "category": "general",
+        "summary": "The Home Depot Labor Day sale goes hard on grills and tools. Here are our recommendations on what to buy—and what to ignore.",
+        "image": "https://media.wired.com/photos/6a9b0a92df1ff8f5f606a6e1/master/pass/Home-Depot",
+        "source": "WIRED",
+        "sourceUrl": "https://www.wired.com/story/home-depot-labor-day-sale-deals-2026/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-07T16-41_2",
+        "rank": 2,
+        "title": "8 Must-See Shows at Berlin Art Week 2026",
+        "category": "art",
+        "summary": "Berlin Art Week is back, which officially signals the end of the months of Aperol spritzes, pool trips, and pretending the heat wasn’t unbearable. A slow August can be great, but now it’s time for the city to get back…",
+        "image": "https://artsy-media-uploads.s3.amazonaws.com/z01HSkcyLZsJtb5h0U0OdA%2FMAG_99326_Loie_Hollowell_Mother_Radar_in_green_a.width-1100_1500x1000.jpg",
+        "source": "Artsy",
+        "sourceUrl": "https://www.artsy.net/article/artsy-editorial-8-must-see-berlin-art-week-2026",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-07T16-41_3",
+        "rank": 3,
+        "title": "This Robot Will Draw Your Blood Now",
+        "category": "robotics",
+        "summary": "You sit down and put your arm in the cradle. You press a button. The machine takes it from there. A near-infrared light sweeps your inner elbow, hunting for a vein. A puff of alcohol hits your skin. An ultrasound probe…",
+        "image": "https://spectrum.ieee.org/media-library/an-older-silver-haired-woman-seated-at-automated-medical-device-with-a-robotic-arm-drawing-blood.jpg?id=67726417&width=980",
+        "source": "IEEE Spectrum",
+        "sourceUrl": "https://spectrum.ieee.org/blood-draw-robot-vitestro-aletta",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-07T16-41_4",
+        "rank": 4,
+        "title": "STAT+: Novo Nordisk stops two cardiovascular trials of drug aimed at lowering inflammation",
+        "category": "biotech",
+        "summary": "Novo Nordisk has stopped two trials of a drug that aims to tame inflammation as a way to improve cardiovascular health, another blow for the approach.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/01/heart-1-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/09/07/novo-nordisk-heart-studies-inflammation-ziltivekimab/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-07T16-41_5",
+        "rank": 5,
+        "title": "APOD: 2026 September 7 – The Pelican Nebula in Gas, Dust, and Stars",
+        "category": "space",
+        "summary": "APOD Science APOD APOD: 2026 September 7 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or…",
+        "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/september/Pelican_Killion_4800.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "source": "NASA",
+        "sourceUrl": "https://science.nasa.gov/image-article/apod-2026-september-7-the-pelican-nebula-in-gas-dust-and-stars/",
         "fromX": false
       }
     ]
@@ -1557,229 +1658,6 @@
         "isEditorialArchive": true,
         "publishDate": "2026-08-19",
         "authorName": "Dr. Wallace Lynch"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-08-19T20-11",
-    "scannedAt": "2026-08-19T20:11:25.130Z",
-    "items": [
-      {
-        "id": "auto_2026-08-19T20-11_1",
-        "rank": 1,
-        "title": "Voters Aren’t Waiting for November to Try Ousting Officials Over Data Centers",
-        "category": "general",
-        "summary": "As a backlash grows over data centers, more local officials are facing recall elections for their support of the computing sites.",
-        "image": "https://static01.nyt.com/images/2026/08/12/multimedia/DATACENTER-RECALLS-1-01-bvfh/DATACENTER-RECALLS-1-01-bvfh-mediumSquareAt3X.jpg",
-        "source": "NYT Technology",
-        "sourceUrl": "https://www.nytimes.com/2026/08/19/technology/data-centers-voter-concerns-independence-missouri.html",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-19T20-11_2",
-        "rank": 2,
-        "title": "STAT+: How Trump loyalist Heidi Overton became the president’s pick to run the FDA",
-        "category": "biotech",
-        "summary": "If she wins confirmation as FDA commissioner, Heidi Overton will face plenty of big challenges.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/08/AP25289733434052-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/08/19/heidi-overton-fda-commissioner-nominee-competing-interests-ahead/?utm_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-19T20-11_3",
-        "rank": 3,
-        "title": "Judge Approves Trump Administration’s Paint Tests On Eisenhower Building",
-        "category": "art",
-        "summary": "On Tuesday, a federal judge granted the Trump administration permission to proceed with paint tests on the Eisenhower Executive Building. Trump’s desire, which is to coat the granite facade with white paint, has been…",
-        "image": "https://www.artforum.com/wp-content/uploads/2026/08/Eisenhower_Executive_Office_Building_20240601.jpg?w=650",
-        "source": "Artforum",
-        "sourceUrl": "https://www.artforum.com/news/judge-approves-trump-paint-tests-on-eisenhower-building-1234757385/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-19T20-11_4",
-        "rank": 4,
-        "title": "Katalyst Space and NASA abandon plans for Swift reboost",
-        "category": "space",
-        "summary": "Katalyst Space and NASA have called off plans to use the company’s Link spacecraft to raise the orbit of the agency’s Swift gamma-ray observatory, citing attitude-control problems with the spacecraft. The post Katalyst…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/swift-link.jpeg?fit=1024%2C576&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/katalyst-space-and-nasa-abandon-plans-for-swift-reboost/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-19T20-11_5",
-        "rank": 5,
-        "title": "The Evidence That Can Start Disappearing After a Truck Accident",
-        "category": "robotics",
-        "summary": "After a serious truck crash, the wreckage gets most of the attention. Damaged vehicles are sitting on the road, emergency crews are working, and traffic may be backed up for miles. It feels like everything that matters…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/truck-on-road-1.jpg",
-        "source": "Robotics & Automation News",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/19/the-evidence-that-can-start-disappearing-after-a-truck-accident/104313/",
-        "fromX": false
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-08-18T20-08",
-    "scannedAt": "2026-08-18T20:08:44.971Z",
-    "items": [
-      {
-        "id": "auto_2026-08-18T20-08_1",
-        "rank": 1,
-        "title": "Dark Emotions Evoke Growth in Alejandro Aguliar Canela's Graphite Drawings",
-        "category": "art",
-        "summary": "\"It’s more about not discarding what might be considered unwanted, but instead finding some use for it,\" says the artist. Do stories and artists like this matter to you? Become a Colossal Member today and support…",
-        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/08/canela-5.jpg",
-        "source": "Colossal",
-        "sourceUrl": "https://www.thisiscolossal.com/2026/08/alejandro-aguliar-canela-graphite-drawings/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-18T20-08_2",
-        "rank": 2,
-        "title": "Tech Life",
-        "category": "general",
-        "summary": "Vapour trails from aircraft contribute to warming in the atmosphere.",
-        "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p55phr.jpg",
-        "source": "BBC Technology",
-        "sourceUrl": "https://www.bbc.co.uk/sounds/play/w3ct8jy9?at_medium=RSS&at_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-18T20-08_3",
-        "rank": 3,
-        "title": "Trump administration sued over visa time limit that would affect grad students, postdocs",
-        "category": "biotech",
-        "summary": "DHS was sued Tuesday over a sweeping policy change that would limit how long foreign students and scholars can remain in the U.S.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/08/AP26149662430853-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/08/18/dhs-sued-over-visa-time-limit-for-foreign-students/?utm_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-18T20-08_4",
-        "rank": 4,
-        "title": "NASA’s LRO Images Falcon 9 Crater on Moon, Learns New Details",
-        "category": "space",
-        "summary": "Between Aug. 11 and 12, NASA’s Lunar Reconnaissance Orbiter (LRO) captured a series of images of a new crater on the Moon. The crater formed on Aug. 5, when a SpaceX Falcon 9 upper stage impacted the surface following…",
-        "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/earthset-from-the-lunar-far-side/earthset_55192132107_00dc598014_o.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-        "source": "NASA",
-        "sourceUrl": "https://science.nasa.gov/solar-system/moon/nasas-lro-images-falcon-9-crater-on-moon-learns-new-details/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-18T20-08_5",
-        "rank": 5,
-        "title": "FORT Robotics to go public via business combination with Newbury Street II Acquisition Corp",
-        "category": "robotics",
-        "summary": "FORT Robotics, a safety platform developing a “trust layer” for physical AI, and Newbury Street II Acquisition Corp, a special purpose acquisition company, have entered into a definitive business combination agreement…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/FORT-Robotics-Trust-Layer-for-Physical-AI.jpeg",
-        "source": "Robotics & Automation News",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/18/fort-robotics-to-go-public-via-business-combination-with-newbury-street-ii-acquisition-corp/104238/",
-        "fromX": false
-      }
-    ]
-  },
-  {
-    "batchId": "editorial_2026-08-17",
-    "scannedAt": "2026-08-18T02:01:59.929Z",
-    "kind": "editorial_archive",
-    "items": [
-      {
-        "id": "editorial_2026-08-17",
-        "rank": 0,
-        "title": "The vessel does not keep a plate",
-        "category": "editorial",
-        "summary": "A father's tribute, and a city's search",
-        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/08/mabona-7.jpg",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-17.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-08-17",
-        "authorName": "Dr. Wallace Lynch"
-      }
-    ]
-  },
-  {
-    "batchId": "editorial_2026-09-07",
-    "scannedAt": "2026-09-07T17:55:14.618Z",
-    "kind": "editorial_archive",
-    "items": [
-      {
-        "id": "editorial_2026-09-07",
-        "rank": 0,
-        "title": "You sit down",
-        "category": "editorial",
-        "summary": "The machine finds the vein. Two heart trials stop.",
-        "image": "https://spectrum.ieee.org/media-library/an-older-silver-haired-woman-seated-at-automated-medical-device-with-a-robotic-arm-drawing-blood.jpg?id=67726417&width=1200&quality=85",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-09-07.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-09-07",
-        "authorName": "Dr. Wallace Lynch"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-09-07T16-41",
-    "scannedAt": "2026-09-07T16:41:30.926Z",
-    "items": [
-      {
-        "id": "auto_2026-09-07T16-41_1",
-        "rank": 1,
-        "title": "Home Depot Labor Day Sale (2026): BOGO on Best Grills and Tools",
-        "category": "general",
-        "summary": "The Home Depot Labor Day sale goes hard on grills and tools. Here are our recommendations on what to buy—and what to ignore.",
-        "image": "https://media.wired.com/photos/6a9b0a92df1ff8f5f606a6e1/master/pass/Home-Depot",
-        "source": "WIRED",
-        "sourceUrl": "https://www.wired.com/story/home-depot-labor-day-sale-deals-2026/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-07T16-41_2",
-        "rank": 2,
-        "title": "8 Must-See Shows at Berlin Art Week 2026",
-        "category": "art",
-        "summary": "Berlin Art Week is back, which officially signals the end of the months of Aperol spritzes, pool trips, and pretending the heat wasn’t unbearable. A slow August can be great, but now it’s time for the city to get back…",
-        "image": "https://artsy-media-uploads.s3.amazonaws.com/z01HSkcyLZsJtb5h0U0OdA%2FMAG_99326_Loie_Hollowell_Mother_Radar_in_green_a.width-1100_1500x1000.jpg",
-        "source": "Artsy",
-        "sourceUrl": "https://www.artsy.net/article/artsy-editorial-8-must-see-berlin-art-week-2026",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-07T16-41_3",
-        "rank": 3,
-        "title": "This Robot Will Draw Your Blood Now",
-        "category": "robotics",
-        "summary": "You sit down and put your arm in the cradle. You press a button. The machine takes it from there. A near-infrared light sweeps your inner elbow, hunting for a vein. A puff of alcohol hits your skin. An ultrasound probe…",
-        "image": "https://spectrum.ieee.org/media-library/an-older-silver-haired-woman-seated-at-automated-medical-device-with-a-robotic-arm-drawing-blood.jpg?id=67726417&width=980",
-        "source": "IEEE Spectrum",
-        "sourceUrl": "https://spectrum.ieee.org/blood-draw-robot-vitestro-aletta",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-07T16-41_4",
-        "rank": 4,
-        "title": "STAT+: Novo Nordisk stops two cardiovascular trials of drug aimed at lowering inflammation",
-        "category": "biotech",
-        "summary": "Novo Nordisk has stopped two trials of a drug that aims to tame inflammation as a way to improve cardiovascular health, another blow for the approach.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/01/heart-1-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/09/07/novo-nordisk-heart-studies-inflammation-ziltivekimab/?utm_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-07T16-41_5",
-        "rank": 5,
-        "title": "APOD: 2026 September 7 – The Pelican Nebula in Gas, Dust, and Stars",
-        "category": "space",
-        "summary": "APOD Science APOD APOD: 2026 September 7 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or…",
-        "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/september/Pelican_Killion_4800.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-        "source": "NASA",
-        "sourceUrl": "https://science.nasa.gov/image-article/apod-2026-september-7-the-pelican-nebula-in-gas-dust-and-stars/",
-        "fromX": false
       }
     ]
   }

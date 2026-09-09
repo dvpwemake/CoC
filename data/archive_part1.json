@@ -1,5 +1,147 @@
 [
   {
+    "batchId": "auto_2026-08-19T20-11",
+    "scannedAt": "2026-08-19T20:11:25.130Z",
+    "items": [
+      {
+        "id": "auto_2026-08-19T20-11_1",
+        "rank": 1,
+        "title": "Voters Aren’t Waiting for November to Try Ousting Officials Over Data Centers",
+        "category": "general",
+        "summary": "As a backlash grows over data centers, more local officials are facing recall elections for their support of the computing sites.",
+        "image": "https://static01.nyt.com/images/2026/08/12/multimedia/DATACENTER-RECALLS-1-01-bvfh/DATACENTER-RECALLS-1-01-bvfh-mediumSquareAt3X.jpg",
+        "source": "NYT Technology",
+        "sourceUrl": "https://www.nytimes.com/2026/08/19/technology/data-centers-voter-concerns-independence-missouri.html",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-19T20-11_2",
+        "rank": 2,
+        "title": "STAT+: How Trump loyalist Heidi Overton became the president’s pick to run the FDA",
+        "category": "biotech",
+        "summary": "If she wins confirmation as FDA commissioner, Heidi Overton will face plenty of big challenges.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/08/AP25289733434052-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/08/19/heidi-overton-fda-commissioner-nominee-competing-interests-ahead/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-19T20-11_3",
+        "rank": 3,
+        "title": "Judge Approves Trump Administration’s Paint Tests On Eisenhower Building",
+        "category": "art",
+        "summary": "On Tuesday, a federal judge granted the Trump administration permission to proceed with paint tests on the Eisenhower Executive Building. Trump’s desire, which is to coat the granite facade with white paint, has been…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/08/Eisenhower_Executive_Office_Building_20240601.jpg?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/news/judge-approves-trump-paint-tests-on-eisenhower-building-1234757385/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-19T20-11_4",
+        "rank": 4,
+        "title": "Katalyst Space and NASA abandon plans for Swift reboost",
+        "category": "space",
+        "summary": "Katalyst Space and NASA have called off plans to use the company’s Link spacecraft to raise the orbit of the agency’s Swift gamma-ray observatory, citing attitude-control problems with the spacecraft. The post Katalyst…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/swift-link.jpeg?fit=1024%2C576&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/katalyst-space-and-nasa-abandon-plans-for-swift-reboost/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-19T20-11_5",
+        "rank": 5,
+        "title": "The Evidence That Can Start Disappearing After a Truck Accident",
+        "category": "robotics",
+        "summary": "After a serious truck crash, the wreckage gets most of the attention. Damaged vehicles are sitting on the road, emergency crews are working, and traffic may be backed up for miles. It feels like everything that matters…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/truck-on-road-1.jpg",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/19/the-evidence-that-can-start-disappearing-after-a-truck-accident/104313/",
+        "fromX": false
+      }
+    ]
+  },
+  {
+    "batchId": "auto_2026-08-18T20-08",
+    "scannedAt": "2026-08-18T20:08:44.971Z",
+    "items": [
+      {
+        "id": "auto_2026-08-18T20-08_1",
+        "rank": 1,
+        "title": "Dark Emotions Evoke Growth in Alejandro Aguliar Canela's Graphite Drawings",
+        "category": "art",
+        "summary": "\"It’s more about not discarding what might be considered unwanted, but instead finding some use for it,\" says the artist. Do stories and artists like this matter to you? Become a Colossal Member today and support…",
+        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/08/canela-5.jpg",
+        "source": "Colossal",
+        "sourceUrl": "https://www.thisiscolossal.com/2026/08/alejandro-aguliar-canela-graphite-drawings/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-18T20-08_2",
+        "rank": 2,
+        "title": "Tech Life",
+        "category": "general",
+        "summary": "Vapour trails from aircraft contribute to warming in the atmosphere.",
+        "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p55phr.jpg",
+        "source": "BBC Technology",
+        "sourceUrl": "https://www.bbc.co.uk/sounds/play/w3ct8jy9?at_medium=RSS&at_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-18T20-08_3",
+        "rank": 3,
+        "title": "Trump administration sued over visa time limit that would affect grad students, postdocs",
+        "category": "biotech",
+        "summary": "DHS was sued Tuesday over a sweeping policy change that would limit how long foreign students and scholars can remain in the U.S.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/08/AP26149662430853-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/08/18/dhs-sued-over-visa-time-limit-for-foreign-students/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-18T20-08_4",
+        "rank": 4,
+        "title": "NASA’s LRO Images Falcon 9 Crater on Moon, Learns New Details",
+        "category": "space",
+        "summary": "Between Aug. 11 and 12, NASA’s Lunar Reconnaissance Orbiter (LRO) captured a series of images of a new crater on the Moon. The crater formed on Aug. 5, when a SpaceX Falcon 9 upper stage impacted the surface following…",
+        "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/earthset-from-the-lunar-far-side/earthset_55192132107_00dc598014_o.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "source": "NASA",
+        "sourceUrl": "https://science.nasa.gov/solar-system/moon/nasas-lro-images-falcon-9-crater-on-moon-learns-new-details/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-18T20-08_5",
+        "rank": 5,
+        "title": "FORT Robotics to go public via business combination with Newbury Street II Acquisition Corp",
+        "category": "robotics",
+        "summary": "FORT Robotics, a safety platform developing a “trust layer” for physical AI, and Newbury Street II Acquisition Corp, a special purpose acquisition company, have entered into a definitive business combination agreement…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/FORT-Robotics-Trust-Layer-for-Physical-AI.jpeg",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/18/fort-robotics-to-go-public-via-business-combination-with-newbury-street-ii-acquisition-corp/104238/",
+        "fromX": false
+      }
+    ]
+  },
+  {
+    "batchId": "editorial_2026-08-17",
+    "scannedAt": "2026-08-18T02:01:59.929Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-08-17",
+        "rank": 0,
+        "title": "The vessel does not keep a plate",
+        "category": "editorial",
+        "summary": "A father's tribute, and a city's search",
+        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/08/mabona-7.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-17.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-08-17",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-08-17T20-11",
     "scannedAt": "2026-08-17T20:11:24.270Z",
     "items": [
@@ -1516,87 +1658,6 @@
         "isEditorialArchive": true,
         "publishDate": "2026-07-29",
         "authorName": "Dr. Wallace Lynch"
-      }
-    ]
-  },
-  {
-    "batchId": "editorial_2026-07-28",
-    "scannedAt": "2026-07-29T00:04:41.805Z",
-    "kind": "editorial_archive",
-    "items": [
-      {
-        "id": "editorial_2026-07-28",
-        "rank": 0,
-        "title": "What machines learn to touch—and what civic maps still refuse to erase",
-        "category": "editorial",
-        "summary": "Convergence of machine cognition and civic testimony",
-        "image": "https://neurosciencenews.com/files/2026/07/ai-cognition-neuroscieence-1155x770.jpg",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-07-28.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-07-28",
-        "authorName": "Dr. Wallace Lynch"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-07-28T20-54",
-    "scannedAt": "2026-07-28T20:54:30.064Z",
-    "items": [
-      {
-        "id": "auto_2026-07-28T20-54_1",
-        "rank": 1,
-        "title": "ESA opens call to repurpose Gateway communications module",
-        "category": "space",
-        "summary": "JOHANNESBURG — The European Space Agency is moving ahead with plans to examine the feasibility of repurposing Lunar Link, a communications system developed for NASA’s now-paused Gateway space station, as […] The post…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/gateway-full-configuration-hero-image-121123-scaled.png?fit=1024%2C576&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/esa-opens-call-to-repurpose-gateway-communications-module/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-07-28T20-54_2",
-        "rank": 2,
-        "title": "Brain-Inspired AI Uses Cognitive Maps",
-        "category": "neuroscience",
-        "summary": "Researchers developed a brain-inspired AI model modeled on hippocampal mechanisms including cognitive maps and stochastic calculations.",
-        "image": "https://neurosciencenews.com/files/2026/07/ai-cognition-neuroscieence-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/brain-inspired-ai-cognitive-maps-31145/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-07-28T20-54_3",
-        "rank": 3,
-        "title": "Lucy Sparrow Invokes '90s Supermarket Nostalgia in ‘The Beginning of Convenience’",
-        "category": "art",
-        "summary": "The artist's new exhibition is fully stocked with more than 20,000 handmade felt objects. Do stories and artists like this matter to you? Become a Colossal Member today and support independent arts publishing for as…",
-        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/07/sparrow-boc-10.jpg",
-        "source": "Colossal",
-        "sourceUrl": "https://www.thisiscolossal.com/2026/07/lucy-sparrow-the-beginning-of-convenience/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-07-28T20-54_4",
-        "rank": 4,
-        "title": "Six key issues we're watching at Fauci's hearing",
-        "category": "biotech",
-        "summary": "Sen. Rand Paul is forcing Fauci to appear before his Senate panel.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/07/GettyImages-2155329216-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/07/28/anthony-fauci-senate-testimony-what-to-expect-covid-origin-perjury/?utm_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-07-28T20-54_5",
-        "rank": 5,
-        "title": "Robot Finger Feels in Color",
-        "category": "robotics",
-        "summary": "Imagine running your fingertip over the surface of a U.S. penny. You would feel the ridges of the raised letters and numbers, Abe Lincoln’s bearded side profile, and, if it’s tails, the fluted columns of the Lincoln…",
-        "image": "https://spectrum.ieee.org/media-library/close-up-of-a-sensor-for-a-robotic-fingertip-and-raised-relief-images-of-a-leaf-and-a-u-s-penny.jpg?id=67542077&width=980",
-        "source": "IEEE Spectrum",
-        "sourceUrl": "https://spectrum.ieee.org/robot-finger",
-        "fromX": false
       }
     ]
   }
