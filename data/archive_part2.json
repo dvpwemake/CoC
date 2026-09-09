@@ -1,25 +1,5 @@
 [
   {
-    "batchId": "editorial_2026-07-27",
-    "scannedAt": "2026-07-27T23:46:40.604Z",
-    "kind": "editorial_archive",
-    "items": [
-      {
-        "id": "editorial_2026-07-27",
-        "rank": 0,
-        "title": "Convergence of neural consolidation and civic coordination",
-        "category": "editorial",
-        "summary": "Memory consolidation during sleep is not a solo act. A new study maps a three-region circuit—orbitofrontal cortex, thalamus, and hippocampus—and shows how epileptic spikes sever the conversation. What we keep depends on…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/SES-Press-Release_SES-Completes-Acquisition-of-Intelsat_image-scaled-1.jpg?fit=1024%2C576&ssl=1",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-07-27.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-07-27",
-        "authorName": "Dr. Wallace Lynch"
-      }
-    ]
-  },
-  {
     "batchId": "auto_2026-07-27T20-57",
     "scannedAt": "2026-07-27T20:57:37.248Z",
     "items": [
@@ -1773,6 +1753,104 @@
         "source": "Canary Media",
         "sourceUrl": "https://www.canarymedia.com/articles/green-steel/year-after-us-steel-sold",
         "imageProxy": "https://images.weserv.nl/?url=img.canarymedia.com%2Fcontent%2Fuploads%2FGary-Works-rooftop-view.jpeg%3Fauto%3Dcompress%252Cformat%26crop%3Dfocalpoint%26fit%3Dcrop%26fp-x%3D0.5%26fp-y%3D0.5%26h%3D630%26q%3D82%26w%3D1200%26s%3D04a83af6341e3db8a87833029e1c8b3f&w=640&h=400&fit=cover&we&output=jpg"
+      }
+    ]
+  },
+  {
+    "batchId": "auto_2026-06-28T20-48",
+    "scannedAt": "2026-06-28T20:48:02.864Z",
+    "items": [
+      {
+        "id": "auto_2026-06-28T20-48_1",
+        "rank": 1,
+        "title": "Hearing Aids Linked to 23% Lower Dementia Risk in Epilepsy",
+        "category": "neuroscience",
+        "summary": "Hearing aid use is associated with a 23% lower risk of dementia exclusively in adults with both epilepsy and hearing loss, likely due to the critical preservation of depleted cognitive reserve.",
+        "image": "https://neurosciencenews.com/files/2026/06/hearing-aid-dementia-epilepsy-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/hearing-aids-epilepsy-dementia-30956/",
+        "imageProxy": "https://images.weserv.nl/?url=neurosciencenews.com%2Ffiles%2F2026%2F06%2Fhearing-aid-dementia-epilepsy-neuroscience-1155x770.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-06-28T20-48_2",
+        "rank": 2,
+        "title": "Opinion: Supreme Court ruling on Roundup points to a confusing difference between the law and science",
+        "category": "biotech",
+        "summary": "The Supreme Court’s ruling on Roundup shows science and law use the same word — causation — while asking different questions, writes epidemiologist.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/06/GettyImages-2283306424-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/06/27/roundup-glyphosate-cancer-monsanto-v-durnell-supreme-court/?utm_campaign=rss",
+        "imageProxy": "https://images.weserv.nl/?url=www.statnews.com%2Fwp-content%2Fuploads%2F2026%2F06%2FGettyImages-2283306424-1024x576.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-06-28T20-48_3",
+        "rank": 3,
+        "title": "Rocket Lab launches 10th Synspective satellite",
+        "category": "space",
+        "summary": "Rocket Lab launched a radar-imaging satellite for Japanese company Synspective on June 26, a flight delayed by a responsive space mission. The post Rocket Lab launches 10th Synspective satellite appeared first on…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/electron-strix10.jpeg?fit=1024%2C556&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/rocket-lab-launches-10th-synspective-satellite/",
+        "imageProxy": "https://images.weserv.nl/?url=i0.wp.com%2Fspacenews.com%2Fwp-content%2Fuploads%2F2026%2F06%2Felectron-strix10.jpeg%3Ffit%3D1024%252C556%26ssl%3D1&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-06-28T20-48_4",
+        "rank": 4,
+        "title": "These states are the best for EV buyers and drivers",
+        "category": "energy",
+        "summary": "America’s EV industry has suffered a series of bad breaks over the last year and a half. The end of federal tax credits for electric vehicles sent sales of new EVs off a cliff last fall. A nationwide buildout of…",
+        "image": "https://img.canarymedia.com/content/uploads/GettyImages-2269134706.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=7598837099e3c9f365da521da01718f1",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/electric-vehicles/these-states-are-the-best-for-ev-buyers-and-drivers",
+        "imageProxy": "https://images.weserv.nl/?url=img.canarymedia.com%2Fcontent%2Fuploads%2FGettyImages-2269134706.jpg%3Fauto%3Dcompress%252Cformat%26crop%3Dfocalpoint%26fit%3Dcrop%26fp-x%3D0.5%26fp-y%3D0.5%26h%3D630%26q%3D82%26w%3D1200%26s%3D7598837099e3c9f365da521da01718f1&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-06-28T20-48_5",
+        "rank": 5,
+        "title": "Video Friday: Give Robots a Hand",
+        "category": "robotics",
+        "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us…",
+        "image": "https://spectrum.ieee.org/media-library/three-fingered-robotic-gripper-arm-crawls-upright-on-a-white-table.gif?id=67036633&width=980",
+        "source": "IEEE Spectrum",
+        "sourceUrl": "https://spectrum.ieee.org/video-friday-robot-grippers",
+        "imageProxy": "https://images.weserv.nl/?url=spectrum.ieee.org%2Fmedia-library%2Fthree-fingered-robotic-gripper-arm-crawls-upright-on-a-white-table.gif%3Fid%3D67036633%26width%3D980&w=640&h=400&fit=cover&we&output=jpg"
+      }
+    ]
+  },
+  {
+    "batchId": "auto_2026-06-27T20-45",
+    "scannedAt": "2026-06-27T20:45:56.064Z",
+    "items": [
+      {
+        "id": "auto_2026-06-27T20-45_3",
+        "rank": 3,
+        "title": "NASA Announces Winners for 2026 Human Lander Challenge",
+        "category": "space",
+        "summary": "NASA has announced the top student-developed solutions for environmental control and life support systems in future crewed lunar landers from participants in the 2026 Human Lander Challenge. The announcement marks the…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/06/ceb-6192.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-announces-winners-for-2026-human-lander-challenge/",
+        "imageProxy": "https://images.weserv.nl/?url=www.nasa.gov%2Fwp-content%2Fuploads%2F2026%2F06%2Fceb-6192.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      }
+    ]
+  },
+  {
+    "batchId": "editorial_2026-07-27",
+    "scannedAt": "2026-07-27T23:46:40.604Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-07-27",
+        "rank": 0,
+        "title": "Convergence of neural consolidation and civic coordination",
+        "category": "editorial",
+        "summary": "Memory consolidation during sleep is not a solo act. A new study maps a three-region circuit—orbitofrontal cortex, thalamus, and hippocampus—and shows how epileptic spikes sever the conversation. What we keep depends on…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/11/SES-Press-Release_SES-Completes-Acquisition-of-Intelsat_image-scaled-1.jpg?fit=1024%2C576&ssl=1",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-07-27.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-07-27",
+        "authorName": "Dr. Wallace Lynch"
       }
     ]
   }
