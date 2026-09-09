@@ -1,5 +1,25 @@
 [
   {
+    "batchId": "editorial_2026-09-07",
+    "scannedAt": "2026-09-07T17:55:14.618Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-09-07",
+        "rank": 0,
+        "title": "You sit down",
+        "category": "editorial",
+        "summary": "The machine finds the vein. Two heart trials stop.",
+        "image": "https://spectrum.ieee.org/media-library/an-older-silver-haired-woman-seated-at-automated-medical-device-with-a-robotic-arm-drawing-blood.jpg?id=67726417&width=1200&quality=85",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-09-07.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-09-07",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-09-07T16-41",
     "scannedAt": "2026-09-07T16:41:30.926Z",
     "items": [
@@ -1577,67 +1597,6 @@
         "isEditorialArchive": true,
         "publishDate": "2026-08-17",
         "authorName": "Dr. Wallace Lynch"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-08-17T20-11",
-    "scannedAt": "2026-08-17T20:11:24.270Z",
-    "items": [
-      {
-        "id": "auto_2026-08-17T20-11_1",
-        "rank": 1,
-        "title": "Interview with Lattice Semiconductor’s Karl Wachswender: ‘Parallel processing enables more powerful edge AI’",
-        "category": "robotics",
-        "summary": "As robots become more intelligent, autonomous and connected, much of the attention naturally falls on increasingly powerful AI models. But underneath those models is an increasingly complex collection of sensors,…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/Lattice-Image-3.png",
-        "source": "Robotics & Automation News",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/17/interview-with-lattice-semiconductors-karl-wachswender-parallel-processing-enables-more-powerful-edge-ai/104215/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-17T20-11_2",
-        "rank": 2,
-        "title": "Supreme Court rejects Verizon bid for $47 million refund of FCC fine",
-        "category": "general",
-        "summary": "Despite loss, carriers still claim selling device-location data isn't illegal.",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/verizon-stock-ticker-1152x648-1786994944.jpg",
-        "source": "Ars Technica",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/supreme-court-rejects-verizon-bid-for-47-million-refund-of-fcc-fine/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-17T20-11_3",
-        "rank": 3,
-        "title": "Brett Littman to Lead Museum of Contemporary Art San Diego",
-        "category": "art",
-        "summary": "The Museum of Contemporary Art San Diego (MCASD) has announced Brett Littman as its new director and CEO. From 2018 to 2023, Littman served as director of the Noguchi Museum in Long Island City, New York. He succeeds…",
-        "image": "https://www.artforum.com/wp-content/uploads/2026/08/featured00_large-56.jpg-copy.jpg?w=554",
-        "source": "Artforum",
-        "sourceUrl": "https://www.artforum.com/news/brett-littman-to-helm-museum-of-contemporary-art-san-diego-1234757138/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-17T20-11_4",
-        "rank": 4,
-        "title": "NASA Mission Studies Air Pollution Over Ethiopia",
-        "category": "space",
-        "summary": "A NASA-funded air pollution monitoring network has provided one of the most detailed long-term views yet of the role of black carbon, or soot produced by fires, diesel vehicles, and other combustion sources, in…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/08/1-addis-ababa-city-view.jpg",
-        "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/missions/maia/nasa-mission-studies-air-pollution-over-ethiopia/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-17T20-11_5",
-        "rank": 5,
-        "title": "STAT+: Sanofi to lay off 229 workers in Mass., a year after $9.1B Blueprint Medicines acquisition",
-        "category": "biotech",
-        "summary": "Sanofi, one of the Massachusetts' largest pharmaceutical employers, will lay off more than 200 workers there a year after acquiring Blueprint Medicines.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/07/GettyImages-2281597952-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/08/17/sanofi-layoffs-mass-blueprint-medicines/?utm_campaign=rss",
-        "fromX": false
       }
     ]
   }

@@ -46,6 +46,17 @@ function paragraphs(ed) {
     .filter(Boolean);
 }
 
+function displayDate(iso) {
+  const d = String(iso || '').slice(0, 10);
+  const m = d.match(/^(\d{4})-(\d{2})-(\d{2})$/);
+  if (!m) return d;
+  const months = [
+    'January', 'February', 'March', 'April', 'May', 'June',
+    'July', 'August', 'September', 'October', 'November', 'December'
+  ];
+  return months[+m[2] - 1] + ' ' + (+m[3]) + ', ' + m[1];
+}
+
 function wordCount(ed) {
   const t = paragraphs(ed).join(' ');
   return t.split(/\s+/).filter(Boolean).length;
@@ -227,7 +238,7 @@ h1{font-family:var(--serif);font-size:clamp(1.5rem,3.2vw,1.85rem);line-height:1.
       <div style="font-size:.75rem;color:var(--muted)">Daily editorial</div>
     </div>
   </header>
-  <p class="kicker">Daily editorial · ${esc(date)}</p>
+  <p class="kicker">Daily editorial · ${esc(displayDate(date))}</p>
   <article class="card">
     ${hero ? `<img class="hero" src="${esc(hero)}" alt="" width="1040" height="585" referrerpolicy="no-referrer">` : ''}
     ${heroCredit ? `<p class="credit">Photo: ${esc(heroCredit)}</p>` : ''}
@@ -236,7 +247,7 @@ h1{font-family:var(--serif);font-size:clamp(1.5rem,3.2vw,1.85rem);line-height:1.
       ${dek ? `<p class="dek">${esc(dek)}</p>` : ''}
       <div class="byline-row">
         <p class="byline">By ${esc(author)}${authorTitle ? ' · ' + esc(authorTitle) : ''}</p>
-        <p class="meta">About ${wc} words</p>
+        <p class="meta"><time datetime="${esc(date)}">${esc(displayDate(date))}</time></p>
       </div>
       <div class="prose">
 ${prose}

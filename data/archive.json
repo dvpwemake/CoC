@@ -1,5 +1,25 @@
 [
   {
+    "batchId": "editorial_2026-09-07",
+    "scannedAt": "2026-09-07T17:55:14.618Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-09-07",
+        "rank": 0,
+        "title": "You sit down",
+        "category": "editorial",
+        "summary": "The machine finds the vein. Two heart trials stop.",
+        "image": "https://spectrum.ieee.org/media-library/an-older-silver-haired-woman-seated-at-automated-medical-device-with-a-robotic-arm-drawing-blood.jpg?id=67726417&width=1200&quality=85",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-09-07.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-09-07",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-09-07T16-41",
     "scannedAt": "2026-09-07T16:41:30.926Z",
     "items": [
