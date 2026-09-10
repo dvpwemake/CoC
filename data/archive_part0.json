@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-09-10T01-35",
+    "scannedAt": "2026-09-10T01:35:02.287Z",
+    "items": [
+      {
+        "id": "auto_2026-09-10T01-35_1",
+        "rank": 1,
+        "title": "UK needs new laws for AI in healthcare, says watchdog",
+        "category": "general",
+        "summary": "The technology will soon be routinely used within the NHS, MHRA chief Lawrence Tallon tells the BBC.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4b9/live/69dbfa80-ac63-11f1-be57-03729df1d736.jpg",
+        "source": "BBC Technology",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c3wjn3pl63xo?at_medium=RSS&at_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-10T01-35_2",
+        "rank": 2,
+        "title": "STAT+: U.K. unveils recommendations for regulating AI in medicine",
+        "category": "biotech",
+        "summary": "A U.K. commission has unveiled its recommendations for how the country should regulate artificial intelligence in medicine.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/09/AdobeStock_476983486-1024x576.jpeg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/09/09/uk-unveils-recommendations-ai-regulation-medicine/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-10T01-35_3",
+        "rank": 3,
+        "title": "Diminutive Seahorses Top the 2026 Ocean Photographer of the Year Contest",
+        "category": "art",
+        "summary": "The annual competition highlights some of the most beloved, impressive, and little-seen aspects of our oceans. Do stories and artists like this matter to you? Become a Colossal Member today and support independent arts…",
+        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/09/opoty2026-8.jpg",
+        "source": "Colossal",
+        "sourceUrl": "https://www.thisiscolossal.com/2026/09/ocean-photographer-of-the-year-2026-winners/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-10T01-35_4",
+        "rank": 4,
+        "title": "NASA’s Chandra Unveils Mysterious X-Ray Objects",
+        "category": "space",
+        "summary": "Using NASA’s Chandra X-ray Observatory, scientists have discovered a new class of objects behaving unlike any they have seen before. Astronomers suggest these newly spotted objects in other galaxies may help solve not…",
+        "image": "https://assets.science.nasa.gov/content/dam/science/missions/chandra/2026/m101_labeled.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "source": "NASA",
+        "sourceUrl": "https://science.nasa.gov/missions/chandra/nasas-chandra-unveils-mysterious-x-ray-objects/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-10T01-35_5",
+        "rank": 5,
+        "title": "Virginia kept its climate law. Dominion sees a loophole.",
+        "category": "energy",
+        "summary": "Even as data centers spike energy demand and electricity rates rise, Virginia has stood by its landmark climate targets when other states, from New York to Hawaii , have wavered. Legislators in the data center capital…",
+        "image": "https://img.canarymedia.com/content/uploads/AP18199714018124.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=5317de40e530c6f2ec19dcaedfc508e0",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/fossil-fuels/virginia-climate-law-dominion-loophole",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-09-09T22-01",
     "scannedAt": "2026-09-09T22:01:16.765Z",
     "items": [
