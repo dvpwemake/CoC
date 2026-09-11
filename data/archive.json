@@ -1,26 +1,76 @@
 [
   {
+<<<<<<< HEAD
     "batchId": "auto_2026-09-11T01-34",
     "scannedAt": "2026-09-11T01:34:09.130Z",
+=======
+    "batchId": "editorial_2026-09-09",
+    "scannedAt": "2026-09-09T19:08:17.913Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-09-09",
+        "rank": 0,
+        "title": "He starts in November",
+        "category": "editorial",
+        "summary": "The rooms he made reachable. Counties with no cardiologist.",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/09/Rob-Stein_Photo-Courtesy-of-the-National-Gallery-of-Art-1-801x1024.jpg.webp?w=650",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-09-09.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-09-09",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
+    "batchId": "auto_2026-09-09T18-53",
+    "scannedAt": "2026-09-09T18:53:00.898Z",
+>>>>>>> a7e9333 (Editorial publish: 2026-09-11 — It will stand in the park)
     "items": [
       {
         "id": "auto_2026-09-11T01-34_1",
         "rank": 1,
         "title": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
         "category": "general",
+<<<<<<< HEAD
         "summary": "AI leaders worry antitrust law could stand in the way of what they view as an increasingly urgent push to coordinate a slowdown in AI development.",
         "image": "https://media.wired.com/photos/6aa304df834bd0176b553b6c/master/pass/Model-Behavior-OpenAI-Anthropic-AI-Slowdown-Business.jpg",
         "source": "WIRED",
         "sourceUrl": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/",
+=======
+        "summary": "At the company’s annual September product event, Apple also demonstrated its work on artificial intelligence and other new devices.",
+        "image": "https://static01.nyt.com/images/2026/09/09/multimedia/09biz-apple-event-phone-zgmf/09biz-apple-event-phone-zgmf-mediumSquareAt3X.jpg",
+        "source": "NYT Technology",
+        "sourceUrl": "https://www.nytimes.com/2026/09/09/technology/apple-iphone-duo-foldable-phone.html",
+>>>>>>> a7e9333 (Editorial publish: 2026-09-11 — It will stand in the park)
         "fromX": false
       },
       {
         "id": "auto_2026-09-11T01-34_2",
         "rank": 2,
+<<<<<<< HEAD
         "title": "Gerhard Richter–Designed Pavilion Celebrating the Artist to Rise in Doha",
         "category": "art",
         "summary": "Qatar Museums has announced that Doha will welcome a permanent pavilion devoted to Gerhard Richter this autumn. The building will occupy the city’s MIA Park, outside the Museum of Islamic Art. It is being designed by…",
         "image": "https://www.artforum.com/wp-content/uploads/2026/09/5.-Interior-rendering-of-Doha-Pavilion-Gerhard-Richter-Selldorf-Architects.jpg?w=650",
+=======
+        "title": "NASA’s Chandra Unveils Mysterious X-Ray Objects",
+        "category": "space",
+        "summary": "Using NASA’s Chandra X-ray Observatory, scientists have discovered a new class of objects behaving unlike any they have seen before. Astronomers suggest these newly spotted objects in other galaxies may help solve not…",
+        "image": "https://assets.science.nasa.gov/content/dam/science/missions/chandra/2026/m101_labeled.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "source": "NASA",
+        "sourceUrl": "https://science.nasa.gov/missions/chandra/nasas-chandra-unveils-mysterious-x-ray-objects/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-09T18-53_3",
+        "rank": 3,
+        "title": "National Gallery’s Robert Stein Named Executive Director of Amon Carter Museum in Fort Worth",
+        "category": "art",
+        "summary": "The Amon Carter Museum of American Art in Fort Worth has announced Robert Stein as its new executive director and CEO. Stein joins the institution from the National Gallery of Art in Washington, DC, where he has served…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/09/Rob-Stein_Photo-Courtesy-of-the-National-Gallery-of-Art-1-801x1024.jpg.webp?w=650",
+>>>>>>> a7e9333 (Editorial publish: 2026-09-11 — It will stand in the park)
         "source": "Artforum",
         "sourceUrl": "https://www.artforum.com/news/pavilion-celebrating-gerhard-richter-to-rise-in-doha-1234759069/",
         "fromX": false
@@ -102,8 +152,13 @@
         "rank": 4,
         "title": "Mass. utilities and Hydro-Quebec sue each other over missing hydropower",
         "category": "energy",
+<<<<<<< HEAD
         "summary": "Three Massachusetts utilities are suing Canadian energy giant Hydro-Québec after it failed to deliver promised hydropower for several days during a cold snap this winter. Hydro-Québec, in turn, is suing the utilities…",
         "image": "https://img.canarymedia.com/content/uploads/Hydro-Quebecs-Romaine-1-hydroelectric-dam-in-Havre-St.-Pierre-Quebec_GettyImages-1063934424.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=4c1939fe3ee4d9b7ab122fff75fcf9cb",
+=======
+        "summary": "Even as data centers spike energy demand and electricity rates rise, Virginia has stood by its landmark climate targets when other states, from New York to Hawaii , have wavered. Legislators in the data center capital…",
+        "image": "https://img.canarymedia.com/content/uploads/AP18199714018124.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=5317de40e530c6f2ec19dcaedfc508e0",
+>>>>>>> a7e9333 (Editorial publish: 2026-09-11 — It will stand in the park)
         "source": "Canary Media",
         "sourceUrl": "https://www.canarymedia.com/articles/hydropower/massachusetts-utilities-hydro-quebec-sue-each-other",
         "fromX": false
