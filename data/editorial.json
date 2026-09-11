@@ -3,10 +3,11 @@
     "id": "ed_2026-09-11",
     "publishDate": "2026-09-11",
     "status": "published",
-    "createdAt": "2026-09-11T06:01:21.000Z",
-    "updatedAt": "2026-09-11T06:01:21.782Z",
+    "updatedAt": "2026-09-11T06:20:44.858Z",
     "title": "It will stand in the park",
     "dek": "A pavilion for Richter. Livers that look like adult cells.",
+    "authorName": "Dr. Wallace Lynch",
+    "authorTitle": "Editor in Chief",
     "body": "Qatar Museums will put a permanent pavilion for Gerhard Richter in Doha this autumn. It will stand in MIA Park, outside the Museum of Islamic Art. A building for one painter, beside the museum the city already has.\n\nOn Friday, September 11, 2026, we hold that park to one pressure: what still ages in the body when the room is a celebration, and when the industry asks if it is legal to slow down.\n\nPlatinum chemotherapy in childhood left liver cells looking like adult cells. Cisplatin. Carboplatin. The tissue aged. The long term risk of new tumors may rise. In Pennsylvania a coroner confirmed two measles deaths last month were infants. The virus itself caused one of them. Robots are learning to feel. Dexterous work is still the barrier. Touch is the data they did not have. OpenAI wants to know if an AI slowdown would even be legal. Antitrust, they worry, could block the coordination they call urgent. After an Anthropic researcher quit, warning the race is gambling with our lives. NASA is standing up a United States Space Academy, less than two weeks after the executive order. Djibouti will sign the Artemis Accords at Headquarters on the 14th, the 72nd country. Three Massachusetts utilities are suing Hydro-Quebec over hydropower that did not arrive in a winter cold snap. Hydro-Quebec is suing them back. The Rabkin Prize named eight arts journalists, $50,000 each, unrestricted. Freelands will put £100,000 a year into three UK arts organizations for five years.\n\nA pavilion in the park. A liver that looks older than the child. A slowdown that may not be allowed. Convergence is not the building that celebrates the painter. It is whether the body is still counted when the room is already named.",
     "paragraphs": [
       "Qatar Museums will put a permanent pavilion for Gerhard Richter in Doha this autumn. It will stand in MIA Park, outside the Museum of Islamic Art. A building for one painter, beside the museum the city already has.",
@@ -15,87 +16,109 @@
       "A pavilion in the park. A liver that looks older than the child. A slowdown that may not be allowed. Convergence is not the building that celebrates the painter. It is whether the body is still counted when the room is already named."
     ],
     "wordCount": 292,
-    "authorName": "Dr. Wallace Lynch",
-    "authorTitle": "Editor in Chief",
-    "heroImage": "https://www.artforum.com/wp-content/uploads/2026/09/5.-Interior-rendering-of-Doha-Pavilion-Gerhard-Richter-Selldorf-Architects.jpg?w=650",
-    "heroCredit": "Doha Pavilion for Gerhard Richter. Selldorf Architects / Qatar Museums.",
-    "heroSource": "Artforum",
-    "heroSourceUrl": "https://www.artforum.com/news/pavilion-celebrating-gerhard-richter-to-rise-in-doha-1234759069/",
+    "heroImage": "https://www.statnews.com/wp-content/uploads/2026/09/AP20318535258793-1024x576.jpg",
+    "heroCredit": "Platinum-based chemotherapy in childhood causes mutations that age the liver",
+    "heroSource": "STAT News",
+    "heroSourceUrl": "https://www.statnews.com/2026/09/10/childhood-chemotherapy-cisplatin-carboplatin-new-study-liver-impact/?utm_campaign=rss",
     "headlines": [
       {
         "title": "Gerhard Richter–Designed Pavilion Celebrating the Artist to Rise in Doha",
         "source": "Artforum",
         "category": "art",
-        "sourceUrl": "https://www.artforum.com/news/pavilion-celebrating-gerhard-richter-to-rise-in-doha-1234759069/"
+        "sourceUrl": "https://www.artforum.com/news/pavilion-celebrating-gerhard-richter-to-rise-in-doha-1234759069/",
+        "summary": "Qatar Museums has announced that Doha will welcome a permanent pavilion devoted to Gerhard Richter this autumn. The building will occupy the city’s MIA Park, outside the Museum of Islamic Art. It is being designed by…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/09/5.-Interior-rendering-of-Doha-Pavilion-Gerhard-Richter-Selldorf-Architects.jpg?w=650"
       },
       {
         "title": "Platinum-based chemotherapy in childhood causes mutations that age the liver",
         "source": "STAT News",
         "category": "biotech",
-        "sourceUrl": "https://www.statnews.com/2026/09/10/childhood-chemotherapy-cisplatin-carboplatin-new-study-liver-impact/"
+        "sourceUrl": "https://www.statnews.com/2026/09/10/childhood-chemotherapy-cisplatin-carboplatin-new-study-liver-impact/?utm_campaign=rss",
+        "summary": "Platinum chemotherapy aged the liver cells of treated children, making them look more like adult liver cells and possibly raising the long-term risk of new tumors",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/09/AP20318535258793-1024x576.jpg"
       },
       {
         "title": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
         "source": "WIRED",
         "category": "general",
-        "sourceUrl": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/"
+        "sourceUrl": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/",
+        "summary": "AI leaders worry antitrust law could stand in the way of what they view as an increasingly urgent push to coordinate a slowdown in AI development.",
+        "image": "https://media.wired.com/photos/6aa304df834bd0176b553b6c/master/pass/Model-Behavior-OpenAI-Anthropic-AI-Slowdown-Business.jpg"
       },
       {
         "title": "Robots Are Learning to Feel",
         "source": "IEEE Spectrum",
         "category": "robotics",
-        "sourceUrl": "https://spectrum.ieee.org/tactile-data-robots"
+        "sourceUrl": "https://spectrum.ieee.org/tactile-data-robots",
+        "summary": "Dexterous manipulation remains one of the biggest barriers keeping robots from successfully tackling a wide range of everyday tasks. A sense of touch could be the key, but a lack of quality data has held back progress.…",
+        "image": "https://assets.rbl.ms/67745231/origin.jpg"
       },
       {
         "title": "NASA Answers President’s Call to Establish United States Space Academy",
         "source": "NASA",
         "category": "space",
-        "sourceUrl": "https://www.nasa.gov/news-release/nasa-answers-presidents-call-to-establish-united-states-space-academy/"
+        "sourceUrl": "https://www.nasa.gov/news-release/nasa-answers-presidents-call-to-establish-united-states-space-academy/",
+        "summary": "Less than two weeks after an Executive Order was signed to create the first United States Space Academy, NASA-led work is in full swing to make the academy a reality and shape the future of America’s aerospace workforce…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/09/spaceacademy.webp"
       },
       {
         "title": "2026 Winners of $50,000 Rabkin Prize Announced",
         "source": "Artforum",
         "category": "art",
-        "sourceUrl": "https://www.artforum.com/news/2026-winners-of-rabkin-prize-announced-1234759021/"
+        "sourceUrl": "https://www.artforum.com/news/2026-winners-of-rabkin-prize-announced-1234759021/",
+        "summary": "The Dorothea and Leo Rabkin Foundation on September 10 named the eight recipients of its 2026 Rabkin Prize for arts journalists. Each will receive an unrestricted grant of $50,000. Established in 2017, the honor…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/09/Web-ready-horizontal-for-Announcement-ad-or-IG-post.jpg?w=650"
       },
       {
         "title": "STAT+: Right before midterms, Trump dangles $500 refunds for select ACA enrollees",
         "source": "STAT News",
         "category": "biotech",
-        "sourceUrl": "https://www.statnews.com/2026/09/10/trump-affordable-care-act-refund-checks-who-is-eligible/"
+        "sourceUrl": "https://www.statnews.com/2026/09/10/trump-affordable-care-act-refund-checks-who-is-eligible/?utm_campaign=rss",
+        "summary": "The legal basis for the $500 checks, and who would get them, isn't entirely clear.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/09/AdobeStock_1401543465-1024x576.jpeg"
       },
       {
         "title": "Mass. utilities and Hydro-Quebec sue each other over missing hydropower",
         "source": "Canary Media",
         "category": "energy",
-        "sourceUrl": "https://www.canarymedia.com/articles/hydropower/massachusetts-utilities-hydro-quebec-sue-each-other"
+        "sourceUrl": "https://www.canarymedia.com/articles/hydropower/massachusetts-utilities-hydro-quebec-sue-each-other",
+        "summary": "Three Massachusetts utilities are suing Canadian energy giant Hydro-Québec after it failed to deliver promised hydropower for several days during a cold snap this winter. Hydro-Québec, in turn, is suing the utilities…",
+        "image": "https://img.canarymedia.com/content/uploads/Hydro-Quebecs-Romaine-1-hydroelectric-dam-in-Havre-St.-Pierre-Quebec_GettyImages-1063934424.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=4c1939fe3ee4d9b7ab122fff75fcf9cb"
       },
       {
         "title": "Could A.I. Really Kill All Humans?",
         "source": "NYT Technology",
         "category": "general",
-        "sourceUrl": "https://www.nytimes.com/video/technology/100000011145658/could-ai-really-kill-all-humans.html"
+        "sourceUrl": "https://www.nytimes.com/video/technology/100000011145658/could-ai-really-kill-all-humans.html",
+        "summary": "After an Anthropic researcher quit, warning that the A.I. race is “gambling with our lives,” Cade Metz joined Natalie Kitroeff on “The Call” to break down what’s at stake.",
+        "image": ""
       },
       {
         "title": "NASA Invites Media to Djibouti Artemis Accords Signing Ceremony",
         "source": "NASA",
         "category": "space",
-        "sourceUrl": "https://www.nasa.gov/news-release/nasa-invites-media-to-djibouti-artemis-accords-signing-ceremony/"
+        "sourceUrl": "https://www.nasa.gov/news-release/nasa-invites-media-to-djibouti-artemis-accords-signing-ceremony/",
+        "summary": "The Republic of Djibouti will sign the Artemis Accords during a ceremony at 11 a.m. EDT, Monday, Sept. 14, at NASA Headquarters in Washington, becoming the 72nd country signatory. NASA Deputy Administrator Matt Anderson…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg"
       },
       {
         "title": "Freelands Foundation Announces £100,000 Annually for Three UK Arts Organizations",
         "source": "Artforum",
         "category": "art",
-        "sourceUrl": "https://www.artforum.com/news/freelands-awards-recognizes-three-uk-arts-organizations-1234758982/"
+        "sourceUrl": "https://www.artforum.com/news/freelands-awards-recognizes-three-uk-arts-organizations-1234758982/",
+        "summary": "The Freelands Foundation has awarded £100,000 (approximately $135,000) of unrestricted funding to three organizations annually for the next five years, totaling £1.5m (roughly $2 million). The recipients are…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/09/Wolverhampton_Art_Gallery_2.jpg?w=650"
       },
       {
         "title": "Coroner releases details of infants who died amid growing Pennsylvania measles outbreak",
         "source": "STAT News",
         "category": "biotech",
-        "sourceUrl": "https://www.statnews.com/2026/09/09/coroner-details-infant-deaths-pennsylvania-measles-outbreak/"
+        "sourceUrl": "https://www.statnews.com/2026/09/09/coroner-details-infant-deaths-pennsylvania-measles-outbreak/?utm_campaign=rss",
+        "summary": "The two measles-related deaths in Pennsylvania last month involved infants, and the virus itself caused one of the deaths, a Pennsylvania coroner confirmed Wednesday.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/09/AP26237531065807-1024x576.jpg"
       }
     ],
-    "publishedAt": "2026-09-11T06:01:21.782Z"
+    "publishedAt": "2026-09-11T06:20:44.858Z"
   },
   "drafts": {},
   "history": [
@@ -103,10 +126,11 @@
       "id": "ed_2026-09-11",
       "publishDate": "2026-09-11",
       "status": "published",
-      "createdAt": "2026-09-11T06:01:21.000Z",
-      "updatedAt": "2026-09-11T06:01:21.782Z",
+      "updatedAt": "2026-09-11T06:20:44.858Z",
       "title": "It will stand in the park",
       "dek": "A pavilion for Richter. Livers that look like adult cells.",
+      "authorName": "Dr. Wallace Lynch",
+      "authorTitle": "Editor in Chief",
       "paragraphs": [
         "Qatar Museums will put a permanent pavilion for Gerhard Richter in Doha this autumn. It will stand in MIA Park, outside the Museum of Islamic Art. A building for one painter, beside the museum the city already has.",
         "On Friday, September 11, 2026, we hold that park to one pressure: what still ages in the body when the room is a celebration, and when the industry asks if it is legal to slow down.",
@@ -114,13 +138,11 @@
         "A pavilion in the park. A liver that looks older than the child. A slowdown that may not be allowed. Convergence is not the building that celebrates the painter. It is whether the body is still counted when the room is already named."
       ],
       "wordCount": 292,
-      "authorName": "Dr. Wallace Lynch",
-      "authorTitle": "Editor in Chief",
-      "heroImage": "https://www.artforum.com/wp-content/uploads/2026/09/5.-Interior-rendering-of-Doha-Pavilion-Gerhard-Richter-Selldorf-Architects.jpg?w=650",
-      "heroCredit": "Doha Pavilion for Gerhard Richter. Selldorf Architects / Qatar Museums.",
-      "heroSource": "Artforum",
-      "heroSourceUrl": "https://www.artforum.com/news/pavilion-celebrating-gerhard-richter-to-rise-in-doha-1234759069/",
-      "publishedAt": "2026-09-11T06:01:21.782Z"
+      "heroImage": "https://www.statnews.com/wp-content/uploads/2026/09/AP20318535258793-1024x576.jpg",
+      "heroCredit": "Platinum-based chemotherapy in childhood causes mutations that age the liver",
+      "heroSource": "STAT News",
+      "heroSourceUrl": "https://www.statnews.com/2026/09/10/childhood-chemotherapy-cisplatin-carboplatin-new-study-liver-impact/?utm_campaign=rss",
+      "publishedAt": "2026-09-11T06:20:44.858Z"
     },
     {
       "id": "ed_2026-09-09",
@@ -1358,6 +1380,7 @@
     "https://wp.technologyreview.com/wp-content/uploads/2026/08/Danijar-0G6A8052-2.jpg?resize=1200,600",
     "https://artsy-media-uploads.s3.amazonaws.com/z01HSkcyLZsJtb5h0U0OdA%2FMAG_99326_Loie_Hollowell_Mother_Radar_in_green_a.width-1100_1500x1000.jpg",
     "https://www.artforum.com/wp-content/uploads/2026/09/Rob-Stein_Photo-Courtesy-of-the-National-Gallery-of-Art-1-801x1024.jpg.webp?w=650",
-    "https://www.artforum.com/wp-content/uploads/2026/09/5.-Interior-rendering-of-Doha-Pavilion-Gerhard-Richter-Selldorf-Architects.jpg?w=650"
+    "https://www.artforum.com/wp-content/uploads/2026/09/5.-Interior-rendering-of-Doha-Pavilion-Gerhard-Richter-Selldorf-Architects.jpg?w=650",
+    "https://www.statnews.com/wp-content/uploads/2026/09/AP20318535258793-1024x576.jpg"
   ]
 }
