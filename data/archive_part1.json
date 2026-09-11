@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-08-20T20-13",
+    "scannedAt": "2026-08-20T20:13:59.508Z",
+    "items": [
+      {
+        "id": "auto_2026-08-20T20-13_1",
+        "rank": 1,
+        "title": "China Is Strapping ‘Digital Bombs’ to Civilian Infrastructure—Is the US Ready?",
+        "category": "general",
+        "summary": "This week on “Uncanny Valley,” Andy Greenberg discusses sitting in on a war game simulating a cyberattack from the Chinese hacking group Volt Typhoon",
+        "image": "https://media.wired.com/photos/6a861888d3fed06f8e21101b/master/pass/Uncanny-Valley-Podcast-Typhoon-Hack-Security-1130970903.jpg",
+        "source": "WIRED",
+        "sourceUrl": "https://www.wired.com/story/china-is-strapping-digital-bombs-to-civilian-infrastructure-is-the-us-ready/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-20T20-13_2",
+        "rank": 2,
+        "title": "National Gallery of Art Adds a Slew of New Artists to Its Collection",
+        "category": "art",
+        "summary": "The National Gallery of Art in Washington, DC, has announced a raft of new acquisitions, including works by artists entering the collection for the first time. Among these are Marie Bracquemond, T. C. Cannon, LaToya…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/08/hobbs-dahliasfornaima.jpg?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/news/national-gallery-of-art-adds-new-roster-of-artists-1234757484/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-20T20-13_3",
+        "rank": 3,
+        "title": "Key Reasons Contractors in Saskatchewan Prefer Steel Structures",
+        "category": "robotics",
+        "summary": "Contractors face serious pressure whenever harsh weather conditions interrupt commercial construction plans across Saskatchewan. Reliable building materials help them maintain steady project schedules and satisfy…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/norsteel-buildings-1.png",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/20/key-reasons-contractors-in-saskatchewan-prefer-steel-structures/104366/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-20T20-13_4",
+        "rank": 4,
+        "title": "What's next for ISR in space",
+        "category": "space",
+        "summary": "In this episode, SpaceNews correspondent Debra Werner leads a panel of experts to discuss the role of ISR in space and what comes next. This session was recorded in May […] The post What's next for ISR in space appeared…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/space-minds-podcast-ICEYE-ISR-2000-1500.jpg?fit=1024%2C768&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/whats-next-for-isr-in-space/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-20T20-13_5",
+        "rank": 5,
+        "title": "STAT+: FDA approves Ultragenyx gene therapy",
+        "category": "biotech",
+        "summary": "Regeneron wins ultra-rare disease drug approval, a validating win for mRNA research, and more biotech news from The Readout",
+        "image": "https://www.statnews.com/wp-content/uploads/2024/05/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_Wiggs-_Bedford_2-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/08/20/biotech-news-fda-approves-utlragenyx-gene-therapy/?utm_campaign=rss",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "editorial_2026-08-19",
     "scannedAt": "2026-08-19T22:01:06.428Z",
     "kind": "editorial_archive",
@@ -1658,46 +1719,6 @@
         "source": "Robotics & Automation News",
         "sourceUrl": "https://roboticsandautomationnews.com/2026/07/29/best-construction-scheduling-software-for-contractors/103724/",
         "fromX": false
-      }
-    ]
-  },
-  {
-    "batchId": "editorial_2026-07-29",
-    "scannedAt": "2026-07-29T19:33:45.665Z",
-    "kind": "editorial_archive",
-    "items": [
-      {
-        "id": "editorial_2026-07-29",
-        "rank": 0,
-        "title": "Gut signals, civic costs, and the cultures that refuse to forget",
-        "category": "editorial",
-        "summary": "Convergence of bodily memory and civic remembrance",
-        "image": "https://neurosciencenews.com/files/2026/07/memory-noise-resources-neuroscience-1155x770.jpg",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-07-29.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-07-29",
-        "authorName": "Dr. Wallace Lynch"
-      }
-    ]
-  },
-  {
-    "batchId": "editorial_2026-07-28",
-    "scannedAt": "2026-07-29T00:04:41.805Z",
-    "kind": "editorial_archive",
-    "items": [
-      {
-        "id": "editorial_2026-07-28",
-        "rank": 0,
-        "title": "What machines learn to touch—and what civic maps still refuse to erase",
-        "category": "editorial",
-        "summary": "Convergence of machine cognition and civic testimony",
-        "image": "https://neurosciencenews.com/files/2026/07/ai-cognition-neuroscieence-1155x770.jpg",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-07-28.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-07-28",
-        "authorName": "Dr. Wallace Lynch"
       }
     ]
   }
