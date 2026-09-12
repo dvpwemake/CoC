@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-09-12T01-40",
+    "scannedAt": "2026-09-12T01:40:35.420Z",
+    "items": [
+      {
+        "id": "auto_2026-09-12T01-40_1",
+        "rank": 1,
+        "title": "Tech Now",
+        "category": "general",
+        "summary": "Shiona McCallum meets mums and hospital staff trialling a new assisted birth innovation.",
+        "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p93vjy.jpg",
+        "source": "BBC Technology",
+        "sourceUrl": "https://www.bbc.co.uk/iplayer/episode/m0031qjy?at_medium=RSS&at_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-12T01-40_2",
+        "rank": 2,
+        "title": "STAT+: Scholar Rock wins FDA approval for first drug to target SMA muscle loss",
+        "category": "biotech",
+        "summary": "A late-stage clinical trial found that, when combined with an SMN2-targeting drug, Isembyld caused young patients’ motor skills to improve after a year.",
+        "image": "https://www.statnews.com/wp-content/uploads/2025/05/AdobeStock_406860486-1024x576.jpeg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/09/11/scholar-rock-spinal-muscular-atrophy-isembyld-clinical-trial-fda-approval/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-12T01-40_3",
+        "rank": 3,
+        "title": "xAI has quietly built a massive battery at its Memphis data center hub",
+        "category": "energy",
+        "summary": "Elon Musk’s SpaceXAI has built what may be the biggest battery in the U.S. at its controversial Memphis AI computing hub. The exact size of the battery is unclear. Canary Media counted 720 Tesla Megapack battery…",
+        "image": "https://img.canarymedia.com/content/uploads/XAI-logo-on-smartphone_GettyImages-2233914136.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=8925a05bff14802db67a028bf2b0e356",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/batteries/xai-massive-battery-memphis-data-center",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-12T01-40_4",
+        "rank": 4,
+        "title": "Collector Dimitris Daskalopoulos Donates 51 Works to Greek and Scottish Museums",
+        "category": "art",
+        "summary": "The Greek entrepreneur Dimitris Daskalopoulos has donated fifty-one artworks—mostly by Greek artists—from his personal collection to four museums in Greece and Scotland as part of an ongoing philanthropic campaign to…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/09/GettyImages-147144855.jpg?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/news/dimitris-daskalopoulos-donates-greek-and-scottish-museums-1234759128/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-12T01-40_5",
+        "rank": 5,
+        "title": "Help Refine Data from Space Telescopes with Artifact InSPECtor",
+        "category": "space",
+        "summary": "How do scientists studying space with data from a telescope hundreds of thousands of miles away know that what they are seeing is real? A new NASA project, Artifact InSPECtor, invites you to find out – and by doing so,…",
+        "image": "https://assets.science.nasa.gov/content/dam/science/cds/citizen-science/highlights/2026/backgroundimage.001-Aimee_Schechter.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "source": "NASA",
+        "sourceUrl": "https://science.nasa.gov/get-involved/citizen-science/help-refine-data-from-space-telescopes-with-artifact-inspector/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-09-11T22-02",
     "scannedAt": "2026-09-11T22:02:19.612Z",
     "items": [

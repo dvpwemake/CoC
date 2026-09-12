@@ -1,5 +1,25 @@
 [
   {
+    "batchId": "editorial_2026-08-20",
+    "scannedAt": "2026-08-20T23:40:25.972Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-08-20",
+        "rank": 0,
+        "title": "First names in the collection",
+        "category": "editorial",
+        "summary": "New work on a museum wall, new lines on a civilian grid",
+        "image": "https://media.wired.com/photos/6a861888d3fed06f8e21101b/master/pass/Uncanny-Valley-Podcast-Typhoon-Hack-Security-1130970903.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-20.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-08-20",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-08-20T20-13",
     "scannedAt": "2026-08-20T20:13:59.508Z",
     "items": [
@@ -1657,67 +1677,6 @@
         "image": "https://artsy-media-uploads.s3.amazonaws.com/WlsBgQKbe0NRpkUhXap6tw%2FCRAG.jpg",
         "source": "Artsy",
         "sourceUrl": "https://www.artsy.net/article/artsy-editorial-sculptor-tony-cragg-awarded-2026-european-culture-prize",
-        "fromX": false
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-07-29T20-40",
-    "scannedAt": "2026-07-29T20:40:35.004Z",
-    "items": [
-      {
-        "id": "auto_2026-07-29T20-40_1",
-        "rank": 1,
-        "title": "Resource Limits and Noise Dictate Memory",
-        "category": "neuroscience",
-        "summary": "A new study presents a mathematical framework showing that organisms shift abruptly from reactive to memory-based strategies only when energy resources exceed a critical threshold, with memory offering peak utility…",
-        "image": "https://neurosciencenews.com/files/2026/07/memory-noise-resources-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/resource-limits-noise-memory-31152/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-07-29T20-40_2",
-        "rank": 2,
-        "title": "Space Force awards All Points $250 million to expand satellite processing at Vandenberg",
-        "category": "space",
-        "summary": "All Points Logistics is the third company selected under a Commercial Solutions Opening to add facilities where satellites can be inspected, tested, fueled and prepared for integration with launch vehicles The post…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/9778751-scaled.jpg?fit=1024%2C683&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/space-force-awards-all-points-250-million-to-expand-satellite-processing-at-vandenberg/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-07-29T20-40_3",
-        "rank": 3,
-        "title": "STAT+: Hims misled consumers and violated their privacy, FTC alleges in a lawsuit",
-        "category": "biotech",
-        "summary": "The U.S. Federal Trade Commission sued telehealth company Hims & Hers alleging business practices that agency says misled consumers.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/07/AP5450233286818613-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/07/29/ftc-lawsuit-hims-alleging-deceptive-business-practices/?utm_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-07-29T20-40_4",
-        "rank": 4,
-        "title": "Elaine de Kooning’s JFK portrait series to go on view in New York this fall.",
-        "category": "art",
-        "summary": "A major exhibition of Elaine de Kooning ’s work will open at Berry Campbell Gallery in New York on October 29th, spanning four decades of the Abstract Expressionist ’s career from 1948 to 1988. It is the first major…",
-        "image": "https://artsy-media-uploads.s3.amazonaws.com/XVb8CKx1DacAUqjx7B7Oww%2Fdekooning_EDEK_00070_f+copy+2.jpg",
-        "source": "Artsy",
-        "sourceUrl": "https://www.artsy.net/article/artsy-editorial-laine-de-koonings-jfk-portrait-series-view-new-york-fall",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-07-29T20-40_5",
-        "rank": 5,
-        "title": "Best Construction Scheduling Software for Contractors",
-        "category": "robotics",
-        "summary": "Construction scheduling is where most projects quietly fall apart. Not during the build itself, but in the planning gaps where subcontractors overlap, crews wait on materials, and the office loses touch with the field.…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/07/planera-construction-1.jpg",
-        "source": "Robotics & Automation News",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/07/29/best-construction-scheduling-software-for-contractors/103724/",
         "fromX": false
       }
     ]
