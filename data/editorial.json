@@ -3,7 +3,7 @@
     "id": "ed_2026-09-12",
     "publishDate": "2026-09-12",
     "status": "published",
-    "updatedAt": "2026-09-12T19:59:36.141Z",
+    "updatedAt": "2026-09-12T20:02:12.049Z",
     "title": "They came back from the estate",
     "dek": "Two Johnsons stolen in the 1970s. A coal plant the court would not keep running",
     "authorName": "Dr. Wallace Lynch",
@@ -16,10 +16,10 @@
       "Paintings that left in the seventies. A plant the court would not keep. A pill that did not move the mark. Convergence is not the recovery of what was stolen. It is whether the room still counts what the law will not force, and what the trial will not prove."
     ],
     "wordCount": 284,
-    "heroImage": "https://cdn.sanity.io/images/cxgd3urn/production/956c1048daf472512aa00cb6aa435734fbf73713-2000x1246.jpg?w=140",
-    "heroCredit": "Two Eastman Johnson paintings stolen in the 1970s are recovered",
-    "heroSource": "The Art Newspaper",
-    "heroSourceUrl": "https://www.theartnewspaper.com/2026/09/11/decades-after-theft-eastman-johnson-paintings-returned",
+    "heroImage": "https://www.sciencedaily.com/images/1920/planet-mercury-spectra.webp",
+    "heroCredit": "Mercury’s surface reveals a surprisingly fiery past",
+    "heroSource": "ScienceDaily",
+    "heroSourceUrl": "https://www.sciencedaily.com/releases/2026/09/260911003854.htm",
     "headlines": [
       {
         "title": "Two Eastman Johnson paintings stolen in the 1970s are recovered",
@@ -118,7 +118,7 @@
         "image": "https://www.statnews.com/wp-content/uploads/2026/09/AdobeStock_1401543465-1024x576.jpeg"
       }
     ],
-    "publishedAt": "2026-09-12T19:59:36.141Z"
+    "publishedAt": "2026-09-12T20:02:12.049Z"
   },
   "drafts": {},
   "history": [
@@ -126,7 +126,7 @@
       "id": "ed_2026-09-12",
       "publishDate": "2026-09-12",
       "status": "published",
-      "updatedAt": "2026-09-12T19:59:36.141Z",
+      "updatedAt": "2026-09-12T20:02:12.049Z",
       "title": "They came back from the estate",
       "dek": "Two Johnsons stolen in the 1970s. A coal plant the court would not keep running",
       "authorName": "Dr. Wallace Lynch",
@@ -138,11 +138,11 @@
         "Paintings that left in the seventies. A plant the court would not keep. A pill that did not move the mark. Convergence is not the recovery of what was stolen. It is whether the room still counts what the law will not force, and what the trial will not prove."
       ],
       "wordCount": 284,
-      "heroImage": "https://cdn.sanity.io/images/cxgd3urn/production/956c1048daf472512aa00cb6aa435734fbf73713-2000x1246.jpg?w=140",
-      "heroCredit": "Two Eastman Johnson paintings stolen in the 1970s are recovered",
-      "heroSource": "The Art Newspaper",
-      "heroSourceUrl": "https://www.theartnewspaper.com/2026/09/11/decades-after-theft-eastman-johnson-paintings-returned",
-      "publishedAt": "2026-09-12T19:59:36.141Z"
+      "heroImage": "https://www.sciencedaily.com/images/1920/planet-mercury-spectra.webp",
+      "heroCredit": "Mercury’s surface reveals a surprisingly fiery past",
+      "heroSource": "ScienceDaily",
+      "heroSourceUrl": "https://www.sciencedaily.com/releases/2026/09/260911003854.htm",
+      "publishedAt": "2026-09-12T20:02:12.049Z"
     },
     {
       "id": "ed_2026-09-11",
@@ -1405,6 +1405,7 @@
     "https://www.artforum.com/wp-content/uploads/2026/09/Rob-Stein_Photo-Courtesy-of-the-National-Gallery-of-Art-1-801x1024.jpg.webp?w=650",
     "https://www.artforum.com/wp-content/uploads/2026/09/5.-Interior-rendering-of-Doha-Pavilion-Gerhard-Richter-Selldorf-Architects.jpg?w=650",
     "https://cdn.sanity.io/images/cxgd3urn/production/956c1048daf472512aa00cb6aa435734fbf73713-2000x1246.jpg?rect=0,23,2000,1200&w=1200&h=720&q=85&fit=crop&auto=form",
-    "https://cdn.sanity.io/images/cxgd3urn/production/956c1048daf472512aa00cb6aa435734fbf73713-2000x1246.jpg?w=140"
+    "https://cdn.sanity.io/images/cxgd3urn/production/956c1048daf472512aa00cb6aa435734fbf73713-2000x1246.jpg?w=140",
+    "https://www.sciencedaily.com/images/1920/planet-mercury-spectra.webp"
   ]
 }
