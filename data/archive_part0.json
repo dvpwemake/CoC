@@ -1,5 +1,127 @@
 [
   {
+    "batchId": "auto_2026-09-12T21-43",
+    "scannedAt": "2026-09-12T21:43:18.661Z",
+    "items": [
+      {
+        "id": "auto_2026-09-12T21-43_1",
+        "rank": 1,
+        "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
+        "category": "general",
+        "summary": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK201_SAM_ALTMAN_CVIRGINIA2D-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-12T21-43_2",
+        "rank": 2,
+        "title": "STAT+: Scholar Rock wins FDA approval for first drug to target SMA muscle loss",
+        "category": "biotech",
+        "summary": "A late-stage clinical trial found that, when combined with an SMN2-targeting drug, Isembyld caused young patients’ motor skills to improve after a year.",
+        "image": "https://www.statnews.com/wp-content/uploads/2016/09/Infusion_AP_328963423903-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/09/11/scholar-rock-spinal-muscular-atrophy-isembyld-clinical-trial-fda-approval/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-12T21-43_3",
+        "rank": 3,
+        "title": "xAI has quietly built a massive battery at its Memphis data center hub",
+        "category": "energy",
+        "summary": "Elon Musk’s SpaceXAI has built what may be the biggest battery in the U.S. at its controversial Memphis AI computing hub. The exact size of the battery is unclear. Canary Media counted 720 Tesla Megapack battery…",
+        "image": "https://img.canarymedia.com/content/uploads/XAI-logo-on-smartphone_GettyImages-2233914136.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=8925a05bff14802db67a028bf2b0e356",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/batteries/xai-massive-battery-memphis-data-center",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-12T21-43_4",
+        "rank": 4,
+        "title": "Collector Dimitris Daskalopoulos Donates 51 Works to Greek and Scottish Museums",
+        "category": "art",
+        "summary": "The Greek entrepreneur Dimitris Daskalopoulos has donated fifty-one artworks—mostly by Greek artists—from his personal collection to four museums in Greece and Scotland as part of an ongoing philanthropic campaign to…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/09/GettyImages-147144855.jpg?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/news/dimitris-daskalopoulos-donates-greek-and-scottish-museums-1234759128/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-12T21-43_5",
+        "rank": 5,
+        "title": "Help Refine Data from Space Telescopes with Artifact InSPECtor",
+        "category": "space",
+        "summary": "How do scientists studying space with data from a telescope hundreds of thousands of miles away know that what they are seeing is real? A new NASA project, Artifact InSPECtor, invites you to find out – and by doing so,…",
+        "image": "https://assets.science.nasa.gov/content/dam/science/cds/citizen-science/highlights/2026/backgroundimage.001-Aimee_Schechter.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "source": "NASA",
+        "sourceUrl": "https://science.nasa.gov/get-involved/citizen-science/help-refine-data-from-space-telescopes-with-artifact-inspector/",
+        "fromX": false
+      }
+    ]
+  },
+  {
+    "batchId": "auto_2026-09-11T22-02",
+    "scannedAt": "2026-09-11T22:02:19.612Z",
+    "items": [
+      {
+        "id": "auto_2026-09-11T22-02_1",
+        "rank": 1,
+        "title": "Random rewards enrich classic game-theory contests",
+        "category": "general",
+        "summary": "Simple games gain rich strategies in the face of noise.",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2294031830-1024x648.jpg",
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-11T22-02_2",
+        "rank": 2,
+        "title": "Paris's Picasso museum reveals designers shortlisted for €55m sculpture garden project",
+        "category": "art",
+        "summary": "Five teams of designers, featuring architects and landscape designers, will compete for the project, expected to be completed by 2030",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/4596b74d4a3c1f92699d57305b47e8c82345b926-3543x3031.jpg?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/09/11/musee-national-picasso-paris-designer-shortlist-sculpture-park",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-11T22-02_3",
+        "rank": 3,
+        "title": "Roundtables: AI’s apocalypse crisis",
+        "category": "ai",
+        "summary": "Employees at the world's leading AI labs are saying there's a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2024/01/September.26_Roundtables-Assets.png?resize=1200,600",
+        "source": "MIT Technology Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-11T22-02_4",
+        "rank": 4,
+        "title": "Balcony solar is this year’s clean energy superstar in the US",
+        "category": "energy",
+        "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter. Sign up to get it every Friday. Summer is only just coming to a close, but this year’s top clean energy trendsetter is already clear. At the…",
+        "image": "https://img.canarymedia.com/content/uploads/Balcony-solar-in-Bavaria_GettyImages-1243438146.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=b02538eee09d78879ccba7a8d95ca1fc",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/balcony-solar/clean-energy-plug-in-solar-panels",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-11T22-02_5",
+        "rank": 5,
+        "title": "Video Friday: Humanoid Robot Takes On Monkey Bars",
+        "category": "robotics",
+        "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us…",
+        "image": "https://spectrum.ieee.org/media-library/humanoid-robot-moves-across-scaffolding-rigged-as-playground-monkey-bars-in-a-lab-while-trying-to-keep-its-balance.gif?id=67756707&width=980",
+        "source": "IEEE Spectrum",
+        "sourceUrl": "https://spectrum.ieee.org/video-friday-disaster-response-robots",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "editorial_2026-09-11",
     "scannedAt": "2026-09-11T06:01:21.782Z",
     "kind": "editorial_archive",
@@ -16,67 +138,6 @@
         "isEditorialArchive": true,
         "publishDate": "2026-09-11",
         "authorName": "Dr. Wallace Lynch"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-09-11T01-34",
-    "scannedAt": "2026-09-11T01:34:09.130Z",
-    "items": [
-      {
-        "id": "auto_2026-09-11T01-34_1",
-        "rank": 1,
-        "title": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
-        "category": "general",
-        "summary": "AI leaders worry antitrust law could stand in the way of what they view as an increasingly urgent push to coordinate a slowdown in AI development.",
-        "image": "https://media.wired.com/photos/6aa304df834bd0176b553b6c/master/pass/Model-Behavior-OpenAI-Anthropic-AI-Slowdown-Business.jpg",
-        "source": "WIRED",
-        "sourceUrl": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-11T01-34_2",
-        "rank": 2,
-        "title": "Gerhard Richter–Designed Pavilion Celebrating the Artist to Rise in Doha",
-        "category": "art",
-        "summary": "Qatar Museums has announced that Doha will welcome a permanent pavilion devoted to Gerhard Richter this autumn. The building will occupy the city’s MIA Park, outside the Museum of Islamic Art. It is being designed by…",
-        "image": "https://www.artforum.com/wp-content/uploads/2026/09/5.-Interior-rendering-of-Doha-Pavilion-Gerhard-Richter-Selldorf-Architects.jpg?w=650",
-        "source": "Artforum",
-        "sourceUrl": "https://www.artforum.com/news/pavilion-celebrating-gerhard-richter-to-rise-in-doha-1234759069/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-11T01-34_3",
-        "rank": 3,
-        "title": "NASA Answers President’s Call to Establish United States Space Academy",
-        "category": "space",
-        "summary": "Less than two weeks after an Executive Order was signed to create the first United States Space Academy, NASA-led work is in full swing to make the academy a reality and shape the future of America’s aerospace workforce…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/09/spaceacademy.webp",
-        "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/news-release/nasa-answers-presidents-call-to-establish-united-states-space-academy/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-11T01-34_4",
-        "rank": 4,
-        "title": "Robots Are Learning to Feel",
-        "category": "robotics",
-        "summary": "Dexterous manipulation remains one of the biggest barriers keeping robots from successfully tackling a wide range of everyday tasks. A sense of touch could be the key, but a lack of quality data has held back progress.…",
-        "image": "https://assets.rbl.ms/67745231/origin.jpg",
-        "source": "IEEE Spectrum",
-        "sourceUrl": "https://spectrum.ieee.org/tactile-data-robots",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-11T01-34_5",
-        "rank": 5,
-        "title": "Platinum-based chemotherapy in childhood causes mutations that age the liver",
-        "category": "biotech",
-        "summary": "Platinum chemotherapy aged the liver cells of treated children, making them look more like adult liver cells and possibly raising the long-term risk of new tumors",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/09/AP20318535258793-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/09/10/childhood-chemotherapy-cisplatin-carboplatin-new-study-liver-impact/?utm_campaign=rss",
-        "fromX": false
       }
     ]
   },
