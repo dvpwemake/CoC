@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-09-13T08-33",
-    "scannedAt": "2026-09-13T08:33:57.770Z",
+    "batchId": "auto_2026-09-13T15-07",
+    "scannedAt": "2026-09-13T15:07:29.496Z",
     "items": [
       {
-        "id": "auto_2026-09-13T08-33_1",
+        "id": "auto_2026-09-13T15-07_1",
         "rank": 1,
-        "title": "APOD: 2026 September 13 – Comet NEOWISE Rising over the Adriatic Sea",
-        "category": "space",
-        "summary": "APOD Science APOD APOD: 2026 September 13 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or…",
-        "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/september/Comet_snapshot.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
-        "source": "NASA",
-        "sourceUrl": "https://science.nasa.gov/image-article/apod-2026-september-13-comet-neowise-rising-over-the-adriatic-sea/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-13T08-33_2",
-        "rank": 2,
-        "title": "Anthropic C.E.O. Dario Amodei Calls for A.I. Slowdown",
+        "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
         "category": "general",
-        "summary": "In an essay, the head of Anthropic laid out the rapidly advancing capabilities of artificial intelligence and said there needed to be greater safety controls across the industry.",
-        "image": "https://static01.nyt.com/images/2026/09/12/multimedia/12biz-anthropic-01-hwpt/12biz-anthropic-01-hwpt-mediumSquareAt3X.jpg",
-        "source": "NYT Technology",
-        "sourceUrl": "https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html",
+        "summary": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09f1/live/aaa670e0-af38-11f1-a540-61c3f7fc4e6c.jpg",
+        "source": "BBC Technology",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
         "fromX": false
       },
       {
-        "id": "auto_2026-09-13T08-33_3",
-        "rank": 3,
-        "title": "STAT+: Pharma wins a battle over the cost of wastewater treatment in Europe",
-        "category": "biotech",
-        "summary": "An E.U. AG recommended annulling part of a directive that requires drugmakers to finance 80% of the costs of wastewater treatment.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/09/GettyImages-2281923636-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/pharmalot/2026/09/11/pharma-wins-cost-of-wastewater-treatment-fight-europe/?utm_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-13T08-33_4",
-        "rank": 4,
-        "title": "Symmetry and Biomorphic Forms Characterize Roberta Gentry's Sensual Paintings",
-        "category": "art",
-        "summary": "Roberta Gentry is interested in the relationship between the constructed and the natural, cultivating abstract, biomorphic forms. Do stories and artists like this matter to you? Become a Colossal Member today and…",
-        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/09/gentry-1.jpg",
-        "source": "Colossal",
-        "sourceUrl": "https://www.thisiscolossal.com/2026/09/roberta-gentry-blood-orange-acrylic-paintings/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-13T08-33_5",
-        "rank": 5,
-        "title": "Tiny nanolaser could cut computer energy use in half",
-        "category": "ai",
-        "summary": "Scientists have created an ultra-small nanolaser that could eventually allow microchips to transmit information with light instead of electricity, potentially making computers faster while cutting energy use roughly in…",
-        "image": "https://www.sciencedaily.com/images/1920/nanolaser.webp",
+        "id": "auto_2026-09-13T15-07_2",
+        "rank": 2,
+        "title": "Scientists find a new layer of Alzheimer’s hidden in the genome",
+        "category": "neuroscience",
+        "summary": "Scientists found that the 3D organization of DNA is disrupted in several types of brain cells affected by Alzheimer’s disease, altering how important genes are switched on and off. The discovery reveals a previously…",
+        "image": "https://www.sciencedaily.com/images/1920/neuroscience-brain-puzzle-alzheimers-dementia.webp",
         "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260911003858.htm",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260912220051.htm",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-13T15-07_3",
+        "rank": 3,
+        "title": "Physicists can’t agree on how the Universe works",
+        "category": "space",
+        "summary": "A massive worldwide survey of physicists has revealed surprisingly little agreement about some of the universe’s biggest mysteries. No majority backed the standard cosmological model, a leading explanation for dark…",
+        "image": "https://www.sciencedaily.com/images/1920/quantum-gravity-curved-spacetime-galaxy.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260912220041.htm",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-13T15-07_4",
+        "rank": 4,
+        "title": "AI uncovers hidden Ozempic side effects across 400,000 Reddit posts",
+        "category": "ai",
+        "summary": "AI analysis of 400,000 Reddit posts found that users of drugs such as Ozempic, Wegovy, Mounjaro, and Zepbound reported unexpected symptoms including menstrual changes, chills, hot flashes, and fatigue. Researchers…",
+        "image": "https://www.sciencedaily.com/images/1920/woman-face-close-up-surprise-worry-fear.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260912222856.htm",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-13T15-07_5",
+        "rank": 5,
+        "title": "STAT+: Breast cancer pill from AstraZeneca misses mark in pivotal trial",
+        "category": "biotech",
+        "summary": "A pill from AstraZeneca failed to improve outcomes in closely watched breast cancer study, a result that could limit the use of the medicine.",
+        "image": "https://www.statnews.com/wp-content/uploads/2024/03/GettyImages-1213413730-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/09/12/astrazeneca-breast-cancer-camizestrant-etcamah-serena-4-trail-failure/?utm_campaign=rss",
         "fromX": false
       }
     ]
