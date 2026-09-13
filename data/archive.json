@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-09-13T01-30",
+    "scannedAt": "2026-09-13T01:30:47.680Z",
+    "items": [
+      {
+        "id": "auto_2026-09-13T01-30_1",
+        "rank": 1,
+        "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+        "category": "general",
+        "summary": "Jacob Coxon tells the BBC that there's a strong chance AI could end humanity if the rate of development is not reined in.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f569/live/74e6aa80-af04-11f1-b1d1-571ed4d7ff2c.jpg",
+        "source": "BBC Technology",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-13T01-30_2",
+        "rank": 2,
+        "title": "STAT+: Breast cancer pill from AstraZeneca misses mark in pivotal trial",
+        "category": "biotech",
+        "summary": "A pill from AstraZeneca failed to improve outcomes in closely watched breast cancer study, a result that could limit the use of the medicine.",
+        "image": "https://www.statnews.com/wp-content/uploads/2024/03/GettyImages-1213413730-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/09/12/astrazeneca-breast-cancer-camizestrant-etcamah-serena-4-trail-failure/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-13T01-30_3",
+        "rank": 3,
+        "title": "Mercury’s surface reveals a surprisingly fiery past",
+        "category": "space",
+        "summary": "Scientists have discovered that Mercury’s surface contains far less silicon dioxide than previously thought, pointing to an unexpectedly hot volcanic past. The finding suggests ancient lava may have originated from…",
+        "image": "https://www.sciencedaily.com/images/1920/planet-mercury-spectra.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260911003854.htm",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-13T01-30_4",
+        "rank": 4,
+        "title": "Two Eastman Johnson paintings stolen in the 1970s are recovered",
+        "category": "art",
+        "summary": "A Connecticut auction house identified the stolen works in a private estate collection and helped return them",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/956c1048daf472512aa00cb6aa435734fbf73713-2000x1246.jpg?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/09/11/decades-after-theft-eastman-johnson-paintings-returned",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-13T01-30_5",
+        "rank": 5,
+        "title": "Court rules that Trump can’t force a Michigan coal plant to keep running",
+        "category": "energy",
+        "summary": "A federal court has ruled that the Department of Energy acted outside the bounds of its legal authority when it forced a coal plant in Michigan to keep running last year — a decision that could undermine the Trump…",
+        "image": "https://img.canarymedia.com/content/uploads/DOE-Secretary-Chris-Wright-askew_GettyImages-2272402366.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=65e79caa2b5d8c717a62eb948e5d6b0a",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/fossil-fuels/court-rules-against-trump-michigan-coal-plant",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-09-12T21-43",
     "scannedAt": "2026-09-12T21:43:18.661Z",
     "items": [
