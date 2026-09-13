@@ -1,5 +1,25 @@
 [
   {
+    "batchId": "editorial_2026-09-12",
+    "scannedAt": "2026-09-12T20:02:12.049Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-09-12",
+        "rank": 0,
+        "title": "They came back from the estate",
+        "category": "editorial",
+        "summary": "Two Johnsons stolen in the 1970s. A coal plant the court would not keep running",
+        "image": "https://www.sciencedaily.com/images/1920/planet-mercury-spectra.webp",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-09-12.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-09-12",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-09-13T21-50",
     "scannedAt": "2026-09-13T21:50:18.323Z",
     "items": [
