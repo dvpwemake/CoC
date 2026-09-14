@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-09-14T01-49",
+    "scannedAt": "2026-09-14T01:49:02.864Z",
+    "items": [
+      {
+        "id": "auto_2026-09-14T01-49_1",
+        "rank": 1,
+        "title": "What Anthropic CEO Dario Amodei Argued in His Call for AI Slowdown",
+        "category": "general",
+        "summary": "Dario Amodei’s 3,800-word letter laid out a three-step plan to rein in artificial intelligence.",
+        "image": "https://static01.nyt.com/images/2026/09/13/multimedia/13biz-anthropic-letter-tbfl/13biz-anthropic-letter-tbfl-mediumSquareAt3X.jpg",
+        "source": "NYT Technology",
+        "sourceUrl": "https://www.nytimes.com/2026/09/13/technology/anthropic-ceo-slower-ai-development.html",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-14T01-49_2",
+        "rank": 2,
+        "title": "STAT+: Trump's secretive pharma deals may undermine ‘most-favored nation' pricing, an analysis suggests",
+        "category": "biotech",
+        "summary": "The projected savings from Trump's \"most-favored nation\" pricing policy might be drastically reduced by secretive deals with pharma companies, a new analysis finds.",
+        "image": "https://www.statnews.com/wp-content/uploads/2018/07/donald-trump-drug-prices-GettyImages-963722188-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/pharmalot/2026/09/13/trump-secretive-pharma-deals-undermine-most-favored-nation-pricing/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-14T01-49_3",
+        "rank": 3,
+        "title": "NASA-backed scientists turn plastic waste into edible cookies",
+        "category": "space",
+        "summary": "Scientists have engineered yeast to turn PET plastic and agricultural waste into ingredients for protein-rich, 3D-printed cookies called µBites. Developed partly for NASA’s Deep Space Food Challenge, the system can…",
+        "image": "https://www.sciencedaily.com/images/1920/plastic-cookie.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260912220033.htm",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-14T01-49_4",
+        "rank": 4,
+        "title": "Two Eastman Johnson paintings stolen in the 1970s are recovered",
+        "category": "art",
+        "summary": "A Connecticut auction house identified the stolen works in a private estate collection and helped return them",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/956c1048daf472512aa00cb6aa435734fbf73713-2000x1246.jpg?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/09/11/decades-after-theft-eastman-johnson-paintings-returned",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-14T01-49_5",
+        "rank": 5,
+        "title": "Court rules that Trump can’t force a Michigan coal plant to keep running",
+        "category": "energy",
+        "summary": "A federal court has ruled that the Department of Energy acted outside the bounds of its legal authority when it forced a coal plant in Michigan to keep running last year — a decision that could undermine the Trump…",
+        "image": "https://img.canarymedia.com/content/uploads/DOE-Secretary-Chris-Wright-askew_GettyImages-2272402366.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=65e79caa2b5d8c717a62eb948e5d6b0a",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/fossil-fuels/court-rules-against-trump-michigan-coal-plant",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-09-13T21-50",
     "scannedAt": "2026-09-13T21:50:18.323Z",
     "items": [
@@ -118,6 +179,26 @@
         "source": "NASA",
         "sourceUrl": "https://science.nasa.gov/get-involved/citizen-science/help-refine-data-from-space-telescopes-with-artifact-inspector/",
         "fromX": false
+      }
+    ]
+  },
+  {
+    "batchId": "editorial_2026-09-12",
+    "scannedAt": "2026-09-12T20:02:12.049Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-09-12",
+        "rank": 0,
+        "title": "They came back from the estate",
+        "category": "editorial",
+        "summary": "Two Johnsons stolen in the 1970s. A coal plant the court would not keep running",
+        "image": "https://www.sciencedaily.com/images/1920/planet-mercury-spectra.webp",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-09-12.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-09-12",
+        "authorName": "Dr. Wallace Lynch"
       }
     ]
   },
@@ -1740,46 +1821,6 @@
         "source": "STAT News",
         "sourceUrl": "https://www.statnews.com/pharmalot/2026/08/21/roche-genentech-investment-estrogen-patch-shortages/?utm_campaign=rss",
         "fromX": false
-      }
-    ]
-  },
-  {
-    "batchId": "editorial_2026-08-22",
-    "scannedAt": "2026-08-22T05:15:45.199Z",
-    "kind": "editorial_archive",
-    "items": [
-      {
-        "id": "editorial_2026-08-22",
-        "rank": 0,
-        "title": "Named for a niece",
-        "category": "editorial",
-        "summary": "A café that asks you back, a lab priced past SpaceX",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/Artiststore-1.png",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-22.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-08-22",
-        "authorName": "Dr. Wallace Lynch"
-      }
-    ]
-  },
-  {
-    "batchId": "editorial_2026-08-21",
-    "scannedAt": "2026-08-22T05:01:16.146Z",
-    "kind": "editorial_archive",
-    "items": [
-      {
-        "id": "editorial_2026-08-21",
-        "rank": 0,
-        "title": "Totality, then the furnace",
-        "category": "editorial",
-        "summary": "The sun’s outer air, and a 500 million dollar turn back to coal",
-        "image": "https://img.canarymedia.com/content/uploads/Middletown-Ohio-Cliffs-workers-August-2026_GettyImages-2290802933.jpg?auto=compress%2Cformat&w=1200",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-21.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-08-21",
-        "authorName": "Dr. Wallace Lynch"
       }
     ]
   }
