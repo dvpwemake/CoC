@@ -122,6 +122,26 @@
     ]
   },
   {
+    "batchId": "editorial_2026-09-13",
+    "scannedAt": "2026-09-13T23:25:20.600Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-09-13",
+        "rank": 0,
+        "title": "No majority",
+        "category": "editorial",
+        "summary": "The forum named the chill. Memphis stacked the pack",
+        "image": "https://www.sciencedaily.com/images/1920/woman-face-close-up-surprise-worry-fear.webp",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-09-13.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-09-13",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-09-13T21-50",
     "scannedAt": "2026-09-13T21:50:18.323Z",
     "items": [
