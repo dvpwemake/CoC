@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-09-15T15-44",
-    "scannedAt": "2026-09-15T15:44:34.366Z",
+    "batchId": "auto_2026-09-15T19-18",
+    "scannedAt": "2026-09-15T19:18:24.695Z",
     "items": [
       {
-        "id": "auto_2026-09-15T15-44_1",
+        "id": "auto_2026-09-15T19-18_1",
         "rank": 1,
-        "title": "Digit 5 May Be the First Humanoid Robot Worker That’s Truly Safe",
-        "category": "robotics",
-        "summary": "Despite the recent deluge of videos of humanoid robots doing backflips and kung-fu, the actual pace of progress towards humanoids that can do economically viable jobs at scale has at times seemed a bit plodding. There…",
-        "image": "https://spectrum.ieee.org/media-library/a-front-and-an-angled-view-of-a-teal-colored-humanoid-robot-with-arms-bent-at-the-elbow.jpg?id=67776740&width=980",
-        "source": "IEEE Spectrum",
-        "sourceUrl": "https://spectrum.ieee.org/humanoid-robot-safety",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-15T15-44_2",
-        "rank": 2,
-        "title": "STAT+: RFK Jr. returns to his roots",
-        "category": "biotech",
-        "summary": "Kennedy will keynote a Children's Health Defense event, and hospitals are disappointed by GOP's rural health fund.",
-        "image": "https://www.statnews.com/wp-content/uploads/2025/08/GettyImages-2218966268-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/09/15/rfk-childrens-health-defense-chris-klomp-hearings-dc-diagnosis/?utm_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-15T15-44_3",
-        "rank": 3,
-        "title": "New Museum Appoints Ten New Trustees",
-        "category": "art",
-        "summary": "Following a major building expansion, the New Museum has added ten new members to its board of trustees, expanding its existing slate and bringing its total membership to nearly fifty. The new members are Donald…",
-        "image": "https://www.artforum.com/wp-content/uploads/2026/03/Exterior_by_Jason_Keen.jpg?w=650",
-        "source": "Artforum",
-        "sourceUrl": "https://www.artforum.com/news/new-museum-appoints-ten-trustees-1234759192/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-15T15-44_4",
-        "rank": 4,
-        "title": "Scientists discover a major brain shift between ages 50 and 75",
-        "category": "neuroscience",
-        "summary": "Scientists have uncovered sweeping changes in how the human brain controls and organizes its genome beginning in midlife, offering new clues to why aging sharply increases the risk of Alzheimer’s and other…",
-        "image": "https://www.sciencedaily.com/images/1920/neuroscience-brain-connections-signal-processing.webp",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260914102441.htm",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-15T15-44_5",
-        "rank": 5,
-        "title": "Gates Foundation Pledges $1 Billion to Combat A.I. Inequality",
+        "title": "Senate Votes to Block Crypto Bill in Major Blow to the Industry",
         "category": "general",
-        "summary": "Bill Gates, the foundation’s chairman, has been vocal about the dangers of artificial intelligence. The donation will be invested in A.I. projects to bridge social inequalities.",
-        "image": "https://static01.nyt.com/images/2026/09/15/multimedia/15xp-ai-gates-mcjw/15xp-ai-gates-mcjw-mediumSquareAt3X.jpg",
+        "summary": "The landmark legislation, known as the Clarity Act, stalled in the Senate as Democrats raised concerns about President Trump’s personal investments in crypto.",
+        "image": "https://static01.nyt.com/images/2026/09/15/multimedia/15biz-crypto-bill-vglp/15biz-crypto-bill-vglp-mediumSquareAt3X.jpg",
         "source": "NYT Technology",
-        "sourceUrl": "https://www.nytimes.com/2026/09/15/technology/bill-gates-ai-foundation-funding.html",
+        "sourceUrl": "https://www.nytimes.com/2026/09/15/technology/senate-blocks-crypto-bill.html",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-15T19-18_2",
+        "rank": 2,
+        "title": "Pope Leo XIV opens a new installation by JR on Vatican Library facade.",
+        "category": "art",
+        "summary": "Pope Leo XIV marked his 71st birthday on September 14th by opening “AQVA. Catastrophe and Wonder,” a new exhibition at the Vatican Apostolic Library anchored by a monumental installation by the French artist JR . The…",
+        "image": "https://artsy-media-uploads.s3.amazonaws.com/rPwPvC6RsOa3SireMCOi1Q%2F4096-3081-max.jpg",
+        "source": "Artsy",
+        "sourceUrl": "https://www.artsy.net/article/artsy-editorial-pope-leo-xiv-opens-new-installation-jr-vatican-library-facade",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-15T19-18_3",
+        "rank": 3,
+        "title": "NASA Invites Media to International Observe the Moon Night",
+        "category": "space",
+        "summary": "NASA will host an International Observe the Moon Night celebration from 5:30 to 8 p.m. CST on Saturday, Sept. 19, at the U.S. Space & Rocket Center, the official visitor center for NASA’s Marshall Space Flight Center in…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/09/moreaboutinomn1.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/news-release/nasa-invites-media-to-international-observe-the-moon-night/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-15T19-18_4",
+        "rank": 4,
+        "title": "Immune Protein Protects Brain Against Depression and PTSD After TBI",
+        "category": "neuroscience",
+        "summary": "Naturally occurring anti-NMDAR1 IgM antibodies protect against depression and PTSD after traumatic brain injury by shielding extrasynaptic receptors.",
+        "image": "https://neurosciencenews.com/files/2026/09/blood-protein-tbi-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/ptsd-tbi-depression-neurology-31210/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-15T19-18_5",
+        "rank": 5,
+        "title": "A fourth measles death is reported in Pennsylvania",
+        "category": "biotech",
+        "summary": "Pennsylvania officials have reported a fourth measles-associated death within the past month, the latest in an unvaccinated 18-year-old.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/08/AP26229720134154-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/09/15/fourth-measles-death-pennsylvania-acute-disseminated-encephalomyelitis/?utm_campaign=rss",
         "fromX": false
       }
     ]
