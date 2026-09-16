@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-09-16T01-49",
+    "scannedAt": "2026-09-16T01:49:24.068Z",
+    "items": [
+      {
+        "id": "auto_2026-09-16T01-49_1",
+        "rank": 1,
+        "title": "The EOS R8 Mark II is Canon’s lightest full-frame camera with stabilization",
+        "category": "general",
+        "summary": "Canon announced the second-generation of its EOS R8 with a new retro-inspired redesign and the addition of in-body stabilization. That feature was one of the most notable omissions from the original R8 that launched in…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/canon1.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
+        "source": "The Verge",
+        "sourceUrl": "https://www.theverge.com/tech/995430/canon-eos-r8-mark-11-full-frame-digital-camera-pricing-availability",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-16T01-49_2",
+        "rank": 2,
+        "title": "NASA Ames Stars of the Month: September 2026",
+        "category": "space",
+        "summary": "The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Steve Ormsby, Aphrodite Kostakis, Alejando Borlaff, Sarah Nickerson, Martina Caussi, Keiko Nomura, and Stephen…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/09/nasa-arc-s-stars-of-the-mont-sep-2026.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/general/nasa-ames-stars-of-the-month-september-2026/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-16T01-49_3",
+        "rank": 3,
+        "title": "Please No Photos! A Short Film Focuses on Tourists' Obsession with Capturing the Moment",
+        "category": "art",
+        "summary": "Serenity now! Do stories and artists like this matter to you? Become a Colossal Member today and support independent arts publishing for as little as $7 per month. The article Please No Photos! A Short Film Focuses on…",
+        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/09/spectacle-3.jpg",
+        "source": "Colossal",
+        "sourceUrl": "https://www.thisiscolossal.com/2026/09/the-spectacle-short-film-new-yorker/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-16T01-49_4",
+        "rank": 4,
+        "title": "Disadvantaged Neighborhoods Linked to Accelerated Brain Aging",
+        "category": "neuroscience",
+        "summary": "A study of 2,800+ brain MRIs links neighborhood socioeconomic disadvantage to accelerated brain aging, reduced volume, and vascular damage.",
+        "image": "https://neurosciencenews.com/files/2026/09/brain-aging-neighborhood-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/living-location-brain-aging-neuroscience-31213/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-16T01-49_5",
+        "rank": 5,
+        "title": "A fourth measles death is reported in Pennsylvania",
+        "category": "biotech",
+        "summary": "Pennsylvania officials have reported a fourth measles-associated death within the past month, the latest in an unvaccinated 18-year-old.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/08/AP26229720134154-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/09/15/fourth-measles-death-pennsylvania-acute-disseminated-encephalomyelitis/?utm_campaign=rss",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-09-15T22-28",
     "scannedAt": "2026-09-15T22:28:13.125Z",
     "items": [

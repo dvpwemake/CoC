@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-08-23T20-07",
+    "scannedAt": "2026-08-23T20:07:19.979Z",
+    "items": [
+      {
+        "id": "auto_2026-08-23T20-07_1",
+        "rank": 1,
+        "title": "GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series",
+        "category": "general",
+        "summary": "It’s been over a decade and two console generations since GTA V came out, and its sequel is still a work in progress. GTA VI has faced multiple delays, with developer Rockstar Games bumping back its predicted release…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/VINTAGE_VICE_CITY_PACK_02.jpg?quality=90&strip=all&crop=18.6%2C0%2C78.2%2C72.786503781268&w=1200",
+        "source": "The Verge",
+        "sourceUrl": "https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-23T20-07_2",
+        "rank": 2,
+        "title": "Curiosity Blog, Sols 4982–4987: Back to Our Regularly Scheduled Programming",
+        "category": "space",
+        "summary": "By Allison Dries-Padilla, Missions Operations Specialist at Malin Space Science Systems Earth planning date: Friday, Aug. 14, 2026 This week of Curiosity Mars rover operations takes us back to our “regularly scheduled…",
+        "image": "https://assets.science.nasa.gov/content/dam/science/missions/msl/2026/curiosity-rover-updates/august/https___mars.nasa.gov_msl-raw-images_msss_04982_mcam_4982MR1098550121904994C00_DXXX.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "source": "NASA",
+        "sourceUrl": "https://science.nasa.gov/blog/curiosity-blog-sols-4982-4987-back-to-our-regularly-scheduled-programming/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-23T20-07_3",
+        "rank": 3,
+        "title": "This common vitamin was linked to 13% better cognitive scores",
+        "category": "neuroscience",
+        "summary": "Older adults with mild cognitive impairment and sleep problems who took at least 5,000 IU of vitamin D daily scored more than 13% higher on a cognitive test than those taking none. The preliminary findings suggest…",
+        "image": "https://www.sciencedaily.com/images/1920/hand-holding-vitamin-d-pill-in-sunlight.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260822015138.htm",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-23T20-07_4",
+        "rank": 4,
+        "title": "Travere Therapeutics Turns a Rare Disease Approval into Two Quarters of Accelerating Sales",
+        "category": "robotics",
+        "summary": "The Food and Drug Administration granted Travere Therapeutics full approval for FILSPARI in focal segmental glomerulosclerosis on April 13, 2026, the drug's second full approval after a 2023 clearance for IgA…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/stocks-and-shares-1.jpg",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/22/travere-therapeutics-turns-a-rare-disease-approval-into-two-quarters-of-accelerating-sales/104412/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-23T20-07_5",
+        "rank": 5,
+        "title": "Mariam Elnozahy Appointed As Curator Of The 2027 Ulaanbaatar Biennale",
+        "category": "art",
+        "summary": "Researcher, writer, and curator Mariam Elnozahy has been announced as chief curator of the second edition of the Ulaanbaatar Biennale. The event, which serves as a nexus for the Mongolian arts and culture sector to…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/08/Mariam-Portrait-_-Louise-Helmfrid-scaled-1.jpg?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/news/mariam-elnozahy-ulaanbaatar-biennale-1234757716/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-08-22T20-07",
     "scannedAt": "2026-08-22T20:07:53.967Z",
     "items": [
@@ -1698,67 +1759,6 @@
         "isEditorialArchive": true,
         "publishDate": "2026-07-31",
         "authorName": "Dr. Wallace Lynch"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-07-31T20-48",
-    "scannedAt": "2026-07-31T20:48:44.442Z",
-    "items": [
-      {
-        "id": "auto_2026-07-31T20-48_1",
-        "rank": 1,
-        "title": "Protein Restriction Improves Metabolism and Longevity",
-        "category": "neuroscience",
-        "summary": "Researchers demonstrates that dietary protein restriction improves metabolism, elevates FGF21, and extends lifespan, challenging current high-protein dietary trends for sedentary adults.",
-        "image": "https://neurosciencenews.com/files/2026/07/protein-restriction-diet-aging-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/protein-restriction-diet-longevity/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-07-31T20-48_2",
-        "rank": 2,
-        "title": "NASA's Newest Wind Tunnel Opens at NASA Langley",
-        "category": "space",
-        "summary": "On Friday, July 31, 2026, NASA leadership and Virginia government officials opened NASA's first major new wind tunnel in more than 40 years, the Flight Dynamics Research Facility at NASA’s Langley Research Center in…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/07/55433508350-2d4abff2f1-o.jpg",
-        "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/image-article/nasas-newest-wind-tunnel-opens-at-nasa-langley/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-07-31T20-48_3",
-        "rank": 3,
-        "title": "STAT+: Trump administration revises rebate pilot for 340B drug discount program, angering hospitals",
-        "category": "biotech",
-        "summary": "The Trump administration is revising its rebate pilot for the 340B drug discount program, angering hospitals.",
-        "image": "https://www.statnews.com/wp-content/uploads/2021/08/AdobeStock_251252973-1024x576.jpeg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/pharmalot/2026/07/31/trump-administration-revises-rebate-pilot-drug-discount-program-hospitals/?utm_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-07-31T20-48_4",
-        "rank": 4,
-        "title": "New York takes on the myth that solar is swallowing farmland",
-        "category": "energy",
-        "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter. Sign up to get it every Friday. In rural areas across the U.S., solar power opponents keep leaning on the argument that utility-scale arrays…",
-        "image": "https://img.canarymedia.com/content/uploads/Solar-Saves-Farms-GettyImages-2059251402.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=c6b90806015c9b823fc2f5a90cc8648c",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/solar/new-york-solar-farms",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-07-31T20-48_5",
-        "rank": 5,
-        "title": "The Top Photos in the CWAS David Malin Awards Highlight Astronomical Wonders",
-        "category": "art",
-        "summary": "The Central West Astronomical Society of New South Wales marks its annual AstroFest with an amateur photography competition. Do stories and artists like this matter to you? Become a Colossal Member today and support…",
-        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/07/cwas-3.jpg",
-        "source": "Colossal",
-        "sourceUrl": "https://www.thisiscolossal.com/2026/07/winning-photos-cwas-astrofest-space-astrophotography/",
-        "fromX": false
       }
     ]
   }
