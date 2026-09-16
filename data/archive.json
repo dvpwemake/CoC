@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-09-16T15-36",
-    "scannedAt": "2026-09-16T15:36:26.955Z",
+    "batchId": "auto_2026-09-16T19-08",
+    "scannedAt": "2026-09-16T19:08:24.743Z",
     "items": [
       {
-        "id": "auto_2026-09-16T15-36_1",
+        "id": "auto_2026-09-16T19-08_1",
         "rank": 1,
-        "title": "The Met Breaks Ground on New Modern and Contemporary Wing",
-        "category": "art",
-        "summary": "On September 15, the Metropolitan Museum of Art broke ground on the Oscar L. Tang and H.M. Agnes Hsu-Tang Wing, a long-awaited addition that will house the museum’s collection of modern and contemporary art. The new…",
-        "image": "https://www.artforum.com/wp-content/uploads/2026/09/31b18fff3a46be7e9381d7e97ecc97eb0b93df62-5121x1707-1-e1789570784360.avif?w=650",
-        "source": "Artforum",
-        "sourceUrl": "https://www.artforum.com/news/met-breaks-ground-on-new-modern-and-contemporary-wing-1234759227/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-16T15-36_2",
-        "rank": 2,
-        "title": "NASA Astronaut Reid Wiseman to Join NFL Fans in Baltimore",
-        "category": "space",
-        "summary": "As part of NASA’s new Inspiration Tour, Reid Wiseman, NASA astronaut and commander of the agency’s Artemis II mission, will highlight America’s strengths in space exploration and aeronautics innovation at the Baltimore…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/09/nhq20260401-admin-0007large.jpg",
-        "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/news-release/nasa-astronaut-reid-wiseman-to-join-nfl-fans-in-baltimore/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-16T15-36_3",
-        "rank": 3,
-        "title": "STAT+: Scientists made mice with half a brain. Then they filled them with human organoids",
-        "category": "biotech",
-        "summary": "Scientists have made mice with half a brain, then filled them with human organoids — possibly opening new avenues for research but also raising ethical issues.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/09/Image-3-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/09/16/human-brain-organoids-neuro-chimeric-mice-study-published-nature/?utm_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-16T15-36_4",
-        "rank": 4,
-        "title": "The sexy AI-powered dating app scams are here",
+        "title": "I Trained a Fly’s Brain to Generate WIRED Story Ideas",
         "category": "general",
-        "summary": "Security researcher Matthew \"Zigula\" Gore-Kormanik was analyzing a fraudulent dating app called Dora when he got a pop-up message saying he was receiving a call from Jennifer. According to her bio, she's a 41-year-old…",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268744_Inside_romance_AI_scam_apps_CVirginia2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams",
+        "summary": "I used an open-source map of a fruit fly’s brain to vibe code a website called PitchFly. Its headline suggestions were delightfully bananas.",
+        "image": "https://media.wired.com/photos/6aa8849459082b83fd22fcf8/master/pass/AI-Lab-This-Fly-Can-Come-Up-With-WIRED-Stories-Businesspsd.jpg",
+        "source": "WIRED",
+        "sourceUrl": "https://www.wired.com/story/i-trained-a-fly-on-wired-story-ideas/",
         "fromX": false
       },
       {
-        "id": "auto_2026-09-16T15-36_5",
-        "rank": 5,
-        "title": "Scientists turn seawater into fresh water without harmful brine",
+        "id": "auto_2026-09-16T19-08_2",
+        "rank": 2,
+        "title": "Rising Painter Mia Middleton Seeks Meaning in the Grief of Miscarriage",
+        "category": "art",
+        "summary": "In Mia Middleton ’s spectral new paintings, an unseen figure seems to linger just out of sight. This absent character becomes a centrifugal force, pulling at the world around her, unraveling the rules of physics and…",
+        "image": "https://artsy-media-uploads.s3.amazonaws.com/fxEkffFaE-dsakpoRnvYBA%2FMiddleton_StudioPortrait_1_2026_CourtesyoftheartistandRobertsProjects_PhotoBySeanValadaoDuarte_1500x1000.jpg",
+        "source": "Artsy",
+        "sourceUrl": "https://www.artsy.net/article/artsy-editorial-rising-painter-mia-middleton-seeks-meaning-grief-miscarriage",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-16T19-08_3",
+        "rank": 3,
+        "title": "NASA’s Moon Orbiter Spots New, ‘Once-in-Century’ Moon Crater",
+        "category": "space",
+        "summary": "It started as a routine data-quality check. But as Robert Wagner, a scientist with NASA’s Lunar Reconnaissance Orbiter (LRO), scanned a giant Moon map on his computer screen, an unusually large bright spot circled by a…",
+        "image": "https://assets.science.nasa.gov/content/dam/science/missions/lro/McGetchin_Discovery_Reenactment.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
+        "source": "NASA",
+        "sourceUrl": "https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-once-in-century-moon-crater/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-16T19-08_4",
+        "rank": 4,
+        "title": "Newsom's last chance to tackle California's electricity costs",
         "category": "energy",
-        "summary": "Scientists have developed a solar-powered desalination system that turns seawater into fresh water while removing nearly all of the leftover salt as a solid instead of producing harmful brine. The self-cleaning…",
-        "image": "https://www.sciencedaily.com/images/1920/solar-desalination-device-with-laser-etched-superwicking.webp",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260915100137.htm",
+        "summary": "This is California Wire , a weekly newsletter from Jeff St. John on the state’s clean energy transition. Subscribe to get it every Wednesday via Substack . I’m launching this newsletter at an intriguing moment in…",
+        "image": "https://img.canarymedia.com/content/uploads/CW-newsom.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=adbab9076d7652e2d3f055d4e5e00ea5",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/affordability/newsom-last-chance-california-electricity-costs",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-16T19-08_5",
+        "rank": 5,
+        "title": "WHO expresses cautious optimism about bid to control Ebola outbreak in DRC",
+        "category": "biotech",
+        "summary": "There is reason to be cautiously optimistic about the trajectory of the current Ebola outbreak in the Democratic Republic of the Congo, the WHO says.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/09/GettyImages-2285416156-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/09/16/ebola-outbreak-drc-who-cautious-optimism/?utm_campaign=rss",
         "fromX": false
       }
     ]
