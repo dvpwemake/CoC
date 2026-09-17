@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-09-17T01-53",
+    "scannedAt": "2026-09-17T01:53:20.181Z",
+    "items": [
+      {
+        "id": "auto_2026-09-17T01-53_1",
+        "rank": 1,
+        "title": "New lawsuit argues NIH violated First Amendment rights of grant applicants",
+        "category": "biotech",
+        "summary": "The lawsuit seeks to halt the process of searching grant applications for specific terms to determine if they should be rejected.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/09/AdobeStock_419260729_Editorial_Use_Only-1024x576.jpeg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/09/16/lawsuit-argues-nih-violated-researcher-first-amendment-rights-aclu/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-17T01-53_2",
+        "rank": 2,
+        "title": "OpenAI Discloses Six New Incidents of ‘Concerning' A.I. Behavior",
+        "category": "general",
+        "summary": "The artificial intelligence company also released a framework for reporting when its systems go wrong.",
+        "image": "https://static01.nyt.com/images/2026/09/16/multimedia/16biz-openai-mlhb/16biz-openai-mlhb-mediumSquareAt3X.jpg",
+        "source": "NYT Technology",
+        "sourceUrl": "https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-17T01-53_3",
+        "rank": 3,
+        "title": "Art by Humans, For Humans: A Letter from Our Editorial Director",
+        "category": "art",
+        "summary": "Art is an act of faith in a world that can make hope feel impossible. Do stories and artists like this matter to you? Become a Colossal Member today and support independent arts publishing for as little as $7 per month.…",
+        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/09/marija.jpg",
+        "source": "Colossal",
+        "sourceUrl": "https://www.thisiscolossal.com/2026/09/art-by-humans-for-humans/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-17T01-53_4",
+        "rank": 4,
+        "title": "Newsom's last chance to tackle California's electricity costs",
+        "category": "energy",
+        "summary": "This is California Wire , a weekly newsletter from Jeff St. John on the state’s clean energy transition. Subscribe to get it every Wednesday via Substack . I’m launching this newsletter at an intriguing moment in…",
+        "image": "https://img.canarymedia.com/content/uploads/CW-newsom.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=adbab9076d7652e2d3f055d4e5e00ea5",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/affordability/newsom-last-chance-california-electricity-costs",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-17T01-53_5",
+        "rank": 5,
+        "title": "Scientists recreated what mice saw from brain activity alone",
+        "category": "neuroscience",
+        "summary": "Scientists reconstructed videos from the brain activity of mice, producing 10-second clips based only on signals from neurons in the visual cortex. The breakthrough could help reveal how the brain reshapes what we see…",
+        "image": "https://www.sciencedaily.com/images/1920/mouse-brain-thoughts-video.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260914102449.htm",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-09-16T22-25",
     "scannedAt": "2026-09-16T22:25:18.816Z",
     "items": [
