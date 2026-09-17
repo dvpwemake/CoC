@@ -122,6 +122,26 @@
     ]
   },
   {
+    "batchId": "editorial_2026-09-15",
+    "scannedAt": "2026-09-15T20:40:32.074Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-09-15",
+        "rank": 0,
+        "title": "He called it a heart",
+        "category": "editorial",
+        "summary": "A seventy meter wave. Four deaths in one state.",
+        "image": "https://artsy-media-uploads.s3.amazonaws.com/rPwPvC6RsOa3SireMCOi1Q%2F4096-3081-max.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-09-15.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-09-15",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-09-14T22-47",
     "scannedAt": "2026-09-14T22:47:14.457Z",
     "items": [
@@ -1821,26 +1841,6 @@
         "source": "STAT News",
         "sourceUrl": "https://www.statnews.com/2026/08/24/public-sector-workers-health-insurance-costs-hospital-union-battle/?utm_campaign=rss",
         "fromX": false
-      }
-    ]
-  },
-  {
-    "batchId": "editorial_2026-08-24",
-    "scannedAt": "2026-08-24T04:15:29.426Z",
-    "kind": "editorial_archive",
-    "items": [
-      {
-        "id": "editorial_2026-08-24",
-        "rank": 0,
-        "title": "She still holds the string",
-        "category": "editorial",
-        "summary": "A fold that keeps a family, a cell that thins before memory speaks",
-        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/08/ajcip-1.jpg",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-24.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-08-24",
-        "authorName": "Dr. Wallace Lynch"
       }
     ]
   }

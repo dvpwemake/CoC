@@ -1,5 +1,25 @@
 [
   {
+    "batchId": "editorial_2026-08-24",
+    "scannedAt": "2026-08-24T04:15:29.426Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-08-24",
+        "rank": 0,
+        "title": "She still holds the string",
+        "category": "editorial",
+        "summary": "A fold that keeps a family, a cell that thins before memory speaks",
+        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/08/ajcip-1.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-24.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-08-24",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-08-23T20-07",
     "scannedAt": "2026-08-23T20:07:19.979Z",
     "items": [
@@ -1738,26 +1758,6 @@
         "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-01.html",
         "isEditorialArchive": true,
         "publishDate": "2026-08-01",
-        "authorName": "Dr. Wallace Lynch"
-      }
-    ]
-  },
-  {
-    "batchId": "editorial_2026-07-31",
-    "scannedAt": "2026-08-01T03:00:46.262Z",
-    "kind": "editorial_archive",
-    "items": [
-      {
-        "id": "editorial_2026-07-31",
-        "rank": 0,
-        "title": "What we still pay to repair, and what a second life is worth",
-        "category": "editorial",
-        "summary": "Convergence of regeneration and civic cost",
-        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/07/cwas-3.jpg",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-07-31.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-07-31",
         "authorName": "Dr. Wallace Lynch"
       }
     ]
