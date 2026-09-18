@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-08-25T20-13",
+    "scannedAt": "2026-08-25T20:13:14.046Z",
+    "items": [
+      {
+        "id": "auto_2026-08-25T20-13_1",
+        "rank": 1,
+        "title": "US State Department Looks to Sell “Woke” Kehinde Wiley Painting",
+        "category": "art",
+        "summary": "The US State Department has said it is contemplating selling a painting by Kehinde Wiley that it removed from the U.S. Embassy in the Dominican Republic last week, after the director of the department’s Art in Embassies…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/08/GettyImages-917389214.jpg?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/news/us-state-department-looks-to-sell-kehinde-wiley-painting-1234757807/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-25T20-13_2",
+        "rank": 2,
+        "title": "Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails",
+        "category": "general",
+        "summary": "Irregular, an Israeli start-up, worked with OpenAI, Anthropic and Meta to assess the security of their A.I. models. It made a mistake. Then the tests went off the rails.",
+        "image": "https://static01.nyt.com/images/2026/08/27/business/00biz-irregular-ai/00biz-irregular-ai-mediumSquareAt3X.jpg",
+        "source": "NYT Technology",
+        "sourceUrl": "https://www.nytimes.com/2026/08/25/technology/irregular-ai-test-hacks.html",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-25T20-13_3",
+        "rank": 3,
+        "title": "Propulsion is having a moment",
+        "category": "space",
+        "summary": "In this episode, SpaceNews Mike Gruss interviews Kevin Lausten, CEO of Morpheus Space, at the 2026 Small Satellite Conference in Salt Lake City, Utah. They discuss why propulsion is critical […] The post Propulsion is…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/1500-1000-space-minds-morpheus-space-smallsat262-scaled.jpg?fit=1024%2C768&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/propulsion-is-having-a-moment/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-25T20-13_4",
+        "rank": 4,
+        "title": "STAT+: How Trump's funding cuts are reshaping the health system",
+        "category": "biotech",
+        "summary": "STAT examines Republicans’ health care funding cuts, mRNA science defeats politics, and Medicaid tries out a new way to deny drug coverage.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/08/20260728_STATRuralHostpials_1488-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/08/25/how-trumps-funding-cuts-are-reshaping-the-health-system/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-25T20-13_5",
+        "rank": 5,
+        "title": "NEC invests in US-based robotics startup Dexmate",
+        "category": "robotics",
+        "summary": "Japanese technology giant NEC’s corporate venture capital fund has invested in US-based robotics startup Dexmate, developer of the VEGA humanoid robot and an integrated physical AI development platform. The investment…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/Dexmate-robots-1.jpeg",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/25/nec-invests-in-us-based-robotics-startup-dexmate/104453/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-08-24T20-14",
     "scannedAt": "2026-08-24T20:14:39.621Z",
     "items": [
@@ -1800,46 +1861,6 @@
         "source": "STAT News",
         "sourceUrl": "https://www.statnews.com/pharmalot/2026/07/31/trump-administration-revises-rebate-pilot-drug-discount-program-hospitals/?utm_campaign=rss",
         "fromX": false
-      }
-    ]
-  },
-  {
-    "batchId": "editorial_2026-08-01",
-    "scannedAt": "2026-08-01T19:52:07.146Z",
-    "kind": "editorial_archive",
-    "items": [
-      {
-        "id": "editorial_2026-08-01",
-        "rank": 0,
-        "title": "What the margin makes visible, and what ground still claims",
-        "category": "editorial",
-        "summary": "Convergence of expanded access and reclaimed repair",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/seedance-image-3.png",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-01.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-08-01",
-        "authorName": "Dr. Wallace Lynch"
-      }
-    ]
-  },
-  {
-    "batchId": "editorial_2026-07-31",
-    "scannedAt": "2026-08-01T03:00:46.262Z",
-    "kind": "editorial_archive",
-    "items": [
-      {
-        "id": "editorial_2026-07-31",
-        "rank": 0,
-        "title": "What we still pay to repair, and what a second life is worth",
-        "category": "editorial",
-        "summary": "Convergence of regeneration and civic cost",
-        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/07/cwas-3.jpg",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-07-31.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-07-31",
-        "authorName": "Dr. Wallace Lynch"
       }
     ]
   }

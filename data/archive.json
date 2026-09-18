@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-09-18T08-31",
+    "scannedAt": "2026-09-18T08:31:30.928Z",
+    "items": [
+      {
+        "id": "auto_2026-09-18T08-31_1",
+        "rank": 1,
+        "title": "Opinion: Doctors should educate patients about ‘Asian glow’ and drinking risks",
+        "category": "biotech",
+        "summary": "It wasn’t until he started medical school, Brian Zhang writes, that he realized ‘Asian glow’ from drinking was a sign of something important.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/09/GettyImages-1732669238-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/09/18/what-is-asian-glow-alcohol-flushing-aldh2-drinking-health-consequences/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-18T08-31_2",
+        "rank": 2,
+        "title": "The Iran war pushed countries toward clean energy — and coal",
+        "category": "energy",
+        "summary": "See more from Canary Media’s ​“Chart of the Week” column . The war in Iran has pushed the world toward clean energy. It has also pushed the world toward coal. The International Energy Agency has reversed its projection…",
+        "image": "https://img.canarymedia.com/content/uploads/cotw-coal-use.png?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=80&w=1200&s=c632d9787b0e11abf8c3823d6946cc72",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/fossil-fuels/the-iran-war-pushed-countries-toward-clean-energy-and-coal",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-18T08-31_3",
+        "rank": 3,
+        "title": "Zoro Coupon Codes: 20% Off September 2026",
+        "category": "general",
+        "summary": "Find the best Zoro coupon codes, deals, and free shipping offers to save big on industrial equipment, tools, and supplies in September 2026.",
+        "image": "https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg",
+        "source": "WIRED",
+        "sourceUrl": "https://www.wired.com/story/zoro-promo-code/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-18T08-31_4",
+        "rank": 4,
+        "title": "Malba picks architect for expansion that will double its exhibition space",
+        "category": "art",
+        "summary": "The Buenos Aires museum has selected the Mexican architect Frida Escobedo to lead its ambitious build-out",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/5e4d839d07a55c4d47a002cb0de4bf4a39f33617-2000x2560.jpg?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/09/17/malba-museum-buenos-aires-frida-escobedo-architect-expansion",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-18T08-31_5",
+        "rank": 5,
+        "title": "Lab-Grown Human Brain Tissue Restores Brain Circuitry in Living Mice",
+        "category": "neuroscience",
+        "summary": "Researchers transplant human brain organoids into cortex-depleted mice, forming functional circuits that guide motor behavior.",
+        "image": "https://neurosciencenews.com/files/2026/09/human-tissue-mouse-brain-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/hybrid-human-brain-mouse-tissue-31216/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "editorial_2026-09-18",
     "scannedAt": "2026-09-18T03:10:57.659Z",
     "kind": "editorial_archive",

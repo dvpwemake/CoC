@@ -1,5 +1,86 @@
 [
   {
+    "batchId": "auto_2026-09-18T08-31",
+    "scannedAt": "2026-09-18T08:31:30.928Z",
+    "items": [
+      {
+        "id": "auto_2026-09-18T08-31_1",
+        "rank": 1,
+        "title": "Opinion: Doctors should educate patients about ‘Asian glow’ and drinking risks",
+        "category": "biotech",
+        "summary": "It wasn’t until he started medical school, Brian Zhang writes, that he realized ‘Asian glow’ from drinking was a sign of something important.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/09/GettyImages-1732669238-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/09/18/what-is-asian-glow-alcohol-flushing-aldh2-drinking-health-consequences/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-18T08-31_2",
+        "rank": 2,
+        "title": "The Iran war pushed countries toward clean energy — and coal",
+        "category": "energy",
+        "summary": "See more from Canary Media’s ​“Chart of the Week” column . The war in Iran has pushed the world toward clean energy. It has also pushed the world toward coal. The International Energy Agency has reversed its projection…",
+        "image": "https://img.canarymedia.com/content/uploads/cotw-coal-use.png?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=80&w=1200&s=c632d9787b0e11abf8c3823d6946cc72",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/fossil-fuels/the-iran-war-pushed-countries-toward-clean-energy-and-coal",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-18T08-31_3",
+        "rank": 3,
+        "title": "Zoro Coupon Codes: 20% Off September 2026",
+        "category": "general",
+        "summary": "Find the best Zoro coupon codes, deals, and free shipping offers to save big on industrial equipment, tools, and supplies in September 2026.",
+        "image": "https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg",
+        "source": "WIRED",
+        "sourceUrl": "https://www.wired.com/story/zoro-promo-code/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-18T08-31_4",
+        "rank": 4,
+        "title": "Malba picks architect for expansion that will double its exhibition space",
+        "category": "art",
+        "summary": "The Buenos Aires museum has selected the Mexican architect Frida Escobedo to lead its ambitious build-out",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/5e4d839d07a55c4d47a002cb0de4bf4a39f33617-2000x2560.jpg?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/09/17/malba-museum-buenos-aires-frida-escobedo-architect-expansion",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-18T08-31_5",
+        "rank": 5,
+        "title": "Lab-Grown Human Brain Tissue Restores Brain Circuitry in Living Mice",
+        "category": "neuroscience",
+        "summary": "Researchers transplant human brain organoids into cortex-depleted mice, forming functional circuits that guide motor behavior.",
+        "image": "https://neurosciencenews.com/files/2026/09/human-tissue-mouse-brain-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/hybrid-human-brain-mouse-tissue-31216/",
+        "fromX": false
+      }
+    ]
+  },
+  {
+    "batchId": "editorial_2026-09-18",
+    "scannedAt": "2026-09-18T03:10:57.659Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-09-18",
+        "rank": 0,
+        "title": "The color still holds",
+        "category": "editorial",
+        "summary": "Day-Glo. A mind that still scores.",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/09/Max-Painting-Lady-Liberty-at-The-White-House.jpg?w=650",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-09-18.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-09-18",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "editorial_2026-09-16",
     "scannedAt": "2026-09-17T01:28:48.840Z",
     "kind": "editorial_archive",
@@ -1739,128 +1820,6 @@
         "isEditorialArchive": true,
         "publishDate": "2026-08-25",
         "authorName": "Dr. Wallace Lynch"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-08-25T20-13",
-    "scannedAt": "2026-08-25T20:13:14.046Z",
-    "items": [
-      {
-        "id": "auto_2026-08-25T20-13_1",
-        "rank": 1,
-        "title": "US State Department Looks to Sell “Woke” Kehinde Wiley Painting",
-        "category": "art",
-        "summary": "The US State Department has said it is contemplating selling a painting by Kehinde Wiley that it removed from the U.S. Embassy in the Dominican Republic last week, after the director of the department’s Art in Embassies…",
-        "image": "https://www.artforum.com/wp-content/uploads/2026/08/GettyImages-917389214.jpg?w=650",
-        "source": "Artforum",
-        "sourceUrl": "https://www.artforum.com/news/us-state-department-looks-to-sell-kehinde-wiley-painting-1234757807/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-25T20-13_2",
-        "rank": 2,
-        "title": "Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails",
-        "category": "general",
-        "summary": "Irregular, an Israeli start-up, worked with OpenAI, Anthropic and Meta to assess the security of their A.I. models. It made a mistake. Then the tests went off the rails.",
-        "image": "https://static01.nyt.com/images/2026/08/27/business/00biz-irregular-ai/00biz-irregular-ai-mediumSquareAt3X.jpg",
-        "source": "NYT Technology",
-        "sourceUrl": "https://www.nytimes.com/2026/08/25/technology/irregular-ai-test-hacks.html",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-25T20-13_3",
-        "rank": 3,
-        "title": "Propulsion is having a moment",
-        "category": "space",
-        "summary": "In this episode, SpaceNews Mike Gruss interviews Kevin Lausten, CEO of Morpheus Space, at the 2026 Small Satellite Conference in Salt Lake City, Utah. They discuss why propulsion is critical […] The post Propulsion is…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/1500-1000-space-minds-morpheus-space-smallsat262-scaled.jpg?fit=1024%2C768&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/propulsion-is-having-a-moment/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-25T20-13_4",
-        "rank": 4,
-        "title": "STAT+: How Trump's funding cuts are reshaping the health system",
-        "category": "biotech",
-        "summary": "STAT examines Republicans’ health care funding cuts, mRNA science defeats politics, and Medicaid tries out a new way to deny drug coverage.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/08/20260728_STATRuralHostpials_1488-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/08/25/how-trumps-funding-cuts-are-reshaping-the-health-system/?utm_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-25T20-13_5",
-        "rank": 5,
-        "title": "NEC invests in US-based robotics startup Dexmate",
-        "category": "robotics",
-        "summary": "Japanese technology giant NEC’s corporate venture capital fund has invested in US-based robotics startup Dexmate, developer of the VEGA humanoid robot and an integrated physical AI development platform. The investment…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/Dexmate-robots-1.jpeg",
-        "source": "Robotics & Automation News",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/25/nec-invests-in-us-based-robotics-startup-dexmate/104453/",
-        "fromX": false
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-08-24T20-14",
-    "scannedAt": "2026-08-24T20:14:39.621Z",
-    "items": [
-      {
-        "id": "auto_2026-08-24T20-14_1",
-        "rank": 1,
-        "title": "The cat-and-mouse game over 3D-printed guns has begun",
-        "category": "general",
-        "summary": "The creator of the world's first 3D-printed gun claims he's developed a way to thwart government-mandated software meant to block 3D printers from making firearms. It's an opening volley in what's shaping up to be an…",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268706_3D-printed_gun_scanning_CVirginia20.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "sourceUrl": "https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-24T20-14_2",
-        "rank": 2,
-        "title": "Smithsonian’s Prospective Plans for American Latino Museum Could Circumvent Congressional Approval",
-        "category": "art",
-        "summary": "The Smithsonian’s board of regents is set to meet on August 31 to discuss the possibility of designating a building that it already owns as the new home of the National Museum of the American Latino in Washington, DC,…",
-        "image": "https://www.artforum.com/wp-content/uploads/2026/08/Arts_and_Industries_Building_-_Independence_Avenue_entrance.jpg?w=650",
-        "source": "Artforum",
-        "sourceUrl": "https://www.artforum.com/news/smithsonians-american-latino-museum-congressional-approval-1234757740/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-24T20-14_3",
-        "rank": 3,
-        "title": "AI Shopping Traffic Surges 1,200% as Ecommerce Moves Toward Agent-Led Discovery",
-        "category": "robotics",
-        "summary": "Between July 2024 and February 2025, Adobe recorded a 1,200% increase in traffic to U.S. retail websites from generative AI sources. That figure alone would be notable in any industry. For anyone tracking the broader…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/AI-Shopping-Traffic.png",
-        "source": "Robotics & Automation News",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/24/ai-shopping-traffic-surges-1200-as-ecommerce-moves-toward-agent-led-discovery/104441/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-24T20-14_4",
-        "rank": 4,
-        "title": "Aerospace demonstrates DiskSats in low-Earth orbit",
-        "category": "space",
-        "summary": "SALT LAKE CITY – The Aerospace Corp. is continuing to demonstrate the viability of pancake-shaped DiskSats in the wake of their December launch on a Rocket Lab Electron. “It’s the […] The post Aerospace demonstrates…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/rsz_disksat_payload_integration_1.jpg?fit=879%2C586&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/aerospace-demonstrates-disksats-in-low-earth-orbit/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-24T20-14_5",
-        "rank": 5,
-        "title": "STAT+: Public-sector purgatory, and a union-hospital fight",
-        "category": "biotech",
-        "summary": "Aon, the big consulting and brokerage house, confirms 2027 is going to be brutal for job-based health care premiums. Aon’s chief actuary said in the news release: “Employers will need…",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/08/STAT-JustinDouglas-21-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/08/24/public-sector-workers-health-insurance-costs-hospital-union-battle/?utm_campaign=rss",
-        "fromX": false
       }
     ]
   }
