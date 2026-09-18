@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-09-18T18-39",
-    "scannedAt": "2026-09-18T18:39:45.813Z",
+    "batchId": "auto_2026-09-18T21-58",
+    "scannedAt": "2026-09-18T21:58:09.878Z",
     "items": [
       {
-        "id": "auto_2026-09-18T18-39_1",
+        "id": "auto_2026-09-18T21-58_1",
         "rank": 1,
-        "title": "Single Molecular Latch Rewrites the Rules of Taste Perception",
-        "category": "neuroscience",
-        "summary": "Scientists uncover a molecular latch in pufferfish taste receptors that enables sensing of both sweet and savory amino acids.",
-        "image": "https://neurosciencenews.com/files/2026/09/molecular-taste-perception-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/taste-perception-molecule-neuroscience-31223/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-18T18-39_2",
-        "rank": 2,
-        "title": "Virginia governor creates an AI task force and moves to restrain data centers",
-        "category": "general",
-        "summary": "Virginia Gov. Abigail Spanberger (D) ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state that is already…",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2295948062.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "sourceUrl": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-18T18-39_3",
-        "rank": 3,
-        "title": "Museo Nacional Thyssen-Bornemisza Opens New Contemporary Art Space",
+        "title": "600-year-old funerary platform discovered in Peru",
         "category": "art",
-        "summary": "Madrid’s Museo Nacional Thyssen-Bornemisza (MNTB) will expand into a second venue to house more than 360 works of contemporary art, which have been donated or are on loan from the TBA21 Collection. In 2002, the…",
-        "image": "https://www.artforum.com/wp-content/uploads/2026/09/Eliasson_Your-uncertain-shadow_2010_TATE.jpg?w=650",
-        "source": "Artforum",
-        "sourceUrl": "https://www.artforum.com/news/museo-nacional-thyssen-bornemisza-contemporary-art-space-1234759383/",
+        "summary": "The massive burial site containing human remains and rich offerings likely belonged to Chimú elites",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/66f912f2915bb0473f73c356a2532eec568bef4b-2000x1332.jpg?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/09/18/funerary-platform-discovered-peru-chan-chan-chimu",
         "fromX": false
       },
       {
-        "id": "auto_2026-09-18T18-39_4",
+        "id": "auto_2026-09-18T21-58_2",
+        "rank": 2,
+        "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
+        "category": "general",
+        "summary": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom loop\" that would damage the web,…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS534_AI_DOOMSDAY2_B.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+        "source": "The Verge",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-18T21-58_3",
+        "rank": 3,
+        "title": "Vistra’s Moss Landing grid battery is on fire yet again",
+        "category": "energy",
+        "summary": "It happened yet again. Another plume of smoke rose from Vistra’s Moss Landing battery plant Friday morning, a year and a half after a catastrophic fire wrecked the grid storage facility in Northern California. Vistra…",
+        "image": "https://img.canarymedia.com/content/uploads/Moss-Landing-fire-2026.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=45e63f9e1dab707dce18e544dba68676",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/batteries/vistra-moss-landing-on-fire-again",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-18T21-58_4",
         "rank": 4,
-        "title": "STAT+: In a fight over denied claims, HCA sues out-of-state Blue Cross Blue Shield plan",
+        "title": "STAT+: Trump touts pharma deals to offer cheaper drugs to state Medicaid programs",
         "category": "biotech",
-        "summary": "Several Texas hospitals are suing an out-of-state Blue Cross for unpaid medical claims, highlighting the varying standards for whether care is medically necessary.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/09/AdobeStock_678450475_Editorial_Use_Only-1024x576.jpeg",
+        "summary": "Every state will participate in the GENEROUS program, but many of the details are unknown.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/09/GettyImages-2295966724-1024x576.jpg",
         "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/09/18/hca-hospitals-sue-independence-blue-cross-prior-authorization/?utm_campaign=rss",
+        "sourceUrl": "https://www.statnews.com/2026/09/18/trump-touts-state-participation-generous-medicaid-drug-discount-program/?utm_campaign=rss",
         "fromX": false
       },
       {
-        "id": "auto_2026-09-18T18-39_5",
+        "id": "auto_2026-09-18T21-58_5",
         "rank": 5,
-        "title": "NASA Awards SpaceX Three Crew Flights to Space Station",
+        "title": "NASA Invites Media to Albania Artemis Accords Signing Ceremony",
         "category": "space",
-        "summary": "To continue regular crew transportation to the International Space Station, NASA has awarded SpaceX three additional missions through a contract modification.",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/01/54387592956-0d0c5c9258-o.jpg",
+        "summary": "The Republic of Albania will sign the Artemis Accords during a ceremony at 12 p.m. EDT on Monday, Sept. 21, at NASA Headquarters in Washington, becoming the 73rd country signatory. NASA Deputy Administrator Matt…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2025/09/cropped-nasa-meatball-1.jpg",
         "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/missions/station/commercial-crew/nasa-awards-spacex-three-crew-flights-to-space-station/",
+        "sourceUrl": "https://www.nasa.gov/news-release/nasa-invites-media-to-albania-artemis-accords-signing-ceremony/",
         "fromX": false
       }
     ]
