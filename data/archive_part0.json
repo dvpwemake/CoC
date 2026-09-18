@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-09-18T01-40",
+    "scannedAt": "2026-09-18T01:40:35.158Z",
+    "items": [
+      {
+        "id": "auto_2026-09-18T01-40_1",
+        "rank": 1,
+        "title": "Microsoft and OpenAI Workers Worry About ‘Largest Theft of Labor’ in History",
+        "category": "general",
+        "summary": "Newly unsealed court documents showed concern within Microsoft and OpenAI over the use of millions of news articles to develop A.I. systems.",
+        "image": "",
+        "source": "NYT Technology",
+        "sourceUrl": "https://www.nytimes.com/2026/09/17/technology/microsoft-openai-publishing-industry.html",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-18T01-40_2",
+        "rank": 2,
+        "title": "Cognitive resilience helps to predict Alzheimer’s dementia",
+        "category": "biotech",
+        "summary": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02897-4 The trait could explain why symptoms vary in severity between people with similar brain pathology.",
+        "image": "",
+        "source": "Nature",
+        "sourceUrl": "https://www.nature.com/articles/d41586-026-02897-4",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-18T01-40_3",
+        "rank": 3,
+        "title": "Lab-Grown Human Brain Tissue Restores Brain Circuitry in Living Mice",
+        "category": "neuroscience",
+        "summary": "Researchers transplant human brain organoids into cortex-depleted mice, forming functional circuits that guide motor behavior.",
+        "image": "https://neurosciencenews.com/files/2026/09/human-tissue-mouse-brain-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/hybrid-human-brain-mouse-tissue-31216/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-18T01-40_4",
+        "rank": 4,
+        "title": "Peter Max, Icon of Psychedelic Art, Dies at 88",
+        "category": "art",
+        "summary": "Peter Max, whose trippy Day-Glo paintings came to symbolize the Flower Power era of the 1960s, died on September 18 in a hospital in New York at the age of eighty-eight. He had previously suffered from…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/09/Max-Painting-Lady-Liberty-at-The-White-House.jpg?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/news/peter-max-icon-of-psychedelic-art-dead-at-88-1234759311/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-18T01-40_5",
+        "rank": 5,
+        "title": "Simera Sense and IDOM partner to develop and produce xScape350 optical system as demand for high-resolution EO imagery surges",
+        "category": "space",
+        "summary": "LEUVEN, BELGIUM and BILBAO, SPAIN – 17 September 2026—Simera Sense, a leading European provider of optical payload solutions for small satellites, today announced a strategic partnership with IDOM, one of […] The post…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/09/Orange-square1-scaled.png?fit=1024%2C1024&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/simera-sense-and-idom-partner-to-develop-and-produce-xscape350-optical-system-as-demand-for-high-resolution-eo-imagery-surges/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-09-17T22-28",
     "scannedAt": "2026-09-17T22:28:21.193Z",
     "items": [
@@ -1840,67 +1901,6 @@
         "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/Dexmate-robots-1.jpeg",
         "source": "Robotics & Automation News",
         "sourceUrl": "https://roboticsandautomationnews.com/2026/08/25/nec-invests-in-us-based-robotics-startup-dexmate/104453/",
-        "fromX": false
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-08-24T20-14",
-    "scannedAt": "2026-08-24T20:14:39.621Z",
-    "items": [
-      {
-        "id": "auto_2026-08-24T20-14_1",
-        "rank": 1,
-        "title": "The cat-and-mouse game over 3D-printed guns has begun",
-        "category": "general",
-        "summary": "The creator of the world's first 3D-printed gun claims he's developed a way to thwart government-mandated software meant to block 3D printers from making firearms. It's an opening volley in what's shaping up to be an…",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268706_3D-printed_gun_scanning_CVirginia20.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "sourceUrl": "https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-24T20-14_2",
-        "rank": 2,
-        "title": "Smithsonian’s Prospective Plans for American Latino Museum Could Circumvent Congressional Approval",
-        "category": "art",
-        "summary": "The Smithsonian’s board of regents is set to meet on August 31 to discuss the possibility of designating a building that it already owns as the new home of the National Museum of the American Latino in Washington, DC,…",
-        "image": "https://www.artforum.com/wp-content/uploads/2026/08/Arts_and_Industries_Building_-_Independence_Avenue_entrance.jpg?w=650",
-        "source": "Artforum",
-        "sourceUrl": "https://www.artforum.com/news/smithsonians-american-latino-museum-congressional-approval-1234757740/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-24T20-14_3",
-        "rank": 3,
-        "title": "AI Shopping Traffic Surges 1,200% as Ecommerce Moves Toward Agent-Led Discovery",
-        "category": "robotics",
-        "summary": "Between July 2024 and February 2025, Adobe recorded a 1,200% increase in traffic to U.S. retail websites from generative AI sources. That figure alone would be notable in any industry. For anyone tracking the broader…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/AI-Shopping-Traffic.png",
-        "source": "Robotics & Automation News",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/24/ai-shopping-traffic-surges-1200-as-ecommerce-moves-toward-agent-led-discovery/104441/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-24T20-14_4",
-        "rank": 4,
-        "title": "Aerospace demonstrates DiskSats in low-Earth orbit",
-        "category": "space",
-        "summary": "SALT LAKE CITY – The Aerospace Corp. is continuing to demonstrate the viability of pancake-shaped DiskSats in the wake of their December launch on a Rocket Lab Electron. “It’s the […] The post Aerospace demonstrates…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/rsz_disksat_payload_integration_1.jpg?fit=879%2C586&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/aerospace-demonstrates-disksats-in-low-earth-orbit/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-24T20-14_5",
-        "rank": 5,
-        "title": "STAT+: Public-sector purgatory, and a union-hospital fight",
-        "category": "biotech",
-        "summary": "Aon, the big consulting and brokerage house, confirms 2027 is going to be brutal for job-based health care premiums. Aon’s chief actuary said in the news release: “Employers will need…",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/08/STAT-JustinDouglas-21-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/08/24/public-sector-workers-health-insurance-costs-hospital-union-battle/?utm_campaign=rss",
         "fromX": false
       }
     ]

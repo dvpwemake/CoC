@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-09-18T01-40",
+    "scannedAt": "2026-09-18T01:40:35.158Z",
+    "items": [
+      {
+        "id": "auto_2026-09-18T01-40_1",
+        "rank": 1,
+        "title": "Microsoft and OpenAI Workers Worry About ‘Largest Theft of Labor’ in History",
+        "category": "general",
+        "summary": "Newly unsealed court documents showed concern within Microsoft and OpenAI over the use of millions of news articles to develop A.I. systems.",
+        "image": "",
+        "source": "NYT Technology",
+        "sourceUrl": "https://www.nytimes.com/2026/09/17/technology/microsoft-openai-publishing-industry.html",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-18T01-40_2",
+        "rank": 2,
+        "title": "Cognitive resilience helps to predict Alzheimer’s dementia",
+        "category": "biotech",
+        "summary": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02897-4 The trait could explain why symptoms vary in severity between people with similar brain pathology.",
+        "image": "",
+        "source": "Nature",
+        "sourceUrl": "https://www.nature.com/articles/d41586-026-02897-4",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-18T01-40_3",
+        "rank": 3,
+        "title": "Lab-Grown Human Brain Tissue Restores Brain Circuitry in Living Mice",
+        "category": "neuroscience",
+        "summary": "Researchers transplant human brain organoids into cortex-depleted mice, forming functional circuits that guide motor behavior.",
+        "image": "https://neurosciencenews.com/files/2026/09/human-tissue-mouse-brain-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/hybrid-human-brain-mouse-tissue-31216/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-18T01-40_4",
+        "rank": 4,
+        "title": "Peter Max, Icon of Psychedelic Art, Dies at 88",
+        "category": "art",
+        "summary": "Peter Max, whose trippy Day-Glo paintings came to symbolize the Flower Power era of the 1960s, died on September 18 in a hospital in New York at the age of eighty-eight. He had previously suffered from…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/09/Max-Painting-Lady-Liberty-at-The-White-House.jpg?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/news/peter-max-icon-of-psychedelic-art-dead-at-88-1234759311/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-18T01-40_5",
+        "rank": 5,
+        "title": "Simera Sense and IDOM partner to develop and produce xScape350 optical system as demand for high-resolution EO imagery surges",
+        "category": "space",
+        "summary": "LEUVEN, BELGIUM and BILBAO, SPAIN – 17 September 2026—Simera Sense, a leading European provider of optical payload solutions for small satellites, today announced a strategic partnership with IDOM, one of […] The post…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/09/Orange-square1-scaled.png?fit=1024%2C1024&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/simera-sense-and-idom-partner-to-develop-and-produce-xscape350-optical-system-as-demand-for-high-resolution-eo-imagery-surges/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-09-17T22-28",
     "scannedAt": "2026-09-17T22:28:21.193Z",
     "items": [
