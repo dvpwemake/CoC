@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-09-19T01-45",
+    "scannedAt": "2026-09-19T01:45:08.266Z",
+    "items": [
+      {
+        "id": "auto_2026-09-19T01-45_1",
+        "rank": 1,
+        "title": "Tech Now",
+        "category": "general",
+        "summary": "Adrienne Murray follows NASA scientists in Iceland researching a rare total solar eclipse.",
+        "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pbb5l2.jpg",
+        "source": "BBC Technology",
+        "sourceUrl": "https://www.bbc.co.uk/iplayer/episode/m0032301?at_medium=RSS&at_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-19T01-45_2",
+        "rank": 2,
+        "title": "From A to T & Back Again: Openings, Part One",
+        "category": "art",
+        "summary": "An Artforum editor visits a slew of galleries—Olney Gleason, Garth Greenan, David Zwirner, and more—during the first week of fall exhibition openings in New York",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/09/Richard-Jennings-Wired-1979-Oil-on-canvas-22x26in-Inna-Svyatsky-Courtesy-Richard-Jennings-Estate.jpg?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/columns/from-a-to-t-andback-again-openings-part-one-1234759385/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-19T01-45_3",
+        "rank": 3,
+        "title": "Eye-Blink Rate Predicts Cognitive Flexibility in Preschoolers",
+        "category": "neuroscience",
+        "summary": "Scientists discover spontaneous eye-blink rate is a simple marker of prefrontal dlPFC specialization and cognitive flexibility in preschoolers aged 3–6.",
+        "image": "https://neurosciencenews.com/files/2026/09/eye-blink-cognition-neurodevelopment-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/eye-blink-cognitive-flexibility-neurodevelopment-31223/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-19T01-45_4",
+        "rank": 4,
+        "title": "Trump's EPA decimated climate rules for power plants. What now?",
+        "category": "energy",
+        "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter. Sign up to get it every Friday. The Biden and Obama administrations built a raft of climate regulations that was supposed to carry America…",
+        "image": "https://img.canarymedia.com/content/uploads/zeldin-g-20.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=e1f2c62247ec6f6a017f022727a27226",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/emissions-reduction/trumps-epa-gut-climate-rules-power-plants-what-now",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-19T01-45_5",
+        "rank": 5,
+        "title": "NASA-JAXA XRISM Mission Sees Pulsar Gathering Companion’s ‘Wind’",
+        "category": "space",
+        "summary": "Using data from the Japan-led XRISM (X-ray Imaging and Spectroscopy Mission) observatory, astronomers have directly observed a giant star’s outflow, called a stellar wind, being captured by its compact companion and…",
+        "image": "https://assets.science.nasa.gov/content/dam/science/cds/svs/a020000/a020300/a020374/XRISM_S1_4k_30fps_ProRes-00001_print.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "source": "NASA",
+        "sourceUrl": "https://science.nasa.gov/missions/xrism/xrism-sees-pulsar-gathering-companions-wind/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-09-18T21-58",
     "scannedAt": "2026-09-18T21:58:09.878Z",
     "items": [
