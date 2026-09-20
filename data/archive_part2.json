@@ -1,66 +1,5 @@
 [
   {
-    "batchId": "auto_2026-08-01T20-37",
-    "scannedAt": "2026-08-01T20:37:20.851Z",
-    "items": [
-      {
-        "id": "auto_2026-08-01T20-37_1",
-        "rank": 1,
-        "title": "Space Force awards K2 Space $22.9 million for orbital laser communications demonstration",
-        "category": "space",
-        "summary": "Two K2 satellites will host optical terminals intended to connect military systems in orbit The post Space Force awards K2 Space $22.9 million for orbital laser communications demonstration appeared first on SpaceNews .",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2023/09/Screenshot-2023-09-19-at-8.07.27-AM.png?fit=1024%2C635&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/space-force-awards-k2-space-22-9-million-for-orbital-laser-communications-demonstration/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-01T20-37_2",
-        "rank": 2,
-        "title": "Why Gaining Free Time Unexpectedly Makes People Late",
-        "category": "neuroscience",
-        "summary": "Unexpectedly gained free time subjectively expands in our minds, causing people to perform tasks slower and arrive late.",
-        "image": "https://neurosciencenews.com/files/2026/08/free-time-lateness-psychology-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/time-perception-late-decisions-31168/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-01T20-37_3",
-        "rank": 3,
-        "title": "Seedance 2.5: Advancing AI Video Creation for Modern Content Workflows",
-        "category": "robotics",
-        "summary": "AI keeps reshaping how digital content actually gets made, and Seedance 2.5 is just the latest checkpoint in that ongoing shift toward better AI-assisted video. Creators, marketers, educators, and businesses are all…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/seedance-image-3.png",
-        "source": "Robotics & Automation News",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/01/seedance-2-5-advancing-ai-video-creation-for-modern-content-workflows/103829/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-01T20-37_4",
-        "rank": 4,
-        "title": "Heritage Bookbinding Elements Transform in Contemporary Sculptures by Adelene Koh",
-        "category": "art",
-        "summary": "For Koh, an under-appreciated element of a book's construction becomes the highlight. Do stories and artists like this matter to you? Become a Colossal Member today and support independent arts publishing for as little…",
-        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/07/koh-4.jpg",
-        "source": "Colossal",
-        "sourceUrl": "https://www.thisiscolossal.com/2026/07/adelene-koh-bookbinding-paper-sewing-sculpture-loewe-craft-prize/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-01T20-37_5",
-        "rank": 5,
-        "title": "STAT+: Trump administration revises rebate pilot for 340B drug discount program, angering hospitals",
-        "category": "biotech",
-        "summary": "The Trump administration is revising its rebate pilot for the 340B drug discount program, angering hospitals.",
-        "image": "https://www.statnews.com/wp-content/uploads/2021/08/AdobeStock_251252973-1024x576.jpeg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/pharmalot/2026/07/31/trump-administration-revises-rebate-pilot-drug-discount-program-hospitals/?utm_campaign=rss",
-        "fromX": false
-      }
-    ]
-  },
-  {
     "batchId": "editorial_2026-08-01",
     "scannedAt": "2026-08-01T19:52:07.146Z",
     "kind": "editorial_archive",
@@ -1917,6 +1856,84 @@
         "source": "Neuroscience News",
         "sourceUrl": "https://neurosciencenews.com/llm-cognitive-mapping-decision-making-30992/",
         "imageProxy": "https://images.weserv.nl/?url=neurosciencenews.com%2Ffiles%2F2026%2F07%2Fllm-math-decision-making-neuroscience-1155x770.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      }
+    ]
+  },
+  {
+    "batchId": "auto_2026-07-03T20-49",
+    "scannedAt": "2026-07-03T20:49:06.343Z",
+    "items": [
+      {
+        "id": "auto_2026-07-03T20-49_1",
+        "rank": 1,
+        "title": "Zero-Computational Path to High-Resolution Robotic Touch",
+        "category": "neuroscience",
+        "summary": "A new study introduces a soft robotic sensing skin made from mechanochromic materials. The polymer automatically converts mechanical strain into distinct structural color fields, allowing a low-cost camera to map…",
+        "image": "https://neurosciencenews.com/files/2026/07/robotic-touch-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/mechanochromic-skin-robotic-tactile-30990/",
+        "imageProxy": "https://images.weserv.nl/?url=neurosciencenews.com%2Ffiles%2F2026%2F07%2Frobotic-touch-neuroscience-1155x770.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-07-03T20-49_3",
+        "rank": 3,
+        "title": "Chinese satellite manufacturer Hongqing raises $191 million",
+        "category": "space",
+        "summary": "HELSINKI — Hongqing Technology, the satellite manufacturing affiliate of launch firm Landspace, has secured one of the largest single raises for a Chinese commercial satellite maker. The funding round, announced […] The…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/Zhuque-2E-Spacesail-DTC-ChinaMobile02-9june2026-landspace.jpg?fit=1024%2C576&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/chinese-satellite-manufacturer-hongqing-raises-191-million/",
+        "imageProxy": "https://images.weserv.nl/?url=i0.wp.com%2Fspacenews.com%2Fwp-content%2Fuploads%2F2026%2F06%2FZhuque-2E-Spacesail-DTC-ChinaMobile02-9june2026-landspace.jpg%3Ffit%3D1024%252C576%26ssl%3D1&w=640&h=400&fit=cover&we&output=jpg"
+      }
+    ]
+  },
+  {
+    "batchId": "auto_2026-07-02T20-48",
+    "scannedAt": "2026-07-02T20:48:30.541Z",
+    "items": [
+      {
+        "id": "auto_2026-07-02T20-48_1",
+        "rank": 1,
+        "title": "Study Aims to Stop Alzheimer’s Inflammation in APOE4 Carriers",
+        "category": "neuroscience",
+        "summary": "The project uses artificial intelligence and small-molecule targeting to inhibit the cPLA2 enzyme, providing a novel pathway to shut down brain inflammation in high-risk APOE4 gene carriers.",
+        "image": "https://neurosciencenews.com/files/2026/07/apoe4-alzheimers-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/apoe4-alzheimers-inflammation-30984/",
+        "imageProxy": "https://images.weserv.nl/?url=neurosciencenews.com%2Ffiles%2F2026%2F07%2Fapoe4-alzheimers-neuroscience-1155x770.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-07-02T20-48_3",
+        "rank": 3,
+        "title": "Perovskite solar panel startup Verde Technologies shifts focus to space",
+        "category": "space",
+        "summary": "Verde Technologies is turning to space to commercialize perovskite-based solar panels, shifting its initial focus away from rooftops in a bet that the thin-film material can help power orbital data centers and other…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/RTR-perovskite-manufaturing-scaled.jpeg?fit=1024%2C768&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/perovskite-solar-panel-startup-verde-technologies-shifts-focus-to-space/",
+        "imageProxy": "https://images.weserv.nl/?url=i0.wp.com%2Fspacenews.com%2Fwp-content%2Fuploads%2F2026%2F07%2FRTR-perovskite-manufaturing-scaled.jpeg%3Ffit%3D1024%252C768%26ssl%3D1&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-07-02T20-48_4",
+        "rank": 4,
+        "title": "Trump's ‘big, beautiful’ law was supposed to kill clean energy. It didn't.",
+        "category": "energy",
+        "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter. Sign up to get it every Friday. One year ago, President Donald Trump got his Fourth-of-July wish. Republicans rammed a massive tax and…",
+        "image": "https://img.canarymedia.com/content/uploads/GettyImages-2222880692.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=1d94a7e45d1cfc35364ef105103ba083",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/clean-energy/trumps-big-beautiful-law-was-supposed-to-kill-clean-energy-it-didnt",
+        "imageProxy": "https://images.weserv.nl/?url=img.canarymedia.com%2Fcontent%2Fuploads%2FGettyImages-2222880692.jpg%3Fauto%3Dcompress%252Cformat%26crop%3Dfocalpoint%26fit%3Dcrop%26fp-x%3D0.5%26fp-y%3D0.5%26h%3D630%26q%3D82%26w%3D1200%26s%3D1d94a7e45d1cfc35364ef105103ba083&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-07-02T20-48_5",
+        "rank": 5,
+        "title": "Achieving operational excellence with AI",
+        "category": "ai",
+        "summary": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, sprawling operations. Lean Six Sigma…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/MITTR2026_TP2_1200SocialCover.png?resize=1200,600",
+        "source": "MIT Technology Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
+        "imageProxy": "https://images.weserv.nl/?url=wp.technologyreview.com%2Fwp-content%2Fuploads%2F2026%2F07%2FMITTR2026_TP2_1200SocialCover.png%3Fresize%3D1200%2C600&w=640&h=400&fit=cover&we&output=jpg"
       }
     ]
   }

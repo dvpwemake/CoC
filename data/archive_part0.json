@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-09-20T01-47",
+    "scannedAt": "2026-09-20T01:47:18.332Z",
+    "items": [
+      {
+        "id": "auto_2026-09-20T01-47_1",
+        "rank": 1,
+        "title": "Not all AI workers think the tech could kill everyone",
+        "category": "general",
+        "summary": "In text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae2c/live/f246e690-b3a3-11f1-84e0-d100e0413eb5.jpg",
+        "source": "BBC Technology",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-20T01-47_2",
+        "rank": 2,
+        "title": "The Placenta May Decide Autism Vulnerability",
+        "category": "neuroscience",
+        "summary": "A new study finds maternal inflammation damages placental spongiotrophoblasts, driving male-specific autism risk before brain sex differentiation.",
+        "image": "https://neurosciencenews.com/files/2026/09/Placental-Health-Drives-Autism-Risk.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/placenta-mia-autism-31225/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-20T01-47_3",
+        "rank": 3,
+        "title": "APOD: 2026 September 19 – A Zodiacal Night",
+        "category": "space",
+        "summary": "APOD Science APOD APOD: 2026 September 19 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or…",
+        "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/september/2026-09-09ZodiacalLightHSP.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "source": "NASA",
+        "sourceUrl": "https://science.nasa.gov/image-article/apod-2026-september-19-a-zodiacal-night/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-20T01-47_4",
+        "rank": 4,
+        "title": "From A to T & Back Again: Openings, Part Two",
+        "category": "art",
+        "summary": "Six of the fall's new crop of gallery openings at Lomex, Maxwell Graham, Theta, David Peter Francis, Ellie Rines Gallery, and Ulrik",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/09/U112.jpg?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/columns/from-a-to-t-back-again-openings-part-two-theo-belci-1234759417/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-20T01-47_5",
+        "rank": 5,
+        "title": "STAT+: In a fight over denied claims, HCA sues out-of-state Blue Cross Blue Shield plan",
+        "category": "biotech",
+        "summary": "Several Texas hospitals are suing an out-of-state Blue Cross for unpaid medical claims, highlighting the varying standards for whether care is medically necessary.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/09/AdobeStock_678450475_Editorial_Use_Only-1024x576.jpeg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/09/18/hca-hospitals-sue-independence-blue-cross-prior-authorization/?utm_campaign=rss",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-09-19T21-48",
     "scannedAt": "2026-09-19T21:48:29.718Z",
     "items": [
