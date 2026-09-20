@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-08-26T16-39",
+    "scannedAt": "2026-08-26T16:39:20.111Z",
+    "items": [
+      {
+        "id": "auto_2026-08-26T16-39_1",
+        "rank": 1,
+        "title": "Mischievous Cats Rule in Minyoung Kim's Affectionately Quirky Paintings",
+        "category": "art",
+        "summary": "When it comes to felines, the artist revels in \"the contrast between how ordinary and how weird they are.\" Do stories and artists like this matter to you? Become a Colossal Member today and support independent arts…",
+        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/08/kim-5.jpg",
+        "source": "Colossal",
+        "sourceUrl": "https://www.thisiscolossal.com/2026/08/minyoung-kim-cats-paintings-humor/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-26T16-39_2",
+        "rank": 2,
+        "title": "5 Practical Equipment Choices to Cut Labor Hours",
+        "category": "robotics",
+        "summary": "Equipment Choices for large estates offer critical time savings for grounds managers, estates teams, facilities teams, and municipal maintenance crews. This guide reviews five practical equipment upgrades from industry…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/garage-1.png",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/26/5-practical-equipment-choices-to-cut-labor-hours/104485/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-26T16-39_3",
+        "rank": 3,
+        "title": "RTX’s Blue Canyon Technologies introduces new spacecraft mission enabler",
+        "category": "space",
+        "summary": "LAFAYETTE, Colo. (August 26, 2026) — Small satellite manufacturer and mission services provider Blue Canyon Technologies, part of RTX’s (NYSE: RTX) Raytheon business, has unveiled its latest spacecraft subsystem, the…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/blue-canyon-technologies-logo-square.png?fit=962%2C964&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/rtxs-blue-canyon-technologies-introduces-new-spacecraft-mission-enabler/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-26T16-39_4",
+        "rank": 4,
+        "title": "Apple announces September iPhone launch event",
+        "category": "general",
+        "summary": "Apple's next launch event will take place on September 9th at 1PM ET. Invites to the event, which has a \"Surprise and shine\" tagline, were sent out on Wednesday. The event will take place at the Steve Jobs Theater in…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-26-at-9.17.30-AM.png?quality=90&strip=all&crop=4.9206194690266%2C0%2C90.158761061947%2C94.827045012242&w=1200",
+        "source": "The Verge",
+        "sourceUrl": "https://www.theverge.com/tech/983407/apple-iphone-launch-event-2026-date",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-26T16-39_5",
+        "rank": 5,
+        "title": "On the fence about a statin? In borderline cases, calcium scans could be a tiebreaker",
+        "category": "biotech",
+        "summary": "The increasingly popular coronary artery calcium scan is helpful in guiding statin use in only a small share of cases, new studies find.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/08/AdobeStock_1954477401-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/08/26/cac-scans-statin-use-prevent-calculator-heart-disease-risk/?utm_campaign=rss",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "editorial_2026-08-25",
     "scannedAt": "2026-08-25T21:03:58.550Z",
     "kind": "editorial_archive",
@@ -1819,67 +1880,6 @@
         "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/07/koh-4.jpg",
         "source": "Colossal",
         "sourceUrl": "https://www.thisiscolossal.com/2026/07/adelene-koh-bookbinding-paper-sewing-sculpture-loewe-craft-prize/",
-        "fromX": false
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-08-01T20-37",
-    "scannedAt": "2026-08-01T20:37:20.851Z",
-    "items": [
-      {
-        "id": "auto_2026-08-01T20-37_1",
-        "rank": 1,
-        "title": "Space Force awards K2 Space $22.9 million for orbital laser communications demonstration",
-        "category": "space",
-        "summary": "Two K2 satellites will host optical terminals intended to connect military systems in orbit The post Space Force awards K2 Space $22.9 million for orbital laser communications demonstration appeared first on SpaceNews .",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2023/09/Screenshot-2023-09-19-at-8.07.27-AM.png?fit=1024%2C635&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/space-force-awards-k2-space-22-9-million-for-orbital-laser-communications-demonstration/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-01T20-37_2",
-        "rank": 2,
-        "title": "Why Gaining Free Time Unexpectedly Makes People Late",
-        "category": "neuroscience",
-        "summary": "Unexpectedly gained free time subjectively expands in our minds, causing people to perform tasks slower and arrive late.",
-        "image": "https://neurosciencenews.com/files/2026/08/free-time-lateness-psychology-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/time-perception-late-decisions-31168/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-01T20-37_3",
-        "rank": 3,
-        "title": "Seedance 2.5: Advancing AI Video Creation for Modern Content Workflows",
-        "category": "robotics",
-        "summary": "AI keeps reshaping how digital content actually gets made, and Seedance 2.5 is just the latest checkpoint in that ongoing shift toward better AI-assisted video. Creators, marketers, educators, and businesses are all…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/seedance-image-3.png",
-        "source": "Robotics & Automation News",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/01/seedance-2-5-advancing-ai-video-creation-for-modern-content-workflows/103829/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-01T20-37_4",
-        "rank": 4,
-        "title": "Heritage Bookbinding Elements Transform in Contemporary Sculptures by Adelene Koh",
-        "category": "art",
-        "summary": "For Koh, an under-appreciated element of a book's construction becomes the highlight. Do stories and artists like this matter to you? Become a Colossal Member today and support independent arts publishing for as little…",
-        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/07/koh-4.jpg",
-        "source": "Colossal",
-        "sourceUrl": "https://www.thisiscolossal.com/2026/07/adelene-koh-bookbinding-paper-sewing-sculpture-loewe-craft-prize/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-01T20-37_5",
-        "rank": 5,
-        "title": "STAT+: Trump administration revises rebate pilot for 340B drug discount program, angering hospitals",
-        "category": "biotech",
-        "summary": "The Trump administration is revising its rebate pilot for the 340B drug discount program, angering hospitals.",
-        "image": "https://www.statnews.com/wp-content/uploads/2021/08/AdobeStock_251252973-1024x576.jpeg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/pharmalot/2026/07/31/trump-administration-revises-rebate-pilot-drug-discount-program-hospitals/?utm_campaign=rss",
         "fromX": false
       }
     ]
