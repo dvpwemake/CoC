@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-08-02T20-39",
+    "scannedAt": "2026-08-02T20:39:34.821Z",
+    "items": [
+      {
+        "id": "auto_2026-08-02T20-39_1",
+        "rank": 1,
+        "title": "STAT+: Michigan Supreme Court ruling allows probe into Lilly insulin pricing",
+        "category": "biotech",
+        "summary": "Lilly was accused of charging “grossly” excessive prices for different insulin products that forced some patients to ration or forego the drug.",
+        "image": "https://www.statnews.com/wp-content/uploads/2025/08/GettyImages-2092473213-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/pharmalot/2026/08/02/michigan-supreme-court-ruling-allows-probe-into-lilly-insulin-pricing/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-02T20-39_2",
+        "rank": 2,
+        "title": "Dark matter’s secret force does the opposite of what scientists expected",
+        "category": "space",
+        "summary": "Dark matter particles may exert a hidden force on one another, but its effects are stranger than expected. An extra attraction helps the particles cluster, yet it also makes dark matter effectively lighter as the…",
+        "image": "https://www.sciencedaily.com/images/1920/dark-matter-glow.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260801042822.htm",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-02T20-39_3",
+        "rank": 3,
+        "title": "Why Gaining Free Time Unexpectedly Makes People Late",
+        "category": "neuroscience",
+        "summary": "Unexpectedly gained free time subjectively expands in our minds, causing people to perform tasks slower and arrive late.",
+        "image": "https://neurosciencenews.com/files/2026/08/free-time-lateness-psychology-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/time-perception-late-decisions-31168/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-02T20-39_4",
+        "rank": 4,
+        "title": "Seedance 2.5: Advancing AI Video Creation for Modern Content Workflows",
+        "category": "robotics",
+        "summary": "AI keeps reshaping how digital content actually gets made, and Seedance 2.5 is just the latest checkpoint in that ongoing shift toward better AI-assisted video. Creators, marketers, educators, and businesses are all…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/seedance-image-3.png",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/01/seedance-2-5-advancing-ai-video-creation-for-modern-content-workflows/103829/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-02T20-39_5",
+        "rank": 5,
+        "title": "Heritage Bookbinding Elements Transform in Contemporary Sculptures by Adelene Koh",
+        "category": "art",
+        "summary": "For Koh, an under-appreciated element of a book's construction becomes the highlight. Do stories and artists like this matter to you? Become a Colossal Member today and support independent arts publishing for as little…",
+        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/07/koh-4.jpg",
+        "source": "Colossal",
+        "sourceUrl": "https://www.thisiscolossal.com/2026/07/adelene-koh-bookbinding-paper-sewing-sculpture-loewe-craft-prize/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-08-01T20-37",
     "scannedAt": "2026-08-01T20:37:20.851Z",
     "items": [
@@ -1917,34 +1978,6 @@
         "source": "Neuroscience News",
         "sourceUrl": "https://neurosciencenews.com/llm-cognitive-mapping-decision-making-30992/",
         "imageProxy": "https://images.weserv.nl/?url=neurosciencenews.com%2Ffiles%2F2026%2F07%2Fllm-math-decision-making-neuroscience-1155x770.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-07-03T20-49",
-    "scannedAt": "2026-07-03T20:49:06.343Z",
-    "items": [
-      {
-        "id": "auto_2026-07-03T20-49_1",
-        "rank": 1,
-        "title": "Zero-Computational Path to High-Resolution Robotic Touch",
-        "category": "neuroscience",
-        "summary": "A new study introduces a soft robotic sensing skin made from mechanochromic materials. The polymer automatically converts mechanical strain into distinct structural color fields, allowing a low-cost camera to map…",
-        "image": "https://neurosciencenews.com/files/2026/07/robotic-touch-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/mechanochromic-skin-robotic-tactile-30990/",
-        "imageProxy": "https://images.weserv.nl/?url=neurosciencenews.com%2Ffiles%2F2026%2F07%2Frobotic-touch-neuroscience-1155x770.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-03T20-49_3",
-        "rank": 3,
-        "title": "Chinese satellite manufacturer Hongqing raises $191 million",
-        "category": "space",
-        "summary": "HELSINKI — Hongqing Technology, the satellite manufacturing affiliate of launch firm Landspace, has secured one of the largest single raises for a Chinese commercial satellite maker. The funding round, announced […] The…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/06/Zhuque-2E-Spacesail-DTC-ChinaMobile02-9june2026-landspace.jpg?fit=1024%2C576&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/chinese-satellite-manufacturer-hongqing-raises-191-million/",
-        "imageProxy": "https://images.weserv.nl/?url=i0.wp.com%2Fspacenews.com%2Fwp-content%2Fuploads%2F2026%2F06%2FZhuque-2E-Spacesail-DTC-ChinaMobile02-9june2026-landspace.jpg%3Ffit%3D1024%252C576%26ssl%3D1&w=640&h=400&fit=cover&we&output=jpg"
       }
     ]
   }
