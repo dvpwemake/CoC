@@ -1,5 +1,25 @@
 [
   {
+    "batchId": "editorial_2026-09-20",
+    "scannedAt": "2026-09-20T17:35:44.774Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-09-20",
+        "rank": 0,
+        "title": "They took Bacchus down",
+        "category": "editorial",
+        "summary": "Water on the glass. A number that still would not sit.",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/09/GettyImages-132700757_11e5b4.jpg?w=650",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-09-20.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-09-20",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-09-22T01-58",
     "scannedAt": "2026-09-22T01:58:18.062Z",
     "items": [
