@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-09-22T15-46",
-    "scannedAt": "2026-09-22T15:46:52.492Z",
+    "batchId": "auto_2026-09-22T19-17",
+    "scannedAt": "2026-09-22T19:17:50.885Z",
     "items": [
       {
-        "id": "auto_2026-09-22T15-46_1",
+        "id": "auto_2026-09-22T19-17_1",
         "rank": 1,
-        "title": "An Army of Paid Creators Is Carpeting the Web With Political Content",
-        "category": "general",
-        "summary": "Unlike celebrity influencers with large followings, these creators produce a blizzard of videos for a fraction of the cost of traditional online campaigns and, in the process, shift public conversation.",
-        "image": "https://static01.nyt.com/images/2026/09/22/multimedia/2026-07-30-paid-influence-index/2026-07-30-paid-influence-index-mediumSquareAt3X.jpg",
-        "source": "NYT Technology",
-        "sourceUrl": "https://www.nytimes.com/2026/09/22/us/politics/influencers-midterms-echo-chamber.html",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-22T15-46_2",
-        "rank": 2,
-        "title": "Hockney works to the fore at British Art Fair",
+        "title": "Art Institute of Chicago restitutes Metzinger painting sold in Nazi-occupied Amsterdam",
         "category": "art",
-        "summary": "The event, started in 1988 and one of London's oldest art fairs, returns to the Saatchi Gallery this week with over 70 exhibitors",
-        "image": "https://cdn.sanity.io/images/cxgd3urn/production/87466966185303f795b079c756e5f8333e76f32f-1800x1198.jpg?w=140",
+        "summary": "The 1913 painting, “Woman With a Fan”, was one of a number of paintings from the Lewenstein collection to be auctioned in 1940 under unclear circumstances",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/736889559badb30e1470ba17f56eaa6fa8e90c0f-2000x2854.jpg?w=140",
         "source": "The Art Newspaper",
-        "sourceUrl": "https://www.theartnewspaper.com/2026/09/22/hockney-works-to-the-fore-at-british-art-fair",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/09/22/art-institute-chicago-restitute-jean-metzinger-painting-emanuel-lewenstein-heirs",
         "fromX": false
       },
       {
-        "id": "auto_2026-09-22T15-46_3",
+        "id": "auto_2026-09-22T19-17_2",
+        "rank": 2,
+        "title": "I Gave My Life Over to Meta’s A.I. Agent and Was Blown Away",
+        "category": "general",
+        "summary": "Muse, Meta’s A.I. agent, helped handle my dental insurance, booked dinner reservations and created a podcast for me. It also required my most personal data, and trust.",
+        "image": "https://static01.nyt.com/images/2026/09/21/multimedia/META-MUSE-1-01-tlfz/META-MUSE-1-01-tlfz-mediumSquareAt3X-v2.jpg",
+        "source": "NYT Technology",
+        "sourceUrl": "https://www.nytimes.com/2026/09/22/technology/meta-muse-ai-agent.html",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-22T19-17_3",
         "rank": 3,
-        "title": "STAT+: Novo may be getting a better deal than expected with Medicare's Bridge program",
-        "category": "biotech",
-        "summary": "Eli Lilly and Novo Nordisk were already benefitting a great deal from the Trump administration's pilot program covering obesity drugs for seniors at a price of $245 a month. It…",
-        "image": "https://www.statnews.com/wp-content/uploads/2025/04/AdobeStock_1068642359_Editorial_Use_Only-1024x576.jpeg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/09/22/biotech-news-novo-may-be-getting-a-better-deal-than-expected-with-medicare-bridge/?utm_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-22T15-46_4",
-        "rank": 4,
-        "title": "Barbara Mazzolai Wants to Build a New Field of Robotics",
-        "category": "robotics",
-        "summary": "Throughout her career, roboticist Barbara Mazzolai has turned to nature for inspiration. Now she wants to ensure the technology she builds gives back to the environment, too. After starting her career as a biologist, a…",
-        "image": "https://spectrum.ieee.org/media-library/photo-of-a-woman-standing-in-front-of-greenery-holding-a-device-shaped-like-a-small-octopus-arm.png?id=67787635&width=980",
-        "source": "IEEE Spectrum",
-        "sourceUrl": "https://spectrum.ieee.org/sustainability-robotics-barbara-mazzolai",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-22T15-46_5",
-        "rank": 5,
-        "title": "Coffee doesn’t have to keep you awake to disrupt your sleep",
+        "title": "AI Decodes the Taste of Bitterness",
         "category": "neuroscience",
-        "summary": "Caffeine may make sleep less restorative even when you fall asleep normally and stay in bed for eight hours, with EEG recordings revealing fewer of the slow brain waves associated with deep sleep. Individual sensitivity…",
-        "image": "https://www.sciencedaily.com/images/1920/sleep-man-brain-spine-nervous-system.webp",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260922005719.htm",
+        "summary": "Researchers combine protein language models and neural networks to accurately predict and design bitter-tasting peptides from scratch.",
+        "image": "https://neurosciencenews.com/files/2026/09/ai-bitter-taste-perception-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/ai-taste-perception-bitterness-31237/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-22T19-17_4",
+        "rank": 4,
+        "title": "Opinion: Former FDA commissioners: Heidi Overton has an opportunity to strengthen the FDA",
+        "category": "biotech",
+        "summary": "Two former FDA commissioners: Heidi Overton is the right pick in a difficult moment.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/09/GettyImages-2292889087-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/09/22/heidi-overton-fda-commissioner-confirmation-hearing/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-22T19-17_5",
+        "rank": 5,
+        "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+        "category": "ai",
+        "summary": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/IMG_6949.png?resize=1200,600",
+        "source": "MIT Technology Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
         "fromX": false
       }
     ]
