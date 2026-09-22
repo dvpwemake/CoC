@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-09-22T01-58",
+    "scannedAt": "2026-09-22T01:58:18.062Z",
+    "items": [
+      {
+        "id": "auto_2026-09-22T01-58_1",
+        "rank": 1,
+        "title": "A cut cable disrupted hundreds of flights across the US",
+        "category": "general",
+        "summary": "Hundreds of flights were cancelled or delayed on Monday after construction crews in New Jersey accidentally cut a Verizon fiber cable used for air traffic control. FAA Administrator Bryan Bedford said that a circuit…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2242804026.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200",
+        "source": "The Verge",
+        "sourceUrl": "https://www.theverge.com/transportation/998550/a-cut-cable-disrupted-hundreds-of-flights-across-the-us",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-22T01-58_2",
+        "rank": 2,
+        "title": "France Celebrates the Bicentennial of Photography with Traveling Themed Exhibitions",
+        "category": "art",
+        "summary": "In our era of digital screens and virtually endless images and videos, it's a challenge to imagine the time before photography existed. Do stories and artists like this matter to you? Become a Colossal Member today and…",
+        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/09/bicentennial-5.jpeg",
+        "source": "Colossal",
+        "sourceUrl": "https://www.thisiscolossal.com/2026/09/grandpalaisrmn-200-year-photography-exhibition/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-22T01-58_3",
+        "rank": 3,
+        "title": "Flatworm Genetics Reveal Blueprint for Neural Regeneration",
+        "category": "neuroscience",
+        "summary": "Researchers discover genes enabling flatworms to regrow dopamine neurons, offering clues to overcome human limits in brain repair and Parkinson's.",
+        "image": "https://neurosciencenews.com/files/2026/09/Unlocking-the-Genetic-Recipe-for-Brain-Regeneration-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/genetics-neural-regeneration-32230/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-22T01-58_4",
+        "rank": 4,
+        "title": "STAT+: What a vote on Grail’s cancer detection test could mean for the company, patients, and regulators",
+        "category": "biotech",
+        "summary": "Shares in Grail, the company developing a blood test for cancer, surged Monday after the FDA posted documents ahead of an advisory committee meeting.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/09/AP6802385202387510-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/09/21/grail-galleri-fda-advisory-committee-meeting-documents/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-22T01-58_5",
+        "rank": 5,
+        "title": "Duke Energy wants to build a new gas plant. Regulators said not so fast.",
+        "category": "energy",
+        "summary": "North Carolina regulators on Friday rejected a bid from Duke Energy to build a gas power plant — a rare denial from a panel that frequently defers to the state’s predominant utility. Duke first proposed the 255-megawatt…",
+        "image": "https://img.canarymedia.com/content/uploads/Three-stacks-of-the-Miami-Fort-Power-Station_AP26212572525126.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=f91bbcea405f98041dab8cbadb876b1e",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/fossil-fuels/regulators-reject-duke-gas-plant-north-carolina",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-09-21T22-52",
     "scannedAt": "2026-09-21T22:52:05.132Z",
     "items": [
