@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-09-23T01-55",
+    "scannedAt": "2026-09-23T01:55:37.052Z",
+    "items": [
+      {
+        "id": "auto_2026-09-23T01-55_1",
+        "rank": 1,
+        "title": "US criticises Australia's proposed algorithm opt-out laws as 'censorship'",
+        "category": "general",
+        "summary": "Under the draft laws, tech firms face fines if they do not give users the option to switch off algorithms.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2286/live/6cf9eb00-b6e5-11f1-8900-3ddc42cc49ef.jpg",
+        "source": "BBC Technology",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqj3dgy8x3vro?at_medium=RSS&at_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-23T01-55_2",
+        "rank": 2,
+        "title": "Mérida to Host First Edition of Bienale de Yucatán",
+        "category": "art",
+        "summary": "The Bienale de Yucatán, the first large-scale international contemporary art biennial in Mexico, is set to open in Mérida, the capital of the Yucatán state, this November. Artistic director Abraham Cruzvillegas has made…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/09/Merida_Mexiko.jpg?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/news/merida-host-first-edition-of-bienale-de-yucatan-1234759544/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-23T01-55_3",
+        "rank": 3,
+        "title": "Natural Peptide Counters Multiple Hallmarks of Alzheimer’s",
+        "category": "neuroscience",
+        "summary": "Researchers discover catestatin, an endogenous peptide that reduces amyloid, tau, and neuroinflammation to restore brain function.",
+        "image": "https://neurosciencenews.com/files/2026/09/Can-a-natural-peptide-tackle-multiple-drivers-of-Alzheimers-at-once-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/peptide-catestatin-alzheimers-neurology-31239/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-23T01-55_4",
+        "rank": 4,
+        "title": "Risks of Decompression Sickness and Venous Thromboembolism during Spaceflight and Patent Foramen Ovale Implications",
+        "category": "space",
+        "summary": "NASA’s Office of the Chief Health and Medical Officer formed a working group in August 2026 to review the most recent data related to extravehicular activity (EVA) prebreathe testing and decompression sickness (DCS)…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/09/pfo-graphic.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/organizations/ochmo/risks-of-decompression-sickness-and-venous-thromboembolism-during-spaceflight-and-patent-foramen-ovale-implications/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-23T01-55_5",
+        "rank": 5,
+        "title": "Opinion: Former FDA commissioners: Heidi Overton has an opportunity to strengthen the FDA",
+        "category": "biotech",
+        "summary": "Two former FDA commissioners: Heidi Overton is the right pick in a difficult moment.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/09/GettyImages-2292889087-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/09/22/heidi-overton-fda-commissioner-confirmation-hearing/?utm_campaign=rss",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-09-22T22-26",
     "scannedAt": "2026-09-22T22:26:51.547Z",
     "items": [
