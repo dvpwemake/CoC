@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-09-23T01-55",
-    "scannedAt": "2026-09-23T01:55:37.052Z",
+    "batchId": "auto_2026-09-23T08-51",
+    "scannedAt": "2026-09-23T08:51:34.238Z",
     "items": [
       {
-        "id": "auto_2026-09-23T01-55_1",
+        "id": "auto_2026-09-23T08-51_1",
         "rank": 1,
-        "title": "US criticises Australia's proposed algorithm opt-out laws as 'censorship'",
+        "title": "Ofcom launches investigation into Pornhub over its age checks",
         "category": "general",
-        "summary": "Under the draft laws, tech firms face fines if they do not give users the option to switch off algorithms.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2286/live/6cf9eb00-b6e5-11f1-8900-3ddc42cc49ef.jpg",
+        "summary": "The regulator said it had concerns Aylo \"may not have conducted sufficient due diligence\" over verifying the age of its users.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef85/live/76f98710-b72a-11f1-a430-4d16ee157c41.jpg",
         "source": "BBC Technology",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqj3dgy8x3vro?at_medium=RSS&at_campaign=rss",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6eq8dw3dlyqo?at_medium=RSS&at_campaign=rss",
         "fromX": false
       },
       {
-        "id": "auto_2026-09-23T01-55_2",
+        "id": "auto_2026-09-23T08-51_2",
         "rank": 2,
-        "title": "Mérida to Host First Edition of Bienale de Yucatán",
-        "category": "art",
-        "summary": "The Bienale de Yucatán, the first large-scale international contemporary art biennial in Mexico, is set to open in Mérida, the capital of the Yucatán state, this November. Artistic director Abraham Cruzvillegas has made…",
-        "image": "https://www.artforum.com/wp-content/uploads/2026/09/Merida_Mexiko.jpg?w=650",
-        "source": "Artforum",
-        "sourceUrl": "https://www.artforum.com/news/merida-host-first-edition-of-bienale-de-yucatan-1234759544/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-23T01-55_3",
-        "rank": 3,
-        "title": "Natural Peptide Counters Multiple Hallmarks of Alzheimer’s",
-        "category": "neuroscience",
-        "summary": "Researchers discover catestatin, an endogenous peptide that reduces amyloid, tau, and neuroinflammation to restore brain function.",
-        "image": "https://neurosciencenews.com/files/2026/09/Can-a-natural-peptide-tackle-multiple-drivers-of-Alzheimers-at-once-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/peptide-catestatin-alzheimers-neurology-31239/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-23T01-55_4",
-        "rank": 4,
-        "title": "Risks of Decompression Sickness and Venous Thromboembolism during Spaceflight and Patent Foramen Ovale Implications",
-        "category": "space",
-        "summary": "NASA’s Office of the Chief Health and Medical Officer formed a working group in August 2026 to review the most recent data related to extravehicular activity (EVA) prebreathe testing and decompression sickness (DCS)…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/09/pfo-graphic.jpg",
-        "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/organizations/ochmo/risks-of-decompression-sickness-and-venous-thromboembolism-during-spaceflight-and-patent-foramen-ovale-implications/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-23T01-55_5",
-        "rank": 5,
-        "title": "Opinion: Former FDA commissioners: Heidi Overton has an opportunity to strengthen the FDA",
+        "title": "STAT+: UnitedHealth, CVS push back on Medicare plan to curb remote patient monitoring",
         "category": "biotech",
-        "summary": "Two former FDA commissioners: Heidi Overton is the right pick in a difficult moment.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/09/GettyImages-2292889087-1024x576.jpg",
+        "summary": "Some health insurers push back on a Medicare proposal that would disrupt how doctors can bill for remotely monitoring patients' health.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/09/AdobeStock_404249326-1024x576.jpeg",
         "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/09/22/heidi-overton-fda-commissioner-confirmation-hearing/?utm_campaign=rss",
+        "sourceUrl": "https://www.statnews.com/2026/09/23/unitedhealth-cvs-pushback-medicare-plan-rpm-abuse/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-23T08-51_3",
+        "rank": 3,
+        "title": "With federal funding windfall, X-energy advances small nuclear reactor",
+        "category": "energy",
+        "summary": "The federal government has thrown its weight into reviving America’s long-stagnant nuclear industry, and X-energy’s first-of-a-kind reactor project is among the biggest beneficiaries so far. The U.S. Department of…",
+        "image": "https://img.canarymedia.com/content/uploads/Chris-Wright-at-Idaho-National-Laboratory_GettyImages-2282776190.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=76a26026bc9525012aac40de9dbdd3bc",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/nuclear/federal-funding-x-energy-small-nuclear-reactor",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-23T08-51_4",
+        "rank": 4,
+        "title": "Artist’s floating synagogue installation in Venice destroyed by harsh winds",
+        "category": "art",
+        "summary": "Anna Kamyshan says she intends to “accept what I could not control” after the work, intended to symbolise both uncertainty and hope, was torn apart by a squall",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/55567cd0c60cbc8c14e39bee9bbcc736c993a6c2-3024x1964.png?rect=0,168,3024,1697&w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/09/23/artists-floating-synagogue-installation-in-venice-destroyed-by-harsh-winds",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-23T08-51_5",
+        "rank": 5,
+        "title": "APOD: 2026 September 23 – A New Lunar Crater: McGetchin",
+        "category": "space",
+        "summary": "APOD Science APOD APOD: 2026 September 23 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or…",
+        "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/september/content_mcgetchin_after.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "source": "NASA",
+        "sourceUrl": "https://science.nasa.gov/image-article/apod-2026-september-23-the-mcgetchin-crater/",
         "fromX": false
       }
     ]
@@ -118,6 +118,26 @@
         "source": "IEEE Spectrum",
         "sourceUrl": "https://spectrum.ieee.org/sustainability-robotics-barbara-mazzolai",
         "fromX": false
+      }
+    ]
+  },
+  {
+    "batchId": "editorial_2026-09-21",
+    "scannedAt": "2026-09-22T02:45:49.309Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-09-21",
+        "rank": 0,
+        "title": "When the Wire Snaps",
+        "category": "editorial",
+        "summary": "On Fragility and Repair",
+        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/09/bicentennial-5.jpeg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-09-21.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-09-21",
+        "authorName": "Dr. Wallace Lynch"
       }
     ]
   },
@@ -1922,67 +1942,6 @@
         "isEditorialArchive": true,
         "publishDate": "2026-08-29",
         "authorName": "Dr. Wallace Lynch"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-08-28T15-42",
-    "scannedAt": "2026-08-28T15:42:57.521Z",
-    "items": [
-      {
-        "id": "auto_2026-08-28T15-42_1",
-        "rank": 1,
-        "title": "Social Media and the Myth of the Big Tobacco Moment",
-        "category": "general",
-        "summary": "Smoking used to be everywhere, the way Facebook, TikTok, Snap, YouTube and Instagram are now. Society decided to break the habit, but it took a long time.",
-        "image": "https://static01.nyt.com/images/2026/08/28/multimedia/28biz-meta-tobacco--01-vqml/28biz-meta-tobacco--01-vqml-mediumSquareAt3X.jpg",
-        "source": "NYT Technology",
-        "sourceUrl": "https://www.nytimes.com/2026/08/28/technology/meta-social-media-big-tobacco.html",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-28T15-42_2",
-        "rank": 2,
-        "title": "Rotterdam’s Museum Boijmans Van Beuningen caught up in alleged bribery scandal as civil servants dismissed",
-        "category": "art",
-        "summary": "The city’s mayor said that two civil servants were found to have accepted “gifts from the municipality’s business contacts in exchange for possible preferential treatment”",
-        "image": "https://cdn.sanity.io/images/cxgd3urn/production/11157f7a5810ad0d098e50a0ccd4afcc5e524f8e-5472x3648.jpg?w=140",
-        "source": "The Art Newspaper",
-        "sourceUrl": "https://www.theartnewspaper.com/2026/08/28/rotterdams-museum-boijmans-van-beuningen-caught-up-in-alleged-bribery-scandal-as-civil-servants-dismissed",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-28T15-42_3",
-        "rank": 3,
-        "title": "NASA’s Roman telescope will see 100 times more sky than Hubble",
-        "category": "space",
-        "summary": "NASA’s Roman Space Telescope will combine Hubble-like detail with a field of view 100 times larger, giving astronomers a sweeping new way to explore the cosmos. Its observations could uncover hidden planets, map…",
-        "image": "https://www.sciencedaily.com/images/1920/nasa-roman-space-telescope-observes-cosmos.webp",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260828082333.htm",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-28T15-42_4",
-        "rank": 4,
-        "title": "STAT+: AstraZeneca and Ionis detail surprise failure of heart disease drug, with Alnylam closely watching",
-        "category": "biotech",
-        "summary": "Roivant's autoimmune drug approval, Cytokinetics reports full data for heart condition treatment, and more biotech news",
-        "image": "https://www.statnews.com/wp-content/uploads/2023/08/AdobeStock_571236433_Editorial_Use_Only-1024x576.jpeg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/08/28/biotech-news-astrazeneca-ionis-detail-surprise-failure-of-heart-disease-drug/?utm_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-28T15-42_5",
-        "rank": 5,
-        "title": "So, where exactly does the US energy transition stand?",
-        "category": "energy",
-        "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter. Sign up to get it every Friday. Glass half-empty or glass half-full? The classic question is now gripping the policy wonks who are trying to…",
-        "image": "https://img.canarymedia.com/content/uploads/GettyImages-1449681083.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=118e4cd91e9c5f54437f275d0ed0d1a2",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/clean-energy/taking-stock-of-the-messy-us-energy-transition",
-        "fromX": false
       }
     ]
   }

@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-08-28T15-42",
+    "scannedAt": "2026-08-28T15:42:57.521Z",
+    "items": [
+      {
+        "id": "auto_2026-08-28T15-42_1",
+        "rank": 1,
+        "title": "Social Media and the Myth of the Big Tobacco Moment",
+        "category": "general",
+        "summary": "Smoking used to be everywhere, the way Facebook, TikTok, Snap, YouTube and Instagram are now. Society decided to break the habit, but it took a long time.",
+        "image": "https://static01.nyt.com/images/2026/08/28/multimedia/28biz-meta-tobacco--01-vqml/28biz-meta-tobacco--01-vqml-mediumSquareAt3X.jpg",
+        "source": "NYT Technology",
+        "sourceUrl": "https://www.nytimes.com/2026/08/28/technology/meta-social-media-big-tobacco.html",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-28T15-42_2",
+        "rank": 2,
+        "title": "Rotterdam’s Museum Boijmans Van Beuningen caught up in alleged bribery scandal as civil servants dismissed",
+        "category": "art",
+        "summary": "The city’s mayor said that two civil servants were found to have accepted “gifts from the municipality’s business contacts in exchange for possible preferential treatment”",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/11157f7a5810ad0d098e50a0ccd4afcc5e524f8e-5472x3648.jpg?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/08/28/rotterdams-museum-boijmans-van-beuningen-caught-up-in-alleged-bribery-scandal-as-civil-servants-dismissed",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-28T15-42_3",
+        "rank": 3,
+        "title": "NASA’s Roman telescope will see 100 times more sky than Hubble",
+        "category": "space",
+        "summary": "NASA’s Roman Space Telescope will combine Hubble-like detail with a field of view 100 times larger, giving astronomers a sweeping new way to explore the cosmos. Its observations could uncover hidden planets, map…",
+        "image": "https://www.sciencedaily.com/images/1920/nasa-roman-space-telescope-observes-cosmos.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260828082333.htm",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-28T15-42_4",
+        "rank": 4,
+        "title": "STAT+: AstraZeneca and Ionis detail surprise failure of heart disease drug, with Alnylam closely watching",
+        "category": "biotech",
+        "summary": "Roivant's autoimmune drug approval, Cytokinetics reports full data for heart condition treatment, and more biotech news",
+        "image": "https://www.statnews.com/wp-content/uploads/2023/08/AdobeStock_571236433_Editorial_Use_Only-1024x576.jpeg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/08/28/biotech-news-astrazeneca-ionis-detail-surprise-failure-of-heart-disease-drug/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-28T15-42_5",
+        "rank": 5,
+        "title": "So, where exactly does the US energy transition stand?",
+        "category": "energy",
+        "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter. Sign up to get it every Friday. Glass half-empty or glass half-full? The classic question is now gripping the policy wonks who are trying to…",
+        "image": "https://img.canarymedia.com/content/uploads/GettyImages-1449681083.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=118e4cd91e9c5f54437f275d0ed0d1a2",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/clean-energy/taking-stock-of-the-messy-us-energy-transition",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "editorial_2026-08-27",
     "scannedAt": "2026-08-27T23:59:02.353Z",
     "kind": "editorial_archive",
@@ -1840,67 +1901,6 @@
         "isEditorialArchive": true,
         "publishDate": "2026-08-03",
         "authorName": "Dr. Wallace Lynch"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-08-03T20-49",
-    "scannedAt": "2026-08-03T20:49:30.852Z",
-    "items": [
-      {
-        "id": "auto_2026-08-03T20-49_1",
-        "rank": 1,
-        "title": "Trump’s AI protectionism has come for robotics",
-        "category": "ai",
-        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children,…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/AP26206077599738.jpg?resize=1200,600",
-        "source": "MIT Technology Review",
-        "sourceUrl": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-03T20-49_2",
-        "rank": 2,
-        "title": "Neural Mechanism Behind Goal-Directed Behavior Revealed",
-        "category": "neuroscience",
-        "summary": "Orexin neurons dynamically scale with effort, proving necessary for sustained goal-directed motivation.",
-        "image": "https://neurosciencenews.com/files/2026/08/orexin-neurons-motivation-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/orexin-neurons-motivation-31173/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-03T20-49_3",
-        "rank": 3,
-        "title": "Monumental Joyful Murals by Ella & Pitr Fill Urban Rooftops and Fields",
-        "category": "art",
-        "summary": "Ella & Pitr bring eccentric joy to urban spaces. Do stories and artists like this matter to you? Become a Colossal Member today and support independent arts publishing for as little as $7 per month. The article…",
-        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/08/ella-pitr-8-e1785768010553.jpg",
-        "source": "Colossal",
-        "sourceUrl": "https://www.thisiscolossal.com/2026/08/ella-pitr-monumental-urban-murals-street-art/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-03T20-49_4",
-        "rank": 4,
-        "title": "Michigan reports first two U.S. deaths in outbreak of cyclospora",
-        "category": "biotech",
-        "summary": "Two people have died in the cyclospora outbreak in Michigan in the first confirmed deaths in the U.S. related to the microscopic parasite, state health officials announced.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/07/AP26189642009611-e1784894199578-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/08/03/cyclospora-outbreak-two-fatalities-reported-michigan/?utm_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-03T20-49_5",
-        "rank": 5,
-        "title": "Hughes files for bankruptcy after GEO business loses ground to Starlink",
-        "category": "space",
-        "summary": "EchoStar’s Hughes geostationary satellite broadband business has filed for bankruptcy in the United States after years of mounting competition from SpaceX’s Starlink constellation. The post Hughes files for bankruptcy…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/01/J-3-satellite--scaled.jpg?fit=1024%2C763&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/hughes-files-for-bankruptcy-after-geo-business-loses-ground-to-starlink/",
-        "fromX": false
       }
     ]
   }
