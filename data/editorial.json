@@ -1,65 +1,106 @@
 {
   "published": {
-    "id": "ed_2026-09-21",
-    "publishDate": "2026-09-21",
+    "id": "ed_2026-09-23",
+    "publishDate": "2026-09-23",
     "status": "published",
-    "updatedAt": "2026-09-22T02:45:49.309Z",
-    "title": "When the Wire Snaps",
-    "dek": "On Fragility and Repair",
+    "updatedAt": "2026-09-23T04:33:32.518Z",
+    "title": "The Chaos Tax",
+    "dek": "From the visual cortex to corporate megamergers, stability requires active correction",
     "authorName": "Dr. Wallace Lynch",
     "authorTitle": "Editor in Chief",
-    "body": "We are, all of us, wired together now—sometimes literally. This week a construction crew in New Jersey sliced through a single Verizon fiber cable and grounded hundreds of flights across the country. One severed line, and the vast machinery of American air travel stuttered. It is a humbling parable for our age: the systems we trust most are often held together by threads we never see.\n\nYet fragility is only half the story. The same week brought word from the world of flatworms—those humble creatures that can regrow the very dopamine neurons we humans lose to Parkinson's. Researchers have begun mapping the genetic blueprint behind this regeneration, searching for what nature knows and we have forgotten. And in another lab, scientists discovered that a simple contraction of the core muscles constricts the brain's veins, a mechanical handshake between body and mind that no one had fully traced before. Repair, it turns out, is written into biology at levels we are only beginning to read.\n\nElsewhere the tension between caution and ambition played out plainly. North Carolina regulators told Duke Energy to slow down on a new gas plant—a rare \"not so fast.\" Members of Congress pushed back on a plan to route NIH grants through political appointees. And Meta's powerful new AI assistant was found carrying a serious vulnerability, a reminder that the more privilege we grant our tools, the more we stake on their integrity.\n\nTwo centuries after photography first froze light into memory—celebrated this year across France—we remain image-drunk and connection-dependent, marveling at what we can capture while forgetting how easily it breaks. The equinox arrives this week to rebalance the light. Perhaps that is the quiet instruction: to tend our fragile wires, and to trust that repair, patiently sought, is always possible.",
+    "body": "The human visual cortex is a masterclass in crisis management. New computational models reveal that cortical feedback slashes neural chaos by 93%, ensuring stable vision amid wildly fluctuating brain activity. If only our institutions were so elegant. Instead, we are watching our systems buckle under a \"chaos tax\"—the inevitable friction between organic behavior and top-down control.\n\nLook at the newly cleared $110 billion Paramount-Warner Bros. Discovery megamerger, which must now churn out grueling film quotas just to survive its own bloat. Or consider the geopolitical spat over Australia’s draft algorithm opt-out laws, which the US clumsily brands as \"censorship\" rather than a necessary bid for user autonomy.\n\nIn the sciences, this struggle for equilibrium is acute. Congress is rightly pushing back against a dangerous plan to let political appointees review NIH grants, even as the FDA braces for Heidi Overton’s confirmation at a highly precarious moment for medical oversight. We need sophisticated feedback loops, not ideological bludgeons. Fortunately, we are seeing glimpses of smarter, biologically inspired approaches. HHS is actively pivoting away from animal testing, while neuroscientists have identified catestatin—an endogenous peptide—that organically counters Alzheimer’s hallmarks.\n\nWe must build systems that give back. Roboticist Barbara Mazzolai understands this, pioneering eco-robotics that heal the environment rather than exploit it. The art world, meanwhile, faces a severe crisis of commodification, recently laid bare by a crass BBC game show. Yet, culture finds a way to breathe: New York’s museum-building boom charges ahead, and Mérida readies its ambitious inaugural Bienale de Yucatán.\n\nWhether designing eco-robots, mitigating decompression sickness in spaceflight, or defending scientific grants, the lesson from our own biology remains absolute. True stability doesn't come from rigid suppression; it demands relentless, responsive feedback.",
     "paragraphs": [
-      "We are, all of us, wired together now—sometimes literally. This week a construction crew in New Jersey sliced through a single Verizon fiber cable and grounded hundreds of flights across the country. One severed line, and the vast machinery of American air travel stuttered. It is a humbling parable for our age: the systems we trust most are often held together by threads we never see.",
-      "Yet fragility is only half the story. The same week brought word from the world of flatworms—those humble creatures that can regrow the very dopamine neurons we humans lose to Parkinson's. Researchers have begun mapping the genetic blueprint behind this regeneration, searching for what nature knows and we have forgotten. And in another lab, scientists discovered that a simple contraction of the core muscles constricts the brain's veins, a mechanical handshake between body and mind that no one had fully traced before. Repair, it turns out, is written into biology at levels we are only beginning to read.",
-      "Elsewhere the tension between caution and ambition played out plainly. North Carolina regulators told Duke Energy to slow down on a new gas plant—a rare \"not so fast.\" Members of Congress pushed back on a plan to route NIH grants through political appointees. And Meta's powerful new AI assistant was found carrying a serious vulnerability, a reminder that the more privilege we grant our tools, the more we stake on their integrity.",
-      "Two centuries after photography first froze light into memory—celebrated this year across France—we remain image-drunk and connection-dependent, marveling at what we can capture while forgetting how easily it breaks. The equinox arrives this week to rebalance the light. Perhaps that is the quiet instruction: to tend our fragile wires, and to trust that repair, patiently sought, is always possible."
+      "The human visual cortex is a masterclass in crisis management. New computational models reveal that cortical feedback slashes neural chaos by 93%, ensuring stable vision amid wildly fluctuating brain activity. If only our institutions were so elegant. Instead, we are watching our systems buckle under a \"chaos tax\"—the inevitable friction between organic behavior and top-down control.",
+      "Look at the newly cleared $110 billion Paramount-Warner Bros. Discovery megamerger, which must now churn out grueling film quotas just to survive its own bloat. Or consider the geopolitical spat over Australia’s draft algorithm opt-out laws, which the US clumsily brands as \"censorship\" rather than a necessary bid for user autonomy.",
+      "In the sciences, this struggle for equilibrium is acute. Congress is rightly pushing back against a dangerous plan to let political appointees review NIH grants, even as the FDA braces for Heidi Overton’s confirmation at a highly precarious moment for medical oversight. We need sophisticated feedback loops, not ideological bludgeons. Fortunately, we are seeing glimpses of smarter, biologically inspired approaches. HHS is actively pivoting away from animal testing, while neuroscientists have identified catestatin—an endogenous peptide—that organically counters Alzheimer’s hallmarks.",
+      "We must build systems that give back. Roboticist Barbara Mazzolai understands this, pioneering eco-robotics that heal the environment rather than exploit it. The art world, meanwhile, faces a severe crisis of commodification, recently laid bare by a crass BBC game show. Yet, culture finds a way to breathe: New York’s museum-building boom charges ahead, and Mérida readies its ambitious inaugural Bienale de Yucatán.",
+      "Whether designing eco-robots, mitigating decompression sickness in spaceflight, or defending scientific grants, the lesson from our own biology remains absolute. True stability doesn't come from rigid suppression; it demands relentless, responsive feedback."
     ],
-    "wordCount": 295,
-    "heroImage": "https://www.thisiscolossal.com/wp-content/uploads/2026/09/bicentennial-5.jpeg",
-    "heroCredit": "France Celebrates the Bicentennial of Photography with Traveling Themed Exhibitions",
-    "heroSource": "Colossal",
-    "heroSourceUrl": "https://www.thisiscolossal.com/2026/09/grandpalaisrmn-200-year-photography-exhibition/",
+    "wordCount": 281,
+    "heroImage": "https://www.artforum.com/wp-content/uploads/2026/09/Merida_Mexiko.jpg?w=650",
+    "heroCredit": "Mérida to Host First Edition of Bienale de Yucatán",
+    "heroSource": "Artforum",
+    "heroSourceUrl": "https://www.artforum.com/news/merida-host-first-edition-of-bienale-de-yucatan-1234759544/",
     "headlines": [
       {
-        "title": "France Celebrates the Bicentennial of Photography with Traveling Themed Exhibitions",
-        "source": "Colossal",
+        "title": "Mérida to Host First Edition of Bienale de Yucatán",
+        "source": "Artforum",
         "category": "art",
-        "sourceUrl": "https://www.thisiscolossal.com/2026/09/grandpalaisrmn-200-year-photography-exhibition/",
-        "summary": "In our era of digital screens and virtually endless images and videos, it's a challenge to imagine the time before photography existed. Do stories and artists like this matter to you? Become a Colossal Member today and…",
-        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/09/bicentennial-5.jpeg"
+        "sourceUrl": "https://www.artforum.com/news/merida-host-first-edition-of-bienale-de-yucatan-1234759544/",
+        "summary": "The Bienale de Yucatán, the first large-scale international contemporary art biennial in Mexico, is set to open in Mérida, the capital of the Yucatán state, this November. Artistic director Abraham Cruzvillegas has made…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/09/Merida_Mexiko.jpg?w=650"
       },
       {
-        "title": "STAT+: What a vote on Grail’s cancer detection test could mean for the company, patients, and regulators",
+        "title": "Opinion: Former FDA commissioners: Heidi Overton has an opportunity to strengthen the FDA",
         "source": "STAT News",
         "category": "biotech",
-        "sourceUrl": "https://www.statnews.com/2026/09/21/grail-galleri-fda-advisory-committee-meeting-documents/?utm_campaign=rss",
-        "summary": "Shares in Grail, the company developing a blood test for cancer, surged Monday after the FDA posted documents ahead of an advisory committee meeting.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/09/AP6802385202387510-1024x576.jpg"
+        "sourceUrl": "https://www.statnews.com/2026/09/22/heidi-overton-fda-commissioner-confirmation-hearing/?utm_campaign=rss",
+        "summary": "Two former FDA commissioners: Heidi Overton is the right pick in a difficult moment.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/09/GettyImages-2292889087-1024x576.jpg"
       },
       {
-        "title": "Duke Energy wants to build a new gas plant. Regulators said not so fast.",
-        "source": "Canary Media",
-        "category": "energy",
-        "sourceUrl": "https://www.canarymedia.com/articles/fossil-fuels/regulators-reject-duke-gas-plant-north-carolina",
-        "summary": "North Carolina regulators on Friday rejected a bid from Duke Energy to build a gas power plant — a rare denial from a panel that frequently defers to the state’s predominant utility. Duke first proposed the 255-megawatt…",
-        "image": "https://img.canarymedia.com/content/uploads/Three-stacks-of-the-Miami-Fort-Power-Station_AP26212572525126.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=f91bbcea405f98041dab8cbadb876b1e"
-      },
-      {
-        "title": "A cut cable disrupted hundreds of flights across the US",
-        "source": "The Verge",
+        "title": "US criticises Australia's proposed algorithm opt-out laws as 'censorship'",
+        "source": "BBC Technology",
         "category": "general",
-        "sourceUrl": "https://www.theverge.com/transportation/998550/a-cut-cable-disrupted-hundreds-of-flights-across-the-us",
-        "summary": "Hundreds of flights were cancelled or delayed on Monday after construction crews in New Jersey accidentally cut a Verizon fiber cable used for air traffic control. FAA Administrator Bryan Bedford said that a circuit…",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2242804026.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200"
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqj3dgy8x3vro?at_medium=RSS&at_campaign=rss",
+        "summary": "Under the draft laws, tech firms face fines if they do not give users the option to switch off algorithms.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2286/live/6cf9eb00-b6e5-11f1-8900-3ddc42cc49ef.jpg"
       },
       {
-        "title": "Flatworm Genetics Reveal Blueprint for Neural Regeneration",
+        "title": "Natural Peptide Counters Multiple Hallmarks of Alzheimer’s",
         "source": "Neuroscience News",
         "category": "neuroscience",
-        "sourceUrl": "https://neurosciencenews.com/genetics-neural-regeneration-32230/",
-        "summary": "Researchers discover genes enabling flatworms to regrow dopamine neurons, offering clues to overcome human limits in brain repair and Parkinson's.",
-        "image": "https://neurosciencenews.com/files/2026/09/Unlocking-the-Genetic-Recipe-for-Brain-Regeneration-1155x770.jpg"
+        "sourceUrl": "https://neurosciencenews.com/peptide-catestatin-alzheimers-neurology-31239/",
+        "summary": "Researchers discover catestatin, an endogenous peptide that reduces amyloid, tau, and neuroinflammation to restore brain function.",
+        "image": "https://neurosciencenews.com/files/2026/09/Can-a-natural-peptide-tackle-multiple-drivers-of-Alzheimers-at-once-1155x770.jpg"
+      },
+      {
+        "title": "Risks of Decompression Sickness and Venous Thromboembolism during Spaceflight and Patent Foramen Ovale Implications",
+        "source": "NASA",
+        "category": "space",
+        "sourceUrl": "https://www.nasa.gov/organizations/ochmo/risks-of-decompression-sickness-and-venous-thromboembolism-during-spaceflight-and-patent-foramen-ovale-implications/",
+        "summary": "NASA’s Office of the Chief Health and Medical Officer formed a working group in August 2026 to review the most recent data related to extravehicular activity (EVA) prebreathe testing and decompression sickness (DCS)…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/09/pfo-graphic.jpg"
+      },
+      {
+        "title": "BBC art dealing game show reveals 'crisis of commodification' facing galleries",
+        "source": "The Art Newspaper",
+        "category": "art",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/09/22/bbc-art-dealing-game-show-reveals-crisis-of-commodification-facing-galleries",
+        "summary": "What is the future for the art market when monetary value trumps aesthetic value?",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/c97745585342c096814d972b2713e759f1a8f09b-2048x1536.jpg?w=140"
+      },
+      {
+        "title": "STAT+: HHS unveils new initiatives to reduce animal testing in drug development",
+        "source": "STAT News",
+        "category": "biotech",
+        "sourceUrl": "https://www.statnews.com/pharmalot/2026/09/22/hhs-initiatives-reduce-animal-testing-in-drug-development/?utm_campaign=rss",
+        "summary": "For the second time this year, HHS announced new strategies to speed the away from animals in medical testing.",
+        "image": "https://www.statnews.com/wp-content/uploads/2018/05/GettyImages-115791062-1024x576.jpg"
+      },
+      {
+        "title": "Paramount will need to release way more movies to make this merger work",
+        "source": "The Verge",
+        "category": "general",
+        "sourceUrl": "https://www.theverge.com/entertainment/999056/paramount-warner-bros-discovery-merger-annual-film-quota-guardrails",
+        "summary": "Now that Paramount has reached a settlement with the 12 states that were suing to block its $110 billion merger with Warner Bros. Discovery (WBD), the studio is even closer to becoming one of the world's biggest…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB385_PARAMOUNT_D.webp?quality=90&strip=all&crop=0%2C10.728364100735%2C100%2C78.54327179853&w=1200"
+      },
+      {
+        "title": "How the Visual Cortex Maintains Stable Vision Amid Neural Fluctuations",
+        "source": "Neuroscience News",
+        "category": "neuroscience",
+        "sourceUrl": "https://neurosciencenews.com/visual-cortex-chaos-theory-31240/",
+        "summary": "A new computational model shows how cortical feedback slashes neural chaos by 93%, explaining how our vision stays stable despite fluctuating brain activity.",
+        "image": "https://neurosciencenews.com/files/2026/09/How-the-Brain-Keeps-Our-Visual-Perception-Stable-1155x770.jpg"
+      },
+      {
+        "title": "Barbara Mazzolai Wants to Build a New Field of Robotics",
+        "source": "IEEE Spectrum",
+        "category": "robotics",
+        "sourceUrl": "https://spectrum.ieee.org/sustainability-robotics-barbara-mazzolai",
+        "summary": "Throughout her career, roboticist Barbara Mazzolai has turned to nature for inspiration. Now she wants to ensure the technology she builds gives back to the environment, too. After starting her career as a biologist, a…",
+        "image": "https://spectrum.ieee.org/media-library/photo-of-a-woman-standing-in-front-of-greenery-holding-a-device-shaped-like-a-small-octopus-arm.png?id=67787635&width=980"
       },
       {
         "title": "From the Bronx to the Lower East Side, New York’s museum building boom continues",
@@ -76,52 +117,35 @@
         "sourceUrl": "https://www.statnews.com/2026/09/21/trump-plan-for-commission-to-review-nih-grants-push-back/?utm_campaign=rss",
         "summary": "Several members of Congress voiced strong opposition about a reported plan to create a panel of political appointees to sign off on NIH grants",
         "image": "https://www.statnews.com/wp-content/uploads/2026/09/GettyImages-2294340438-1024x576.jpg"
-      },
-      {
-        "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
-        "source": "Ars Technica",
-        "category": "general",
-        "sourceUrl": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
-        "summary": "A simple ClickFix attack is only one way to completely hijack the new agent.",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg"
-      },
-      {
-        "title": "Core Contractions Drive Brain Blood Flow",
-        "source": "Neuroscience News",
-        "category": "neuroscience",
-        "sourceUrl": "https://neurosciencenews.com/core-contractions-brain-blood-flow-32231/",
-        "summary": "Engaging core muscles rapidly constricts cerebral veins to regulate brain blood flow, revealing a mechanical body-brain link in PNAS study.",
-        "image": "https://neurosciencenews.com/files/2026/09/Core-Muscles-Help-Regulate-Blood-Flow-in-Your-Brain-1155x673.jpg"
-      },
-      {
-        "title": "Embracing the Equinox",
-        "source": "NASA",
-        "category": "space",
-        "sourceUrl": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/embracing-the-equinox/",
-        "summary": "Depending on your locale, equinoxes can be seen as harbingers of longer nights and gloomy weather, or promising beacons of nicer temperatures and more sunlight. Observing and predicting equinoxes is one of the earliest…",
-        "image": "https://science.nasa.gov/wp-content/uploads/2022/09/equinox4_0-1200x675-1.jpg"
-      },
-      {
-        "title": "From A to T & Back Again: Openings, Part Two",
-        "source": "Artforum",
-        "category": "art",
-        "sourceUrl": "https://www.artforum.com/columns/from-a-to-t-back-again-openings-part-two-theo-belci-1234759417/",
-        "summary": "Six of the fall's new crop of gallery openings at Lomex, Maxwell Graham, Theta, David Peter Francis, Ellie Rines Gallery, and Ulrik",
-        "image": "https://www.artforum.com/wp-content/uploads/2026/09/U112.jpg?w=650"
-      },
-      {
-        "title": "New nanoparticles make hidden chemical differences light up",
-        "source": "ScienceDaily",
-        "category": "energy",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260919031030.htm",
-        "summary": "Scientists have developed ultra-bright nanoparticles that can detect tiny amounts of chemicals and distinguish between molecules that look almost identical. The technology could one day provide a cheaper way to catch…",
-        "image": "https://www.sciencedaily.com/images/1920/near-infrared-laser-shined-on-nanoparticles.webp"
       }
     ],
-    "publishedAt": "2026-09-22T02:45:49.309Z"
+    "publishedAt": "2026-09-23T04:33:32.518Z"
   },
   "drafts": {},
   "history": [
+    {
+      "id": "ed_2026-09-23",
+      "publishDate": "2026-09-23",
+      "status": "published",
+      "updatedAt": "2026-09-23T04:33:32.518Z",
+      "title": "The Chaos Tax",
+      "dek": "From the visual cortex to corporate megamergers, stability requires active correction",
+      "authorName": "Dr. Wallace Lynch",
+      "authorTitle": "Editor in Chief",
+      "paragraphs": [
+        "The human visual cortex is a masterclass in crisis management. New computational models reveal that cortical feedback slashes neural chaos by 93%, ensuring stable vision amid wildly fluctuating brain activity. If only our institutions were so elegant. Instead, we are watching our systems buckle under a \"chaos tax\"—the inevitable friction between organic behavior and top-down control.",
+        "Look at the newly cleared $110 billion Paramount-Warner Bros. Discovery megamerger, which must now churn out grueling film quotas just to survive its own bloat. Or consider the geopolitical spat over Australia’s draft algorithm opt-out laws, which the US clumsily brands as \"censorship\" rather than a necessary bid for user autonomy.",
+        "In the sciences, this struggle for equilibrium is acute. Congress is rightly pushing back against a dangerous plan to let political appointees review NIH grants, even as the FDA braces for Heidi Overton’s confirmation at a highly precarious moment for medical oversight. We need sophisticated feedback loops, not ideological bludgeons. Fortunately, we are seeing glimpses of smarter, biologically inspired approaches. HHS is actively pivoting away from animal testing, while neuroscientists have identified catestatin—an endogenous peptide—that organically counters Alzheimer’s hallmarks.",
+        "We must build systems that give back. Roboticist Barbara Mazzolai understands this, pioneering eco-robotics that heal the environment rather than exploit it. The art world, meanwhile, faces a severe crisis of commodification, recently laid bare by a crass BBC game show. Yet, culture finds a way to breathe: New York’s museum-building boom charges ahead, and Mérida readies its ambitious inaugural Bienale de Yucatán.",
+        "Whether designing eco-robots, mitigating decompression sickness in spaceflight, or defending scientific grants, the lesson from our own biology remains absolute. True stability doesn't come from rigid suppression; it demands relentless, responsive feedback."
+      ],
+      "wordCount": 281,
+      "heroImage": "https://www.artforum.com/wp-content/uploads/2026/09/Merida_Mexiko.jpg?w=650",
+      "heroCredit": "Mérida to Host First Edition of Bienale de Yucatán",
+      "heroSource": "Artforum",
+      "heroSourceUrl": "https://www.artforum.com/news/merida-host-first-edition-of-bienale-de-yucatan-1234759544/",
+      "publishedAt": "2026-09-23T04:33:32.518Z"
+    },
     {
       "id": "ed_2026-09-21",
       "publishDate": "2026-09-21",
@@ -1573,6 +1597,7 @@
     "https://www.artforum.com/wp-content/uploads/2026/09/Eliasson_Your-uncertain-shadow_2010_TATE.jpg?w=650",
     "https://www.artforum.com/wp-content/uploads/2026/09/U112.jpg?w=650",
     "https://www.artforum.com/wp-content/uploads/2026/09/GettyImages-132700757_11e5b4.jpg?w=650",
-    "https://www.thisiscolossal.com/wp-content/uploads/2026/09/bicentennial-5.jpeg"
+    "https://www.thisiscolossal.com/wp-content/uploads/2026/09/bicentennial-5.jpeg",
+    "https://www.artforum.com/wp-content/uploads/2026/09/Merida_Mexiko.jpg?w=650"
   ]
 }
