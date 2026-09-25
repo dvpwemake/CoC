@@ -1,127 +1,149 @@
 {
   "published": {
-    "id": "ed_2026-09-23",
-    "publishDate": "2026-09-23",
+    "id": "ed_2026-09-25",
+    "publishDate": "2026-09-25",
     "status": "published",
-    "updatedAt": "2026-09-23T17:31:32.214Z",
-    "title": "Anchoring the Machine",
-    "dek": "Our systems are getting better at hiding underlying chaos—until the illusion breaks",
+    "updatedAt": "2026-09-25T05:20:24.133Z",
+    "title": "Shifts in Authority",
+    "dek": "From the FDA's New Era to Tech Brands Fading",
     "authorName": "Dr. Wallace Lynch",
     "authorTitle": "Editor in Chief",
-    "body": "Our brains are master illusionists. A new computational model of the visual cortex reveals that cortical feedback loops slash neural chaos by an astonishing 93%. This biological dampening allows us to experience the world as a stable, continuous picture, rather than a flickering barrage of sensory noise.\n\nWe are now engineering society to mimic this neurological trick. Autonomous driving systems are becoming so proficient that human drivers are dangerously overestimating the technology, lulled into complacency by the artificial smoothness of the ride. We increasingly crave systems that manage the chaos for us. It’s why the Pentagon is tapping biotech powerhouse Flagship Pioneering to develop countermeasures against biological threats, and why NOAA is deploying Ethereal Space’s satellites to monitor our volatile environment from orbit. Even corporate media is seeking stability through sheer scale, with Paramount’s mammoth Warner Bros. Discovery merger relying on an aggressive production quota to smooth out market turbulence.\n\nYet, the noise always finds a way to bleed through. The cultural sector offers a stark reminder of what happens when our stabilizing mechanisms fail. In Berlin, a toxic mix of real-estate crises and political friction has forced one of the city's most promising galleries to flee to London. Meanwhile, a BBC art-dealing game show has accidentally laid bare a deepening crisis of commodification, forcing us to ask what happens when financial algorithms entirely overwrite aesthetic value. Even New York's current museum building boom can feel like a shiny architectural facade built over a precarious foundation.\n\nIf we want true stability, our innovations must do more than just mask the underlying chaos—they must actively repair it. Roboticist Barbara Mazzolai’s mission to design bio-inspired machines that actually give back to the ecosystem, alongside new HHS initiatives to finally phase out animal testing, point the way forward. The goal shouldn't be to build an autopilot that blinds us to the noise, but to engineer systems that harmonize with the fragile world creating it.",
+    "body": "As the Senate scrutinizes the next FDA chief and Microsoft drops its AI-branded PCs, global developments in energy, art, and space highlight a world in transition.\n\nThe geopolitical and technological plates are shifting. In Washington, FDA commissioner nominee Heidi Overton faced Senate scrutiny, dodging heated questions on vaccines and abortion while clearly outlining her core priorities: accelerating biomedical research and countering China's biotech rise. (The global biotech pulse remains a focal point, as noted in recent dispatches from Shanghai.) Meanwhile, in the tech sphere, Microsoft is quietly killing off its \"Copilot Plus PC\" brand just two and a half years after pushing it as the ultimate AI hardware standard. Across the Atlantic, U.S. federal officials are intervening on behalf of Elon Musk’s X to fight a $140 million European penalty regarding deceptive site behavior.\n\nInfrastructure, exploration, and discovery are also seeing major updates. Domestically, the DOE just injected $1.9 billion into advanced grid technologies to squeeze more capacity out of an overstressed U.S. network. Looking upward, NASA welcomed Côte d’Ivoire as the 75th signatory of the Artemis Accords, marking a major milestone for the international space coalition. On the ground in Guadalajara, Mexico, an IEEE team is expanding access to STEM by building portable educational robotics platforms for talented high school students. Further advancing scientific understanding, Weill Cornell researchers discovered how the PIP2 lipid governs retinal light sensitivity, opening new therapeutic pathways for retinal degeneration.\n\nIn the art world, leadership and legacy remain in sharp focus. Jonathan Abbott brings 15 years of public media experience from Boston's GBH to his new role as director of MOCA Los Angeles. In Paris, courts are deliberating whether a Pissarro painting auctioned at Sotheby's was looted by Nazis, weighing claims from the heirs of Jewish banker Salomon Flavian. Finally, we bid farewell to Brazilian painter Lucia Laguna, who passed away at 85. Retiring from teaching before ever picking up a brush, she reminded us that true artistic success—much like her verdant, fragmented cityscapes—can beautifully emerge in our 60s and beyond.",
     "paragraphs": [
-      "Our brains are master illusionists. A new computational model of the visual cortex reveals that cortical feedback loops slash neural chaos by an astonishing 93%. This biological dampening allows us to experience the world as a stable, continuous picture, rather than a flickering barrage of sensory noise.",
-      "We are now engineering society to mimic this neurological trick. Autonomous driving systems are becoming so proficient that human drivers are dangerously overestimating the technology, lulled into complacency by the artificial smoothness of the ride. We increasingly crave systems that manage the chaos for us. It’s why the Pentagon is tapping biotech powerhouse Flagship Pioneering to develop countermeasures against biological threats, and why NOAA is deploying Ethereal Space’s satellites to monitor our volatile environment from orbit. Even corporate media is seeking stability through sheer scale, with Paramount’s mammoth Warner Bros. Discovery merger relying on an aggressive production quota to smooth out market turbulence.",
-      "Yet, the noise always finds a way to bleed through. The cultural sector offers a stark reminder of what happens when our stabilizing mechanisms fail. In Berlin, a toxic mix of real-estate crises and political friction has forced one of the city's most promising galleries to flee to London. Meanwhile, a BBC art-dealing game show has accidentally laid bare a deepening crisis of commodification, forcing us to ask what happens when financial algorithms entirely overwrite aesthetic value. Even New York's current museum building boom can feel like a shiny architectural facade built over a precarious foundation.",
-      "If we want true stability, our innovations must do more than just mask the underlying chaos—they must actively repair it. Roboticist Barbara Mazzolai’s mission to design bio-inspired machines that actually give back to the ecosystem, alongside new HHS initiatives to finally phase out animal testing, point the way forward. The goal shouldn't be to build an autopilot that blinds us to the noise, but to engineer systems that harmonize with the fragile world creating it."
+      "As the Senate scrutinizes the next FDA chief and Microsoft drops its AI-branded PCs, global developments in energy, art, and space highlight a world in transition.",
+      "The geopolitical and technological plates are shifting. In Washington, FDA commissioner nominee Heidi Overton faced Senate scrutiny, dodging heated questions on vaccines and abortion while clearly outlining her core priorities: accelerating biomedical research and countering China's biotech rise. (The global biotech pulse remains a focal point, as noted in recent dispatches from Shanghai.) Meanwhile, in the tech sphere, Microsoft is quietly killing off its \"Copilot Plus PC\" brand just two and a half years after pushing it as the ultimate AI hardware standard. Across the Atlantic, U.S. federal officials are intervening on behalf of Elon Musk’s X to fight a $140 million European penalty regarding deceptive site behavior.",
+      "Infrastructure, exploration, and discovery are also seeing major updates. Domestically, the DOE just injected $1.9 billion into advanced grid technologies to squeeze more capacity out of an overstressed U.S. network. Looking upward, NASA welcomed Côte d’Ivoire as the 75th signatory of the Artemis Accords, marking a major milestone for the international space coalition. On the ground in Guadalajara, Mexico, an IEEE team is expanding access to STEM by building portable educational robotics platforms for talented high school students. Further advancing scientific understanding, Weill Cornell researchers discovered how the PIP2 lipid governs retinal light sensitivity, opening new therapeutic pathways for retinal degeneration.",
+      "In the art world, leadership and legacy remain in sharp focus. Jonathan Abbott brings 15 years of public media experience from Boston's GBH to his new role as director of MOCA Los Angeles. In Paris, courts are deliberating whether a Pissarro painting auctioned at Sotheby's was looted by Nazis, weighing claims from the heirs of Jewish banker Salomon Flavian. Finally, we bid farewell to Brazilian painter Lucia Laguna, who passed away at 85. Retiring from teaching before ever picking up a brush, she reminded us that true artistic success—much like her verdant, fragmented cityscapes—can beautifully emerge in our 60s and beyond."
     ],
-    "wordCount": 321,
-    "heroImage": "https://www.statnews.com/wp-content/uploads/2015/11/ThePentagon_GettyImages-1024x576.jpg",
-    "heroCredit": "STAT+: Flagship gets a Pentagon contract",
-    "heroSource": "STAT News",
-    "heroSourceUrl": "https://www.statnews.com/2026/09/23/biotech-news-flagship-gets-a-pentagon-contract/?utm_campaign=rss",
+    "wordCount": 336,
+    "heroImage": "https://cdn.sanity.io/images/cxgd3urn/production/7d2fcafc84e9bfd9614a699f2e8d1943fcf4596c-2400x3600.jpg?w=140",
+    "heroCredit": "Moca Los Angeles picks longtime public media executive as next director",
+    "heroSource": "The Art Newspaper",
+    "heroSourceUrl": "https://www.theartnewspaper.com/2026/09/24/moca-los-angeles-jonathan-abbott-director-chief-executive",
     "headlines": [
       {
-        "title": "Why one of Berlin's hottest young galleries has relocated to London",
+        "title": "Moca Los Angeles picks longtime public media executive as next director",
         "source": "The Art Newspaper",
         "category": "art",
-        "sourceUrl": "https://www.theartnewspaper.com/2026/09/23/why-one-of-berlins-coolest-young-galleries-has-relocated-to-london",
-        "summary": "A real-estate crisis, fraught politics, and a market downturn have all factored into Heidi's move",
-        "image": "https://cdn.sanity.io/images/cxgd3urn/production/2ca3c50fadd799274b505b5509a7b5f29db7674b-3071x4607.jpg?rect=0,1086,3071,3521&w=140"
+        "sourceUrl": "https://www.theartnewspaper.com/2026/09/24/moca-los-angeles-jonathan-abbott-director-chief-executive",
+        "summary": "Jonathan Abbott takes the helm at the museum after 15 years as chief executive of GBH in Boston",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/7d2fcafc84e9bfd9614a699f2e8d1943fcf4596c-2400x3600.jpg?w=140"
       },
       {
-        "title": "STAT+: Flagship gets a Pentagon contract",
+        "title": "The FDA's Overton era, and dispatches from Shanghai",
         "source": "STAT News",
         "category": "biotech",
-        "sourceUrl": "https://www.statnews.com/2026/09/23/biotech-news-flagship-gets-a-pentagon-contract/?utm_campaign=rss",
-        "summary": "Biotech investment firm Flagship Pioneering has been awarded a contract by the Department of Defense to advance countermeasure technologies against biological threats.",
-        "image": "https://www.statnews.com/wp-content/uploads/2015/11/ThePentagon_GettyImages-1024x576.jpg"
+        "sourceUrl": "https://www.statnews.com/2026/09/24/chronicling-chinese-drug-development-from-shanghai-readout-loud/?utm_campaign=rss",
+        "summary": "The Readout LOUD is going international this week with a dispatch from Shanghai, along with notes on the FDA's Overton era.",
+        "image": "https://www.statnews.com/wp-content/uploads/2024/07/ROL_Rectangle-1024x576.jpg"
       },
       {
-        "title": "A new fleet of electric school buses hits New York City streets",
-        "source": "Canary Media",
-        "category": "energy",
-        "sourceUrl": "https://www.canarymedia.com/articles/electric-vehicles/electric-school-buses-new-york-city",
-        "summary": "NEW YORK CITY — School districts nationwide are grappling with record diesel prices this fall as they resume shuttling students back and forth. But filling up isn’t a problem for some of the newest buses in New York…",
-        "image": "https://img.canarymedia.com/content/uploads/IMG_6013.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=cf7e99bd59a128b86898ee32ab167307"
-      },
-      {
-        "title": "Self-Driving Cars Are Getting Better. The Risks Are Getting Bigger.",
-        "source": "NYT Technology",
-        "category": "general",
-        "sourceUrl": "https://www.nytimes.com/2026/09/22/business/self-driving-cars-tesla-fsd.html",
-        "summary": "Self-driving systems are getting so good that drivers may overestimate the technology and not be prepared to respond when something goes wrong.",
-        "image": "https://static01.nyt.com/images/2026/09/21/multimedia/00biz-autonomous-cars-fhbk/00biz-autonomous-cars-fhbk-mediumSquareAt3X.jpg"
-      },
-      {
-        "title": "Ethereal Space Awarded NOAA SBEM Task Order 1",
-        "source": "SpaceNews",
-        "category": "space",
-        "sourceUrl": "https://spacenews.com/ethereal-space-awarded-noaa-sbem-task-order-1/",
-        "summary": "DENVER, Colorado – September 2026 – Ethereal Space, Inc. today announced that it has been awarded Task Order 1 under NOAA’s ProTech 2.0 Space-Based Environmental Monitoring (SBEM) program, following NOAA’s […] The post…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/09/ethereal-space.png?fit=800%2C800&ssl=1"
-      },
-      {
-        "title": "BBC art dealing game show reveals 'crisis of commodification' facing galleries",
-        "source": "The Art Newspaper",
-        "category": "art",
-        "sourceUrl": "https://www.theartnewspaper.com/2026/09/22/bbc-art-dealing-game-show-reveals-crisis-of-commodification-facing-galleries",
-        "summary": "What is the future for the art market when monetary value trumps aesthetic value?",
-        "image": "https://cdn.sanity.io/images/cxgd3urn/production/c97745585342c096814d972b2713e759f1a8f09b-2048x1536.jpg?w=140"
-      },
-      {
-        "title": "STAT+: HHS unveils new initiatives to reduce animal testing in drug development",
-        "source": "STAT News",
-        "category": "biotech",
-        "sourceUrl": "https://www.statnews.com/pharmalot/2026/09/22/hhs-initiatives-reduce-animal-testing-in-drug-development/?utm_campaign=rss",
-        "summary": "For the second time this year, HHS announced new strategies to speed the away from animals in medical testing.",
-        "image": "https://www.statnews.com/wp-content/uploads/2018/05/GettyImages-115791062-1024x576.jpg"
-      },
-      {
-        "title": "When the Wire Snaps",
-        "source": "Chronicle of Convergence · Editorial",
-        "category": "editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-09-21.html",
-        "summary": "On Fragility and Repair",
-        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/09/bicentennial-5.jpeg"
-      },
-      {
-        "title": "Paramount will need to release way more movies to make this merger work",
+        "title": "Microsoft is killing off the ‘Copilot Plus PC’ brand",
         "source": "The Verge",
         "category": "general",
-        "sourceUrl": "https://www.theverge.com/entertainment/999056/paramount-warner-bros-discovery-merger-annual-film-quota-guardrails",
-        "summary": "Now that Paramount has reached a settlement with the 12 states that were suing to block its $110 billion merger with Warner Bros. Discovery (WBD), the studio is even closer to becoming one of the world's biggest…",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB385_PARAMOUNT_D.webp?quality=90&strip=all&crop=0%2C10.728364100735%2C100%2C78.54327179853&w=1200"
+        "sourceUrl": "https://www.theverge.com/tech/1000495/microsoft-is-killing-off-the-copilot-plus-pc-brand",
+        "summary": "Remember when Microsoft wanted everyone to know that \"Copilot Plus PCs\" were the ones to get, because those were the PCs that that'd have enough built-in AI muscle to get things done? Two and a half years later,…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/lcimg_d86deab3_6099_437b_b86a_4f36ef6f8ffb.webp?quality=90&strip=all&crop=0%2C11.003978190411%2C100%2C77.992043619178&w=1200"
       },
       {
-        "title": "How the Visual Cortex Maintains Stable Vision Amid Neural Fluctuations",
+        "title": "Cell Membrane Lipid Governs Retinal Light Sensitivity",
         "source": "Neuroscience News",
         "category": "neuroscience",
-        "sourceUrl": "https://neurosciencenews.com/visual-cortex-chaos-theory-31240/",
-        "summary": "A new computational model shows how cortical feedback slashes neural chaos by 93%, explaining how our vision stays stable despite fluctuating brain activity.",
-        "image": "https://neurosciencenews.com/files/2026/09/How-the-Brain-Keeps-Our-Visual-Perception-Stable-1155x770.jpg"
+        "sourceUrl": "https://neurosciencenews.com/pip2-light-retina-sensitivity-neuroscience-31251/",
+        "summary": "Weill Cornell Medicine researchers resolve how membrane lipid PIP2 locks CNG channels closed, revealing a therapeutic target for retinal degeneration.",
+        "image": "https://neurosciencenews.com/files/2026/09/membrain-lipid-light-sensitivity-neuroscience-1155x770.jpg"
       },
       {
-        "title": "Barbara Mazzolai Wants to Build a New Field of Robotics",
+        "title": "Mexican EPICS in IEEE Team Builds Portable Educational Platform",
         "source": "IEEE Spectrum",
         "category": "robotics",
-        "sourceUrl": "https://spectrum.ieee.org/sustainability-robotics-barbara-mazzolai",
-        "summary": "Throughout her career, roboticist Barbara Mazzolai has turned to nature for inspiration. Now she wants to ensure the technology she builds gives back to the environment, too. After starting her career as a biologist, a…",
-        "image": "https://spectrum.ieee.org/media-library/photo-of-a-woman-standing-in-front-of-greenery-holding-a-device-shaped-like-a-small-octopus-arm.png?id=67787635&width=980"
+        "sourceUrl": "https://spectrum.ieee.org/epics-in-ieee-portable-educational",
+        "summary": "In Guadalajara, Mexico, many high schools have motivated teachers and talented students with an interest in science, technology, engineering, and mathematics, but they lack access to advanced tools such as robotics…",
+        "image": "https://spectrum.ieee.org/media-library/four-young-adult-students-laugh-together-while-one-of-them-holds-a-robot-shaped-like-a-hexagonal-cylinder.jpg?id=67845427&width=980"
       },
       {
-        "title": "From the Bronx to the Lower East Side, New York’s museum building boom continues",
+        "title": "Was this Pissarro painting—sold at Sotheby's in 2024—looted by Nazis? A Paris court deliberates",
         "source": "The Art Newspaper",
         "category": "art",
-        "sourceUrl": "https://www.theartnewspaper.com/2026/09/21/new-york-city-museum-building-boom-bronx-museum-canyon-metropolitan-museum",
-        "summary": "Several institutional construction projects have already opened this year, with more in the pipeline",
-        "image": "https://cdn.sanity.io/images/cxgd3urn/production/20e266767edf784f3d352e4680233cb62bb1421f-2953x1969.jpg?w=140"
+        "sourceUrl": "https://www.theartnewspaper.com/2026/09/24/was-this-pissarro-paintingsold-at-sothebys-in-2024looted-by-nazis-a-paris-court-deliberates",
+        "summary": "Heirs to Jewish banker Salomon Flavian claim they were not consulted before the sale, meanwhile Sotheby's argues the work may have not been forcibly taken at all",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/6b22c3532699f07a4fef92ed96632afa9d9fbd61-1876x1476.png?w=140"
+      },
+      {
+        "title": "STAT+: FDA commissioner nominee Heidi Overton keeps opinions to herself in Senate hearing",
+        "source": "STAT News",
+        "category": "biotech",
+        "sourceUrl": "https://www.statnews.com/2026/09/24/fda-commissioner-nominee-heidi-overton-senate-hearing-dodges-questions/?utm_campaign=rss",
+        "summary": "Senators focused on asking Overton about vaccines, abortion, and vapes.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/09/AP26267649095665-1024x576.jpg"
+      },
+      {
+        "title": "Advanced grid tech gets a $1.9B DOE boost",
+        "source": "Canary Media",
+        "category": "energy",
+        "sourceUrl": "https://www.canarymedia.com/articles/transmission/advanced-grid-tech-doe-boost",
+        "summary": "For years now, grid experts have been trying to get utilities to deploy advanced transmission technologies that can squeeze more capacity out of overstressed U.S. power grids. On Thursday, the Trump administration put a…",
+        "image": "https://img.canarymedia.com/content/uploads/High-tension-electrical-power-lines-Highway-58_GettyImages-667160146.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=506ce5c2d705144df39e6fa21d2fda22"
+      },
+      {
+        "title": "U.S. Intercedes for Elon Musk’s X Over European Fine",
+        "source": "NYT Technology",
+        "category": "general",
+        "sourceUrl": "https://www.nytimes.com/2026/09/24/technology/us-x-elon-musk-europe-fine.html",
+        "summary": "Federal officials asked to intervene in a case that accused the social media platform of allowing deceptive behavior on its site and resulted in a $140 million penalty.",
+        "image": "https://static01.nyt.com/images/2026/09/24/multimedia/24biz-trump-x-qkzj/24biz-trump-x-qkzj-mediumSquareAt3X.jpg"
+      },
+      {
+        "title": "NASA Welcomes Côte d’Ivoire as Newest Artemis Accords Signatory",
+        "source": "NASA",
+        "category": "space",
+        "sourceUrl": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-cote-divoire-as-newest-artemis-accords-signatory/",
+        "summary": "Côte d’Ivoire signed the Artemis Accords on Thursday as the 75th signatory during a signing ceremony in the nation's largest city Abidjan, marking the largest milestone yet for the international coalition of like-minded…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/09/artemis-accords-cote-divoire-75-092426.jpg"
+      },
+      {
+        "title": "Lucia Laguna, Brazilian painter of verdant and fragmented cityscapes, has died, aged 85",
+        "source": "The Art Newspaper",
+        "category": "art",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/09/23/lucia-laguna-brazilian-painter-obituary",
+        "summary": "Laguna, who only started painting after retiring from her teaching career, started to achieve success when she was in her 60s",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/9d5e8a31c0d2b1c1c13d8809b8d104a3f8266d65-2000x1333.jpg?w=140"
+      },
+      {
+        "title": "STAT+: Nominee to lead FDA aims to speed up medical research, combat China’s rise",
+        "source": "STAT News",
+        "category": "biotech",
+        "sourceUrl": "https://www.statnews.com/2026/09/23/heidi-overton-fda-nominee-opening-statement-senate-hearing-clinical-trials/?utm_campaign=rss",
+        "summary": "Exclusive: Heidi Overton plans to tell senators she will speed up biomedical research, working with FDA staff.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/08/AP26222696212458-1024x576.jpg"
       }
     ],
-    "publishedAt": "2026-09-23T17:31:32.214Z"
+    "publishedAt": "2026-09-25T05:20:24.133Z"
   },
   "drafts": {},
   "history": [
+    {
+      "id": "ed_2026-09-25",
+      "publishDate": "2026-09-25",
+      "status": "published",
+      "updatedAt": "2026-09-25T05:20:24.133Z",
+      "title": "Shifts in Authority",
+      "dek": "From the FDA's New Era to Tech Brands Fading",
+      "authorName": "Dr. Wallace Lynch",
+      "authorTitle": "Editor in Chief",
+      "paragraphs": [
+        "As the Senate scrutinizes the next FDA chief and Microsoft drops its AI-branded PCs, global developments in energy, art, and space highlight a world in transition.",
+        "The geopolitical and technological plates are shifting. In Washington, FDA commissioner nominee Heidi Overton faced Senate scrutiny, dodging heated questions on vaccines and abortion while clearly outlining her core priorities: accelerating biomedical research and countering China's biotech rise. (The global biotech pulse remains a focal point, as noted in recent dispatches from Shanghai.) Meanwhile, in the tech sphere, Microsoft is quietly killing off its \"Copilot Plus PC\" brand just two and a half years after pushing it as the ultimate AI hardware standard. Across the Atlantic, U.S. federal officials are intervening on behalf of Elon Musk’s X to fight a $140 million European penalty regarding deceptive site behavior.",
+        "Infrastructure, exploration, and discovery are also seeing major updates. Domestically, the DOE just injected $1.9 billion into advanced grid technologies to squeeze more capacity out of an overstressed U.S. network. Looking upward, NASA welcomed Côte d’Ivoire as the 75th signatory of the Artemis Accords, marking a major milestone for the international space coalition. On the ground in Guadalajara, Mexico, an IEEE team is expanding access to STEM by building portable educational robotics platforms for talented high school students. Further advancing scientific understanding, Weill Cornell researchers discovered how the PIP2 lipid governs retinal light sensitivity, opening new therapeutic pathways for retinal degeneration.",
+        "In the art world, leadership and legacy remain in sharp focus. Jonathan Abbott brings 15 years of public media experience from Boston's GBH to his new role as director of MOCA Los Angeles. In Paris, courts are deliberating whether a Pissarro painting auctioned at Sotheby's was looted by Nazis, weighing claims from the heirs of Jewish banker Salomon Flavian. Finally, we bid farewell to Brazilian painter Lucia Laguna, who passed away at 85. Retiring from teaching before ever picking up a brush, she reminded us that true artistic success—much like her verdant, fragmented cityscapes—can beautifully emerge in our 60s and beyond."
+      ],
+      "wordCount": 336,
+      "heroImage": "https://cdn.sanity.io/images/cxgd3urn/production/7d2fcafc84e9bfd9614a699f2e8d1943fcf4596c-2400x3600.jpg?w=140",
+      "heroCredit": "Moca Los Angeles picks longtime public media executive as next director",
+      "heroSource": "The Art Newspaper",
+      "heroSourceUrl": "https://www.theartnewspaper.com/2026/09/24/moca-los-angeles-jonathan-abbott-director-chief-executive",
+      "publishedAt": "2026-09-25T05:20:24.133Z"
+    },
     {
       "id": "ed_2026-09-23",
       "publishDate": "2026-09-23",
@@ -1597,6 +1619,7 @@
     "https://www.artforum.com/wp-content/uploads/2026/09/GettyImages-132700757_11e5b4.jpg?w=650",
     "https://www.thisiscolossal.com/wp-content/uploads/2026/09/bicentennial-5.jpeg",
     "https://www.artforum.com/wp-content/uploads/2026/09/Merida_Mexiko.jpg?w=650",
-    "https://www.statnews.com/wp-content/uploads/2015/11/ThePentagon_GettyImages-1024x576.jpg"
+    "https://www.statnews.com/wp-content/uploads/2015/11/ThePentagon_GettyImages-1024x576.jpg",
+    "https://cdn.sanity.io/images/cxgd3urn/production/7d2fcafc84e9bfd9614a699f2e8d1943fcf4596c-2400x3600.jpg?w=140"
   ]
 }
