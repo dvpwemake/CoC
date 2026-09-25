@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-09-25T19-47",
-    "scannedAt": "2026-09-25T19:47:11.363Z",
+    "batchId": "auto_2026-09-25T22-51",
+    "scannedAt": "2026-09-25T22:51:07.537Z",
     "items": [
       {
-        "id": "auto_2026-09-25T19-47_1",
+        "id": "auto_2026-09-25T22-51_1",
         "rank": 1,
-        "title": "Bogotà's Artbo fair remains boutique and local—is that enough?",
-        "category": "art",
-        "summary": "Exhibitor numbers for the fair's 2022 edition are still down from pre-pandemic levels, and its collectors and galleries are largely from Colombia",
-        "image": "https://cdn.sanity.io/images/cxgd3urn/production/c531797e67529cdb64e5b8796bd43af36f5e9cee-1680x1476.png?w=140",
-        "source": "The Art Newspaper",
-        "sourceUrl": "https://www.theartnewspaper.com/2026/09/25/amid-a-crowded-fair-calendar-colombias-artbo-remains-boutique-and-local",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-25T19-47_2",
-        "rank": 2,
-        "title": "NASA Tests Dual Mode Propulsion CubeSat Ahead of Launch",
-        "category": "space",
-        "summary": "Spacecraft propulsion traditionally relies on volatile fuels and separate, bulky systems for different types of maneuvering in space. NASA is working to change that paradigm. Engineers at NASA’s Marshall Space Flight…",
-        "image": "https://images-assets.nasa.gov/image/933/933~large.jpg",
-        "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/directorates/rtmd/nasa-tests-dual-mode-propulsion-cubesat-ahead-of-launch/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-25T19-47_3",
-        "rank": 3,
-        "title": "Review: The iPhone 18 Pro is Apple's coolest smartphone (but only literally)",
+        "title": "OpenAI investigating 'dozens' of instances of agents acting improperly",
         "category": "general",
-        "summary": "Better thermals and battery life make this iterative update nicer to use.",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/iPhone-18-Pro-1152x648.jpg",
-        "source": "Ars Technica",
-        "sourceUrl": "https://arstechnica.com/apple/2026/09/review-the-iphone-18-pro-is-apples-coolest-smartphone-but-only-literally/",
+        "summary": "OpenAI agents tried to get information from \"governments, universities, public agencies, and other institutions\" through extreme means that sometimes curbed security controls, the company said.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15a2/live/55e1dbb0-b930-11f1-902b-af1a6d672907.jpg",
+        "source": "BBC Technology",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
         "fromX": false
       },
       {
-        "id": "auto_2026-09-25T19-47_4",
+        "id": "auto_2026-09-25T22-51_2",
+        "rank": 2,
+        "title": "NASA, Boeing to Provide Update on Starliner Development",
+        "category": "space",
+        "summary": "During a news conference at 3 p.m. EDT on Monday, Sept. 28, NASA and Boeing leadership will discuss Starliner’s development and plans for regular crew flights to and from the International Space Station. Learn where to…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/09/starliner.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/news-release/nasa-boeing-to-provide-update-on-starliner-development/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-25T22-51_3",
+        "rank": 3,
+        "title": "Switzerland’s Fondation Beyeler opens £109.7m expansion",
+        "category": "art",
+        "summary": "The Basel institution has added three new structures designed by the Swiss architect Peter Zumthor, while also extending its grounds",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/3aa5b25036af8d509e23581c5cb71c79856f9d7c-1024x768.jpg?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/09/25/fondation-beyeler-basel-switzerland-peter-zumthor-expansion",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-25T22-51_4",
         "rank": 4,
-        "title": "Shared Neural Noise Does Not Cap Brain Information",
+        "title": "Molecular Link Between Menopause and Alzheimer’s Risk",
         "category": "neuroscience",
-        "summary": "Researchers overturn a 30-year neuroscience belief, showing shared neural noise does not cap the brain's sensory information capacity.",
-        "image": "https://neurosciencenews.com/files/2026/09/Study-Overturns-a-30-Year-Dogma-in-Theoretical-Neuroscience-1155x770.jpg",
+        "summary": "Scientists discover 16 blood molecules that surge during menopause and predict Alzheimer’s risk and cognitive decline decades later.",
+        "image": "https://neurosciencenews.com/files/2026/09/Menopause-Transition-May-Hold-the-Key-to-Dementia-Risk-1155x770.jpg",
         "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/neural-noise-information-theoretical-neuroscience-31255/",
+        "sourceUrl": "https://neurosciencenews.com/molecular-link-between-menopause-and-alzheimers-risk/",
         "fromX": false
       },
       {
-        "id": "auto_2026-09-25T19-47_5",
+        "id": "auto_2026-09-25T22-51_5",
         "rank": 5,
-        "title": "STAT+: Licensing deals on generic versions of Roche flu drug aimed at preparing for pandemic",
-        "category": "biotech",
-        "summary": "With an eye toward pandemic preparedness, a U.N.-backed agency has signed sub-licensing deals related to generic versions of a Roche influenza treatment.",
-        "image": "https://www.statnews.com/wp-content/uploads/2021/09/AP20088463242938-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/pharmalot/2026/09/25/roche-xofluza-influenza-treatment-agreements/?utm_campaign=rss",
+        "title": "The challenges and opportunities of clean energy in rural America",
+        "category": "energy",
+        "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter. Sign up to get it every Friday. The U.S. energy transition runs through rural America: As of last year, 87% of U.S. clean energy generation…",
+        "image": "https://img.canarymedia.com/content/uploads/Idaho-farm-for-Weekly_260702r2-8536.webp?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=80&w=1200&s=4f8c1e4ecdc3e2b466bb8a621fb1be66",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/land-use/challenges-opportunities-clean-energy-rural-america",
         "fromX": false
       }
     ]
