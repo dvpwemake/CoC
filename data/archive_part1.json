@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-08-29T22-02",
+    "scannedAt": "2026-08-29T22:02:41.379Z",
+    "items": [
+      {
+        "id": "auto_2026-08-29T22-02_1",
+        "rank": 1,
+        "title": "Influencers Have a Lot to Say About Politics. Many Are Quietly Paid for It.",
+        "category": "general",
+        "summary": "Their videos have proliferated on social media, but the payments are frequently hidden from viewers.",
+        "image": "",
+        "source": "NYT Technology",
+        "sourceUrl": "https://www.nytimes.com/2026/08/29/us/politics/campaigns-paid-influencers.html",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-29T22-02_2",
+        "rank": 2,
+        "title": "The universe is still speeding up, but nobody knows why",
+        "category": "space",
+        "summary": "A major new analysis challenges recent claims that the universe's expansion is slowing, finding that the evidence for cosmic acceleration remains strong. The findings preserve the leading role of dark energy, while…",
+        "image": "https://www.sciencedaily.com/images/1920/universe-expansion-dark-energy.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260828082325.htm",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-29T22-02_3",
+        "rank": 3,
+        "title": "Sliman Mansour, Artist of the Intifada, Dead at 79",
+        "category": "art",
+        "summary": "Palestinian artist Sliman Mansour, known for his radiant, powerful paintings of the faces and landscapes of occupied Palestine, died on August 24 in Jerusalem, following a long illness. He was seventy-nine. His work…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/08/Sliman_Mansour_4b326c.jpg?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/news/sliman-mansour-artist-of-the-intifada-dies-at-79-1234758361/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-29T22-02_4",
+        "rank": 4,
+        "title": "Juul gets OK to sell updated vaping device with age-gating technology",
+        "category": "biotech",
+        "summary": "Juul has received FDA clearance to sell an updated version of its e-cigarette, which includes an optional age-verification system designed to prevent underage use.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/08/AP26240674505739-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/08/28/juul-fda-clearance-updated-ecigarette-age-gating-technology/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-29T22-02_5",
+        "rank": 5,
+        "title": "America's big but uncertain gas boom",
+        "category": "energy",
+        "summary": "See more from Canary Media’s ​“Chart of the Week” column . Developers are planning to build an enormous amount of natural gas-fired power plants in the U.S., fueled in large part by the AI boom. The expansion is a…",
+        "image": "https://img.canarymedia.com/content/uploads/COTW-rooftop-solar_2026-08-27-203600_uqpr.png?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=80&w=1200&s=90caf97014ada9826aac37066e53fb0a",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/fossil-fuels/us-gas-plant-construction-uncertain-ai",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "editorial_2026-08-29",
     "scannedAt": "2026-08-29T08:15:33.425Z",
     "kind": "editorial_archive",
@@ -1901,26 +1962,6 @@
         "source": "Robotics & Automation News",
         "sourceUrl": "https://roboticsandautomationnews.com/2026/08/04/cold-calling-how-autonomous-robots-are-transforming-polar-science-in-the-arctic-and-antarctic/103887/",
         "fromX": false
-      }
-    ]
-  },
-  {
-    "batchId": "editorial_2026-08-03",
-    "scannedAt": "2026-08-04T01:02:12.624Z",
-    "kind": "editorial_archive",
-    "items": [
-      {
-        "id": "editorial_2026-08-03",
-        "rank": 0,
-        "title": "What we fence around machines, and what the body still pays",
-        "category": "editorial",
-        "summary": "Convergence of protected systems and exposed lives",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/07/AP26189642009611-e1784894199578-1024x576.jpg",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-03.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-08-03",
-        "authorName": "Dr. Wallace Lynch"
       }
     ]
   }
