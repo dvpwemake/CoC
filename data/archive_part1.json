@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-08-30T22-09",
+    "scannedAt": "2026-08-30T22:09:54.550Z",
+    "items": [
+      {
+        "id": "auto_2026-08-30T22-09_1",
+        "rank": 1,
+        "title": "Professor Murder Rides the Subway is a forgotten slice of dance punk perfection",
+        "category": "general",
+        "summary": "I recently dug out my CDs and started reripping them all. I've found a few forgotten gems in there, but few hit harder for me than the beautifully concise Professor Murder Rides the Subway EP. There was a period of time…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/a0163061049_10.jpg?quality=90&strip=all&crop=0,23.821989528796,100,52.356020942408",
+        "source": "The Verge",
+        "sourceUrl": "https://www.theverge.com/entertainment/986564/professor-murder-rides-the-subway-dance-punk-perfection-review",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-30T22-09_2",
+        "rank": 2,
+        "title": "STAT+: Alnylam defends heart disease drugs after failure of AstraZeneca’s Wainua",
+        "category": "biotech",
+        "summary": "An AstraZeneca heart disease trial failure has put Alnylam under pressure. It's mounting a defense of its medicines.",
+        "image": "https://www.statnews.com/wp-content/uploads/2018/10/STAT_Alnylam03-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/08/30/alnylam-attr-astrazeneca-wainua-attruby-heart-disease/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-30T22-09_3",
+        "rank": 3,
+        "title": "This strange “spacetime crystal” can suddenly become a black hole",
+        "category": "space",
+        "summary": "Physicists have mathematically captured a bizarre “spacetime crystal” that can either dissolve or collapse into a microscopic black hole after only a tiny change in energy. Their breakthrough came from an unusual trick…",
+        "image": "https://www.sciencedaily.com/images/1920/black-hole-spacetime-crystal.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260829035225.htm",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-30T22-09_4",
+        "rank": 4,
+        "title": "IBM quantum computer solves classically intractable problem in 15 minutes",
+        "category": "ai",
+        "summary": "IBM and University of Chicago researchers have completed a quantum computation that leading classical methods could not practically reproduce. The system used 70 error-corrected logical qubits and finished the task in…",
+        "image": "https://www.sciencedaily.com/images/1920/futuristic-quantum-computer-system-glowing.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260829035219.htm",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-30T22-09_5",
+        "rank": 5,
+        "title": "HEPA air purifiers may boost brain function after just one month",
+        "category": "neuroscience",
+        "summary": "Adults aged 40 and older performed about 12% faster on a test of executive function after using a HEPA air purifier at home for one month. The findings suggest that cleaner indoor air could offer a simple way to help…",
+        "image": "https://www.sciencedaily.com/images/1920/neuroscience-brain-boost-glow.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260830000016.htm",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-08-29T22-02",
     "scannedAt": "2026-08-29T22:02:41.379Z",
     "items": [
@@ -1901,67 +1962,6 @@
         "isEditorialArchive": true,
         "publishDate": "2026-08-04",
         "authorName": "Dr. Wallace Lynch"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-08-04T20-58",
-    "scannedAt": "2026-08-04T20:58:37.186Z",
-    "items": [
-      {
-        "id": "auto_2026-08-04T20-58_1",
-        "rank": 1,
-        "title": "Brain PET Scans Link Late-Onset Psychosis to Tau and Amyloid",
-        "category": "neuroscience",
-        "summary": "A new study using PET imaging reveals that 65% of patients with late-onset psychosis exhibit tau protein buildup in the brain, linking midlife hallucinations and delusions to underlying neurodegeneration.",
-        "image": "https://neurosciencenews.com/files/2026/08/pet-tau-psychosis-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/tau-amyloid-psychosis-31178/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-04T20-58_2",
-        "rank": 2,
-        "title": "NOAA purchases Spire hyperspectral microwave sounder data",
-        "category": "space",
-        "summary": "SAN FRANCISCO – The National Oceanic and Atmospheric Administration will continue to evaluate data from Spire Global’s Hyperspectral Microwave Sounder (HyMS) under a $3 million contract extension announced Aug. 4. […]…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/rsz_hyms_image.jpg?fit=879%2C586&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/noaa-purchases-spire-hyperspectral-microwave-sounder-data/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-04T20-58_3",
-        "rank": 3,
-        "title": "Ebola kills 1,700 in eastern Congo as the fastest-growing outbreak surges",
-        "category": "biotech",
-        "summary": "Ebola has killed more than 1,700 people in eastern Congo in what has become the fastest-growing outbreak of the disease.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/08/AP26170587534280-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/08/04/ebola-1700-deaths-eastern-congo-fastest-growing-outbreak/?utm_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-04T20-58_4",
-        "rank": 4,
-        "title": "Tiny Faces Surface Amid Sweeping Lines in En Iwamura's Expressive Sculptures",
-        "category": "art",
-        "summary": "En Iwamura is interested in the ways we measure and understand the spaces between ourselves and others. Do stories and artists like this matter to you? Become a Colossal Member today and support independent arts…",
-        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/08/iwamura-1.jpg",
-        "source": "Colossal",
-        "sourceUrl": "https://www.thisiscolossal.com/2026/08/en-iwamura-expressive-ceramic-sculptures/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-04T20-58_5",
-        "rank": 5,
-        "title": "Cold calling: How autonomous robots are transforming polar science in the Arctic and Antarctic",
-        "category": "robotics",
-        "summary": "The British Antarctic Survey says autonomous vehicles are ‘transforming polar science’ A robot is cruising beneath Antarctic sea ice. Another is bolted to the face of a collapsing Greenland glacier. A third is silently…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/british-antarctic-survey-1.jpg",
-        "source": "Robotics & Automation News",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/04/cold-calling-how-autonomous-robots-are-transforming-polar-science-in-the-arctic-and-antarctic/103887/",
-        "fromX": false
       }
     ]
   }

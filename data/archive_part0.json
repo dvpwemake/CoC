@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-09-26T02-06",
+    "scannedAt": "2026-09-26T02:06:55.968Z",
+    "items": [
+      {
+        "id": "auto_2026-09-26T02-06_1",
+        "rank": 1,
+        "title": "TikTok to Pay Alabama $100 Million to Settle Social Media Addiction Claims",
+        "category": "general",
+        "summary": "The settlement, which also includes changes to the platform’s features, is the latest in a string of agreements by companies to address child addiction.",
+        "image": "https://static01.nyt.com/images/2026/09/25/multimedia/25biz-tiktok-alabama-settlement-lzhp/25biz-tiktok-alabama-settlement-lzhp-mediumSquareAt3X.jpg",
+        "source": "NYT Technology",
+        "sourceUrl": "https://www.nytimes.com/2026/09/25/technology/tiktok-alabama-child-safety-settlement.html",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-26T02-06_2",
+        "rank": 2,
+        "title": "Trump administration uses rare authority to claw back nearly $1B in spending approved by Congress",
+        "category": "biotech",
+        "summary": "President Trump is canceling nearly $1 billion in spending approved by Congress, and most of the cuts are focused on HHS programs that serve refugees and unaccompanied minors.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/09/AP26262339870744-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/09/25/trump-administration-cancel-spending-hhs-programs/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-26T02-06_3",
+        "rank": 3,
+        "title": "Imelda Cajipe Endaya Becomes First Woman Named National Artist of the Philippines",
+        "category": "art",
+        "summary": "Filipina artist Imelda Cajipe Endaya was named to the Order of National Artists of the Philippines for Visual Arts on September 1, becoming the first woman to receive the honor in its fifty-four-year history. The order…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/09/ICE-portrait.jpeg?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/news/imelda-cajipe-endaya-national-artist-of-the-philippines-1234759887/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-26T02-06_4",
+        "rank": 4,
+        "title": "NASA Welcomes San Marino Signing the Artemis Accords",
+        "category": "space",
+        "summary": "The Republic of San Marino became the 76th signatory to the Artemis Accords during a ceremony in the city of Rimini on Friday with NASA and U.S. Department of State officials present. “San Marino joins a growing…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/09/san-marino.jpeg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-san-marino-signing-the-artemis-accords/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-26T02-06_5",
+        "rank": 5,
+        "title": "Firsthand Experience Dictates Social Judgment",
+        "category": "neuroscience",
+        "summary": "A new study reveals personal experience overrides public reputation when judging uncooperative behavior, altering indirect reciprocity rules.",
+        "image": "https://neurosciencenews.com/files/2026/09/personal-experience-public-reputaiton-psychology-neuroscienec-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/firsthand-experience-dictates-social-judgment/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-09-25T22-51",
     "scannedAt": "2026-09-25T22:51:07.537Z",
     "items": [
@@ -1942,67 +2003,6 @@
         "isEditorialArchive": true,
         "publishDate": "2026-08-31",
         "authorName": "Dr. Wallace Lynch"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-08-30T22-09",
-    "scannedAt": "2026-08-30T22:09:54.550Z",
-    "items": [
-      {
-        "id": "auto_2026-08-30T22-09_1",
-        "rank": 1,
-        "title": "Professor Murder Rides the Subway is a forgotten slice of dance punk perfection",
-        "category": "general",
-        "summary": "I recently dug out my CDs and started reripping them all. I've found a few forgotten gems in there, but few hit harder for me than the beautifully concise Professor Murder Rides the Subway EP. There was a period of time…",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/a0163061049_10.jpg?quality=90&strip=all&crop=0,23.821989528796,100,52.356020942408",
-        "source": "The Verge",
-        "sourceUrl": "https://www.theverge.com/entertainment/986564/professor-murder-rides-the-subway-dance-punk-perfection-review",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-30T22-09_2",
-        "rank": 2,
-        "title": "STAT+: Alnylam defends heart disease drugs after failure of AstraZeneca’s Wainua",
-        "category": "biotech",
-        "summary": "An AstraZeneca heart disease trial failure has put Alnylam under pressure. It's mounting a defense of its medicines.",
-        "image": "https://www.statnews.com/wp-content/uploads/2018/10/STAT_Alnylam03-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/08/30/alnylam-attr-astrazeneca-wainua-attruby-heart-disease/?utm_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-30T22-09_3",
-        "rank": 3,
-        "title": "This strange “spacetime crystal” can suddenly become a black hole",
-        "category": "space",
-        "summary": "Physicists have mathematically captured a bizarre “spacetime crystal” that can either dissolve or collapse into a microscopic black hole after only a tiny change in energy. Their breakthrough came from an unusual trick…",
-        "image": "https://www.sciencedaily.com/images/1920/black-hole-spacetime-crystal.webp",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260829035225.htm",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-30T22-09_4",
-        "rank": 4,
-        "title": "IBM quantum computer solves classically intractable problem in 15 minutes",
-        "category": "ai",
-        "summary": "IBM and University of Chicago researchers have completed a quantum computation that leading classical methods could not practically reproduce. The system used 70 error-corrected logical qubits and finished the task in…",
-        "image": "https://www.sciencedaily.com/images/1920/futuristic-quantum-computer-system-glowing.webp",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260829035219.htm",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-30T22-09_5",
-        "rank": 5,
-        "title": "HEPA air purifiers may boost brain function after just one month",
-        "category": "neuroscience",
-        "summary": "Adults aged 40 and older performed about 12% faster on a test of executive function after using a HEPA air purifier at home for one month. The findings suggest that cleaner indoor air could offer a simple way to help…",
-        "image": "https://www.sciencedaily.com/images/1920/neuroscience-brain-boost-glow.webp",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260830000016.htm",
-        "fromX": false
       }
     ]
   }
