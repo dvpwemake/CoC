@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-09-26T15-09",
-    "scannedAt": "2026-09-26T15:09:48.737Z",
+    "batchId": "auto_2026-09-26T18-45",
+    "scannedAt": "2026-09-26T18:45:06.221Z",
     "items": [
       {
-        "id": "auto_2026-09-26T15-09_1",
+        "id": "auto_2026-09-26T18-45_1",
         "rank": 1,
-        "title": "TikTok to Pay Alabama $100 Million to Settle Social Media Addiction Claims",
+        "title": "Kids turned the comment section of an NPR podcast into a group chat",
         "category": "general",
-        "summary": "The settlement, which also includes changes to the platform’s features, is the latest in a string of agreements by companies to address child addiction.",
-        "image": "https://static01.nyt.com/images/2026/09/25/multimedia/25biz-tiktok-alabama-settlement-lzhp/25biz-tiktok-alabama-settlement-lzhp-mediumSquareAt3X.jpg",
-        "source": "NYT Technology",
-        "sourceUrl": "https://www.nytimes.com/2026/09/25/technology/tiktok-alabama-child-safety-settlement.html",
+        "summary": "Middle schoolers, likely blocked from other apps and social networks, apparently turned the Spotify comment section under an episode of NPR's Wild Card into an impromptu group chat. In a new episode of This American…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25332725/STK419_DEEPFAKE_CVIRGINIA_L.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "sourceUrl": "https://www.theverge.com/entertainment/1001056/this-american-life-npr-kids-group-chat-comment-section",
         "fromX": false
       },
       {
-        "id": "auto_2026-09-26T15-09_2",
+        "id": "auto_2026-09-26T18-45_2",
         "rank": 2,
-        "title": "Opinion: I worked on the CDC investigation of the anthrax letters. 25 years later, are we ready for the next biothreat?",
-        "category": "biotech",
-        "summary": "“We’ve come a long way since the fall of 2001, but we find ourselves with recent widening gaps in public health readiness and mitigation,” writes Daniel B. Jernigan.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/09/GettyImages-1580088835-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/09/26/anthrax-letters-25th-anniversary-cdc-investigation-new-biothreats-ai/?utm_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-26T15-09_3",
-        "rank": 3,
-        "title": "Imelda Cajipe Endaya Becomes First Woman Named National Artist of the Philippines",
-        "category": "art",
-        "summary": "Filipina artist Imelda Cajipe Endaya was named to the Order of National Artists of the Philippines for Visual Arts on September 1, becoming the first woman to receive the honor in its fifty-four-year history. The order…",
-        "image": "https://www.artforum.com/wp-content/uploads/2026/09/ICE-portrait.jpeg?w=650",
-        "source": "Artforum",
-        "sourceUrl": "https://www.artforum.com/news/imelda-cajipe-endaya-national-artist-of-the-philippines-1234759887/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-26T15-09_4",
-        "rank": 4,
-        "title": "Firsthand Experience Dictates Social Judgment",
+        "title": "Mitochondria in the Brain’s Reward Hub Drive Nicotine Dependence",
         "category": "neuroscience",
-        "summary": "A new study reveals personal experience overrides public reputation when judging uncooperative behavior, altering indirect reciprocity rules.",
-        "image": "https://neurosciencenews.com/files/2026/09/personal-experience-public-reputaiton-psychology-neuroscienec-1155x770.jpg",
+        "summary": "UCF neuroscientists study how nicotine alters brain mitochondria in the nucleus accumbens to discover more effective addiction therapies.",
+        "image": "https://neurosciencenews.com/files/2026/09/nicotine-addiction-mitochondria-neurosceince-1155x770.jpg",
         "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/firsthand-experience-dictates-social-judgment/",
+        "sourceUrl": "https://neurosciencenews.com/mitochondria-nicotine-addiciton-31260/",
         "fromX": false
       },
       {
-        "id": "auto_2026-09-26T15-09_5",
-        "rank": 5,
-        "title": "Quantum computing’s “dark horse” just proved it can go universal",
-        "category": "ai",
-        "summary": "Researchers have shown that exotic quantum particles called non-Abelian anyons can perform the full range of operations needed for universal quantum computing. Using 54 qubits on Quantinuum’s H2 processor, they combined…",
-        "image": "https://www.sciencedaily.com/images/1920/futuristic-quantum-computer-system-glowing.webp",
+        "id": "auto_2026-09-26T18-45_3",
+        "rank": 3,
+        "title": "Two astronauts who flew farther than anyone before are taking new NASA roles",
+        "category": "space",
+        "summary": "Artemis II astronauts Victor Glover and Reid Wiseman are transitioning to emeritus status at NASA after their historic journey around the Moon earlier this year. The pair will continue advising and mentoring NASA teams…",
+        "image": "https://www.sciencedaily.com/images/1920/nasa-astronauts-victor-glover-and-reid-wiseman.webp",
         "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260924020403.htm",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260925005423.htm",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-26T18-45_4",
+        "rank": 4,
+        "title": "Trump administration uses rare authority to claw back nearly $1B in spending approved by Congress",
+        "category": "biotech",
+        "summary": "President Trump is canceling nearly $1 billion in spending approved by Congress, and most of the cuts are focused on HHS programs that serve refugees and unaccompanied minors.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/09/AP26262339870744-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/09/25/trump-administration-cancel-spending-hhs-programs/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-26T18-45_5",
+        "rank": 5,
+        "title": "Artistic Director, Theme Announced for Fifth Thailand Biennale",
+        "category": "art",
+        "summary": "The Thai Ministry of Culture has named jiradej-pornpilai meemalai: BAAN NOORG as the artistic director of the Fifth Thailand Biennale, ArtReview reports. Emily Chin-Jie Lee, Gesyada Siregar, and Tyuki Imamura will serve…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/09/0.-as-a-group_.png?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/news/artistic-director-named-for-fifth-thailand-biennale-1234759814/",
         "fromX": false
       }
     ]
