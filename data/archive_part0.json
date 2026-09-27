@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-09-27T01-58",
+    "scannedAt": "2026-09-27T01:58:29.368Z",
+    "items": [
+      {
+        "id": "auto_2026-09-27T01-58_1",
+        "rank": 1,
+        "title": "Decap is the man behind the drums behind your favorite song",
+        "category": "general",
+        "summary": "I don't think I'm going to hurt anyone's feelings by pointing out that Decap doesn't have the name recognition of Kendrick Lamar, Olivia Rodrigo, or Charli XCX. But his fingerprints are all over tracks from them, as…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Elysian_palms_10.jpg?quality=90&strip=all&crop=0%2C11.031430666644%2C100%2C77.937138666712&w=1200",
+        "source": "The Verge",
+        "sourceUrl": "https://www.theverge.com/report/1000994/decap-drums-that-knock-interview",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-27T01-58_2",
+        "rank": 2,
+        "title": "Mitochondria in the Brain’s Reward Hub Drive Nicotine Dependence",
+        "category": "neuroscience",
+        "summary": "UCF neuroscientists study how nicotine alters brain mitochondria in the nucleus accumbens to discover more effective addiction therapies.",
+        "image": "https://neurosciencenews.com/files/2026/09/nicotine-addiction-mitochondria-neurosceince-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/mitochondria-nicotine-addiciton-31260/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-27T01-58_3",
+        "rank": 3,
+        "title": "Two astronauts who flew farther than anyone before are taking new NASA roles",
+        "category": "space",
+        "summary": "Artemis II astronauts Victor Glover and Reid Wiseman are transitioning to emeritus status at NASA after their historic journey around the Moon earlier this year. The pair will continue advising and mentoring NASA teams…",
+        "image": "https://www.sciencedaily.com/images/1920/nasa-astronauts-victor-glover-and-reid-wiseman.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260925005423.htm",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-27T01-58_4",
+        "rank": 4,
+        "title": "Trump administration uses rare authority to claw back nearly $1B in spending approved by Congress",
+        "category": "biotech",
+        "summary": "President Trump is canceling nearly $1 billion in spending approved by Congress, and most of the cuts are focused on HHS programs that serve refugees and unaccompanied minors.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/09/AP26262339870744-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/09/25/trump-administration-cancel-spending-hhs-programs/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-27T01-58_5",
+        "rank": 5,
+        "title": "Artistic Director, Theme Announced for Fifth Thailand Biennale",
+        "category": "art",
+        "summary": "The Thai Ministry of Culture has named jiradej-pornpilai meemalai: BAAN NOORG as the artistic director of the Fifth Thailand Biennale, ArtReview reports. Emily Chin-Jie Lee, Gesyada Siregar, and Tyuki Imamura will serve…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/09/0.-as-a-group_.png?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/news/artistic-director-named-for-fifth-thailand-biennale-1234759814/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-09-26T22-13",
     "scannedAt": "2026-09-26T22:13:24.879Z",
     "items": [
@@ -118,6 +179,26 @@
         "source": "Canary Media",
         "sourceUrl": "https://www.canarymedia.com/articles/land-use/challenges-opportunities-clean-energy-rural-america",
         "fromX": false
+      }
+    ]
+  },
+  {
+    "batchId": "editorial_2026-09-25",
+    "scannedAt": "2026-09-25T05:20:24.133Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-09-25",
+        "rank": 0,
+        "title": "Shifts in Authority",
+        "category": "editorial",
+        "summary": "From the FDA's New Era to Tech Brands Fading",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/7d2fcafc84e9bfd9614a699f2e8d1943fcf4596c-2400x3600.jpg?w=140",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-09-25.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-09-25",
+        "authorName": "Dr. Wallace Lynch"
       }
     ]
   },
@@ -1983,26 +2064,6 @@
         "source": "MIT Technology Review",
         "sourceUrl": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
         "fromX": false
-      }
-    ]
-  },
-  {
-    "batchId": "editorial_2026-08-31",
-    "scannedAt": "2026-08-31T06:58:25.079Z",
-    "kind": "editorial_archive",
-    "items": [
-      {
-        "id": "editorial_2026-08-31",
-        "rank": 0,
-        "title": "The ticket was enough",
-        "category": "editorial",
-        "summary": "Two men paid to enter a Vienna hall. A painter of faces died in Jerusalem. A leak named games that never opened.",
-        "image": "https://spectrum.ieee.org/media-library/colorful-desk-robots-posed-among-books-beside-an-open-laptop-in-an-office.png?id=67687638&width=980",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-31.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-08-31",
-        "authorName": "Dr. Wallace Lynch"
       }
     ]
   }
