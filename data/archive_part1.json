@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-08-31T23-27",
+    "scannedAt": "2026-08-31T23:27:05.672Z",
+    "items": [
+      {
+        "id": "auto_2026-08-31T23-27_1",
+        "rank": 1,
+        "title": "The Google TV Streamer now costs $50 more",
+        "category": "general",
+        "summary": "Google raised the price of its 4K streaming box to $149, up $50 from its original $99 price. The new price is currently live at the Google Store and Best Buy, but Amazon appears to still be offering the original price.…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25562292/DSCF0055.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "sourceUrl": "https://www.theverge.com/tech/987032/google-tv-streamer-price-increase",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-31T23-27_2",
+        "rank": 2,
+        "title": "Robert Indiana’s Home Goes On The Market, Defying Late Artist’s Wishes",
+        "category": "art",
+        "summary": "The Star of Hope Lodge, which was once the home of artist Robert Indiana, is now listed for sale at $1.4 million. The Victorian-era structure, located on the island of Vinalhaven in Maine, is currently owned by the Star…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/08/GettyImages-968555122.jpg?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/news/robert-indianas-home-goes-on-market-defying-artists-wishes-1234758524/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-31T23-27_3",
+        "rank": 3,
+        "title": "NASA Welcomes Türkiye as Newest Artemis Accords Signatory",
+        "category": "space",
+        "summary": "During a ceremony hosted by NASA Administrator Jared Isaacman at the agency’s headquarters in Washington on Monday, the Republic of Türkiye signed the Artemis Accords, joining the growing international coalition of…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/08/nhq202608310009large.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-turkiye-as-newest-artemis-accords-signatory/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-31T23-27_4",
+        "rank": 4,
+        "title": "New guidelines on migraine prevention reflect increasing options for patients",
+        "category": "biotech",
+        "summary": "“There has been a wealth of new treatment available” for migraine prevention, said a co-author of new guidelines released Monday.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/08/AdobeStock_1460280489-1024x576.jpeg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/08/31/migraine-prevention-medication-guidelines/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-31T23-27_5",
+        "rank": 5,
+        "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
+        "category": "ai",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/openai-human4a.jpg?resize=1200,600",
+        "source": "MIT Technology Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "editorial_2026-08-31",
     "scannedAt": "2026-08-31T06:58:25.079Z",
     "kind": "editorial_archive",
@@ -1962,26 +2023,6 @@
         "source": "NASA",
         "sourceUrl": "https://www.nasa.gov/image-article/artemis-iii-orion-crew-and-service-models-joined/",
         "fromX": false
-      }
-    ]
-  },
-  {
-    "batchId": "editorial_2026-08-04",
-    "scannedAt": "2026-08-05T03:26:34.131Z",
-    "kind": "editorial_archive",
-    "items": [
-      {
-        "id": "editorial_2026-08-04",
-        "rank": 0,
-        "title": "What authenticity claims, and what the standard still bars",
-        "category": "editorial",
-        "summary": "Convergence of measured distance and contested scale",
-        "image": "https://img.canarymedia.com/content/uploads/GettyImages-2212809333-2-copy.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=1a7aa3b2de4b12098fc955c3ceadca64",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-04.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-08-04",
-        "authorName": "Dr. Wallace Lynch"
       }
     ]
   }

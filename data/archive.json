@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-09-27T22-36",
+    "scannedAt": "2026-09-27T22:36:39.247Z",
+    "items": [
+      {
+        "id": "auto_2026-09-27T22-36_1",
+        "rank": 1,
+        "title": "Dario Amodei of Anthropic to Dine With Trump at White House",
+        "category": "general",
+        "summary": "Dario Amodei, who is also the company’s chief executive, will join the president at the White House for a private dinner. Mr. Trump has dismissed his cautions.",
+        "image": "https://static01.nyt.com/images/2026/09/27/multimedia/00dc-trump-anthropic-flht/00dc-trump-anthropic-flht-mediumSquareAt3X.jpg",
+        "source": "NYT Technology",
+        "sourceUrl": "https://www.nytimes.com/2026/09/27/us/politics/trump-amodei-anthropic-artificial-intelligence.html",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-27T22-36_2",
+        "rank": 2,
+        "title": "Flawed AI Summaries Distort Eyewitness Memory",
+        "category": "neuroscience",
+        "summary": "Misleading AI video summaries alter human memory and distort eyewitness accuracy from 84% down to 45%, Georgetown and UW study finds.",
+        "image": "https://neurosciencenews.com/files/2026/09/AI-false-memory-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/ai-false-memory-llm-31261/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-27T22-36_3",
+        "rank": 3,
+        "title": "The secret to growing food on Mars could be fungi",
+        "category": "space",
+        "summary": "Scientists think beneficial fungi could help transform nutrient-poor lunar and Martian regolith into a material capable of supporting crops. By helping plants access nutrients and withstand harsh conditions, these…",
+        "image": "https://www.sciencedaily.com/images/1920/nasa-mars-greenhouse.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260924020400.htm",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-27T22-36_4",
+        "rank": 4,
+        "title": "Trump administration uses rare authority to claw back nearly $1B in spending approved by Congress",
+        "category": "biotech",
+        "summary": "President Trump is canceling nearly $1 billion in spending approved by Congress, and most of the cuts are focused on HHS programs that serve refugees and unaccompanied minors.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/09/AP26262339870744-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/09/25/trump-administration-cancel-spending-hhs-programs/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-27T22-36_5",
+        "rank": 5,
+        "title": "Artistic Director, Theme Announced for Fifth Thailand Biennale",
+        "category": "art",
+        "summary": "The Thai Ministry of Culture has named jiradej-pornpilai meemalai: BAAN NOORG as the artistic director of the Fifth Thailand Biennale, ArtReview reports. Emily Chin-Jie Lee, Gesyada Siregar, and Tyuki Imamura will serve…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/09/0.-as-a-group_.png?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/news/artistic-director-named-for-fifth-thailand-biennale-1234759814/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "editorial_2026-09-26",
     "scannedAt": "2026-09-26T22:25:36.844Z",
     "kind": "editorial_archive",
@@ -16,67 +77,6 @@
         "isEditorialArchive": true,
         "publishDate": "2026-09-26",
         "authorName": "Dr. Wallace Lynch"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-09-27T19-20",
-    "scannedAt": "2026-09-27T19:20:22.539Z",
-    "items": [
-      {
-        "id": "auto_2026-09-27T19-20_1",
-        "rank": 1,
-        "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
-        "category": "general",
-        "summary": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the incident doesn't quite…",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2236154957.jpg?quality=90&strip=all&crop=0%2C10.736911387474%2C100%2C78.526177225052&w=1200",
-        "source": "The Verge",
-        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-27T19-20_2",
-        "rank": 2,
-        "title": "Mitochondria in the Brain’s Reward Hub Drive Nicotine Dependence",
-        "category": "neuroscience",
-        "summary": "UCF neuroscientists study how nicotine alters brain mitochondria in the nucleus accumbens to discover more effective addiction therapies.",
-        "image": "https://neurosciencenews.com/files/2026/09/nicotine-addiction-mitochondria-neurosceince-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/mitochondria-nicotine-addiciton-31260/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-27T19-20_3",
-        "rank": 3,
-        "title": "Two astronauts who flew farther than anyone before are taking new NASA roles",
-        "category": "space",
-        "summary": "Artemis II astronauts Victor Glover and Reid Wiseman are transitioning to emeritus status at NASA after their historic journey around the Moon earlier this year. The pair will continue advising and mentoring NASA teams…",
-        "image": "https://www.sciencedaily.com/images/1920/nasa-astronauts-victor-glover-and-reid-wiseman.webp",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260925005423.htm",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-27T19-20_4",
-        "rank": 4,
-        "title": "Bogotá's Artbo fair remains boutique and local—is that enough?",
-        "category": "art",
-        "summary": "Exhibitor numbers for the fair's 2026 edition are still down from pre-pandemic levels, and its collectors and galleries are largely from Colombia",
-        "image": "https://cdn.sanity.io/images/cxgd3urn/production/c531797e67529cdb64e5b8796bd43af36f5e9cee-1680x1476.png?w=140",
-        "source": "The Art Newspaper",
-        "sourceUrl": "https://www.theartnewspaper.com/2026/09/25/amid-a-crowded-fair-calendar-colombias-artbo-remains-boutique-and-local",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-27T19-20_5",
-        "rank": 5,
-        "title": "STAT+: Licensing deals on generic versions of Roche flu drug aimed at preparing for pandemic",
-        "category": "biotech",
-        "summary": "With an eye toward pandemic preparedness, a U.N.-backed agency has signed sub-licensing deals related to generic versions of a Roche influenza treatment.",
-        "image": "https://www.statnews.com/wp-content/uploads/2021/09/AP20088463242938-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/pharmalot/2026/09/25/roche-xofluza-influenza-treatment-agreements/?utm_campaign=rss",
-        "fromX": false
       }
     ]
   },
