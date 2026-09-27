@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-09-27T01-58",
-    "scannedAt": "2026-09-27T01:58:29.368Z",
+    "batchId": "auto_2026-09-27T09-33",
+    "scannedAt": "2026-09-27T09:33:22.021Z",
     "items": [
       {
-        "id": "auto_2026-09-27T01-58_1",
+        "id": "auto_2026-09-27T09-33_1",
         "rank": 1,
-        "title": "Decap is the man behind the drums behind your favorite song",
+        "title": "Nicotine Is Mounting a Comeback in the Wellness Movement",
         "category": "general",
-        "summary": "I don't think I'm going to hurt anyone's feelings by pointing out that Decap doesn't have the name recognition of Kendrick Lamar, Olivia Rodrigo, or Charli XCX. But his fingerprints are all over tracks from them, as…",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Elysian_palms_10.jpg?quality=90&strip=all&crop=0%2C11.031430666644%2C100%2C77.937138666712&w=1200",
-        "source": "The Verge",
-        "sourceUrl": "https://www.theverge.com/report/1000994/decap-drums-that-knock-interview",
+        "summary": "Improving mood and increasing longevity are just some of the unfounded claims about this substance circling around the “natural” medicine corners of the internet.",
+        "image": "https://media.wired.com/photos/6ab645044583e2d9f6520e5d/master/pass/GettyImages-2265426534.jpg",
+        "source": "WIRED",
+        "sourceUrl": "https://www.wired.com/story/nicotine-is-mounting-a-comeback-in-the-wellness-movement/",
         "fromX": false
       },
       {
-        "id": "auto_2026-09-27T01-58_2",
+        "id": "auto_2026-09-27T09-33_2",
         "rank": 2,
-        "title": "Mitochondria in the Brain’s Reward Hub Drive Nicotine Dependence",
-        "category": "neuroscience",
-        "summary": "UCF neuroscientists study how nicotine alters brain mitochondria in the nucleus accumbens to discover more effective addiction therapies.",
-        "image": "https://neurosciencenews.com/files/2026/09/nicotine-addiction-mitochondria-neurosceince-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/mitochondria-nicotine-addiciton-31260/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-27T01-58_3",
-        "rank": 3,
-        "title": "Two astronauts who flew farther than anyone before are taking new NASA roles",
+        "title": "The secret to growing food on Mars could be fungi",
         "category": "space",
-        "summary": "Artemis II astronauts Victor Glover and Reid Wiseman are transitioning to emeritus status at NASA after their historic journey around the Moon earlier this year. The pair will continue advising and mentoring NASA teams…",
-        "image": "https://www.sciencedaily.com/images/1920/nasa-astronauts-victor-glover-and-reid-wiseman.webp",
+        "summary": "Scientists think beneficial fungi could help transform nutrient-poor lunar and Martian regolith into a material capable of supporting crops. By helping plants access nutrients and withstand harsh conditions, these…",
+        "image": "https://www.sciencedaily.com/images/1920/nasa-mars-greenhouse.webp",
         "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260925005423.htm",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260924020400.htm",
         "fromX": false
       },
       {
-        "id": "auto_2026-09-27T01-58_4",
-        "rank": 4,
-        "title": "Trump administration uses rare authority to claw back nearly $1B in spending approved by Congress",
-        "category": "biotech",
-        "summary": "President Trump is canceling nearly $1 billion in spending approved by Congress, and most of the cuts are focused on HHS programs that serve refugees and unaccompanied minors.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/09/AP26262339870744-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/09/25/trump-administration-cancel-spending-hhs-programs/?utm_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-27T01-58_5",
-        "rank": 5,
-        "title": "Artistic Director, Theme Announced for Fifth Thailand Biennale",
+        "id": "auto_2026-09-27T09-33_3",
+        "rank": 3,
+        "title": "Bogotá's Artbo fair remains boutique and local—is that enough?",
         "category": "art",
-        "summary": "The Thai Ministry of Culture has named jiradej-pornpilai meemalai: BAAN NOORG as the artistic director of the Fifth Thailand Biennale, ArtReview reports. Emily Chin-Jie Lee, Gesyada Siregar, and Tyuki Imamura will serve…",
-        "image": "https://www.artforum.com/wp-content/uploads/2026/09/0.-as-a-group_.png?w=650",
-        "source": "Artforum",
-        "sourceUrl": "https://www.artforum.com/news/artistic-director-named-for-fifth-thailand-biennale-1234759814/",
+        "summary": "Exhibitor numbers for the fair's 2026 edition are still down from pre-pandemic levels, and its collectors and galleries are largely from Colombia",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/c531797e67529cdb64e5b8796bd43af36f5e9cee-1680x1476.png?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/09/25/amid-a-crowded-fair-calendar-colombias-artbo-remains-boutique-and-local",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-27T09-33_4",
+        "rank": 4,
+        "title": "Firsthand Experience Dictates Social Judgment",
+        "category": "neuroscience",
+        "summary": "A new study reveals personal experience overrides public reputation when judging uncooperative behavior, altering indirect reciprocity rules.",
+        "image": "https://neurosciencenews.com/files/2026/09/personal-experience-public-reputaiton-psychology-neuroscienec-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/firsthand-experience-dictates-social-judgment/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-27T09-33_5",
+        "rank": 5,
+        "title": "STAT+: Licensing deals on generic versions of Roche flu drug aimed at preparing for pandemic",
+        "category": "biotech",
+        "summary": "With an eye toward pandemic preparedness, a U.N.-backed agency has signed sub-licensing deals related to generic versions of a Roche influenza treatment.",
+        "image": "https://www.statnews.com/wp-content/uploads/2021/09/AP20088463242938-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/pharmalot/2026/09/25/roche-xofluza-influenza-treatment-agreements/?utm_campaign=rss",
         "fromX": false
       }
     ]
