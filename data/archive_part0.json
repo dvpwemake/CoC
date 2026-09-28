@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-09-28T18-47",
-    "scannedAt": "2026-09-28T18:47:41.161Z",
+    "batchId": "auto_2026-09-28T23-59",
+    "scannedAt": "2026-09-28T23:59:23.280Z",
     "items": [
       {
-        "id": "auto_2026-09-28T18-47_1",
+        "id": "auto_2026-09-28T23-59_1",
         "rank": 1,
-        "title": "OpenAI’s AI agents need to catch up",
+        "title": "Boeing \"incredibly excited\" to serve as nation's only astronaut transportation",
         "category": "general",
-        "summary": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents. On Tuesday,…",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP221_GREG_BROCKMAN2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
+        "summary": "\"We couldn't provide detailed pricing to the CLD suppliers.\"",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/starliner_thrusters1-1152x648.jpg",
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/space/2026/09/boeing-incredibly-excited-to-serve-as-nations-only-astronaut-transportation/",
         "fromX": false
       },
       {
-        "id": "auto_2026-09-28T18-47_2",
+        "id": "auto_2026-09-28T23-59_2",
         "rank": 2,
-        "title": "Daily Cannabis Might Make Epilepsy Worse",
-        "category": "neuroscience",
-        "summary": "Near-daily cannabis use is linked to twice as many convulsive seizures and faster drug resistance in adults with severe epilepsy.",
-        "image": "https://neurosciencenews.com/files/2026/09/Can-Cannabis-Worsen-Epilepsy-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/daily-cannabis-epilepsy-worse-31268/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-28T18-47_3",
-        "rank": 3,
-        "title": "Trump’s Greenland threats become playable arcade game in satiric collective’s latest public art intervention",
-        "category": "art",
-        "summary": "The collective Secret Handshake has installed playable arcade rigs featuring its game “Operation Epic Furious: Nuuk ‘Em All” in Washington, DC, and Nuuk, Greenland",
-        "image": "https://cdn.sanity.io/images/cxgd3urn/production/5258da13f156485f620880ba485f742644535786-2000x1500.jpg?w=140",
-        "source": "The Art Newspaper",
-        "sourceUrl": "https://www.theartnewspaper.com/2026/09/28/secret-handshake-trump-greenland-threats-arcade-game-washington-dc",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-28T18-47_4",
-        "rank": 4,
-        "title": "Trump administration asks Supreme Court to allow transgender medical care restrictions in prison",
-        "category": "biotech",
-        "summary": "The Trump administration asked the Supreme Court on Monday to let it enforce, for now, restrictions on gender-affirming care in federal prison.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/09/AP26268588366845-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/09/28/trump-administration-supreme-court-transgender-medical-care-restrictions-prison/?utm_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-28T18-47_5",
-        "rank": 5,
-        "title": "When can we say AI made a scientific discovery?",
+        "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
         "category": "ai",
-        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/science-ai-gene3.jpg?resize=1200,600",
+        "summary": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/MITTR-Roundtables-Zoom-Opening-Overlay.png?resize=1200,600",
         "source": "MIT Technology Review",
-        "sourceUrl": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
+        "sourceUrl": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-28T23-59_3",
+        "rank": 3,
+        "title": "Mystery Buyer of $9 Million Misattributed Rembrandt Unmasked",
+        "category": "art",
+        "summary": "The buyer of a formerly misattributed Rembrandt that hammered for $9 million at a Sotheby’s London sale in December 2025 has been revealed to be the world’s largest collector of the artist, the Art Newspaper reports.…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/09/RR-129_publication-1-1.jpeg?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/news/mystery-buyer-of-9-million-rembrandt-unmasked-1234760090/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-28T23-59_4",
+        "rank": 4,
+        "title": "A Day in the Life of a Roboticist: Charlie Kemp",
+        "category": "robotics",
+        "summary": "Building useful robots starts with understanding the people who use them. For Charlie Kemp, cofounder and chief technology officer of Hello Robot, that means developing assistive robots that can help people with…",
+        "image": "https://spectrum.ieee.org/media-library/man-standing-beside-a-tall-wheeled-robot-smiling-and-waving-at-the-camera.jpg?id=67880303&width=980",
+        "source": "IEEE Spectrum",
+        "sourceUrl": "https://robotsguide.com/learn/a-day-in-the-life-of-a-roboticist-charlie-kemp",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-28T23-59_5",
+        "rank": 5,
+        "title": "Risk from toxic metals can persist months after wildfires, Maui study finds",
+        "category": "biotech",
+        "summary": "Post-wildfire air quality needs to be monitored long term, suggests a study finding Maui residents had high levels of toxic metals months later.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/09/AP26271524443890-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/09/28/hawaii-wildfire-air-quality-risk-study/?utm_campaign=rss",
         "fromX": false
       }
     ]
