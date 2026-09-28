@@ -1,5 +1,25 @@
 [
   {
+    "batchId": "editorial_2026-09-01",
+    "scannedAt": "2026-09-01T04:05:06.337Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-09-01",
+        "rank": 0,
+        "title": "Not this spring",
+        "category": "editorial",
+        "summary": "The Costume Institute show is off. On Vinalhaven, a painter's lodge is for sale.",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/DragonRed.Supersports-6-1152x648.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-09-01.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-09-01",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-08-31T23-27",
     "scannedAt": "2026-08-31T23:27:05.672Z",
     "items": [
@@ -1961,67 +1981,6 @@
         "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/siemens-sarla-aviation-1.jpg",
         "source": "Robotics & Automation News",
         "sourceUrl": "https://roboticsandautomationnews.com/2026/08/06/sarla-aviation-adopts-siemens-xcelerator-to-accelerate-evtol-aircraft-development/103956/",
-        "fromX": false
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-08-05T20-52",
-    "scannedAt": "2026-08-05T20:52:25.430Z",
-    "items": [
-      {
-        "id": "auto_2026-08-05T20-52_1",
-        "rank": 1,
-        "title": "Takeda’s narcolepsy drug approved by the FDA, a boon for new class of treatments",
-        "category": "biotech",
-        "summary": "The FDA approved a novel type of treatment for narcolepsy made by Takeda, backing a new drug class that scientists hope can be used to treat other conditions.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/08/AdobeStock_729644280_Editorial_Use_Only-1024x576.jpeg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/08/05/takeda-narcolepsy-drug-fda-approval-orzeyful/?utm_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-05T20-52_2",
-        "rank": 2,
-        "title": "Unlocking Hidden Brain Cancer Vaccine Targets",
-        "category": "neuroscience",
-        "summary": "A new study uses single-cell long-read sequencing to map hidden genetic isoforms in glioblastoma, unlocking novel targets for personalized cancer vaccines.",
-        "image": "https://neurosciencenews.com/files/2026/08/glioblastoma-targets-genetics-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/genetics-brain-cancer-vaccine-targets-31185/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-05T20-52_3",
-        "rank": 3,
-        "title": "How to Tell if Your Neighborhood Still Fits Your Life",
-        "category": "robotics",
-        "summary": "Staying in a home you love feels like the obvious move when your mortgage rate is well below today's market. But a house doesn't exist in isolation – the neighborhood around it shapes daily life just as much as the…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/rocket-mortgage-1.jpg",
-        "source": "Robotics & Automation News",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/05/how-to-tell-if-your-neighborhood-still-fits-your-life/103929/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-05T20-52_4",
-        "rank": 4,
-        "title": "Monumental Painted Wood Carvings by Jiang Miao Center Mindfulness",
-        "category": "art",
-        "summary": "Whitestone Gallery in Seoul presents the artist's solo exhibition, 'Spiral of Energy.' Do stories and artists like this matter to you? Become a Colossal Member today and support independent arts publishing for as little…",
-        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/08/miao-1.jpg",
-        "source": "Colossal",
-        "sourceUrl": "https://www.thisiscolossal.com/2026/08/jiang-miao-spiral-of-energy-exhibition-wood-carvings-acrylic-paintings/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-05T20-52_5",
-        "rank": 5,
-        "title": "Artemis III Orion Crew and Service Models Joined",
-        "category": "space",
-        "summary": "Technicians joined the Orion crew and service modules together on July 30, 2026, inside the Neil Armstrong Operations and Checkout Building at NASA's Kennedy Space Center in Florida. The crew module will carry and…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/08/ksc-20260730-ph-as01-6583.webp",
-        "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/image-article/artemis-iii-orion-crew-and-service-models-joined/",
         "fromX": false
       }
     ]

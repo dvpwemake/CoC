@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-08-05T20-52",
+    "scannedAt": "2026-08-05T20:52:25.430Z",
+    "items": [
+      {
+        "id": "auto_2026-08-05T20-52_1",
+        "rank": 1,
+        "title": "Takeda’s narcolepsy drug approved by the FDA, a boon for new class of treatments",
+        "category": "biotech",
+        "summary": "The FDA approved a novel type of treatment for narcolepsy made by Takeda, backing a new drug class that scientists hope can be used to treat other conditions.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/08/AdobeStock_729644280_Editorial_Use_Only-1024x576.jpeg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/08/05/takeda-narcolepsy-drug-fda-approval-orzeyful/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-05T20-52_2",
+        "rank": 2,
+        "title": "Unlocking Hidden Brain Cancer Vaccine Targets",
+        "category": "neuroscience",
+        "summary": "A new study uses single-cell long-read sequencing to map hidden genetic isoforms in glioblastoma, unlocking novel targets for personalized cancer vaccines.",
+        "image": "https://neurosciencenews.com/files/2026/08/glioblastoma-targets-genetics-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/genetics-brain-cancer-vaccine-targets-31185/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-05T20-52_3",
+        "rank": 3,
+        "title": "How to Tell if Your Neighborhood Still Fits Your Life",
+        "category": "robotics",
+        "summary": "Staying in a home you love feels like the obvious move when your mortgage rate is well below today's market. But a house doesn't exist in isolation – the neighborhood around it shapes daily life just as much as the…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/rocket-mortgage-1.jpg",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/05/how-to-tell-if-your-neighborhood-still-fits-your-life/103929/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-05T20-52_4",
+        "rank": 4,
+        "title": "Monumental Painted Wood Carvings by Jiang Miao Center Mindfulness",
+        "category": "art",
+        "summary": "Whitestone Gallery in Seoul presents the artist's solo exhibition, 'Spiral of Energy.' Do stories and artists like this matter to you? Become a Colossal Member today and support independent arts publishing for as little…",
+        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/08/miao-1.jpg",
+        "source": "Colossal",
+        "sourceUrl": "https://www.thisiscolossal.com/2026/08/jiang-miao-spiral-of-energy-exhibition-wood-carvings-acrylic-paintings/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-05T20-52_5",
+        "rank": 5,
+        "title": "Artemis III Orion Crew and Service Models Joined",
+        "category": "space",
+        "summary": "Technicians joined the Orion crew and service modules together on July 30, 2026, inside the Neil Armstrong Operations and Checkout Building at NASA's Kennedy Space Center in Florida. The crew module will carry and…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/08/ksc-20260730-ph-as01-6583.webp",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/image-article/artemis-iii-orion-crew-and-service-models-joined/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "editorial_2026-08-04",
     "scannedAt": "2026-08-05T03:26:34.131Z",
     "kind": "editorial_archive",
@@ -2010,67 +2071,6 @@
         "image": "",
         "source": "Nature Neuroscience",
         "sourceUrl": "https://www.nature.com/articles/s41593-026-02370-5"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-07-06T21-16",
-    "scannedAt": "2026-07-06T21:16:53.423Z",
-    "items": [
-      {
-        "id": "auto_2026-07-06T21-16_1",
-        "rank": 1,
-        "title": "STAT+: Vertex acquires Crinetics Pharmaceuticals for $10 billion as biotech M&#038;A booms",
-        "category": "biotech",
-        "summary": "Vertex Pharmaceuticals will spend $10 billion to acquire Crinetics Pharmaceuticals and its drug for a rare endocrine disorder, the companies announced.",
-        "image": "https://www.statnews.com/wp-content/uploads/2024/07/AP20023802262338-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/07/06/vertex-acquires-crinetics-pharmaceuticals/?utm_campaign=rss",
-        "imageProxy": "https://images.weserv.nl/?url=www.statnews.com%2Fwp-content%2Fuploads%2F2024%2F07%2FAP20023802262338-1024x576.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-06T21-16_2",
-        "rank": 2,
-        "title": "Mediterranean Diet Boosts Psychological Well-Being Over Age 50",
-        "category": "neuroscience",
-        "summary": "A new study demonstrates that adherence to a Mediterranean diet significantly boosts positive psychological well-being (autonomy, purpose, and self-realization) in people over 50. The research proved this protective…",
-        "image": "https://neurosciencenews.com/files/2026/07/med-diet-wellbeing-aging-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/mediterranean-diet-psychological-well-being-31003/",
-        "imageProxy": "https://images.weserv.nl/?url=neurosciencenews.com%2Ffiles%2F2026%2F07%2Fmed-diet-wellbeing-aging-neuroscience-1155x770.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-06T21-16_3",
-        "rank": 3,
-        "title": "NASA Takes Flight For America's 250th",
-        "category": "space",
-        "summary": "NASA Administrator Jared Isaacman leads a flyover featuring his personally owned Northrop F-5 Tiger during the Great American State Fair on July 4, 2026, on the National Mall in Washington, D.C. For 250 years, America…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/07/55374566234-d7c31b6e97-o.jpg",
-        "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/image-article/nasa-takes-flight-for-americas-250th/",
-        "imageProxy": "https://images.weserv.nl/?url=www.nasa.gov%2Fwp-content%2Fuploads%2F2026%2F07%2F55374566234-d7c31b6e97-o.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-06T21-16_4",
-        "rank": 4,
-        "title": "Your family's $300 stake in OpenAI",
-        "category": "ai",
-        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/openai-money.jpg?resize=1200,600",
-        "source": "MIT Technology Review",
-        "sourceUrl": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
-        "imageProxy": "https://images.weserv.nl/?url=wp.technologyreview.com%2Fwp-content%2Fuploads%2F2026%2F07%2Fopenai-money.jpg%3Fresize%3D1200%2C600&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-06T21-16_5",
-        "rank": 5,
-        "title": "Duke Energy proposes special rules for data centers in North Carolina",
-        "category": "energy",
-        "summary": "For months, clean energy and consumer advocates in North Carolina have pressed Duke Energy to follow the national trend and create special rules and prices for data centers. The state’s predominant utility insisted such…",
-        "image": "https://img.canarymedia.com/content/uploads/GettyImages-1235716373-copy.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=e38c5f8952dedbee4f8ce130af32bf5e",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/data-centers/duke-energy-proposes-special-rules-for-data-centers-in-north-carolina",
-        "imageProxy": "https://images.weserv.nl/?url=img.canarymedia.com%2Fcontent%2Fuploads%2FGettyImages-1235716373-copy.jpeg%3Fauto%3Dcompress%252Cformat%26crop%3Dfocalpoint%26fit%3Dcrop%26fp-x%3D0.5%26fp-y%3D0.5%26h%3D630%26q%3D82%26w%3D1200%26s%3De38c5f8952dedbee4f8ce130af32bf5e&w=640&h=400&fit=cover&we&output=jpg"
       }
     ]
   }
