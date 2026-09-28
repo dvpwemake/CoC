@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-09-28T02-04",
-    "scannedAt": "2026-09-28T02:04:45.177Z",
+    "batchId": "auto_2026-09-28T10-12",
+    "scannedAt": "2026-09-28T10:12:06.098Z",
     "items": [
       {
-        "id": "auto_2026-09-28T02-04_1",
+        "id": "auto_2026-09-28T10-12_1",
         "rank": 1,
-        "title": "Fourth Toronto Biennial of Art brings more than 30 artists and collectives together around the theme of rupture",
-        "category": "art",
-        "summary": "Titled “Things Fall Apart” and curated by Allison Glenn, the biennial unfolds across and beyond the city, on Lake Ontario and, thanks to a new partnership programme, in a half-dozen other cities",
-        "image": "https://cdn.sanity.io/images/cxgd3urn/production/8d64158811fe01f11bdcb34bc036c3899cabc838-2000x1088.jpg?w=140",
-        "source": "The Art Newspaper",
-        "sourceUrl": "https://www.theartnewspaper.com/2026/09/27/toronto-biennial-art-fourth-edition-allison-glenn-things-fall-apart-preview",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-28T02-04_2",
-        "rank": 2,
-        "title": "Out of the Park Baseball lets me enjoy baseball even when the Mets suck",
+        "title": "AI Agents Are About to Flood the Workforce. No One’s Ready for It",
         "category": "general",
-        "summary": "If you were to ask me what game or game series I've sunk the most time into, the answer would be easy: Out of the Park Baseball (OOTP). I have spent roughly 2,300 hours, according to Steam, playing various editions of…",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/capsule_616x353.jpg?quality=90&strip=all&crop=0,4.3182593477003,100,91.363481304599",
-        "source": "The Verge",
-        "sourceUrl": "https://www.theverge.com/games/1001206/out-of-the-park-baseball-cozy-sim-video-game-review",
+        "summary": "Your next coworker might well be an AI agent—and will require a whole new model of workplace interactions.",
+        "image": "https://media.wired.com/photos/6ab67a543b15d40264a17301/master/pass/092526-AI%20Coworker.jpg",
+        "source": "WIRED",
+        "sourceUrl": "https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/",
         "fromX": false
       },
       {
-        "id": "auto_2026-09-28T02-04_3",
-        "rank": 3,
-        "title": "Glucosamine, a popular joint supplement, linked to faster Alzheimer’s progression",
-        "category": "neuroscience",
-        "summary": "A large health-record analysis found that glucosamine use was associated with a 25% higher likelihood of mild cognitive impairment progressing to dementia. Lab experiments suggest the popular joint supplement may…",
-        "image": "https://www.sciencedaily.com/images/1920/senior-woman-taking-vitamin-supplement-medication-pill.webp",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260927033754.htm",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-28T02-04_4",
-        "rank": 4,
-        "title": "Two astronauts who flew farther than anyone before are taking new NASA roles",
-        "category": "space",
-        "summary": "Artemis II astronauts Victor Glover and Reid Wiseman are transitioning to emeritus status at NASA after their historic journey around the Moon earlier this year. The pair will continue advising and mentoring NASA teams…",
-        "image": "https://www.sciencedaily.com/images/1920/nasa-astronauts-victor-glover-and-reid-wiseman.webp",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260925005423.htm",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-28T02-04_5",
-        "rank": 5,
-        "title": "STAT+: Licensing deals on generic versions of Roche flu drug aimed at preparing for pandemic",
+        "id": "auto_2026-09-28T10-12_2",
+        "rank": 2,
+        "title": "STAT+: Once described as obesity medicines for ‘patients,' GLP-1s are increasingly lifestyle drugs for ‘customers'",
         "category": "biotech",
-        "summary": "With an eye toward pandemic preparedness, a U.N.-backed agency has signed sub-licensing deals related to generic versions of a Roche influenza treatment.",
-        "image": "https://www.statnews.com/wp-content/uploads/2021/09/AP20088463242938-1024x576.jpg",
+        "summary": "Blockbuster GLP-1 drugs have transformed the lives of millions of people. Lately, they’re undergoing a makeover of their own.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/09/stat_8_24-1024x576.jpg",
         "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/pharmalot/2026/09/25/roche-xofluza-influenza-treatment-agreements/?utm_campaign=rss",
+        "sourceUrl": "https://www.statnews.com/2026/09/28/glp1-marketing-shift-obesity-medicine-weight-loss-drug/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-28T10-12_3",
+        "rank": 3,
+        "title": "Who’s liable when AI agents go rogue?",
+        "category": "ai",
+        "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few months, a cascade of…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260915_AIagentsGoingRogue.jpg?resize=1200,600",
+        "source": "MIT Technology Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-28T10-12_4",
+        "rank": 4,
+        "title": "Massachusetts startup floats a versatile new solar boat",
+        "category": "energy",
+        "summary": "The TruSolar20, all straight lines and right angles, was not the sleekest vessel on the Charles River when I visited at the end of August. Once I climbed aboard with inventor James Worden and we pulled away from the…",
+        "image": "https://img.canarymedia.com/content/uploads/TruSolar20.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=2964afbe007a4930088d0b39e6605c21",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/sea-transport/massachusetts-startup-solar-boat",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-28T10-12_5",
+        "rank": 5,
+        "title": "Uncovering the Valleys Hidden Below Greenland’s Ice",
+        "category": "space",
+        "summary": "A new map of the terrain beneath the Greenland Ice Sheet links hundreds of valleys that previous maps missed or left fragmented.",
+        "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/uncovering-the-valleys-hidden-below-greenland’s-ice/greenlandvalleynet_ifpa_2026_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "source": "NASA",
+        "sourceUrl": "https://science.nasa.gov/earth/earth-observatory/uncovering-the-valleys-hidden-below-greenlands-ice/",
         "fromX": false
       }
     ]
