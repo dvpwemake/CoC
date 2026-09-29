@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-09-29T04-15",
+    "scannedAt": "2026-09-29T04:15:42.508Z",
+    "items": [
+      {
+        "id": "auto_2026-09-29T04-15_1",
+        "rank": 1,
+        "title": "OpenAI scraps rollout of new model over safety concerns",
+        "category": "general",
+        "summary": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d46e/live/100af420-bba4-11f1-b5d5-0be7b4d3c75d.jpg",
+        "source": "BBC Technology",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-29T04-15_2",
+        "rank": 2,
+        "title": "Whitney Union Times Strike Date Ahead of Major Lichtenstein Retrospective",
+        "category": "art",
+        "summary": "Unionized workers at the Whitney Museum of American Art in New York will carry out a strike action on October 5 if they do not receive a fair contract offer, Local 2110 announced today. The date is perilously close to…",
+        "image": "https://www.artforum.com/wp-content/uploads/2025/12/GettyImages-2247841407.jpg?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/news/whitney-union-strike-date-ahead-of-lichtenstein-show-1234760108/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-29T04-15_3",
+        "rank": 3,
+        "title": "Will New York's 1GW storage contracts finally break the state's big battery impasse?",
+        "category": "energy",
+        "summary": "New York set an ambitious goal to eliminate fossil-fueled electricity by 2040. Doing so will almost certainly require widespread adoption of batteries to store renewable generation and make it available on demand,…",
+        "image": "https://img.canarymedia.com/content/uploads/Patchogue-2-battery-storage-Long-Island_GettyImages-2295426275_2026-09-28-214712_sdln.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=8a0c6741ef58bbb4013ffe816d1589b1",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/batteries/new-york-torage-contracts-big-battery",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-29T04-15_4",
+        "rank": 4,
+        "title": "STAT+: Merck discontinues a crucial antibiotic despite concerns over superbug resistance",
+        "category": "biotech",
+        "summary": "Merck discontinued Recarbio, an important antibiotic in the U.S., despite concerns over resistance to superbugs.",
+        "image": "https://www.statnews.com/wp-content/uploads/2017/01/14342-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/pharmalot/2026/09/28/merck-discontinues-antibiotic-recarbrio-in-u-s-despite-superbug-concerns/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-29T04-15_5",
+        "rank": 5,
+        "title": "Neurodevelopmental Syndrome Linked to Partial Loss of BRSK1",
+        "category": "neuroscience",
+        "summary": "AI and fruit fly studies identify BRSK1 gene mutations as the cause of a rare neurodevelopmental disorder marked by speech delay and microcephaly.",
+        "image": "https://neurosciencenews.com/files/2026/09/brsk1-neurodevelopment-genetics-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/neurodevelopmental-brsk1-genetics-31269/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-09-28T23-59",
     "scannedAt": "2026-09-28T23:59:23.280Z",
     "items": [
@@ -118,6 +179,26 @@
         "source": "Artforum",
         "sourceUrl": "https://www.artforum.com/news/artistic-director-named-for-fifth-thailand-biennale-1234759814/",
         "fromX": false
+      }
+    ]
+  },
+  {
+    "batchId": "editorial_2026-09-27",
+    "scannedAt": "2026-09-27T21:33:05.143Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-09-27",
+        "rank": 0,
+        "title": "Scaling the Periphery",
+        "category": "editorial",
+        "summary": "The growing friction between aggressive scale and deliberate restraint.",
+        "image": "https://neurosciencenews.com/files/2026/09/nicotine-addiction-mitochondria-neurosceince-1155x770.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-09-27.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-09-27",
+        "authorName": "Dr. Wallace Lynch"
       }
     ]
   },
@@ -2002,67 +2083,6 @@
         "image": "https://artsy-media-uploads.s3.amazonaws.com/9gmGmC47aprNdzmvJIXhmw%2F2_Kiaf+SEOUL+2025.+Courtesy+of+Galleries+Association+of+Korea+%E2%93%92+Creative+Resource.jpg",
         "source": "Artsy",
         "sourceUrl": "https://www.artsy.net/article/artsy-editorial-5-best-booths-kiaf-seoul-2026",
-        "fromX": false
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-09-01T22-07",
-    "scannedAt": "2026-09-01T22:07:35.422Z",
-    "items": [
-      {
-        "id": "auto_2026-09-01T22-07_1",
-        "rank": 1,
-        "title": "Map Apps Are Handling Trump’s Renaming of Lake Ontario to Lake America Differently",
-        "category": "general",
-        "summary": "Navigation companies face a new dilemma after President Trump ordered Lake Ontario to be renamed Lake America.",
-        "image": "https://static01.nyt.com/images/2026/09/01/multimedia/01xp-lake-ontario-01-cmhb/01xp-lake-ontario-01-cmhb-mediumSquareAt3X.jpg",
-        "source": "NYT Technology",
-        "sourceUrl": "https://www.nytimes.com/2026/09/01/us/lake-ontario-america-name-apple-maps-mapquest.html",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-01T22-07_2",
-        "rank": 2,
-        "title": "The US built more grid batteries last quarter than ever before",
-        "category": "energy",
-        "summary": "There’s never been a better time to build energy storage in the U.S. than right now. Grid batteries — which sop up power when it’s abundant and discharge that energy when it’s needed — have been ascendant for a decade,…",
-        "image": "https://img.canarymedia.com/content/uploads/Pastoria-CA-battery-energy-storage-system_GettyImages-2271289830.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=d0eff0dc504391e03ac73243be774129",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/batteries/us-built-more-grid-batteries",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-01T22-07_3",
-        "rank": 3,
-        "title": "Institute of Contemporary Art, San Diego faces financial and leadership crisis",
-        "category": "art",
-        "summary": "After the museum laid off almost half its staff over the summer, its main campus was shut down and employees are calling for the removal of its director",
-        "image": "https://cdn.sanity.io/images/cxgd3urn/production/24c6ac009926457d21d6c18e4e84d3d1f1e854aa-1080x900.jpg?w=140",
-        "source": "The Art Newspaper",
-        "sourceUrl": "https://www.theartnewspaper.com/2026/09/01/institute-contemporary-art-san-diego-financial-leadership-crisis-layoffs",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-01T22-07_4",
-        "rank": 4,
-        "title": "NASA Selects Blue Origin as Mars Telecommunications Network Provider",
-        "category": "space",
-        "summary": "NASA awarded Blue Origin a contract Tuesday to develop the agency’s Mars Telecommunications Network, a next-generation communications system that will enable reliable, high-bandwidth communications and navigation…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
-        "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/news-release/nasa-selects-blue-origin-as-mars-telecommunications-network-provider/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-01T22-07_5",
-        "rank": 5,
-        "title": "Opinion: I’m a reproductive psychiatrist. The Lindsay Clancy trial will cause terrible damage to my field",
-        "category": "biotech",
-        "summary": "“The whole of my field has been flattened into a single lazy question: Did the health care system fail her?” writes Jennifer Okwerekwu.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/08/AP26231616995533-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/09/01/lindsay-clancy-trial-verdict-postpartum-psychosis-psychiatry/?utm_campaign=rss",
         "fromX": false
       }
     ]
