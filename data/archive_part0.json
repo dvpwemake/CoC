@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-09-29T04-15",
-    "scannedAt": "2026-09-29T04:15:42.508Z",
+    "batchId": "auto_2026-09-29T14-23",
+    "scannedAt": "2026-09-29T14:23:06.682Z",
     "items": [
       {
-        "id": "auto_2026-09-29T04-15_1",
+        "id": "auto_2026-09-29T14-23_1",
         "rank": 1,
-        "title": "OpenAI scraps rollout of new model over safety concerns",
+        "title": "Leaked images reveal new colors for Amazon’s next entry-level Kindle",
         "category": "general",
-        "summary": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d46e/live/100af420-bba4-11f1-b5d5-0be7b4d3c75d.jpg",
-        "source": "BBC Technology",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+        "summary": "Amazon typically introduces new Kindle models a few months ahead of the holiday shopping season and this year it looks like that will include a bigger update to the entry-level Kindle than what debuted in 2024. The last…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/kindle1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "sourceUrl": "https://www.theverge.com/tech/1001905/amazon-leak-basic-entry-level-kindle-colors-design-power-button",
         "fromX": false
       },
       {
-        "id": "auto_2026-09-29T04-15_2",
+        "id": "auto_2026-09-29T14-23_2",
         "rank": 2,
-        "title": "Whitney Union Times Strike Date Ahead of Major Lichtenstein Retrospective",
-        "category": "art",
-        "summary": "Unionized workers at the Whitney Museum of American Art in New York will carry out a strike action on October 5 if they do not receive a fair contract offer, Local 2110 announced today. The date is perilously close to…",
-        "image": "https://www.artforum.com/wp-content/uploads/2025/12/GettyImages-2247841407.jpg?w=650",
-        "source": "Artforum",
-        "sourceUrl": "https://www.artforum.com/news/whitney-union-strike-date-ahead-of-lichtenstein-show-1234760108/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-29T04-15_3",
-        "rank": 3,
-        "title": "Will New York's 1GW storage contracts finally break the state's big battery impasse?",
-        "category": "energy",
-        "summary": "New York set an ambitious goal to eliminate fossil-fueled electricity by 2040. Doing so will almost certainly require widespread adoption of batteries to store renewable generation and make it available on demand,…",
-        "image": "https://img.canarymedia.com/content/uploads/Patchogue-2-battery-storage-Long-Island_GettyImages-2295426275_2026-09-28-214712_sdln.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=8a0c6741ef58bbb4013ffe816d1589b1",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/batteries/new-york-torage-contracts-big-battery",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-29T04-15_4",
-        "rank": 4,
-        "title": "STAT+: Merck discontinues a crucial antibiotic despite concerns over superbug resistance",
+        "title": "STAT+: AstraZeneca invests $2 billion in Summit Therapeutics",
         "category": "biotech",
-        "summary": "Merck discontinued Recarbio, an important antibiotic in the U.S., despite concerns over resistance to superbugs.",
-        "image": "https://www.statnews.com/wp-content/uploads/2017/01/14342-1024x576.jpg",
+        "summary": "AstraZeneca is teaming up with Summit Therapeutics to test its PD-1/VEGF bispecific ivonescimab alongside AstraZeneca’s antibody-drug conjugates.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/06/GettyImages-2237096018-1024x576.jpg",
         "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/pharmalot/2026/09/28/merck-discontinues-antibiotic-recarbrio-in-u-s-despite-superbug-concerns/?utm_campaign=rss",
+        "sourceUrl": "https://www.statnews.com/2026/09/29/biotech-news-astrazeneca-invests-2-billion-in-summit-therapeautics/?utm_campaign=rss",
         "fromX": false
       },
       {
-        "id": "auto_2026-09-29T04-15_5",
+        "id": "auto_2026-09-29T14-23_3",
+        "rank": 3,
+        "title": "Art and copyright: How I learned to stop worrying and tolerate AI",
+        "category": "art",
+        "summary": "Visual artists may have less to fear from AI than other creatives, but licensing agreements do point the way ahead",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/75a5e3e6d8d32a7fcadbd4b8fd6c40b162e53907-5669x3780.jpg?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/09/29/art-and-copyright-how-i-learned-to-stop-worrying-and-tolerate-ai",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-29T14-23_4",
+        "rank": 4,
+        "title": "If AI cannot be trusted in a classroom, why should it be trusted in orbit?",
+        "category": "space",
+        "summary": "On September 9, 2026, Evan Hubinger, Anthropic's alignment science lead, said on social media that he personally believed there was a greater than 10% chance that artificial intelligence could kill […] The post If AI…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/09/Screenshot-2026-09-28-081521.png?fit=1024%2C576&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/if-ai-cannot-be-trusted-in-a-classroom-why-should-it-be-trusted-in-orbit/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-29T14-23_5",
         "rank": 5,
-        "title": "Neurodevelopmental Syndrome Linked to Partial Loss of BRSK1",
-        "category": "neuroscience",
-        "summary": "AI and fruit fly studies identify BRSK1 gene mutations as the cause of a rare neurodevelopmental disorder marked by speech delay and microcephaly.",
-        "image": "https://neurosciencenews.com/files/2026/09/brsk1-neurodevelopment-genetics-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/neurodevelopmental-brsk1-genetics-31269/",
+        "title": "This suitcase-sized spacecraft could hear the universe before stars existed",
+        "category": "energy",
+        "summary": "CosmoCube will use the far side of the Moon as a shield from Earth’s radio noise to search for a faint signal from the universe before the first stars existed. The suitcase-sized satellite could reveal how the cosmic…",
+        "image": "https://www.sciencedaily.com/images/1920/cosmocube-satellite.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260927225034.htm",
         "fromX": false
       }
     ]
