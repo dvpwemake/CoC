@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-09-30T17-02",
-    "scannedAt": "2026-09-30T17:02:09.812Z",
+    "batchId": "auto_2026-09-30T23-14",
+    "scannedAt": "2026-09-30T23:14:17.048Z",
     "items": [
       {
-        "id": "auto_2026-09-30T17-02_1",
+        "id": "auto_2026-09-30T23-14_1",
         "rank": 1,
-        "title": "This blog could help you poop better",
+        "title": "Tiny image sparks big backlash in Nikon photo contest",
         "category": "general",
-        "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. \"I…",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23891834/VRG_Illo_K_Radtke_226084_Poop_Emoji.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "sourceUrl": "https://www.theverge.com/column/1002625/optimizer-fibermaxxing-wellness-health",
+        "summary": "Dr Ning Xu denies he broke the rules of Nikon's annual Small World In Motion contest.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96e1/live/ce7836b0-bcea-11f1-8ce2-417f8f7cb095.jpg",
+        "source": "BBC Technology",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck4gjn1yzprno?at_medium=RSS&at_campaign=rss",
         "fromX": false
       },
       {
-        "id": "auto_2026-09-30T17-02_2",
+        "id": "auto_2026-09-30T23-14_2",
         "rank": 2,
-        "title": "Speech Patterns During Memory Tests Forecast Mental Decline",
-        "category": "neuroscience",
-        "summary": "A new study uses NLP to analyze speech patterns during memory tests, predicting cognitive decline up to 7 years in advance.",
-        "image": "https://neurosciencenews.com/files/2026/09/How-You-Speak-Can-Predict-Cognitive-Decline-7-Years-Early-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/speech-patterns-memory-cognitive-decline-31272/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-30T17-02_3",
-        "rank": 3,
-        "title": "Palace Intrigue: Rebecca Perry’s New Novel of Historical Simulacra",
-        "category": "art",
-        "summary": "In May We Feed the King , the curator of a palace museum fills in the gaps",
-        "image": "https://www.artforum.com/wp-content/uploads/2026/09/GettyImages-2258253328.jpg?w=650",
-        "source": "Artforum",
-        "sourceUrl": "https://www.artforum.com/columns/rebecca-perry-may-we-feed-the-king-book-review-1234760319/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-30T17-02_4",
-        "rank": 4,
-        "title": "U.S. poised to boot legal immigrants from Medicaid, including refugees and sex-trafficking victims",
+        "title": "STAT+: UnitedHealth investor lawsuit moves forward on allegations it ‘manufactured earnings' to hide declining profits",
         "category": "biotech",
-        "summary": "Hundreds of thousands of immigrants with legal status, including refugees and sex-trafficking victims, are at risk of losing government health coverage starting Oct. 1.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/09/GettyImages-2222867900-1024x576.jpg",
+        "summary": "An investor lawsuit against UnitedHealth Group will move forward after a federal judge declined the company’s motion to dismiss allegations.",
+        "image": "https://www.statnews.com/wp-content/uploads/2025/03/240720_UnitedHealthGroupDrone_0286-1024x576.jpg",
         "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/09/30/legal-immigrants-risk-losing-medicaid-coverage-trump/?utm_campaign=rss",
+        "sourceUrl": "https://www.statnews.com/2026/09/30/unitedhealth-investor-lawsuit-moves-forward-allegations-of-manufactured-earnings-to-hide-declining-profits/?utm_campaign=rss",
         "fromX": false
       },
       {
-        "id": "auto_2026-09-30T17-02_5",
+        "id": "auto_2026-09-30T23-14_3",
+        "rank": 3,
+        "title": "New York's Split Level art fair returns to Madison Avenue design showroom for second edition",
+        "category": "art",
+        "summary": "The fair is once again taking over Rimadesio’s design showroom, giving pride of place to young galleries with a focus on experimentation and affordability",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/669e70dc781c8f2c73ae7cf2fcb60b9e25e04da0-4000x3000.jpg?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/09/30/new-york-split-level-art-fair-second-edition-madison-avenue",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-30T23-14_4",
+        "rank": 4,
+        "title": "Senate permitting bill could greatly expand power lines and clean energy",
+        "category": "energy",
+        "summary": "The U.S. Senate energy permitting bill unveiled Wednesday could streamline the buildout of high-voltage power lines across the country, potentially delivering billions of dollars in electricity cost savings and…",
+        "image": "https://img.canarymedia.com/content/uploads/Los-Banos-California-transmissin-line_GettyImages-1322194997.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=72391c72bef386431b5f9aaedf5fa3d0",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/transmission/senate-permitting-bill-power-lines",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-30T23-14_5",
         "rank": 5,
-        "title": "NaviGate successfully demonstrates onboard precise orbit determination aboard D-Orbit’s ION Satellite Carrier",
-        "category": "space",
-        "summary": "ROME, 30/09/2026 – NaviGate, an Italian space technology company spun out of Sapienza University of Rome, has successfully completed the in-orbit demonstration (IoD) of NaviCode Caravel, its autonomous onboard precise…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/09/navigate_logo_notext-scaled.png?fit=1024%2C1024&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/navigate-successfully-demonstrates-onboard-precise-orbit-determination-aboard-d-orbits-ion-satellite-carrier/",
+        "title": "Could Your Voice Reveal How Fast Your Brain Is Aging?",
+        "category": "neuroscience",
+        "summary": "A machine-learning speech clock reveals biological aging, brain atrophy, and dementia biomarkers from voice patterns.",
+        "image": "https://neurosciencenews.com/files/2026/09/AI-Speech-Clock-Predicts-Biological-Aging-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/ai-voice-clock-aging-31278/",
         "fromX": false
       }
     ]
