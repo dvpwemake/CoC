@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-09-02T22-02",
+    "scannedAt": "2026-09-02T22:02:46.823Z",
+    "items": [
+      {
+        "id": "auto_2026-09-02T22-02_1",
+        "rank": 1,
+        "title": "How Severe Illness During Pregnancy Alters Fetal Brain Development",
+        "category": "neuroscience",
+        "summary": "Salk scientists discover how severe illness during pregnancy alters fetal epigenomes, increasing the risk for autism and neurodevelopmental disorders.",
+        "image": "https://neurosciencenews.com/files/2026/09/fetal-brain-epigenetics-maternal-illness-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/illness-during-pregnancy-alters-fetal-brain-development-31209/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-02T22-02_2",
+        "rank": 2,
+        "title": "Democrats Have a Plan to Force Trump’s Associates to Cooperate With Investigations",
+        "category": "general",
+        "summary": "Donald Trump’s West Wing renovations and DC arch could be on the chopping block, should Democrats win the midterms—they could also be leverage.",
+        "image": "https://media.wired.com/photos/6a9753168e71dd67ca5defbc/master/pass/politics_democrats_prosecute_trump_family.jpg",
+        "source": "WIRED",
+        "sourceUrl": "https://www.wired.com/story/democrats-have-a-plan-to-force-trumps-associates-to-cooperate-with-investigations/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-02T22-02_3",
+        "rank": 3,
+        "title": "STAT+: Ultragenyx drug to treat Angelman syndrome, a rare disease, fails late-stage trial",
+        "category": "biotech",
+        "summary": "Ultragenyx said its experimental therapy for Angelman syndrome, a rare disease, showed no benefit compared to a sham treatment in a Phase 3 trial.",
+        "image": "https://www.statnews.com/wp-content/uploads/2024/05/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_Wiggs-_Bedford_2-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/09/02/ultragenyx-drug-angelman-syndrome-clinical-trial/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-02T22-02_4",
+        "rank": 4,
+        "title": "Clean energy super PAC looks to take down a Democratic governor",
+        "category": "energy",
+        "summary": "The troubled reelection campaign of Rhode Island Gov. Dan McKee is facing a new obstacle: a super PAC determined to take down foes of clean energy. The Invest in Tomorrow Coalition has declared McKee its first…",
+        "image": "https://img.canarymedia.com/content/uploads/Dan-McKee-Rhode-Island-portrait_GettyImages-2272891218.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=e9dbf5a5ef71616156bfb9aedfc2dd26",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/politics/clean-energy-super-pac-looks-to-take-down-a-democratic-governor",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-02T22-02_5",
+        "rank": 5,
+        "title": "The 5 Best Booths at Kiaf SEOUL 2026",
+        "category": "art",
+        "summary": "Kiaf SEOUL returned to the COEX in Gangnam with a typically stylish and enthusiastic crowd on Wednesday, September 2nd. Marking a milestone 25th anniversary, the fair brings together 175 exhibitors from 18 countries…",
+        "image": "https://artsy-media-uploads.s3.amazonaws.com/9gmGmC47aprNdzmvJIXhmw%2F2_Kiaf+SEOUL+2025.+Courtesy+of+Galleries+Association+of+Korea+%E2%93%92+Creative+Resource.jpg",
+        "source": "Artsy",
+        "sourceUrl": "https://www.artsy.net/article/artsy-editorial-5-best-booths-kiaf-seoul-2026",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-09-01T22-07",
     "scannedAt": "2026-09-01T22:07:35.422Z",
     "items": [
@@ -1982,67 +2043,6 @@
         "isEditorialArchive": true,
         "publishDate": "2026-08-06",
         "authorName": "Dr. Wallace Lynch"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-08-06T13-25",
-    "scannedAt": "2026-08-06T13:25:47.922Z",
-    "items": [
-      {
-        "id": "auto_2026-08-06T13-25_1",
-        "rank": 1,
-        "title": "TikTok Lays Off 250 Employees in Office That Includes Content Moderation",
-        "category": "general",
-        "summary": "TikTok did not give a detailed reason for the layoffs, which will shutter its Nashville office.",
-        "image": "https://static01.nyt.com/images/2025/05/03/multimedia/05xp-tiktok-layoffs-1/05xp-tiktok-layoffs-1-mediumSquareAt3X.jpg",
-        "source": "NYT Technology",
-        "sourceUrl": "https://www.nytimes.com/2026/08/05/technology/tiktok-layoffs-nashville.html",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-06T13-25_2",
-        "rank": 2,
-        "title": "Senate committee votes along party lines to hold Fauci in contempt of Congress",
-        "category": "biotech",
-        "summary": "A Senate committee has voted to hold Anthony Fauci in contempt of Congress after he declined to answer questions about his role in the Covid pandemic.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/08/GettyImages-2287493293-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/08/06/anthony-fauci-fifth-amendment-rand-paul-seeks-criminal-contempt/?utm_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-06T13-25_3",
-        "rank": 3,
-        "title": "A star’s violent death exposed a hidden supermassive black hole",
-        "category": "space",
-        "summary": "A supermassive black hole has been found lurking about 30,000 light-years from the center of its galaxy—the first dormant black hole detected so far from a galactic core. It revealed itself only after shredding a…",
-        "image": "https://www.sciencedaily.com/images/1920/black-hole-consuming-orbiting-star.webp",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260805082457.htm",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-06T13-25_4",
-        "rank": 4,
-        "title": "Nuclear startup Oklo splits its first atoms in test reactor",
-        "category": "energy",
-        "summary": "Oklo , a publicly traded small-modular-reactor firm backed by OpenAI chief Sam Altman, has become one of the highest-profile companies working on next-generation nuclear energy technologies. Two years ago it debuted on…",
-        "image": "https://img.canarymedia.com/content/uploads/GettyImages-2282798411.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=448602243bf067d072848414acd1726b",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/nuclear/nuclear-startup-oklo-splits-its-first-atoms-in-test-reactor",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-06T13-25_5",
-        "rank": 5,
-        "title": "Sarla Aviation adopts Siemens Xcelerator to accelerate eVTOL aircraft development",
-        "category": "robotics",
-        "summary": "Indian startup Sarla Aviation is using the Siemens Xcelerator portfolio of industry software to accelerate the development of its next-generation electric vertical take-off and landing (eVTOL) aircraft for urban air…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/siemens-sarla-aviation-1.jpg",
-        "source": "Robotics & Automation News",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/06/sarla-aviation-adopts-siemens-xcelerator-to-accelerate-evtol-aircraft-development/103956/",
-        "fromX": false
       }
     ]
   }

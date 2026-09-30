@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-09-30T02-31",
+    "scannedAt": "2026-09-30T02:31:47.808Z",
+    "items": [
+      {
+        "id": "auto_2026-09-30T02-31_1",
+        "rank": 1,
+        "title": "Sam Altman says OpenAI won’t go public until its models are safe",
+        "category": "general",
+        "summary": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. \"We intend to continue with…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2D_717b98.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-30T02-31_2",
+        "rank": 2,
+        "title": "STAT+: At MAHA Summit, a grassroots movement goes corporate",
+        "category": "biotech",
+        "summary": "Federal officials and health care executives rubbed elbows at the ritzy MAHA Summit, causing some supporters to question what MAHA has become.",
+        "image": "https://www.statnews.com/wp-content/uploads/2025/11/GettyImages-2246396128-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/09/29/maha-summit-washington-dc-2026-corporate-interests-swamp-grassroots/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-30T02-31_3",
+        "rank": 3,
+        "title": "NASA Opens 2027 Human Lander Challenge for Lunar Communications",
+        "category": "space",
+        "summary": "NASA’s 2027 Human Lander Challenge is seeking ideas from college and university students to help address one of the most critical needs for sustained lunar exploration: reliable communications. As NASA prepares for…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/09/2027-hulc-graphic-thumbnail-a-new-arrival-on-the-moon.png",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-opens-2027-human-lander-challenge-for-lunar-communications/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-30T02-31_4",
+        "rank": 4,
+        "title": "Kehinde Wiley Moves to Buy So-Called “Lesbian Picnic” Painting Back from Trump",
+        "category": "art",
+        "summary": "Artist Kehinde Wiley has written to President Donald Trump in an effort to buy back a painting of his that the administration deemed too “woke” and “aesthetically terrifying” to hang in an American embassy, the New York…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/09/kehinde-wiley-trump-.jpeg?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/news/kehinde-wiley-moves-to-buy-painting-back-from-trump-1234760130/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-30T02-31_5",
+        "rank": 5,
+        "title": "Mesabi Metallics to build a $15B lower-carbon steel mill in Iowa",
+        "category": "energy",
+        "summary": "The company behind America’s first new iron ore mine in 50 years has unveiled plans for a massive, $15 billion steel plant in southeast Iowa, bringing the firm closer to realizing its ambitious vision for low-carbon…",
+        "image": "https://img.canarymedia.com/content/uploads/GettyImages-2297597178.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=da3e6607ddd85e8dcb7c733d582b4dbd",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/green-steel/mesabi-metallics-steel-mill-iowa",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-09-29T20-16",
     "scannedAt": "2026-09-29T20:16:49.844Z",
     "items": [
