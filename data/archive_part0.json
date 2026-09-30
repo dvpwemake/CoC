@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-09-30T02-31",
-    "scannedAt": "2026-09-30T02:31:47.808Z",
+    "batchId": "auto_2026-09-30T10-01",
+    "scannedAt": "2026-09-30T10:01:48.767Z",
     "items": [
       {
-        "id": "auto_2026-09-30T02-31_1",
+        "id": "auto_2026-09-30T10-01_1",
         "rank": 1,
-        "title": "Sam Altman says OpenAI won’t go public until its models are safe",
-        "category": "general",
-        "summary": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. \"We intend to continue with…",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2D_717b98.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-30T02-31_2",
-        "rank": 2,
-        "title": "STAT+: At MAHA Summit, a grassroots movement goes corporate",
-        "category": "biotech",
-        "summary": "Federal officials and health care executives rubbed elbows at the ritzy MAHA Summit, causing some supporters to question what MAHA has become.",
-        "image": "https://www.statnews.com/wp-content/uploads/2025/11/GettyImages-2246396128-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/09/29/maha-summit-washington-dc-2026-corporate-interests-swamp-grassroots/?utm_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-30T02-31_3",
-        "rank": 3,
-        "title": "NASA Opens 2027 Human Lander Challenge for Lunar Communications",
-        "category": "space",
-        "summary": "NASA’s 2027 Human Lander Challenge is seeking ideas from college and university students to help address one of the most critical needs for sustained lunar exploration: reliable communications. As NASA prepares for…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/09/2027-hulc-graphic-thumbnail-a-new-arrival-on-the-moon.png",
-        "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-opens-2027-human-lander-challenge-for-lunar-communications/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-30T02-31_4",
-        "rank": 4,
-        "title": "Kehinde Wiley Moves to Buy So-Called “Lesbian Picnic” Painting Back from Trump",
+        "title": "Louis Vuitton launches Keith Haring handbag collection.",
         "category": "art",
-        "summary": "Artist Kehinde Wiley has written to President Donald Trump in an effort to buy back a painting of his that the administration deemed too “woke” and “aesthetically terrifying” to hang in an American embassy, the New York…",
-        "image": "https://www.artforum.com/wp-content/uploads/2026/09/kehinde-wiley-trump-.jpeg?w=650",
-        "source": "Artforum",
-        "sourceUrl": "https://www.artforum.com/news/kehinde-wiley-moves-to-buy-painting-back-from-trump-1234760130/",
+        "summary": "Louis Vuitton has unveiled the eighth chapter of its Artycapucines collection, dedicating 13 new bag designs to the work of Keith Haring . Developed in collaboration with the Keith Haring Foundation, the collection…",
+        "image": "https://artsy-media-uploads.s3.amazonaws.com/NffiYp9OMSzF4oV-2cIMJQ%2FCapucines+BB+Holiday+%26+Capucines+Mini+Dancers+-+Keith+Haring+Artycapucines+Collection_1500x1000.jpg",
+        "source": "Artsy",
+        "sourceUrl": "https://www.artsy.net/article/artsy-editorial-louis-vuitton-launches-keith-haring-handbag-collection",
         "fromX": false
       },
       {
-        "id": "auto_2026-09-30T02-31_5",
-        "rank": 5,
-        "title": "Mesabi Metallics to build a $15B lower-carbon steel mill in Iowa",
+        "id": "auto_2026-09-30T10-01_2",
+        "rank": 2,
+        "title": "Best Mattresses for Kids (2026): Saatva, Birch, Helix, and More",
+        "category": "general",
+        "summary": "Learn what to look for when buying a kids’ mattress, plus how six top models stack up, according to my 2-year-old.",
+        "image": "https://media.wired.com/photos/6abc3abdadb8c46babb74b7e/master/pass/The-Best-Kids%E2%80%99-Mattresses,-Put-Through-the-Toddler-Test.jpg",
+        "source": "WIRED",
+        "sourceUrl": "https://www.wired.com/gallery/the-best-kids-mattresses/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-30T10-01_3",
+        "rank": 3,
+        "title": "Opinion: America's biotech race with China must be won at home",
+        "category": "biotech",
+        "summary": "“The surest way to secure our biotech lead is to build up our own capabilities,” write Gary Locke and Patrick McHenry.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/09/AdobeStock_51240051-1024x576.jpeg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/09/30/china-america-biotech-race-security/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-30T10-01_4",
+        "rank": 4,
+        "title": "This startup helps food carts switch loud, dirty generators for batteries",
         "category": "energy",
-        "summary": "The company behind America’s first new iron ore mine in 50 years has unveiled plans for a massive, $15 billion steel plant in southeast Iowa, bringing the firm closer to realizing its ambitious vision for low-carbon…",
-        "image": "https://img.canarymedia.com/content/uploads/GettyImages-2297597178.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=da3e6607ddd85e8dcb7c733d582b4dbd",
+        "summary": "On a sunny September day in New York City, I followed a throng of people off the subway and into Queens’ Flushing Meadows Corona Park. The crowds were there for the U.S. Open tennis tournament, but I wasn’t — I’d come…",
+        "image": "https://img.canarymedia.com/content/uploads/IMG_1993.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=f64f1e13a6eed00400dac4e7d08e99e4",
         "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/green-steel/mesabi-metallics-steel-mill-iowa",
+        "sourceUrl": "https://www.canarymedia.com/articles/food-and-farms/startup-helps-food-carts-switch-to-batteries",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-30T10-01_5",
+        "rank": 5,
+        "title": "APOD: 2026 September 30 – Arp 78: Peculiar Galaxy in Aries",
+        "category": "space",
+        "summary": "APOD Science APOD APOD: 2026 September 30 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or…",
+        "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/october/NGC772_Robert_Eder.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "source": "NASA",
+        "sourceUrl": "https://science.nasa.gov/image-article/apod-2026-september-30-arp-78-peculiar-galaxy-in-aries/",
         "fromX": false
       }
     ]
