@@ -1,5 +1,25 @@
 [
   {
+    "batchId": "editorial_2026-09-02",
+    "scannedAt": "2026-09-03T04:58:45.691Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-09-02",
+        "rank": 0,
+        "title": "Counted the rooms",
+        "category": "editorial",
+        "summary": "A plan already met, a paycheck that bounced",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/24c6ac009926457d21d6c18e4e84d3d1f1e854aa-1080x900.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-09-02.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-09-02",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-09-02T22-02",
     "scannedAt": "2026-09-02T22:02:46.823Z",
     "items": [
@@ -2023,26 +2043,6 @@
         "source": "STAT News",
         "sourceUrl": "https://www.statnews.com/2026/08/07/fauci-contempt-congress-covid-origins-china/?utm_campaign=rss",
         "fromX": false
-      }
-    ]
-  },
-  {
-    "batchId": "editorial_2026-08-06",
-    "scannedAt": "2026-08-07T01:32:35.460Z",
-    "kind": "editorial_archive",
-    "items": [
-      {
-        "id": "editorial_2026-08-06",
-        "rank": 0,
-        "title": "What the canopy hid, and what the feed still answers for",
-        "category": "editorial",
-        "summary": "Convergence of buried form and public labor",
-        "image": "https://static01.nyt.com/images/2026/08/06/multimedia/06xp-french-streamers-promo/06xp-french-streamers-promo-mediumSquareAt3X.png",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-06.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-08-06",
-        "authorName": "Dr. Wallace Lynch"
       }
     ]
   }
