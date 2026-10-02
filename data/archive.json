@@ -1,5 +1,25 @@
 [
   {
+    "batchId": "editorial_2026-09-28",
+    "scannedAt": "2026-09-29T00:04:56.422Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-09-28",
+        "rank": 0,
+        "title": "The Fault in Our Systems",
+        "category": "editorial",
+        "summary": "When Tech Meets Human Nature",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/starliner_thrusters1-1152x648.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-09-28.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-09-28",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-10-02T02-39",
     "scannedAt": "2026-10-02T02:39:55.994Z",
     "items": [
