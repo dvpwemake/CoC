@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-10-02T02-39",
+    "scannedAt": "2026-10-02T02:39:55.994Z",
+    "items": [
+      {
+        "id": "auto_2026-10-02T02-39_1",
+        "rank": 1,
+        "title": "OpenAI fires workers for mishandling 'sensitive information'",
+        "category": "general",
+        "summary": "The former employees were investigated for sharing data with an outside AI evaluation group.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/136d/live/561b92b0-bdf9-11f1-a76b-bdcdab65a1b7.jpg",
+        "source": "BBC Technology",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-02T02-39_2",
+        "rank": 2,
+        "title": "10 Things: Movie Night",
+        "category": "space",
+        "summary": "Join Us for Movie Night with NASA NASA’s mission is to pioneer the future in space exploration and scientific discovery. NASA+ documentaries allow you to come along for the ride. It’s free. It’s on demand. And no…",
+        "image": "https://assets.science.nasa.gov/content/dam/science/psd/solar-system/skywatching/2025/august/Night%20scene_credit_Bill%20Dunford.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
+        "source": "NASA",
+        "sourceUrl": "https://science.nasa.gov/solar-system/10-things-movie-night/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-02T02-39_3",
+        "rank": 3,
+        "title": "Latest edition of Portland triennial offers powerful projects but lacks a cohesive theme",
+        "category": "art",
+        "summary": "The New York-based curator Lumi Tan has brought together 28 artist projects that are captivating yet disparate for the Converge 45 triennial in Oregon",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/05c2a1b3b31144283599b5b80e07f33e314a558e-2000x1333.jpg?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/10/01/converge-45-portland-oregon-triennial-lumi-tan-review",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-02T02-39_4",
+        "rank": 4,
+        "title": "Automating Crypto Payouts: How APIs Are Changing B2B Payment Operations",
+        "category": "robotics",
+        "summary": "For finance teams, the challenge with crypto payouts is increasingly operational. Sending digital assets is relatively straightforward; managing approvals, liquidity, settlement and reconciliation at scale is harder.…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/automating-crypto-payouts-1.jpeg",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/01/automating-crypto-payouts-how-apis-are-changing-b2b-payment-operations/105420/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-02T02-39_5",
+        "rank": 5,
+        "title": "Brain Wiring Changes Distinguish Early Alzheimer’s from Normal Aging",
+        "category": "neuroscience",
+        "summary": "A new study reveals functional brain wiring changes separate Alzheimer's from normal aging before symptoms appear.",
+        "image": "https://neurosciencenews.com/files/2026/10/alzheimers-brain-aging-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/neural-connectivity-alzheimers-aging-31282/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-10-01T23-29",
     "scannedAt": "2026-10-01T23:29:56.750Z",
     "items": [
@@ -2105,26 +2166,6 @@
         "source": "IEEE Spectrum",
         "sourceUrl": "https://spectrum.ieee.org/industrial-robot-cable-carrier-protection",
         "fromX": false
-      }
-    ]
-  },
-  {
-    "batchId": "editorial_2026-09-03",
-    "scannedAt": "2026-09-03T05:03:25.704Z",
-    "kind": "editorial_archive",
-    "items": [
-      {
-        "id": "editorial_2026-09-03",
-        "rank": 0,
-        "title": "Counted the rooms",
-        "category": "editorial",
-        "summary": "A plan already met, a paycheck that bounced",
-        "image": "https://www.sciencedaily.com/images/1920/brain-intelligence-money-cash.webp",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-09-03.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-09-03",
-        "authorName": "Dr. Wallace Lynch"
       }
     ]
   }
