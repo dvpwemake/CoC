@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-10-02T02-39",
-    "scannedAt": "2026-10-02T02:39:55.994Z",
+    "batchId": "auto_2026-10-02T10-04",
+    "scannedAt": "2026-10-02T10:04:58.496Z",
     "items": [
       {
-        "id": "auto_2026-10-02T02-39_1",
+        "id": "auto_2026-10-02T10-04_1",
         "rank": 1,
-        "title": "OpenAI fires workers for mishandling 'sensitive information'",
+        "title": "Election Deniers Think the GOP’s Terrible Midterm Polling Is a ‘Psyop’",
         "category": "general",
-        "summary": "The former employees were investigated for sharing data with an outside AI evaluation group.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/136d/live/561b92b0-bdf9-11f1-a76b-bdcdab65a1b7.jpg",
-        "source": "BBC Technology",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
+        "summary": "Dozens and dozens of high profile MAGA influencers and pundits have weighed in. “The laughable fake polls are rolling out,” Catturd posted on X.",
+        "image": "https://media.wired.com/photos/6abe7a57a95db2b2b34e5a3c/master/pass/100126-Pyop%20Mid-term%20Trump.jpg",
+        "source": "WIRED",
+        "sourceUrl": "https://www.wired.com/story/election-deniers-think-the-gops-terrible-midterm-polling-is-a-psyop/",
         "fromX": false
       },
       {
-        "id": "auto_2026-10-02T02-39_2",
+        "id": "auto_2026-10-02T10-04_2",
         "rank": 2,
-        "title": "10 Things: Movie Night",
-        "category": "space",
-        "summary": "Join Us for Movie Night with NASA NASA’s mission is to pioneer the future in space exploration and scientific discovery. NASA+ documentaries allow you to come along for the ride. It’s free. It’s on demand. And no…",
-        "image": "https://assets.science.nasa.gov/content/dam/science/psd/solar-system/skywatching/2025/august/Night%20scene_credit_Bill%20Dunford.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
-        "source": "NASA",
-        "sourceUrl": "https://science.nasa.gov/solar-system/10-things-movie-night/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-02T02-39_3",
-        "rank": 3,
-        "title": "Latest edition of Portland triennial offers powerful projects but lacks a cohesive theme",
-        "category": "art",
-        "summary": "The New York-based curator Lumi Tan has brought together 28 artist projects that are captivating yet disparate for the Converge 45 triennial in Oregon",
-        "image": "https://cdn.sanity.io/images/cxgd3urn/production/05c2a1b3b31144283599b5b80e07f33e314a558e-2000x1333.jpg?w=140",
-        "source": "The Art Newspaper",
-        "sourceUrl": "https://www.theartnewspaper.com/2026/10/01/converge-45-portland-oregon-triennial-lumi-tan-review",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-02T02-39_4",
-        "rank": 4,
-        "title": "Automating Crypto Payouts: How APIs Are Changing B2B Payment Operations",
+        "title": "THG Fulfil expands distribution partnership with AutoStore",
         "category": "robotics",
-        "summary": "For finance teams, the challenge with crypto payouts is increasingly operational. Sending digital assets is relatively straightforward; managing approvals, liquidity, settlement and reconciliation at scale is harder.…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/automating-crypto-payouts-1.jpeg",
+        "summary": "THG Fulfil, the fulfilment operating system from THG Ingenuity, has announced the expansion of its distribution partnership with AutoStore. The agreement enables THG Fulfil to offer AutoStore systems through both…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/THG-Fulfil-AutoStore-3.jpg",
         "source": "Robotics & Automation News",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/01/automating-crypto-payouts-how-apis-are-changing-b2b-payment-operations/105420/",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/02/thg-fulfil-expands-distribution-partnership-with-autostore/105455/",
         "fromX": false
       },
       {
-        "id": "auto_2026-10-02T02-39_5",
+        "id": "auto_2026-10-02T10-04_3",
+        "rank": 3,
+        "title": "STAT+: NIH awarded all its grant funding, but delayed and opaque decisions stymied researchers",
+        "category": "biotech",
+        "summary": "The NIH continued reducing grants involving health disparities, race, and ethnicity but made little progress toward other administration priorities in the 2026 fiscal year.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/10/AdobeStock_425793652-1024x576.jpeg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/10/02/nih-grant-funding-fy2026-analysis/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-02T10-04_4",
+        "rank": 4,
+        "title": "Matronage over patronage: the Prado and Rijksmuseum team up to research women rulers’ impact on art",
+        "category": "art",
+        "summary": "The collaborative project will explore the women of Habsburg Empire and include an exhibition at the Amsterdam museum in 2029",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/5fa283eae13dbde8788815accc72c81961827cfa-1920x1228.jpg?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/10/02/matronage-over-patronage-the-prado-and-rijksmuseum-team-up-to-research-women-rulers-impact-on-art",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-02T10-04_5",
         "rank": 5,
-        "title": "Brain Wiring Changes Distinguish Early Alzheimer’s from Normal Aging",
-        "category": "neuroscience",
-        "summary": "A new study reveals functional brain wiring changes separate Alzheimer's from normal aging before symptoms appear.",
-        "image": "https://neurosciencenews.com/files/2026/10/alzheimers-brain-aging-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/neural-connectivity-alzheimers-aging-31282/",
+        "title": "Don’t be fooled—LLMs don’t reason",
+        "category": "ai",
+        "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/2llm-go.jpg?resize=1200,600",
+        "source": "MIT Technology Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
         "fromX": false
       }
     ]
@@ -240,6 +240,26 @@
         "source": "Neuroscience News",
         "sourceUrl": "https://neurosciencenews.com/lymph-node-removal-cognition-31270/",
         "fromX": false
+      }
+    ]
+  },
+  {
+    "batchId": "editorial_2026-09-28",
+    "scannedAt": "2026-09-29T00:04:56.422Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-09-28",
+        "rank": 0,
+        "title": "The Fault in Our Systems",
+        "category": "editorial",
+        "summary": "When Tech Meets Human Nature",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/starliner_thrusters1-1152x648.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-09-28.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-09-28",
+        "authorName": "Dr. Wallace Lynch"
       }
     ]
   },
