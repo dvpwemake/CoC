@@ -1,127 +1,151 @@
 {
   "published": {
-    "id": "ed_2026-09-28",
-    "publishDate": "2026-09-28",
+    "id": "ed_2026-10-02",
+    "publishDate": "2026-10-02",
     "status": "published",
-    "updatedAt": "2026-09-29T00:04:56.422Z",
-    "title": "The Fault in Our Systems",
-    "dek": "When Tech Meets Human Nature",
+    "updatedAt": "2026-10-02T07:19:46.793Z",
+    "title": "The Unseen Tectonic Shifts",
+    "dek": "On hidden circuits, shifting social contracts, and the art of redrawing boundaries",
     "authorName": "Dr. Wallace Lynch",
     "authorTitle": "Editor in Chief",
-    "body": "We often look to technology to clarify our world, but it frequently complicates it. A new Georgetown and UW study reveals that misleading AI video summaries can actively distort human memory, plummeting eyewitness accuracy from 84% to just 45%. This algorithmic fragility is mirrored on a geopolitical scale: as MIT Technology Review reports, the billions spent over 25 years on a \"virtual wall\" of surveillance towers at the US southern border have culminated in a deadly, flawed system. It is a striking backdrop for Anthropic CEO Dario Amodei’s upcoming White House dinner with President Trump, a leader who continues to dismiss the executive's AI safety cautions.\n\nOur physical vulnerabilities are equally pressing. As STAT News reflects on the 25th anniversary of the anthrax letters, we are forced to ask if we are truly prepared for the next biothreat. The answer feels precarious, especially as the administration utilizes rare authority to claw back nearly $1 billion in HHS spending, and environmental studies show toxic metals lingering in Maui residents months after devastating wildfires.\n\nYet, biology and human ingenuity also offer profound resilience. Scientists are now looking to beneficial fungi to transform nutrient-poor Martian regolith into farmable soil, a crucial step as Boeing embraces its role as the nation's exclusive astronaut transport provider. Back on Earth, roboticist Charlie Kemp reminds us that building genuinely useful assistive robots requires fundamentally understanding the people who use them.\n\nThe arts, too, are grounded in uncovering human truths. The mystery buyer of a $9 million misattributed Rembrandt has finally been unmasked, while history is made as Imelda Cajipe Endaya becomes the first woman named National Artist of the Philippines. Whether we are terraforming Mars, training LLMs, or naming the artistic director for the Fifth Thailand Biennale, the human variable remains the only one we cannot automate.",
+    "body": "In the technology ecosystem, the most decisive moments are rarely marked by loud product debuts or grand keynotes. They happen quietly, along the fault lines where policy, architecture, and governance intersect.\n\nConsider the paradoxical evolution of privacy and security. As OpenAI tightens its perimeter—enforcing strict zero-tolerance protocols around internal evaluations—Apple is quietly probing a radically counterintuitive design pattern: a smart home security camera that refuses to capture video at all. By converting ambient visual data directly into textual event feeds, Apple signals a potential paradigm shift. The future of consumer AI may not be about seeing more, but about knowing how to look away.\n\nYet, as enterprise tech refines its trust models—whether by automating high-velocity B2B crypto settlement rails via API or mapping the precise neural circuits that govern human circadian wakefulness—the institutional social contract elsewhere is undergoing a troubling friction.\n\nAcross energy and healthcare, we are witnessing a systemic shift of risk down the chain. New USDA policy revisions have effectively dismantled solar grant access for American farmers, halting decentralized clean energy monetization at the grass roots. Simultaneously, Medicare Advantage structures for 2027 present nominal premium stability while quietly migrating cost burdens to aging beneficiaries through diminished benefit caps. When paired with UnitedHealth’s ongoing judicial scrutiny over earnings transparency, a pattern emerges: legacy institutions are attempting to preserve margins by recalibrating thresholds at the user's expense.\n\nWhat unites these disparate developments—from the decentralized art fair expansions taking root across Istanbul’s Asian shore to deep neural markers predicting cognitive decline before symptoms manifest—is the imperative of structural awareness. True innovation does not merely iterate on existing tools; it redraws the baseline rules of access, autonomy, and sight. For leaders navigating this landscape, the signal amidst the noise isn't what is being built, but who holds the leverage when the boundaries change.",
     "paragraphs": [
-      "We often look to technology to clarify our world, but it frequently complicates it. A new Georgetown and UW study reveals that misleading AI video summaries can actively distort human memory, plummeting eyewitness accuracy from 84% to just 45%. This algorithmic fragility is mirrored on a geopolitical scale: as MIT Technology Review reports, the billions spent over 25 years on a \"virtual wall\" of surveillance towers at the US southern border have culminated in a deadly, flawed system. It is a striking backdrop for Anthropic CEO Dario Amodei’s upcoming White House dinner with President Trump, a leader who continues to dismiss the executive's AI safety cautions.",
-      "Our physical vulnerabilities are equally pressing. As STAT News reflects on the 25th anniversary of the anthrax letters, we are forced to ask if we are truly prepared for the next biothreat. The answer feels precarious, especially as the administration utilizes rare authority to claw back nearly $1 billion in HHS spending, and environmental studies show toxic metals lingering in Maui residents months after devastating wildfires.",
-      "Yet, biology and human ingenuity also offer profound resilience. Scientists are now looking to beneficial fungi to transform nutrient-poor Martian regolith into farmable soil, a crucial step as Boeing embraces its role as the nation's exclusive astronaut transport provider. Back on Earth, roboticist Charlie Kemp reminds us that building genuinely useful assistive robots requires fundamentally understanding the people who use them.",
-      "The arts, too, are grounded in uncovering human truths. The mystery buyer of a $9 million misattributed Rembrandt has finally been unmasked, while history is made as Imelda Cajipe Endaya becomes the first woman named National Artist of the Philippines. Whether we are terraforming Mars, training LLMs, or naming the artistic director for the Fifth Thailand Biennale, the human variable remains the only one we cannot automate."
+      "In the technology ecosystem, the most decisive moments are rarely marked by loud product debuts or grand keynotes. They happen quietly, along the fault lines where policy, architecture, and governance intersect.",
+      "Consider the paradoxical evolution of privacy and security. As OpenAI tightens its perimeter—enforcing strict zero-tolerance protocols around internal evaluations—Apple is quietly probing a radically counterintuitive design pattern: a smart home security camera that refuses to capture video at all. By converting ambient visual data directly into textual event feeds, Apple signals a potential paradigm shift. The future of consumer AI may not be about seeing more, but about knowing how to look away.",
+      "Yet, as enterprise tech refines its trust models—whether by automating high-velocity B2B crypto settlement rails via API or mapping the precise neural circuits that govern human circadian wakefulness—the institutional social contract elsewhere is undergoing a troubling friction.",
+      "Across energy and healthcare, we are witnessing a systemic shift of risk down the chain. New USDA policy revisions have effectively dismantled solar grant access for American farmers, halting decentralized clean energy monetization at the grass roots. Simultaneously, Medicare Advantage structures for 2027 present nominal premium stability while quietly migrating cost burdens to aging beneficiaries through diminished benefit caps. When paired with UnitedHealth’s ongoing judicial scrutiny over earnings transparency, a pattern emerges: legacy institutions are attempting to preserve margins by recalibrating thresholds at the user's expense.",
+      "What unites these disparate developments—from the decentralized art fair expansions taking root across Istanbul’s Asian shore to deep neural markers predicting cognitive decline before symptoms manifest—is the imperative of structural awareness. True innovation does not merely iterate on existing tools; it redraws the baseline rules of access, autonomy, and sight. For leaders navigating this landscape, the signal amidst the noise isn't what is being built, but who holds the leverage when the boundaries change."
     ],
-    "wordCount": 300,
-    "heroImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/starliner_thrusters1-1152x648.jpg",
-    "heroCredit": "Boeing \"incredibly excited\" to serve as nation's only astronaut transportation",
-    "heroSource": "Ars Technica",
-    "heroSourceUrl": "https://arstechnica.com/space/2026/09/boeing-incredibly-excited-to-serve-as-nations-only-astronaut-transportation/",
+    "wordCount": 301,
+    "heroImage": "https://neurosciencenews.com/files/2026/10/alzheimers-brain-aging-neuroscience-1155x770.jpg",
+    "heroCredit": "Brain Wiring Changes Distinguish Early Alzheimer’s from Normal Aging",
+    "heroSource": "Neuroscience News",
+    "heroSourceUrl": "https://neurosciencenews.com/neural-connectivity-alzheimers-aging-31282/",
     "headlines": [
       {
-        "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-        "source": "MIT Technology Review",
-        "category": "ai",
-        "sourceUrl": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
-        "summary": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/MITTR-Roundtables-Zoom-Opening-Overlay.png?resize=1200,600"
-      },
-      {
-        "title": "Mystery Buyer of $9 Million Misattributed Rembrandt Unmasked",
-        "source": "Artforum",
+        "title": "Latest edition of Portland triennial offers powerful projects but lacks a cohesive theme",
+        "source": "The Art Newspaper",
         "category": "art",
-        "sourceUrl": "https://www.artforum.com/news/mystery-buyer-of-9-million-rembrandt-unmasked-1234760090/",
-        "summary": "The buyer of a formerly misattributed Rembrandt that hammered for $9 million at a Sotheby’s London sale in December 2025 has been revealed to be the world’s largest collector of the artist, the Art Newspaper reports.…",
-        "image": "https://www.artforum.com/wp-content/uploads/2026/09/RR-129_publication-1-1.jpeg?w=650"
+        "sourceUrl": "https://www.theartnewspaper.com/2026/10/01/converge-45-portland-oregon-triennial-lumi-tan-review",
+        "summary": "The New York-based curator Lumi Tan has brought together 28 artist projects that are captivating yet disparate for the Converge 45 triennial in Oregon",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/05c2a1b3b31144283599b5b80e07f33e314a558e-2000x1333.jpg?w=140"
       },
       {
-        "title": "Risk from toxic metals can persist months after wildfires, Maui study finds",
-        "source": "STAT News",
-        "category": "biotech",
-        "sourceUrl": "https://www.statnews.com/2026/09/28/hawaii-wildfire-air-quality-risk-study/?utm_campaign=rss",
-        "summary": "Post-wildfire air quality needs to be monitored long term, suggests a study finding Maui residents had high levels of toxic metals months later.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/09/AP26271524443890-1024x576.jpg"
-      },
-      {
-        "title": "Boeing \"incredibly excited\" to serve as nation's only astronaut transportation",
-        "source": "Ars Technica",
+        "title": "OpenAI fires workers for mishandling 'sensitive information'",
+        "source": "BBC Technology",
         "category": "general",
-        "sourceUrl": "https://arstechnica.com/space/2026/09/boeing-incredibly-excited-to-serve-as-nations-only-astronaut-transportation/",
-        "summary": "\"We couldn't provide detailed pricing to the CLD suppliers.\"",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/starliner_thrusters1-1152x648.jpg"
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
+        "summary": "The former employees were investigated for sharing data with an outside AI evaluation group.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/136d/live/561b92b0-bdf9-11f1-a76b-bdcdab65a1b7.jpg"
       },
       {
-        "title": "A Day in the Life of a Roboticist: Charlie Kemp",
-        "source": "IEEE Spectrum",
-        "category": "robotics",
-        "sourceUrl": "https://robotsguide.com/learn/a-day-in-the-life-of-a-roboticist-charlie-kemp",
-        "summary": "Building useful robots starts with understanding the people who use them. For Charlie Kemp, cofounder and chief technology officer of Hello Robot, that means developing assistive robots that can help people with…",
-        "image": "https://spectrum.ieee.org/media-library/man-standing-beside-a-tall-wheeled-robot-smiling-and-waving-at-the-camera.jpg?id=67880303&width=980"
-      },
-      {
-        "title": "Artistic Director, Theme Announced for Fifth Thailand Biennale",
-        "source": "Artforum",
-        "category": "art",
-        "sourceUrl": "https://www.artforum.com/news/artistic-director-named-for-fifth-thailand-biennale-1234759814/",
-        "summary": "The Thai Ministry of Culture has named jiradej-pornpilai meemalai: BAAN NOORG as the artistic director of the Fifth Thailand Biennale, ArtReview reports. Emily Chin-Jie Lee, Gesyada Siregar, and Tyuki Imamura will serve…",
-        "image": "https://www.artforum.com/wp-content/uploads/2026/09/0.-as-a-group_.png?w=650"
-      },
-      {
-        "title": "Trump administration uses rare authority to claw back nearly $1B in spending approved by Congress",
-        "source": "STAT News",
-        "category": "biotech",
-        "sourceUrl": "https://www.statnews.com/2026/09/25/trump-administration-cancel-spending-hhs-programs/?utm_campaign=rss",
-        "summary": "President Trump is canceling nearly $1 billion in spending approved by Congress, and most of the cuts are focused on HHS programs that serve refugees and unaccompanied minors.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/09/AP26262339870744-1024x576.jpg"
-      },
-      {
-        "title": "Dario Amodei of Anthropic to Dine With Trump at White House",
-        "source": "NYT Technology",
-        "category": "general",
-        "sourceUrl": "https://www.nytimes.com/2026/09/27/us/politics/trump-amodei-anthropic-artificial-intelligence.html",
-        "summary": "Dario Amodei, who is also the company’s chief executive, will join the president at the White House for a private dinner. Mr. Trump has dismissed his cautions.",
-        "image": "https://static01.nyt.com/images/2026/09/27/multimedia/00dc-trump-anthropic-flht/00dc-trump-anthropic-flht-mediumSquareAt3X.jpg"
-      },
-      {
-        "title": "Flawed AI Summaries Distort Eyewitness Memory",
+        "title": "Brain Wiring Changes Distinguish Early Alzheimer’s from Normal Aging",
         "source": "Neuroscience News",
         "category": "neuroscience",
-        "sourceUrl": "https://neurosciencenews.com/ai-false-memory-llm-31261/",
-        "summary": "Misleading AI video summaries alter human memory and distort eyewitness accuracy from 84% down to 45%, Georgetown and UW study finds.",
-        "image": "https://neurosciencenews.com/files/2026/09/AI-false-memory-neuroscience-1155x770.jpg"
+        "sourceUrl": "https://neurosciencenews.com/neural-connectivity-alzheimers-aging-31282/",
+        "summary": "A new study reveals functional brain wiring changes separate Alzheimer's from normal aging before symptoms appear.",
+        "image": "https://neurosciencenews.com/files/2026/10/alzheimers-brain-aging-neuroscience-1155x770.jpg"
       },
       {
-        "title": "The secret to growing food on Mars could be fungi",
-        "source": "ScienceDaily",
+        "title": "Automating Crypto Payouts: How APIs Are Changing B2B Payment Operations",
+        "source": "Robotics & Automation News",
+        "category": "robotics",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/01/automating-crypto-payouts-how-apis-are-changing-b2b-payment-operations/105420/",
+        "summary": "For finance teams, the challenge with crypto payouts is increasingly operational. Sending digital assets is relatively straightforward; managing approvals, liquidity, settlement and reconciliation at scale is harder.…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/automating-crypto-payouts-1.jpeg"
+      },
+      {
+        "title": "10 Things: Movie Night",
+        "source": "NASA",
         "category": "space",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260924020400.htm",
-        "summary": "Scientists think beneficial fungi could help transform nutrient-poor lunar and Martian regolith into a material capable of supporting crops. By helping plants access nutrients and withstand harsh conditions, these…",
-        "image": "https://www.sciencedaily.com/images/1920/nasa-mars-greenhouse.webp"
+        "sourceUrl": "https://science.nasa.gov/solar-system/10-things-movie-night/",
+        "summary": "Join Us for Movie Night with NASA NASA’s mission is to pioneer the future in space exploration and scientific discovery. NASA+ documentaries allow you to come along for the ride. It’s free. It’s on demand. And no…",
+        "image": "https://assets.science.nasa.gov/content/dam/science/psd/solar-system/skywatching/2025/august/Night%20scene_credit_Bill%20Dunford.png/jcr:content/renditions/cq5dam.web.1280.1280.png"
       },
       {
-        "title": "Imelda Cajipe Endaya Becomes First Woman Named National Artist of the Philippines",
-        "source": "Artforum",
+        "title": "Contemporary Istanbul founder planning new fair on city's Asian side",
+        "source": "The Art Newspaper",
         "category": "art",
-        "sourceUrl": "https://www.artforum.com/news/imelda-cajipe-endaya-national-artist-of-the-philippines-1234759887/",
-        "summary": "Filipina artist Imelda Cajipe Endaya was named to the Order of National Artists of the Philippines for Visual Arts on September 1, becoming the first woman to receive the honor in its fifty-four-year history. The order…",
-        "image": "https://www.artforum.com/wp-content/uploads/2026/09/ICE-portrait.jpeg?w=650"
+        "sourceUrl": "https://www.theartnewspaper.com/2026/10/02/contemporary-istanbul-founder-planning-new-fair-on-citys-asian-side",
+        "summary": "The 21st edition of the fair occupied a new single-floor site at the Ottoman era shipping yard Tersane Istanbul",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/605e24bfdbffa47ab9d78abde9521a51f0d09378-9504x6336.jpg?w=140"
       },
       {
-        "title": "Opinion: I worked on the CDC investigation of the anthrax letters. 25 years later, are we ready for the next biothreat?",
+        "title": "STAT+: Medicare Advantage plans shift more costs onto seniors in 2027",
         "source": "STAT News",
         "category": "biotech",
-        "sourceUrl": "https://www.statnews.com/2026/09/26/anthrax-letters-25th-anniversary-cdc-investigation-new-biothreats-ai/?utm_campaign=rss",
-        "summary": "“We’ve come a long way since the fall of 2001, but we find ourselves with recent widening gaps in public health readiness and mitigation,” writes Daniel B. Jernigan.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/09/GettyImages-1580088835-1024x576.jpg"
+        "sourceUrl": "https://www.statnews.com/2026/10/01/medicare-advantage-plans-have-higher-deductibles-fewer-benefits-in-2027/?utm_campaign=rss",
+        "summary": "Premiums are stable, but Medicare Advantage plans are making big changes that could make care more expensive for patients.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/10/AdobeStock_378253117-1024x576.jpeg"
+      },
+      {
+        "title": "The USDA just made it way harder for farmers to get grants for solar",
+        "source": "Canary Media",
+        "category": "energy",
+        "sourceUrl": "https://www.canarymedia.com/articles/food-and-farms/usda-reap-grants-for-solar",
+        "summary": "Rules published Thursday essentially end federal grants that thousands of American farmers have long relied on to build revenue-generating solar systems on their land. The Trump administration’s changes to the Rural…",
+        "image": "https://img.canarymedia.com/content/uploads/Barn-with-solar-panels-woman-and-dog_GettyImages-149773498.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=371279a3fc4b3d3b5bca059ac48b38bb"
+      },
+      {
+        "title": "Apple’s reportedly developing a smart home camera that doesn’t record video",
+        "source": "The Verge",
+        "category": "general",
+        "sourceUrl": "https://www.theverge.com/tech/1003877/apple-security-camera-no-video",
+        "summary": "Apple's rumored push into smart home tech could include a smart home security camera that only gives users text event descriptions instead of video footage. Mark Gurman said in the first episode of the Power On podcast…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_APPLE_I.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+      },
+      {
+        "title": "How the Biological Clock Tells the Brain It’s Time to Wake Up",
+        "source": "Neuroscience News",
+        "category": "neuroscience",
+        "sourceUrl": "https://neurosciencenews.com/circadian-dopamine-wakefulness-31283/",
+        "summary": "Scientists identify a neural circuit linking the biological clock to dopaminergic neurons and the mushroom body to control wakefulness.",
+        "image": "https://neurosciencenews.com/files/2026/10/circadian-wakefulness-neuroscience-1155x770.jpg"
+      },
+      {
+        "title": "New York's Split Level art fair returns to Madison Avenue design showroom for second edition",
+        "source": "The Art Newspaper",
+        "category": "art",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/09/30/new-york-split-level-art-fair-second-edition-madison-avenue",
+        "summary": "The fair is once again taking over Rimadesio’s design showroom, giving pride of place to young galleries with a focus on experimentation and affordability",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/669e70dc781c8f2c73ae7cf2fcb60b9e25e04da0-4000x3000.jpg?w=140"
+      },
+      {
+        "title": "STAT+: UnitedHealth investor lawsuit moves forward on allegations it ‘manufactured earnings' to hide declining profits",
+        "source": "STAT News",
+        "category": "biotech",
+        "sourceUrl": "https://www.statnews.com/2026/09/30/unitedhealth-investor-lawsuit-moves-forward-allegations-of-manufactured-earnings-to-hide-declining-profits/?utm_campaign=rss",
+        "summary": "An investor lawsuit against UnitedHealth Group will move forward after a federal judge declined the company’s motion to dismiss allegations.",
+        "image": "https://www.statnews.com/wp-content/uploads/2025/03/240720_UnitedHealthGroupDrone_0286-1024x576.jpg"
       }
     ],
-    "publishedAt": "2026-09-29T00:04:56.422Z"
+    "publishedAt": "2026-10-02T07:19:46.793Z"
   },
   "drafts": {},
   "history": [
+    {
+      "id": "ed_2026-10-02",
+      "publishDate": "2026-10-02",
+      "status": "published",
+      "updatedAt": "2026-10-02T07:19:46.793Z",
+      "title": "The Unseen Tectonic Shifts",
+      "dek": "On hidden circuits, shifting social contracts, and the art of redrawing boundaries",
+      "authorName": "Dr. Wallace Lynch",
+      "authorTitle": "Editor in Chief",
+      "paragraphs": [
+        "In the technology ecosystem, the most decisive moments are rarely marked by loud product debuts or grand keynotes. They happen quietly, along the fault lines where policy, architecture, and governance intersect.",
+        "Consider the paradoxical evolution of privacy and security. As OpenAI tightens its perimeter—enforcing strict zero-tolerance protocols around internal evaluations—Apple is quietly probing a radically counterintuitive design pattern: a smart home security camera that refuses to capture video at all. By converting ambient visual data directly into textual event feeds, Apple signals a potential paradigm shift. The future of consumer AI may not be about seeing more, but about knowing how to look away.",
+        "Yet, as enterprise tech refines its trust models—whether by automating high-velocity B2B crypto settlement rails via API or mapping the precise neural circuits that govern human circadian wakefulness—the institutional social contract elsewhere is undergoing a troubling friction.",
+        "Across energy and healthcare, we are witnessing a systemic shift of risk down the chain. New USDA policy revisions have effectively dismantled solar grant access for American farmers, halting decentralized clean energy monetization at the grass roots. Simultaneously, Medicare Advantage structures for 2027 present nominal premium stability while quietly migrating cost burdens to aging beneficiaries through diminished benefit caps. When paired with UnitedHealth’s ongoing judicial scrutiny over earnings transparency, a pattern emerges: legacy institutions are attempting to preserve margins by recalibrating thresholds at the user's expense.",
+        "What unites these disparate developments—from the decentralized art fair expansions taking root across Istanbul’s Asian shore to deep neural markers predicting cognitive decline before symptoms manifest—is the imperative of structural awareness. True innovation does not merely iterate on existing tools; it redraws the baseline rules of access, autonomy, and sight. For leaders navigating this landscape, the signal amidst the noise isn't what is being built, but who holds the leverage when the boundaries change."
+      ],
+      "wordCount": 301,
+      "heroImage": "https://neurosciencenews.com/files/2026/10/alzheimers-brain-aging-neuroscience-1155x770.jpg",
+      "heroCredit": "Brain Wiring Changes Distinguish Early Alzheimer’s from Normal Aging",
+      "heroSource": "Neuroscience News",
+      "heroSourceUrl": "https://neurosciencenews.com/neural-connectivity-alzheimers-aging-31282/",
+      "publishedAt": "2026-10-02T07:19:46.793Z"
+    },
     {
       "id": "ed_2026-09-28",
       "publishDate": "2026-09-28",
@@ -1689,6 +1713,7 @@
     "https://cdn.sanity.io/images/cxgd3urn/production/7d2fcafc84e9bfd9614a699f2e8d1943fcf4596c-2400x3600.jpg?w=140",
     "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/september/MilkyWayMeteorLSTJeffDai.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
     "https://neurosciencenews.com/files/2026/09/nicotine-addiction-mitochondria-neurosceince-1155x770.jpg",
-    "https://cdn.arstechnica.net/wp-content/uploads/2024/09/starliner_thrusters1-1152x648.jpg"
+    "https://cdn.arstechnica.net/wp-content/uploads/2024/09/starliner_thrusters1-1152x648.jpg",
+    "https://neurosciencenews.com/files/2026/10/alzheimers-brain-aging-neuroscience-1155x770.jpg"
   ]
 }
