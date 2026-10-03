@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-09-04T21-53",
+    "scannedAt": "2026-09-04T21:53:05.640Z",
+    "items": [
+      {
+        "id": "auto_2026-09-04T21-53_1",
+        "rank": 1,
+        "title": "Audacity 4 is a complete revamp of the ‘world’s most popular’ audio editor",
+        "category": "general",
+        "summary": "Audacity 4 has been in the works for some time, and had its own mini controversy last year when an unfortunate redesigned logo started making the rounds. The final version of the new icon isn't nearly as bad as the…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Audacity-4.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+        "source": "The Verge",
+        "sourceUrl": "https://www.theverge.com/tech/990658/audacity-4-update-audio-editing",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-04T21-53_2",
+        "rank": 2,
+        "title": "Geles Cabrera, the pioneering Mexican sculptor, has died, aged 100",
+        "category": "art",
+        "summary": "Through her sinuous approach to the human figure, Cabrera forged a distinctive sculptural language and challenged conventions",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/a785817dbcb8959225a17ebfbe025877af450722-2000x3041.jpg?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/09/04/geles-cabrera-mexican-sculptor-obituary",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-04T21-53_3",
+        "rank": 3,
+        "title": "STAT+: Novartis’ experimental cardiovascular drug fails a pivotal study",
+        "category": "biotech",
+        "summary": "A closely watched cardiovascular drug from Novartis failed in a pivotal study, the company said Friday, a major blow to the firm.",
+        "image": "https://www.statnews.com/wp-content/uploads/2018/10/STAT_Novartis02-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/09/04/novartis-therapy-pelacarsen-fails-cardiovascular-trial/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-04T21-53_4",
+        "rank": 4,
+        "title": "NASA Ames Fire Department Aircraft Firefighting Training",
+        "category": "space",
+        "summary": "The fire department at NASA’s Ames Research Center in California’s Silicon Valley will perform training on the Moffett Federal Airfield beginning Tuesday, Sept. 8 through Friday, Sept. 11. The training will involve the…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/04/nasa-meatball-1.webp",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/news-release/nasa-ames-fire-department-aircraft-firefighting-training/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-04T21-53_5",
+        "rank": 5,
+        "title": "Stanford scientists discover a seafood that can reverse signs of aging",
+        "category": "neuroscience",
+        "summary": "A substance found in edible sea squirts appeared to reverse several signs of aging in older mice. Plasmalogen supplements improved memory and learning, strengthened connections between brain cells, reduced inflammation,…",
+        "image": "https://www.sciencedaily.com/images/1920/longevity-anti-aging-beauty-skincare.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260902234518.htm",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-09-03T21-57",
     "scannedAt": "2026-09-03T21:57:01.114Z",
     "items": [
@@ -2043,26 +2104,6 @@
         "source": "Artforum",
         "sourceUrl": "https://www.artforum.com/news/white-cube-new-york-loses-three-star-directors-1234756678/",
         "fromX": false
-      }
-    ]
-  },
-  {
-    "batchId": "editorial_2026-08-07",
-    "scannedAt": "2026-08-08T01:30:06.544Z",
-    "kind": "editorial_archive",
-    "items": [
-      {
-        "id": "editorial_2026-08-07",
-        "rank": 0,
-        "title": "What we restore under light, and what still leaves in the dark",
-        "category": "editorial",
-        "summary": "Convergence of repaired rooms and contested origins",
-        "image": "https://img.canarymedia.com/content/uploads/Trump-and-Lutnick-polysilcon-announcement_GettyImages-2288526842.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=692c59fa6178001ae8dfd9660615e7fd",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-07.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-08-07",
-        "authorName": "Dr. Wallace Lynch"
       }
     ]
   }

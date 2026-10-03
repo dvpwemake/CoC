@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-10-03T15-16",
-    "scannedAt": "2026-10-03T15:16:22.520Z",
+    "batchId": "auto_2026-10-03T18-50",
+    "scannedAt": "2026-10-03T18:50:47.346Z",
     "items": [
       {
-        "id": "auto_2026-10-03T15-16_1",
+        "id": "auto_2026-10-03T18-50_1",
         "rank": 1,
-        "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+        "title": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
         "category": "general",
-        "summary": "Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into massive hits like Lisa's \"Money\" and…",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_3820.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "sourceUrl": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
+        "summary": "The price of anything with memory is skyrocketing thanks to AI. Aging streaming devices are no exception.",
+        "image": "https://media.wired.com/photos/6ac00d9bc910b804171a679e/master/pass/GettyImages-474968764.jpg",
+        "source": "WIRED",
+        "sourceUrl": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/",
         "fromX": false
       },
       {
-        "id": "auto_2026-10-03T15-16_2",
+        "id": "auto_2026-10-03T18-50_2",
         "rank": 2,
-        "title": "ESA’s Juice just used Earth as a slingshot to Jupiter",
-        "category": "space",
-        "summary": "ESA’s Juice spacecraft raced past Earth on September 28, using our planet’s gravity to dramatically reshape its path toward Jupiter without burning much fuel. The flyby changed its direction by 20 degrees and increased…",
-        "image": "https://www.sciencedaily.com/images/1920/juice-images-earth-during-flyby.webp",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261001214102.htm",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-03T15-16_3",
-        "rank": 3,
-        "title": "Your gut may be making a molecule that raises Alzheimer’s risk",
+        "title": "Daily Steps Tied to Lower Teen Depression",
         "category": "neuroscience",
-        "summary": "Scientists have linked a gut bacterial compound called ImP to greater Alzheimer’s risk, harmful brain protein buildup, and faster cognitive decline. The finding raises the possibility that reducing ImP in the blood…",
-        "image": "https://www.sciencedaily.com/images/1920/brain-gut-connection.webp",
+        "summary": "Tracking 5,500 teens reveals higher daily step counts thicken emotion-regulating brain regions and reduce depression and anxiety.",
+        "image": "https://neurosciencenews.com/files/2026/10/teen-walking-mental-health-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/teen-walking-depression-neuroscience-31289/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-03T18-50_3",
+        "rank": 3,
+        "title": "Chang’e-6 lunar soil contains a surprising magnetic time capsule",
+        "category": "space",
+        "summary": "Scientists studying Chang’e-6 lunar soil have discovered a previously unknown magnetic mineral in natural Moon samples: a form of metallic iron called γ-Fe. Found inside tiny impact-glass particles, the nanoscale iron…",
+        "image": "https://www.sciencedaily.com/images/1920/lunar-topography-and-magnetic-anomalies.webp",
         "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260930225459.htm",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261001214015.htm",
         "fromX": false
       },
       {
-        "id": "auto_2026-10-03T15-16_4",
+        "id": "auto_2026-10-03T18-50_4",
         "rank": 4,
-        "title": "‘The struggle creates genius’: as it grows and matures, Atlanta Art Fair spotlights the city’s hard-working artists",
+        "title": "Untitled Art, Houston taps into a city where artists can thrive",
         "category": "art",
-        "summary": "The fair’s third edition, its largest yet, saw a bevy of sales in its opening hours, primarily in the four- and five-figure range",
-        "image": "https://cdn.sanity.io/images/cxgd3urn/production/8edb3f4b1416109160b23b2770ce0390375e12c1-2000x1333.jpg?w=140",
+        "summary": "The second edition of the fair highlights Houston’s galleries, collectors and institutions, while artists point to affordability, strong connections and a spirit of experimentation",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/5077899216f430d1bd05d6069afb091c24fc88e5-7140x4760.jpg?w=140",
         "source": "The Art Newspaper",
-        "sourceUrl": "https://www.theartnewspaper.com/2026/10/02/atlanta-art-fair-matures-third-edition-local-artists-spotlight",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/10/02/untitled-art-houston-taps-into-a-city-where-artists-can-thrive",
         "fromX": false
       },
       {
-        "id": "auto_2026-10-03T15-16_5",
+        "id": "auto_2026-10-03T18-50_5",
         "rank": 5,
-        "title": "Aseon CEO: ‘The opportunity is to make vehicle servicing as autonomous as driving’",
+        "title": "Industry body A3 releases final part of safety standard for industrial mobile robots",
         "category": "robotics",
-        "summary": "The robotaxi industry has spent billions of dollars developing vehicles that can drive without a human behind the wheel. But removing the driver creates another problem: the vehicle may be autonomous on the road, but it…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/aseon-labs-2.jpg",
+        "summary": "The Association for Advancing Automation (A3) has announced ANSI/A3 R15.08-3-2026, American National Standard for Industrial Mobile Robots, Safety Requirements, Part 3: Use of IMR Applications is now available for…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/a3-ansi-industrial-mobile-robot-safety.jpg",
         "source": "Robotics & Automation News",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/02/aseon-ceo-the-opportunity-is-to-make-vehicle-servicing-as-autonomous-as-driving/105477/",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/02/industry-body-a3-releases-final-part-of-safety-standard-for-industrial-mobile-robots/105474/",
         "fromX": false
       }
     ]
@@ -118,6 +118,26 @@
         "source": "Neuroscience News",
         "sourceUrl": "https://neurosciencenews.com/thc-anxiety-endocannabinoids-31287/",
         "fromX": false
+      }
+    ]
+  },
+  {
+    "batchId": "editorial_2026-10-02",
+    "scannedAt": "2026-10-02T07:19:46.793Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-10-02",
+        "rank": 0,
+        "title": "The Unseen Tectonic Shifts",
+        "category": "editorial",
+        "summary": "On hidden circuits, shifting social contracts, and the art of redrawing boundaries",
+        "image": "https://neurosciencenews.com/files/2026/10/alzheimers-brain-aging-neuroscience-1155x770.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-10-02.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-10-02",
+        "authorName": "Dr. Wallace Lynch"
       }
     ]
   },
@@ -2124,67 +2144,6 @@
         "image": "https://www.statnews.com/wp-content/uploads/2026/09/CEASOAV62YN32HCQ3PQMDZCAIE-1024x576.jpg",
         "source": "STAT News",
         "sourceUrl": "https://www.statnews.com/2026/09/04/mass-general-brigham-medicare-advantage-network-cancer-treatment-dana-farber/?utm_campaign=rss",
-        "fromX": false
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-09-04T21-53",
-    "scannedAt": "2026-09-04T21:53:05.640Z",
-    "items": [
-      {
-        "id": "auto_2026-09-04T21-53_1",
-        "rank": 1,
-        "title": "Audacity 4 is a complete revamp of the ‘world’s most popular’ audio editor",
-        "category": "general",
-        "summary": "Audacity 4 has been in the works for some time, and had its own mini controversy last year when an unfortunate redesigned logo started making the rounds. The final version of the new icon isn't nearly as bad as the…",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Audacity-4.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-        "source": "The Verge",
-        "sourceUrl": "https://www.theverge.com/tech/990658/audacity-4-update-audio-editing",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-04T21-53_2",
-        "rank": 2,
-        "title": "Geles Cabrera, the pioneering Mexican sculptor, has died, aged 100",
-        "category": "art",
-        "summary": "Through her sinuous approach to the human figure, Cabrera forged a distinctive sculptural language and challenged conventions",
-        "image": "https://cdn.sanity.io/images/cxgd3urn/production/a785817dbcb8959225a17ebfbe025877af450722-2000x3041.jpg?w=140",
-        "source": "The Art Newspaper",
-        "sourceUrl": "https://www.theartnewspaper.com/2026/09/04/geles-cabrera-mexican-sculptor-obituary",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-04T21-53_3",
-        "rank": 3,
-        "title": "STAT+: Novartis’ experimental cardiovascular drug fails a pivotal study",
-        "category": "biotech",
-        "summary": "A closely watched cardiovascular drug from Novartis failed in a pivotal study, the company said Friday, a major blow to the firm.",
-        "image": "https://www.statnews.com/wp-content/uploads/2018/10/STAT_Novartis02-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/09/04/novartis-therapy-pelacarsen-fails-cardiovascular-trial/?utm_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-04T21-53_4",
-        "rank": 4,
-        "title": "NASA Ames Fire Department Aircraft Firefighting Training",
-        "category": "space",
-        "summary": "The fire department at NASA’s Ames Research Center in California’s Silicon Valley will perform training on the Moffett Federal Airfield beginning Tuesday, Sept. 8 through Friday, Sept. 11. The training will involve the…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/04/nasa-meatball-1.webp",
-        "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/news-release/nasa-ames-fire-department-aircraft-firefighting-training/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-04T21-53_5",
-        "rank": 5,
-        "title": "Stanford scientists discover a seafood that can reverse signs of aging",
-        "category": "neuroscience",
-        "summary": "A substance found in edible sea squirts appeared to reverse several signs of aging in older mice. Plasmalogen supplements improved memory and learning, strengthened connections between brain cells, reduced inflammation,…",
-        "image": "https://www.sciencedaily.com/images/1920/longevity-anti-aging-beauty-skincare.webp",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260902234518.htm",
         "fromX": false
       }
     ]
