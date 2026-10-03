@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-10-03T02-26",
+    "scannedAt": "2026-10-03T02:26:18.144Z",
+    "items": [
+      {
+        "id": "auto_2026-10-03T02-26_1",
+        "rank": 1,
+        "title": "Tech Now",
+        "category": "general",
+        "summary": "Alasdair Keane heads to the Pokémon World Championships in San Francisco.",
+        "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pdn4dw.jpg",
+        "source": "BBC Technology",
+        "sourceUrl": "https://www.bbc.co.uk/iplayer/episode/m0032n6v?at_medium=RSS&at_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-03T02-26_2",
+        "rank": 2,
+        "title": "‘The struggle creates genius’: as it grows and matures, Atlanta Art Fair spotlights the city’s hard-working artists",
+        "category": "art",
+        "summary": "The fair’s third edition, its largest yet, saw a bevy of sales in its opening hours, primarily in the four- and five-figure range",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/8edb3f4b1416109160b23b2770ce0390375e12c1-2000x1333.jpg?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/10/02/atlanta-art-fair-matures-third-edition-local-artists-spotlight",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-03T02-26_3",
+        "rank": 3,
+        "title": "Heading Home: NASA’s SpaceX Crew-12 Concludes Station Science Mission",
+        "category": "space",
+        "summary": "NASA’s SpaceX Crew-12 mission is ending, with the crew scheduled to return in early October. NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut…",
+        "image": "https://www.youtube.com/embed/5GeAORj0Nw0",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/missions/station/iss-research/heading-home-nasas-spacex-crew-12-concludes-station-science-mission/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-03T02-26_4",
+        "rank": 4,
+        "title": "Aseon CEO: ‘The opportunity is to make vehicle servicing as autonomous as driving’",
+        "category": "robotics",
+        "summary": "The robotaxi industry has spent billions of dollars developing vehicles that can drive without a human behind the wheel. But removing the driver creates another problem: the vehicle may be autonomous on the road, but it…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/aseon-labs-2.jpg",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/02/aseon-ceo-the-opportunity-is-to-make-vehicle-servicing-as-autonomous-as-driving/105477/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-03T02-26_5",
+        "rank": 5,
+        "title": "Can an AI Ever Truly Be \"Conscious\" in the Eyes of Humans?",
+        "category": "neuroscience",
+        "summary": "Humans refuse to attribute consciousness to AI even when it acts identically to a human.",
+        "image": "https://neurosciencenews.com/files/2026/10/Humans-Refuse-to-Grant-Consciousness-to-AI-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/human-ai-consciousness-neurotech-31286/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-10-02T23-19",
     "scannedAt": "2026-10-02T23:19:26.565Z",
     "items": [
@@ -2124,67 +2185,6 @@
         "image": "https://www.sciencedaily.com/images/1920/longevity-anti-aging-beauty-skincare.webp",
         "source": "ScienceDaily",
         "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260902234518.htm",
-        "fromX": false
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-09-03T21-57",
-    "scannedAt": "2026-09-03T21:57:01.114Z",
-    "items": [
-      {
-        "id": "auto_2026-09-03T21-57_1",
-        "rank": 1,
-        "title": "Prediction Market Betting Is Getting People Banned and Arrested",
-        "category": "general",
-        "summary": "This week on Uncanny Valley, we dig into the latest prediction market buzz, Flock’s AI-powered police search tool, and how tech bros don’t know how to talk about “rouge” AI agents",
-        "image": "https://media.wired.com/photos/6a98be202f048bd98be06316/master/pass/Uncanny-Valley-George-Santos-Politics-2211292507.jpg",
-        "source": "WIRED",
-        "sourceUrl": "https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-03T21-57_2",
-        "rank": 2,
-        "title": "Schiess takes command of Space Force as the service prepares for expansion",
-        "category": "space",
-        "summary": "Gen. Douglas Schiess succeeds Gen. Chance Saltzman as the third chief of space operations of the U.S. Space Force The post Schiess takes command of Space Force as the service prepares for expansion appeared first on…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/09/9911318-scaled.jpg?fit=1024%2C667&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/schiess-takes-command-of-space-force-as-the-service-prepares-for-expansion/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-03T21-57_3",
-        "rank": 3,
-        "title": "STAT+: Ionis wins FDA approval for first drug for Alexander disease, a rare and deadly neurological disorder",
-        "category": "biotech",
-        "summary": "Zanvastro is the first disease-modifying treatment for Alexander disease, a rare and fatal disorder.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/09/AP7357695644179726-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/09/03/ionis-fda-approval-zanvastro-alexander-disease/?utm_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-03T21-57_4",
-        "rank": 4,
-        "title": "Denizens of a Crowded City Populate Erin Milez's Dense Paintings",
-        "category": "art",
-        "summary": "Milez's new body of work goes on view this month in 'Everything the Light Touches' at Monya Rowe Gallery. Do stories and artists like this matter to you? Become a Colossal Member today and support independent arts…",
-        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/09/milez-7.jpg",
-        "source": "Colossal",
-        "sourceUrl": "https://www.thisiscolossal.com/2026/09/erin-milez-everything-the-light-touches-city-paintings/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-03T21-57_5",
-        "rank": 5,
-        "title": "Protecting Dynamic Industrial Robot Cable Carriers",
-        "category": "robotics",
-        "summary": "This article is brought to you by Tsubaki KabelSchlepp . In modern automated manufacturing, six-axis articulated robots perform high-speed, multidirectional maneuvers under demanding operational cycles. However, as…",
-        "image": "https://spectrum.ieee.org/media-library/industrial-robotic-arm-with-cable-management-system-and-flexible-energy-chains.jpg?id=67633840&width=980",
-        "source": "IEEE Spectrum",
-        "sourceUrl": "https://spectrum.ieee.org/industrial-robot-cable-carrier-protection",
         "fromX": false
       }
     ]

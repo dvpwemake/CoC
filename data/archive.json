@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-10-03T02-26",
+    "scannedAt": "2026-10-03T02:26:18.144Z",
+    "items": [
+      {
+        "id": "auto_2026-10-03T02-26_1",
+        "rank": 1,
+        "title": "Tech Now",
+        "category": "general",
+        "summary": "Alasdair Keane heads to the Pokémon World Championships in San Francisco.",
+        "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pdn4dw.jpg",
+        "source": "BBC Technology",
+        "sourceUrl": "https://www.bbc.co.uk/iplayer/episode/m0032n6v?at_medium=RSS&at_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-03T02-26_2",
+        "rank": 2,
+        "title": "‘The struggle creates genius’: as it grows and matures, Atlanta Art Fair spotlights the city’s hard-working artists",
+        "category": "art",
+        "summary": "The fair’s third edition, its largest yet, saw a bevy of sales in its opening hours, primarily in the four- and five-figure range",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/8edb3f4b1416109160b23b2770ce0390375e12c1-2000x1333.jpg?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/10/02/atlanta-art-fair-matures-third-edition-local-artists-spotlight",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-03T02-26_3",
+        "rank": 3,
+        "title": "Heading Home: NASA’s SpaceX Crew-12 Concludes Station Science Mission",
+        "category": "space",
+        "summary": "NASA’s SpaceX Crew-12 mission is ending, with the crew scheduled to return in early October. NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut…",
+        "image": "https://www.youtube.com/embed/5GeAORj0Nw0",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/missions/station/iss-research/heading-home-nasas-spacex-crew-12-concludes-station-science-mission/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-03T02-26_4",
+        "rank": 4,
+        "title": "Aseon CEO: ‘The opportunity is to make vehicle servicing as autonomous as driving’",
+        "category": "robotics",
+        "summary": "The robotaxi industry has spent billions of dollars developing vehicles that can drive without a human behind the wheel. But removing the driver creates another problem: the vehicle may be autonomous on the road, but it…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/aseon-labs-2.jpg",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/02/aseon-ceo-the-opportunity-is-to-make-vehicle-servicing-as-autonomous-as-driving/105477/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-03T02-26_5",
+        "rank": 5,
+        "title": "Can an AI Ever Truly Be \"Conscious\" in the Eyes of Humans?",
+        "category": "neuroscience",
+        "summary": "Humans refuse to attribute consciousness to AI even when it acts identically to a human.",
+        "image": "https://neurosciencenews.com/files/2026/10/Humans-Refuse-to-Grant-Consciousness-to-AI-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/human-ai-consciousness-neurotech-31286/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-10-02T23-19",
     "scannedAt": "2026-10-02T23:19:26.565Z",
     "items": [
