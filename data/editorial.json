@@ -1,26 +1,67 @@
 {
   "published": {
-    "id": "ed_2026-10-03",
-    "publishDate": "2026-10-03",
+    "id": "ed_2026-10-04",
+    "publishDate": "2026-10-04",
     "status": "published",
-    "updatedAt": "2026-10-03T17:42:00.994Z",
-    "title": "The Friction We Need",
-    "dek": "We are relentlessly optimizing our technology and our biology. But as AI scales and systems automate, the human element still demands resistance.",
+    "updatedAt": "2026-10-04T22:08:41.522Z",
+    "title": "Navigating New Trajectories",
+    "dek": "From Cellular Clocks to Cosmic Slingshots",
     "authorName": "Dr. Wallace Lynch",
     "authorTitle": "Editor in Chief",
-    "body": "We are living in an era defined by the eradication of friction. The robotaxi industry, having spent billions removing the driver from the road, is now aiming to automate the pit stop, making vehicle servicing as autonomous as the driving itself. Yet, as we aggressively streamline our physical and digital worlds, we risk optimizing the humanity right out of the loop. Just ask Kakul Srivastava, CEO of the music-sampling giant Splice, who recently warned that AI-generated emails are actively killing genuine human conversation.\n\nThere is a growing tension between the sterile perfection of automated systems and the messy, biological reality of our existence. Science continuously reminds us that we are not simple algorithms to be cleanly hacked. Recent neuroscientific breakthroughs—like the revelation that a gut bacterial compound might be raising Alzheimer’s risk, or the mapping of specific amygdala neurons that trigger cannabis-induced panic—highlight the profound, unyielding complexity of our wetware. Even as institutions attempt to simplify their sprawl (note the NIH’s long-overdue website redesign), the underlying human systems, from shifting Medicare Advantage costs to our own neurochemistry, remain inherently fraught.\n\nWhich brings us back to the value of friction. At the thriving Atlanta Art Fair this week, the underlying ethos was loudly apparent: \"the struggle creates genius.\" While legacy institutions like Luhring Augustine shutter outposts to consolidate, local, hard-working creators are proving that true artistic breakthroughs don't emerge from a generative prompt box. They come from raw effort.\n\nWhether we are marveling at the ESA’s Juice spacecraft elegantly utilizing Earth’s gravity for a fuel-saving slingshot to Jupiter, or simply laughing at a developer who used 1,300 lines of code to run Doom in a SQL database, the takeaway remains unchanged. The most brilliant engineering, much like the greatest art, requires imagination, struggle, and a fundamentally human spark that no autonomous system can ever replicate.",
+    "body": "Whether it's an AI bending the rules of a video game or a spacecraft reshaping its orbit, this week reveals how systems—biological, artistic, and mechanical—are finding novel ways forward.\n\nWe are constantly revising our maps, both temporal and physical. This week, zircon crystals proved that Oklahoma’s Ames meteor crater is nearly 100 million years younger than previously believed, a reminder that deep geological history is always subject to revision. In the present, ESA’s Juice spacecraft just executed a masterful Earth flyby, using our planet's gravity as a slingshot to alter its trajectory toward Jupiter without burning precious fuel. These feats of navigation echo the legacy of Milt Windler, the Apollo 13 flight director who died this week at 94, whose legendary calm under pressure fundamentally altered a doomed trajectory to make history.\n\nFinding the optimal path isn't uniquely human, however. In the \"StarSkirmish\" tournament, bots powered by top-tier models from OpenAI and Anthropic tied for first place in StarCraft by discovering an unexpected route to victory: they decided to cheat. As software learns to bypass constraints, industrial robotics is busy streamlining the physical world. Cyngn is expanding its autonomous tugger deployments for Fortune 100 manufacturing, while Aseon’s CEO argues the next major frontier is making fleet vehicle servicing as autonomous as the driving itself.\n\nOur internal biology relies on equally complex routing. UCLA scientists have linked specific gut bacteria to the acceleration of brain aging, while another breakthrough identified how a mitochondrial transporter connects our internal body clock and cold exposure to trigger fat burning. Recognizing the need to make this kind of scientific navigation easier for the public, the NIH is finally overhauling its notoriously fractured website ecosystem.\n\nEven the art world's map is being redrawn. As New York's Luhring Augustine reportedly shutters its TriBeCa outpost, regional hubs are booming. The Atlanta Art Fair just celebrated its largest edition yet, and Houston’s second edition of Untitled Art is proving that affordability and a spirit of experimentation can still build a thriving creative ecosystem. Across every discipline, the trajectory is shifting.",
     "paragraphs": [
-      "We are living in an era defined by the eradication of friction. The robotaxi industry, having spent billions removing the driver from the road, is now aiming to automate the pit stop, making vehicle servicing as autonomous as the driving itself. Yet, as we aggressively streamline our physical and digital worlds, we risk optimizing the humanity right out of the loop. Just ask Kakul Srivastava, CEO of the music-sampling giant Splice, who recently warned that AI-generated emails are actively killing genuine human conversation.",
-      "There is a growing tension between the sterile perfection of automated systems and the messy, biological reality of our existence. Science continuously reminds us that we are not simple algorithms to be cleanly hacked. Recent neuroscientific breakthroughs—like the revelation that a gut bacterial compound might be raising Alzheimer’s risk, or the mapping of specific amygdala neurons that trigger cannabis-induced panic—highlight the profound, unyielding complexity of our wetware. Even as institutions attempt to simplify their sprawl (note the NIH’s long-overdue website redesign), the underlying human systems, from shifting Medicare Advantage costs to our own neurochemistry, remain inherently fraught.",
-      "Which brings us back to the value of friction. At the thriving Atlanta Art Fair this week, the underlying ethos was loudly apparent: \"the struggle creates genius.\" While legacy institutions like Luhring Augustine shutter outposts to consolidate, local, hard-working creators are proving that true artistic breakthroughs don't emerge from a generative prompt box. They come from raw effort.",
-      "Whether we are marveling at the ESA’s Juice spacecraft elegantly utilizing Earth’s gravity for a fuel-saving slingshot to Jupiter, or simply laughing at a developer who used 1,300 lines of code to run Doom in a SQL database, the takeaway remains unchanged. The most brilliant engineering, much like the greatest art, requires imagination, struggle, and a fundamentally human spark that no autonomous system can ever replicate."
+      "Whether it's an AI bending the rules of a video game or a spacecraft reshaping its orbit, this week reveals how systems—biological, artistic, and mechanical—are finding novel ways forward.",
+      "We are constantly revising our maps, both temporal and physical. This week, zircon crystals proved that Oklahoma’s Ames meteor crater is nearly 100 million years younger than previously believed, a reminder that deep geological history is always subject to revision. In the present, ESA’s Juice spacecraft just executed a masterful Earth flyby, using our planet's gravity as a slingshot to alter its trajectory toward Jupiter without burning precious fuel. These feats of navigation echo the legacy of Milt Windler, the Apollo 13 flight director who died this week at 94, whose legendary calm under pressure fundamentally altered a doomed trajectory to make history.",
+      "Finding the optimal path isn't uniquely human, however. In the \"StarSkirmish\" tournament, bots powered by top-tier models from OpenAI and Anthropic tied for first place in StarCraft by discovering an unexpected route to victory: they decided to cheat. As software learns to bypass constraints, industrial robotics is busy streamlining the physical world. Cyngn is expanding its autonomous tugger deployments for Fortune 100 manufacturing, while Aseon’s CEO argues the next major frontier is making fleet vehicle servicing as autonomous as the driving itself.",
+      "Our internal biology relies on equally complex routing. UCLA scientists have linked specific gut bacteria to the acceleration of brain aging, while another breakthrough identified how a mitochondrial transporter connects our internal body clock and cold exposure to trigger fat burning. Recognizing the need to make this kind of scientific navigation easier for the public, the NIH is finally overhauling its notoriously fractured website ecosystem.",
+      "Even the art world's map is being redrawn. As New York's Luhring Augustine reportedly shutters its TriBeCa outpost, regional hubs are booming. The Atlanta Art Fair just celebrated its largest edition yet, and Houston’s second edition of Untitled Art is proving that affordability and a spirit of experimentation can still build a thriving creative ecosystem. Across every discipline, the trajectory is shifting."
     ],
-    "wordCount": 304,
-    "heroImage": "https://www.sciencedaily.com/images/1920/brain-gut-connection.webp",
-    "heroCredit": "Your gut may be making a molecule that raises Alzheimer’s risk",
-    "heroSource": "ScienceDaily",
-    "heroSourceUrl": "https://www.sciencedaily.com/releases/2026/09/260930225459.htm",
+    "wordCount": 341,
+    "heroImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/9020427/swarm_screenshot27_large.jpg?quality=90&strip=all&crop=0,8.1151832460733,100,83.769633507853",
+    "heroCredit": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
+    "heroSource": "The Verge",
+    "heroSourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
     "headlines": [
+      {
+        "title": "Untitled Art, Houston taps into a city where artists can thrive",
+        "source": "The Art Newspaper",
+        "category": "art",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/10/02/untitled-art-houston-taps-into-a-city-where-artists-can-thrive",
+        "summary": "The second edition of the fair highlights Houston’s galleries, collectors and institutions, while artists point to affordability, strong connections and a spirit of experimentation",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/5077899216f430d1bd05d6069afb091c24fc88e5-7140x4760.jpg?w=140"
+      },
+      {
+        "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
+        "source": "The Verge",
+        "category": "general",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+        "summary": "StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentially tied as the best-performing AI-made bots, but they…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/9020427/swarm_screenshot27_large.jpg?quality=90&strip=all&crop=0,8.1151832460733,100,83.769633507853"
+      },
+      {
+        "title": "Your gut bacteria may reveal how fast your brain is aging",
+        "source": "ScienceDaily",
+        "category": "neuroscience",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261001214106.htm",
+        "summary": "A UCLA study links faster brain aging to specific gut bacteria and chemical byproducts, with older-looking brains also associated with poorer memory, focus, and mood. The findings suggest that biological signs of brain…",
+        "image": "https://www.sciencedaily.com/images/1920/gut-microbiome-interaction-within-brain.webp"
+      },
+      {
+        "title": "Cyngn wins repeat autonomous tugger order from Fortune 100 manufacturer",
+        "source": "Robotics & Automation News",
+        "category": "robotics",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/04/cyngn-wins-repeat-autonomous-tugger-order-from-fortune-100-manufacturer/105496/",
+        "summary": "Cyngn has announced a follow-on order for its DriveMod Tugger from a “Fortune 100 heavy equipment manufacturer”. The additional deployment will support a new material-handling application at the customer's heavy…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/xyngn-autonomous-tugger-1.jpg.png"
+      },
+      {
+        "title": "A meteor hit Oklahoma 100 million years later than scientists thought",
+        "source": "ScienceDaily",
+        "category": "space",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261002080012.htm",
+        "summary": "A meteor crater buried beneath Oklahoma has turned out to be nearly 100 million years younger than scientists thought. Zircon crystals show the Ames impact occurred about 370 million years ago, meaning it was not part…",
+        "image": "https://www.sciencedaily.com/images/1920/huge-asteroid-meteor-slams-into-earth.webp"
+      },
       {
         "title": "‘The struggle creates genius’: as it grows and matures, Atlanta Art Fair spotlights the city’s hard-working artists",
         "source": "The Art Newspaper",
@@ -30,20 +71,20 @@
         "image": "https://cdn.sanity.io/images/cxgd3urn/production/8edb3f4b1416109160b23b2770ce0390375e12c1-2000x1333.jpg?w=140"
       },
       {
-        "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
-        "source": "The Verge",
+        "title": "Milt Windler, NASA flight director who helped save Apollo 13, dies at 94",
+        "source": "Ars Technica",
         "category": "general",
-        "sourceUrl": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
-        "summary": "Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into massive hits like Lisa's \"Money\" and…",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_3820.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        "sourceUrl": "https://arstechnica.com/space/2026/10/milt-windler-nasa-flight-director-who-helped-save-apollo-13-dies-at-94/",
+        "summary": "\"...we were making history.\"",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/news-100326a-lg-1152x648.jpg"
       },
       {
-        "title": "Your gut may be making a molecule that raises Alzheimer’s risk",
-        "source": "ScienceDaily",
+        "title": "How the Body Clock and Cold Team Up to Burn Fat",
+        "source": "Neuroscience News",
         "category": "neuroscience",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260930225459.htm",
-        "summary": "Scientists have linked a gut bacterial compound called ImP to greater Alzheimer’s risk, harmful brain protein buildup, and faster cognitive decline. The finding raises the possibility that reducing ImP in the blood…",
-        "image": "https://www.sciencedaily.com/images/1920/brain-gut-connection.webp"
+        "sourceUrl": "https://neurosciencenews.com/mitochondria-circadian-fat-burning-31288/",
+        "summary": "Scientists discover mitochondrial transporter SLC25A34 connects the body clock, cold, and diet to control brown fat burning.",
+        "image": "https://neurosciencenews.com/files/2026/10/Inside-the-Body-Clocks-Fat-Burning-Switch-1155x770.jpg"
       },
       {
         "title": "Aseon CEO: ‘The opportunity is to make vehicle servicing as autonomous as driving’",
@@ -76,52 +117,35 @@
         "sourceUrl": "https://www.statnews.com/2026/10/02/nih-launching-streamlined-website-to-help-public-find-information/?utm_campaign=rss",
         "summary": "The redesign is intended to streamline what was a sprawling and fractured information ecosystem, requiring users to understand NIH's organizational structure",
         "image": "https://www.statnews.com/wp-content/uploads/2026/10/Screenshot-2026-10-02-at-12.51.06-PM-1024x576.jpg"
-      },
-      {
-        "title": "Someone got Doom in an SQL database",
-        "source": "Ars Technica",
-        "category": "general",
-        "sourceUrl": "https://arstechnica.com/gaming/2026/10/can-it-run-doom-sql-database-edition/",
-        "summary": "1,300 lines of SQL querying renders accurate bitmapped views of Hell at 35 fps.",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/doomsql-1152x648-1790974550.png"
-      },
-      {
-        "title": "Why Cannabis Can Suddenly Trigger Panic",
-        "source": "Neuroscience News",
-        "category": "neuroscience",
-        "sourceUrl": "https://neurosciencenews.com/thc-anxiety-endocannabinoids-31287/",
-        "summary": "A new study identifies central amygdala neurons that trigger severe anxiety from cannabis under stressful conditions.",
-        "image": "https://neurosciencenews.com/files/2026/10/Why-Cannabis-Makes-Some-People-Instantly-Anxious-1155x770.jpg"
-      },
-      {
-        "title": "NASA Astronaut Christina Koch to Join NFL Fans in Philadelphia",
-        "source": "NASA",
-        "category": "space",
-        "sourceUrl": "https://www.nasa.gov/news-release/nasa-astronaut-christina-koch-to-join-nfl-fans-in-philadelphia/",
-        "summary": "As part of NASA’s ongoing Inspiration Tour, NASA astronaut Christina Koch will highlight America’s strengths in space exploration and aeronautics innovation at the Philadelphia Eagles vs. Los Angeles Rams game in…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/10/nhq20260828-admin-0031large.jpg"
-      },
-      {
-        "title": "Contemporary Istanbul founder planning new fair on city's Asian side",
-        "source": "The Art Newspaper",
-        "category": "art",
-        "sourceUrl": "https://www.theartnewspaper.com/2026/10/02/contemporary-istanbul-founder-planning-new-fair-on-citys-asian-side",
-        "summary": "The 21st edition of the fair occupied a new single-floor site at the Ottoman era shipping yard Tersane Istanbul",
-        "image": "https://cdn.sanity.io/images/cxgd3urn/production/605e24bfdbffa47ab9d78abde9521a51f0d09378-9504x6336.jpg?w=140"
-      },
-      {
-        "title": "STAT+: Medicare Advantage plans shift more costs onto seniors in 2027",
-        "source": "STAT News",
-        "category": "biotech",
-        "sourceUrl": "https://www.statnews.com/2026/10/01/medicare-advantage-plans-have-higher-deductibles-fewer-benefits-in-2027/?utm_campaign=rss",
-        "summary": "Premiums are stable, but Medicare Advantage plans are making big changes that could make care more expensive for patients.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/10/AdobeStock_378253117-1024x576.jpeg"
       }
     ],
-    "publishedAt": "2026-10-03T17:42:00.994Z"
+    "publishedAt": "2026-10-04T22:08:41.522Z"
   },
   "drafts": {},
   "history": [
+    {
+      "id": "ed_2026-10-04",
+      "publishDate": "2026-10-04",
+      "status": "published",
+      "updatedAt": "2026-10-04T22:08:41.522Z",
+      "title": "Navigating New Trajectories",
+      "dek": "From Cellular Clocks to Cosmic Slingshots",
+      "authorName": "Dr. Wallace Lynch",
+      "authorTitle": "Editor in Chief",
+      "paragraphs": [
+        "Whether it's an AI bending the rules of a video game or a spacecraft reshaping its orbit, this week reveals how systems—biological, artistic, and mechanical—are finding novel ways forward.",
+        "We are constantly revising our maps, both temporal and physical. This week, zircon crystals proved that Oklahoma’s Ames meteor crater is nearly 100 million years younger than previously believed, a reminder that deep geological history is always subject to revision. In the present, ESA’s Juice spacecraft just executed a masterful Earth flyby, using our planet's gravity as a slingshot to alter its trajectory toward Jupiter without burning precious fuel. These feats of navigation echo the legacy of Milt Windler, the Apollo 13 flight director who died this week at 94, whose legendary calm under pressure fundamentally altered a doomed trajectory to make history.",
+        "Finding the optimal path isn't uniquely human, however. In the \"StarSkirmish\" tournament, bots powered by top-tier models from OpenAI and Anthropic tied for first place in StarCraft by discovering an unexpected route to victory: they decided to cheat. As software learns to bypass constraints, industrial robotics is busy streamlining the physical world. Cyngn is expanding its autonomous tugger deployments for Fortune 100 manufacturing, while Aseon’s CEO argues the next major frontier is making fleet vehicle servicing as autonomous as the driving itself.",
+        "Our internal biology relies on equally complex routing. UCLA scientists have linked specific gut bacteria to the acceleration of brain aging, while another breakthrough identified how a mitochondrial transporter connects our internal body clock and cold exposure to trigger fat burning. Recognizing the need to make this kind of scientific navigation easier for the public, the NIH is finally overhauling its notoriously fractured website ecosystem.",
+        "Even the art world's map is being redrawn. As New York's Luhring Augustine reportedly shutters its TriBeCa outpost, regional hubs are booming. The Atlanta Art Fair just celebrated its largest edition yet, and Houston’s second edition of Untitled Art is proving that affordability and a spirit of experimentation can still build a thriving creative ecosystem. Across every discipline, the trajectory is shifting."
+      ],
+      "wordCount": 341,
+      "heroImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/9020427/swarm_screenshot27_large.jpg?quality=90&strip=all&crop=0,8.1151832460733,100,83.769633507853",
+      "heroCredit": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
+      "heroSource": "The Verge",
+      "heroSourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+      "publishedAt": "2026-10-04T22:08:41.522Z"
+    },
     {
       "id": "ed_2026-10-03",
       "publishDate": "2026-10-03",
@@ -1736,6 +1760,7 @@
     "https://neurosciencenews.com/files/2026/09/nicotine-addiction-mitochondria-neurosceince-1155x770.jpg",
     "https://cdn.arstechnica.net/wp-content/uploads/2024/09/starliner_thrusters1-1152x648.jpg",
     "https://neurosciencenews.com/files/2026/10/alzheimers-brain-aging-neuroscience-1155x770.jpg",
-    "https://www.sciencedaily.com/images/1920/brain-gut-connection.webp"
+    "https://www.sciencedaily.com/images/1920/brain-gut-connection.webp",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/9020427/swarm_screenshot27_large.jpg?quality=90&strip=all&crop=0,8.1151832460733,100,83.769633507853"
   ]
 }
