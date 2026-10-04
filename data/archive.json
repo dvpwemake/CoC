@@ -1,81 +1,61 @@
 [
   {
-    "batchId": "editorial_2026-10-03",
-    "scannedAt": "2026-10-03T17:42:00.994Z",
-    "kind": "editorial_archive",
+    "batchId": "auto_2026-10-04T22-34",
+    "scannedAt": "2026-10-04T22:34:04.143Z",
     "items": [
       {
-        "id": "editorial_2026-10-03",
-        "rank": 0,
-        "title": "The Friction We Need",
-        "category": "editorial",
-        "summary": "We are relentlessly optimizing our technology and our biology. But as AI scales and systems automate, the human element still demands resistance.",
-        "image": "https://www.sciencedaily.com/images/1920/brain-gut-connection.webp",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-10-03.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-10-03",
-        "authorName": "Dr. Wallace Lynch"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-10-04T16-00",
-    "scannedAt": "2026-10-04T16:00:43.190Z",
-    "items": [
-      {
-        "id": "auto_2026-10-04T16-00_1",
+        "id": "auto_2026-10-04T22-34_1",
         "rank": 1,
-        "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
-        "category": "general",
-        "summary": "StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentially tied as the best-performing AI-made bots, but they…",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/9020427/swarm_screenshot27_large.jpg?quality=90&strip=all&crop=0,8.1151832460733,100,83.769633507853",
-        "source": "The Verge",
-        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-04T16-00_2",
-        "rank": 2,
-        "title": "A meteor hit Oklahoma 100 million years later than scientists thought",
+        "title": "Curiosity Blog, Sols 5022-5028: Cashing in at Cache Creek",
         "category": "space",
-        "summary": "A meteor crater buried beneath Oklahoma has turned out to be nearly 100 million years younger than scientists thought. Zircon crystals show the Ames impact occurred about 370 million years ago, meaning it was not part…",
-        "image": "https://www.sciencedaily.com/images/1920/huge-asteroid-meteor-slams-into-earth.webp",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261002080012.htm",
+        "summary": "Written by Lucy Thompson, Senior Research Scientist, University of New Brunswick, Canada Earth planning date: Friday, Sept. 25, 2026 Before we landed, the area of Gale crater that we planned to explore was divided up…",
+        "image": "https://assets.science.nasa.gov/content/dam/science/missions/msl/2026/curiosity-rover-updates/september/https___mars.nasa.gov_msl-raw-images_msss_05023_mhli_5023MH0009060011804392C00_DXXX.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "source": "NASA",
+        "sourceUrl": "https://science.nasa.gov/blog/curiosity-blog-sols-5022-5028-cashing-in-at-cache-creek/",
         "fromX": false
       },
       {
-        "id": "auto_2026-10-04T16-00_3",
+        "id": "auto_2026-10-04T22-34_2",
+        "rank": 2,
+        "title": "Court Tosses ​​Sentence After A.I. Video of Victim ‘Forgiving’ His Killer Is Played",
+        "category": "general",
+        "summary": "An appellate court in Arizona threw out the prison sentence of a man convicted of manslaughter after an A.I.-generated video of his victim was played in court.",
+        "image": "https://static01.nyt.com/images/2026/10/04/multimedia/04xp-ai-video1-ztmh/04xp-ai-video1-ztmh-mediumSquareAt3X.jpg",
+        "source": "NYT Technology",
+        "sourceUrl": "https://www.nytimes.com/2026/10/04/us/manslaughter-conviction-overturned-ai-video-statement.html",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-04T22-34_3",
         "rank": 3,
-        "title": "Your gut bacteria may reveal how fast your brain is aging",
-        "category": "neuroscience",
-        "summary": "A UCLA study links faster brain aging to specific gut bacteria and chemical byproducts, with older-looking brains also associated with poorer memory, focus, and mood. The findings suggest that biological signs of brain…",
-        "image": "https://www.sciencedaily.com/images/1920/gut-microbiome-interaction-within-brain.webp",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261001214106.htm",
+        "title": "Trump announces $90 payments for seniors' Medicare premium costs ahead of midterm elections",
+        "category": "biotech",
+        "summary": "President Trump is promising more payments to voters just ahead of the Nov. 3 midterm elections — this time for seniors' Medicare Part B premiums",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/09/GettyImages-2295309501-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/10/04/trump-announces-90-dollar-payments-for-medicare-premiums/?utm_campaign=rss",
         "fromX": false
       },
       {
-        "id": "auto_2026-10-04T16-00_4",
+        "id": "auto_2026-10-04T22-34_4",
         "rank": 4,
-        "title": "Cyngn wins repeat autonomous tugger order from Fortune 100 manufacturer",
+        "title": "Hello Robot awarded $3 million to develop Stretch robot for elder care",
         "category": "robotics",
-        "summary": "Cyngn has announced a follow-on order for its DriveMod Tugger from a “Fortune 100 heavy equipment manufacturer”. The additional deployment will support a new material-handling application at the customer's heavy…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/xyngn-autonomous-tugger-1.jpg.png",
+        "summary": "Hello Robot has received a Phase IIB Small Business Innovation Research grant from the National Institute on Aging, part of the National Institutes of Health, to advance the use of its Stretch mobile manipulator robot…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/hello-robot-Stretch-tray-delivery.jpg",
         "source": "Robotics & Automation News",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/04/cyngn-wins-repeat-autonomous-tugger-order-from-fortune-100-manufacturer/105496/",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/04/hello-robot-awarded-3-million-to-develop-stretch-robot-for-elder-care/105500/",
         "fromX": false
       },
       {
-        "id": "auto_2026-10-04T16-00_5",
+        "id": "auto_2026-10-04T22-34_5",
         "rank": 5,
-        "title": "Untitled Art, Houston taps into a city where artists can thrive",
-        "category": "art",
-        "summary": "The second edition of the fair highlights Houston’s galleries, collectors and institutions, while artists point to affordability, strong connections and a spirit of experimentation",
-        "image": "https://cdn.sanity.io/images/cxgd3urn/production/5077899216f430d1bd05d6069afb091c24fc88e5-7140x4760.jpg?w=140",
-        "source": "The Art Newspaper",
-        "sourceUrl": "https://www.theartnewspaper.com/2026/10/02/untitled-art-houston-taps-into-a-city-where-artists-can-thrive",
+        "title": "Daily Steps Tied to Lower Teen Depression",
+        "category": "neuroscience",
+        "summary": "Tracking 5,500 teens reveals higher daily step counts thicken emotion-regulating brain regions and reduce depression and anxiety.",
+        "image": "https://neurosciencenews.com/files/2026/10/teen-walking-mental-health-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/teen-walking-depression-neuroscience-31289/",
         "fromX": false
       }
     ]
@@ -138,6 +118,26 @@
         "source": "Robotics & Automation News",
         "sourceUrl": "https://roboticsandautomationnews.com/2026/10/02/aseon-ceo-the-opportunity-is-to-make-vehicle-servicing-as-autonomous-as-driving/105477/",
         "fromX": false
+      }
+    ]
+  },
+  {
+    "batchId": "editorial_2026-10-03",
+    "scannedAt": "2026-10-03T17:42:00.994Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-10-03",
+        "rank": 0,
+        "title": "The Friction We Need",
+        "category": "editorial",
+        "summary": "We are relentlessly optimizing our technology and our biology. But as AI scales and systems automate, the human element still demands resistance.",
+        "image": "https://www.sciencedaily.com/images/1920/brain-gut-connection.webp",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-10-03.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-10-03",
+        "authorName": "Dr. Wallace Lynch"
       }
     ]
   },
