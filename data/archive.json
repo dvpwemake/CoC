@@ -1,5 +1,25 @@
 [
   {
+    "batchId": "editorial_2026-10-03",
+    "scannedAt": "2026-10-03T17:42:00.994Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-10-03",
+        "rank": 0,
+        "title": "The Friction We Need",
+        "category": "editorial",
+        "summary": "We are relentlessly optimizing our technology and our biology. But as AI scales and systems automate, the human element still demands resistance.",
+        "image": "https://www.sciencedaily.com/images/1920/brain-gut-connection.webp",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-10-03.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-10-03",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-10-04T16-00",
     "scannedAt": "2026-10-04T16:00:43.190Z",
     "items": [
