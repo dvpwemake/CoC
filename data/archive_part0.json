@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-10-04T10-15",
-    "scannedAt": "2026-10-04T10:15:05.232Z",
+    "batchId": "auto_2026-10-04T16-00",
+    "scannedAt": "2026-10-04T16:00:43.190Z",
     "items": [
       {
-        "id": "auto_2026-10-04T10-15_1",
+        "id": "auto_2026-10-04T16-00_1",
         "rank": 1,
-        "title": "Rural Data Centers Are in for a Big Federal Tax Break",
+        "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
         "category": "general",
-        "summary": "Under the One Big Beautiful Bill Act, data center projects in rural areas could be eligible for major tax benefits starting next year. Some hyperscalers do not seem eager to take the free cash.",
-        "image": "https://media.wired.com/photos/6abfbb7863cea41649272752/master/pass/100226-Power%20Play.jpg",
-        "source": "WIRED",
-        "sourceUrl": "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/",
+        "summary": "StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentially tied as the best-performing AI-made bots, but they…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/9020427/swarm_screenshot27_large.jpg?quality=90&strip=all&crop=0,8.1151832460733,100,83.769633507853",
+        "source": "The Verge",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
         "fromX": false
       },
       {
-        "id": "auto_2026-10-04T10-15_2",
+        "id": "auto_2026-10-04T16-00_2",
         "rank": 2,
-        "title": "Hello Robot awarded $3 million to develop Stretch robot for elder care",
-        "category": "robotics",
-        "summary": "Hello Robot has received a Phase IIB Small Business Innovation Research grant from the National Institute on Aging, part of the National Institutes of Health, to advance the use of its Stretch mobile manipulator robot…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/hello-robot-Stretch-tray-delivery.jpg",
-        "source": "Robotics & Automation News",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/04/hello-robot-awarded-3-million-to-develop-stretch-robot-for-elder-care/105500/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-04T10-15_3",
-        "rank": 3,
-        "title": "APOD: 2026 October 4 – Supernumerary Rainbows over New Jersey",
+        "title": "A meteor hit Oklahoma 100 million years later than scientists thought",
         "category": "space",
-        "summary": "APOD Science APOD APOD: 2026 October 4 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or…",
-        "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/october/SupernumeraryRainbows_Entwistle_1362.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-        "source": "NASA",
-        "sourceUrl": "https://science.nasa.gov/image-article/apod-2026-october-4-supernumerary-rainbows-over-new-jersey/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-04T10-15_4",
-        "rank": 4,
-        "title": "Your gut may be making a molecule that raises Alzheimer’s risk",
-        "category": "neuroscience",
-        "summary": "Scientists have linked a gut bacterial compound called ImP to greater Alzheimer’s risk, harmful brain protein buildup, and faster cognitive decline. The finding raises the possibility that reducing ImP in the blood…",
-        "image": "https://www.sciencedaily.com/images/1920/brain-gut-connection.webp",
+        "summary": "A meteor crater buried beneath Oklahoma has turned out to be nearly 100 million years younger than scientists thought. Zircon crystals show the Ames impact occurred about 370 million years ago, meaning it was not part…",
+        "image": "https://www.sciencedaily.com/images/1920/huge-asteroid-meteor-slams-into-earth.webp",
         "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260930225459.htm",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261002080012.htm",
         "fromX": false
       },
       {
-        "id": "auto_2026-10-04T10-15_5",
+        "id": "auto_2026-10-04T16-00_3",
+        "rank": 3,
+        "title": "Your gut bacteria may reveal how fast your brain is aging",
+        "category": "neuroscience",
+        "summary": "A UCLA study links faster brain aging to specific gut bacteria and chemical byproducts, with older-looking brains also associated with poorer memory, focus, and mood. The findings suggest that biological signs of brain…",
+        "image": "https://www.sciencedaily.com/images/1920/gut-microbiome-interaction-within-brain.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261001214106.htm",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-04T16-00_4",
+        "rank": 4,
+        "title": "Cyngn wins repeat autonomous tugger order from Fortune 100 manufacturer",
+        "category": "robotics",
+        "summary": "Cyngn has announced a follow-on order for its DriveMod Tugger from a “Fortune 100 heavy equipment manufacturer”. The additional deployment will support a new material-handling application at the customer's heavy…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/xyngn-autonomous-tugger-1.jpg.png",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/04/cyngn-wins-repeat-autonomous-tugger-order-from-fortune-100-manufacturer/105496/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-04T16-00_5",
         "rank": 5,
-        "title": "Unionized Workers at 4 NYC Museums Ratify Contracts, Quelling Strike Fears",
+        "title": "Untitled Art, Houston taps into a city where artists can thrive",
         "category": "art",
-        "summary": "Unionized staff at the American Folk Art Museum (AFAM), the Brooklyn Museum, the Jewish Museum, and the Solomon R. Guggenheim Museum, all in New York, have ratified four-year contracts with their respective managements,…",
-        "image": "https://www.artforum.com/wp-content/uploads/2026/10/GettyImages-526751932.jpg?w=650",
-        "source": "Artforum",
-        "sourceUrl": "https://www.artforum.com/news/unionized-workers-at-4-nyc-museums-ratify-contracts-1234760797/",
+        "summary": "The second edition of the fair highlights Houston’s galleries, collectors and institutions, while artists point to affordability, strong connections and a spirit of experimentation",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/5077899216f430d1bd05d6069afb091c24fc88e5-7140x4760.jpg?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/10/02/untitled-art-houston-taps-into-a-city-where-artists-can-thrive",
         "fromX": false
       }
     ]
