@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-09-05T21-44",
+    "scannedAt": "2026-09-05T21:44:20.239Z",
+    "items": [
+      {
+        "id": "auto_2026-09-05T21-44_1",
+        "rank": 1,
+        "title": "Explore the globe in field recordings",
+        "category": "general",
+        "summary": "I love field recordings. I love making them. I love them when they're incorporated into my ambient music. They're great background noise for working or sleeping. But they're also great for active listening, focusing in…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-05-at-5.23.38-PM.png?quality=90&strip=all&crop=0%2C1.5344138631358%2C100%2C96.931172273728&w=1200",
+        "source": "The Verge",
+        "sourceUrl": "https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-05T21-44_2",
+        "rank": 2,
+        "title": "Cyborg Roaches Can Stab You With Needles",
+        "category": "robotics",
+        "summary": "Imagine you are trapped under rubble after an earthquake and you see an electronics-covered cockroach with a spring-loaded needle on its back scuttling toward you. Although the sight might be unnerving, to say the…",
+        "image": "https://spectrum.ieee.org/media-library/large-brown-cockroach-fitted-with-an-electronic-device-and-wires-on-its-back.jpg?id=67724302&width=980",
+        "source": "IEEE Spectrum",
+        "sourceUrl": "https://spectrum.ieee.org/cyborg-rescue-roach",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-05T21-44_3",
+        "rank": 3,
+        "title": "Long-Awaited Lucas Museum Receives Mixed Reviews Ahead of Opening",
+        "category": "art",
+        "summary": "Los Angeles's Lucas Museum of Narrative Art opened to the press earlier this week, and the resulting opinions are sharply divided. Founded by Star Wars creator George Lucas and his wife, investor Mellody Hobson, and…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/09/GettyImages-2293233681.jpg?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/news/lucas-museum-receives-mixed-reviews-ahead-of-opening-1234758846/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-05T21-44_4",
+        "rank": 4,
+        "title": "NASA Hosts Virtual Artemis Webinar for Blind, Low-Vision Community",
+        "category": "space",
+        "summary": "NASA will host a virtual webinar at 2 p.m. EDT on Friday, Oct. 2, titled “The RS-25 Engine and the Future of Artemis Missions: An Accessible Webinar for the Blind and Low-Vision Community.” This webinar is open to the…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/09/blindlowvision.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/general/nasa-hosts-virtual-artemis-webinar-for-blind-low-vision-community/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-05T21-44_5",
+        "rank": 5,
+        "title": "STAT+: Top Boston hospitals clash over Medicare Advantage network after split",
+        "category": "biotech",
+        "summary": "First, Mass General Brigham split with Dana-Farber. Now its Medicare Advantage plan is dropping the cancer hospital.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/09/CEASOAV62YN32HCQ3PQMDZCAIE-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/09/04/mass-general-brigham-medicare-advantage-network-cancer-treatment-dana-farber/?utm_campaign=rss",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-09-04T21-53",
     "scannedAt": "2026-09-04T21:53:05.640Z",
     "items": [
@@ -2043,67 +2104,6 @@
         "isEditorialArchive": true,
         "publishDate": "2026-08-08",
         "authorName": "Dr. Wallace Lynch"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-08-08T20-13",
-    "scannedAt": "2026-08-08T20:13:45.422Z",
-    "items": [
-      {
-        "id": "auto_2026-08-08T20-13_1",
-        "rank": 1,
-        "title": "Prefrontal Cortex Can Block Creative Problem-Solving",
-        "category": "neuroscience",
-        "summary": "The medial prefrontal cortex can block creative problem-solving by enforcing default habits, and silencing it accelerates strategy shifts.",
-        "image": "https://neurosciencenews.com/files/2026/08/pfc-creative-problem-solving-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/prefrontal-cortex-creative-problem-solving-31201/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-08T20-13_2",
-        "rank": 2,
-        "title": "New Amazon Data Center Stokes Worry It Would Be the Most Polluting Power Plant in the U.S.",
-        "category": "general",
-        "summary": "The tech giant is investing in the natural-gas-burning power plant as part of a huge data center in Texas, even as it pledges to honor climate commitments.",
-        "image": "https://static01.nyt.com/images/2026/08/08/multimedia/08CLI-AMAZON-jtbw/08CLI-AMAZON-jtbw-mediumSquareAt3X.jpg",
-        "source": "NYT Technology",
-        "sourceUrl": "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-08T20-13_3",
-        "rank": 3,
-        "title": "Northrop Grumman, Canadian Space Agency repurpose their Gateway projects",
-        "category": "space",
-        "summary": "Northrop Grumman and the Canadian Space Agency will adapt what they had been working on for NASA’s lunar Gateway into applications for a planned lunar base, albeit with few specifics. The post Northrop Grumman, Canadian…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/northrop-lid.jpeg?fit=1024%2C576&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/northrop-grumman-canadian-space-agency-repurpose-their-gateway-projects/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-08T20-13_4",
-        "rank": 4,
-        "title": "Sunlight creates quantum entanglement once thought to require lasers",
-        "category": "energy",
-        "summary": "Scientists have generated quantum entanglement directly from sunlight, potentially offering a lower-energy alternative to the lasers normally used in quantum technology. Their outdoor experiment produced entangled…",
-        "image": "https://www.sciencedaily.com/images/1920/quantum-entanglement-using-sunlight.webp",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260807035133.htm",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-08T20-13_5",
-        "rank": 5,
-        "title": "White Cube New York Loses Three Top Directors",
-        "category": "art",
-        "summary": "Three star directors have severed ties with White Cube’s New York gallery, Artnet News reports. The trio—Courtney Willis Blair, Sukanya Rajaratnam, and Jessie Washburne-Harris—offered varying reasons for their…",
-        "image": "https://www.artforum.com/wp-content/uploads/2026/08/1002-Madison-Avenue-683x1024_Crop.jpg?w=650",
-        "source": "Artforum",
-        "sourceUrl": "https://www.artforum.com/news/white-cube-new-york-loses-three-star-directors-1234756678/",
-        "fromX": false
       }
     ]
   }

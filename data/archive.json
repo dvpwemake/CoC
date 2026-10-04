@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-10-04T02-56",
+    "scannedAt": "2026-10-04T02:56:02.214Z",
+    "items": [
+      {
+        "id": "auto_2026-10-04T02-56_1",
+        "rank": 1,
+        "title": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
+        "category": "general",
+        "summary": "The price of anything with memory is skyrocketing thanks to AI. Aging streaming devices are no exception.",
+        "image": "https://media.wired.com/photos/6ac00d9bc910b804171a679e/master/pass/GettyImages-474968764.jpg",
+        "source": "WIRED",
+        "sourceUrl": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-04T02-56_2",
+        "rank": 2,
+        "title": "Daily Steps Tied to Lower Teen Depression",
+        "category": "neuroscience",
+        "summary": "Tracking 5,500 teens reveals higher daily step counts thicken emotion-regulating brain regions and reduce depression and anxiety.",
+        "image": "https://neurosciencenews.com/files/2026/10/teen-walking-mental-health-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/teen-walking-depression-neuroscience-31289/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-04T02-56_3",
+        "rank": 3,
+        "title": "Chang’e-6 lunar soil contains a surprising magnetic time capsule",
+        "category": "space",
+        "summary": "Scientists studying Chang’e-6 lunar soil have discovered a previously unknown magnetic mineral in natural Moon samples: a form of metallic iron called γ-Fe. Found inside tiny impact-glass particles, the nanoscale iron…",
+        "image": "https://www.sciencedaily.com/images/1920/lunar-topography-and-magnetic-anomalies.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261001214015.htm",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-04T02-56_4",
+        "rank": 4,
+        "title": "Untitled Art, Houston taps into a city where artists can thrive",
+        "category": "art",
+        "summary": "The second edition of the fair highlights Houston’s galleries, collectors and institutions, while artists point to affordability, strong connections and a spirit of experimentation",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/5077899216f430d1bd05d6069afb091c24fc88e5-7140x4760.jpg?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/10/02/untitled-art-houston-taps-into-a-city-where-artists-can-thrive",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-04T02-56_5",
+        "rank": 5,
+        "title": "Industry body A3 releases final part of safety standard for industrial mobile robots",
+        "category": "robotics",
+        "summary": "The Association for Advancing Automation (A3) has announced ANSI/A3 R15.08-3-2026, American National Standard for Industrial Mobile Robots, Safety Requirements, Part 3: Use of IMR Applications is now available for…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/a3-ansi-industrial-mobile-robot-safety.jpg",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/02/industry-body-a3-releases-final-part-of-safety-standard-for-industrial-mobile-robots/105474/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-10-03T22-28",
     "scannedAt": "2026-10-03T22:28:33.758Z",
     "items": [

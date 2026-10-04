@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-10-04T02-56",
+    "scannedAt": "2026-10-04T02:56:02.214Z",
+    "items": [
+      {
+        "id": "auto_2026-10-04T02-56_1",
+        "rank": 1,
+        "title": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
+        "category": "general",
+        "summary": "The price of anything with memory is skyrocketing thanks to AI. Aging streaming devices are no exception.",
+        "image": "https://media.wired.com/photos/6ac00d9bc910b804171a679e/master/pass/GettyImages-474968764.jpg",
+        "source": "WIRED",
+        "sourceUrl": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-04T02-56_2",
+        "rank": 2,
+        "title": "Daily Steps Tied to Lower Teen Depression",
+        "category": "neuroscience",
+        "summary": "Tracking 5,500 teens reveals higher daily step counts thicken emotion-regulating brain regions and reduce depression and anxiety.",
+        "image": "https://neurosciencenews.com/files/2026/10/teen-walking-mental-health-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/teen-walking-depression-neuroscience-31289/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-04T02-56_3",
+        "rank": 3,
+        "title": "Chang’e-6 lunar soil contains a surprising magnetic time capsule",
+        "category": "space",
+        "summary": "Scientists studying Chang’e-6 lunar soil have discovered a previously unknown magnetic mineral in natural Moon samples: a form of metallic iron called γ-Fe. Found inside tiny impact-glass particles, the nanoscale iron…",
+        "image": "https://www.sciencedaily.com/images/1920/lunar-topography-and-magnetic-anomalies.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261001214015.htm",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-04T02-56_4",
+        "rank": 4,
+        "title": "Untitled Art, Houston taps into a city where artists can thrive",
+        "category": "art",
+        "summary": "The second edition of the fair highlights Houston’s galleries, collectors and institutions, while artists point to affordability, strong connections and a spirit of experimentation",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/5077899216f430d1bd05d6069afb091c24fc88e5-7140x4760.jpg?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/10/02/untitled-art-houston-taps-into-a-city-where-artists-can-thrive",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-04T02-56_5",
+        "rank": 5,
+        "title": "Industry body A3 releases final part of safety standard for industrial mobile robots",
+        "category": "robotics",
+        "summary": "The Association for Advancing Automation (A3) has announced ANSI/A3 R15.08-3-2026, American National Standard for Industrial Mobile Robots, Safety Requirements, Part 3: Use of IMR Applications is now available for…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/a3-ansi-industrial-mobile-robot-safety.jpg",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/02/industry-body-a3-releases-final-part-of-safety-standard-for-industrial-mobile-robots/105474/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-10-03T22-28",
     "scannedAt": "2026-10-03T22:28:33.758Z",
     "items": [
@@ -2084,67 +2145,6 @@
         "isEditorialArchive": true,
         "publishDate": "2026-09-05",
         "authorName": "Dr. Wallace Lynch"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-09-05T21-44",
-    "scannedAt": "2026-09-05T21:44:20.239Z",
-    "items": [
-      {
-        "id": "auto_2026-09-05T21-44_1",
-        "rank": 1,
-        "title": "Explore the globe in field recordings",
-        "category": "general",
-        "summary": "I love field recordings. I love making them. I love them when they're incorporated into my ambient music. They're great background noise for working or sleeping. But they're also great for active listening, focusing in…",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-05-at-5.23.38-PM.png?quality=90&strip=all&crop=0%2C1.5344138631358%2C100%2C96.931172273728&w=1200",
-        "source": "The Verge",
-        "sourceUrl": "https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-05T21-44_2",
-        "rank": 2,
-        "title": "Cyborg Roaches Can Stab You With Needles",
-        "category": "robotics",
-        "summary": "Imagine you are trapped under rubble after an earthquake and you see an electronics-covered cockroach with a spring-loaded needle on its back scuttling toward you. Although the sight might be unnerving, to say the…",
-        "image": "https://spectrum.ieee.org/media-library/large-brown-cockroach-fitted-with-an-electronic-device-and-wires-on-its-back.jpg?id=67724302&width=980",
-        "source": "IEEE Spectrum",
-        "sourceUrl": "https://spectrum.ieee.org/cyborg-rescue-roach",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-05T21-44_3",
-        "rank": 3,
-        "title": "Long-Awaited Lucas Museum Receives Mixed Reviews Ahead of Opening",
-        "category": "art",
-        "summary": "Los Angeles's Lucas Museum of Narrative Art opened to the press earlier this week, and the resulting opinions are sharply divided. Founded by Star Wars creator George Lucas and his wife, investor Mellody Hobson, and…",
-        "image": "https://www.artforum.com/wp-content/uploads/2026/09/GettyImages-2293233681.jpg?w=650",
-        "source": "Artforum",
-        "sourceUrl": "https://www.artforum.com/news/lucas-museum-receives-mixed-reviews-ahead-of-opening-1234758846/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-05T21-44_4",
-        "rank": 4,
-        "title": "NASA Hosts Virtual Artemis Webinar for Blind, Low-Vision Community",
-        "category": "space",
-        "summary": "NASA will host a virtual webinar at 2 p.m. EDT on Friday, Oct. 2, titled “The RS-25 Engine and the Future of Artemis Missions: An Accessible Webinar for the Blind and Low-Vision Community.” This webinar is open to the…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/09/blindlowvision.jpg",
-        "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/general/nasa-hosts-virtual-artemis-webinar-for-blind-low-vision-community/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-05T21-44_5",
-        "rank": 5,
-        "title": "STAT+: Top Boston hospitals clash over Medicare Advantage network after split",
-        "category": "biotech",
-        "summary": "First, Mass General Brigham split with Dana-Farber. Now its Medicare Advantage plan is dropping the cancer hospital.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/09/CEASOAV62YN32HCQ3PQMDZCAIE-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/09/04/mass-general-brigham-medicare-advantage-network-cancer-treatment-dana-farber/?utm_campaign=rss",
-        "fromX": false
       }
     ]
   }
