@@ -1,5 +1,25 @@
 [
   {
+    "batchId": "editorial_2026-10-04",
+    "scannedAt": "2026-10-04T22:08:41.522Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-10-04",
+        "rank": 0,
+        "title": "Navigating New Trajectories",
+        "category": "editorial",
+        "summary": "From Cellular Clocks to Cosmic Slingshots",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/9020427/swarm_screenshot27_large.jpg?quality=90&strip=all&crop=0,8.1151832460733,100,83.769633507853",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-10-04.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-10-04",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-10-05T10-53",
     "scannedAt": "2026-10-05T10:53:39.765Z",
     "items": [
