@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-10-05T02-30",
+    "scannedAt": "2026-10-05T02:30:04.543Z",
+    "items": [
+      {
+        "id": "auto_2026-10-05T02-30_1",
+        "rank": 1,
+        "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
+        "category": "general",
+        "summary": "The president named his national intelligence chief will head the taskforce as worries over the technology grow.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a97/live/e8568220-c056-11f1-ba75-170165fdb734.jpg",
+        "source": "BBC Technology",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-05T02-30_2",
+        "rank": 2,
+        "title": "Mapping the Gaps in NASA's Return to the Moon, featuring Richard Spolzino",
+        "category": "space",
+        "summary": "\"I want to be able to look at a rocket launch and say, ‘I touched a piece of this.’\" That's how Richard Spolzino describes the thing he's chasing. Not a title, not a specific mission, not even NASA itself, just the…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/09/flip-rover-3k10-1.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/general/mapping-the-gaps-in-nasas-return-to-the-moon-featuring-richard-spolzino/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-05T02-30_3",
+        "rank": 3,
+        "title": "Your gut bacteria may reveal how fast your brain is aging",
+        "category": "neuroscience",
+        "summary": "A UCLA study links faster brain aging to specific gut bacteria and chemical byproducts, with older-looking brains also associated with poorer memory, focus, and mood. The findings suggest that biological signs of brain…",
+        "image": "https://www.sciencedaily.com/images/1920/gut-microbiome-interaction-within-brain.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261001214106.htm",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-05T02-30_4",
+        "rank": 4,
+        "title": "Cyngn wins repeat autonomous tugger order from Fortune 100 manufacturer",
+        "category": "robotics",
+        "summary": "Cyngn has announced a follow-on order for its DriveMod Tugger from a “Fortune 100 heavy equipment manufacturer”. The additional deployment will support a new material-handling application at the customer's heavy…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/xyngn-autonomous-tugger-1.jpg.png",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/04/cyngn-wins-repeat-autonomous-tugger-order-from-fortune-100-manufacturer/105496/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-05T02-30_5",
+        "rank": 5,
+        "title": "Untitled Art, Houston taps into a city where artists can thrive",
+        "category": "art",
+        "summary": "The second edition of the fair highlights Houston’s galleries, collectors and institutions, while artists point to affordability, strong connections and a spirit of experimentation",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/5077899216f430d1bd05d6069afb091c24fc88e5-7140x4760.jpg?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/10/02/untitled-art-houston-taps-into-a-city-where-artists-can-thrive",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-10-04T22-34",
     "scannedAt": "2026-10-04T22:34:04.143Z",
     "items": [
