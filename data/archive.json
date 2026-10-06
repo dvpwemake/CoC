@@ -1,21 +1,62 @@
 [
   {
-    "batchId": "editorial_2026-10-04",
-    "scannedAt": "2026-10-04T22:08:41.522Z",
-    "kind": "editorial_archive",
+    "batchId": "auto_2026-10-06T00-59",
+    "scannedAt": "2026-10-06T00:59:46.377Z",
     "items": [
       {
-        "id": "editorial_2026-10-04",
-        "rank": 0,
-        "title": "Navigating New Trajectories",
-        "category": "editorial",
-        "summary": "From Cellular Clocks to Cosmic Slingshots",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/9020427/swarm_screenshot27_large.jpg?quality=90&strip=all&crop=0,8.1151832460733,100,83.769633507853",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-10-04.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-10-04",
-        "authorName": "Dr. Wallace Lynch"
+        "id": "auto_2026-10-06T00-59_1",
+        "rank": 1,
+        "title": "Gemini Call for Me might tell your mom you're running late",
+        "category": "general",
+        "summary": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"Gemini Calling\" introductory screen in an APK…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Pro-Photos-of-Phone-7.jpg?quality=90&strip=all&crop=0%2C10.731298651824%2C100%2C78.537402696352&w=1200",
+        "source": "The Verge",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-06T00-59_2",
+        "rank": 2,
+        "title": "RobCo reaches $1 billion valuation as investors back US expansion",
+        "category": "robotics",
+        "summary": "RobCo says it has “surpassed a $1 billion valuation” as it builds the next generation of autonomous industrial robotics, doubling its valuation in just nine months. The deal brings new investment into RobCo while giving…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/robco-alfie-2.png",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/05/robco-reaches-1-billion-valuation-as-investors-back-us-expansion/105552/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-06T00-59_3",
+        "rank": 3,
+        "title": "New York Art Fair Organizer Independent Acquired by Global Conglomerate Informa",
+        "category": "art",
+        "summary": "Independent, the New York-based organizer of the Independent Art Fair and Independent 20th Century, has been acquired by global conglomerate Informa, according to reporting by Artnews. The sale was finalized last year,…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/10/GettyImages-2297634954.jpg?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/news/global-conglomerate-informa-acquires-new-york-independent-1234760855/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-06T00-59_4",
+        "rank": 4,
+        "title": "STAT+: Judges skewer HHS arguments in hearing over Medicare Advantage audits lawsuit",
+        "category": "biotech",
+        "summary": "Federal judges pushed back against the government's arguments in a Medicare Advantage case.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/10/AdobeStock_2030014200_Editorial_Use_Only-1024x576.jpeg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/10/05/humana-medicare-advantage-radv-audits-lawsuit-hearing/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-06T00-59_5",
+        "rank": 5,
+        "title": "Resource competition intensifies with surge in megaconstellations",
+        "category": "space",
+        "summary": "Amazon wants more than 5,000 satellites in orbit. Blue Origin has proposed another 5,400. Chinese companies have filed plans encompassing vastly more. Elon Musk has talked about a constellation numbering […] The post…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/spacex-odc.jpeg?fit=1024%2C623&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/resource-competition-intensifies-with-surge-in-megaconstellations/",
+        "fromX": false
       }
     ]
   },
@@ -138,6 +179,26 @@
         "source": "Neuroscience News",
         "sourceUrl": "https://neurosciencenews.com/teen-walking-depression-neuroscience-31289/",
         "fromX": false
+      }
+    ]
+  },
+  {
+    "batchId": "editorial_2026-10-04",
+    "scannedAt": "2026-10-04T22:08:41.522Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-10-04",
+        "rank": 0,
+        "title": "Navigating New Trajectories",
+        "category": "editorial",
+        "summary": "From Cellular Clocks to Cosmic Slingshots",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/9020427/swarm_screenshot27_large.jpg?quality=90&strip=all&crop=0,8.1151832460733,100,83.769633507853",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-10-04.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-10-04",
+        "authorName": "Dr. Wallace Lynch"
       }
     ]
   },

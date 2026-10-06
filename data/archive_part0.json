@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-10-06T00-59",
+    "scannedAt": "2026-10-06T00:59:46.377Z",
+    "items": [
+      {
+        "id": "auto_2026-10-06T00-59_1",
+        "rank": 1,
+        "title": "Gemini Call for Me might tell your mom you're running late",
+        "category": "general",
+        "summary": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"Gemini Calling\" introductory screen in an APK…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Pro-Photos-of-Phone-7.jpg?quality=90&strip=all&crop=0%2C10.731298651824%2C100%2C78.537402696352&w=1200",
+        "source": "The Verge",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-06T00-59_2",
+        "rank": 2,
+        "title": "RobCo reaches $1 billion valuation as investors back US expansion",
+        "category": "robotics",
+        "summary": "RobCo says it has “surpassed a $1 billion valuation” as it builds the next generation of autonomous industrial robotics, doubling its valuation in just nine months. The deal brings new investment into RobCo while giving…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/robco-alfie-2.png",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/05/robco-reaches-1-billion-valuation-as-investors-back-us-expansion/105552/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-06T00-59_3",
+        "rank": 3,
+        "title": "New York Art Fair Organizer Independent Acquired by Global Conglomerate Informa",
+        "category": "art",
+        "summary": "Independent, the New York-based organizer of the Independent Art Fair and Independent 20th Century, has been acquired by global conglomerate Informa, according to reporting by Artnews. The sale was finalized last year,…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/10/GettyImages-2297634954.jpg?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/news/global-conglomerate-informa-acquires-new-york-independent-1234760855/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-06T00-59_4",
+        "rank": 4,
+        "title": "STAT+: Judges skewer HHS arguments in hearing over Medicare Advantage audits lawsuit",
+        "category": "biotech",
+        "summary": "Federal judges pushed back against the government's arguments in a Medicare Advantage case.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/10/AdobeStock_2030014200_Editorial_Use_Only-1024x576.jpeg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/10/05/humana-medicare-advantage-radv-audits-lawsuit-hearing/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-06T00-59_5",
+        "rank": 5,
+        "title": "Resource competition intensifies with surge in megaconstellations",
+        "category": "space",
+        "summary": "Amazon wants more than 5,000 satellites in orbit. Blue Origin has proposed another 5,400. Chinese companies have filed plans encompassing vastly more. Elon Musk has talked about a constellation numbering […] The post…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/spacex-odc.jpeg?fit=1024%2C623&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/resource-competition-intensifies-with-surge-in-megaconstellations/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-10-05T10-53",
     "scannedAt": "2026-10-05T10:53:39.765Z",
     "items": [
@@ -118,6 +179,26 @@
         "source": "Neuroscience News",
         "sourceUrl": "https://neurosciencenews.com/teen-walking-depression-neuroscience-31289/",
         "fromX": false
+      }
+    ]
+  },
+  {
+    "batchId": "editorial_2026-10-04",
+    "scannedAt": "2026-10-04T22:08:41.522Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-10-04",
+        "rank": 0,
+        "title": "Navigating New Trajectories",
+        "category": "editorial",
+        "summary": "From Cellular Clocks to Cosmic Slingshots",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/9020427/swarm_screenshot27_large.jpg?quality=90&strip=all&crop=0,8.1151832460733,100,83.769633507853",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-10-04.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-10-04",
+        "authorName": "Dr. Wallace Lynch"
       }
     ]
   },
@@ -2084,128 +2165,6 @@
         "isEditorialArchive": true,
         "publishDate": "2026-09-07",
         "authorName": "Dr. Wallace Lynch"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-09-07T16-41",
-    "scannedAt": "2026-09-07T16:41:30.926Z",
-    "items": [
-      {
-        "id": "auto_2026-09-07T16-41_1",
-        "rank": 1,
-        "title": "Home Depot Labor Day Sale (2026): BOGO on Best Grills and Tools",
-        "category": "general",
-        "summary": "The Home Depot Labor Day sale goes hard on grills and tools. Here are our recommendations on what to buy—and what to ignore.",
-        "image": "https://media.wired.com/photos/6a9b0a92df1ff8f5f606a6e1/master/pass/Home-Depot",
-        "source": "WIRED",
-        "sourceUrl": "https://www.wired.com/story/home-depot-labor-day-sale-deals-2026/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-07T16-41_2",
-        "rank": 2,
-        "title": "8 Must-See Shows at Berlin Art Week 2026",
-        "category": "art",
-        "summary": "Berlin Art Week is back, which officially signals the end of the months of Aperol spritzes, pool trips, and pretending the heat wasn’t unbearable. A slow August can be great, but now it’s time for the city to get back…",
-        "image": "https://artsy-media-uploads.s3.amazonaws.com/z01HSkcyLZsJtb5h0U0OdA%2FMAG_99326_Loie_Hollowell_Mother_Radar_in_green_a.width-1100_1500x1000.jpg",
-        "source": "Artsy",
-        "sourceUrl": "https://www.artsy.net/article/artsy-editorial-8-must-see-berlin-art-week-2026",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-07T16-41_3",
-        "rank": 3,
-        "title": "This Robot Will Draw Your Blood Now",
-        "category": "robotics",
-        "summary": "You sit down and put your arm in the cradle. You press a button. The machine takes it from there. A near-infrared light sweeps your inner elbow, hunting for a vein. A puff of alcohol hits your skin. An ultrasound probe…",
-        "image": "https://spectrum.ieee.org/media-library/an-older-silver-haired-woman-seated-at-automated-medical-device-with-a-robotic-arm-drawing-blood.jpg?id=67726417&width=980",
-        "source": "IEEE Spectrum",
-        "sourceUrl": "https://spectrum.ieee.org/blood-draw-robot-vitestro-aletta",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-07T16-41_4",
-        "rank": 4,
-        "title": "STAT+: Novo Nordisk stops two cardiovascular trials of drug aimed at lowering inflammation",
-        "category": "biotech",
-        "summary": "Novo Nordisk has stopped two trials of a drug that aims to tame inflammation as a way to improve cardiovascular health, another blow for the approach.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/01/heart-1-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/09/07/novo-nordisk-heart-studies-inflammation-ziltivekimab/?utm_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-07T16-41_5",
-        "rank": 5,
-        "title": "APOD: 2026 September 7 – The Pelican Nebula in Gas, Dust, and Stars",
-        "category": "space",
-        "summary": "APOD Science APOD APOD: 2026 September 7 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or…",
-        "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/september/Pelican_Killion_4800.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-        "source": "NASA",
-        "sourceUrl": "https://science.nasa.gov/image-article/apod-2026-september-7-the-pelican-nebula-in-gas-dust-and-stars/",
-        "fromX": false
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-09-06T21-46",
-    "scannedAt": "2026-09-06T21:46:54.260Z",
-    "items": [
-      {
-        "id": "auto_2026-09-06T21-46_1",
-        "rank": 1,
-        "title": "Popular brain supplement linked to shorter lifespan in men",
-        "category": "neuroscience",
-        "summary": "A large study involving more than 270,000 people has linked higher blood levels of the amino acid tyrosine to a shorter lifespan in men. Using both observational data and genetic analysis, researchers found that…",
-        "image": "https://www.sciencedaily.com/images/1920/man-holding-supplement-capsule.webp",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260904000330.htm",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-06T21-46_2",
-        "rank": 2,
-        "title": "An Amazon cargo plane crashed at Miami International Airport",
-        "category": "general",
-        "summary": "A plane bearing an Amazon logo overran the runway at Miami International Airport on Sunday during landing, crashing into vehicles and resulting in multiple injuries. The extent of the damage or the seriousness of the…",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2293852643.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "sourceUrl": "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-06T21-46_3",
-        "rank": 3,
-        "title": "AI can now control fusion plasma faster than humans can react",
-        "category": "robotics",
-        "summary": "Princeton researchers have tested an AI system that can monitor and control fusion plasma in milliseconds, reacting far faster than a human operator. In one experiment, it predicted a damaging instability about 200…",
-        "image": "https://www.sciencedaily.com/images/1920/pacman-artificial-intelligence-framework-for-fusion-systems.webp",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260903064215.htm",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-06T21-46_4",
-        "rank": 4,
-        "title": "Opinion: What STAT readers think about M.D. vs. D.O., AI in medicine, surrogacy, and more",
-        "category": "biotech",
-        "summary": "“A click, signature, or brief review should not magically transfer responsibility from an AI developer or platform to a physician,” a reader tells STAT.",
-        "image": "https://www.statnews.com/wp-content/uploads/2023/11/LettersToEditor_v2_Illustration_MollyFerguson_112723-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/09/05/md-vs-do-surrogacy-ai-medicine-stat-letters-to-editor/?utm_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-06T21-46_5",
-        "rank": 5,
-        "title": "China Withdraws from Gwangju Biennale Over Taiwan Pavilion",
-        "category": "art",
-        "summary": "On Thursday, China announced that it would withdraw its pavilion from the forthcoming Gwangju Biennale, You Must Change Your Life, over claims that the festival was misrepresenting Taiwan as an autonomous nation through…",
-        "image": "https://www.artforum.com/wp-content/uploads/2026/08/taiwan-pavilion.jpg?w=650",
-        "source": "Artforum",
-        "sourceUrl": "https://www.artforum.com/news/china-withdraws-from-gwangju-biennale-1234758880/",
-        "fromX": false
       }
     ]
   }
