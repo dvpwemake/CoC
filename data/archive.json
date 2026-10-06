@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-10-06T23-22",
+    "scannedAt": "2026-10-06T23:22:27.668Z",
+    "items": [
+      {
+        "id": "auto_2026-10-06T23-22_1",
+        "rank": 1,
+        "title": "You Probably Aren’t Going to Get the Plague",
+        "category": "general",
+        "summary": "The death of a lab worker in Russia has authorities looking at whether plague played a role. Even if it did, though, the odds of it spreading are very low.",
+        "image": "https://media.wired.com/photos/6ac4f365faca1c452d82d19b/master/pass/100626-Russia%20Plague.jpg",
+        "source": "WIRED",
+        "sourceUrl": "https://www.wired.com/story/what-we-know-about-plague-russia/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-06T23-22_2",
+        "rank": 2,
+        "title": "Hannah Lim Draws on Her British-Singaporean Heritage in Sculptural Snuff Bottles",
+        "category": "art",
+        "summary": "The bottles' motifs have lately been inspired by an ancient Chinese tome called 'The Classic of Mountains and Seas.' Do stories and artists like this matter to you? Become a Colossal Member today and support independent…",
+        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/lim-4.jpg",
+        "source": "Colossal",
+        "sourceUrl": "https://www.thisiscolossal.com/2026/10/hannah-lim-sculptures-snuff-bottles/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-06T23-22_3",
+        "rank": 3,
+        "title": "How Robotic-Assisted Surgery is Changing Post-Surgical Recovery Times",
+        "category": "robotics",
+        "summary": "Your surgeon says you'll be “back on your feet in no time”. But what does that actually mean? Recovery timelines vary wildly depending on the type of procedure you're having, and the gap between traditional open surgery…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/Robotic-Assisted-Surgery-1.png",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/06/how-robotic-assisted-surgery-is-changing-post-surgical-recovery-times/105591/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-06T23-22_4",
+        "rank": 4,
+        "title": "Tesla is now making more EVs that can double as a home battery",
+        "category": "energy",
+        "summary": "Households and the power grid run on alternating current. Batteries — including those in electric vehicles — run on direct current. That AC-DC divide has complicated the prospect of EVs as home backup batteries. Today,…",
+        "image": "https://img.canarymedia.com/content/uploads/Tesla-V2H-marketing-shot-gray-car-raining-fancy-house.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=e626f86940d5ea97a1849029f6c3db0c",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/electric-vehicles/tesla-evs-as-home-battery",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-06T23-22_5",
+        "rank": 5,
+        "title": "Deposition Sciences, Inc. Expands Sunshade® Tape Offering with New 12″ × 30″ Format",
+        "category": "space",
+        "summary": "Santa Rosa, CA — October 2026 — Deposition Sciences, Inc. (DSI), a leader in advanced thin film coatings, proudly announces the introduction of a new 12″ × 30″ format for […] The post Deposition Sciences, Inc. Expands…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/DSI_short-Logo_OUTLINE-scaled.png?fit=1024%2C791&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/deposition-sciences-inc-expands-sunshade-tape-offering-with-new-12-x-30-format/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "editorial_2026-10-05",
     "scannedAt": "2026-10-05T20:28:14.514Z",
     "kind": "editorial_archive",
@@ -16,67 +77,6 @@
         "isEditorialArchive": true,
         "publishDate": "2026-10-05",
         "authorName": "Dr. Wallace Lynch"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-10-06T17-26",
-    "scannedAt": "2026-10-06T17:26:50.167Z",
-    "items": [
-      {
-        "id": "auto_2026-10-06T17-26_1",
-        "rank": 1,
-        "title": "Finland orders halt to work on two Google data centres",
-        "category": "general",
-        "summary": "The order affecting two planned data centres follows concerns over forest clearance.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8809/live/12b85c00-c1a6-11f1-8fa2-19a1e9b6288f.jpg",
-        "source": "BBC Technology",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvj6jkx6g1r0o?at_medium=RSS&at_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-06T17-26_2",
-        "rank": 2,
-        "title": "Photographer Elizaveta Porodina Turns Her Luminous Lens to Insects",
-        "category": "art",
-        "summary": "A radiant series of portraits highlights beetles, butterflies, and mantises in Elizaveta Porodina's signature ethereal style and saturated color. Do stories and artists like this matter to you? Become a Colossal Member…",
-        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/porodina-6.jpg",
-        "source": "Colossal",
-        "sourceUrl": "https://www.thisiscolossal.com/2026/10/elizaveta-porodina-photos-found-dreams/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-06T17-26_3",
-        "rank": 3,
-        "title": "Early DBS Protects Cognition in Genetic Parkinson’s",
-        "category": "neuroscience",
-        "summary": "Timing of DBS surgery is critical to preserve cognitive function in Parkinson's patients with GBA1 mutations.",
-        "image": "https://neurosciencenews.com/files/2026/10/dbs-cognition-parkinsons-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/early-dbs-protects-cognition-in-genetic-parkinsons/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-06T17-26_4",
-        "rank": 4,
-        "title": "STAT+: AstraZeneca opens new Boston site",
-        "category": "biotech",
-        "summary": "AstraZeneca opened a new R&D site in Kendall Square yesterday, celebrating a $1 billion investment in the unsettled center of U.S. biotechnology after a spate of Chinese dealmaking.",
-        "image": "https://www.statnews.com/wp-content/uploads/2025/10/GettyImages-2169649190-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/10/06/biotech-news-astrazeneca-opens-new-boston-site/?utm_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-06T17-26_5",
-        "rank": 5,
-        "title": "What Are Security Doors and When Are They Required?",
-        "category": "robotics",
-        "summary": "From advanced manufacturing lines to robotic warehouses, automation has transformed the way businesses operate. Modern facilities now rely on sophisticated equipment, connected systems, and valuable data to keep…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/security-doors-2.jpg",
-        "source": "Robotics & Automation News",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/06/what-are-security-doors-and-when-are-they-required/105585/",
-        "fromX": false
       }
     ]
   },
