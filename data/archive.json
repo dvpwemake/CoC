@@ -1,5 +1,25 @@
 [
   {
+    "batchId": "editorial_2026-10-05",
+    "scannedAt": "2026-10-05T20:28:14.514Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-10-05",
+        "rank": 0,
+        "title": "The Synthesized Soul",
+        "category": "editorial",
+        "summary": "As we map our biology with unprecedented precision, we risk outsourcing the very emotional friction that makes us human.",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/ai-relationship3.jpg?resize=1200,600",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-10-05.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-10-05",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-10-06T17-26",
     "scannedAt": "2026-10-06T17:26:50.167Z",
     "items": [
