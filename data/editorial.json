@@ -1,64 +1,104 @@
 {
   "published": {
-    "id": "ed_2026-10-06",
-    "publishDate": "2026-10-06",
+    "id": "ed_2026-10-07",
+    "publishDate": "2026-10-07",
     "status": "published",
-    "updatedAt": "2026-10-06T20:18:43.659Z",
-    "title": "The Light We Cast",
-    "dek": "From the neural circuits illuminated by this year's Nobel Prize to the ecological friction of our digital appetites, we are navigating the paradoxes of progress.",
+    "updatedAt": "2026-10-07T23:42:30.710Z",
+    "title": "The Gravity of the Physical World",
+    "dek": "From Mars to AI, our ambitions are boundless—yet we remain tethered to the heavy realities of our biology, politics, and planet.",
     "authorName": "Dr. Wallace Lynch",
     "authorTitle": "Editor in Chief",
-    "body": "This week, the scientific community celebrates a literal illumination of the human mind. The 2026 Nobel Prize in Medicine was awarded to Karl Deisseroth, Peter Hegemann, and Georg Nagel for optogenetics—a revolutionary tool that uses light to control precisely targeted neural circuits. It is a triumph of converging disciplines that echoes the profound clinical strides we are seeing elsewhere in neuroscience, such as the revelation that early Deep Brain Stimulation can protect cognitive function in patients with genetic Parkinson's. The biotechnology sector continues its aggressive expansion to capitalize on these leaps, underscored by AstraZeneca’s newly unveiled $1 billion R&D hub in Boston’s Kendall Square. Meanwhile, on a consumer level, tools like the Withings BodyScan 2 are redefining how granularly we can track our individual physical metrics, even as broader healthcare economics remain fiercely politicized—evidenced by the recent push for $90 Medicare premium subsidies ahead of the midterm elections.\n\nYet, our relentless technological acceleration is fraught with contradictions. The public harbors a profound distaste for artificial intelligence, even as we seemingly cannot get enough of it, driving startups to build LLMs that push beyond mainstream boundaries. We are actively renegotiating where machines belong in our physical spaces as well, balancing the deployment of automated security systems and robotic warehouses with the need for human intuition. In emergency management, for instance, we are learning to automate repeatable coordination tasks while strictly reserving life-saving operational judgment for people.\n\nCrucially, the physical footprint of our digital hunger is colliding with the natural world. Finland’s recent halt of two planned Google data centers over forest clearance concerns serves as a stark reminder of our material limits. It forces us to ask how we might better harmonize with our environment. The art world is already reflecting this tension: a new London exhibition urges us to \"listen to the earth\" by treating it as both subject and material, while photographer Elizaveta Porodina turns her saturated, ethereal lens to the overlooked beauty of beetles and mantises. As we continue to navigate these new trajectories, our greatest challenge may not be engineering the future, but remaining grounded in the natural world that sustains it.",
+    "body": "NASA’s Curiosity rover recently paused its grueling Martian ascent to look back at the floor of Gale Crater, offering us a moment of quiet, cosmic reflection. We are a species capable of staggering engineering marvels, from deploying advanced thin-film space coatings to outfitting Teslas as bidirectional home batteries that bridge the complex AC-DC electrical divide. We are even building machines to build our machines: DataraAI is now automating the intricate server cabling required to house our booming artificial intelligence infrastructure. It is a fitting development for an era defined by a strange cultural paradox: the public claims to despise AI, yet we consume it so ravenously that startups are desperately racing to build more dynamic models to satisfy demand.\n\nYet, for all our ethereal, automated ambitions, we remain inescapably tethered to our fragile biology and fraught politics. Robotic-assisted surgery is revolutionizing post-operative recovery timelines, returning us to our feet faster than traditional methods, while consumer devices like LED face masks promise to optimize our very skin. But the business of staying alive remains stubbornly terrestrial. PhRMA’s new lawsuit against the Trump administration’s Medicare drug-pricing mandates highlights the friction between medical access and industry profits, just as a fleeting anxiety over a Russian lab worker's death reminds us that ancient specters like the plague still haunt our collective psyche, regardless of how statistically unlikely an outbreak may be.\n\nIt is through art that we reconcile this tension between the soaring and the substantial. A new London exhibition urges us to literally \"ground ourselves\" by treating the earth as both subject and material, while sculptor Hannah Lim channels ancient British-Singaporean heritage into delicate, cross-cultural vessels. And sometimes, the sheer mass of reality asserts itself in the most surreal ways possible: this weekend, thieves in a small French town managed to abscond with a 330-pound bronze book cover designed by Salvador Dalí. No matter how advanced our technological reach becomes, we are inevitably pulled back down by the undeniable gravity of the physical world.",
     "paragraphs": [
-      "This week, the scientific community celebrates a literal illumination of the human mind. The 2026 Nobel Prize in Medicine was awarded to Karl Deisseroth, Peter Hegemann, and Georg Nagel for optogenetics—a revolutionary tool that uses light to control precisely targeted neural circuits. It is a triumph of converging disciplines that echoes the profound clinical strides we are seeing elsewhere in neuroscience, such as the revelation that early Deep Brain Stimulation can protect cognitive function in patients with genetic Parkinson's. The biotechnology sector continues its aggressive expansion to capitalize on these leaps, underscored by AstraZeneca’s newly unveiled $1 billion R&D hub in Boston’s Kendall Square. Meanwhile, on a consumer level, tools like the Withings BodyScan 2 are redefining how granularly we can track our individual physical metrics, even as broader healthcare economics remain fiercely politicized—evidenced by the recent push for $90 Medicare premium subsidies ahead of the midterm elections.",
-      "Yet, our relentless technological acceleration is fraught with contradictions. The public harbors a profound distaste for artificial intelligence, even as we seemingly cannot get enough of it, driving startups to build LLMs that push beyond mainstream boundaries. We are actively renegotiating where machines belong in our physical spaces as well, balancing the deployment of automated security systems and robotic warehouses with the need for human intuition. In emergency management, for instance, we are learning to automate repeatable coordination tasks while strictly reserving life-saving operational judgment for people.",
-      "Crucially, the physical footprint of our digital hunger is colliding with the natural world. Finland’s recent halt of two planned Google data centers over forest clearance concerns serves as a stark reminder of our material limits. It forces us to ask how we might better harmonize with our environment. The art world is already reflecting this tension: a new London exhibition urges us to \"listen to the earth\" by treating it as both subject and material, while photographer Elizaveta Porodina turns her saturated, ethereal lens to the overlooked beauty of beetles and mantises. As we continue to navigate these new trajectories, our greatest challenge may not be engineering the future, but remaining grounded in the natural world that sustains it."
+      "NASA’s Curiosity rover recently paused its grueling Martian ascent to look back at the floor of Gale Crater, offering us a moment of quiet, cosmic reflection. We are a species capable of staggering engineering marvels, from deploying advanced thin-film space coatings to outfitting Teslas as bidirectional home batteries that bridge the complex AC-DC electrical divide. We are even building machines to build our machines: DataraAI is now automating the intricate server cabling required to house our booming artificial intelligence infrastructure. It is a fitting development for an era defined by a strange cultural paradox: the public claims to despise AI, yet we consume it so ravenously that startups are desperately racing to build more dynamic models to satisfy demand.",
+      "Yet, for all our ethereal, automated ambitions, we remain inescapably tethered to our fragile biology and fraught politics. Robotic-assisted surgery is revolutionizing post-operative recovery timelines, returning us to our feet faster than traditional methods, while consumer devices like LED face masks promise to optimize our very skin. But the business of staying alive remains stubbornly terrestrial. PhRMA’s new lawsuit against the Trump administration’s Medicare drug-pricing mandates highlights the friction between medical access and industry profits, just as a fleeting anxiety over a Russian lab worker's death reminds us that ancient specters like the plague still haunt our collective psyche, regardless of how statistically unlikely an outbreak may be.",
+      "It is through art that we reconcile this tension between the soaring and the substantial. A new London exhibition urges us to literally \"ground ourselves\" by treating the earth as both subject and material, while sculptor Hannah Lim channels ancient British-Singaporean heritage into delicate, cross-cultural vessels. And sometimes, the sheer mass of reality asserts itself in the most surreal ways possible: this weekend, thieves in a small French town managed to abscond with a 330-pound bronze book cover designed by Salvador Dalí. No matter how advanced our technological reach becomes, we are inevitably pulled back down by the undeniable gravity of the physical world."
     ],
-    "wordCount": 355,
-    "heroImage": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/porodina-6.jpg",
-    "heroCredit": "Photographer Elizaveta Porodina Turns Her Luminous Lens to Insects",
-    "heroSource": "Colossal",
-    "heroSourceUrl": "https://www.thisiscolossal.com/2026/10/elizaveta-porodina-photos-found-dreams/",
+    "wordCount": 331,
+    "heroImage": "https://www.artforum.com/wp-content/uploads/2026/10/GettyImages-1053097458.jpg?w=650",
+    "heroCredit": "330-Pound Dalí-Designed Bronze Book Cover Stolen from French Museum",
+    "heroSource": "Artforum",
+    "heroSourceUrl": "https://www.artforum.com/news/dali-designed-book-cover-stolen-from-french-museum-1234760966/",
     "headlines": [
       {
-        "title": "Photographer Elizaveta Porodina Turns Her Luminous Lens to Insects",
-        "source": "Colossal",
+        "title": "330-Pound Dalí-Designed Bronze Book Cover Stolen from French Museum",
+        "source": "Artforum",
         "category": "art",
-        "sourceUrl": "https://www.thisiscolossal.com/2026/10/elizaveta-porodina-photos-found-dreams/",
-        "summary": "A radiant series of portraits highlights beetles, butterflies, and mantises in Elizaveta Porodina's signature ethereal style and saturated color. Do stories and artists like this matter to you? Become a Colossal Member…",
-        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/porodina-6.jpg"
+        "sourceUrl": "https://www.artforum.com/news/dali-designed-book-cover-stolen-from-french-museum-1234760966/",
+        "summary": "A bronze book jacket designed by famed Surrealist Salvador Dalí and weighing 330 pounds was swiped from a small private museum in Issoire, France, in an overnight theft this past weekend, Le Monde reports. Encrusted…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/10/GettyImages-1053097458.jpg?w=650"
       },
       {
-        "title": "STAT+: AstraZeneca opens new Boston site",
+        "title": "STAT+: PhRMA sues over Trump policy mandating lower drug prices in Medicare",
         "source": "STAT News",
         "category": "biotech",
-        "sourceUrl": "https://www.statnews.com/2026/10/06/biotech-news-astrazeneca-opens-new-boston-site/?utm_campaign=rss",
-        "summary": "AstraZeneca opened a new R&D site in Kendall Square yesterday, celebrating a $1 billion investment in the unsettled center of U.S. biotechnology after a spate of Chinese dealmaking.",
-        "image": "https://www.statnews.com/wp-content/uploads/2025/10/GettyImages-2169649190-1024x576.jpg"
+        "sourceUrl": "https://www.statnews.com/2026/10/07/phrma-sues-over-drug-pricing-model-globe/?utm_campaign=rss",
+        "summary": "The brand drug industry’s main trade group is suing the Trump administration over a pilot program tying Medicare drug prices to those in peer countries.",
+        "image": "https://www.statnews.com/wp-content/uploads/2025/08/AP24163743721308-1024x576.jpg"
       },
       {
-        "title": "Finland orders halt to work on two Google data centres",
-        "source": "BBC Technology",
+        "title": "The Shark CryoGlow LED Mask Is Cheaper Than Ever on Prime Day",
+        "source": "WIRED",
         "category": "general",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvj6jkx6g1r0o?at_medium=RSS&at_campaign=rss",
-        "summary": "The order affecting two planned data centres follows concerns over forest clearance.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8809/live/12b85c00-c1a6-11f1-8fa2-19a1e9b6288f.jpg"
+        "sourceUrl": "https://www.wired.com/story/shark-cryoglow-led-face-mask-prime-day-deal/",
+        "summary": "The Shark CryoGlow face mask is my favorite LED device, and it’s $299 on Amazon Prime Day. Act fast.",
+        "image": "https://media.wired.com/photos/6ac67dc72c67ce1b0e0b64b0/master/pass/Amazon%20Prime%20Day%20Top%20Art%20102026%20Shark%20CryoGlow%20LED%20Face%20Mask%20Deals%20ILLUSTRATION%20Isadora-Ayesa%20Lima.jpg"
       },
       {
-        "title": "Early DBS Protects Cognition in Genetic Parkinson’s",
-        "source": "Neuroscience News",
-        "category": "neuroscience",
-        "sourceUrl": "https://neurosciencenews.com/early-dbs-protects-cognition-in-genetic-parkinsons/",
-        "summary": "Timing of DBS surgery is critical to preserve cognitive function in Parkinson's patients with GBA1 mutations.",
-        "image": "https://neurosciencenews.com/files/2026/10/dbs-cognition-parkinsons-neuroscience-1155x770.jpg"
-      },
-      {
-        "title": "What Are Security Doors and When Are They Required?",
+        "title": "DataraAI develops robotic system to automate server cabling",
         "source": "Robotics & Automation News",
         "category": "robotics",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/06/what-are-security-doors-and-when-are-they-required/105585/",
-        "summary": "From advanced manufacturing lines to robotic warehouses, automation has transformed the way businesses operate. Modern facilities now rely on sophisticated equipment, connected systems, and valuable data to keep…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/security-doors-2.jpg"
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/07/dataraai-develops-robotic-system-to-automate-server-cabling/105676/",
+        "summary": "DataraAI is developing robotic automation technology designed to enable industrial robot arms to connect cables and other components during the assembly of AI servers and racks – a task that is still largely performed…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/dataraai-1.png"
+      },
+      {
+        "title": "NASA’s Curiosity Looks Back After Reaching Elevation Milestone",
+        "source": "NASA",
+        "category": "space",
+        "sourceUrl": "https://science.nasa.gov/photojournal/nasas-curiosity-looks-back-after-reaching-elevation-milestone/",
+        "summary": "Description NASA’s Curiosity Mars rover captured this view looking back at the floor of Gale Crater, with the crater’s rim visible in the distance, on Sept. 5, 2026, the 5,006th Martian day, or sol, of the mission. Just…",
+        "image": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26781/PIA26781.png/jcr:content/renditions/cq5dam.web.1280.1280.png"
+      },
+      {
+        "title": "Hannah Lim Draws on Her British-Singaporean Heritage in Sculptural Snuff Bottles",
+        "source": "Colossal",
+        "category": "art",
+        "sourceUrl": "https://www.thisiscolossal.com/2026/10/hannah-lim-sculptures-snuff-bottles/",
+        "summary": "The bottles' motifs have lately been inspired by an ancient Chinese tome called 'The Classic of Mountains and Seas.' Do stories and artists like this matter to you? Become a Colossal Member today and support independent…",
+        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/lim-4.jpg"
+      },
+      {
+        "title": "Tesla is now making more EVs that can double as a home battery",
+        "source": "Canary Media",
+        "category": "energy",
+        "sourceUrl": "https://www.canarymedia.com/articles/electric-vehicles/tesla-evs-as-home-battery",
+        "summary": "Households and the power grid run on alternating current. Batteries — including those in electric vehicles — run on direct current. That AC-DC divide has complicated the prospect of EVs as home backup batteries. Today,…",
+        "image": "https://img.canarymedia.com/content/uploads/Tesla-V2H-marketing-shot-gray-car-raining-fancy-house.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=e626f86940d5ea97a1849029f6c3db0c"
+      },
+      {
+        "title": "You Probably Aren’t Going to Get the Plague",
+        "source": "WIRED",
+        "category": "general",
+        "sourceUrl": "https://www.wired.com/story/what-we-know-about-plague-russia/",
+        "summary": "The death of a lab worker in Russia has authorities looking at whether plague played a role. Even if it did, though, the odds of it spreading are very low.",
+        "image": "https://media.wired.com/photos/6ac4f365faca1c452d82d19b/master/pass/100626-Russia%20Plague.jpg"
+      },
+      {
+        "title": "How Robotic-Assisted Surgery is Changing Post-Surgical Recovery Times",
+        "source": "Robotics & Automation News",
+        "category": "robotics",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/06/how-robotic-assisted-surgery-is-changing-post-surgical-recovery-times/105591/",
+        "summary": "Your surgeon says you'll be “back on your feet in no time”. But what does that actually mean? Recovery timelines vary wildly depending on the type of procedure you're having, and the gap between traditional open surgery…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/Robotic-Assisted-Surgery-1.png"
+      },
+      {
+        "title": "Deposition Sciences, Inc. Expands Sunshade® Tape Offering with New 12″ × 30″ Format",
+        "source": "SpaceNews",
+        "category": "space",
+        "sourceUrl": "https://spacenews.com/deposition-sciences-inc-expands-sunshade-tape-offering-with-new-12-x-30-format/",
+        "summary": "Santa Rosa, CA — October 2026 — Deposition Sciences, Inc. (DSI), a leader in advanced thin film coatings, proudly announces the introduction of a new 12″ × 30″ format for […] The post Deposition Sciences, Inc. Expands…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/DSI_short-Logo_OUTLINE-scaled.png?fit=1024%2C791&ssl=1"
       },
       {
         "title": "People really hate AI, so why can’t they get enough?",
@@ -75,52 +115,33 @@
         "sourceUrl": "https://www.theartnewspaper.com/2026/10/05/grounding-ourselves-new-exhibition-in-london-explores-our-complex-relationship-to-the-earth",
         "summary": "“Listening to the Earth” at Drawing Room brings together ten artists who work with the earth as both subject and material",
         "image": "https://cdn.sanity.io/images/cxgd3urn/production/b1551d61d15b81ca5ebdb32413de0170318e6ce0-3024x2016.jpg?w=140"
-      },
-      {
-        "title": "2026 Nobel Prize in Medicine awarded for brain research tool called optogenetics",
-        "source": "STAT News",
-        "category": "biotech",
-        "sourceUrl": "https://www.statnews.com/2026/10/05/nobel-prize-medicine-2026-winner-deisseroth-hegemann-nagel/?utm_campaign=rss",
-        "summary": "Karl Deisseroth, Peter Hegemann, and Georg Nagel are the joint recipients of the 2026 Nobel Prize in Physiology or Medicine “for their discoveries concerning light-gated ion channels and optogenetics,\" the…",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/10/AP26278347243526-1024x576.jpg"
-      },
-      {
-        "title": "Withings BodyScan 2 Review: Worth Its Weight",
-        "source": "WIRED",
-        "category": "general",
-        "sourceUrl": "https://www.wired.com/review/withings-bodyscan-2/",
-        "summary": "After months of testing, this high-end smart scale has made me rethink how much a bathroom weigh-in can tell me.",
-        "image": "https://media.wired.com/photos/6ac00b2fa18993c6adb83faa/master/pass/Review%20Withings%20BodyScan%202%20102026%20top%20art%20SOURCE%20Writhings.jpg"
-      },
-      {
-        "title": "Where Automation Fits in Emergency Management",
-        "source": "Robotics & Automation News",
-        "category": "robotics",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/05/where-automation-fits-in-emergency-management/105507/",
-        "summary": "Emergency management software should automate the repeatable coordination work that slows teams down, while leaving operational judgment with the people responsible for protecting the public. The best uses of automation…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/ignyte-Emergency-Management-Software-1.png"
-      },
-      {
-        "title": "Trump announces $90 payments for seniors' Medicare premium costs ahead of midterm elections",
-        "source": "STAT News",
-        "category": "biotech",
-        "sourceUrl": "https://www.statnews.com/2026/10/04/trump-announces-90-dollar-payments-for-medicare-premiums/?utm_campaign=rss",
-        "summary": "President Trump is promising more payments to voters just ahead of the Nov. 3 midterm elections — this time for seniors' Medicare Part B premiums",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/09/GettyImages-2295309501-1024x576.jpg"
-      },
-      {
-        "title": "Navigating New Trajectories",
-        "source": "Chronicle of Convergence · Editorial",
-        "category": "editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-10-04.html",
-        "summary": "From Cellular Clocks to Cosmic Slingshots",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/9020427/swarm_screenshot27_large.jpg?quality=90&strip=all&crop=0,8.1151832460733,100,83.769633507853"
       }
     ],
-    "publishedAt": "2026-10-06T20:18:43.659Z"
+    "publishedAt": "2026-10-07T23:42:30.710Z"
   },
   "drafts": {},
   "history": [
+    {
+      "id": "ed_2026-10-07",
+      "publishDate": "2026-10-07",
+      "status": "published",
+      "updatedAt": "2026-10-07T23:42:30.710Z",
+      "title": "The Gravity of the Physical World",
+      "dek": "From Mars to AI, our ambitions are boundless—yet we remain tethered to the heavy realities of our biology, politics, and planet.",
+      "authorName": "Dr. Wallace Lynch",
+      "authorTitle": "Editor in Chief",
+      "paragraphs": [
+        "NASA’s Curiosity rover recently paused its grueling Martian ascent to look back at the floor of Gale Crater, offering us a moment of quiet, cosmic reflection. We are a species capable of staggering engineering marvels, from deploying advanced thin-film space coatings to outfitting Teslas as bidirectional home batteries that bridge the complex AC-DC electrical divide. We are even building machines to build our machines: DataraAI is now automating the intricate server cabling required to house our booming artificial intelligence infrastructure. It is a fitting development for an era defined by a strange cultural paradox: the public claims to despise AI, yet we consume it so ravenously that startups are desperately racing to build more dynamic models to satisfy demand.",
+        "Yet, for all our ethereal, automated ambitions, we remain inescapably tethered to our fragile biology and fraught politics. Robotic-assisted surgery is revolutionizing post-operative recovery timelines, returning us to our feet faster than traditional methods, while consumer devices like LED face masks promise to optimize our very skin. But the business of staying alive remains stubbornly terrestrial. PhRMA’s new lawsuit against the Trump administration’s Medicare drug-pricing mandates highlights the friction between medical access and industry profits, just as a fleeting anxiety over a Russian lab worker's death reminds us that ancient specters like the plague still haunt our collective psyche, regardless of how statistically unlikely an outbreak may be.",
+        "It is through art that we reconcile this tension between the soaring and the substantial. A new London exhibition urges us to literally \"ground ourselves\" by treating the earth as both subject and material, while sculptor Hannah Lim channels ancient British-Singaporean heritage into delicate, cross-cultural vessels. And sometimes, the sheer mass of reality asserts itself in the most surreal ways possible: this weekend, thieves in a small French town managed to abscond with a 330-pound bronze book cover designed by Salvador Dalí. No matter how advanced our technological reach becomes, we are inevitably pulled back down by the undeniable gravity of the physical world."
+      ],
+      "wordCount": 331,
+      "heroImage": "https://www.artforum.com/wp-content/uploads/2026/10/GettyImages-1053097458.jpg?w=650",
+      "heroCredit": "330-Pound Dalí-Designed Bronze Book Cover Stolen from French Museum",
+      "heroSource": "Artforum",
+      "heroSourceUrl": "https://www.artforum.com/news/dali-designed-book-cover-stolen-from-french-museum-1234760966/",
+      "publishedAt": "2026-10-07T23:42:30.710Z"
+    },
     {
       "id": "ed_2026-10-06",
       "publishDate": "2026-10-06",
@@ -1523,40 +1544,6 @@
       "heroSource": "Neuroscience News",
       "heroSourceUrl": "https://neurosciencenews.com/memristor-chip-brain-speed-neurotech-31110/",
       "publishedAt": "2026-07-22T22:06:30.754Z"
-    },
-    {
-      "id": "ed_2026-07-20",
-      "publishDate": "2026-07-20",
-      "status": "published",
-      "createdAt": "2026-07-20T16:03:59.649Z",
-      "updatedAt": "2026-07-20T16:15:09.275Z",
-      "title": "Sacred rooms and civic streets",
-      "dek": "An editorial on sacred rooms and civic streets, written for readers who refuse false choices.",
-      "paragraphs": [
-        "Faith and public life share sidewalks. One offers silence and ritual; the other offers policy and trade. Both shape how a people spends its attention.",
-        "Chronicle of Convergence is not a digest of destinations or a ranking of trends. It is a daily attempt to read American life where culture, society, technology, and faith already share the same rooms. On Monday, July 20, 2026, we hold that reading to one pressure point: sacred rooms and civic streets.",
-        "The news offers a concrete case. NASA reports on “A Turquoise Tint for the Black Sea.” Whatever the beat—science, art, industry, or the mind—the public is again asked to absorb a change that will not stay inside its original field. Advances migrate. They enter manners, markets, worship, and work.",
-        "A second dispatch complicates the first. “Pop Music Echoes a Growing Culture of Vices” (Neuroscience News) does not cancel the earlier signal; it shows the braid. Technical claims arrive with aesthetic moods, commercial incentives, and moral hesitation. An editorial that picks only one strand is not serious—it is advertising.",
-        "Heritage, practiced as skill rather than costume, still teaches judgment. Innovation, practiced as care rather than novelty for its own sake, still expands what is possible. Between them sit ordinary American institutions: laboratories and galleries, independent shops and public museums, congregations and city halls. Silicon can accelerate pattern recognition. Carbon still carries cost, fatigue, and consequence. Pretending otherwise is not optimism. It is negligence.",
-        "Look again at the surrounding coverage, including “STAT+: Eli Lilly dives into hair loss treatments with investment in AI startup Absci” from STAT News. Art and technology keep meeting in public, whether the story names them or not. Instruments change how we see; seeing changes which instruments we fund. A culture that celebrates only the tool forgets the hand. A culture that celebrates only the hand forgets the new questions the tool forces into the open.",
-        "Faith and secular life still share sidewalks in every city that matters. One offers liturgy and long memory; the other offers regulation and exchange. Neither owns the whole of meaning. When this chronicle pauses at a threshold—museum stair, café counter, church door—the aim is not tourism. It is to watch how people still practice attention under pressure.",
-        "Different cultures do not converge by erasure. They meet through translation, hospitality, argument, and the slow building of a shared vocabulary. A multimedia project that flattens difference into a single tone has already failed its readers. Our form is deliberately modest: a human voice, a human hand on the work, a host who stays at the edge of the frame so the subject—the convergence itself—can hold the center.",
-        "What should a reader do with a day like this? Neither panic at machine scale nor invent a pure past that never existed. Name the forces in the room. Ask what each can give. Ask what each must not be allowed to take. Then look again tomorrow. The archive will keep speaking. The open question is whether we answer as citizens learning to live with convergence—or as consumers of noise.",
-        "None of this requires contempt for progress. It requires proportion. A republic that cannot tell the difference between a useful instrument and a substitute for judgment will eventually have neither good tools nor free citizens.",
-        "The headlines cited above remain the property of their publishers. The synthesis is ours. Image credit appears with the photograph.",
-        "Proportion, not panic, is the discipline. A country that can still tell a tool from a substitute for judgment will keep both its instruments and its freedom to decide what they are for."
-      ],
-      "wordCount": 598,
-      "themeId": "faith_secular",
-      "themeLabel": "Sacred rooms and civic streets",
-      "heroImage": "https://www.statnews.com/wp-content/uploads/2026/07/GettyImages-2286439838-1024x576.jpg",
-      "heroCredit": "FDA still focused on lettuce supplier as source of parasite, despite faulty test result",
-      "heroSource": "STAT News",
-      "heroSourceUrl": "https://www.statnews.com/2026/07/20/cyclospora-lettuce-tests-continue-restaurant-visits-decline/?utm_campaign=rss",
-      "publishedAt": "2026-07-20T16:03:59.666Z",
-      "heroImageProxy": "https://images.weserv.nl/?url=images-assets.nasa.gov%2Fimage%2FPIA18033%2FPIA18033~medium.jpg&w=1200&h=675&fit=cover&we&output=jpg",
-      "supersededAt": "2026-07-20T19:25:00.086241+00:00",
-      "note": "shortened to ~300 words"
     }
   ],
   "usedHeroImages": [
@@ -1803,6 +1790,7 @@
     "https://www.sciencedaily.com/images/1920/brain-gut-connection.webp",
     "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/9020427/swarm_screenshot27_large.jpg?quality=90&strip=all&crop=0,8.1151832460733,100,83.769633507853",
     "https://wp.technologyreview.com/wp-content/uploads/2026/10/ai-relationship3.jpg?resize=1200,600",
-    "https://www.thisiscolossal.com/wp-content/uploads/2026/10/porodina-6.jpg"
+    "https://www.thisiscolossal.com/wp-content/uploads/2026/10/porodina-6.jpg",
+    "https://www.artforum.com/wp-content/uploads/2026/10/GettyImages-1053097458.jpg?w=650"
   ]
 }
