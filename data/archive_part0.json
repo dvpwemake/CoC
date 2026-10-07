@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-10-07T17-59",
-    "scannedAt": "2026-10-07T17:59:35.777Z",
+    "batchId": "auto_2026-10-07T23-53",
+    "scannedAt": "2026-10-07T23:53:40.548Z",
     "items": [
       {
-        "id": "auto_2026-10-07T17-59_1",
+        "id": "auto_2026-10-07T23-53_1",
         "rank": 1,
-        "title": "DataraAI develops robotic system to automate server cabling",
-        "category": "robotics",
-        "summary": "DataraAI is developing robotic automation technology designed to enable industrial robot arms to connect cables and other components during the assembly of AI servers and racks – a task that is still largely performed…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/dataraai-1.png",
-        "source": "Robotics & Automation News",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/07/dataraai-develops-robotic-system-to-automate-server-cabling/105676/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-07T17-59_2",
-        "rank": 2,
-        "title": "The Shark CryoGlow LED Mask Is Cheaper Than Ever on Prime Day",
+        "title": "Fuel prices added to Google Maps as petrol and diesel costs soar",
         "category": "general",
-        "summary": "The Shark CryoGlow face mask is my favorite LED device, and it’s $299 on Amazon Prime Day. Act fast.",
-        "image": "https://media.wired.com/photos/6ac67dc72c67ce1b0e0b64b0/master/pass/Amazon%20Prime%20Day%20Top%20Art%20102026%20Shark%20CryoGlow%20LED%20Face%20Mask%20Deals%20ILLUSTRATION%20Isadora-Ayesa%20Lima.jpg",
-        "source": "WIRED",
-        "sourceUrl": "https://www.wired.com/story/shark-cryoglow-led-face-mask-prime-day-deal/",
+        "summary": "A search for forecourts will now display their pricing, using the government's Fuel Finder scheme.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e42/live/60b35020-c25c-11f1-a64c-550be9e3c66b.jpg",
+        "source": "BBC Technology",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckx2d4ddjn2eo?at_medium=RSS&at_campaign=rss",
         "fromX": false
       },
       {
-        "id": "auto_2026-10-07T17-59_3",
-        "rank": 3,
-        "title": "330-Pound Dalí-Designed Bronze Book Cover Stolen from French Museum",
-        "category": "art",
-        "summary": "A bronze book jacket designed by famed Surrealist Salvador Dalí and weighing 330 pounds was swiped from a small private museum in Issoire, France, in an overnight theft this past weekend, Le Monde reports. Encrusted…",
-        "image": "https://www.artforum.com/wp-content/uploads/2026/10/GettyImages-1053097458.jpg?w=650",
-        "source": "Artforum",
-        "sourceUrl": "https://www.artforum.com/news/dali-designed-book-cover-stolen-from-french-museum-1234760966/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-07T17-59_4",
-        "rank": 4,
-        "title": "NASA’s Curiosity Looks Back After Reaching Elevation Milestone",
+        "id": "auto_2026-10-07T23-53_2",
+        "rank": 2,
+        "title": "NASA Sets Coverage for SpaceX 35th Station Resupply Launch, Arrival",
         "category": "space",
-        "summary": "Description NASA’s Curiosity Mars rover captured this view looking back at the floor of Gale Crater, with the crater’s rim visible in the distance, on Sept. 5, 2026, the 5,006th Martian day, or sol, of the mission. Just…",
-        "image": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26781/PIA26781.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
+        "summary": "NASA and SpaceX are targeting 6:33 a.m. EDT, Tuesday, Oct. 13, for the next launch to deliver science investigations, supplies, and equipment, including the final set of International Space Station Roll-Out Solar…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/10/spacex-35.jpg",
         "source": "NASA",
-        "sourceUrl": "https://science.nasa.gov/photojournal/nasas-curiosity-looks-back-after-reaching-elevation-milestone/",
+        "sourceUrl": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-35th-station-resupply-launch-arrival/",
         "fromX": false
       },
       {
-        "id": "auto_2026-10-07T17-59_5",
-        "rank": 5,
-        "title": "STAT+: PhRMA sues over Trump policy mandating lower drug prices in Medicare",
+        "id": "auto_2026-10-07T23-53_3",
+        "rank": 3,
+        "title": "K-pop star RM shows off his collection of Korean art at SFMoMA",
+        "category": "art",
+        "summary": "The museum appears to have a blockbuster on its hands—with 50,000 tickets already reserved for the BTS singer’s curatorial debut",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/67c0bbec9db951718f547e730f2deae2610ad1fa-880x587.jpg?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/10/07/rm-k-pop-star-bts-exhibition-sfmoma-korean-art",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-07T23-53_4",
+        "rank": 4,
+        "title": "STAT+: In small trial, optogenetics restores some vision lost to retinitis pigmentosa",
         "category": "biotech",
-        "summary": "The brand drug industry’s main trade group is suing the Trump administration over a pilot program tying Medicare drug prices to those in peer countries.",
-        "image": "https://www.statnews.com/wp-content/uploads/2025/08/AP24163743721308-1024x576.jpg",
+        "summary": "About half of the patients in a study regained photosensitivity in their vision, showing the promise of optogenetics.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/10/C0277118-Optogenetics_Illustration-1024x576.jpg",
         "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/10/07/phrma-sues-over-drug-pricing-model-globe/?utm_campaign=rss",
+        "sourceUrl": "https://www.statnews.com/2026/10/07/optogenetics-restores-some-vision-retinitis-pigmentosa/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-07T23-53_5",
+        "rank": 5,
+        "title": "How Brain Cells Lock In Short-Term Memories",
+        "category": "neuroscience",
+        "summary": "A new study reveals a \"split attractor network\" in fruit flies that explains how neural circuits stabilize short-term working memories.",
+        "image": "https://neurosciencenews.com/files/2026/10/short-term-memory-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/neurons-short-term-memory-lock-31301/",
         "fromX": false
       }
     ]
@@ -118,6 +118,26 @@
         "source": "SpaceNews",
         "sourceUrl": "https://spacenews.com/deposition-sciences-inc-expands-sunshade-tape-offering-with-new-12-x-30-format/",
         "fromX": false
+      }
+    ]
+  },
+  {
+    "batchId": "editorial_2026-10-06",
+    "scannedAt": "2026-10-06T20:18:43.659Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-10-06",
+        "rank": 0,
+        "title": "The Light We Cast",
+        "category": "editorial",
+        "summary": "From the neural circuits illuminated by this year's Nobel Prize to the ecological friction of our digital appetites, we are navigating the paradoxes of progress.",
+        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/porodina-6.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-10-06.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-10-06",
+        "authorName": "Dr. Wallace Lynch"
       }
     ]
   },
@@ -2164,67 +2184,6 @@
         "image": "https://img.canarymedia.com/content/uploads/AP-Duane-Arnold.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=7f74c01d1087f016f12340b55543cb9d",
         "source": "Canary Media",
         "sourceUrl": "https://www.canarymedia.com/articles/nuclear/shuttered-nuclear-plant-in-iowa-gets-1-9b-federal-loan-to-restart",
-        "fromX": false
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-09-07T22-19",
-    "scannedAt": "2026-09-07T22:19:09.789Z",
-    "items": [
-      {
-        "id": "auto_2026-09-07T22-19_1",
-        "rank": 1,
-        "title": "Audi’s new A2 E-tron is its most affordable and efficient EV yet",
-        "category": "general",
-        "summary": "When shopping for an electric vehicle, affordability is becoming a more common trait. But affordable and energy efficient is truly a rare breed. Often you have to sacrifice one for the other. Want something affordable?…",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/A264389_large.jpg?quality=90&strip=all&crop=0%2C15.107708235453%2C100%2C69.784583529094&w=1200",
-        "source": "The Verge",
-        "sourceUrl": "https://www.theverge.com/transportation/991081/audi-a2-etron-ev-specs-price",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-07T22-19_2",
-        "rank": 2,
-        "title": "Argentina court orders return of Nazi-looted Old Master portrait to Jewish dealer’s heir",
-        "category": "art",
-        "summary": "Lawyers for the heir, a descendant of the Dutch dealer Jacques Goudstikker, say the outcome is ‘unprecedented’ as it involves the recovery of a work held in private hands through a criminal case",
-        "image": "https://cdn.sanity.io/images/cxgd3urn/production/69bf95ddee3b84c28f3c5ab3ab3e5a54cbf9de51-2000x1687.jpg?w=140",
-        "source": "The Art Newspaper",
-        "sourceUrl": "https://www.theartnewspaper.com/2026/09/07/nazi-looted-old-master-portrait-argentina-restitution-jacques-goudstikker-heirs",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-07T22-19_3",
-        "rank": 3,
-        "title": "Author Correction: AhR inhibition promotes axon regeneration via a stress–growth switch",
-        "category": "biotech",
-        "summary": "Nature, Published online: 07 September 2026; doi:10.1038/s41586-026-11103-4 Author Correction: AhR inhibition promotes axon regeneration via a stress–growth switch",
-        "image": "",
-        "source": "Nature",
-        "sourceUrl": "https://www.nature.com/articles/s41586-026-11103-4",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-07T22-19_4",
-        "rank": 4,
-        "title": "This lifestyle program improved cognition 55% more than basic health advice",
-        "category": "neuroscience",
-        "summary": "Older adults at risk of dementia improved their memory and thinking after following lifestyle programs combining exercise, healthy eating, cognitive training, and social engagement. Those who received regular coaching…",
-        "image": "https://www.sciencedaily.com/images/1920/smiling-senior-man-strength-fitness-exercise.webp",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260903064246.htm",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-07T22-19_5",
-        "rank": 5,
-        "title": "Video Friday: Digit Redecorates",
-        "category": "robotics",
-        "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us…",
-        "image": "https://spectrum.ieee.org/media-library/humanoid-robot-tidies-an-orange-couch-while-a-person-watches-in-a-modern-living-room.gif?id=67725697&width=980",
-        "source": "IEEE Spectrum",
-        "sourceUrl": "https://spectrum.ieee.org/video-friday-agility-robotics-digit",
         "fromX": false
       }
     ]

@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-09-07T22-19",
+    "scannedAt": "2026-09-07T22:19:09.789Z",
+    "items": [
+      {
+        "id": "auto_2026-09-07T22-19_1",
+        "rank": 1,
+        "title": "Audi’s new A2 E-tron is its most affordable and efficient EV yet",
+        "category": "general",
+        "summary": "When shopping for an electric vehicle, affordability is becoming a more common trait. But affordable and energy efficient is truly a rare breed. Often you have to sacrifice one for the other. Want something affordable?…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/A264389_large.jpg?quality=90&strip=all&crop=0%2C15.107708235453%2C100%2C69.784583529094&w=1200",
+        "source": "The Verge",
+        "sourceUrl": "https://www.theverge.com/transportation/991081/audi-a2-etron-ev-specs-price",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-07T22-19_2",
+        "rank": 2,
+        "title": "Argentina court orders return of Nazi-looted Old Master portrait to Jewish dealer’s heir",
+        "category": "art",
+        "summary": "Lawyers for the heir, a descendant of the Dutch dealer Jacques Goudstikker, say the outcome is ‘unprecedented’ as it involves the recovery of a work held in private hands through a criminal case",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/69bf95ddee3b84c28f3c5ab3ab3e5a54cbf9de51-2000x1687.jpg?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/09/07/nazi-looted-old-master-portrait-argentina-restitution-jacques-goudstikker-heirs",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-07T22-19_3",
+        "rank": 3,
+        "title": "Author Correction: AhR inhibition promotes axon regeneration via a stress–growth switch",
+        "category": "biotech",
+        "summary": "Nature, Published online: 07 September 2026; doi:10.1038/s41586-026-11103-4 Author Correction: AhR inhibition promotes axon regeneration via a stress–growth switch",
+        "image": "",
+        "source": "Nature",
+        "sourceUrl": "https://www.nature.com/articles/s41586-026-11103-4",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-07T22-19_4",
+        "rank": 4,
+        "title": "This lifestyle program improved cognition 55% more than basic health advice",
+        "category": "neuroscience",
+        "summary": "Older adults at risk of dementia improved their memory and thinking after following lifestyle programs combining exercise, healthy eating, cognitive training, and social engagement. Those who received regular coaching…",
+        "image": "https://www.sciencedaily.com/images/1920/smiling-senior-man-strength-fitness-exercise.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260903064246.htm",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-07T22-19_5",
+        "rank": 5,
+        "title": "Video Friday: Digit Redecorates",
+        "category": "robotics",
+        "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us…",
+        "image": "https://spectrum.ieee.org/media-library/humanoid-robot-tidies-an-orange-couch-while-a-person-watches-in-a-modern-living-room.gif?id=67725697&width=980",
+        "source": "IEEE Spectrum",
+        "sourceUrl": "https://spectrum.ieee.org/video-friday-agility-robotics-digit",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "editorial_2026-09-07",
     "scannedAt": "2026-09-07T17:55:14.618Z",
     "kind": "editorial_archive",
@@ -2124,67 +2185,6 @@
         "isEditorialArchive": true,
         "publishDate": "2026-08-10",
         "authorName": "Dr. Wallace Lynch"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-08-10T20-27",
-    "scannedAt": "2026-08-10T20:27:55.817Z",
-    "items": [
-      {
-        "id": "auto_2026-08-10T20-27_1",
-        "rank": 1,
-        "title": "Kepler books Neutron for 2028 optical relay launch",
-        "category": "space",
-        "summary": "Kepler Communications plans to deploy next-generation optical relay satellites on Rocket Lab’s upcoming Neutron rocket in one of several launches the Canadian operator has slated for 2028. The post Kepler books Neutron…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/HO6iYUea4AAYYav.jpeg?fit=1024%2C904&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/kepler-books-neutron-for-2028-optical-relay-launch/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-10T20-27_2",
-        "rank": 2,
-        "title": "Flock Cameras Can Track Every Car in America. Police Love Them. Citizens Don’t.",
-        "category": "general",
-        "summary": "In Texas, there’s one thing liberals and conservatives agree on: They don’t want cameras trained on their cars.",
-        "image": "https://static01.nyt.com/images/2026/08/07/multimedia/07nat-flock-safety-TOP-jlhp/07nat-flock-safety-TOP-jlhp-mediumSquareAt3X.jpg",
-        "source": "NYT Technology",
-        "sourceUrl": "https://www.nytimes.com/2026/08/10/us/flock-cameras-can-track-every-car-in-america-police-love-them-citizens-dont.html",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-10T20-27_3",
-        "rank": 3,
-        "title": "AI professors are negotiating the new realities of academic research",
-        "category": "ai",
-        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel in Mountain View,…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/pacademicAI1a.jpg?resize=1200,600",
-        "source": "MIT Technology Review",
-        "sourceUrl": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-10T20-27_4",
-        "rank": 4,
-        "title": "Remains of colonial hospital and church discovered in Lima’s historic centre",
-        "category": "art",
-        "summary": "Walls, floors, human burials and 18th-century tiles have been uncovered in what was once the Hospital and Church of the Holy Spirit in Peru",
-        "image": "https://cdn.sanity.io/images/cxgd3urn/production/dbca7ef5ee89cc2ac501f2b33e4c9555c0cb324f-2000x1333.jpg?w=140",
-        "source": "The Art Newspaper",
-        "sourceUrl": "https://www.theartnewspaper.com/2026/08/10/remains-colonial-hospital-discovered-luma",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-10T20-27_5",
-        "rank": 5,
-        "title": "Trump returns to controversial vaccine policy with order questioning childhood schedule",
-        "category": "biotech",
-        "summary": "The Trump administration, which had recently avoided public discussions of vaccine policy because of concern around the political repercussions, is changing course.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/08/AP26222684085830-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/08/10/trump-return-to-vaccine-policy-executive-order/?utm_campaign=rss",
-        "fromX": false
       }
     ]
   }
