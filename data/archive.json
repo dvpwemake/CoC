@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-10-08T03-06",
+    "scannedAt": "2026-10-08T03:06:00.609Z",
+    "items": [
+      {
+        "id": "auto_2026-10-08T03-06_1",
+        "rank": 1,
+        "title": "CES Health Hub - CES.tech",
+        "category": "general",
+        "summary": "CES Health Hub CES.tech",
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "source": "CES (ces.tech)",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE50elVmX2IxdmF4NGU4NFpqdWtjQzhzLTRHdGtZNXNlcGg4YjRNUjBka1JqV18zbi1QTUJ3YnQ3ajRwT3h2Slg2SzJmQXhoSVpOWThpSC1fcXFtU05m?oc=5",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-08T03-06_2",
+        "rank": 2,
+        "title": "Hong Kong's Para Site Exits Quarry Bay and Announces Nomadic Program",
+        "category": "art",
+        "summary": "The art space Para Site is set to depart its location in Hong-Kong's Quarry Bay district, which it has occupied for the last decade. In honor of the organization’s 30th anniversary, the nonprofit says it will embark on…",
+        "image": "https://www.artforum.com/wp-content/uploads/2022/01/article00_large-130.jpg?w=564",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/news/para-site-exits-quarry-bay-and-announces-nomadic-program-1234760978/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-08T03-06_3",
+        "rank": 3,
+        "title": "NASA’s SpaceX 35th Commercial Resupply Mission Overview",
+        "category": "space",
+        "summary": "NASA and SpaceX are targeting no earlier than Tuesday, Oct. 13 to launch scientific investigations, supplies, and equipment to the International Space Station.",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/10/1-falcon9-dragon.png",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/general/nasas-spacex-35th-commercial-resupply-mission-overview/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-08T03-06_4",
+        "rank": 4,
+        "title": "Trump administration proposes $70,000 fee for popular international student work program",
+        "category": "biotech",
+        "summary": "The Trump administration has proposed a $70,000 fee for a popular work authorization program meant to give students professional experience",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/10/GettyImages-643845388-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/10/07/trump-administration-proposes-fee-targeting-interational-students-optional-practical-training/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-08T03-06_5",
+        "rank": 5,
+        "title": "Microglia Rescue Vulnerable Dopamine Neurons in Parkinson's",
+        "category": "neuroscience",
+        "summary": "Summary: Researchers at the University of Oxford have discovered that human microglia can selectively prune away toxic alpha-synuclein aggregates from dopamine-producing neurons without destroying the host nerve cells.…",
+        "image": "https://neurosciencenews.com/files/2026/10/microglia-parkinsons-dopamine-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/microglia-alpha-synuclein-dopamine-parkinsons-31299/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-10-07T23-53",
     "scannedAt": "2026-10-07T23:53:40.548Z",
     "items": [

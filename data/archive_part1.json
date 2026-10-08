@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-09-08T22-03",
+    "scannedAt": "2026-09-08T22:03:42.269Z",
+    "items": [
+      {
+        "id": "auto_2026-09-08T22-03_1",
+        "rank": 1,
+        "title": "Spanning 200+ Works, a New Book Celebrates the World of Fungi",
+        "category": "art",
+        "summary": "Following surveys of butterflies, birds, oceans, and trees, the editors at Phaidon have settled on their next topic of inquiry: fungi. This October, the publisher will release an expansive tome gathering more than 200…",
+        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/09/fungi-7.jpg",
+        "source": "Colossal",
+        "sourceUrl": "https://www.thisiscolossal.com/2026/09/spanning-200-works-a-new-book-celebrates-the-world-of-fungi/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-08T22-03_2",
+        "rank": 2,
+        "title": "Sony isn’t phasing out discs quite as quickly as we thought",
+        "category": "general",
+        "summary": "Sony isn't backing away from its decision to kill the video game disc in January 2028. But Sony isn't shutting down production as quickly as we thought, either. Two months after reports that Sony's last discmaking plant…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25717617/247361_PS5_Pro_VPavic_224.jpg?quality=90&strip=all&crop=0%2C10.761835884455%2C100%2C78.47632823109&w=1200",
+        "source": "The Verge",
+        "sourceUrl": "https://www.theverge.com/games/991806/sony-disc-plant-90-percent-10-percent",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-08T22-03_3",
+        "rank": 3,
+        "title": "STAT+: FDA names acting heads of drug and vaccine centers to permanent roles",
+        "category": "biotech",
+        "summary": "The moves bring stability to an agency that's been rocked by the exits of top leadership.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/09/Mike-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/09/08/fda-names-leaders-cder-cber-michael-davis-karim-mikhail/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-08T22-03_4",
+        "rank": 4,
+        "title": "From the Corps to the Cosmos, featuring Jaden Caradine",
+        "category": "space",
+        "summary": "Jaden Caradine knew he wanted to be an engineer at eight years old. He just took a winding road to get there. Before he enrolled at Embry-Riddle Aeronautical University, before he discovered the field that would become…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/09/img-20260417-wa0008.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/general/from-the-corps-to-the-cosmos-featuring-jaden-caradine/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-08T22-03_5",
+        "rank": 5,
+        "title": "Shuttered nuclear plant in Iowa gets $1.9B federal loan to restart",
+        "category": "energy",
+        "summary": "A third shuttered U.S. nuclear power plant is set to attempt a comeback with hefty support from the federal government. On Tuesday, the U.S. Department of Energy said it closed a loan of up to $1.9 billion to NextEra…",
+        "image": "https://img.canarymedia.com/content/uploads/AP-Duane-Arnold.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=7f74c01d1087f016f12340b55543cb9d",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/nuclear/shuttered-nuclear-plant-in-iowa-gets-1-9b-federal-loan-to-restart",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-09-07T22-19",
     "scannedAt": "2026-09-07T22:19:09.789Z",
     "items": [
@@ -2165,26 +2226,6 @@
         "source": "Robotics & Automation News",
         "sourceUrl": "https://roboticsandautomationnews.com/2026/08/11/from-2d-ideas-to-printable-reality-how-hi3d-makes-ai-3d-creation-easier-with-image-conversion-and-smart-printing-workflows/104057/",
         "fromX": false
-      }
-    ]
-  },
-  {
-    "batchId": "editorial_2026-08-10",
-    "scannedAt": "2026-08-11T01:55:43.406Z",
-    "kind": "editorial_archive",
-    "items": [
-      {
-        "id": "editorial_2026-08-10",
-        "rank": 0,
-        "title": "Chord Change and Fast Stack",
-        "category": "editorial",
-        "summary": "Convergence of long time and the systems that refuse to wait",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13ae/live/d1192590-9504-11f1-bf69-07da70b136c8.jpg",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-10.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-08-10",
-        "authorName": "Dr. Wallace Lynch"
       }
     ]
   }
