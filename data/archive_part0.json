@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-10-09T14-43",
-    "scannedAt": "2026-10-09T14:43:19.988Z",
+    "batchId": "auto_2026-10-09T20-22",
+    "scannedAt": "2026-10-09T20:22:16.103Z",
     "items": [
       {
-        "id": "auto_2026-10-09T14-43_1",
+        "id": "auto_2026-10-09T20-22_1",
         "rank": 1,
-        "title": "‘Eventually everything, if you leave it long enough, will fall back into nature’: Michael Landy on the art of disintegration",
-        "category": "art",
-        "summary": "The UK artist known for his searing critiques of consumer culture is showing a new series of drawings at the Sir John Soane’s Museum that imagine the future ruins of notable buildings",
-        "image": "https://cdn.sanity.io/images/cxgd3urn/production/6ec0b6cfd70ff6435a470895e22a7805341c8c65-3071x2051.jpg?w=140",
-        "source": "The Art Newspaper",
-        "sourceUrl": "https://www.theartnewspaper.com/2026/10/09/eventually-everything-if-you-leave-it-long-enough-will-fall-back-into-nature-michael-landy-on-the-art-of-disintegration",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-09T14-43_2",
-        "rank": 2,
-        "title": "Trump’s attempt to rename AI is looking awfully artificial",
+        "title": "Tesla’s ‘Full Self-Driving’ Becomes ‘Assisted Driving’ in Europe",
         "category": "general",
-        "summary": "President Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like \"Little Marco\" and \"Crooked Hillary\"; he changed \"fake news\" from a phrase…",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297777001.jpg?quality=90&strip=all&crop=0%2C10.728009376723%2C100%2C78.543981246555&w=1200",
-        "source": "The Verge",
-        "sourceUrl": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
+        "summary": "The automaker has been criticized for misleading drivers with the feature’s name. Now it’s renaming it for European regulators.",
+        "image": "https://media.wired.com/photos/6ac9386f3122e744c08a4121/master/pass/GettyImages-1228358583.jpg",
+        "source": "WIRED",
+        "sourceUrl": "https://www.wired.com/story/tesla-full-self-driving-becomes-assisted-driving-in-europe/",
         "fromX": false
       },
       {
-        "id": "auto_2026-10-09T14-43_3",
+        "id": "auto_2026-10-09T20-22_2",
+        "rank": 2,
+        "title": "UK’s National Composites Centre to lead business support for new £9.8 million Greater South West robotics hub",
+        "category": "robotics",
+        "summary": "Businesses across the Greater South West region of the UK will receive dedicated support to explore and adopt robotics and automation through a new £9.8 million regional programme. The National Composites Centre (NCC)…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/National-Composites-Centre-robotics-hub-1.jpeg",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/09/uks-national-composites-centre-to-lead-business-support-for-new-9-8-million-greater-south-west-robotics-hub/105803/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-09T20-22_3",
         "rank": 3,
-        "title": "STAT+: Up and down the ladder: The latest comings and goings",
-        "category": "biotech",
-        "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.",
-        "image": "https://www.statnews.com/wp-content/uploads/2021/03/Pharmalot_ComingGoing_STILL-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/pharmalot/2026/10/09/up-and-down-ladder-latest-comings-and-goings-jobs/?utm_campaign=rss",
+        "title": "Austrian presidential hopeful pledges to return Moctezuma’s headdress to Mexico",
+        "category": "art",
+        "summary": "With the 2028 election just over the horizon, the economist Gunther Fehlinger-Jahn has put the long-contested Aztec treasure back in the spotlight",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/092b1864a9ee0239f5973638494c9f24b506336d-1800x1428.jpg?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/10/09/austrian-politician-gunther-fehlinger-jahn-pledges-moctezuma-headdress-return-mexico",
         "fromX": false
       },
       {
-        "id": "auto_2026-10-09T14-43_4",
+        "id": "auto_2026-10-09T20-22_4",
         "rank": 4,
-        "title": "Cosmic House of Mirrors",
+        "title": "NASA Seeks US Industry Plans for Commercial Space Stations",
         "category": "space",
-        "summary": "Galaxies warp and multiply as if in a house of mirrors in this image from NASA's James Webb Space Telescope released on Sept. 29, 2026. The brilliant golden galaxies seen here are part of a galaxy cluster called MACS…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/10/55558916046-731625cbe5-o.jpg",
+        "summary": "NASA is advancing American leadership in space by taking the next step toward a future where commercial space stations lead the way in low Earth orbit. On Friday, the agency released its final Request for Proposals…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
         "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/image-article/cosmic-house-of-mirrors/",
+        "sourceUrl": "https://www.nasa.gov/news-release/nasa-seeks-us-industry-plans-for-commercial-space-stations/",
         "fromX": false
       },
       {
-        "id": "auto_2026-10-09T14-43_5",
+        "id": "auto_2026-10-09T20-22_5",
         "rank": 5,
-        "title": "We’re putting too much faith in AI’s ability to say no",
-        "category": "ai",
-        "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/0924OP.jpg?resize=1200,600",
-        "source": "MIT Technology Review",
-        "sourceUrl": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+        "title": "Cannabis Destroys Sleep Quality",
+        "category": "neuroscience",
+        "summary": "A 35-year study shows cannabis use links to fragmented, poor sleep measured by monitors, even though users believe they slept well.",
+        "image": "https://neurosciencenews.com/files/2026/10/The-Truth-About-Cannabis-and-Sleep-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/cannabis-sleep-quality-31306/",
         "fromX": false
       }
     ]
@@ -179,6 +179,26 @@
         "source": "Neuroscience News",
         "sourceUrl": "https://neurosciencenews.com/neurons-short-term-memory-lock-31301/",
         "fromX": false
+      }
+    ]
+  },
+  {
+    "batchId": "editorial_2026-10-07",
+    "scannedAt": "2026-10-07T23:42:30.710Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-10-07",
+        "rank": 0,
+        "title": "The Gravity of the Physical World",
+        "category": "editorial",
+        "summary": "From Mars to AI, our ambitions are boundless—yet we remain tethered to the heavy realities of our biology, politics, and planet.",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/10/GettyImages-1053097458.jpg?w=650",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-10-07.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-10-07",
+        "authorName": "Dr. Wallace Lynch"
       }
     ]
   },
@@ -2225,26 +2245,6 @@
         "sourceUrl": "https://chronicleofconvergence.com/e/2026-09-09.html",
         "isEditorialArchive": true,
         "publishDate": "2026-09-09",
-        "authorName": "Dr. Wallace Lynch"
-      }
-    ]
-  },
-  {
-    "batchId": "editorial_2026-09-08",
-    "scannedAt": "2026-09-09T05:53:45.421Z",
-    "kind": "editorial_archive",
-    "items": [
-      {
-        "id": "editorial_2026-09-08",
-        "rank": 0,
-        "title": "No name on the door",
-        "category": "editorial",
-        "summary": "Agents that plan for the unexpected. Three hundred homes that did not ask.",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/Danijar-0G6A8052-2.jpg?resize=1200,600",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-09-08.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-09-08",
         "authorName": "Dr. Wallace Lynch"
       }
     ]
