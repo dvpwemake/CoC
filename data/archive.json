@@ -1,5 +1,25 @@
 [
   {
+    "batchId": "editorial_2026-10-07",
+    "scannedAt": "2026-10-07T23:42:30.710Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-10-07",
+        "rank": 0,
+        "title": "The Gravity of the Physical World",
+        "category": "editorial",
+        "summary": "From Mars to AI, our ambitions are boundless—yet we remain tethered to the heavy realities of our biology, politics, and planet.",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/10/GettyImages-1053097458.jpg?w=650",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-10-07.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-10-07",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-10-09T14-43",
     "scannedAt": "2026-10-09T14:43:19.988Z",
     "items": [
