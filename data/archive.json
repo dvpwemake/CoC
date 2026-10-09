@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-10-09T04-44",
+    "scannedAt": "2026-10-09T04:44:21.044Z",
+    "items": [
+      {
+        "id": "auto_2026-10-09T04-44_1",
+        "rank": 1,
+        "title": "Nvidia-backed AI data centre firm scraps mega listing due to market volatility",
+        "category": "general",
+        "summary": "Firmus said it had made the decision due to \"recent market volatility and prevailing market conditions\".",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cb7/live/41bf1cb0-c380-11f1-b333-87955b7be3e7.jpg",
+        "source": "BBC Technology",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck9dzpw4ll8po?at_medium=RSS&at_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-09T04-44_2",
+        "rank": 2,
+        "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+        "category": "ai",
+        "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2024/01/MIT-TR-Roundtables_Oct-2-Thumbnail.png?resize=1200,600",
+        "source": "MIT Technology Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-09T04-44_3",
+        "rank": 3,
+        "title": "Gertrude Vanderbilt Whitney’s cemetery art restored in the Bronx",
+        "category": "art",
+        "summary": "The Untermyer Memorial at Woodlawn Cemetery contains evocative bronze sculptures created by the founder of the Whitney Museum of American Art",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/f302e15e5ddb4b4c2aa9c67929400bf1479084cb-2000x1310.jpg?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/10/08/gertrude-vanderbilt-whitney-woodlawn-cemetery-conservation-bronx",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-09T04-44_4",
+        "rank": 4,
+        "title": "STAT+: House Democrat seeks to scrap No Surprises Act’s costly arbitration process",
+        "category": "biotech",
+        "summary": "A new proposal in Congress to scrap a surprise billing ban’s controversial arbitration system will need to to survive an onslaught of attacks from provider groups.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/10/GettyImages-2286403276-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/10/08/house-democrat-proposes-change-to-no-surprises-act-arbitration-process/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-09T04-44_5",
+        "rank": 5,
+        "title": "Galaxy Corporation stages 16-robot K-pop performance in New York",
+        "category": "robotics",
+        "summary": "South Korean entertainment technology company Galaxy Corporation has staged a synchronized performance involving 16 humanoid robots in New York as part of a demonstration combining robotics with K-pop and other…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/galaxy-1.jpg",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/08/galaxy-corporation-stages-16-robot-k-pop-performance-in-new-york/105765/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-10-08T23-59",
     "scannedAt": "2026-10-08T23:59:55.552Z",
     "items": [
