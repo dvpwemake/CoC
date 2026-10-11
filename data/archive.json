@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-10-11T02-20",
+    "scannedAt": "2026-10-11T02:20:13.776Z",
+    "items": [
+      {
+        "id": "auto_2026-10-11T02-20_1",
+        "rank": 1,
+        "title": "Justice Dept. Is Investigating TV Networks Over Trump Pool Coverage",
+        "category": "general",
+        "summary": "Major TV networks were notified on Friday that the department was examining whether they violated antitrust laws when they suspended pool coverage of President Trump.",
+        "image": "https://static01.nyt.com/images/2026/10/10/multimedia/10biz-media-investigation-gpjh/10biz-media-investigation-gpjh-mediumSquareAt3X.jpg",
+        "source": "NYT Technology",
+        "sourceUrl": "https://www.nytimes.com/2026/10/10/business/media/trump-justice-department-tv-networks.html",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-11T02-20_2",
+        "rank": 2,
+        "title": "Americans trust science more than peers around the world, survey shows",
+        "category": "biotech",
+        "summary": "Just 40 percent of Americans reported a lot of confidence in U.S. hospitals and health clinics, the same proportion as in Portugal and Uruguay.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/10/GettyImages-2208749912-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/10/10/u-s-trust-science-higher-than-other-nations-wellcome-survey/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-11T02-20_3",
+        "rank": 3,
+        "title": "NASA to Conduct Flyover, Engage NFL Fans at MetLife Stadium",
+        "category": "space",
+        "summary": "As part of the agency’s Inspiration Tour flyover, NASA Administrator Jared Isaacman will pilot one of three F-5 fighter jets to kick off the New York Jets vs. Cleveland Browns game in East Rutherford, New Jersey, on…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/10/grc-2026-c-06389large.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/news-release/nasa-to-conduct-flyover-engage-nfl-fans-at-metlife-stadium/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-11T02-20_4",
+        "rank": 4,
+        "title": "Interview: Humanoid robots are advancing fast. Manufacturing them at scale is the next challenge",
+        "category": "robotics",
+        "summary": "As humanoid robot developers race to move their machines from demonstrations and pilot projects into factories and other working environments, another challenge is rapidly coming into focus: how to manufacture these…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/Fictiv-Misumi.jpg",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/10/interview-humanoid-robots-are-advancing-fast-manufacturing-them-at-scale-is-the-next-challenge/105812/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-11T02-20_5",
+        "rank": 5,
+        "title": "A famous quantum effect can finally be predicted in real materials",
+        "category": "energy",
+        "summary": "Scientists have developed a powerful new way to calculate the Kondo effect, a strange quantum phenomenon that appears when magnetic atoms are embedded in metals. Instead of relying on simplified models, the method uses…",
+        "image": "https://www.sciencedaily.com/images/1920/kondo-effect-illustration.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261006234520.htm",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-10-10T22-59",
     "scannedAt": "2026-10-10T22:59:16.604Z",
     "items": [

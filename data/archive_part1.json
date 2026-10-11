@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-09-09T22-01",
+    "scannedAt": "2026-09-09T22:01:16.765Z",
+    "items": [
+      {
+        "id": "auto_2026-09-09T22-01_1",
+        "rank": 1,
+        "title": "It’s the year of smartphone price hikes",
+        "category": "general",
+        "summary": "Paying more for a new phone seems almost unavoidable after Apple's event today. The new iPhone 18 Pro and Pro Max start at $1,199 and $1,299, respectively - a $100 price hike over their predecessors. You can't dodge the…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268735_iPhone_18_Pro_NPatel_0005.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "sourceUrl": "https://www.theverge.com/gadgets/993005/smartphone-price-hikes-apple-iphone-18-pro",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-09T22-01_2",
+        "rank": 2,
+        "title": "Coroner releases details of infants who died amid growing Pennsylvania measles outbreak",
+        "category": "biotech",
+        "summary": "The two measles-related deaths in Pennsylvania last month involved infants, and the virus itself caused one of the deaths, a Pennsylvania coroner confirmed Wednesday.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/09/AP26237531065807-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/09/09/coroner-details-infant-deaths-pennsylvania-measles-outbreak/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-09T22-01_3",
+        "rank": 3,
+        "title": "NASA Adds Relativity Space’s Terran R to Launch Services Contract",
+        "category": "space",
+        "summary": "A NASA Launch Services (NLS) II contract has been awarded by the agency to Relativity Space Inc., and its Terran R launch service in accordance with the contract’s on-ramp provision. The Terran R launch service will be…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/news-release/nasa-adds-relativity-spaces-terran-r-to-launch-services-contract/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-09T22-01_4",
+        "rank": 4,
+        "title": "Freelands Foundation Announces £100,000 Annually for Three UK Arts Organizations",
+        "category": "art",
+        "summary": "The Freelands Foundation has awarded £100,000 (approximately $135,000) of unrestricted funding to three organizations annually for the next five years, totaling £1.5m (roughly $2 million). The recipients are…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/09/Wolverhampton_Art_Gallery_2.jpg?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/news/freelands-awards-recognizes-three-uk-arts-organizations-1234758982/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-09T22-01_5",
+        "rank": 5,
+        "title": "Questionable data center forecasts are driving up Ohio power bills",
+        "category": "energy",
+        "summary": "Ohio has emerged as one of the top states for data center developers, with roughly 100 of the facilities already up and running and nearly 150 more on the way. Many of those planned facilities may never get built, but…",
+        "image": "https://img.canarymedia.com/content/uploads/COL5-AI-Data-Center-Construction-Lewis-Ohio_GettyImages-2226519839.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=20735b02a1eb0e5cc03703a85b9a2cc4",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/data-centers/questionable-data-center-forecasts-ohio-power-bills",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "editorial_2026-09-09",
     "scannedAt": "2026-09-09T19:08:17.913Z",
     "kind": "editorial_archive",
@@ -2144,67 +2205,6 @@
         "isEditorialArchive": true,
         "publishDate": "2026-08-12",
         "authorName": "Dr. Wallace Lynch"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-08-12T20-28",
-    "scannedAt": "2026-08-12T20:28:10.771Z",
-    "items": [
-      {
-        "id": "auto_2026-08-12T20-28_1",
-        "rank": 1,
-        "title": "The Best Way to Avoid Diarrhea Lettuce? This Indoor Garden",
-        "category": "general",
-        "summary": "Lettuce Grow, one of my favorite indoor gardens, lets you cultivate your own salad greens safely, right in your living room. And it’s 20 percent off right now.",
-        "image": "https://media.wired.com/photos/6a7cb24ff364ac5424573890/master/pass/Tired-of-Diarrhea-Lettuce--Grow-Your-Own-Greens-for-20-Percent-Off.jpg",
-        "source": "WIRED",
-        "sourceUrl": "https://www.wired.com/story/lettuce-grow-20-percent-off-2026/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-12T20-28_2",
-        "rank": 2,
-        "title": "2026 Total Solar Eclipse in Spain",
-        "category": "space",
-        "summary": "A total solar eclipse is seen from San Millán de los Caballeros, Spain, Wednesday, Aug. 12, 2026. A total solar eclipse – the Moon passing between the Sun and Earth, completely blocking the face of the Sun – swept…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/08/55459753868-458217b2c9-o.jpg",
-        "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/image-article/2026-total-solar-eclipse-in-spain/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-12T20-28_3",
-        "rank": 3,
-        "title": "Black Mid-Century Artist Felrath Hines Is Finally Getting His Due for His Luminous Abstractions",
-        "category": "art",
-        "summary": "He was a member of the Spiral Group , the pioneering collective of African American artists in the 1960s, and an artistic peer to Romare Bearden and Emma Amos . Georgia O’Keeffe so admired his talents that she hired him…",
-        "image": "https://artsy-media-uploads.s3.amazonaws.com/xW5_HiB7_WMyMLxZzdfiYQ%2FPress+Felrath+Hines+Landscape%2C+1953+12513.jpg",
-        "source": "Artsy",
-        "sourceUrl": "https://www.artsy.net/article/artsy-editorial-black-mid-century-artist-felrath-hines-finally-luminous-abstractions",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-12T20-28_4",
-        "rank": 4,
-        "title": "Trump administration’s new ‘treatment-first’ addiction toolkit emphasizes faith, abstinence",
-        "category": "biotech",
-        "summary": "The White House nods to use of addiction medications but moves away from other harm reduction strategies.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/08/GettyImages-2289375722-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/08/12/addiction-homelessness-hhs-toolkit-harm-reduction/?utm_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-12T20-28_5",
-        "rank": 5,
-        "title": "Robots could consume as much electricity as 35 million US homes by 2035",
-        "category": "robotics",
-        "summary": "The rapidly expanding global robotics industry could require 363 TWh of electricity annually by 2035 – equivalent to the yearly consumption of around 35 million average US households – according to new research from…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/typical-US-home-electricity-needs.jpg",
-        "source": "Robotics & Automation News",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/12/robots-could-consume-as-much-electricity-as-35-million-us-homes-by-2035/104073/",
-        "fromX": false
       }
     ]
   }
