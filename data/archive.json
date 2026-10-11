@@ -1,5 +1,25 @@
 [
   {
+    "batchId": "editorial_2026-10-10",
+    "scannedAt": "2026-10-11T02:30:40.344Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-10-10",
+        "rank": 0,
+        "title": "The Scale of Our Ambition",
+        "category": "editorial",
+        "summary": "We are predicting quantum phenomena and chasing fusion, but the real bottlenecks remain public trust, manufacturing limits, and regulatory reality.",
+        "image": "https://www.sciencedaily.com/images/1920/kondo-effect-illustration.webp",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-10-10.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-10-10",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-10-11T23-14",
     "scannedAt": "2026-10-11T23:14:25.952Z",
     "items": [
