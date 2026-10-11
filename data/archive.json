@@ -1,5 +1,25 @@
 [
   {
+    "batchId": "editorial_2026-10-09",
+    "scannedAt": "2026-10-09T18:15:58.801Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-10-09",
+        "rank": 0,
+        "title": "The Choreography of Code and Culture",
+        "category": "editorial",
+        "summary": "From synchronized robotic pop stars to AI-generated biological blueprints, the line between engineered systems and organic expression is rapidly dissolving.",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2024/01/MIT-TR-Roundtables_Oct-2-Thumbnail.png?resize=1200,600",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-10-09.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-10-09",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-10-11T02-20",
     "scannedAt": "2026-10-11T02:20:13.776Z",
     "items": [
