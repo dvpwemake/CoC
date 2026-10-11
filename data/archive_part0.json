@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-10-11T10-21",
-    "scannedAt": "2026-10-11T10:21:10.292Z",
+    "batchId": "auto_2026-10-11T16-49",
+    "scannedAt": "2026-10-11T16:49:16.764Z",
     "items": [
       {
-        "id": "auto_2026-10-11T10-21_1",
+        "id": "auto_2026-10-11T16-49_1",
         "rank": 1,
-        "title": "These Midterm Races Will Decide Data Centers’ Political Fate",
+        "title": "George A. Romero’s Season of the Witch is a slow-burn feminist occult drama",
         "category": "general",
-        "summary": "From the Senate to governors’ mansions, candidates are trying to outcompete each other to be the most anti–data center in races across the US.",
-        "image": "https://media.wired.com/photos/6ac8dbbab63e0ee0b0821445/master/pass/101126-Power%20Play.jpg",
-        "source": "WIRED",
-        "sourceUrl": "https://www.wired.com/story/midterm-races-decide-data-centers-political-fate/",
+        "summary": "George A. Romero is obviously best known as the father of the modern zombie movie. But between inventing the genre with Night of the Living Dead and his outbreak horror, The Crazies, Romero made two much lesser-known…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/b4cbdcb8-32ec-4f79-8a23-c2edbf8d58e9.jpg?quality=90&strip=all&crop=0,26.73065735893,100,46.538685282141",
+        "source": "The Verge",
+        "sourceUrl": "https://www.theverge.com/entertainment/1009346/george-a-romero-season-of-the-witch-feminist-horror-review",
         "fromX": false
       },
       {
-        "id": "auto_2026-10-11T10-21_2",
+        "id": "auto_2026-10-11T16-49_2",
         "rank": 2,
-        "title": "APOD: 2026 October 11 – Ice Fishing for Cosmic Neutrinos",
-        "category": "space",
-        "summary": "APOD Science APOD APOD: 2026 October 11 – Ice… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or…",
-        "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/october/deephole_icecube_4000.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-        "source": "NASA",
-        "sourceUrl": "https://science.nasa.gov/image-article/apod-2026-october-11-ice-fishing-for-cosmic-neutrinos/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-11T10-21_3",
-        "rank": 3,
-        "title": "Scientists build a nuclear clock that could make atomic clocks obsolete",
-        "category": "energy",
-        "summary": "Scientists in Vienna have achieved a major breakthrough in timekeeping by creating the world’s first self-stabilizing nuclear clock, a technology that could eventually surpass even the most precise atomic clocks.…",
-        "image": "https://www.sciencedaily.com/images/1920/nuclear-clock-concept.webp",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261008102701.htm",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-11T10-21_4",
-        "rank": 4,
-        "title": "Scientists created a tiny device that can control your nerves to treat chronic pain",
-        "category": "neuroscience",
-        "summary": "Scientists have developed a tiny, injectable device that can control nerve activity without surgery, batteries, or wires, potentially transforming treatment for chronic pain and movement disorders. Powered wirelessly…",
-        "image": "https://www.sciencedaily.com/images/1920/tiny-wireless-device-treats-chronic-pain.webp",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261008005253.htm",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-11T10-21_5",
-        "rank": 5,
-        "title": "STAT+: Biotech leader, leading lab leak theorist no longer in consideration for top infectious disease role",
+        "title": "Americans trust science more than peers around the world, survey shows",
         "category": "biotech",
-        "summary": "Steven Quay, a biopharmaceutical executive with no background in infectious diseases, is no longer being considered for director of the National Institute for Allergy and Infectious Diseases.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/08/AP24170523760086-1024x576.jpg",
+        "summary": "Just 40 percent of Americans reported a lot of confidence in U.S. hospitals and health clinics, the same proportion as in Portugal and Uruguay.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/10/GettyImages-2208749912-1024x576.jpg",
         "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/10/09/steven-quay-no-longer-in-consideration-for-top-infectious-disease-role/?utm_campaign=rss",
+        "sourceUrl": "https://www.statnews.com/2026/10/10/u-s-trust-science-higher-than-other-nations-wellcome-survey/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-11T16-49_3",
+        "rank": 3,
+        "title": "NASA to Conduct Flyover, Engage NFL Fans at MetLife Stadium",
+        "category": "space",
+        "summary": "As part of the agency’s Inspiration Tour flyover, NASA Administrator Jared Isaacman will pilot one of three F-5 fighter jets to kick off the New York Jets vs. Cleveland Browns game in East Rutherford, New Jersey, on…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/10/grc-2026-c-06389large.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/news-release/nasa-to-conduct-flyover-engage-nfl-fans-at-metlife-stadium/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-11T16-49_4",
+        "rank": 4,
+        "title": "Interview: Humanoid robots are advancing fast. Manufacturing them at scale is the next challenge",
+        "category": "robotics",
+        "summary": "As humanoid robot developers race to move their machines from demonstrations and pilot projects into factories and other working environments, another challenge is rapidly coming into focus: how to manufacture these…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/Fictiv-Misumi.jpg",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/10/interview-humanoid-robots-are-advancing-fast-manufacturing-them-at-scale-is-the-next-challenge/105812/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-11T16-49_5",
+        "rank": 5,
+        "title": "A famous quantum effect can finally be predicted in real materials",
+        "category": "energy",
+        "summary": "Scientists have developed a powerful new way to calculate the Kondo effect, a strange quantum phenomenon that appears when magnetic atoms are embedded in metals. Instead of relying on simplified models, the method uses…",
+        "image": "https://www.sciencedaily.com/images/1920/kondo-effect-illustration.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261006234520.htm",
         "fromX": false
       }
     ]
