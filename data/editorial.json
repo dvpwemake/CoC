@@ -1,127 +1,149 @@
 {
   "published": {
-    "id": "ed_2026-10-09",
-    "publishDate": "2026-10-09",
+    "id": "ed_2026-10-10",
+    "publishDate": "2026-10-10",
     "status": "published",
-    "updatedAt": "2026-10-09T18:15:58.801Z",
-    "title": "The Choreography of Code and Culture",
-    "dek": "From synchronized robotic pop stars to AI-generated biological blueprints, the line between engineered systems and organic expression is rapidly dissolving.",
+    "updatedAt": "2026-10-11T02:30:40.344Z",
+    "title": "The Scale of Our Ambition",
+    "dek": "We are predicting quantum phenomena and chasing fusion, but the real bottlenecks remain public trust, manufacturing limits, and regulatory reality.",
     "authorName": "Dr. Wallace Lynch",
     "authorTitle": "Editor in Chief",
-    "body": "We are witnessing a fascinating inversion in how we consume and create culture. In New York, technology firm Galaxy Corporation just staged a synchronized performance featuring 16 humanoid robots dancing to K-pop. Meanwhile, on the opposite coast, an actual K-pop superstar—BTS’s RM—is flexing human curation, having already drawn 50,000 ticket reservations for his debut exhibition of Korean art at SFMoMA. As machines eagerly adopt our synthetic pop formats, our human icons are pivoting to preserve traditional cultural infrastructure.\n\nThis blurring of the artificial and the organic extends far beyond the gallery and the stage. In medicine, researchers are literally reprogramming human biology, with a new trial showing that optogenetics can successfully restore photosensitivity in patients blinded by retinitis pigmentosa. The boundary pushes even further at Stanford University, where generative AI is no longer just predicting text, but drafting genetic blueprints for entirely new viruses. We have officially crossed the threshold from digital assistants to biological architects.\n\nYet, the frictionless future promised by these breakthroughs—evident in Lowe’s newly launched 20-minute drone deliveries or NASA’s upcoming Martian Moons eXploration briefing—still collides with messy terrestrial realities. Economic gravity recently forced an Nvidia-backed AI data center firm to abruptly scrap a massive public listing due to market volatility. The mundane struggles of physical infrastructure persist, as the market continues to reject the long-touted promise of solar roof tiles. More troublingly, a new federal investigation into J-1 visa fraud across nine universities threatens to disrupt the vital pipeline of international postdoctoral researchers.\n\nWe can engineer robots to dance, train AI to design new life forms, and use light to restore human sight. But sustaining the fragile economic and academic ecosystems that make these miracles possible remains our most complex design challenge yet.",
+    "body": "In the lab and in orbit, the scale of our current scientific ambition is staggering. Princeton researchers may have found a radically efficient shortcut to fusion energy by reversing traditional heating methods, while physicists have finally developed a way to predict the elusive quantum Kondo effect in real materials. Overhead, MIT astronomers are currently observing a star system slowly devouring a brown dwarf in a cosmic feast that will last billions of years.\n\nYet, the gap between scientific capability and societal integration remains stark. Despite these towering achievements, a new survey reveals that just 40 percent of Americans hold strong confidence in U.S. hospitals and health clinics—a baseline of trust on par with Portugal and Uruguay.\n\nWe see this same friction in commercial technology. Humanoid robots are rapidly graduating from pilot demonstrations, but the industry is hitting a harsh new bottleneck: the sheer logistical difficulty of manufacturing them at scale. Artificial intelligence is already stepping in as a social safety net, with New York extending its deployment of ElliQ AI companions for lonely seniors. But at the very top of the industry, the tone is decidedly cautious. Microsoft CEO Satya Nadella warned this week that society must operate under the assumption that all advanced AI models are inherently \"compromised.\" Meanwhile, Tesla is facing a regulatory reality check, finally downgrading its \"Full Self-Driving\" moniker to \"Assisted Driving\" in Europe.\n\nCulture and politics remain as chaotic as ever. The Justice Department is actively probing major TV networks over antitrust concerns regarding presidential pool coverage, while NASA is flying fighter jets over NFL games. And the art world continues its strange dance with history and pop culture: an Austrian politician is using the return of Moctezuma’s headdress as a 2028 campaign pledge, just as the Kennedy Center names a former manager for ZZ Top and Mötley Crüe as its new artistic director. Progress is moving fast, but it is never a straight line.",
     "paragraphs": [
-      "We are witnessing a fascinating inversion in how we consume and create culture. In New York, technology firm Galaxy Corporation just staged a synchronized performance featuring 16 humanoid robots dancing to K-pop. Meanwhile, on the opposite coast, an actual K-pop superstar—BTS’s RM—is flexing human curation, having already drawn 50,000 ticket reservations for his debut exhibition of Korean art at SFMoMA. As machines eagerly adopt our synthetic pop formats, our human icons are pivoting to preserve traditional cultural infrastructure.",
-      "This blurring of the artificial and the organic extends far beyond the gallery and the stage. In medicine, researchers are literally reprogramming human biology, with a new trial showing that optogenetics can successfully restore photosensitivity in patients blinded by retinitis pigmentosa. The boundary pushes even further at Stanford University, where generative AI is no longer just predicting text, but drafting genetic blueprints for entirely new viruses. We have officially crossed the threshold from digital assistants to biological architects.",
-      "Yet, the frictionless future promised by these breakthroughs—evident in Lowe’s newly launched 20-minute drone deliveries or NASA’s upcoming Martian Moons eXploration briefing—still collides with messy terrestrial realities. Economic gravity recently forced an Nvidia-backed AI data center firm to abruptly scrap a massive public listing due to market volatility. The mundane struggles of physical infrastructure persist, as the market continues to reject the long-touted promise of solar roof tiles. More troublingly, a new federal investigation into J-1 visa fraud across nine universities threatens to disrupt the vital pipeline of international postdoctoral researchers.",
-      "We can engineer robots to dance, train AI to design new life forms, and use light to restore human sight. But sustaining the fragile economic and academic ecosystems that make these miracles possible remains our most complex design challenge yet."
+      "In the lab and in orbit, the scale of our current scientific ambition is staggering. Princeton researchers may have found a radically efficient shortcut to fusion energy by reversing traditional heating methods, while physicists have finally developed a way to predict the elusive quantum Kondo effect in real materials. Overhead, MIT astronomers are currently observing a star system slowly devouring a brown dwarf in a cosmic feast that will last billions of years.",
+      "Yet, the gap between scientific capability and societal integration remains stark. Despite these towering achievements, a new survey reveals that just 40 percent of Americans hold strong confidence in U.S. hospitals and health clinics—a baseline of trust on par with Portugal and Uruguay.",
+      "We see this same friction in commercial technology. Humanoid robots are rapidly graduating from pilot demonstrations, but the industry is hitting a harsh new bottleneck: the sheer logistical difficulty of manufacturing them at scale. Artificial intelligence is already stepping in as a social safety net, with New York extending its deployment of ElliQ AI companions for lonely seniors. But at the very top of the industry, the tone is decidedly cautious. Microsoft CEO Satya Nadella warned this week that society must operate under the assumption that all advanced AI models are inherently \"compromised.\" Meanwhile, Tesla is facing a regulatory reality check, finally downgrading its \"Full Self-Driving\" moniker to \"Assisted Driving\" in Europe.",
+      "Culture and politics remain as chaotic as ever. The Justice Department is actively probing major TV networks over antitrust concerns regarding presidential pool coverage, while NASA is flying fighter jets over NFL games. And the art world continues its strange dance with history and pop culture: an Austrian politician is using the return of Moctezuma’s headdress as a 2028 campaign pledge, just as the Kennedy Center names a former manager for ZZ Top and Mötley Crüe as its new artistic director. Progress is moving fast, but it is never a straight line."
     ],
-    "wordCount": 287,
-    "heroImage": "https://wp.technologyreview.com/wp-content/uploads/2024/01/MIT-TR-Roundtables_Oct-2-Thumbnail.png?resize=1200,600",
-    "heroCredit": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-    "heroSource": "MIT Technology Review",
-    "heroSourceUrl": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+    "wordCount": 320,
+    "heroImage": "https://www.sciencedaily.com/images/1920/kondo-effect-illustration.webp",
+    "heroCredit": "A famous quantum effect can finally be predicted in real materials",
+    "heroSource": "ScienceDaily",
+    "heroSourceUrl": "https://www.sciencedaily.com/releases/2026/10/261006234520.htm",
     "headlines": [
       {
-        "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-        "source": "MIT Technology Review",
-        "category": "ai",
-        "sourceUrl": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-        "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2024/01/MIT-TR-Roundtables_Oct-2-Thumbnail.png?resize=1200,600"
-      },
-      {
-        "title": "Gertrude Vanderbilt Whitney’s cemetery art restored in the Bronx",
-        "source": "The Art Newspaper",
-        "category": "art",
-        "sourceUrl": "https://www.theartnewspaper.com/2026/10/08/gertrude-vanderbilt-whitney-woodlawn-cemetery-conservation-bronx",
-        "summary": "The Untermyer Memorial at Woodlawn Cemetery contains evocative bronze sculptures created by the founder of the Whitney Museum of American Art",
-        "image": "https://cdn.sanity.io/images/cxgd3urn/production/f302e15e5ddb4b4c2aa9c67929400bf1479084cb-2000x1310.jpg?w=140"
-      },
-      {
-        "title": "STAT+: House Democrat seeks to scrap No Surprises Act’s costly arbitration process",
+        "title": "Americans trust science more than peers around the world, survey shows",
         "source": "STAT News",
         "category": "biotech",
-        "sourceUrl": "https://www.statnews.com/2026/10/08/house-democrat-proposes-change-to-no-surprises-act-arbitration-process/?utm_campaign=rss",
-        "summary": "A new proposal in Congress to scrap a surprise billing ban’s controversial arbitration system will need to to survive an onslaught of attacks from provider groups.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/10/GettyImages-2286403276-1024x576.jpg"
+        "sourceUrl": "https://www.statnews.com/2026/10/10/u-s-trust-science-higher-than-other-nations-wellcome-survey/?utm_campaign=rss",
+        "summary": "Just 40 percent of Americans reported a lot of confidence in U.S. hospitals and health clinics, the same proportion as in Portugal and Uruguay.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/10/GettyImages-2208749912-1024x576.jpg"
       },
       {
-        "title": "Nvidia-backed AI data centre firm scraps mega listing due to market volatility",
-        "source": "BBC Technology",
+        "title": "A famous quantum effect can finally be predicted in real materials",
+        "source": "ScienceDaily",
+        "category": "energy",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261006234520.htm",
+        "summary": "Scientists have developed a powerful new way to calculate the Kondo effect, a strange quantum phenomenon that appears when magnetic atoms are embedded in metals. Instead of relying on simplified models, the method uses…",
+        "image": "https://www.sciencedaily.com/images/1920/kondo-effect-illustration.webp"
+      },
+      {
+        "title": "Justice Dept. Is Investigating TV Networks Over Trump Pool Coverage",
+        "source": "NYT Technology",
         "category": "general",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck9dzpw4ll8po?at_medium=RSS&at_campaign=rss",
-        "summary": "Firmus said it had made the decision due to \"recent market volatility and prevailing market conditions\".",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cb7/live/41bf1cb0-c380-11f1-b333-87955b7be3e7.jpg"
+        "sourceUrl": "https://www.nytimes.com/2026/10/10/business/media/trump-justice-department-tv-networks.html",
+        "summary": "Major TV networks were notified on Friday that the department was examining whether they violated antitrust laws when they suspended pool coverage of President Trump.",
+        "image": "https://static01.nyt.com/images/2026/10/10/multimedia/10biz-media-investigation-gpjh/10biz-media-investigation-gpjh-mediumSquareAt3X.jpg"
       },
       {
-        "title": "Galaxy Corporation stages 16-robot K-pop performance in New York",
+        "title": "Interview: Humanoid robots are advancing fast. Manufacturing them at scale is the next challenge",
         "source": "Robotics & Automation News",
         "category": "robotics",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/08/galaxy-corporation-stages-16-robot-k-pop-performance-in-new-york/105765/",
-        "summary": "South Korean entertainment technology company Galaxy Corporation has staged a synchronized performance involving 16 humanoid robots in New York as part of a demonstration combining robotics with K-pop and other…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/galaxy-1.jpg"
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/10/interview-humanoid-robots-are-advancing-fast-manufacturing-them-at-scale-is-the-next-challenge/105812/",
+        "summary": "As humanoid robot developers race to move their machines from demonstrations and pilot projects into factories and other working environments, another challenge is rapidly coming into focus: how to manufacture these…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/Fictiv-Misumi.jpg"
       },
       {
-        "title": "St Louis's Counterpublic triennial explores connections between art and civic infrastructure",
-        "source": "The Art Newspaper",
-        "category": "art",
-        "sourceUrl": "https://www.theartnewspaper.com/2026/10/08/counterpublic-triennial-st-louis-coyote-time-review",
-        "summary": "The third edition of the public-art triennial has expanded to more than 50 projects across Missouri’s largest city",
-        "image": "https://cdn.sanity.io/images/cxgd3urn/production/607e3a3082566ecba60c17704339dcbaa270527f-1920x1280.jpg?w=140"
-      },
-      {
-        "title": "Trump administration investigates 9 universities for alleged visa fraud",
-        "source": "STAT News",
-        "category": "biotech",
-        "sourceUrl": "https://www.statnews.com/2026/10/08/trump-administration-investigates-universities-j1-visa-fraud/?utm_campaign=rss",
-        "summary": "This story has been updated. The Trump administration announced Thursday that it is investigating nine universities for alleged fraud related to visas commonly used by postdoctoral researchers, a core part…",
-        "image": "https://www.statnews.com/wp-content/uploads/2017/01/AP80889059-1024x576.jpg"
-      },
-      {
-        "title": "Why are more roofs not made of solar tiles?",
-        "source": "BBC Technology",
-        "category": "general",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&at_campaign=rss",
-        "summary": "Solar tiles were touted as an attractive alternative to solar panels - why have they not taken off?",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53f9/live/5f873b90-b0ea-11f1-8d94-cf0ec84c39cd.jpg"
-      },
-      {
-        "title": "Lowe’s launches 20-minute drone delivery with Wing and DoorDash",
-        "source": "Robotics & Automation News",
-        "category": "robotics",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/08/lowes-launches-20-minute-drone-delivery-with-wing-and-doordash/105770/",
-        "summary": "Lowe’s has launched drone delivery, the newest fulfillment method for the retailer that delivers select home improvement items directly to DIY and pro customers “in as fast as 20 minutes”. This pilot is now live at…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/lowes-drone_flight.jpg"
-      },
-      {
-        "title": "NASA Briefing to Highlight Contributions to Martian Moons Mission",
+        "title": "NASA to Conduct Flyover, Engage NFL Fans at MetLife Stadium",
         "source": "NASA",
         "category": "space",
-        "sourceUrl": "https://www.nasa.gov/news-release/nasa-briefing-to-highlight-contributions-to-martian-moons-mission/",
-        "summary": "Media are invited to join NASA for a media teleconference at 4 p.m. EDT, Thursday, Oct. 15, to preview the agency’s contributions to JAXA’s (Japan Aerospace Exploration Agency) Martian Moons eXploration (MMX) mission.…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2023/04/mmx-mars-mission.jpg"
+        "sourceUrl": "https://www.nasa.gov/news-release/nasa-to-conduct-flyover-engage-nfl-fans-at-metlife-stadium/",
+        "summary": "As part of the agency’s Inspiration Tour flyover, NASA Administrator Jared Isaacman will pilot one of three F-5 fighter jets to kick off the New York Jets vs. Cleveland Browns game in East Rutherford, New Jersey, on…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/10/grc-2026-c-06389large.jpg"
       },
       {
-        "title": "K-pop star RM shows off his collection of Korean art at SFMoMA",
+        "title": "Rick Canny, Onetime Artist Rep for ZZ Top, Named Artistic Director of the Kennedy Center",
+        "source": "Artforum",
+        "category": "art",
+        "sourceUrl": "https://www.artforum.com/news/rick-canny-named-artistic-director-of-the-kennedy-center-1234761192/",
+        "summary": "Rick Canny, an erstwhile artist rep for rockers including Whitesnake, ZZ Top, Mötley Crüe drummer Tommy Lee, and former Creed frontman Scott Stapp, has been appointed artistic director of the John F. Kennedy Center for…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/10/GettyImages-113801775.jpg?w=650"
+      },
+      {
+        "title": "Scientists may have found a shortcut to fusion energy",
+        "source": "ScienceDaily",
+        "category": "energy",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261008005242.htm",
+        "summary": "Princeton Plasma Physics Laboratory may have found a dramatically more efficient route to fusion energy by reversing the traditional approach: heating plasma first, then increasing its density. Their calculations could…",
+        "image": "https://www.sciencedaily.com/images/1920/nuclear-fusion-reactor-tokamak-heated-plasma.webp"
+      },
+      {
+        "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+        "source": "The Verge",
+        "category": "general",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+        "summary": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK178_Satya_Nadella_B.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200"
+      },
+      {
+        "title": "New York extends AI companion program in partnership with Intuition Robotics",
+        "source": "Robotics & Automation News",
+        "category": "robotics",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/10/new-york-extends-ai-companion-program-in-partnership-with-intuition-robotics/105806/",
+        "summary": "The New York State Office for the Aging (NYSOFA) has extended its partnership with Intuition Robotics to continue bringing the ElliQ proactive AI companion to aging New Yorkers at risk of loneliness and social…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/intuition-robotics-ai-companion-2.png"
+      },
+      {
+        "title": "MIT astronomers catch a star in a feast that could last billions of years",
+        "source": "ScienceDaily",
+        "category": "space",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261008005240.htm",
+        "summary": "Astronomers have discovered a bizarre star system about 300 light-years from Earth where a small star is slowly devouring a nearby brown dwarf, an object too massive to be a planet but too small to be a true star.…",
+        "image": "https://www.sciencedaily.com/images/1920/ztf-j0440-2325-brown-dwarf-white-dwarf.webp"
+      },
+      {
+        "title": "Austrian presidential hopeful pledges to return Moctezuma’s headdress to Mexico",
         "source": "The Art Newspaper",
         "category": "art",
-        "sourceUrl": "https://www.theartnewspaper.com/2026/10/07/rm-k-pop-star-bts-exhibition-sfmoma-korean-art",
-        "summary": "The museum appears to have a blockbuster on its hands—with 50,000 tickets already reserved for the BTS singer’s curatorial debut",
-        "image": "https://cdn.sanity.io/images/cxgd3urn/production/67c0bbec9db951718f547e730f2deae2610ad1fa-880x587.jpg?w=140"
+        "sourceUrl": "https://www.theartnewspaper.com/2026/10/09/austrian-politician-gunther-fehlinger-jahn-pledges-moctezuma-headdress-return-mexico",
+        "summary": "With the 2028 election just over the horizon, the economist Gunther Fehlinger-Jahn has put the long-contested Aztec treasure back in the spotlight",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/092b1864a9ee0239f5973638494c9f24b506336d-1800x1428.jpg?w=140"
       },
       {
-        "title": "STAT+: In small trial, optogenetics restores some vision lost to retinitis pigmentosa",
-        "source": "STAT News",
-        "category": "biotech",
-        "sourceUrl": "https://www.statnews.com/2026/10/07/optogenetics-restores-some-vision-retinitis-pigmentosa/?utm_campaign=rss",
-        "summary": "About half of the patients in a study regained photosensitivity in their vision, showing the promise of optogenetics.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/10/C0277118-Optogenetics_Illustration-1024x576.jpg"
+        "title": "Tesla’s ‘Full Self-Driving’ Becomes ‘Assisted Driving’ in Europe",
+        "source": "WIRED",
+        "category": "general",
+        "sourceUrl": "https://www.wired.com/story/tesla-full-self-driving-becomes-assisted-driving-in-europe/",
+        "summary": "The automaker has been criticized for misleading drivers with the feature’s name. Now it’s renaming it for European regulators.",
+        "image": "https://media.wired.com/photos/6ac9386f3122e744c08a4121/master/pass/GettyImages-1228358583.jpg"
       }
     ],
-    "publishedAt": "2026-10-09T18:15:58.801Z"
+    "publishedAt": "2026-10-11T02:30:40.344Z"
   },
   "drafts": {},
   "history": [
+    {
+      "id": "ed_2026-10-10",
+      "publishDate": "2026-10-10",
+      "status": "published",
+      "updatedAt": "2026-10-11T02:30:40.344Z",
+      "title": "The Scale of Our Ambition",
+      "dek": "We are predicting quantum phenomena and chasing fusion, but the real bottlenecks remain public trust, manufacturing limits, and regulatory reality.",
+      "authorName": "Dr. Wallace Lynch",
+      "authorTitle": "Editor in Chief",
+      "paragraphs": [
+        "In the lab and in orbit, the scale of our current scientific ambition is staggering. Princeton researchers may have found a radically efficient shortcut to fusion energy by reversing traditional heating methods, while physicists have finally developed a way to predict the elusive quantum Kondo effect in real materials. Overhead, MIT astronomers are currently observing a star system slowly devouring a brown dwarf in a cosmic feast that will last billions of years.",
+        "Yet, the gap between scientific capability and societal integration remains stark. Despite these towering achievements, a new survey reveals that just 40 percent of Americans hold strong confidence in U.S. hospitals and health clinics—a baseline of trust on par with Portugal and Uruguay.",
+        "We see this same friction in commercial technology. Humanoid robots are rapidly graduating from pilot demonstrations, but the industry is hitting a harsh new bottleneck: the sheer logistical difficulty of manufacturing them at scale. Artificial intelligence is already stepping in as a social safety net, with New York extending its deployment of ElliQ AI companions for lonely seniors. But at the very top of the industry, the tone is decidedly cautious. Microsoft CEO Satya Nadella warned this week that society must operate under the assumption that all advanced AI models are inherently \"compromised.\" Meanwhile, Tesla is facing a regulatory reality check, finally downgrading its \"Full Self-Driving\" moniker to \"Assisted Driving\" in Europe.",
+        "Culture and politics remain as chaotic as ever. The Justice Department is actively probing major TV networks over antitrust concerns regarding presidential pool coverage, while NASA is flying fighter jets over NFL games. And the art world continues its strange dance with history and pop culture: an Austrian politician is using the return of Moctezuma’s headdress as a 2028 campaign pledge, just as the Kennedy Center names a former manager for ZZ Top and Mötley Crüe as its new artistic director. Progress is moving fast, but it is never a straight line."
+      ],
+      "wordCount": 320,
+      "heroImage": "https://www.sciencedaily.com/images/1920/kondo-effect-illustration.webp",
+      "heroCredit": "A famous quantum effect can finally be predicted in real materials",
+      "heroSource": "ScienceDaily",
+      "heroSourceUrl": "https://www.sciencedaily.com/releases/2026/10/261006234520.htm",
+      "publishedAt": "2026-10-11T02:30:40.344Z"
+    },
     {
       "id": "ed_2026-10-09",
       "publishDate": "2026-10-09",
@@ -1518,31 +1540,6 @@
       "heroSource": "SpaceNews",
       "heroSourceUrl": "https://spacenews.com/ula-deals-with-financial-challenges-caused-by-vulcan-grounding/",
       "publishedAt": "2026-07-25T02:54:54.620Z"
-    },
-    {
-      "id": "ed_2026-07-23",
-      "publishDate": "2026-07-23",
-      "status": "published",
-      "updatedAt": "2026-07-24T03:04:09.511Z",
-      "title": "Brain speed and slow rooms",
-      "dek": "Neuromorphic clocks, agent APIs, and the institutions still measured in people",
-      "authorName": "Dr. Wallace Lynch",
-      "authorTitle": "Editor in Chief",
-      "paragraphs": [
-        "Instruments now race the synapse. Silicon claims the operational tempo of a human brain; light-delivery labs watch nearly two hundred neurons fire in frames that outrun ordinary attention. Speed has become a civic metaphor as much as a lab result.",
-        "Chronicle of Convergence is not a digest of launches or a ranking of tools. It is a daily reading of American life where culture, society, technology, and faith already share the same rooms. On Thursday, July 23, 2026, we hold that reading to one pressure point: brain speed and slow rooms.",
-        "The news offers a concrete case. Neuroscience News reports a neuromorphic chip said to match real-time brain speed. A second strand, FlatMux two-photon voltage imaging, pushes the same ambition into measurement—recording electrical life at up to two thousand frames a second. When Gemini Flash models open through an official API for developers and agents, the pattern thickens: intelligence is sold as latency and access.",
-        "A complicating dispatch arrives from capacity, not circuitry. SpaceNews notes that more than two dozen major NASA projects feel the loss of roughly a fifth of the agency’s civil servant workforce in a year. At the same hour, Hyperallergic records one hundred thirty-two New York artists receiving unrestricted fellowships, and the Tate names Jessica Morgan as next director. Venture capital forms around space and deep tech while cultural rooms still appoint stewards and write checks in human denominations.",
-        "Between chip and grant, agent and gallery, the question returns: what should accelerate, and what must stay slow enough to judge. Instruments change how we see; seeing changes which rooms we fund. A culture that celebrates only the clock forgets the hand that still tires.",
-        "Heritage, practiced as stewardship rather than nostalgia, still teaches proportion. Innovation, practiced as care rather than novelty for its own sake, still expands what is possible. Silicon can match a tempo. Carbon still carries cost, fatigue, and consequence. Pretending otherwise is not optimism. It is negligence.",
-        "What should a reader do with a day like this? Neither worship the instrument nor invent a pure past that never existed. Name the forces in the room. Ask what each can give. Ask what each must not be allowed to take. Then look again tomorrow. Proportion, not panic, is the discipline. The headlines remain their publishers’. The synthesis is ours."
-      ],
-      "wordCount": 385,
-      "heroImage": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/07/Tatiana_Arocha_AFP2026_3.jpg",
-      "heroCredit": "132 New York Artists Receive $903,000 in Grants",
-      "heroSource": "Hyperallergic",
-      "heroSourceUrl": "https://hyperallergic.com/132-new-york-artists-receive-903-000-in-grants/",
-      "publishedAt": "2026-07-24T03:04:09.511Z"
     }
   ],
   "usedHeroImages": [
@@ -1791,6 +1788,7 @@
     "https://wp.technologyreview.com/wp-content/uploads/2026/10/ai-relationship3.jpg?resize=1200,600",
     "https://www.thisiscolossal.com/wp-content/uploads/2026/10/porodina-6.jpg",
     "https://www.artforum.com/wp-content/uploads/2026/10/GettyImages-1053097458.jpg?w=650",
-    "https://wp.technologyreview.com/wp-content/uploads/2024/01/MIT-TR-Roundtables_Oct-2-Thumbnail.png?resize=1200,600"
+    "https://wp.technologyreview.com/wp-content/uploads/2024/01/MIT-TR-Roundtables_Oct-2-Thumbnail.png?resize=1200,600",
+    "https://www.sciencedaily.com/images/1920/kondo-effect-illustration.webp"
   ]
 }
