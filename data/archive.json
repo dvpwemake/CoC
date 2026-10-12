@@ -1,21 +1,62 @@
 [
   {
-    "batchId": "editorial_2026-10-10",
-    "scannedAt": "2026-10-11T02:30:40.344Z",
-    "kind": "editorial_archive",
+    "batchId": "auto_2026-10-12T02-44",
+    "scannedAt": "2026-10-12T02:44:50.916Z",
     "items": [
       {
-        "id": "editorial_2026-10-10",
-        "rank": 0,
-        "title": "The Scale of Our Ambition",
-        "category": "editorial",
-        "summary": "We are predicting quantum phenomena and chasing fusion, but the real bottlenecks remain public trust, manufacturing limits, and regulatory reality.",
+        "id": "auto_2026-10-12T02-44_1",
+        "rank": 1,
+        "title": "A college in Illinois tried to cancel its Flock contact and it refused",
+        "category": "general",
+        "summary": "In April of 2025, Elgin Community College had six Flock safety cameras installed to \"enhance the safety and security of students.\" But by September of that year, the school's administration grew concerned that Flock was…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2265184860.jpg?quality=90&strip=all&crop=0%2C10.735414032424%2C100%2C78.529171935151&w=1200",
+        "source": "The Verge",
+        "sourceUrl": "https://www.theverge.com/tech/1009411/elgin-community-college-flock-safety-cameras",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-12T02-44_2",
+        "rank": 2,
+        "title": "Americans trust science more than peers around the world, survey shows",
+        "category": "biotech",
+        "summary": "Just 40 percent of Americans reported a lot of confidence in U.S. hospitals and health clinics, the same proportion as in Portugal and Uruguay.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/10/GettyImages-2208749912-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/10/10/u-s-trust-science-higher-than-other-nations-wellcome-survey/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-12T02-44_3",
+        "rank": 3,
+        "title": "NASA to Conduct Flyover, Engage NFL Fans at MetLife Stadium",
+        "category": "space",
+        "summary": "As part of the agency’s Inspiration Tour flyover, NASA Administrator Jared Isaacman will pilot one of three F-5 fighter jets to kick off the New York Jets vs. Cleveland Browns game in East Rutherford, New Jersey, on…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/10/grc-2026-c-06389large.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/news-release/nasa-to-conduct-flyover-engage-nfl-fans-at-metlife-stadium/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-12T02-44_4",
+        "rank": 4,
+        "title": "Interview: Humanoid robots are advancing fast. Manufacturing them at scale is the next challenge",
+        "category": "robotics",
+        "summary": "As humanoid robot developers race to move their machines from demonstrations and pilot projects into factories and other working environments, another challenge is rapidly coming into focus: how to manufacture these…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/Fictiv-Misumi.jpg",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/10/interview-humanoid-robots-are-advancing-fast-manufacturing-them-at-scale-is-the-next-challenge/105812/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-12T02-44_5",
+        "rank": 5,
+        "title": "A famous quantum effect can finally be predicted in real materials",
+        "category": "energy",
+        "summary": "Scientists have developed a powerful new way to calculate the Kondo effect, a strange quantum phenomenon that appears when magnetic atoms are embedded in metals. Instead of relying on simplified models, the method uses…",
         "image": "https://www.sciencedaily.com/images/1920/kondo-effect-illustration.webp",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-10-10.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-10-10",
-        "authorName": "Dr. Wallace Lynch"
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261006234520.htm",
+        "fromX": false
       }
     ]
   },
@@ -77,6 +118,26 @@
         "source": "STAT News",
         "sourceUrl": "https://www.statnews.com/2026/10/09/steven-quay-no-longer-in-consideration-for-top-infectious-disease-role/?utm_campaign=rss",
         "fromX": false
+      }
+    ]
+  },
+  {
+    "batchId": "editorial_2026-10-10",
+    "scannedAt": "2026-10-11T02:30:40.344Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-10-10",
+        "rank": 0,
+        "title": "The Scale of Our Ambition",
+        "category": "editorial",
+        "summary": "We are predicting quantum phenomena and chasing fusion, but the real bottlenecks remain public trust, manufacturing limits, and regulatory reality.",
+        "image": "https://www.sciencedaily.com/images/1920/kondo-effect-illustration.webp",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-10-10.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-10-10",
+        "authorName": "Dr. Wallace Lynch"
       }
     ]
   },
