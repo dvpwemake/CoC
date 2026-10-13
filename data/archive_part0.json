@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-10-13T04-01",
-    "scannedAt": "2026-10-13T04:01:25.733Z",
+    "batchId": "auto_2026-10-13T15-19",
+    "scannedAt": "2026-10-13T15:19:25.917Z",
     "items": [
       {
-        "id": "auto_2026-10-13T04-01_1",
+        "id": "auto_2026-10-13T15-19_1",
         "rank": 1,
-        "title": "Bumble shares soar after report dating firm in $1bn takeover talks",
+        "title": "Epic shifts to ‘AI-accelerated development' for upcoming Disney game",
         "category": "general",
-        "summary": "The jump pushed Bumble's stock market valuation to more than $580m but that is still far below their peak of more than $14bn.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b3e/live/9d1f7420-c69f-11f1-8a85-c72eae042e5a.jpg",
-        "source": "BBC Technology",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
+        "summary": "Epic Games plans to use AI to generate code and art for an unannounced Disney game, which is now delayed from its original March release window, according to a report from Bloomberg. The project's developers have been…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23932925/acastro_STK108__03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "sourceUrl": "https://www.theverge.com/games/1010097/epic-games-disney-project-ai-coding-art",
         "fromX": false
       },
       {
-        "id": "auto_2026-10-13T04-01_2",
+        "id": "auto_2026-10-13T15-19_2",
         "rank": 2,
-        "title": "NASA’s SpaceX CRS-35 Mission to Launch Health Research",
-        "category": "space",
-        "summary": "NASA experiments focused on human and plant health and drug-resistant organisms will travel to the International Space Station aboard SpaceX’s 35th Commercial Resupply Services mission for the agency from Cape Canaveral…",
-        "image": "https://assets.science.nasa.gov/content/dam/science/bps/bps_investigations/wholemiBrainMicroglia_AVATAR_org1.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-        "source": "NASA",
-        "sourceUrl": "https://science.nasa.gov/missions/station/nasas-spacex-crs-35-mission-to-launch-health-research/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-13T04-01_3",
-        "rank": 3,
-        "title": "Dutch museum returns ancient vase to Sicily after research uncovers ‘problematic’ provenance",
-        "category": "art",
-        "summary": "Rogier Kalkers from Amsterdam’s Allard Pierson museum says he hopes the restitution will be a “stepping stone towards further collaboration” with Sicilian authorities",
-        "image": "https://cdn.sanity.io/images/cxgd3urn/production/095ee225d80e9acc08916c35b3ad430e4c5ced7b-1983x2500.jpg?w=140",
-        "source": "The Art Newspaper",
-        "sourceUrl": "https://www.theartnewspaper.com/2026/10/12/dutch-museum-return-ancient-vase-to-sicily-after-research-uncovers-problematic-provenance",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-13T04-01_4",
-        "rank": 4,
-        "title": "Why Warehouse Automation Still Depends on Equipment Uptime",
+        "title": "Symbotic acquires cellumation to expand warehouse automation portfolio",
         "category": "robotics",
-        "summary": "Warehouse automation is advancing quickly. Autonomous mobile robots, automated storage and retrieval systems, robotic picking cells, autonomous forklifts, conveyors, vision systems and increasingly sophisticated…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/black-equipment-vehicle-1.jpg.jpeg",
+        "summary": "Symbotic, a specialist in AI-enabled robotics technology for the supply chain, has announced the acquisition of cellumation, a Bremen, Germany-based automation company and creator of the celluveyor, a patented,…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/cellumation-1.png",
         "source": "Robotics & Automation News",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/12/why-warehouse-automation-still-depends-on-equipment-uptime/105829/",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/13/symbotic-announces-acquisition-of-cellumation-advancing-next-generation-sortation-technology-for-the-global-supply-chain/105868/",
         "fromX": false
       },
       {
-        "id": "auto_2026-10-13T04-01_5",
+        "id": "auto_2026-10-13T15-19_3",
+        "rank": 3,
+        "title": "‘Sometimes the works you do not acquire stay with you just as strongly as the ones you do’: collector Irene Y. Panagopoulos on what she has bought and",
+        "category": "art",
+        "summary": "The Greek collector who heads her family’s shipping firm is showing works from her collection at the Hellenic Centre during Frieze London that reflect on perceptions of Greece past and present",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/5997f96a4acfbb551bdb1dbde987da150f815ec1-1443x2165.jpg?rect=0,0,1443,1500&w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/10/13/collector-irene-y-panagopoulos-on-what-she-has-bought-and-why",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-13T15-19_4",
+        "rank": 4,
+        "title": "TB 26-08 Complex Modes in Lightly Damped Structural Systems: A Two-Mode Interaction Perspective",
+        "category": "space",
+        "summary": "For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov Download the PDF version NASA’s Chemical Equilibrium with Applications (CEA) code is a foundational tool for propulsion system…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/10/two-mode-interaction-in-a-lightly-damped-system.png",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-08-complex-modes-in-lightly-damped-structural-systemsa-two-mode-interaction-perspective/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-13T15-19_5",
         "rank": 5,
-        "title": "Scientists find hidden driver of aging and a simple amino acid that fights memory loss in mice",
-        "category": "neuroscience",
-        "summary": "Scientists discovered that declining levels of a protein called Menin may help drive aging, and restoring it in older mice reversed several age-related changes in just 30 days. Even more surprisingly, supplementing with…",
-        "image": "https://www.sciencedaily.com/images/1920/anti-aging-beauty-skincare.webp",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261009025708.htm",
+        "title": "STAT+: FTC demands Martin Shkreli divest his pharma stocks",
+        "category": "biotech",
+        "summary": "The FTC asked a federal court to hold Martin Shkreli in contempt for violating a court order banning him from working in the pharmaceutical industry",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/10/GettyImages-825338554-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/10/13/martin-shkreli-pharma-bro-ftc-contempt-stock-trades/?utm_campaign=rss",
         "fromX": false
       }
     ]
