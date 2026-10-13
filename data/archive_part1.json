@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-09-11T22-02",
+    "scannedAt": "2026-09-11T22:02:19.612Z",
+    "items": [
+      {
+        "id": "auto_2026-09-11T22-02_1",
+        "rank": 1,
+        "title": "Random rewards enrich classic game-theory contests",
+        "category": "general",
+        "summary": "Simple games gain rich strategies in the face of noise.",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2294031830-1024x648.jpg",
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-11T22-02_2",
+        "rank": 2,
+        "title": "Paris's Picasso museum reveals designers shortlisted for €55m sculpture garden project",
+        "category": "art",
+        "summary": "Five teams of designers, featuring architects and landscape designers, will compete for the project, expected to be completed by 2030",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/4596b74d4a3c1f92699d57305b47e8c82345b926-3543x3031.jpg?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/09/11/musee-national-picasso-paris-designer-shortlist-sculpture-park",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-11T22-02_3",
+        "rank": 3,
+        "title": "Roundtables: AI’s apocalypse crisis",
+        "category": "ai",
+        "summary": "Employees at the world's leading AI labs are saying there's a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2024/01/September.26_Roundtables-Assets.png?resize=1200,600",
+        "source": "MIT Technology Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-11T22-02_4",
+        "rank": 4,
+        "title": "Balcony solar is this year’s clean energy superstar in the US",
+        "category": "energy",
+        "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter. Sign up to get it every Friday. Summer is only just coming to a close, but this year’s top clean energy trendsetter is already clear. At the…",
+        "image": "https://img.canarymedia.com/content/uploads/Balcony-solar-in-Bavaria_GettyImages-1243438146.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=b02538eee09d78879ccba7a8d95ca1fc",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/balcony-solar/clean-energy-plug-in-solar-panels",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-11T22-02_5",
+        "rank": 5,
+        "title": "Video Friday: Humanoid Robot Takes On Monkey Bars",
+        "category": "robotics",
+        "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us…",
+        "image": "https://spectrum.ieee.org/media-library/humanoid-robot-moves-across-scaffolding-rigged-as-playground-monkey-bars-in-a-lab-while-trying-to-keep-its-balance.gif?id=67756707&width=980",
+        "source": "IEEE Spectrum",
+        "sourceUrl": "https://spectrum.ieee.org/video-friday-disaster-response-robots",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "editorial_2026-09-11",
     "scannedAt": "2026-09-11T06:01:21.782Z",
     "kind": "editorial_archive",
@@ -2204,67 +2265,6 @@
         "image": "https://www.sciencedaily.com/images/1920/brain-immune-cell-migration.webp",
         "source": "ScienceDaily",
         "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260814011033.htm",
-        "fromX": false
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-08-13T20-26",
-    "scannedAt": "2026-08-13T20:26:16.594Z",
-    "items": [
-      {
-        "id": "auto_2026-08-13T20-26_1",
-        "rank": 1,
-        "title": "This school-friendly laptop from HP is $300 off",
-        "category": "general",
-        "summary": "With memory prices still high and showing no signs of dropping, we’re always happy to find a good deal on a budget-friendly system with an adequate amount of RAM. Best Buy has the HP OmniBook X Flip discounted by $300,…",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/HP-Omnibook-X-Flip-roundup.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "sourceUrl": "https://www.theverge.com/gadgets/979699/hp-omnibook-x-flip-pixel-buds-pro-2-deal-sale",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-13T20-26_2",
-        "rank": 2,
-        "title": "An Ethereal Evening at Rønnebæksholm Kunsthal",
-        "category": "art",
-        "summary": "“A litham-wearing orchestra begins to play with tenderness”",
-        "image": "https://www.artforum.com/wp-content/uploads/2026/08/haloplus-feat-img-real.jpg?w=650",
-        "source": "Artforum",
-        "sourceUrl": "https://www.artforum.com/columns/an-ethereal-evening-at-ronnebaeksholm-kunsthal-postcard-1234756970/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-13T20-26_3",
-        "rank": 3,
-        "title": "NASA’s 737 Reveals New Paint",
-        "category": "space",
-        "summary": "NASA’s 737 aircraft was painted this week in Oklahoma as it progresses with modifications for use as a reduced gravity test aircraft for the agency. NASA’s Armstrong Flight Research Center in Edwards, California, took…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/08/20260813-nasa-737paint.jpg",
-        "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/image-article/nasas-737-reveals-new-paint/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-13T20-26_4",
-        "rank": 4,
-        "title": "7 Best Free People Finder Sites in 2026 – No Subscription Required",
-        "category": "robotics",
-        "summary": "“Free people search” is the most abused phrase on the internet. The standard experience: you type a name, watch a fake progress bar “scan millions of records” for three minutes, and land on a checkout page. The search…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/people-finder-image-1.jpg",
-        "source": "Robotics & Automation News",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/13/7-best-free-people-finder-sites-in-2026-no-subscription-required/104135/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-13T20-26_5",
-        "rank": 5,
-        "title": "STAT+: Kennedy heads west, slams Becerra",
-        "category": "biotech",
-        "summary": "The health secretary headed to California to lay out the government's new approach to addiction treatment.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/02/GettyImages-2255260434-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/08/13/rfk-california-tour-hhs-addiction-treatment-plan-dc-diagnosis/?utm_campaign=rss",
         "fromX": false
       }
     ]

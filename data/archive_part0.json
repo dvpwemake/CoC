@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-10-13T04-01",
+    "scannedAt": "2026-10-13T04:01:25.733Z",
+    "items": [
+      {
+        "id": "auto_2026-10-13T04-01_1",
+        "rank": 1,
+        "title": "Bumble shares soar after report dating firm in $1bn takeover talks",
+        "category": "general",
+        "summary": "The jump pushed Bumble's stock market valuation to more than $580m but that is still far below their peak of more than $14bn.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b3e/live/9d1f7420-c69f-11f1-8a85-c72eae042e5a.jpg",
+        "source": "BBC Technology",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-13T04-01_2",
+        "rank": 2,
+        "title": "NASA’s SpaceX CRS-35 Mission to Launch Health Research",
+        "category": "space",
+        "summary": "NASA experiments focused on human and plant health and drug-resistant organisms will travel to the International Space Station aboard SpaceX’s 35th Commercial Resupply Services mission for the agency from Cape Canaveral…",
+        "image": "https://assets.science.nasa.gov/content/dam/science/bps/bps_investigations/wholemiBrainMicroglia_AVATAR_org1.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "source": "NASA",
+        "sourceUrl": "https://science.nasa.gov/missions/station/nasas-spacex-crs-35-mission-to-launch-health-research/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-13T04-01_3",
+        "rank": 3,
+        "title": "Dutch museum returns ancient vase to Sicily after research uncovers ‘problematic’ provenance",
+        "category": "art",
+        "summary": "Rogier Kalkers from Amsterdam’s Allard Pierson museum says he hopes the restitution will be a “stepping stone towards further collaboration” with Sicilian authorities",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/095ee225d80e9acc08916c35b3ad430e4c5ced7b-1983x2500.jpg?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/10/12/dutch-museum-return-ancient-vase-to-sicily-after-research-uncovers-problematic-provenance",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-13T04-01_4",
+        "rank": 4,
+        "title": "Why Warehouse Automation Still Depends on Equipment Uptime",
+        "category": "robotics",
+        "summary": "Warehouse automation is advancing quickly. Autonomous mobile robots, automated storage and retrieval systems, robotic picking cells, autonomous forklifts, conveyors, vision systems and increasingly sophisticated…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/black-equipment-vehicle-1.jpg.jpeg",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/12/why-warehouse-automation-still-depends-on-equipment-uptime/105829/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-13T04-01_5",
+        "rank": 5,
+        "title": "Scientists find hidden driver of aging and a simple amino acid that fights memory loss in mice",
+        "category": "neuroscience",
+        "summary": "Scientists discovered that declining levels of a protein called Menin may help drive aging, and restoring it in older mice reversed several age-related changes in just 30 days. Even more surprisingly, supplementing with…",
+        "image": "https://www.sciencedaily.com/images/1920/anti-aging-beauty-skincare.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261009025708.htm",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-10-12T20-27",
     "scannedAt": "2026-10-12T20:27:22.529Z",
     "items": [
@@ -2246,67 +2307,6 @@
         "isEditorialArchive": true,
         "publishDate": "2026-09-12",
         "authorName": "Dr. Wallace Lynch"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-09-11T22-02",
-    "scannedAt": "2026-09-11T22:02:19.612Z",
-    "items": [
-      {
-        "id": "auto_2026-09-11T22-02_1",
-        "rank": 1,
-        "title": "Random rewards enrich classic game-theory contests",
-        "category": "general",
-        "summary": "Simple games gain rich strategies in the face of noise.",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2294031830-1024x648.jpg",
-        "source": "Ars Technica",
-        "sourceUrl": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-11T22-02_2",
-        "rank": 2,
-        "title": "Paris's Picasso museum reveals designers shortlisted for €55m sculpture garden project",
-        "category": "art",
-        "summary": "Five teams of designers, featuring architects and landscape designers, will compete for the project, expected to be completed by 2030",
-        "image": "https://cdn.sanity.io/images/cxgd3urn/production/4596b74d4a3c1f92699d57305b47e8c82345b926-3543x3031.jpg?w=140",
-        "source": "The Art Newspaper",
-        "sourceUrl": "https://www.theartnewspaper.com/2026/09/11/musee-national-picasso-paris-designer-shortlist-sculpture-park",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-11T22-02_3",
-        "rank": 3,
-        "title": "Roundtables: AI’s apocalypse crisis",
-        "category": "ai",
-        "summary": "Employees at the world's leading AI labs are saying there's a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2024/01/September.26_Roundtables-Assets.png?resize=1200,600",
-        "source": "MIT Technology Review",
-        "sourceUrl": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-11T22-02_4",
-        "rank": 4,
-        "title": "Balcony solar is this year’s clean energy superstar in the US",
-        "category": "energy",
-        "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter. Sign up to get it every Friday. Summer is only just coming to a close, but this year’s top clean energy trendsetter is already clear. At the…",
-        "image": "https://img.canarymedia.com/content/uploads/Balcony-solar-in-Bavaria_GettyImages-1243438146.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=b02538eee09d78879ccba7a8d95ca1fc",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/balcony-solar/clean-energy-plug-in-solar-panels",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-11T22-02_5",
-        "rank": 5,
-        "title": "Video Friday: Humanoid Robot Takes On Monkey Bars",
-        "category": "robotics",
-        "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us…",
-        "image": "https://spectrum.ieee.org/media-library/humanoid-robot-moves-across-scaffolding-rigged-as-playground-monkey-bars-in-a-lab-while-trying-to-keep-its-balance.gif?id=67756707&width=980",
-        "source": "IEEE Spectrum",
-        "sourceUrl": "https://spectrum.ieee.org/video-friday-disaster-response-robots",
-        "fromX": false
       }
     ]
   }
