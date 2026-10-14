@@ -312,6 +312,63 @@ function writeIfChanged(filePath, text) {
   return true;
 }
 
+function unesc(s) {
+  return String(s || '')
+    .replace(/&amp;/g, '&')
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/&quot;/g, '"')
+    .replace(/&#39;/g, "'")
+    .replace(/&apos;/g, "'");
+}
+
+function recordFromPage(date, html) {
+  const title = unesc((html.match(/<h1>([^<]*)<\/h1>/) || [])[1] || '');
+  const dek = unesc((html.match(/<p class="dek">([^<]*)<\/p>/) || [])[1] || '');
+  const hero = unesc((html.match(/<img class="hero"[^>]*\ssrc="([^"]+)"/) || [])[1] || '');
+  return { title, dek, heroImage: hero, publishDate: date };
+}
+
+function archiveMap(store) {
+  const map = collectEditorials(store || { published: null, history: [] });
+  if (!fs.existsSync(OUT_DIR)) return map;
+  for (const file of fs.readdirSync(OUT_DIR)) {
+    const found = file.match(/^(\d{4}-\d{2}-\d{2})\.html$/);
+    if (!found || map[found[1]]) continue;
+    map[found[1]] = recordFromPage(found[1], fs.readFileSync(path.join(OUT_DIR, file), 'utf8'));
+  }
+  return map;
+}
+
+function assertArchiveIndex(indexHtml, dates) {
+  if (/location\.replace|http-equiv\s*=\s*["']refresh/i.test(indexHtml)) {
+    throw new Error('e/index.html must list every editorial, not redirect to one');
+  }
+  const linked = indexHtml.match(/href="\d{4}-\d{2}-\d{2}\.html"/g) || [];
+  if (linked.length !== dates.length) {
+    throw new Error('editorial index has ' + linked.length + ' links, expected ' + dates.length);
+  }
+  const heroes = indexHtml.match(/class="hero"/g) || [];
+  if (heroes.length !== dates.length) {
+    throw new Error('editorial index has ' + heroes.length + ' heroes, expected ' + dates.length);
+  }
+  const onDisk = fs.readdirSync(OUT_DIR).filter((file) => /^\d{4}-\d{2}-\d{2}\.html$/.test(file));
+  const missing = onDisk.filter((file) => !indexHtml.includes('href="' + file + '"'));
+  if (missing.length) {
+    throw new Error('editorial index omits ' + missing.join(', '));
+  }
+}
+
+function writeArchiveIndex(store) {
+  const source = store || loadJson(EDITORIAL_PATH, { published: null, history: [] });
+  const map = archiveMap(source);
+  const dates = Object.keys(map).sort();
+  const indexHtml = renderIndex(map, dates);
+  assertArchiveIndex(indexHtml, dates);
+  writeIfChanged(path.join(OUT_DIR, 'index.html'), indexHtml);
+  return { dates, map };
+}
+
 function renderIndex(map, dates) {
   const ordered = dates.slice().sort().reverse();
   const latest = map[ordered[0]] || {};
@@ -527,20 +584,8 @@ function generateAll() {
     const html = renderPage(map[d], d);
     if (writeIfChanged(path.join(OUT_DIR, d + '.html'), html)) n++;
   }
-  const indexHtml = renderIndex(map, dates);
-  if (/location\.replace|http-equiv\s*=\s*["']refresh/i.test(indexHtml)) {
-    throw new Error('e/index.html must list every editorial, not redirect to one');
-  }
-  const linked = indexHtml.match(/href="\d{4}-\d{2}-\d{2}\.html"/g) || [];
-  if (linked.length !== dates.length) {
-    throw new Error('editorial index has ' + linked.length + ' links, expected ' + dates.length);
-  }
-  const heroes = indexHtml.match(/class="hero"/g) || [];
-  if (heroes.length !== dates.length) {
-    throw new Error('editorial index has ' + heroes.length + ' heroes, expected ' + dates.length);
-  }
-  writeIfChanged(path.join(OUT_DIR, 'index.html'), indexHtml);
-  writeSitemap(dates);
+  const listed = writeArchiveIndex(store);
+  writeSitemap(listed.dates);
   console.log('Generated', n, 'editorial page(s) in e/ + sitemap.xml');
   return { n, dates };
 }
@@ -553,6 +598,7 @@ module.exports = {
   generateAll,
   renderPage,
   renderIndex,
+  writeArchiveIndex,
   collectEditorials,
   SITE
 };
