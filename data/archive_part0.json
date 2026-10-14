@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-10-14T20-00",
-    "scannedAt": "2026-10-14T20:00:12.504Z",
+    "batchId": "auto_2026-10-14T22-59",
+    "scannedAt": "2026-10-14T22:59:32.229Z",
     "items": [
       {
-        "id": "auto_2026-10-14T20-00_1",
+        "id": "auto_2026-10-14T22-59_1",
         "rank": 1,
-        "title": "$6 million Jan Brueghel the Elder painting leads sales at Frieze London and Frieze Masters 2026.",
-        "category": "art",
-        "summary": "A painting by Flemish master Jan Brueghel the Elder led reported sales during the opening day of Frieze London and Frieze Masters 2026, as both fairs welcomed VIPs to Regent’s Park on Wednesday, October 14th. Early…",
-        "image": "https://artsy-media-uploads.s3.amazonaws.com/HOfyrzHj5Ggc_xc0ngdsQQ%2FBRU147989+EH100926+view01-hires_1500x1000.jpg",
-        "source": "Artsy",
-        "sourceUrl": "https://www.artsy.net/article/artsy-editorial-6-million-jan-brueghel-elder-painting-leads-sales-frieze-london-frieze-masters-2026",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-14T20-00_2",
-        "rank": 2,
-        "title": "Senators Question Meta’s Data Center Tax Strategy",
+        "title": "McKinsey is making job applicants spar with a fake AI client",
         "category": "general",
-        "summary": "Democrats on the Senate Finance Committee sent a letter to Mark Zuckerberg, Meta’s chief executive, questioning the company’s $6.6 billion in tax breaks.",
-        "image": "https://static01.nyt.com/images/2026/10/14/multimedia/14biz-meta-tax-senators-thgz/14biz-meta-tax-senators-thgz-mediumSquareAt3X.jpg",
-        "source": "NYT Technology",
-        "sourceUrl": "https://www.nytimes.com/2026/10/14/technology/meta-senators-tax-avoidance.html",
+        "summary": "Consulting firm McKinsey & Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a client as part of the interview process, according to The Wall Street Journal.…",
+        "image": "",
+        "source": "The Verge",
+        "sourceUrl": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
         "fromX": false
       },
       {
-        "id": "auto_2026-10-14T20-00_3",
-        "rank": 3,
-        "title": "Dubai Police adds 920-horsepower hybrid Lamborghini Temerario to patrol fleet",
-        "category": "robotics",
-        "summary": "Dubai Police has added a Lamborghini Temerario hybrid supercar to its luxury patrol fleet, continuing the force’s practice of deploying high-performance vehicles at tourist destinations and other busy areas across the…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/dubai-police-lambo-2.jpg",
-        "source": "Robotics & Automation News",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/14/dubai-police-adds-920-horsepower-hybrid-lamborghini-temerario-to-patrol-fleet/105932/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-14T20-00_4",
-        "rank": 4,
-        "title": "How consumer tech company Whoop is building for Medicare patients",
-        "category": "biotech",
-        "summary": "Whoop's chief medical officer, said the company's work with Medicare is an opportunity to prove its ability to improve health at the population level.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/10/STATday1227-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/10/14/whoop-ami-bhatt-population-health-stat-summit-boston-2026/?utm_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-14T20-00_5",
-        "rank": 5,
-        "title": "Scientists may have overlooked a hidden Alzheimer's culprit for decades",
+        "id": "auto_2026-10-14T22-59_2",
+        "rank": 2,
+        "title": "Reading Fiction Can Rewire Real-World Forgiveness and Empathy",
         "category": "neuroscience",
-        "summary": "For decades, scientists have focused on amyloid beta as a major culprit behind Alzheimer’s disease, spending billions of dollars developing treatments that have often delivered disappointing results. Now, researchers at…",
-        "image": "https://www.sciencedaily.com/images/1920/tau-tangles-amyloid-beta-neuron-cells-in-brain-alzheimers-dementia.webp",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261013015838.htm",
+        "summary": "A study of 1,563 people reveals that reading a character's private remorse fosters empathy that helps readers forgive real-world offenders.",
+        "image": "https://neurosciencenews.com/files/2026/10/empahty-literature-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/reading-fiction-empathy-psychology-31314/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-14T22-59_3",
+        "rank": 3,
+        "title": "As White House shifts focus toward AI and tech, U.S. science leaders defend role of the American university",
+        "category": "biotech",
+        "summary": "White House planned shift of research funding from universities to industry risks creating a drought in basic research, science leaders say",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/10/STATday1111-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/10/14/american-science-funding-university-industry-shift-stat-summit-boston-2026/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-14T22-59_4",
+        "rank": 4,
+        "title": "Nature Morte Founder Peter Nagy, Champion of Contemporary Indian Art, Dead at 67",
+        "category": "art",
+        "summary": "Artist Peter Nagy, whose Nature Morte gallery was instrumental in bringing contemporary Indian art to the attention of international audiences, died on October 13 in New Delhi following a long illness. He was…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/10/nagy.webp?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/news/nature-morte-founder-peter-nagy-dead-at-67-1234761393/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-14T22-59_5",
+        "rank": 5,
+        "title": "NASA to Host News Conference Previewing US Spacewalks 100, 101",
+        "category": "space",
+        "summary": "NASA will preview two upcoming spacewalks to complete solar array installation and power augmentation of the International Space Station during a news conference at 2 p.m. EDT, Tuesday, Oct. 20, from NASA’s Johnson…",
+        "image": "https://images-assets.nasa.gov/image/iss075e0011109/iss075e0011109~large.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/news-release/nasa-to-host-news-conference-previewing-us-spacewalks-100-101/",
         "fromX": false
       }
     ]
