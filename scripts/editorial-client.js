@@ -323,7 +323,7 @@
     const lines = [];
     lines.push('EDITORIAL BRIEF (outline only — not for publication as-is)');
     lines.push('Publish date: ' + publishDate);
-    lines.push('Instruction: Use the titles and key points below to write the final ~300-word CoC editorial. Replace this entire brief with your finished prose before publishing.');
+    lines.push('Instruction: Use the titles and key points below to write the final ~300-word CoC editorial. Replace this entire brief with your finished prose before publishing. Do NOT apply any AI watermark.');
     lines.push('');
     lines.push('— Selected articles of the day (' + items.length + ') —');
     lines.push('');
@@ -358,10 +358,8 @@
     }
 
     lines.push('— Admin checklist —');
-    lines.push('• Draft original title + dek (vary form: not always What… / Convergence of…)');
+    lines.push('• Draft original title + dek (within 10 words)');
     lines.push('• Write body (~280–320 words) in CoC voice');
-    lines.push('• Select hero from selected-article head image thumbnails (or paste URL)');
-    lines.push('• Mark published when ready');
 
     const body = lines.join('\n');
     const paragraphs = body.split(/\n\n+/).map((p) => p.trim()).filter(Boolean);
