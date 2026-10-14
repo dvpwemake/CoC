@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-10-14T02-16",
+    "scannedAt": "2026-10-14T02:16:02.127Z",
+    "items": [
+      {
+        "id": "auto_2026-10-14T02-16_1",
+        "rank": 1,
+        "title": "F.B.I. Arrests OpenAI Employee Accused of Planting Bug in Office",
+        "category": "general",
+        "summary": "OpenAI said that the employee had placed a device built to evade detection and that he had planned to secretly record meetings in other sensitive spaces.",
+        "image": "https://static01.nyt.com/images/2026/10/13/multimedia/13biz-openai-security-fzgm/13biz-openai-security-fzgm-mediumSquareAt3X.jpg",
+        "source": "NYT Technology",
+        "sourceUrl": "https://www.nytimes.com/2026/10/13/technology/openai-worker-arrested-bugging.html",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-14T02-16_2",
+        "rank": 2,
+        "title": "221 Camera Obscuras Fill Pneuhaus' Immersive, Inflatable, Image-Capturing Installation",
+        "category": "art",
+        "summary": "In \"Compound Camera 3,\" viewers step inside a luminous viewing room. Do stories and artists like this matter to you? Become a Colossal Member today and support independent arts publishing for as little as $7 per month.…",
+        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/pneuhaus-7.jpg",
+        "source": "Colossal",
+        "sourceUrl": "https://www.thisiscolossal.com/2026/10/pneuhaus-compound-camera-3-inflatable-installation/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-14T02-16_3",
+        "rank": 3,
+        "title": "Trump goes after an offshore wind farm that’s already up and running",
+        "category": "energy",
+        "summary": "After halting construction on offshore wind farms and canceling leases for future projects, the Trump administration just took another step to erode America’s troubled offshore wind industry. The Interior Department…",
+        "image": "https://img.canarymedia.com/content/uploads/rev-wind.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=528f98d166a6d38dfc031111d211ae33",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/offshore-wind/trump-reevaluate-permit-revolution-wind-orsted",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-14T02-16_4",
+        "rank": 4,
+        "title": "Alcohol Tricks Brain Cells Into Destroying Themselves",
+        "category": "neuroscience",
+        "summary": "Researchers discover microglia tear down brain scaffolding during heavy drinking, driving alcohol sedation and frontal brain damage.",
+        "image": "https://neurosciencenews.com/files/2026/10/Binge-Drinking-Turns-Brain-Defenders-Into-Attackers-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/alcohol-microglia-neuroscience-31311/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-14T02-16_5",
+        "rank": 5,
+        "title": "Helen Branswell, whose reporting on infectious diseases and public health drew acclaim, dies at 69",
+        "category": "biotech",
+        "summary": "Helen Branswell, STAT's infectious disease reporter who earned the respect of experts and public health officials with her accessible, prescient dispatches, has died at age 69.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/10/STAT_Boston_DayOne_122-1-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/10/13/helen-branswell-stat-reporter-obituary/?utm_campaign=rss",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-10-13T20-50",
     "scannedAt": "2026-10-13T20:50:50.014Z",
     "items": [
