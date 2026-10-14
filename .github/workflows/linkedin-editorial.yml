@@ -1,7 +1,7 @@
 name: LinkedIn editorial
 
-# Starts when that day's editorial is published.
-# delay_minutes 10 waits, then posts. delay_minutes 0 posts now.
+# Armed by the CoC publish action. There is no schedule.
+# delay_minutes 10 waits inside this run, then posts. delay_minutes 0 posts now.
 # A day with no editorial is a skip. A date already posted is a skip.
 on:
   workflow_dispatch:

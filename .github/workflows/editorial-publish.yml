@@ -47,11 +47,13 @@ jobs:
             *) published="" ;;
           esac
           git add data/editorial.json data/archive.json data/archive_part*.json index.html
+          arm=0
           if [ -n "$published" ] && [ -f "e/${published}.html" ]; then
             if git cat-file -e "HEAD:e/${published}.html" 2>/dev/null; then
-              echo "Permalink already on main. Leaving e/${published}.html unstaged."
+              echo "Permalink already on main. This run will not arm LinkedIn again."
             else
               git add "e/${published}.html"
+              arm=1
             fi
           fi
           if git diff --cached --quiet; then
@@ -59,11 +61,11 @@ jobs:
           else
             git commit -m "Editorial publish: $(date -u '+%Y-%m-%d %H:%M UTC')"
             git push
-            if [ -n "$published" ]; then
+            if [ "$arm" = "1" ]; then
               echo "PUBLISHED_DATE=$published" >> "$GITHUB_ENV"
             fi
           fi
-      - name: Queue LinkedIn 10 minutes after publish
+      - name: Arm LinkedIn 10 minutes after this publish
         if: env.PUBLISHED_DATE != ''
         env:
           GH_TOKEN: ${{ github.token }}
