@@ -1,5 +1,25 @@
 [
   {
+    "batchId": "editorial_2026-10-11",
+    "scannedAt": "2026-10-11T23:46:25.431Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-10-11",
+        "rank": 0,
+        "title": "The Vanguard and the Void",
+        "category": "editorial",
+        "summary": "The chaotic frontier of artificial intelligence demands an urgent reckoning with our regulatory frameworks.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/08/AP24170523760086-1024x576.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-10-11.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-10-11",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-10-14T02-16",
     "scannedAt": "2026-10-14T02:16:02.127Z",
     "items": [
