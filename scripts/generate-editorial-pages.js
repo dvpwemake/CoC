@@ -1,8 +1,10 @@
 #!/usr/bin/env node
 'use strict';
 /**
- * Generate static editorial permalinks e/YYYY-MM-DD.html + refresh sitemap.
+ * Generate static editorial permalinks e/YYYY-MM-DD.html,
+ * the full archive at e/index.html, and refresh sitemap.
  * $0 — pure static HTML for SEO, OG previews, and social share.
+ * e/index.html lists every editorial. It must not redirect to one post.
  *
  * Usage: node scripts/generate-editorial-pages.js
  */
@@ -310,6 +312,169 @@ function writeIfChanged(filePath, text) {
   return true;
 }
 
+function renderIndex(map, dates) {
+  const ordered = dates.slice().sort().reverse();
+  const latest = map[ordered[0]] || {};
+  const ogImage = plain(latest.heroImage) || SITE + '/img/logo-mark.png';
+  const pageUrl = SITE + '/e/';
+  const desc =
+    'Every daily editorial from Chronicle of Convergence, newest first.';
+  const rows = ordered.map((date, i) => {
+    const ed = map[date] || {};
+    const title = plain(ed.title) || 'Daily editorial';
+    const dek = plain(ed.dek) || '';
+    const hero = plain(ed.heroImage) || '';
+    return {
+      date,
+      title,
+      dek,
+      hero,
+      href: date + '.html',
+      url: SITE + '/e/' + date + '.html',
+      position: i + 1
+    };
+  });
+  const cards = rows
+    .map((row) => {
+      const img = row.hero
+        ? `<img class="hero" src="${esc(row.hero)}" alt="" width="1040" height="585" referrerpolicy="no-referrer">`
+        : '';
+      return `    <a class="ed-card" href="${esc(row.href)}">
+      ${img}
+      <div class="pad">
+        <p class="meta"><time datetime="${esc(row.date)}">${esc(displayDate(row.date))}</time></p>
+        <h2>${esc(row.title)}</h2>
+        ${row.dek ? `<p class="dek">${esc(row.dek)}</p>` : ''}
+      </div>
+    </a>`;
+    })
+    .join('\n');
+  const itemList = {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: 'All editorials',
+    description: desc,
+    url: pageUrl,
+    isPartOf: {
+      '@type': 'WebSite',
+      name: 'Chronicle of Convergence',
+      url: SITE + '/'
+    },
+    publisher: {
+      '@type': 'NewsMediaOrganization',
+      name: 'Chronicle of Convergence',
+      url: SITE + '/',
+      logo: { '@type': 'ImageObject', url: SITE + '/img/logo-mark.png' }
+    },
+    mainEntity: {
+      '@type': 'ItemList',
+      numberOfItems: rows.length,
+      itemListOrder: 'https://schema.org/ItemListOrderDescending',
+      itemListElement: rows.map((row) => ({
+        '@type': 'ListItem',
+        position: row.position,
+        url: row.url,
+        name: row.title
+      }))
+    }
+  };
+  const crumbs = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: SITE + '/' },
+      { '@type': 'ListItem', position: 2, name: 'All editorials', item: pageUrl }
+    ]
+  };
+
+  return `<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-Content-Type-Options" content="nosniff">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=5">
+<meta name="theme-color" content="#f3efe6">
+<meta name="color-scheme" content="light">
+<title>All editorials — Chronicle of Convergence</title>
+<meta name="description" content="${esc(desc)}">
+<meta name="author" content="Dr. Wallace Lynch">
+<meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1">
+<link rel="canonical" href="${pageUrl}">
+<link rel="icon" href="../img/logo-mark.png" type="image/png">
+<link rel="apple-touch-icon" href="../img/logo-mark.png">
+<link rel="alternate" type="text/plain" title="llms.txt" href="${SITE}/llms.txt">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Chronicle of Convergence">
+<meta property="og:locale" content="en_US">
+<meta property="og:url" content="${pageUrl}">
+<meta property="og:title" content="All editorials — Chronicle of Convergence">
+<meta property="og:description" content="${esc(desc)}">
+<meta property="og:image" content="${esc(ogImage)}">
+<meta property="og:image:alt" content="All editorials">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="All editorials — Chronicle of Convergence">
+<meta name="twitter:description" content="${esc(desc)}">
+<meta name="twitter:image" content="${esc(ogImage)}">
+<script type="application/ld+json">
+${JSON.stringify(itemList)}
+</script>
+<script type="application/ld+json">
+${JSON.stringify(crumbs)}
+</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Source+Sans+3:ital,wght@0,300;0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#f3efe6;--paper:#faf7f1;--ink:#1a1714;--muted:#6a635a;--line:#d9d1c3;--gold:#8f7340;--gold-deep:#6e582e;--serif:'Libre Baskerville',Georgia,serif;--sans:'Source Sans 3',system-ui,sans-serif}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--sans);line-height:1.55;overflow-x:clip}
+.wrap{max-width:720px;margin:0 auto;padding:1.5rem 1.5rem 3rem}
+header{display:flex;align-items:center;gap:.75rem;margin-bottom:1.25rem;padding-bottom:1rem;border-bottom:1px solid var(--line)}
+header img{width:44px;height:44px;border-radius:6px}
+header a{color:var(--gold-deep);text-decoration:none;font-weight:600;font-size:.85rem}
+.kicker{font-size:.7rem;letter-spacing:.14em;text-transform:uppercase;color:var(--gold-deep);font-weight:600;margin:0 0 .35rem}
+h1{font-family:var(--serif);font-size:clamp(1.5rem,3.2vw,1.85rem);line-height:1.25;font-weight:700;margin:0 0 1.15rem;letter-spacing:-.02em}
+.list{display:flex;flex-direction:column;gap:1rem}
+.ed-card{display:block;background:var(--paper);border:1px solid var(--line);border-radius:10px;box-shadow:0 1px 2px rgba(26,23,20,.04),0 12px 36px rgba(26,23,20,.06);overflow:hidden;text-decoration:none;color:inherit;min-height:48px}
+.ed-card:hover{border-color:var(--gold)}
+.ed-card:focus-visible{outline:2px solid var(--gold-deep);outline-offset:3px}
+.hero{width:100%;max-width:100%;height:auto;aspect-ratio:16/9;max-height:200px;object-fit:cover;display:block;background:#e7e1d6}
+.pad{padding:.9rem 1.1rem 1.05rem}
+.meta{font-size:.68rem;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);margin:0}
+.ed-card h2{font-family:var(--serif);font-size:1.15rem;line-height:1.3;font-weight:700;margin:.35rem 0 .4rem;letter-spacing:-.02em}
+.dek{font-family:var(--serif);font-style:italic;color:var(--muted);margin:0;font-size:1rem;line-height:1.45}
+.nav{margin-top:1.35rem;font-size:.9rem;display:flex;flex-wrap:wrap;gap:.75rem 1.1rem}
+.nav a{color:var(--gold-deep);text-decoration:none;font-weight:500;min-height:48px;display:inline-flex;align-items:center}
+.nav a:hover{text-decoration:underline;text-underline-offset:2px}
+@media(min-width:640px){
+  .wrap{padding:1.75rem 2rem 3.5rem}
+  .hero{max-height:380px}
+  .pad{padding:1rem 1.35rem 1.15rem}
+  .ed-card h2{font-size:1.28rem}
+}
+</style>
+<script src="../scripts/analytics.js" defer></script>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <a href="../index.html"><img src="../img/logo-mark.png" alt="CoC" width="44" height="44"></a>
+    <div>
+      <a href="../index.html">Chronicle of Convergence</a>
+      <div style="font-size:.75rem;color:var(--muted)">Daily editorial</div>
+    </div>
+  </header>
+  <p class="kicker">Chronicle of Convergence</p>
+  <h1>All editorials</h1>
+  <div class="list">
+${cards}
+  </div>
+  <p class="nav"><a href="../index.html#editorial">← Today’s desk</a><a href="../index.html">Field signals</a><a href="../go.html">Link hub</a></p>
+</div>
+</body>
+</html>
+`;
+}
+
 function writeSitemap(dates) {
   const today = new Date().toISOString().slice(0, 10);
   const staticUrls = [
@@ -362,17 +527,19 @@ function generateAll() {
     const html = renderPage(map[d], d);
     if (writeIfChanged(path.join(OUT_DIR, d + '.html'), html)) n++;
   }
-  // index redirect helper
-  const latest = store.published && store.published.publishDate;
-  if (latest && map[latest]) {
-    writeIfChanged(
-      path.join(OUT_DIR, 'index.html'),
-      `<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta http-equiv="refresh" content="0;url=${latest}.html">
-<link rel="canonical" href="${SITE}/e/${latest}.html"><title>Editorials — CoC</title>
-<script>location.replace(${JSON.stringify(latest + '.html')})</script></head>
-<body><p><a href="${latest}.html">Latest editorial</a></p></body></html>`
-    );
+  const indexHtml = renderIndex(map, dates);
+  if (/location\.replace|http-equiv\s*=\s*["']refresh/i.test(indexHtml)) {
+    throw new Error('e/index.html must list every editorial, not redirect to one');
   }
+  const linked = indexHtml.match(/href="\d{4}-\d{2}-\d{2}\.html"/g) || [];
+  if (linked.length !== dates.length) {
+    throw new Error('editorial index has ' + linked.length + ' links, expected ' + dates.length);
+  }
+  const heroes = indexHtml.match(/class="hero"/g) || [];
+  if (heroes.length !== dates.length) {
+    throw new Error('editorial index has ' + heroes.length + ' heroes, expected ' + dates.length);
+  }
+  writeIfChanged(path.join(OUT_DIR, 'index.html'), indexHtml);
   writeSitemap(dates);
   console.log('Generated', n, 'editorial page(s) in e/ + sitemap.xml');
   return { n, dates };
@@ -385,6 +552,7 @@ if (require.main === module) {
 module.exports = {
   generateAll,
   renderPage,
+  renderIndex,
   collectEditorials,
   SITE
 };

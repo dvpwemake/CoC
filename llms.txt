@@ -17,7 +17,7 @@ Insight grammar: “convergence of A and B” (not “vs”).
 ## Primary URLs (crawl these)
 
 - Homepage / live desk: https://chronicleofconvergence.com/
-- Latest editorial redirect: https://chronicleofconvergence.com/e/
+- All editorials: https://chronicleofconvergence.com/e/
 - Editorial permalinks: https://chronicleofconvergence.com/e/YYYY-MM-DD.html
 - Link hub (social bios): https://chronicleofconvergence.com/go.html
 - Site map: https://chronicleofconvergence.com/sitemap.xml
