@@ -30,12 +30,27 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
       - uses: actions/setup-node@v4
         with:
           node-version: '24'
       - name: Check the poster
         run: node scripts/linkedin-editorial.js --self-test
+      - name: Skip when the ledger already has this date
+        id: ledger
+        env:
+          EDITORIAL_DATE: ${{ inputs.date }}
+        run: |
+          set -o pipefail
+          node scripts/linkedin-editorial.js --check-ledger | tee /tmp/linkedin-ledger-check.log
+          if grep -q '^LINKEDIN_RESULT=skip ' /tmp/linkedin-ledger-check.log; then
+            echo "skip=1" >> "$GITHUB_OUTPUT"
+          else
+            echo "skip=0" >> "$GITHUB_OUTPUT"
+          fi
       - name: Require the LinkedIn token
+        if: steps.ledger.outputs.skip != '1'
         env:
           LINKEDIN_ACCESS_TOKEN: ${{ secrets.LINKEDIN_ACCESS_TOKEN }}
         run: |
@@ -44,6 +59,7 @@ jobs:
             exit 1
           fi
       - name: Wait until 10 minutes after publish
+        if: steps.ledger.outputs.skip != '1'
         env:
           DELAY_MINUTES: ${{ inputs.delay_minutes }}
         run: |
@@ -59,6 +75,7 @@ jobs:
             sleep 600
           fi
       - name: Post the day's editorial
+        if: steps.ledger.outputs.skip != '1'
         env:
           LINKEDIN_ACCESS_TOKEN: ${{ secrets.LINKEDIN_ACCESS_TOKEN }}
           LINKEDIN_ORG_ID: '144002244'
@@ -67,6 +84,7 @@ jobs:
           set -o pipefail
           node scripts/linkedin-editorial.js | tee /tmp/linkedin-editorial.log
       - name: Save the ledger
+        if: steps.ledger.outputs.skip != '1'
         run: |
           git config user.name "Chronicle Bot"
           git config user.email "bot@chronicleofconvergence.com"
@@ -74,7 +92,33 @@ jobs:
           if git diff --cached --quiet; then
             echo "No ledger change"
           else
-            date=$(awk '/^LINKEDIN_RESULT=posted /{print $2}' /tmp/linkedin-editorial.log | tail -1)
-            git commit -m "LinkedIn: posted editorial ${date}"
-            git push
+            line=$(grep -E '^LINKEDIN_RESULT=(posted|recorded) ' /tmp/linkedin-editorial.log | tail -1)
+            kind=$(printf '%s\n' "$line" | awk '{print $1}')
+            kind=${kind#LINKEDIN_RESULT=}
+            date=$(printf '%s\n' "$line" | awk '{print $2}')
+            case "$kind" in
+              posted) msg="LinkedIn: posted editorial ${date}" ;;
+              recorded) msg="LinkedIn: recorded existing post ${date}" ;;
+              *)
+                echo "Ledger changed without a posted or recorded result"
+                exit 1
+                ;;
+            esac
+            git commit -m "$msg"
+            save_ledger() {
+              git pull --rebase origin main && git push
+            }
+            if save_ledger; then
+              echo "Ledger saved"
+            else
+              git rebase --abort 2>/dev/null || true
+              echo "Ledger save failed. Retrying once."
+              if save_ledger; then
+                echo "Ledger saved on retry"
+              else
+                git rebase --abort 2>/dev/null || true
+                echo "帖子已发出但没记录 ${date}"
+                exit 1
+              fi
+            fi
           fi

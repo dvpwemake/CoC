@@ -16,6 +16,7 @@
  * Usage:
  *   node scripts/linkedin-editorial.js
  *   EDITORIAL_DATE=2026-10-14 node scripts/linkedin-editorial.js
+ *   node scripts/linkedin-editorial.js --check-ledger
  *   node scripts/linkedin-editorial.js --self-test
  */
 
@@ -159,6 +160,15 @@ function loadLedger(file) {
 
 function alreadyPosted(ledger, date, permalink) {
   return (ledger.posts || []).some((row) => row && (row.date === date || row.permalink === permalink));
+}
+
+function ledgerAction(ledger, date) {
+  const permalink = SITE + '/e/' + date + '.html';
+  return alreadyPosted(ledger, date, permalink) ? 'skip' : 'continue';
+}
+
+function recordResultKind(alreadyOnPage) {
+  return alreadyOnPage ? 'recorded' : 'posted';
 }
 
 function recentContains(elements, permalink) {
@@ -326,6 +336,21 @@ function resultLine(kind, date) {
   console.log('LINKEDIN_RESULT=' + kind + (date ? ' ' + date : ''));
 }
 
+function checkLedger() {
+  const requested = String(process.env.EDITORIAL_DATE || '').trim();
+  if (requested && !isDate(requested)) {
+    throw new Error('EDITORIAL_DATE must be YYYY-MM-DD');
+  }
+  const date = requested || nyDate(new Date());
+  const action = ledgerAction(loadLedger(LEDGER_PATH), date);
+  if (action === 'skip') {
+    console.log(date + ' is already in the ledger. Nothing posted.');
+  } else {
+    console.log(date + ' is not in the ledger.');
+  }
+  resultLine(action, date);
+}
+
 async function run() {
   const eventName = process.env.GITHUB_EVENT_NAME || '';
   const requested = String(process.env.EDITORIAL_DATE || '').trim();
@@ -373,7 +398,7 @@ async function run() {
       postedAt: new Date().toISOString()
     });
     fs.writeFileSync(LEDGER_PATH, JSON.stringify(next, null, 2) + '\n');
-    resultLine('posted', date);
+    resultLine(recordResultKind(true), date);
     return;
   }
 
@@ -394,7 +419,7 @@ async function run() {
   });
   fs.writeFileSync(LEDGER_PATH, JSON.stringify(next, null, 2) + '\n');
   console.log('Posted ' + date + (urn ? ' · ' + urn : ''));
-  resultLine('posted', date);
+  resultLine(recordResultKind(false), date);
 }
 
 function selfTest() {
@@ -434,6 +459,13 @@ function selfTest() {
   const ledger = { posts: [{ date: '2026-10-14', permalink: editorial.permalink }] };
   if (!alreadyPosted(ledger, '2026-10-14', editorial.permalink)) throw new Error('ledger hit');
   if (alreadyPosted(ledger, '2026-10-13', SITE + '/e/2026-10-13.html')) throw new Error('ledger miss');
+  if (ledgerAction(ledger, '2026-10-14') !== 'skip') throw new Error('check-ledger skip');
+  if (ledgerAction({ posts: [] }, '2026-10-14') !== 'continue') throw new Error('check-ledger continue');
+  if (ledgerAction({ posts: [{ date: '2026-09-01', permalink: editorial.permalink }] }, '2026-10-14') !== 'skip') {
+    throw new Error('check-ledger permalink');
+  }
+  if (recordResultKind(true) !== 'recorded') throw new Error('recorded kind');
+  if (recordResultKind(false) !== 'posted') throw new Error('posted kind');
   if (!recentContains([{ content: { article: { source: editorial.permalink } } }], editorial.permalink)) {
     throw new Error('recent source');
   }
@@ -461,6 +493,13 @@ function selfTest() {
 if (require.main === module) {
   if (process.argv.indexOf('--self-test') !== -1) {
     selfTest();
+  } else if (process.argv.indexOf('--check-ledger') !== -1) {
+    try {
+      checkLedger();
+    } catch (err) {
+      console.error(publicError(err && err.message ? err.message : err));
+      process.exit(1);
+    }
   } else {
     run().catch((err) => {
       console.error(publicError(err && err.message ? err.message : err));
@@ -475,6 +514,8 @@ module.exports = {
   buildCommentary,
   buildPost,
   alreadyPosted,
+  ledgerAction,
+  recordResultKind,
   recentContains,
   remember,
   publicError

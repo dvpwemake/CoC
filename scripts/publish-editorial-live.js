@@ -13,6 +13,7 @@
  *   node scripts/publish-editorial-live.js --no-push
  */
 const { execFileSync, execSync } = require('child_process');
+const fs = require('fs');
 const path = require('path');
 const lib = require('./editorial-lib.js');
 
@@ -30,6 +31,15 @@ function sh(cmd) {
   execSync(cmd, { cwd: ROOT, stdio: 'inherit' });
 }
 
+function onHead(rel) {
+  try {
+    execFileSync('git', ['cat-file', '-e', 'HEAD:' + rel], { cwd: ROOT, stdio: 'ignore' });
+    return true;
+  } catch (e) {
+    return false;
+  }
+}
+
 const ed = lib.publishDate(dateStr);
 if (!ed) {
   console.error('Publish failed for', dateStr);
@@ -37,6 +47,15 @@ if (!ed) {
 }
 
 sh('git add data/editorial.json data/archive.json data/archive_part*.json index.html');
+if (/^\d{4}-\d{2}-\d{2}$/.test(dateStr)) {
+  const rel = 'e/' + dateStr + '.html';
+  if (fs.existsSync(path.join(ROOT, rel)) && !onHead(rel)) {
+    execFileSync('git', ['add', '--', rel], { cwd: ROOT, stdio: 'inherit' });
+    console.log('Staged ' + rel);
+  } else {
+    console.log('Leaving ' + rel + ' unstaged.');
+  }
+}
 const status = execSync('git status --porcelain', { cwd: ROOT, encoding: 'utf8' });
 if (!status.trim()) {
   console.log('No file changes (already published?)');
