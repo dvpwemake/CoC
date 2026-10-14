@@ -1,0 +1,56 @@
+name: LinkedIn editorial
+
+# Once a day at 03:30 UTC.
+# That is 23:30 in New York during daylight time, and 22:30 during standard time.
+# The job posts the editorial dated that New York day.
+# A day with no editorial is a skip. A date already posted is a skip.
+on:
+  schedule:
+    - cron: '30 3 * * *'
+  workflow_dispatch:
+    inputs:
+      date:
+        description: 'Editorial date YYYY-MM-DD. Blank means today in New York.'
+        required: false
+        default: ''
+
+permissions:
+  contents: write
+
+concurrency:
+  group: linkedin-editorial
+  cancel-in-progress: false
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: 'true'
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - name: Check the poster
+        run: node scripts/linkedin-editorial.js --self-test
+      - name: Post the day's editorial
+        env:
+          LINKEDIN_ACCESS_TOKEN: ${{ secrets.LINKEDIN_ACCESS_TOKEN }}
+          LINKEDIN_ORG_ID: '144002244'
+          EDITORIAL_DATE: ${{ inputs.date }}
+        run: |
+          set -o pipefail
+          node scripts/linkedin-editorial.js | tee /tmp/linkedin-editorial.log
+      - name: Save the ledger
+        run: |
+          git config user.name "Chronicle Bot"
+          git config user.email "bot@chronicleofconvergence.com"
+          git add data/linkedin-posts.json
+          if git diff --cached --quiet; then
+            echo "No ledger change"
+          else
+            date=$(awk '/^LINKEDIN_RESULT=posted /{print $2}' /tmp/linkedin-editorial.log | tail -1)
+            git commit -m "LinkedIn: posted editorial ${date}"
+            git push
+          fi

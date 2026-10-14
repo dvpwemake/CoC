@@ -129,6 +129,19 @@
     return html.slice(0, start + marker.length) + next + html.slice(start + marker.length + end);
   }
 
+  async function dispatchWorkflow(workflow, inputs) {
+    return api(
+      '/repos/' + OWNER + '/' + REPO + '/actions/workflows/' + encodeURIComponent(workflow) + '/dispatches',
+      { method: 'POST', body: { ref: BRANCH, inputs: inputs || {} } }
+    );
+  }
+
+  async function workflowRuns(workflow) {
+    return api(
+      '/repos/' + OWNER + '/' + REPO + '/actions/workflows/' + encodeURIComponent(workflow) + '/runs?per_page=5'
+    );
+  }
+
   root.CocGitHubPublish = {
     OWNER,
     REPO,
@@ -138,6 +151,8 @@
     setToken,
     getFile,
     putFile,
+    dispatchWorkflow,
+    workflowRuns,
     injectEmbeddedEditorial,
     injectEmbeddedDataHead,
     b64EncodeUtf8,

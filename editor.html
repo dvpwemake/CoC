@@ -268,6 +268,17 @@ button,input,select,textarea{font-size:inherit}
     <button class="btn btn-s" id="edPubBtn" onclick="publishEditorialToGitHub()" style="width:100%">↑ Publish Editorial</button>
   </div>
 
+  <div class="sec" id="liSec">
+    <div class="sec-t">LinkedIn</div>
+    <p class="side-note" style="margin-bottom:.55rem">Every night at 11:30pm New York (10:30pm in winter) the day's editorial is posted to the company page. A day with no editorial is skipped. A date already posted is skipped.</p>
+    <p class="side-note" id="liStatus" style="margin-bottom:.55rem">Loading…</p>
+    <label class="fl" for="liDate">Date</label>
+    <input type="text" class="fi" id="liDate" placeholder="YYYY-MM-DD" style="margin-bottom:.45rem">
+    <button class="btn btn-s" id="liPostBtn" type="button" onclick="postEditorialToLinkedIn()" style="width:100%;margin-bottom:.4rem">Post this date</button>
+    <a class="side-note" href="https://www.linkedin.com/company/144002244/admin/dashboard/" target="_blank" rel="noopener noreferrer">Open company page</a>
+    <p class="side-note" style="margin-top:.45rem">The page token lives in the GitHub secret <code>LINKEDIN_ACCESS_TOKEN</code>. The button uses the same PAT as Publish, and that PAT also needs the <code>workflow</code> scope.</p>
+  </div>
+
   <div class="sec side-acts">
     <button class="btn btn-s" onclick="pub()" title="Browser localStorage only — not live GitHub">↑ Publish Now (local)</button>
     <div style="display:flex;gap:.4rem"><button class="btn" onclick="showExp()" style="flex:1">⤓ Export</button><button class="btn" onclick="showImp()" style="flex:1">⤒ Import</button></div>
@@ -379,6 +390,7 @@ button,input,select,textarea{font-size:inherit}
       <button class="btn btn-p" onclick="saveEditorial()">Save (browser only)</button>
       <button class="btn" onclick="previewEditorial()">◎ Preview Editorial</button>
       <button class="btn btn-s" id="edPubBtn2" onclick="publishEditorialToGitHub()">↑ Publish Editorial</button>
+      <button class="btn" type="button" onclick="postEditorialToLinkedIn(document.getElementById('edDate').value)">Post this date to LinkedIn</button>
       <button class="btn" onclick="hideEd()">Cancel</button>
     </div>
     <p class="side-note" style="margin-top:1.1rem"><b>Publish Editorial</b> commits to GitHub <code>main</code> (no file download). Requires a fine-scoped GitHub PAT with <code>contents:write</code> on dvpwemake/CoC (prompted once per session). Previous live editorial becomes an <b>Editorial</b> card in Field signals.</p>
@@ -396,6 +408,7 @@ button,input,select,textarea{font-size:inherit}
 <script src="scripts/crawler-lib.js"></script>
 <script src="scripts/editorial-client.js"></script>
 <script src="scripts/github-publish-client.js"></script>
+<script src="scripts/linkedin-editor.js"></script>
 <script>
 /* Global scope required: HTML onclick="doScan()" etc. must resolve on window. */
 const SK='coc_editor_batches',PK='coc_news_data',LK='coc_scan_log',ATK='coc_auto_scan',APK='coc_auto_pub';
@@ -463,6 +476,7 @@ function initEditorApp(){
     });
     renderBL();
     openNewsDesk(true);
+    try { refreshLinkedInStatus(); } catch (e) {}
     ensureEditorialLoaded(true).then(()=>{
       const pub=ED.published;
       const body=editorialBodyText(pub);
@@ -2127,6 +2141,11 @@ async function publishEditorialToGitHub(){
     document.getElementById('edStatus').value='published';
     addLog('ok','Published to GitHub · '+ed.publishDate+' · '+(editorialNewsItem?'previous → field signals':'no prior archive'));
     toast('Published to GitHub — live after Pages deploy (~1 min)','success');
+    try {
+      await postEditorialToLinkedIn(ed.publishDate, { quiet: true });
+    } catch (liErr) {
+      addLog('er2','LinkedIn queue failed: '+(liErr&&liErr.message||liErr));
+    }
   }catch(e){
     addLog('er2','Publish failed: '+e.message);
     toast(e.message||'Publish failed','error');
