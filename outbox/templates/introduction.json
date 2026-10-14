@@ -1,0 +1,5 @@
+{
+  "body": "Hi {{first_name|there}},\n\nChronicle of Convergence follows where culture, faith and technology meet, one day at a time.\n\nToday's edition: [read it here](https://chronicleofconvergence.com/).\n\nThanks for reading,\nChronicle of Convergence",
+  "name": "Introduction",
+  "subject": "Chronicle of Convergence for {{first_name|you}}"
+}

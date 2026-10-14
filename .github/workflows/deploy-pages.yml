@@ -3,6 +3,14 @@ name: Deploy Pages
 on:
   push:
     branches: [main]
+    # The email sender's data (encrypted plans, sender list, templates, counts) is read through the
+    # GitHub API, not the site: a push that only touches it does not need a Pages deploy.
+    paths-ignore:
+      - 'outbox/status/**'
+      - 'outbox/plans/**'
+      - 'outbox/senders/**'
+      - 'outbox/templates/**'
+      - 'outbox/suppressed.enc'
   workflow_dispatch:
   workflow_run:
     workflows:
