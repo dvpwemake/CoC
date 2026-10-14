@@ -180,6 +180,11 @@ button,input,select,textarea{font-size:inherit}
 .gate-card input[type=password]{width:100%;min-height:var(--touch-min);padding:.75rem .85rem;background:var(--bg-input);border:1px solid var(--border);border-radius:8px;color:var(--text);font-family:var(--font-sans);font-size:var(--fs-body);margin-bottom:.85rem;outline:none}
 .gate-card input:focus{border-color:var(--accent)}
 .gate-err{color:var(--danger);font-family:var(--font-sans);font-size:var(--fs-meta);min-height:1.25rem;margin-bottom:.5rem}
+#gateTid[hidden],#gateForm[hidden],#gateSetup[hidden],#touchIdBox[hidden]{display:none!important}
+.gate-link{display:block;width:100%;margin-top:.75rem;padding:.4rem;background:none;border:0;color:var(--text-dim);font-family:var(--font-sans);font-size:var(--fs-meta);text-decoration:underline;cursor:pointer}
+.gate-link:hover{color:var(--text)}
+.gate-err:empty{min-height:0;margin:0}
+#gateErr{margin-top:.6rem}
 .gate-note{font-family:var(--font-sans);font-size:var(--fs-meta);color:var(--text-dim);margin-top:1rem;line-height:var(--lh)}
 
 /* News desk rows (image URL + delete) */
@@ -220,12 +225,23 @@ button,input,select,textarea{font-size:inherit}
   <div class="gate-card">
     <h1>CoC Editor</h1>
     <p>Private admin console. Authorized staff only.</p>
+    <div id="gateTid" hidden>
+      <button type="button" class="btn btn-p" id="gateTidBtn" style="width:100%">Sign in with Touch ID</button>
+      <button type="button" class="gate-link" id="gateOther">Other way to sign in</button>
+    </div>
     <form id="gateForm" autocomplete="off">
       <label for="gatePass">Password</label>
       <input id="gatePass" type="password" name="password" autocomplete="current-password" required>
-      <div class="gate-err" id="gateErr" role="alert"></div>
       <button type="submit" class="btn btn-p" style="width:100%">Unlock editor</button>
     </form>
+    <div id="gateSetup" hidden>
+      <p>Use Touch ID next time? Paste the GitHub token once; it is sealed on this device and opened only by your fingerprint.</p>
+      <label for="gateSetupPat">GitHub token (the same one Publish asks for)</label>
+      <input id="gateSetupPat" type="password" autocomplete="off" spellcheck="false" placeholder="github_pat_… or ghp_…">
+      <button type="button" class="btn btn-p" id="gateSetupBtn" style="width:100%">Use Touch ID next time</button>
+      <button type="button" class="gate-link" id="gateSetupSkip">Not now</button>
+    </div>
+    <div class="gate-err" id="gateErr" role="alert"></div>
     <p class="gate-note">Session lasts for this browser tab only. Public site does not link here.</p>
   </div>
 </div>
@@ -238,6 +254,13 @@ button,input,select,textarea{font-size:inherit}
     </a>
     <span class="tag">Editor</span>
     <button type="button" class="btn" id="logoutBtn" onclick="try{CoCEditorAuth.clearSession()}catch(e){};location.reload()" style="margin-left:auto">Lock</button>
+  </div>
+
+  <div class="sec" id="touchIdBox" hidden>
+    <div class="sec-t">Touch ID</div>
+    <p class="side-note" id="touchIdState" style="margin:0 0 .55rem">—</p>
+    <button type="button" class="btn btn-s" id="touchIdSave" style="width:100%;margin-bottom:.4rem">Use Touch ID next time</button>
+    <button type="button" class="btn" id="touchIdForget" style="width:100%" hidden>Forget Touch ID on this browser</button>
   </div>
 
   <div class="sec">
@@ -404,6 +427,7 @@ button,input,select,textarea{font-size:inherit}
 <div class="mo" id="edPrevM"><div class="md" style="max-width:760px;max-height:90vh;overflow:auto"><h3>Editorial preview</h3><div id="edPrevBody" style="font-family:var(--font-serif);font-size:var(--fs-prose);line-height:1.7;color:var(--text)"></div><div class="md-a"><button class="btn" onclick="closeM('edPrevM')">Close</button></div></div></div>
 <div class="toast" id="tst"></div>
 
+<script src="scripts/editor-touchid.js"></script>
 <script src="scripts/editor-auth.js"></script>
 <script src="scripts/crawler-lib.js"></script>
 <script src="scripts/editorial-client.js"></script>
