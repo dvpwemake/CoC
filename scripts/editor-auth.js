@@ -126,13 +126,129 @@
     var err = gate.querySelector('#gateErr');
     if (!form) return;
 
+    // Touch ID (scripts/editor-touchid.js): one touch signs in and loads the GitHub token.
+    var tid = global.CoCTouchID;
+    var tidBox = gate.querySelector('#gateTid');
+    var tidBtn = gate.querySelector('#gateTidBtn');
+    var other = gate.querySelector('#gateOther');
+    var setup = gate.querySelector('#gateSetup');
+    var setupPat = gate.querySelector('#gateSetupPat');
+    var setupBtn = gate.querySelector('#gateSetupBtn');
+    var setupSkip = gate.querySelector('#gateSetupSkip');
+    var usedFallback = false;
+
+    function enter() {
+      showApp(gate, app);
+      if (typeof onOk === 'function') onOk();
+    }
+
+    function passwordView() {
+      if (tidBox) tidBox.setAttribute('hidden', '');
+      form.removeAttribute('hidden');
+      if (input) setTimeout(function () { input.focus(); }, 50);
+    }
+
+    function setToken(pat) {
+      try {
+        if (global.CocGitHubPublish) global.CocGitHubPublish.setToken(pat);
+      } catch (e) { /* private mode: Publish will ask for the token */ }
+    }
+
+    // After a password sign-in on a Touch ID device: offer "Use Touch ID next time" once.
+    function afterPassword() {
+      if (!tid || !setup || !setupBtn) return Promise.resolve(enter());
+      if (tid.enrolled() ? !usedFallback : tid.skipped()) return Promise.resolve(enter());
+      return tid.supported().then(function (ok) {
+        if (!ok) return enter();
+        form.setAttribute('hidden', '');
+        setup.removeAttribute('hidden');
+        if (err) err.textContent = '';
+        if (setupPat) {
+          var have = '';
+          try { have = global.CocGitHubPublish ? global.CocGitHubPublish.getToken() : ''; } catch (e) { have = ''; }
+          setupPat.value = have;
+          setTimeout(function () { setupPat.focus(); }, 50);
+        }
+      });
+    }
+
+    if (tid && tidBox && tidBtn && tid.enrolled()) {
+      // Enrolled: Touch ID is the sign-in; the password form waits behind "Other way to sign in".
+      form.setAttribute('hidden', '');
+      tidBox.removeAttribute('hidden');
+      tid.supported().then(function (ok) {
+        if (!ok) passwordView();
+      });
+      tidBtn.addEventListener('click', function () {
+        if (err) err.textContent = '';
+        tidBtn.disabled = true;
+        tid.unlock().then(function (res) {
+          tidBtn.disabled = false;
+          if (res.ok) {
+            setToken(res.pat);
+            setSession();
+            enter();
+          } else if (err) {
+            err.textContent = res.message || 'Touch ID failed.';
+          }
+        });
+      });
+      if (other) {
+        other.addEventListener('click', function () {
+          usedFallback = true;
+          if (err) err.textContent = '';
+          passwordView();
+        });
+      }
+    }
+
+    if (setupBtn && tid) {
+      setupBtn.addEventListener('click', function () {
+        var pat = setupPat ? String(setupPat.value || '').trim() : '';
+        if (err) err.textContent = '';
+        if (!tid.validToken(pat)) {
+          if (err) err.textContent = 'Paste a GitHub token (ghp_… or github_pat_…).';
+          return;
+        }
+        setupBtn.disabled = true;
+        if (err) err.textContent = 'Checking the token with GitHub…';
+        tid.checkToken(pat).then(function (chk) {
+          if (!chk.ok) return chk;
+          if (err) err.textContent = 'Touch ID…';
+          return tid.save(pat, true);
+        }).then(function (res) {
+          setupBtn.disabled = false;
+          if (res.ok) {
+            if (setupPat) setupPat.value = '';
+            if (err) err.textContent = '';
+            setToken(pat);
+            enter();
+            return;
+          }
+          if (res.noPrf) {
+            tid.setSkipped(true);
+            setupBtn.setAttribute('hidden', '');
+            if (setupSkip) setupSkip.textContent = 'Continue to the editor';
+          }
+          if (err) err.textContent = res.message || 'Touch ID setup failed.';
+        });
+      });
+    }
+    if (setupSkip) {
+      setupSkip.addEventListener('click', function () {
+        if (tid && !tid.enrolled()) tid.setSkipped(true);
+        if (setupPat) setupPat.value = '';
+        enter();
+      });
+    }
+
     form.addEventListener('submit', function (e) {
       e.preventDefault();
       if (err) err.textContent = '';
       tryLogin(input && input.value).then(function (res) {
         if (res.ok) {
-          showApp(gate, app);
-          if (typeof onOk === 'function') onOk();
+          if (input) input.value = '';
+          afterPassword();
         } else {
           if (err) err.textContent = res.error || 'Access denied';
           if (input) {
@@ -143,7 +259,7 @@
       });
     });
 
-    if (input) setTimeout(function () { input.focus(); }, 50);
+    if (input && !form.hasAttribute('hidden')) setTimeout(function () { input.focus(); }, 50);
   }
 
   global.CoCEditorAuth = {
