@@ -270,7 +270,7 @@ button,input,select,textarea{font-size:inherit}
 
   <div class="sec" id="liSec">
     <div class="sec-t">LinkedIn</div>
-    <p class="side-note" style="margin-bottom:.55rem">Every night at 11:30pm New York (10:30pm in winter) the day's editorial is posted to the company page. A day with no editorial is skipped. A date already posted is skipped.</p>
+    <p class="side-note" style="margin-bottom:.55rem">Ten minutes after the day's editorial is published, it is posted to the company page. Post this date sends now. A date already posted is skipped.</p>
     <p class="side-note" id="liStatus" style="margin-bottom:.55rem">Loading…</p>
     <label class="fl" for="liDate">Date</label>
     <input type="text" class="fi" id="liDate" placeholder="YYYY-MM-DD" style="margin-bottom:.45rem">
@@ -2039,7 +2039,7 @@ async function publishEditorialToGitHub(){
   }
   let token=CocGitHubPublish.getToken();
   if(!token){
-    token=window.prompt('GitHub personal access token (repo contents:write on dvpwemake/CoC).\nStored in this browser session only — never committed.');
+    token=window.prompt('GitHub personal access token (contents:write and workflow on dvpwemake/CoC).\nStored in this browser session only — never committed.');
     if(!token){toast('Publish cancelled — no token','warning');return}
     CocGitHubPublish.setToken(token.trim());
   }
@@ -2142,7 +2142,7 @@ async function publishEditorialToGitHub(){
     addLog('ok','Published to GitHub · '+ed.publishDate+' · '+(editorialNewsItem?'previous → field signals':'no prior archive'));
     toast('Published to GitHub — live after Pages deploy (~1 min)','success');
     try {
-      await postEditorialToLinkedIn(ed.publishDate, { quiet: true });
+      await postEditorialToLinkedIn(ed.publishDate, { quiet: true, delayMinutes: 10 });
     } catch (liErr) {
       addLog('er2','LinkedIn queue failed: '+(liErr&&liErr.message||liErr));
     }

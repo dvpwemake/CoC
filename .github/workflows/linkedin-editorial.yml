@@ -1,18 +1,19 @@
 name: LinkedIn editorial
 
-# Once a day at 03:30 UTC.
-# That is 23:30 in New York during daylight time, and 22:30 during standard time.
-# The job posts the editorial dated that New York day.
+# Starts when that day's editorial is published.
+# delay_minutes 10 waits, then posts. delay_minutes 0 posts now.
 # A day with no editorial is a skip. A date already posted is a skip.
 on:
-  schedule:
-    - cron: '30 3 * * *'
   workflow_dispatch:
     inputs:
       date:
         description: 'Editorial date YYYY-MM-DD. Blank means today in New York.'
         required: false
         default: ''
+      delay_minutes:
+        description: '10 waits ten minutes after publish. 0 posts now.'
+        required: false
+        default: '10'
 
 permissions:
   contents: write
@@ -34,6 +35,29 @@ jobs:
           node-version: '24'
       - name: Check the poster
         run: node scripts/linkedin-editorial.js --self-test
+      - name: Require the LinkedIn token
+        env:
+          LINKEDIN_ACCESS_TOKEN: ${{ secrets.LINKEDIN_ACCESS_TOKEN }}
+        run: |
+          if [ -z "$LINKEDIN_ACCESS_TOKEN" ]; then
+            echo "LINKEDIN_ACCESS_TOKEN is not set on the GitHub repo"
+            exit 1
+          fi
+      - name: Wait until 10 minutes after publish
+        env:
+          DELAY_MINUTES: ${{ inputs.delay_minutes }}
+        run: |
+          minutes="${DELAY_MINUTES:-10}"
+          case "$minutes" in
+            0|10) ;;
+            *) echo "delay_minutes must be 0 or 10"; exit 1 ;;
+          esac
+          if [ "$minutes" = "0" ]; then
+            echo "Posting now"
+          else
+            echo "Waiting 10 minutes after the editorial publish"
+            sleep 600
+          fi
       - name: Post the day's editorial
         env:
           LINKEDIN_ACCESS_TOKEN: ${{ secrets.LINKEDIN_ACCESS_TOKEN }}

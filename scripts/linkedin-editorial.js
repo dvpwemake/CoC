@@ -2,6 +2,7 @@
 'use strict';
 /**
  * Post one CoC editorial to the LinkedIn company page.
+ * The workflow waits 10 minutes after that day's publish, then runs this script.
  * Source: https://chronicleofconvergence.com/e/YYYY-MM-DD.html
  * Author: urn:li:organization:144002244
  *

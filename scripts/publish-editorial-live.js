@@ -12,7 +12,7 @@
  *   node scripts/publish-editorial-live.js --date 2026-07-22
  *   node scripts/publish-editorial-live.js --no-push
  */
-const { execSync } = require('child_process');
+const { execFileSync, execSync } = require('child_process');
 const path = require('path');
 const lib = require('./editorial-lib.js');
 
@@ -47,6 +47,19 @@ sh('git commit -m ' + JSON.stringify(msg));
 if (!noPush) {
   sh('git push origin HEAD:main');
   console.log('Pushed. Deploy Pages will update chronicleofconvergence.com');
+  if (/^\d{4}-\d{2}-\d{2}$/.test(dateStr)) {
+    try {
+      execFileSync('gh', [
+        'workflow', 'run', 'linkedin-editorial.yml',
+        '--ref', 'main',
+        '-f', 'date=' + dateStr,
+        '-f', 'delay_minutes=10'
+      ], { cwd: ROOT, stdio: 'inherit' });
+      console.log('LinkedIn queued for ' + dateStr + ' · 10 minutes after this publish');
+    } catch (e) {
+      console.warn('Editorial is on GitHub. LinkedIn was not queued.');
+    }
+  }
 } else {
   console.log('Committed locally (--no-push). Run git push when ready.');
 }

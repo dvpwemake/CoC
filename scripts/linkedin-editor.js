@@ -60,10 +60,15 @@
         toast('GitHub token required. Publish an editorial once this session, then try again.', 'warning');
         return;
       }
-      await root.CocGitHubPublish.dispatchWorkflow(WORKFLOW, { date: chosen });
-      addLog('ok', 'LinkedIn queued for ' + chosen);
+      const delay = opts && opts.delayMinutes === 10 ? '10' : '0';
+      await root.CocGitHubPublish.dispatchWorkflow(WORKFLOW, {
+        date: chosen,
+        delay_minutes: delay
+      });
+      const when = delay === '10' ? '10 minutes after this publish' : 'now';
+      addLog('ok', 'LinkedIn queued for ' + chosen + ' · ' + when);
       if (!quiet) {
-        toast('LinkedIn post queued for ' + chosen + '. The company page updates in about a minute.', 'success');
+        toast('LinkedIn post queued for ' + chosen + '. It goes out ' + when + '.', 'success');
       }
       setTimeout(refreshLinkedInStatus, 4000);
     } catch (e) {

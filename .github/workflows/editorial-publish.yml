@@ -14,6 +14,7 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: 'true'
@@ -30,20 +31,43 @@ jobs:
         env:
           FORCE_EDITORIAL: ${{ github.event_name == 'workflow_dispatch' && inputs.force || '' }}
         run: |
+          set -o pipefail
           if [ "$FORCE_EDITORIAL" = "true" ] || [ "$FORCE_EDITORIAL" = "1" ]; then
-            node scripts/editorial-publish.js --force
+            node scripts/editorial-publish.js --force | tee /tmp/editorial-publish.log
           else
-            node scripts/editorial-publish.js
+            node scripts/editorial-publish.js | tee /tmp/editorial-publish.log
           fi
       - name: Commit
         run: |
           git config user.name "Chronicle Bot"
           git config user.email "bot@chronicleofconvergence.com"
-          # Publish may archive previous editorial into news timeline (archive.json)
+          published=$(awk '/^Published editorial for /{print $4}' /tmp/editorial-publish.log | tail -1)
+          case "$published" in
+            [0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]) ;;
+            *) published="" ;;
+          esac
           git add data/editorial.json data/archive.json data/archive_part*.json index.html
+          if [ -n "$published" ] && [ -f "e/${published}.html" ]; then
+            if git cat-file -e "HEAD:e/${published}.html" 2>/dev/null; then
+              echo "Permalink already on main. Leaving e/${published}.html unstaged."
+            else
+              git add "e/${published}.html"
+            fi
+          fi
           if git diff --cached --quiet; then
             echo "No publish changes"
           else
             git commit -m "Editorial publish: $(date -u '+%Y-%m-%d %H:%M UTC')"
             git push
+            if [ -n "$published" ]; then
+              echo "PUBLISHED_DATE=$published" >> "$GITHUB_ENV"
+            fi
           fi
+      - name: Queue LinkedIn 10 minutes after publish
+        if: env.PUBLISHED_DATE != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh workflow run linkedin-editorial.yml --ref main \
+            -f "date=${PUBLISHED_DATE}" \
+            -f delay_minutes=10
