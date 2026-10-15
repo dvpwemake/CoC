@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-10-15T01-56",
+    "scannedAt": "2026-10-15T01:56:54.993Z",
+    "items": [
+      {
+        "id": "auto_2026-10-15T01-56_1",
+        "rank": 1,
+        "title": "AI giant Anthropic sees revenue surge ahead of stock market listing",
+        "category": "general",
+        "summary": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91e4/live/ef62d030-c82d-11f1-949e-ffe1bf7985f3.jpg",
+        "source": "BBC Technology",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-15T01-56_2",
+        "rank": 2,
+        "title": "New documentary celebrates women pioneers in performance art",
+        "category": "art",
+        "summary": "‘Acting Like Women’ is a deep dive into Los Angeles art and activism of the 1970s and 80s",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/ed094ad515e552d4a195a9cda804bbe1299d1eb5-2000x1330.jpg?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/10/14/womans-building-performance-art-documentary-acting-like-women",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-15T01-56_3",
+        "rank": 3,
+        "title": "Compass Pathways CEO: Psychedelics company will ‘go slow before we go fast'",
+        "category": "biotech",
+        "summary": "The CEO of Compass Pathways said the company, whose psychedelic therapy is set for regulatory review this year, is prepared to “go slow before we go fast.”",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/10/STATday1591-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/10/14/compass-pathways-psychedelics-stat-summit/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-15T01-56_4",
+        "rank": 4,
+        "title": "NASA Astronauts to Answer Questions from Florida Students",
+        "category": "space",
+        "summary": "Students in Florida will hear from NASA astronauts Jessica Watkins and Luke Delaney as they answer prerecorded STEM questions while aboard the International Space Station. The Earth-to-space call will begin at 12 p.m.…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/10/florida-student-downlink-oct-14.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-15T01-56_5",
+        "rank": 5,
+        "title": "Dubai Police adds 920-horsepower hybrid Lamborghini Temerario to patrol fleet",
+        "category": "robotics",
+        "summary": "Dubai Police has added a Lamborghini Temerario hybrid supercar to its luxury patrol fleet, continuing the force’s practice of deploying high-performance vehicles at tourist destinations and other busy areas across the…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/dubai-police-lambo-2.jpg",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/14/dubai-police-adds-920-horsepower-hybrid-lamborghini-temerario-to-patrol-fleet/105932/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-10-14T22-59",
     "scannedAt": "2026-10-14T22:59:32.229Z",
     "items": [
@@ -2306,67 +2367,6 @@
         "image": "https://www.statnews.com/wp-content/uploads/2024/03/GettyImages-1213413730-1024x576.jpg",
         "source": "STAT News",
         "sourceUrl": "https://www.statnews.com/2026/09/12/astrazeneca-breast-cancer-camizestrant-etcamah-serena-4-trail-failure/?utm_campaign=rss",
-        "fromX": false
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-09-12T21-43",
-    "scannedAt": "2026-09-12T21:43:18.661Z",
-    "items": [
-      {
-        "id": "auto_2026-09-12T21-43_1",
-        "rank": 1,
-        "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
-        "category": "general",
-        "summary": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking…",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK201_SAM_ALTMAN_CVIRGINIA2D-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-12T21-43_2",
-        "rank": 2,
-        "title": "STAT+: Scholar Rock wins FDA approval for first drug to target SMA muscle loss",
-        "category": "biotech",
-        "summary": "A late-stage clinical trial found that, when combined with an SMN2-targeting drug, Isembyld caused young patients’ motor skills to improve after a year.",
-        "image": "https://www.statnews.com/wp-content/uploads/2016/09/Infusion_AP_328963423903-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/09/11/scholar-rock-spinal-muscular-atrophy-isembyld-clinical-trial-fda-approval/?utm_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-12T21-43_3",
-        "rank": 3,
-        "title": "xAI has quietly built a massive battery at its Memphis data center hub",
-        "category": "energy",
-        "summary": "Elon Musk’s SpaceXAI has built what may be the biggest battery in the U.S. at its controversial Memphis AI computing hub. The exact size of the battery is unclear. Canary Media counted 720 Tesla Megapack battery…",
-        "image": "https://img.canarymedia.com/content/uploads/XAI-logo-on-smartphone_GettyImages-2233914136.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=8925a05bff14802db67a028bf2b0e356",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/batteries/xai-massive-battery-memphis-data-center",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-12T21-43_4",
-        "rank": 4,
-        "title": "Collector Dimitris Daskalopoulos Donates 51 Works to Greek and Scottish Museums",
-        "category": "art",
-        "summary": "The Greek entrepreneur Dimitris Daskalopoulos has donated fifty-one artworks—mostly by Greek artists—from his personal collection to four museums in Greece and Scotland as part of an ongoing philanthropic campaign to…",
-        "image": "https://www.artforum.com/wp-content/uploads/2026/09/GettyImages-147144855.jpg?w=650",
-        "source": "Artforum",
-        "sourceUrl": "https://www.artforum.com/news/dimitris-daskalopoulos-donates-greek-and-scottish-museums-1234759128/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-12T21-43_5",
-        "rank": 5,
-        "title": "Help Refine Data from Space Telescopes with Artifact InSPECtor",
-        "category": "space",
-        "summary": "How do scientists studying space with data from a telescope hundreds of thousands of miles away know that what they are seeing is real? A new NASA project, Artifact InSPECtor, invites you to find out – and by doing so,…",
-        "image": "https://assets.science.nasa.gov/content/dam/science/cds/citizen-science/highlights/2026/backgroundimage.001-Aimee_Schechter.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-        "source": "NASA",
-        "sourceUrl": "https://science.nasa.gov/get-involved/citizen-science/help-refine-data-from-space-telescopes-with-artifact-inspector/",
         "fromX": false
       }
     ]

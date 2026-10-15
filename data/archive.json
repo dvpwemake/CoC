@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-10-15T01-56",
+    "scannedAt": "2026-10-15T01:56:54.993Z",
+    "items": [
+      {
+        "id": "auto_2026-10-15T01-56_1",
+        "rank": 1,
+        "title": "AI giant Anthropic sees revenue surge ahead of stock market listing",
+        "category": "general",
+        "summary": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91e4/live/ef62d030-c82d-11f1-949e-ffe1bf7985f3.jpg",
+        "source": "BBC Technology",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-15T01-56_2",
+        "rank": 2,
+        "title": "New documentary celebrates women pioneers in performance art",
+        "category": "art",
+        "summary": "‘Acting Like Women’ is a deep dive into Los Angeles art and activism of the 1970s and 80s",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/ed094ad515e552d4a195a9cda804bbe1299d1eb5-2000x1330.jpg?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/10/14/womans-building-performance-art-documentary-acting-like-women",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-15T01-56_3",
+        "rank": 3,
+        "title": "Compass Pathways CEO: Psychedelics company will ‘go slow before we go fast'",
+        "category": "biotech",
+        "summary": "The CEO of Compass Pathways said the company, whose psychedelic therapy is set for regulatory review this year, is prepared to “go slow before we go fast.”",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/10/STATday1591-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/10/14/compass-pathways-psychedelics-stat-summit/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-15T01-56_4",
+        "rank": 4,
+        "title": "NASA Astronauts to Answer Questions from Florida Students",
+        "category": "space",
+        "summary": "Students in Florida will hear from NASA astronauts Jessica Watkins and Luke Delaney as they answer prerecorded STEM questions while aboard the International Space Station. The Earth-to-space call will begin at 12 p.m.…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/10/florida-student-downlink-oct-14.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-15T01-56_5",
+        "rank": 5,
+        "title": "Dubai Police adds 920-horsepower hybrid Lamborghini Temerario to patrol fleet",
+        "category": "robotics",
+        "summary": "Dubai Police has added a Lamborghini Temerario hybrid supercar to its luxury patrol fleet, continuing the force’s practice of deploying high-performance vehicles at tourist destinations and other busy areas across the…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/dubai-police-lambo-2.jpg",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/14/dubai-police-adds-920-horsepower-hybrid-lamborghini-temerario-to-patrol-fleet/105932/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-10-14T22-59",
     "scannedAt": "2026-10-14T22:59:32.229Z",
     "items": [
