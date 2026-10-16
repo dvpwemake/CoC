@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-10-16T01-47",
+    "scannedAt": "2026-10-16T01:47:04.239Z",
+    "items": [
+      {
+        "id": "auto_2026-10-16T01-47_1",
+        "rank": 1,
+        "title": "The Tesla Roadster flew, drove upside down, and hit 60mph in under a second",
+        "category": "general",
+        "summary": "Elon Musk promised a flying car. And the Tesla Roadster did exactly that. Tesla demonstrated its next-generation Roadster at an event in Waco, Texas, where the electric supercar drove upside down, briefly flew, and…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/HUtthGyaMAEkD-g.jpeg?quality=90&strip=all&crop=1.7172636523782%2C0%2C96.565472695244%2C100&w=1200",
+        "source": "The Verge",
+        "sourceUrl": "https://www.theverge.com/transportation/1012552/tesla-roadster-next-gen-reveal-elon-musk",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-16T01-47_2",
+        "rank": 2,
+        "title": "Best SAST Tools for Python and Java Automation Backends",
+        "category": "robotics",
+        "summary": "The movement of a robot arm occurs after a signal is sent out by the controller. But there is another world beyond the controller. There are Python services that queue up tasks. There are Java backends responding to API…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/aikido-security-diagram-2.png",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/15/best-sast-tools-for-python-and-java-automation-backends/105982/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-16T01-47_3",
+        "rank": 3,
+        "title": "Brazil’s Centre Pompidou outpost delayed until 2029",
+        "category": "art",
+        "summary": "Originally due to open in 2027, then 2028, the project in the southern state of Paraná, where the government changed in the recent election, has been further delayed",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/8eba8c605c340a65958a49196f60c68fd88f3ccd-2000x858.jpg?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/10/15/brazil-centre-pompidou-outpost-delayed-2029",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-16T01-47_4",
+        "rank": 4,
+        "title": "Tech giants want clean energy in N.C. Is Duke finally ready to help?",
+        "category": "energy",
+        "summary": "In North Carolina, tech giants and other large corporations that want their own 24/7 carbon-free electricity have a problem. Across most of the state, only Duke Energy, the state’s vertically integrated utility, can…",
+        "image": "https://img.canarymedia.com/content/uploads/GettyImages-1945727090-copy.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=ffd33165822abac37d9c590c136d6306",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/data-centers/tech-giants-want-clean-energy-in-n-c-is-duke-finally-ready-to-help",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-16T01-47_5",
+        "rank": 5,
+        "title": "Merck and Moderna have ‘lot of exploring to do’ after initial cancer vaccine success",
+        "category": "biotech",
+        "summary": "Stephen Hoge and Dean Li, at the STAT Summit, spoke of how Merck and Moderna will pair Keytruda with personalized mRNA vaccines to target tumors.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/10/STATday2269-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/10/15/moderna-merck-keytruda-mrna-cancer-vaccine-strategy/?utm_campaign=rss",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-10-15T22-42",
     "scannedAt": "2026-10-15T22:42:40.354Z",
     "items": [
@@ -57,6 +118,26 @@
         "source": "SpaceNews",
         "sourceUrl": "https://spacenews.com/applying-ai-to-the-geoint-mission-event/",
         "fromX": false
+      }
+    ]
+  },
+  {
+    "batchId": "editorial_2026-10-14",
+    "scannedAt": "2026-10-14T23:02:02.092Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-10-14",
+        "rank": 0,
+        "title": "Corporate Espionage, Artificial Smut, and the $6 Million Brueghel",
+        "category": "editorial",
+        "summary": "From hidden recording devices at OpenAI to Meta’s unapologetic foray into AI sexting, today’s landscape is defined by pushed boundaries and shifting paradigms.",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/dubai-police-lambo-2.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-10-14.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-10-14",
+        "authorName": "Dr. Wallace Lynch"
       }
     ]
   },
@@ -2307,67 +2388,6 @@
         "isEditorialArchive": true,
         "publishDate": "2026-09-13",
         "authorName": "Dr. Wallace Lynch"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-09-13T21-50",
-    "scannedAt": "2026-09-13T21:50:18.323Z",
-    "items": [
-      {
-        "id": "auto_2026-09-13T21-50_1",
-        "rank": 1,
-        "title": "Trump and Mike Johnson think the AI industry is overreacting",
-        "category": "general",
-        "summary": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support…",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-        "source": "The Verge",
-        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-13T21-50_2",
-        "rank": 2,
-        "title": "Scientists find a new layer of Alzheimer’s hidden in the genome",
-        "category": "neuroscience",
-        "summary": "Scientists found that the 3D organization of DNA is disrupted in several types of brain cells affected by Alzheimer’s disease, altering how important genes are switched on and off. The discovery reveals a previously…",
-        "image": "https://www.sciencedaily.com/images/1920/neuroscience-brain-puzzle-alzheimers-dementia.webp",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260912220051.htm",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-13T21-50_3",
-        "rank": 3,
-        "title": "Physicists can’t agree on how the Universe works",
-        "category": "space",
-        "summary": "A massive worldwide survey of physicists has revealed surprisingly little agreement about some of the universe’s biggest mysteries. No majority backed the standard cosmological model, a leading explanation for dark…",
-        "image": "https://www.sciencedaily.com/images/1920/quantum-gravity-curved-spacetime-galaxy.webp",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260912220041.htm",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-13T21-50_4",
-        "rank": 4,
-        "title": "AI uncovers hidden Ozempic side effects across 400,000 Reddit posts",
-        "category": "ai",
-        "summary": "AI analysis of 400,000 Reddit posts found that users of drugs such as Ozempic, Wegovy, Mounjaro, and Zepbound reported unexpected symptoms including menstrual changes, chills, hot flashes, and fatigue. Researchers…",
-        "image": "https://www.sciencedaily.com/images/1920/woman-face-close-up-surprise-worry-fear.webp",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260912222856.htm",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-13T21-50_5",
-        "rank": 5,
-        "title": "STAT+: Breast cancer pill from AstraZeneca misses mark in pivotal trial",
-        "category": "biotech",
-        "summary": "A pill from AstraZeneca failed to improve outcomes in closely watched breast cancer study, a result that could limit the use of the medicine.",
-        "image": "https://www.statnews.com/wp-content/uploads/2024/03/GettyImages-1213413730-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/09/12/astrazeneca-breast-cancer-camizestrant-etcamah-serena-4-trail-failure/?utm_campaign=rss",
-        "fromX": false
       }
     ]
   }
