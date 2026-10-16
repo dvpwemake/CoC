@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-10-16T01-47",
-    "scannedAt": "2026-10-16T01:47:04.239Z",
+    "batchId": "auto_2026-10-16T08-32",
+    "scannedAt": "2026-10-16T08:32:12.385Z",
     "items": [
       {
-        "id": "auto_2026-10-16T01-47_1",
+        "id": "auto_2026-10-16T08-32_1",
         "rank": 1,
-        "title": "The Tesla Roadster flew, drove upside down, and hit 60mph in under a second",
-        "category": "general",
-        "summary": "Elon Musk promised a flying car. And the Tesla Roadster did exactly that. Tesla demonstrated its next-generation Roadster at an event in Waco, Texas, where the electric supercar drove upside down, briefly flew, and…",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/HUtthGyaMAEkD-g.jpeg?quality=90&strip=all&crop=1.7172636523782%2C0%2C96.565472695244%2C100&w=1200",
-        "source": "The Verge",
-        "sourceUrl": "https://www.theverge.com/transportation/1012552/tesla-roadster-next-gen-reveal-elon-musk",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-16T01-47_2",
-        "rank": 2,
-        "title": "Best SAST Tools for Python and Java Automation Backends",
-        "category": "robotics",
-        "summary": "The movement of a robot arm occurs after a signal is sent out by the controller. But there is another world beyond the controller. There are Python services that queue up tasks. There are Java backends responding to API…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/aikido-security-diagram-2.png",
-        "source": "Robotics & Automation News",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/15/best-sast-tools-for-python-and-java-automation-backends/105982/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-16T01-47_3",
-        "rank": 3,
-        "title": "Brazil’s Centre Pompidou outpost delayed until 2029",
-        "category": "art",
-        "summary": "Originally due to open in 2027, then 2028, the project in the southern state of Paraná, where the government changed in the recent election, has been further delayed",
-        "image": "https://cdn.sanity.io/images/cxgd3urn/production/8eba8c605c340a65958a49196f60c68fd88f3ccd-2000x858.jpg?w=140",
-        "source": "The Art Newspaper",
-        "sourceUrl": "https://www.theartnewspaper.com/2026/10/15/brazil-centre-pompidou-outpost-delayed-2029",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-16T01-47_4",
-        "rank": 4,
-        "title": "Tech giants want clean energy in N.C. Is Duke finally ready to help?",
-        "category": "energy",
-        "summary": "In North Carolina, tech giants and other large corporations that want their own 24/7 carbon-free electricity have a problem. Across most of the state, only Duke Energy, the state’s vertically integrated utility, can…",
-        "image": "https://img.canarymedia.com/content/uploads/GettyImages-1945727090-copy.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=ffd33165822abac37d9c590c136d6306",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/data-centers/tech-giants-want-clean-energy-in-n-c-is-duke-finally-ready-to-help",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-16T01-47_5",
-        "rank": 5,
-        "title": "Merck and Moderna have ‘lot of exploring to do’ after initial cancer vaccine success",
+        "title": "STAT+: Coerced sex or a jealous ex? Jury weighs dueling accounts of star scientist David Sabatini’s downfall",
         "category": "biotech",
-        "summary": "Stephen Hoge and Dean Li, at the STAT Summit, spoke of how Merck and Moderna will pair Keytruda with personalized mRNA vaccines to target tumors.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/10/STATday2269-1024x576.jpg",
+        "summary": "Was molecular biologist David Sabatini a manipulative mentor who coerced a younger colleague into sex? Or was he the victim of a spurned former lover?",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/10/AJ74LKZQKGEGSGMU6CJMHSR5QY-1024x576.avif",
         "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/10/15/moderna-merck-keytruda-mrna-cancer-vaccine-strategy/?utm_campaign=rss",
+        "sourceUrl": "https://www.statnews.com/2026/10/16/david-sabatini-civil-trial-highlights-permissive-sexual-norms-whitehead-metoo/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-16T08-32_2",
+        "rank": 2,
+        "title": "Skild AI trains robots to learn physical skills through self-play",
+        "category": "robotics",
+        "summary": "Skild AI has demonstrated a new self-play training approach that enables robots to develop physical skills without relying on human demonstrations, using its S1 robotics foundation model to learn soccer through more…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/skild-ai-model-4.png",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/16/skild-ai-trains-robots-to-learn-physical-skills-through-self-play/105994/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-16T08-32_3",
+        "rank": 3,
+        "title": "US clean energy jobs fell in 2025 for the first time in years",
+        "category": "energy",
+        "summary": "See more from Canary Media’s ​“Chart of the Week” column . Clean energy installations have persisted at record levels despite President Donald Trump’s best efforts to stop them. But the first year of Trump’s second term…",
+        "image": "https://img.canarymedia.com/content/uploads/COTW-rooftop-solar-4_2026-10-15-195509_xcwk.png?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=80&w=1200&s=500fcdc042a8cbedb9efa60e9697be3d",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/clean-energy-jobs/trump-us-employment-falls-data-2025",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-16T08-32_4",
+        "rank": 4,
+        "title": "'I’ve learnt I can enjoy a work without having to acquire it': Dasha Shenkman on her approach to art collecting",
+        "category": "art",
+        "summary": "The UK-based collector tells us about her new Focus Fund supporting young artists at Frieze, buying a Jean Arp in instalments and her love of Fra Angelico’s frescoes",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/9c91123cf8b7757ba7cdf3f29ff0d0d60ff28a00-1240x1654.jpg?rect=0,0,1240,996&w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/10/16/ive-learnt-that-i-cant-buy-everything-i-like-dasha-shenkman-on-her-approach-to-art-collecting",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-16T08-32_5",
+        "rank": 5,
+        "title": "Skechers Coupon Codes 20% Off",
+        "category": "general",
+        "summary": "Learn how to find, compare, and apply the best Skechers online discounts to save on comfortable sneakers, athletic apparel, and accessories.",
+        "image": "https://media.wired.com/photos/67b63b972c751893c256c1e6/master/pass/WIRED-Coupons-R2_16.png",
+        "source": "WIRED",
+        "sourceUrl": "https://www.wired.com/story/skechers-coupon-codes/",
         "fromX": false
       }
     ]
