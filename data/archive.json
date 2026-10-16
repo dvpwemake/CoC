@@ -1,5 +1,25 @@
 [
   {
+    "batchId": "editorial_2026-10-14",
+    "scannedAt": "2026-10-14T23:02:02.092Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-10-14",
+        "rank": 0,
+        "title": "Corporate Espionage, Artificial Smut, and the $6 Million Brueghel",
+        "category": "editorial",
+        "summary": "From hidden recording devices at OpenAI to Meta’s unapologetic foray into AI sexting, today’s landscape is defined by pushed boundaries and shifting paradigms.",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/dubai-police-lambo-2.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-10-14.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-10-14",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-10-15T22-42",
     "scannedAt": "2026-10-15T22:42:40.354Z",
     "items": [
