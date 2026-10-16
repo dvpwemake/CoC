@@ -1,5 +1,25 @@
 [
   {
+    "batchId": "editorial_2026-10-15",
+    "scannedAt": "2026-10-16T00:40:02.193Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-10-15",
+        "rank": 0,
+        "title": "The Intersection of Commerce, Innovation, and Insight",
+        "category": "editorial",
+        "summary": "From AI interviews to cultural shifts, today's news reflects a changing reality.",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/5c55607462bad528eb7b294ed6c0c2b44344663e-2000x1334.jpg?w=140",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-10-15.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-10-15",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-10-16T19-03",
     "scannedAt": "2026-10-16T19:03:55.393Z",
     "items": [
