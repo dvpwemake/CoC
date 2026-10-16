@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-10-16T22-14",
+    "scannedAt": "2026-10-16T22:14:46.119Z",
+    "items": [
+      {
+        "id": "auto_2026-10-16T22-14_1",
+        "rank": 1,
+        "title": "Staff strike at Goldsmiths art school is now the longest in UK university history",
+        "category": "art",
+        "summary": "Students say they are not receiving marks or feedback, as dispute over the institution's restructuring programme has dragged on for 130 days",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/59fd0d7752aaabfd0d9b65a2bace3a1119253113-1197x838.jpg?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/10/16/staff-strike-at-goldsmiths-art-school-is-now-the-longest-in-uk-university-history",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-16T22-14_2",
+        "rank": 2,
+        "title": "Resetting Interneuron Timing Rescues Memory in Alzheimer’s",
+        "category": "neuroscience",
+        "summary": "Researchers discover how interneurons take turns to create gamma brain waves, and how restoring Nav1.1 reverses Alzheimer's memory loss.",
+        "image": "https://neurosciencenews.com/files/2026/10/interneurons-alzheimers-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/resetting-interneuron-alzheimers-memory-31317/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-16T22-14_3",
+        "rank": 3,
+        "title": "The Leap Second Is No More",
+        "category": "general",
+        "summary": "The metric might not mean much to laypeople, but leap seconds have been a source of contention in the timekeeping community for years. Now, they’re dead.",
+        "image": "https://media.wired.com/photos/6ad26223a56495c621c70456/master/pass/Science_PourOneOutfortheLeapSecond-ezgif.com-video-to-gif-converter.gif",
+        "source": "WIRED",
+        "sourceUrl": "https://www.wired.com/story/leap-second-is-abolished-bipm-says/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-16T22-14_4",
+        "rank": 4,
+        "title": "NASA Names Stephen Cash Marshall Space Flight Center Director",
+        "category": "space",
+        "summary": "NASA Administrator Jared Isaacman has named Stephen Cash director of the agency’s Marshall Space Flight Center in Huntsville, Alabama, effective Monday, Oct. 19. Cash, a veteran NASA engineer and aerospace executive,…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/10/steve-cash-photo.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-16T22-14_5",
+        "rank": 5,
+        "title": "Why MVP App Development is the Smartest First Move",
+        "category": "robotics",
+        "summary": "Great digital products rarely arrive fully formed. For startups, product teams, and established companies testing a new concept, custom MVP app development services can turn a promising idea into a working product…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/software-development-1.jpg",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/16/why-mvp-app-development-is-the-smartest-first-move/106011/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "editorial_2026-10-15",
     "scannedAt": "2026-10-16T00:40:02.193Z",
     "kind": "editorial_archive",
@@ -16,67 +77,6 @@
         "isEditorialArchive": true,
         "publishDate": "2026-10-15",
         "authorName": "Dr. Wallace Lynch"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-10-16T19-03",
-    "scannedAt": "2026-10-16T19:03:55.393Z",
-    "items": [
-      {
-        "id": "auto_2026-10-16T19-03_1",
-        "rank": 1,
-        "title": "All the Art You Need to See during Paris Art Week 2026",
-        "category": "art",
-        "summary": "Like many, I don’t think you ever need an excuse to go to Paris. But with Art Basel Paris returning to the Grand Palais from October 23rd to 25th, there’s an especially good reason to plan a fall escape to the City of…",
-        "image": "https://artsy-media-uploads.s3.amazonaws.com/oRRWB7WPOtSW4XgMBduuLQ%2FPrint_approx_21_x_14_cm_ABP25__Public_Interactions__PR__General_I_HiRes.jpeg",
-        "source": "Artsy",
-        "sourceUrl": "https://www.artsy.net/article/artsy-editorial-art-paris-art-week-2026",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-16T19-03_2",
-        "rank": 2,
-        "title": "How Personal Injury Lawyers Can Automate Medical Chronologies: 6 Best AI Tools in 2026",
-        "category": "robotics",
-        "summary": "Personal injury lawyers can automate medical chronologies by using AI to extract treatment dates, providers, diagnoses, and procedures from medical records, then organize those details into a timeline linked to the…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/personal-injury-lawyers-software.png",
-        "source": "Robotics & Automation News",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/16/how-personal-injury-lawyers-can-automate-medical-chronologies-6-best-ai-tools-in-2026/106007/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-16T19-03_3",
-        "rank": 3,
-        "title": "Boosting Wnt Signaling Reverses APOE4 Alzheimer’s Damage",
-        "category": "neuroscience",
-        "summary": "APOE4 suppresses Wnt signaling in oligodendrocytes, trapping fats in lipid droplets and breaking down brain insulation in Alzheimer's.",
-        "image": "https://neurosciencenews.com/files/2026/10/oligodendricited-apoe4-alzheimers-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/wnt-signaling-apoe4-alzheimers-31316/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-16T19-03_4",
-        "rank": 4,
-        "title": "Why Apple is finally making its own smart home devices",
-        "category": "general",
-        "summary": "For more than a decade, Apple has told other companies to build smart home devices for its platform. This week, Apple launched its own. The Apple Home Collection is a lineup of cameras, thermostats, sensors, a smart…",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_0432-1.jpeg?quality=90&strip=all&crop=0%2C13.682116815382%2C100%2C46.727917872554&w=1200",
-        "source": "The Verge",
-        "sourceUrl": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-16T19-03_5",
-        "rank": 5,
-        "title": "Artemis II Heat Shield After Splashdown",
-        "category": "space",
-        "summary": "Shortly after NASA's Artemis II mission splashed down on April 10, 2026, U.S. Navy divers captured underwater imagery of the Orion spacecraft’s heat shield. In the months after, the agency measured whether the thermal…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/10/ksc-20260411-navy01-0045orig-rotated.jpg",
-        "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/image-article/artemis-ii-heat-shield-after-splashdown/",
-        "fromX": false
       }
     ]
   },

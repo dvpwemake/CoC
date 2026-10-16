@@ -1,5 +1,55 @@
 [
   {
+    "batchId": "auto_2026-07-13T20-45",
+    "scannedAt": "2026-07-13T20:45:36.490Z",
+    "items": [
+      {
+        "id": "auto_2026-07-13T20-45_1",
+        "rank": 1,
+        "title": "Testosterone Drives Early Pubertal Distress in Girls",
+        "category": "neuroscience",
+        "summary": "A new study demonstrates that rising testosterone levels are a primary predictor of anxiety and depression symptoms in preteens aged 10 to 12.",
+        "image": "https://neurosciencenews.com/files/2026/07/testosterone-pubity-emotion-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/testosterone-puberty-girls-emotional-distress-31042/",
+        "imageProxy": "https://images.weserv.nl/?url=neurosciencenews.com%2Ffiles%2F2026%2F07%2Ftestosterone-pubity-emotion-neuroscience-1155x770.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-07-13T20-45_3",
+        "rank": 3,
+        "title": "STAT+: Dementia study replicates promising outcomes following risk-reduction strategies",
+        "category": "biotech",
+        "summary": "A dementia prevention trial praised as a \"landmark\" effort further demonstrated the promise of structured programs tailored to local cultures.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/07/unnamed-1-4-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/07/13/aaic-in-30-alzheimers-treaatments-dementia-day-2-conference/?utm_campaign=rss",
+        "imageProxy": "https://images.weserv.nl/?url=www.statnews.com%2Fwp-content%2Fuploads%2F2026%2F07%2Funnamed-1-4-1024x576.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-07-13T20-45_4",
+        "rank": 4,
+        "title": "NASA Astronaut Anil Menon",
+        "category": "space",
+        "summary": "NASA astronaut Anil Menon poses in a spacesuit for a portrait at NASA's Johnson Space Center in Houston, Texas on Jan. 8, 2026. Menon will launch aboard the Roscosmos Soyuz MS-29 spacecraft to the International Space…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/07/jsc2026e000758orig.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/image-article/nasa-astronaut-anil-menon/",
+        "imageProxy": "https://images.weserv.nl/?url=www.nasa.gov%2Fwp-content%2Fuploads%2F2026%2F07%2Fjsc2026e000758orig.jpg&w=640&h=400&fit=cover&we&output=jpg"
+      },
+      {
+        "id": "auto_2026-07-13T20-45_5",
+        "rank": 5,
+        "title": "A new deal on balcony solar just dropped in the US",
+        "category": "energy",
+        "summary": "Do you live in the U.S. and want balcony solar ? A new initiative could help you get a deal on one of these small but mighty systems that plug into a standard outlet and push clean power into your home. Today,…",
+        "image": "https://img.canarymedia.com/content/uploads/Balcony-Solar-on-Deck.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=a9a2ae85c3d9e6f8c36ffaad3590cef4",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/solar/balcony-panel-bright-saver-deal",
+        "imageProxy": "https://images.weserv.nl/?url=img.canarymedia.com%2Fcontent%2Fuploads%2FBalcony-Solar-on-Deck.jpeg%3Fauto%3Dcompress%252Cformat%26crop%3Dfocalpoint%26fit%3Dcrop%26fp-x%3D0.5%26fp-y%3D0.5%26h%3D630%26q%3D82%26w%3D1200%26s%3Da9a2ae85c3d9e6f8c36ffaad3590cef4&w=640&h=400&fit=cover&we&output=jpg"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-07-12T20-32",
     "scannedAt": "2026-07-12T20:32:43.736Z",
     "items": [

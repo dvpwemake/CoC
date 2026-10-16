@@ -1,5 +1,25 @@
 [
   {
+    "batchId": "editorial_2026-09-13",
+    "scannedAt": "2026-09-13T23:25:20.600Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-09-13",
+        "rank": 0,
+        "title": "No majority",
+        "category": "editorial",
+        "summary": "The forum named the chill. Memphis stacked the pack",
+        "image": "https://www.sciencedaily.com/images/1920/woman-face-close-up-surprise-worry-fear.webp",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-09-13.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-09-13",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-09-13T21-50",
     "scannedAt": "2026-09-13T21:50:18.323Z",
     "items": [
@@ -2327,26 +2347,6 @@
         "source": "STAT News",
         "sourceUrl": "https://www.statnews.com/2026/08/14/luigi-mangione-federal-charges-guilty-plea-killing-of-unitedhealthcare-ceo-brian-thompson/?utm_campaign=rss",
         "fromX": false
-      }
-    ]
-  },
-  {
-    "batchId": "editorial_2026-08-14",
-    "scannedAt": "2026-08-15T03:27:27.402Z",
-    "kind": "editorial_archive",
-    "items": [
-      {
-        "id": "editorial_2026-08-14",
-        "rank": 0,
-        "title": "What the replica can open, and what the skull cannot keep sealed",
-        "category": "editorial",
-        "summary": "Convergence of the locked original and the living crossing",
-        "image": "https://www.statnews.com/wp-content/uploads/2024/06/AP24158651812213-1024x576.jpg",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-14.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-08-14",
-        "authorName": "Dr. Wallace Lynch"
       }
     ]
   }
