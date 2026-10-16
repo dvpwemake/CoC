@@ -1,65 +1,105 @@
 {
   "published": {
-    "id": "ed_2026-10-14",
-    "publishDate": "2026-10-14",
+    "id": "ed_2026-10-15",
+    "publishDate": "2026-10-15",
     "status": "published",
-    "updatedAt": "2026-10-14T23:02:02.092Z",
-    "title": "Corporate Espionage, Artificial Smut, and the $6 Million Brueghel",
-    "dek": "From hidden recording devices at OpenAI to Meta’s unapologetic foray into AI sexting, today’s landscape is defined by pushed boundaries and shifting paradigms.",
+    "updatedAt": "2026-10-16T00:40:02.193Z",
+    "title": "The Intersection of Commerce, Innovation, and Insight",
+    "dek": "From AI interviews to cultural shifts, today's news reflects a changing reality.",
     "authorName": "Dr. Wallace Lynch",
     "authorTitle": "Editor in Chief",
-    "body": "Big Tech’s edges are looking sharper and distinctly less polished this week. Meta is currently taking heat from the Senate Finance Committee over $6.6 billion in tax avoidance for its sprawling data centers, while simultaneously defending its Muse AI agent’s penchant for generating graphic smut as perfectly acceptable \"legal adult behavior.\" Meanwhile, OpenAI is dealing with a decidedly old-school flavor of corporate espionage, following the arrest of a 35-year-old engineer who allegedly planted a sophisticated recording device hidden inside their offices.\n\nIn the biotech and healthcare sectors, major financial plays are rapidly reshaping the future of patient care. BlackRock is snapping up a majority stake in Humana’s CenterWell clinics for a cool $2.8 billion, cleanly swapping out private equity for institutional asset management. Concurrently, consumer wearable darling Whoop is pivoting its focus toward population health by building infrastructure specifically for Medicare patients. This institutional evolution is matched by critical, long-overdue pivots in neuroscience. After decades and billions of dollars spent chasing amyloid beta, researchers are finally looking toward hidden Alzheimer's culprits—simultaneously uncovering stark, actionable links between PMOS, insulin resistance, and increased dementia risks in women.\n\nAcross the Atlantic, old money and cultural legacies continue to dominate the conversation. Frieze London and Frieze Masters opened with a predictable bang as a $6 million Jan Brueghel the Elder painting led VIP day sales. Yet, the politics of ownership remain a hot-button issue, highlighted by an Austrian presidential hopeful actively leveraging the repatriation of Moctezuma’s 16th-century feather headdress to Mexico as a key 2028 campaign platform. In the realm of pure, unadulterated excess, Dubai Police just casually added a 920-horsepower hybrid Lamborghini Temerario to their tourist patrol fleet.\n\nFinally, a grounding nod to the stars: NASA has officially appointed veteran astronaut Christina Koch as acting deputy chief engineer. It is a quiet, monumental promotion that cleanly cuts through the noise of our terrestrial chaos.",
+    "body": "The interplay between technological advancement and human experience is taking center stage, both in corporate boardrooms and on the silver screen. As highlighted by The Verge, Hollywood is currently stacked with features offering critical looks at Silicon Valley’s societal impact, marking a cultural backlash against the very tech that is simultaneously becoming ubiquitous.\n\nThis tech integration is undeniably active in the professional world. McKinsey & Company is now requiring entry-level candidates to spar with an AI simulation of a client during interviews, a move that underscores the rapidly changing nature of human-computer interaction in the workplace. Further down the industrial line, ensuring the integrity of smart manufacturing software is critical, as Robotics & Automation News points out; a single vulnerability can compromise entire data chains.\n\nMeanwhile, the life sciences and healthcare sectors are experiencing structural shifts. The Trump administration is advancing plans to allow specialty pharmacies to produce certain peptides favored by Health Secretary Robert F. Kennedy Jr., despite their largely unregulated status. In the corporate healthcare sphere, Humana is shifting private equity sponsors, with BlackRock set to acquire a majority stake in CenterWell clinics for $2.8 billion.\n\nAgainst this backdrop of rapid commercial and technological change, there remains a deep need for humanistic understanding and basic research. STAT News reports that U.S. science leaders are defending the role of American universities against a White House shift in research funding toward industry. And as a reminder of our enduring humanity, Neuroscience News shares that reading fiction can foster empathy and help readers forgive real-world offenders. Whether exploring the legacy of late gallerist Peter Nagy or the upcoming NASA spacewalks, it's clear that the human drive for discovery and connection remains a constant force amidst shifting paradigms.",
     "paragraphs": [
-      "Big Tech’s edges are looking sharper and distinctly less polished this week. Meta is currently taking heat from the Senate Finance Committee over $6.6 billion in tax avoidance for its sprawling data centers, while simultaneously defending its Muse AI agent’s penchant for generating graphic smut as perfectly acceptable \"legal adult behavior.\" Meanwhile, OpenAI is dealing with a decidedly old-school flavor of corporate espionage, following the arrest of a 35-year-old engineer who allegedly planted a sophisticated recording device hidden inside their offices.",
-      "In the biotech and healthcare sectors, major financial plays are rapidly reshaping the future of patient care. BlackRock is snapping up a majority stake in Humana’s CenterWell clinics for a cool $2.8 billion, cleanly swapping out private equity for institutional asset management. Concurrently, consumer wearable darling Whoop is pivoting its focus toward population health by building infrastructure specifically for Medicare patients. This institutional evolution is matched by critical, long-overdue pivots in neuroscience. After decades and billions of dollars spent chasing amyloid beta, researchers are finally looking toward hidden Alzheimer's culprits—simultaneously uncovering stark, actionable links between PMOS, insulin resistance, and increased dementia risks in women.",
-      "Across the Atlantic, old money and cultural legacies continue to dominate the conversation. Frieze London and Frieze Masters opened with a predictable bang as a $6 million Jan Brueghel the Elder painting led VIP day sales. Yet, the politics of ownership remain a hot-button issue, highlighted by an Austrian presidential hopeful actively leveraging the repatriation of Moctezuma’s 16th-century feather headdress to Mexico as a key 2028 campaign platform. In the realm of pure, unadulterated excess, Dubai Police just casually added a 920-horsepower hybrid Lamborghini Temerario to their tourist patrol fleet.",
-      "Finally, a grounding nod to the stars: NASA has officially appointed veteran astronaut Christina Koch as acting deputy chief engineer. It is a quiet, monumental promotion that cleanly cuts through the noise of our terrestrial chaos."
+      "The interplay between technological advancement and human experience is taking center stage, both in corporate boardrooms and on the silver screen. As highlighted by The Verge, Hollywood is currently stacked with features offering critical looks at Silicon Valley’s societal impact, marking a cultural backlash against the very tech that is simultaneously becoming ubiquitous.",
+      "This tech integration is undeniably active in the professional world. McKinsey & Company is now requiring entry-level candidates to spar with an AI simulation of a client during interviews, a move that underscores the rapidly changing nature of human-computer interaction in the workplace. Further down the industrial line, ensuring the integrity of smart manufacturing software is critical, as Robotics & Automation News points out; a single vulnerability can compromise entire data chains.",
+      "Meanwhile, the life sciences and healthcare sectors are experiencing structural shifts. The Trump administration is advancing plans to allow specialty pharmacies to produce certain peptides favored by Health Secretary Robert F. Kennedy Jr., despite their largely unregulated status. In the corporate healthcare sphere, Humana is shifting private equity sponsors, with BlackRock set to acquire a majority stake in CenterWell clinics for $2.8 billion.",
+      "Against this backdrop of rapid commercial and technological change, there remains a deep need for humanistic understanding and basic research. STAT News reports that U.S. science leaders are defending the role of American universities against a White House shift in research funding toward industry. And as a reminder of our enduring humanity, Neuroscience News shares that reading fiction can foster empathy and help readers forgive real-world offenders. Whether exploring the legacy of late gallerist Peter Nagy or the upcoming NASA spacewalks, it's clear that the human drive for discovery and connection remains a constant force amidst shifting paradigms."
     ],
-    "wordCount": 311,
-    "heroImage": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/dubai-police-lambo-2.jpg",
-    "heroCredit": "Dubai Police adds 920-horsepower hybrid Lamborghini Temerario to patrol fleet",
-    "heroSource": "Robotics & Automation News",
-    "heroSourceUrl": "https://roboticsandautomationnews.com/2026/10/14/dubai-police-adds-920-horsepower-hybrid-lamborghini-temerario-to-patrol-fleet/105932/",
+    "wordCount": 286,
+    "heroImage": "https://cdn.sanity.io/images/cxgd3urn/production/5c55607462bad528eb7b294ed6c0c2b44344663e-2000x1334.jpg?w=140",
+    "heroCredit": "British Museum’s chair optimistic on possible alternating display of Parthenon Marbles in Athens and London",
+    "heroSource": "The Art Newspaper",
+    "heroSourceUrl": "https://www.theartnewspaper.com/2026/10/15/british-museum-george-osborne-parthenon-marbles-alternating-display-athens-london",
     "headlines": [
       {
-        "title": "$6 million Jan Brueghel the Elder painting leads sales at Frieze London and Frieze Masters 2026.",
-        "source": "Artsy",
+        "title": "British Museum’s chair optimistic on possible alternating display of Parthenon Marbles in Athens and London",
+        "source": "The Art Newspaper",
         "category": "art",
-        "sourceUrl": "https://www.artsy.net/article/artsy-editorial-6-million-jan-brueghel-elder-painting-leads-sales-frieze-london-frieze-masters-2026",
-        "summary": "A painting by Flemish master Jan Brueghel the Elder led reported sales during the opening day of Frieze London and Frieze Masters 2026, as both fairs welcomed VIPs to Regent’s Park on Wednesday, October 14th. Early…",
-        "image": "https://artsy-media-uploads.s3.amazonaws.com/HOfyrzHj5Ggc_xc0ngdsQQ%2FBRU147989+EH100926+view01-hires_1500x1000.jpg"
+        "sourceUrl": "https://www.theartnewspaper.com/2026/10/15/british-museum-george-osborne-parthenon-marbles-alternating-display-athens-london",
+        "summary": "The chair of the museum’s board of trustees told a Greek newspaper he would “like to reach an agreement” for a rotating display in Athens and London, but Greek authorities remain opposed",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/5c55607462bad528eb7b294ed6c0c2b44344663e-2000x1334.jpg?w=140"
       },
       {
-        "title": "How consumer tech company Whoop is building for Medicare patients",
+        "title": "Trump administration advances plan for peptide drugs favored by RFK Jr.",
         "source": "STAT News",
         "category": "biotech",
-        "sourceUrl": "https://www.statnews.com/2026/10/14/whoop-ami-bhatt-population-health-stat-summit-boston-2026/?utm_campaign=rss",
-        "summary": "Whoop's chief medical officer, said the company's work with Medicare is an opportunity to prove its ability to improve health at the population level.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/10/STATday1227-1024x576.jpg"
+        "sourceUrl": "https://www.statnews.com/2026/10/15/trump-administration-advances-plan-peptides-rfk-jr/?utm_campaign=rss",
+        "summary": "U.S. health officials are moving ahead with a plan to allow specialty pharmacies to produce certain peptides, a class of largely unregulated injections favored by health secretary Robert F. Kennedy…",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/08/AP26215050550263-1024x576.jpg"
       },
       {
-        "title": "Senators Question Meta’s Data Center Tax Strategy",
-        "source": "NYT Technology",
+        "title": "The tech backlash is now in theaters",
+        "source": "The Verge",
         "category": "general",
-        "sourceUrl": "https://www.nytimes.com/2026/10/14/technology/meta-senators-tax-avoidance.html",
-        "summary": "Democrats on the Senate Finance Committee sent a letter to Mark Zuckerberg, Meta’s chief executive, questioning the company’s $6.6 billion in tax breaks.",
-        "image": "https://static01.nyt.com/images/2026/10/14/multimedia/14biz-meta-tax-senators-thgz/14biz-meta-tax-senators-thgz-mediumSquareAt3X.jpg"
+        "sourceUrl": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
+        "summary": "Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping our reality. Aaron Sorkin's The Social…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-5.28.21-PM.png?quality=90&strip=all&crop=0%2C15.21666481007%2C100%2C69.56667037986&w=1200"
       },
       {
-        "title": "Scientists may have overlooked a hidden Alzheimer's culprit for decades",
-        "source": "ScienceDaily",
-        "category": "neuroscience",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261013015838.htm",
-        "summary": "For decades, scientists have focused on amyloid beta as a major culprit behind Alzheimer’s disease, spending billions of dollars developing treatments that have often delivered disappointing results. Now, researchers at…",
-        "image": "https://www.sciencedaily.com/images/1920/tau-tangles-amyloid-beta-neuron-cells-in-brain-alzheimers-dementia.webp"
-      },
-      {
-        "title": "Dubai Police adds 920-horsepower hybrid Lamborghini Temerario to patrol fleet",
+        "title": "Best Application Security Platforms for Smart Manufacturing Software",
         "source": "Robotics & Automation News",
         "category": "robotics",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/14/dubai-police-adds-920-horsepower-hybrid-lamborghini-temerario-to-patrol-fleet/105932/",
-        "summary": "Dubai Police has added a Lamborghini Temerario hybrid supercar to its luxury patrol fleet, continuing the force’s practice of deploying high-performance vehicles at tourist destinations and other busy areas across the…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/dubai-police-lambo-2.jpg"
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/15/best-application-security-platforms-for-smart-manufacturing-software/105985/",
+        "summary": "A dashboard shows a temperature spike. That number came from somewhere. An API picked it up. A service moved it along. A query pulled it out of storage. One weak spot anywhere in that chain and the reading can lie. The…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/aikido-security-1.png"
+      },
+      {
+        "title": "Oct. 29: Applying AI to the GEOINT Mission",
+        "source": "SpaceNews",
+        "category": "space",
+        "sourceUrl": "https://spacenews.com/applying-ai-to-the-geoint-mission-event/",
+        "summary": "Join us for a conversation on how machine learning is transforming the GEOINT mission across different markets The post Oct. 29: Applying AI to the GEOINT Mission appeared first on SpaceNews .",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/2026-10-29-vantor-spacenews_2000-1500-scaled.jpg?fit=1024%2C768&ssl=1"
+      },
+      {
+        "title": "Nature Morte Founder Peter Nagy, Champion of Contemporary Indian Art, Dead at 67",
+        "source": "Artforum",
+        "category": "art",
+        "sourceUrl": "https://www.artforum.com/news/nature-morte-founder-peter-nagy-dead-at-67-1234761393/",
+        "summary": "Artist Peter Nagy, whose Nature Morte gallery was instrumental in bringing contemporary Indian art to the attention of international audiences, died on October 13 in New Delhi following a long illness. He was…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/10/nagy.webp?w=650"
+      },
+      {
+        "title": "As White House shifts focus toward AI and tech, U.S. science leaders defend role of the American university",
+        "source": "STAT News",
+        "category": "biotech",
+        "sourceUrl": "https://www.statnews.com/2026/10/14/american-science-funding-university-industry-shift-stat-summit-boston-2026/?utm_campaign=rss",
+        "summary": "White House planned shift of research funding from universities to industry risks creating a drought in basic research, science leaders say",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/10/STATday1111-1024x576.jpg"
+      },
+      {
+        "title": "McKinsey is making job applicants spar with a fake AI client",
+        "source": "The Verge",
+        "category": "general",
+        "sourceUrl": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
+        "summary": "Consulting firm McKinsey & Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a client as part of the interview process, according to The Wall Street Journal.…",
+        "image": ""
+      },
+      {
+        "title": "Reading Fiction Can Rewire Real-World Forgiveness and Empathy",
+        "source": "Neuroscience News",
+        "category": "neuroscience",
+        "sourceUrl": "https://neurosciencenews.com/reading-fiction-empathy-psychology-31314/",
+        "summary": "A study of 1,563 people reveals that reading a character's private remorse fosters empathy that helps readers forgive real-world offenders.",
+        "image": "https://neurosciencenews.com/files/2026/10/empahty-literature-neuroscience-1155x770.jpg"
+      },
+      {
+        "title": "NASA to Host News Conference Previewing US Spacewalks 100, 101",
+        "source": "NASA",
+        "category": "space",
+        "sourceUrl": "https://www.nasa.gov/news-release/nasa-to-host-news-conference-previewing-us-spacewalks-100-101/",
+        "summary": "NASA will preview two upcoming spacewalks to complete solar array installation and power augmentation of the International Space Station during a news conference at 2 p.m. EDT, Tuesday, Oct. 20, from NASA’s Johnson…",
+        "image": "https://images-assets.nasa.gov/image/iss075e0011109/iss075e0011109~large.jpg"
       },
       {
         "title": "Architect Junya Ishigami Wins Inaugural $100,000 Barragán Prize",
@@ -76,52 +116,34 @@
         "sourceUrl": "https://www.statnews.com/2026/10/13/blackrock-humana-centerwell-deal-senior-care-medicare-clinics/?utm_campaign=rss",
         "summary": "Humana is swapping out private equity sponsors for its CenterWell Senior Primary Care clinics. Good bye, Welsh, Carson, Anderson & Stowe. Hello, BlackRock.",
         "image": "https://www.statnews.com/wp-content/uploads/2026/10/GettyImages-2256485829-1024x576.jpg"
-      },
-      {
-        "title": "OpenAI employee arrested for allegedly planting recording device",
-        "source": "The Verge",
-        "category": "general",
-        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
-        "summary": "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices. The employee, 35-year-old Abdulrahman Alfozan, is charged with using or attempting to…",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-      },
-      {
-        "title": "PCOS/PMOS Increases Alzheimer’s Risk",
-        "source": "Neuroscience News",
-        "category": "neuroscience",
-        "sourceUrl": "https://neurosciencenews.com/pcos-pmos-alzheimers-risk-31312/",
-        "summary": "Women with PMOS (formerly PCOS) face higher risks for Alzheimer's and dementia, driven largely by insulin resistance and obesity.",
-        "image": "https://neurosciencenews.com/files/2026/10/pcos-alzheimers-neuroscience-1155x770.jpg"
-      },
-      {
-        "title": "NASA Names Astronaut Christina Koch Acting Deputy Chief Engineer",
-        "source": "NASA",
-        "category": "space",
-        "sourceUrl": "https://www.nasa.gov/news-release/nasa-names-astronaut-christina-koch-acting-deputy-chief-engineer/",
-        "summary": "NASA engineer and astronaut Christina Koch will serve as the agency’s acting deputy chief engineer beginning on Sunday, Nov. 1, following the retirement of Katherine Van Hooser, who will conclude more than 35 years of…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/10/christina-koch-release-oct-13.jpg"
-      },
-      {
-        "title": "Austrian Presidential Hopeful Vows To Repatriate Moctezuma’s Headdress To Mexico",
-        "source": "Artforum",
-        "category": "art",
-        "sourceUrl": "https://www.artforum.com/news/austrian-presidential-hopeful-vows-to-repatriate-headdress-1234761280/",
-        "summary": "Gunther Fehlinger-Jahn, an Austrian economist, analyst, and 2028 presidential hopeful, has declared his intent to return a 16th-century feather headdress to Mexico if he is elected. The artifact is from the Aztec or…",
-        "image": "https://www.artforum.com/wp-content/uploads/2026/10/GettyImages-1229084755.jpg?w=650"
-      },
-      {
-        "title": "I Got My Muse AI Agent to Sext Me—and Meta Says That’s Totally Fine",
-        "source": "WIRED",
-        "category": "general",
-        "sourceUrl": "https://www.wired.com/story/i-got-my-muse-ai-agent-to-sext-me-and-meta-says-thats-totally-fine/",
-        "summary": "My Muse agent told me its kink was exerting “control” and described pornographic encounters. Meta defends its cuddly AI agent generating smut as “legal adult behavior.”",
-        "image": "https://media.wired.com/photos/6acceab31cb30cd3ed00af79/master/pass/101226-Meta%20Muse%20Sexual%20Content.jpg"
       }
     ],
-    "publishedAt": "2026-10-14T23:02:02.092Z"
+    "publishedAt": "2026-10-16T00:40:02.193Z"
   },
   "drafts": {},
   "history": [
+    {
+      "id": "ed_2026-10-15",
+      "publishDate": "2026-10-15",
+      "status": "published",
+      "updatedAt": "2026-10-16T00:40:02.193Z",
+      "title": "The Intersection of Commerce, Innovation, and Insight",
+      "dek": "From AI interviews to cultural shifts, today's news reflects a changing reality.",
+      "authorName": "Dr. Wallace Lynch",
+      "authorTitle": "Editor in Chief",
+      "paragraphs": [
+        "The interplay between technological advancement and human experience is taking center stage, both in corporate boardrooms and on the silver screen. As highlighted by The Verge, Hollywood is currently stacked with features offering critical looks at Silicon Valley’s societal impact, marking a cultural backlash against the very tech that is simultaneously becoming ubiquitous.",
+        "This tech integration is undeniably active in the professional world. McKinsey & Company is now requiring entry-level candidates to spar with an AI simulation of a client during interviews, a move that underscores the rapidly changing nature of human-computer interaction in the workplace. Further down the industrial line, ensuring the integrity of smart manufacturing software is critical, as Robotics & Automation News points out; a single vulnerability can compromise entire data chains.",
+        "Meanwhile, the life sciences and healthcare sectors are experiencing structural shifts. The Trump administration is advancing plans to allow specialty pharmacies to produce certain peptides favored by Health Secretary Robert F. Kennedy Jr., despite their largely unregulated status. In the corporate healthcare sphere, Humana is shifting private equity sponsors, with BlackRock set to acquire a majority stake in CenterWell clinics for $2.8 billion.",
+        "Against this backdrop of rapid commercial and technological change, there remains a deep need for humanistic understanding and basic research. STAT News reports that U.S. science leaders are defending the role of American universities against a White House shift in research funding toward industry. And as a reminder of our enduring humanity, Neuroscience News shares that reading fiction can foster empathy and help readers forgive real-world offenders. Whether exploring the legacy of late gallerist Peter Nagy or the upcoming NASA spacewalks, it's clear that the human drive for discovery and connection remains a constant force amidst shifting paradigms."
+      ],
+      "wordCount": 286,
+      "heroImage": "https://cdn.sanity.io/images/cxgd3urn/production/5c55607462bad528eb7b294ed6c0c2b44344663e-2000x1334.jpg?w=140",
+      "heroCredit": "British Museum’s chair optimistic on possible alternating display of Parthenon Marbles in Athens and London",
+      "heroSource": "The Art Newspaper",
+      "heroSourceUrl": "https://www.theartnewspaper.com/2026/10/15/british-museum-george-osborne-parthenon-marbles-alternating-display-athens-london",
+      "publishedAt": "2026-10-16T00:40:02.193Z"
+    },
     {
       "id": "ed_2026-10-14",
       "publishDate": "2026-10-14",
@@ -1513,29 +1535,6 @@
       "heroSource": "spacenews.com",
       "heroSourceUrl": "https://images.nasa.gov/details/PIA15416",
       "publishedAt": "2026-07-27T23:46:40.604Z"
-    },
-    {
-      "id": "ed_2026-07-26",
-      "publishDate": "2026-07-26",
-      "status": "published",
-      "updatedAt": "2026-07-26T15:02:31.678Z",
-      "title": "What Tips: Convergence of biological threshold and civic near-miss",
-      "dek": "Thresholds in the brain, on the fire line, and in the public room.",
-      "authorName": "Dr. Wallace Lynch",
-      "authorTitle": "Editor in Chief",
-      "paragraphs": [
-        "Somewhere in the brain’s long argument with plaques and tau, scientists now sketch a possible tipping point: not the debris alone, but how immune cells answer it—and whether that answer helps decide who crosses into dementia. SuperAging still refuses a simple genetic score. Risk is real; a threshold is not a barcode.",
-        "Chronicle of Convergence is not a clinic brief or a crisis ticker. It is a daily reading of American life where culture, society, technology, and faith already share the same rooms. On Sunday, July 26, 2026, we hold that reading to one pressure: what tips a system from strain into break—or into recovery.",
-        "The sky offers a near miss. NASA and ESA ground stations in Spain escape major damage as wildfires run the country—deep-space infrastructure living inside terrestrial flames. Elsewhere velocity is sold and old facts are staged as scandal: Gemini’s lighter Flash models open through official APIs; solar’s silence at night is treated as revelation; United Launch Alliance’s parents backstop a loan while Vulcan stays grounded. A former FDA food-safety leader insists the public should not choose between nutrition and protection from outbreaks. Platforms still stack data governance in five-layer charts while the fire line is a single test.",
-        "Art and power keep choosing what the room must admire. A freed political prisoner stands beside Nolan’s Odyssey and Hockney’s iPad canvases—captivity, taste, and the pressure to pretend. In the Rose Garden, Jefferson arrives in bronze under a presidency that favors theatrical monuments. Last week’s desk asked what happens after the error; today asks what decides the crossing.",
-        "Convergence is not only how fast fields accelerate. It is whether we can name the threshold—immune, ecological, civic—before the room tips past judgment."
-      ],
-      "wordCount": 283,
-      "heroImage": "https://neurosciencenews.com/files/2026/07/restricted-eating-cognition-neuroscience-1155x770.jpg",
-      "heroCredit": "Restricted Eating Windows Aid Cognitive Function",
-      "heroSource": "Neuroscience News",
-      "heroSourceUrl": "https://neurosciencenews.com/restricted-eating-cognition-aging-31130/",
-      "publishedAt": "2026-07-26T15:02:31.678Z"
     }
   ],
   "usedHeroImages": [
@@ -1789,6 +1788,7 @@
     "https://www.statnews.com/wp-content/uploads/2026/08/AP24170523760086-1024x576.jpg",
     "https://www.thisiscolossal.com/wp-content/uploads/2026/10/pneuhaus-7.jpg",
     "https://artsy-media-uploads.s3.amazonaws.com/HOfyrzHj5Ggc_xc0ngdsQQ%2FBRU147989+EH100926+view01-hires_1500x1000.jpg",
-    "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/dubai-police-lambo-2.jpg"
+    "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/dubai-police-lambo-2.jpg",
+    "https://cdn.sanity.io/images/cxgd3urn/production/5c55607462bad528eb7b294ed6c0c2b44344663e-2000x1334.jpg?w=140"
   ]
 }
