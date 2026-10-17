@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-10-17T01-41",
+    "scannedAt": "2026-10-17T01:41:43.834Z",
+    "items": [
+      {
+        "id": "auto_2026-10-17T01-41_1",
+        "rank": 1,
+        "title": "All the news about the iPhone Duo",
+        "category": "general",
+        "summary": "Apple has finally announced its long-rumored foldable: the iPhone Duo. The new phone has a 5.4-inch outer display and a 7.6-inch inner display, a “nano‑texture” finish on the inner screen, and barely any visible crease.…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_Duo_handson_ADiBenedetto_0017.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "sourceUrl": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-17T01-41_2",
+        "rank": 2,
+        "title": "‘Artist-first’ Fair Play launches to strong attendance but slow sales during London Frieze week",
+        "category": "art",
+        "summary": "The gallery-free fair takes a commission rather than charging a stand fee",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/a69b3791b6beccbe024838cb3fc712a0561a308d-691x461.jpg?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/10/16/artist-first-fair-play-launches-to-strong-attendance-but-slow-sales-during-frieze-week",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-17T01-41_3",
+        "rank": 3,
+        "title": "How Personal Injury Lawyers Can Automate Medical Chronologies: 6 Best AI Tools in 2026",
+        "category": "robotics",
+        "summary": "Personal injury lawyers can automate medical chronologies by using AI to extract treatment dates, providers, diagnoses, and procedures from medical records, then organize those details into a timeline linked to the…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/personal-injury-lawyers-software.png",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/16/how-personal-injury-lawyers-can-automate-medical-chronologies-6-best-ai-tools-in-2026/106007/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-17T01-41_4",
+        "rank": 4,
+        "title": "Boosting Wnt Signaling Reverses APOE4 Alzheimer’s Damage",
+        "category": "neuroscience",
+        "summary": "APOE4 suppresses Wnt signaling in oligodendrocytes, trapping fats in lipid droplets and breaking down brain insulation in Alzheimer's.",
+        "image": "https://neurosciencenews.com/files/2026/10/oligodendricited-apoe4-alzheimers-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/wnt-signaling-apoe4-alzheimers-31316/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-17T01-41_5",
+        "rank": 5,
+        "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+        "category": "ai",
+        "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2024/01/MIT-TR-Roundtables_Oct-2-Thumbnail.png?resize=1200,600",
+        "source": "MIT Technology Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-10-16T22-14",
     "scannedAt": "2026-10-16T22:14:46.119Z",
     "items": [
@@ -2327,67 +2388,6 @@
         "isEditorialArchive": true,
         "publishDate": "2026-09-15",
         "authorName": "Dr. Wallace Lynch"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-09-14T22-47",
-    "scannedAt": "2026-09-14T22:47:14.457Z",
-    "items": [
-      {
-        "id": "auto_2026-09-14T22-47_1",
-        "rank": 1,
-        "title": "Nvidia’s Jensen Huang Gets Onstage Call From Trump, Who Dismissed A.I. Safety Concerns",
-        "category": "general",
-        "summary": "Mr. Trump called Jensen Huang, Nvidia’s chief executive, while Mr. Huang was onstage in Los Angeles and criticized calls to slow down and regulate A.I.",
-        "image": "https://static01.nyt.com/images/2026/09/14/multimedia/14biz-ai-safety-talk-lhzk/14biz-ai-safety-talk-lhzk-mediumSquareAt3X.jpg",
-        "source": "NYT Technology",
-        "sourceUrl": "https://www.nytimes.com/2026/09/14/technology/trump-ai-safety-jensen-huang.html",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-14T22-47_2",
-        "rank": 2,
-        "title": "Judge blocks Trump administration plans to limit visa length for grad students, postdocs",
-        "category": "biotech",
-        "summary": "A federal judge halted a Trump administration plan to place a four-year cap on the kinds of visas used by graduate students and postdocs",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/02/AdobeStock_228699575-1024x576.jpeg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/09/14/court-halts-dhs-visa-limits-foreign-scholars/?utm_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-14T22-47_3",
-        "rank": 3,
-        "title": "California moves to cut red tape for heat pumps, solar, and more",
-        "category": "energy",
-        "summary": "Californians could soon find it easier and cheaper to install rooftop solar, home batteries, and energy-saving heat pumps and heat-pump water heaters. Late last month, the state Legislature passed two…",
-        "image": "https://img.canarymedia.com/content/uploads/Solar-installer-on-roof-Corona-California_GettyImages-957099610.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=993372a0d8efafee7b309001d1cb755e",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/heat-pumps/california-to-cut-red-tape-heat-pumps-solar",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-14T22-47_4",
-        "rank": 4,
-        "title": "NBA star Karl-Anthony Towns and model Jordyn Woods to curate Sotheby’s auction.",
-        "category": "art",
-        "summary": "Six-time NBA All-Star Karl-Anthony Towns and entrepreneur and model Jordyn Woods will curate the latest edition of Sotheby’s Contemporary Curated auction, bringing their shared perspective as collectors to the biannual…",
-        "image": "https://artsy-media-uploads.s3.amazonaws.com/-3YKZ5V8N5n8fEx7DjGLDA%2FKarl-Anthony+Towns+and+Jordyn+Woods_Photographs+by+Rick+Wenner+for+Sotheby%27s_9_1500x1000.jpg",
-        "source": "Artsy",
-        "sourceUrl": "https://www.artsy.net/article/artsy-editorial-nba-star-karl-anthony-towns-model-jordyn-woods-curate-sothebys-auction",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-14T22-47_5",
-        "rank": 5,
-        "title": "The AI industry has taken a doomer turn. What now?",
-        "category": "ai",
-        "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260911_AIAlgo.jpg?resize=1200,600",
-        "source": "MIT Technology Review",
-        "sourceUrl": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
-        "fromX": false
       }
     ]
   }
