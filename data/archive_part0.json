@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-10-17T08-04",
-    "scannedAt": "2026-10-17T08:04:40.425Z",
+    "batchId": "auto_2026-10-17T14-29",
+    "scannedAt": "2026-10-17T14:29:01.820Z",
     "items": [
       {
-        "id": "auto_2026-10-17T08-04_1",
+        "id": "auto_2026-10-17T14-29_1",
         "rank": 1,
-        "title": "Is the energy of the 1990s returning to London’s art market?",
-        "category": "art",
-        "summary": "A fascination with Cool Britannia is evident at exhibitions, auctions and art fairs—though some question whether a revival of this era is possible or wise",
-        "image": "https://cdn.sanity.io/images/cxgd3urn/production/f303a2ac7c73ea349c6a1b446cf190cbc6c1ad63-1960x1358.jpg?w=140",
-        "source": "The Art Newspaper",
-        "sourceUrl": "https://www.theartnewspaper.com/2026/10/17/is-the-energy-of-the-1990s-returning-to-londons-art-market",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-17T08-04_2",
-        "rank": 2,
-        "title": "APOD: 2026 October 17 – 3D 67P",
-        "category": "space",
-        "summary": "APOD Science APOD APOD: 2026 October 17… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph…",
-        "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/october/anaglyph-NAC_2015-07-25T06.28.48.742Z_lamy.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-        "source": "NASA",
-        "sourceUrl": "https://science.nasa.gov/image-article/apod-2026-october-17-3d-67p/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-17T08-04_3",
-        "rank": 3,
-        "title": "STAT+: Jury rules in favor of ousted Cambridge scientist David Sabatini, with $6 million in damages to be awarded",
-        "category": "biotech",
-        "summary": "A jury awarded $6 million in damages to scientist David Sabatini, whose career imploded after he was accused by a much younger colleague of inappropriate sexual conduct in his lab.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/10/4LK3WINEDMMIR2JEHVX56ICPOY-1024x576.avif",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/10/16/david-sabatini-wins-sexual-misconduct-lawsuit-metoo/?utm_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-17T08-04_4",
-        "rank": 4,
-        "title": "Apple's updated App Store rules go after ‘nudify' AI apps",
+        "title": "SpaceX’s ambitious, expensive gamble to replace AT&T, T-Mobile, and Verizon",
         "category": "general",
-        "summary": "Apple's App Store rules now more explicitly ban so-called \"nudify\" apps that generate intimate images of people without their consent using AI tools. The rule changes follow significant criticism toward Apple after X…",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "summary": "Today, I’m talking with Walter Piecyk, a partner and analyst at LightShed Partners who covers tech, media, and telecom, about SpaceX’s recently announced plan to become a major wireless carrier. Last week, SpaceX agreed…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_SpaceX_Telecom.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "source": "The Verge",
-        "sourceUrl": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
+        "sourceUrl": "https://www.theverge.com/podcast/1012416/spacex-starlink-elon-musk-cell-carrier-wireless-mobile-att-verizon-t-mobile",
         "fromX": false
       },
       {
-        "id": "auto_2026-10-17T08-04_5",
+        "id": "auto_2026-10-17T14-29_2",
+        "rank": 2,
+        "title": "NASA’s Roman Space Telescope exceeds expectations by nearly 30%",
+        "category": "space",
+        "summary": "NASA’s Nancy Grace Roman Space Telescope has exceeded expectations after engineers made incredibly tiny adjustments to sharpen its view of the universe. By moving a mirror just one-sixteenth the width of a human hair,…",
+        "image": "https://www.sciencedaily.com/images/1920/nasa-roman-space-telescope-observes-cosmos.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261016070630.htm",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-17T14-29_3",
+        "rank": 3,
+        "title": "Brain cells meant to protect us may be fueling cognitive decline",
+        "category": "neuroscience",
+        "summary": "Scientists have uncovered a surprising cause of age-related cognitive decline involving brain cells previously thought to be entirely beneficial. As these cells become dysfunctional, they can produce abnormal amounts of…",
+        "image": "https://www.sciencedaily.com/images/1920/multiple-sclerosis-nerve-disorder-and-damaged-myelin.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261015073222.htm",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-17T14-29_4",
+        "rank": 4,
+        "title": "New Abu Dhabi cultural district announced ahead of the emirate’s inaugural Frieze fair",
+        "category": "art",
+        "summary": "The area, called Noma, will be near the site of the first Frieze Abu Dhabi, which launches next month in the Saadiyat Cultural District",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/79242ba09c5245d7dd88ad67e95de8c91f05aaa9-3543x1993.jpg?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/10/16/new-abu-dhabi-cultural-district-announced-ahead-of-inaugural-frieze-fair",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-17T14-29_5",
         "rank": 5,
-        "title": "9 Best Shopify Plus Agencies for B2B and Enterprise Ecommerce in 2026",
+        "title": "How Personal Injury Lawyers Can Automate Medical Chronologies: 6 Best AI Tools in 2026",
         "category": "robotics",
-        "summary": "The best Shopify Plus agencies for B2B and enterprise ecommerce in 2026 include Fyresite, Zaelab, Teifi Digital, Praella, Shero Commerce, BlueSwitch, Uncap, AAXIS, and TMG. Fyresite is a strong choice for complex…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/shopify-agencies-1.png",
+        "summary": "Personal injury lawyers can automate medical chronologies by using AI to extract treatment dates, providers, diagnoses, and procedures from medical records, then organize those details into a timeline linked to the…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/personal-injury-lawyers-software.png",
         "source": "Robotics & Automation News",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/16/9-best-shopify-plus-agencies-for-b2b-and-enterprise-ecommerce-in-2026/106002/",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/16/how-personal-injury-lawyers-can-automate-medical-chronologies-6-best-ai-tools-in-2026/106007/",
         "fromX": false
       }
     ]
