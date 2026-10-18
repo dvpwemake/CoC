@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-10-18T08-21",
-    "scannedAt": "2026-10-18T08:21:27.082Z",
+    "batchId": "auto_2026-10-18T14-55",
+    "scannedAt": "2026-10-18T14:55:09.808Z",
     "items": [
       {
-        "id": "auto_2026-10-18T08-21_1",
+        "id": "auto_2026-10-18T14-55_1",
         "rank": 1,
-        "title": "Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast",
+        "title": "J Mascis has nothing better to do",
         "category": "general",
-        "summary": "Earlier this year, Mercedes' AMG performance brand grabbed our attention with the GT four-door coupe, a souped-up sports sedan with three axial flux motors delivering over 1,150 horsepower. Well, now meet its beefier…",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/26C0332_071.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "summary": "Dinosaur Jr. frontman J Mascis is known as something of a slacker guitar god. He stands stoically onstage, barely moving, as he seemingly effortlessly works through deft guitar solos and lopsided riffs. Unfortunately,…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/J-Mascis-Dinosaur-Jr-interview-Babys-All-Right.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "source": "The Verge",
-        "sourceUrl": "https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance",
+        "sourceUrl": "https://www.theverge.com/entertainment/1012442/j-mascis-dinosaur-jr-fender-interview",
         "fromX": false
       },
       {
-        "id": "auto_2026-10-18T08-21_2",
+        "id": "auto_2026-10-18T14-55_2",
         "rank": 2,
-        "title": "SpaceX just delivered some very strange cargo to the International Space Station",
-        "category": "space",
-        "summary": "SpaceX just delivered some surprisingly strange cargo to the International Space Station, including tiny brain models, 3D heart tissue, and technology for making artificial retinas in space. Scientists hope these…",
-        "image": "https://www.sciencedaily.com/images/1920/spacex-dragon-spacecraft-approaches-iss.webp",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261016070628.htm",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-18T08-21_3",
-        "rank": 3,
-        "title": "‘Artist-first’ Fair Play launches to strong attendance but slow sales during London Frieze week",
-        "category": "art",
-        "summary": "The gallery-free fair takes a commission rather than charging a stand fee",
-        "image": "https://cdn.sanity.io/images/cxgd3urn/production/a69b3791b6beccbe024838cb3fc712a0561a308d-691x461.jpg?w=140",
-        "source": "The Art Newspaper",
-        "sourceUrl": "https://www.theartnewspaper.com/2026/10/16/artist-first-fair-play-launches-to-strong-attendance-but-slow-sales-during-frieze-week",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-18T08-21_4",
-        "rank": 4,
-        "title": "Boosting Wnt Signaling Reverses APOE4 Alzheimer’s Damage",
+        "title": "Scientists discover a natural compound that could protect the brain from too much salt",
         "category": "neuroscience",
-        "summary": "APOE4 suppresses Wnt signaling in oligodendrocytes, trapping fats in lipid droplets and breaking down brain insulation in Alzheimer's.",
-        "image": "https://neurosciencenews.com/files/2026/10/oligodendricited-apoe4-alzheimers-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/wnt-signaling-apoe4-alzheimers-31316/",
+        "summary": "Eating too much salt may do more than raise blood pressure. It could also harm memory and social behavior. In a new study, Japanese researchers discovered that a soy-derived compound called LPC70 helped protect mice…",
+        "image": "https://www.sciencedaily.com/images/1920/brain-shield-dementia-protection.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261017230032.htm",
         "fromX": false
       },
       {
-        "id": "auto_2026-10-18T08-21_5",
+        "id": "auto_2026-10-18T14-55_3",
+        "rank": 3,
+        "title": "Two monster black holes could collide in just 100 years",
+        "category": "space",
+        "summary": "Astronomers have uncovered compelling evidence of two supermassive black holes spiraling toward a potentially spectacular collision at the center of galaxy Mrk 501. A previously unseen jet of particles revealed the…",
+        "image": "https://www.sciencedaily.com/images/1920/center-of-galaxy-markarian-501.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261016070650.htm",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-18T14-55_4",
+        "rank": 4,
+        "title": "Scientists who discovered a third form of magnetism win major physics prize",
+        "category": "energy",
+        "summary": "Physicists have uncovered a hidden third form of magnetism that challenges more than 100 years of established physics. Called altermagnetism, the discovery could transform future computing and electronics while opening…",
+        "image": "https://www.sciencedaily.com/images/1920/altermagnetic-crystal.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261017230035.htm",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-18T14-55_5",
         "rank": 5,
-        "title": "9 Best Shopify Plus Agencies for B2B and Enterprise Ecommerce in 2026",
-        "category": "robotics",
-        "summary": "The best Shopify Plus agencies for B2B and enterprise ecommerce in 2026 include Fyresite, Zaelab, Teifi Digital, Praella, Shero Commerce, BlueSwitch, Uncap, AAXIS, and TMG. Fyresite is a strong choice for complex…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/shopify-agencies-1.png",
-        "source": "Robotics & Automation News",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/16/9-best-shopify-plus-agencies-for-b2b-and-enterprise-ecommerce-in-2026/106002/",
+        "title": "Is the energy of the 1990s returning to London’s art market?",
+        "category": "art",
+        "summary": "A fascination with Cool Britannia is evident at exhibitions, auctions and art fairs—though some question whether a revival of this era is possible or wise",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/f303a2ac7c73ea349c6a1b446cf190cbc6c1ad63-1960x1358.jpg?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/10/17/is-the-energy-of-the-1990s-returning-to-londons-art-market",
         "fromX": false
       }
     ]
