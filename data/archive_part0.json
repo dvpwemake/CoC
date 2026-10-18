@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-10-18T01-37",
+    "scannedAt": "2026-10-18T01:37:59.663Z",
+    "items": [
+      {
+        "id": "auto_2026-10-18T01-37_1",
+        "rank": 1,
+        "title": "TikTok bans Musk documentary account",
+        "category": "general",
+        "summary": "Just ahead of the wider release of Alex Gibney's Musk documentary, TikTok has banned the film's social media account from its platform. TikTok did not immediately respond to a request for comment. According to The…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2194418432.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "sourceUrl": "https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-18T01-37_2",
+        "rank": 2,
+        "title": "NASA’s Webb reveals the wild weather of a mysterious world 20 light-years away",
+        "category": "space",
+        "summary": "NASA’s James Webb Space Telescope has revealed that a turbulent world 20 light-years away has a surprisingly orderly weather system, with three recurring atmospheric states driven by temperature changes and shifting…",
+        "image": "https://www.sciencedaily.com/images/1920/simp-0136.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261015073215.htm",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-18T01-37_3",
+        "rank": 3,
+        "title": "Is the energy of the 1990s returning to London’s art market?",
+        "category": "art",
+        "summary": "A fascination with Cool Britannia is evident at exhibitions, auctions and art fairs—though some question whether a revival of this era is possible or wise",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/f303a2ac7c73ea349c6a1b446cf190cbc6c1ad63-1960x1358.jpg?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/10/17/is-the-energy-of-the-1990s-returning-to-londons-art-market",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-18T01-37_4",
+        "rank": 4,
+        "title": "Scientists discover how deep sleep builds muscle, burns fat, and boosts the brain",
+        "category": "neuroscience",
+        "summary": "Scientists have discovered a surprising two-way relationship between sleep and growth hormone, revealing how the brain carefully balances physical recovery with wakefulness. The findings could help explain why poor…",
+        "image": "https://www.sciencedaily.com/images/1920/deep-sleep-and-growth-hormone.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261016081140.htm",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-18T01-37_5",
+        "rank": 5,
+        "title": "STAT+: Jury rules in favor of ousted Cambridge scientist David Sabatini, with $6 million in damages to be awarded",
+        "category": "biotech",
+        "summary": "A jury awarded $6 million in damages to scientist David Sabatini, whose career imploded after he was accused by a much younger colleague of inappropriate sexual conduct in his lab.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/10/4LK3WINEDMMIR2JEHVX56ICPOY-1024x576.avif",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/10/16/david-sabatini-wins-sexual-misconduct-lawsuit-metoo/?utm_campaign=rss",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-10-17T21-47",
     "scannedAt": "2026-10-17T21:47:32.561Z",
     "items": [
@@ -2368,26 +2429,6 @@
         "source": "NASA",
         "sourceUrl": "https://www.nasa.gov/centers-and-facilities/goddard/celebrate-international-observe-the-moon-night-with-nasa/",
         "fromX": false
-      }
-    ]
-  },
-  {
-    "batchId": "editorial_2026-09-15",
-    "scannedAt": "2026-09-15T20:40:32.074Z",
-    "kind": "editorial_archive",
-    "items": [
-      {
-        "id": "editorial_2026-09-15",
-        "rank": 0,
-        "title": "He called it a heart",
-        "category": "editorial",
-        "summary": "A seventy meter wave. Four deaths in one state.",
-        "image": "https://artsy-media-uploads.s3.amazonaws.com/rPwPvC6RsOa3SireMCOi1Q%2F4096-3081-max.jpg",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-09-15.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-09-15",
-        "authorName": "Dr. Wallace Lynch"
       }
     ]
   }
