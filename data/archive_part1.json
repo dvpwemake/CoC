@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-09-15T22-28",
+    "scannedAt": "2026-09-15T22:28:13.125Z",
+    "items": [
+      {
+        "id": "auto_2026-09-15T22-28_1",
+        "rank": 1,
+        "title": "Steve Bannon and Bernie Sanders Condemn Tech ‘Oligarchs’ and Demand A.I. Reforms",
+        "category": "general",
+        "summary": "At an event in Washington, partisanship took a back seat as elected officials, religious leaders, parents and artists called for reining in artificial intelligence.",
+        "image": "https://static01.nyt.com/images/2026/09/15/multimedia/15biz-ai-bernie-bannon-plmw/15biz-ai-bernie-bannon-plmw-mediumSquareAt3X.jpg",
+        "source": "NYT Technology",
+        "sourceUrl": "https://www.nytimes.com/2026/09/15/us/steve-bannon-bernie-sanders-ai.html",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-15T22-28_2",
+        "rank": 2,
+        "title": "A biting satire of the art world’s transactional wokeness",
+        "category": "art",
+        "summary": "Nyla Innuksuk’s “In the Heart of the South” grapples irreverently with the fraught ethics of an Inuk artist tapping into narratives of collective suffering for her work",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/533d734a4c2506df0a88fedf4b203a24f6498a62-2000x832.jpg?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/09/15/nyla-innuksuk-toronto-international-film-festival-in-the-heart-of-the-south",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-15T22-28_3",
+        "rank": 3,
+        "title": "Central Genetic Switch Controls Long-Distance Axon Navigation",
+        "category": "neuroscience",
+        "summary": "Neuroscientists discover that genetic switches inside neuron cell bodies direct axon pathfinding, opening new paths for spinal injury repair.",
+        "image": "https://neurosciencenews.com/files/2026/09/axon-reach-genetics-sci-neurology-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/axons-sci-genetics-31214/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-15T22-28_4",
+        "rank": 4,
+        "title": "Roundtables: Could AI really kill us all?",
+        "category": "ai",
+        "summary": "Listen to the session or watch below Employees at the world's leading AI labs are saying there's a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Watch…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/September.26_Roundtables-Assets-2.png?resize=1200,600",
+        "source": "MIT Technology Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-15T22-28_5",
+        "rank": 5,
+        "title": "Celebrate International Observe the Moon Night with NASA",
+        "category": "space",
+        "summary": "In April, the world watched as four humans circled the Moon for the first time in over 50 years with NASA's Artemis II mission. On Saturday, Sept. 19, the public is invited to look up again with NASA events across the…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/09/55314049769-13385da00b-k.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/centers-and-facilities/goddard/celebrate-international-observe-the-moon-night-with-nasa/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "editorial_2026-09-15",
     "scannedAt": "2026-09-15T20:40:32.074Z",
     "kind": "editorial_archive",
@@ -2346,26 +2407,6 @@
         "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-16.html",
         "isEditorialArchive": true,
         "publishDate": "2026-08-16",
-        "authorName": "Dr. Wallace Lynch"
-      }
-    ]
-  },
-  {
-    "batchId": "editorial_2026-08-15",
-    "scannedAt": "2026-08-16T04:19:28.833Z",
-    "kind": "editorial_archive",
-    "items": [
-      {
-        "id": "editorial_2026-08-15",
-        "rank": 0,
-        "title": "What a warning can score, and what a room still has to hold",
-        "category": "editorial",
-        "summary": "Convergence of the emptied chair and the work that stays",
-        "image": "https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/1a22/live/86235450-9731-11f1-870d-5d08c49babb2.jpg",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-15.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-08-15",
         "authorName": "Dr. Wallace Lynch"
       }
     ]
