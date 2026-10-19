@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-10-19T09-20",
-    "scannedAt": "2026-10-19T09:20:32.870Z",
+    "batchId": "auto_2026-10-19T17-48",
+    "scannedAt": "2026-10-19T17:48:32.707Z",
     "items": [
       {
-        "id": "auto_2026-10-19T09-20_1",
+        "id": "auto_2026-10-19T17-48_1",
         "rank": 1,
-        "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
-        "category": "ai",
-        "summary": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_AgentsonIsland.jpg?resize=1200,600",
-        "source": "MIT Technology Review",
-        "sourceUrl": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-19T09-20_2",
-        "rank": 2,
-        "title": "Insta360 Luna Ultra and Luna Pro Review (2026): Steady Does It",
-        "category": "general",
-        "summary": "Insta360’s Luna Pro and Luna Ultra are the ideal cameras for solo filmmakers, content creators, and independent journalists.",
-        "image": "https://media.wired.com/photos/6ad51b17c6eb59d42f1b9d2a/master/pass/Insta360%20Luna%20Pro%20Ultra%20102026%20top%20art%20SOURCE%20Amazon.jpg",
-        "source": "WIRED",
-        "sourceUrl": "https://www.wired.com/review/insta360-luna-ultra-luna-pro/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-19T09-20_3",
-        "rank": 3,
-        "title": "QCraft partners with HERE Technologies to expand autonomous driving in Europe",
-        "category": "robotics",
-        "summary": "QCraft, an autonomous driving technology company, signed a memorandum of understanding with HERE Technologies, a mapping and location data platform, at an event called HERE Directions 2026 in Munich. Under the MoU, the…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/qcraft-here-1.jpg",
-        "source": "Robotics & Automation News",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/19/qcraft-partners-with-here-technologies-to-advance-localized-autonomous-driving-in-europe/106020/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-19T09-20_4",
-        "rank": 4,
-        "title": "STAT+: Gilead’s IBS drug eliminated symptoms for patients, mid-stage study finds",
+        "title": "Trump orders creation of NIH division, task force on women’s health",
         "category": "biotech",
-        "summary": "An oral treatment from Gilead Sciences eliminated the symptoms experienced by patients with a type of inflammatory bowel disease, according to mid-stage study results reported Monday.",
-        "image": "https://www.statnews.com/wp-content/uploads/2024/07/GettyImages-1221879709-1024x576.jpg",
+        "summary": "Melania Trump says a new research and policy initiative will set “a new standard for women’s health.”",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/10/GettyImages-2300487214-1024x576.jpg",
         "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/10/19/gilead-ibs-drug-succeeds-phase-2-trial/?utm_campaign=rss",
+        "sourceUrl": "https://www.statnews.com/2026/10/19/executive-order-melania-trump-nih-division-on-womens-health/?utm_campaign=rss",
         "fromX": false
       },
       {
-        "id": "auto_2026-10-19T09-20_5",
+        "id": "auto_2026-10-19T17-48_2",
+        "rank": 2,
+        "title": "How the Brain Merges Sights and Sounds to Read Feelings",
+        "category": "neuroscience",
+        "summary": "Neuroscientists uncover how the brain merges facial expressions and vocal tones, revealing cross-sensory hubs that decode emotion across sight and sound.",
+        "image": "https://neurosciencenews.com/files/2026/10/sight-sound-emotion-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/sight-sound-emotional-processing-31319/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-19T17-48_3",
+        "rank": 3,
+        "title": "Huge DMV data breach impacted current and former Florida residents",
+        "category": "general",
+        "summary": "Florida issues alerts after statewide DMV data breach linked to ShinyHunters.",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1384284626-1152x648.jpg",
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/10/huge-dmv-data-breach-impacted-current-and-former-florida-residents/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-19T17-48_4",
+        "rank": 4,
+        "title": "UARX Space troubleshoots anomalies on maiden OTV Flight",
+        "category": "space",
+        "summary": "SAN FRANCISCO –Spanish startup UARX Space is remedying anomalies identified during the maiden flight of OSSIE-D, an orbital transfer vehicle (OTV) launched Oct. 1 aboard SpaceX’s Transporter-18 mission. At least […] The…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/rsz_uarx_ossie-d.png?fit=879%2C628&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/uarx-space-troubleshoots-anomalies-on-maiden-otv-flight/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-19T17-48_5",
         "rank": 5,
-        "title": "A cleaner solution to America’s aluminum crunch is hiding in landfills",
-        "category": "energy",
-        "summary": "A global supply shortage and U.S. tariffs have roiled the aluminum market this year, putting greater pressure on the United States to produce more of its own metal. Plans to build or reopen giant smelters are moving…",
-        "image": "https://img.canarymedia.com/content/uploads/SWC-bags-3.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=45fe66a0fa464235e2447c0f92f3467f",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/clean-aluminum/how-to-recover-more-scrap-metal-us",
+        "title": "Art Basel to Remain in Miami Beach After Threatening to Depart",
+        "category": "art",
+        "summary": "Following an eighteen-month deadlocked negotiation between MCH Group, the Swiss-based owner of five international Art Basel fairs, and the city of Miami Beach, the fair has announced that it will stay in Florida through…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/10/GettyImages-2188318396.jpg?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/news/art-basel-to-remain-in-miami-beach-1234761687/",
         "fromX": false
       }
     ]
