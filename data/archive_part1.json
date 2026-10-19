@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-09-16T22-25",
+    "scannedAt": "2026-09-16T22:25:18.816Z",
+    "items": [
+      {
+        "id": "auto_2026-09-16T22-25_1",
+        "rank": 1,
+        "title": "OpenAI Creates a New Framework to Disclose Bad AI Behavior",
+        "category": "general",
+        "summary": "The company also disclosed previously unreported incidents in which its AI models behaved in misaligned ways, including uploading files to the internet without being asked.",
+        "image": "https://media.wired.com/photos/6aaade9cf251bfe9554bf39a/master/pass/OpenAI-Releases-New-AI-Policy-Business-2294958021.jpg",
+        "source": "WIRED",
+        "sourceUrl": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-16T22-25_2",
+        "rank": 2,
+        "title": "Renoir Show Breaks Box-Office Record at London’s National Gallery",
+        "category": "art",
+        "summary": "Ticket sales for the National Gallery’s forthcoming Renoir exhibition have topped twenty-two thousand, setting a record for the London institution. Bookings opened to members on August 4, and to the general public on…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/09/GettyImages-2263889695.jpg?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/news/renoir-show-breaks-ticket-record-at-london-national-gallery-1234759276/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-16T22-25_3",
+        "rank": 3,
+        "title": "Passion Meets Precision at NASA’s Flight Research Lab",
+        "category": "space",
+        "summary": "Long before they helped shape NASA’s future aerospace breakthroughs, Derek Abramson, Justin Hall, and Justin Link were in their garages and homes building radio‑controlled aircraft, testing new ideas, and flying their…",
+        "image": "https://images-assets.nasa.gov/image/AFRC2026-0179-08/AFRC2026-0179-08~large.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/people-of-nasa/armstrong-people/passion-meets-precision-at-nasas-flight-research-lab/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-16T22-25_4",
+        "rank": 4,
+        "title": "STAT+: GOP aims to change Medicare adviser’s math so it's more favorable to health insurers",
+        "category": "biotech",
+        "summary": "The GOP bill directs MedPAC to study the topic of overpayments to Medicare Advantage plans in a manner that’s more favorable to insurers.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/09/GettyImages-2293225895-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/09/16/medicare-advantage-overpayments-analysis-medpac-change-apples-to-apples-act/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-16T22-25_5",
+        "rank": 5,
+        "title": "Scientists turn seawater into fresh water without harmful brine",
+        "category": "energy",
+        "summary": "Scientists have developed a solar-powered desalination system that turns seawater into fresh water while removing nearly all of the leftover salt as a solid instead of producing harmful brine. The self-cleaning…",
+        "image": "https://www.sciencedaily.com/images/1920/solar-desalination-device-with-laser-etched-superwicking.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260915100137.htm",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-09-15T22-28",
     "scannedAt": "2026-09-15T22:28:13.125Z",
     "items": [
@@ -2388,26 +2449,6 @@
         "source": "STAT News",
         "sourceUrl": "https://www.statnews.com/pharmalot/2026/08/14/up-down-ladder-latest-comings-goings-jobs/?utm_campaign=rss",
         "fromX": false
-      }
-    ]
-  },
-  {
-    "batchId": "editorial_2026-08-16",
-    "scannedAt": "2026-08-16T04:39:55.506Z",
-    "kind": "editorial_archive",
-    "items": [
-      {
-        "id": "editorial_2026-08-16",
-        "rank": 0,
-        "title": "What a warning can score, and what a room still has to hold",
-        "category": "editorial",
-        "summary": "Convergence of the emptied chair and the work that stays",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/2smart-iot-1.jpeg",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-16.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-08-16",
-        "authorName": "Dr. Wallace Lynch"
       }
     ]
   }
