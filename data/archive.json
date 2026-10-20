@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-10-20T15-52",
-    "scannedAt": "2026-10-20T15:52:09.009Z",
+    "batchId": "auto_2026-10-20T19-39",
+    "scannedAt": "2026-10-20T19:39:56.782Z",
     "items": [
       {
-        "id": "auto_2026-10-20T15-52_1",
+        "id": "auto_2026-10-20T19-39_1",
         "rank": 1,
-        "title": "Restless Legs in Pregnancy Triples Depression Risk",
-        "category": "neuroscience",
-        "summary": "Pregnant women who develop restless legs syndrome during their third trimester face three times the risk of perinatal depression compared to those without the sleep movement disorder. A study of over 2,400 mothers…",
-        "image": "https://neurosciencenews.com/files/2026/10/rsl-pregnancy-depression-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/restless-legs-pregnancy-depression-31323/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-20T15-52_2",
-        "rank": 2,
-        "title": "The Gospel according to Peter (Thiel)",
-        "category": "general",
-        "summary": "It's a time of apocalyptic worldviews in Silicon Valley. The latest AI doom cycle is driven by effective altruism, a philosophy that has lurked around the fringes for years but recently burst into the mainstream because…",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/258014_Peter_Thiel_LKantrowitz.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "sourceUrl": "https://www.theverge.com/tech/1014252/peter-thiel-antichrist-lectures-analysis",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-20T15-52_3",
-        "rank": 3,
-        "title": "Why I wish you didn’t want to see Nathan Fielder’s Elizabeth Holmes documentary",
-        "category": "biotech",
-        "summary": "A reporter who interviewed Elizabeth Holmes on why society confuses authenticity, honesty, and truth, and how she takes advantage.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/10/GettyImages-491436280-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/10/20/elizabeth-holmes-superpower-authenticity-vs-truth-matt-herper-take/?utm_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-20T15-52_4",
-        "rank": 4,
-        "title": "Why Prune Nourry is Sculpting These Forgotten Women Artists",
+        "title": "Major London museums team up for South Asian arts festival in June 2027.",
         "category": "art",
-        "summary": "In 2012, New York–based French artist Prune Nourry began spending long stretches in China. There, she started working with artisans on “Terracotta Daughters” (2012–2030), a response to gender selection in the country:…",
-        "image": "https://artsy-media-uploads.s3.amazonaws.com/IDBOMuQccSZ56vyLvi78rg%2FPrune+Nourry+dans+son+%C5%93uvres+Les+Passeuses+%28Cle%CC%81opa%CC%82tre+Bourdelle+Se%CC%81vastos%29%C2%A9Aurelia+Casse_1500x1000.jpg",
+        "summary": "Serendipity Arts, the Indian nonprofit behind South Asia’s largest multidisciplinary arts festival, will launch a London edition from June 19th through 27th, 2027. The festival will be organized in partnership with the…",
+        "image": "https://artsy-media-uploads.s3.amazonaws.com/40--GSJ2Gbm1Lzv7eSGuYw%2FGiants+on+the+Move+A+Puppet+Street+Parade%2C+directed+by+Dadi+Pudumjee%2C+The+Ishara+_13.jpg",
         "source": "Artsy",
-        "sourceUrl": "https://www.artsy.net/article/artsy-editorial-prune-nourry-sculpting-forgotten-women-artists",
+        "sourceUrl": "https://www.artsy.net/article/artsy-editorial-major-london-museums-team-south-asian-arts-festival-june-2027",
         "fromX": false
       },
       {
-        "id": "auto_2026-10-20T15-52_5",
+        "id": "auto_2026-10-20T19-39_2",
+        "rank": 2,
+        "title": "Why AI Cannot Replace the Transformative Power of Human Creativity",
+        "category": "neuroscience",
+        "summary": "Generative AI can create masterpieces in seconds, but a new analysis reveals it breaks the crucial link between making art and personal growth. Hebrew University's Amit Zoran argues that the future of creativity belongs…",
+        "image": "https://neurosciencenews.com/files/2026/10/Can-a-Machine-Truly-Be-Creative-Without-Living_-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/generative-ai-human-creativity-31328/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-20T19-39_3",
+        "rank": 3,
+        "title": "DJI’s Osmo Pocket 3 vlogging camera is a good deal at under $400",
+        "category": "general",
+        "summary": "If you’re the kind of person who likes to document everything, either for professional and/or personal reasons, and your phone’s camera isn’t cutting it, you might be considering a dedicated vlogging camera. The DJI…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/dji-osmo-pocket-3-roundup.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "sourceUrl": "https://www.theverge.com/gadgets/1014456/dji-osmo-pocket-3-switch-sports-resort-deal-sale",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-20T19-39_4",
+        "rank": 4,
+        "title": "NASA’s SR-1 Freedom Advances with Progress on Nuclear Power Module",
+        "category": "space",
+        "summary": "Destined for Mars and beyond, NASA’s Space Reactor-1 (SR-1) Freedom will be humanity’s first fission-powered spacecraft to travel outside Earth’s orbit. Announced during NASA’s “Ignition” event, this mission will…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/10/sr-1-freedom-lmo-2.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/centers-and-facilities/glenn/sr-1-freedom-advances-with-progress-on-nuclear-power-module/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-20T19-39_5",
         "rank": 5,
-        "title": "What is Electrical Contracting? A Beginner’s Guide",
-        "category": "robotics",
-        "summary": "When a breaker keeps tripping every time the toaster and microwave run together, most people react the same way. They search online and call the first company that looks trustworthy. That company often promises to…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/electrical-contractor-1.png",
-        "source": "Robotics & Automation News",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/20/what-is-electrical-contracting-a-beginners-guide/106126/",
+        "title": "STAT+: A bipartisan group of lawmakers urges the FDA to close a peptide loophole",
+        "category": "biotech",
+        "summary": "A bipartisan group of lawmakers is urging the FDA to plug a loophole used to import knockoff retatrutide, an investigational obesity drug made by Eli Lilly.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/07/AdobeStock_2037844000-1024x576.jpeg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/10/20/health-policy-news-bipartisan-group-of-lawmaker-urges-fda-to-close-peptide-loophole/?utm_campaign=rss",
         "fromX": false
       }
     ]
