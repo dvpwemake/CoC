@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-10-20T02-13",
-    "scannedAt": "2026-10-20T02:13:36.864Z",
+    "batchId": "auto_2026-10-20T08-54",
+    "scannedAt": "2026-10-20T08:54:38.037Z",
     "items": [
       {
-        "id": "auto_2026-10-20T02-13_1",
+        "id": "auto_2026-10-20T08-54_1",
         "rank": 1,
-        "title": "Curiosity Blog, Sols 5036-5042: Watching the Clouds Go By",
-        "category": "space",
-        "summary": "Written by Alex Innanen, Atmospheric Scientist at York University Earth planning date: Friday, Oct. 9, 2026 Happy New Mars Year! We mark the start of a new year on Mars at the beginning of the northern hemisphere…",
-        "image": "https://assets.science.nasa.gov/content/dam/science/missions/msl/2026/curiosity-rover-updates/october/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_05037_opgs_edr_ncam_NRB_844669907EDR_S1250558NCAM00543M_.JPG/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-        "source": "NASA",
-        "sourceUrl": "https://science.nasa.gov/blog/curiosity-blog-sols-5036-5042-watching-the-clouds-go-by/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-20T02-13_2",
-        "rank": 2,
-        "title": "Pennsylvania issues alert on congenital measles—something US hasn't seen for decades",
+        "title": "Revolut outage hits 'multiple services' as thousands of users report app issues",
         "category": "general",
-        "summary": "Congenital measles can be fatal, and survivors require monitoring for years.",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/GettyImages-509481102-scaled-1152x648-1729196833.jpg",
-        "source": "Ars Technica",
-        "sourceUrl": "https://arstechnica.com/health/2026/10/pennsylvania-issues-alert-on-congenital-measles-something-us-hasnt-seen-for-decades/",
+        "summary": "Some users of the British neobank reported being unable to make some payments or access funds in its app on Tuesday.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4333/live/71103e60-cc61-11f1-b1a3-5bda642ff934.jpg",
+        "source": "BBC Technology",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
         "fromX": false
       },
       {
-        "id": "auto_2026-10-20T02-13_3",
+        "id": "auto_2026-10-20T08-54_2",
+        "rank": 2,
+        "title": "STAT+: The key health care ballot measures we’re watching in the midterms",
+        "category": "biotech",
+        "summary": "State fights over issues like transgender rights and Medicaid offer clues to where Americans stand on contentious health matters.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/10/AP26194713169877-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/10/20/what-health-policy-battles-reveal-about-america-midterms-2026/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-20T08-54_3",
         "rank": 3,
-        "title": "Four Paths the Brain Takes After Trauma",
-        "category": "neuroscience",
-        "summary": "A 6-month study of 1,035 adults reveals four distinct trauma trajectories, showing symptom tracking predicts PTSD far better than single mental health checks.",
-        "image": "https://neurosciencenews.com/files/2026/10/trauma-brain-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/neuroscience-trauma-ptsd-psychology-31321/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-20T02-13_4",
-        "rank": 4,
-        "title": "Abu Dhabi Reveals Plans For A New Cultural District Ahead Of Frieze Art Fair",
-        "category": "art",
-        "summary": "Abu Dhabi government-owned developer Aldar announced plans for a new cultural district in the city dubbed “Noma,” as reported by The Art Newspaper. The announcement precedes the inaugural edition of Frieze Abu Dhabi,…",
-        "image": "https://www.artforum.com/wp-content/uploads/2025/10/abu-dhabi.jpeg?w=650",
-        "source": "Artforum",
-        "sourceUrl": "https://www.artforum.com/news/abu-dhabi-plans-for-cultural-district-frieze-art-fair-1234761708/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-20T02-13_5",
-        "rank": 5,
-        "title": "Tesollo robotic hand sales set to surpass 1,000 units in 2026",
+        "title": "Toyota Material Handling says digital twins can ‘halve autonomous forklift commissioning time’",
         "category": "robotics",
-        "summary": "Tesollo, a South Korean robotics company specializing in robotic hands and multi-finger robotic grippers, expects cumulative sales of its robotic hands and grippers to surpass 1,000 units by the end of 2026. The…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/tesollo-robotic-hand-1.png",
+        "summary": "Toyota Material Handling Europe is using Nvidia simulation and digital twin technologies to accelerate the development and commissioning of autonomous forklifts, with the company targeting a reduction of up to 50…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/toyota-softserve-1.jpg",
         "source": "Robotics & Automation News",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/19/tesollo-robotic-hand-sales-set-to-surpass-1000-units-in-2026/106066/",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/20/toyota-material-handling-says-digital-twins-can-halve-autonomous-forklift-commissioning-time/106093/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-20T08-54_4",
+        "rank": 4,
+        "title": "Will a second US city tax billion-dollar firms to fund clean energy?",
+        "category": "energy",
+        "summary": "Amy Winton doesn’t like that she has to depend on fossil gas for her restaurant, Mexican taquería Pandita in Eugene, Oregon. But she’s stuck with the gas-fueled burners, heaters, and outdoor fireplace that came with the…",
+        "image": "https://img.canarymedia.com/content/uploads/Eugene-OR.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=679fa554aac91725367e888465ba0d9e",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/clean-energy/eugene-ballot-measure-tax-companies-climate-fund",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-20T08-54_5",
+        "rank": 5,
+        "title": "APOD: 2026 October 20 – An Anticrepuscular Rainbow Fan",
+        "category": "space",
+        "summary": "APOD Science APOD APOD: 2026 October 20 – An… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or…",
+        "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/october/AntiRainbow_Esposti_5120.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "source": "NASA",
+        "sourceUrl": "https://science.nasa.gov/image-article/apod-2026-october-20-an-anticrepuscular-rainbow-fan/",
         "fromX": false
       }
     ]
