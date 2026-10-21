@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-10-21T02-07",
+    "scannedAt": "2026-10-21T02:07:13.731Z",
+    "items": [
+      {
+        "id": "auto_2026-10-21T02-07_1",
+        "rank": 1,
+        "title": "China Criticizes U.S. Ban on DeepSeek A.I. in Government Systems",
+        "category": "general",
+        "summary": "The response came after Homeland Security ordered the removal and exclusion of products developed by the Chinese company.",
+        "image": "https://static01.nyt.com/images/2026/10/20/multimedia/20int-DeepseekAI-China-cjqh/20int-DeepseekAI-China-cjqh-mediumSquareAt3X.jpg",
+        "source": "NYT Technology",
+        "sourceUrl": "https://www.nytimes.com/2026/10/20/world/asia/china-deepseek-us-ban.html",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-21T02-07_2",
+        "rank": 2,
+        "title": "Emer Grant Appointed Inaugural Creative Director of Liverpool’s Bluecoat",
+        "category": "art",
+        "summary": "Liverpool’s Bluecoat has named Emer Grant as its new creative director. Grant is the first person named to the position at the museum since its founding in 1927. She joins the contemporary art center—England’s…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/10/Eg-bio-pic-2026t10_946acc.jpg?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/news/emer-grant-named-creative-director-of-liverpools-bluecoat-1234761781/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-21T02-07_3",
+        "rank": 3,
+        "title": "STAT+: State regulators move to seize licenses from nursing home chain that was focus of Boston Globe investigation",
+        "category": "biotech",
+        "summary": "A Boston Globe investigation found that RegalCare acquired nursing homes across Massachusetts, then gutted the quality of care.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/10/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_kreiter07202026regalcaretaunton2-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/10/20/massachusetts-regulators-move-to-seize-regal-care-nursing-home-licenses-boston-globe-investigation/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-21T02-07_4",
+        "rank": 4,
+        "title": "Why AI Cannot Replace the Transformative Power of Human Creativity",
+        "category": "neuroscience",
+        "summary": "Generative AI can create masterpieces in seconds, but a new analysis reveals it breaks the crucial link between making art and personal growth. Hebrew University's Amit Zoran argues that the future of creativity belongs…",
+        "image": "https://neurosciencenews.com/files/2026/10/Can-a-Machine-Truly-Be-Creative-Without-Living_-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/generative-ai-human-creativity-31328/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-21T02-07_5",
+        "rank": 5,
+        "title": "NASA’s SR-1 Freedom Advances with Progress on Nuclear Power Module",
+        "category": "space",
+        "summary": "Destined for Mars and beyond, NASA’s Space Reactor-1 (SR-1) Freedom will be humanity’s first fission-powered spacecraft to travel outside Earth’s orbit. Announced during NASA’s “Ignition” event, this mission will…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/10/sr-1-freedom-lmo-2.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/centers-and-facilities/glenn/sr-1-freedom-advances-with-progress-on-nuclear-power-module/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-10-20T22-44",
     "scannedAt": "2026-10-20T22:44:18.939Z",
     "items": [
