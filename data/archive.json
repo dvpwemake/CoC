@@ -1,5 +1,25 @@
 [
   {
+    "batchId": "editorial_2026-10-19",
+    "scannedAt": "2026-10-19T04:27:37.695Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-10-19",
+        "rank": 0,
+        "title": "Shadows, Signals, and the Boundaries of Human Ambition",
+        "category": "editorial",
+        "summary": "Unpacking humanity’s search for progress across deep space and art.",
+        "image": "https://www.sciencedaily.com/images/1920/nasa-spacex-crs-35-launch-jellyfish.webp",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-10-19.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-10-19",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-10-21T16-09",
     "scannedAt": "2026-10-21T16:09:36.321Z",
     "items": [
