@@ -1,127 +1,151 @@
 {
   "published": {
-    "id": "ed_2026-10-19",
-    "publishDate": "2026-10-19",
+    "id": "ed_2026-10-21",
+    "publishDate": "2026-10-21",
     "status": "published",
-    "updatedAt": "2026-10-19T04:27:37.695Z",
-    "title": "Shadows, Signals, and the Boundaries of Human Ambition",
-    "dek": "Unpacking humanity’s search for progress across deep space and art.",
+    "updatedAt": "2026-10-21T16:31:18.528Z",
+    "title": "Rewriting History and Powering the Future",
+    "dek": "Human ingenuity, past and present, demands constant re-examination.",
     "authorName": "Dr. Wallace Lynch",
     "authorTitle": "Editor in Chief",
-    "body": "From the quiet depths of neurobiology to the vastness of the cosmos, human ingenuity continually pushes against established boundaries—sometimes redefining our understanding of reality, and other times exposing the vulnerabilities within it.\n\nIn physics and space exploration, the universe offers breathtaking spectacles alongside profound breakthroughs. Early morning skygazers across the eastern United States were treated to a glowing \"space jellyfish\" formed by sunlight illuminating a SpaceX Falcon 9 rocket exhaust. Beyond our atmosphere, astronomers spotted evidence of two supermassive black holes in galaxy Mrk 501 spiraling toward a collision in just a century. Down on Earth, physicists claimed a prestigious award for uncovering \"altermagnetism,\" a hidden third form of magnetism that overturns a century of physical law and promises to revolutionize computing.\n\nYet, as technology leaps forward, human systems struggle to keep pace. Trading standards officials warn that artificial intelligence is now \"super-charging\" familiar scams with convincing voice clones and fraudulent sites. In the cultural realm, art markets are grappling with their own evolution. During London’s Frieze week, the gallery-free \"Fair Play\" debuted with strong attendance but slow sales, testing a commission model designed to put artists first, even as collectors look back with nostalgia toward 1990s Cool Britannia. Meanwhile, Abu Dhabi announced its new Noma cultural district ahead of its inaugural Frieze fair, cementing the emirate's growing global footprint.\n\nAmid these systemic shifts, neuroscience delivers crucial promises of restoration. Researchers mapped three key brain pathways that drive lasting relief from treatment-resistant depression via deep brain stimulation, while Japanese scientists identified a soy-derived compound, LPC70, capable of protecting cognitive function against high-sodium diets. Across every domain—whether untangling neural circuitry, expanding cosmic horizons, or navigating digital risks—progress demands that we balance bold discovery with vigilant care for the human experience.",
+    "body": "Today’s headlines remind us that progress relies on unseen foundations—both historical and technological. Archaeologists analyzing clay fingerprints have revealed that women and children helped build China’s ancient Terracotta Army, challenging centuries of male-centric narratives. Meanwhile, contemporary women artists are breathing new life into traditional Pennsylvania Dutch folk art, while sculptor Álvaro Urbano honors the forgotten architectural heritage of Mexico City’s iconic Casa Cueva.\n\nIn healthcare and science, innovation offers both breakthrough solutions and urgent warnings. GSK has secured milestone FDA approval for a new hepatitis B treatment that dramatically expands functional cures. Yet institutional oversight remains critical, as reports expose severe quality cuts in Massachusetts nursing home chains driven by corporate greed. Overhead, NASA’s low-altitude research flights over Texas farmland highlight the vital intersection of space technology and agricultural sustainability.\n\nThe digital and physical frontiers are expanding just as fast, though not without friction. A critical global PHP vulnerability—discovered via advanced AI analysis—caused widespread web outages, underscoring our fragile digital infrastructure. In robotics, developers are tackling physical limitations head-on: Voxel51 launched its 3.0 data platform to manage massive multimodal sensor inputs, even as engineers confront practical hardware bottlenecks like subtle voltage sags in warehouse AMRs.\n\nIn business and culture, giant platforms face shifting tides. Netflix posted strong 12 percent quarterly revenue growth, yet stagnant viewership across North America highlights the challenge of maintaining subscriber engagement. Elsewhere, political and corporate influence intersect as a proposed giveaway of Elon Musk’s SpaceX stock is slated for distribution through new \"Trump Accounts.\"\n\nAcross art, science, and technology, today’s stories prove that building the future—and understanding our past—requires looking closely at the details hidden beneath the surface.",
     "paragraphs": [
-      "From the quiet depths of neurobiology to the vastness of the cosmos, human ingenuity continually pushes against established boundaries—sometimes redefining our understanding of reality, and other times exposing the vulnerabilities within it.",
-      "In physics and space exploration, the universe offers breathtaking spectacles alongside profound breakthroughs. Early morning skygazers across the eastern United States were treated to a glowing \"space jellyfish\" formed by sunlight illuminating a SpaceX Falcon 9 rocket exhaust. Beyond our atmosphere, astronomers spotted evidence of two supermassive black holes in galaxy Mrk 501 spiraling toward a collision in just a century. Down on Earth, physicists claimed a prestigious award for uncovering \"altermagnetism,\" a hidden third form of magnetism that overturns a century of physical law and promises to revolutionize computing.",
-      "Yet, as technology leaps forward, human systems struggle to keep pace. Trading standards officials warn that artificial intelligence is now \"super-charging\" familiar scams with convincing voice clones and fraudulent sites. In the cultural realm, art markets are grappling with their own evolution. During London’s Frieze week, the gallery-free \"Fair Play\" debuted with strong attendance but slow sales, testing a commission model designed to put artists first, even as collectors look back with nostalgia toward 1990s Cool Britannia. Meanwhile, Abu Dhabi announced its new Noma cultural district ahead of its inaugural Frieze fair, cementing the emirate's growing global footprint.",
-      "Amid these systemic shifts, neuroscience delivers crucial promises of restoration. Researchers mapped three key brain pathways that drive lasting relief from treatment-resistant depression via deep brain stimulation, while Japanese scientists identified a soy-derived compound, LPC70, capable of protecting cognitive function against high-sodium diets. Across every domain—whether untangling neural circuitry, expanding cosmic horizons, or navigating digital risks—progress demands that we balance bold discovery with vigilant care for the human experience."
+      "Today’s headlines remind us that progress relies on unseen foundations—both historical and technological. Archaeologists analyzing clay fingerprints have revealed that women and children helped build China’s ancient Terracotta Army, challenging centuries of male-centric narratives. Meanwhile, contemporary women artists are breathing new life into traditional Pennsylvania Dutch folk art, while sculptor Álvaro Urbano honors the forgotten architectural heritage of Mexico City’s iconic Casa Cueva.",
+      "In healthcare and science, innovation offers both breakthrough solutions and urgent warnings. GSK has secured milestone FDA approval for a new hepatitis B treatment that dramatically expands functional cures. Yet institutional oversight remains critical, as reports expose severe quality cuts in Massachusetts nursing home chains driven by corporate greed. Overhead, NASA’s low-altitude research flights over Texas farmland highlight the vital intersection of space technology and agricultural sustainability.",
+      "The digital and physical frontiers are expanding just as fast, though not without friction. A critical global PHP vulnerability—discovered via advanced AI analysis—caused widespread web outages, underscoring our fragile digital infrastructure. In robotics, developers are tackling physical limitations head-on: Voxel51 launched its 3.0 data platform to manage massive multimodal sensor inputs, even as engineers confront practical hardware bottlenecks like subtle voltage sags in warehouse AMRs.",
+      "In business and culture, giant platforms face shifting tides. Netflix posted strong 12 percent quarterly revenue growth, yet stagnant viewership across North America highlights the challenge of maintaining subscriber engagement. Elsewhere, political and corporate influence intersect as a proposed giveaway of Elon Musk’s SpaceX stock is slated for distribution through new \"Trump Accounts.\"",
+      "Across art, science, and technology, today’s stories prove that building the future—and understanding our past—requires looking closely at the details hidden beneath the surface."
     ],
-    "wordCount": 289,
-    "heroImage": "https://www.sciencedaily.com/images/1920/nasa-spacex-crs-35-launch-jellyfish.webp",
-    "heroCredit": "NASA’s SpaceX launch lights up the sky with a giant glowing jellyfish",
-    "heroSource": "ScienceDaily",
-    "heroSourceUrl": "https://www.sciencedaily.com/releases/2026/10/261016070635.htm",
+    "wordCount": 272,
+    "heroImage": "https://www.artforum.com/wp-content/uploads/2026/10/GettyImages-2253836426.jpg?w=650",
+    "heroCredit": "Chinese Terracotta Army Built by Women and Children, Not Only Men",
+    "heroSource": "Artforum",
+    "heroSourceUrl": "https://www.artforum.com/news/terracotta-army-built-by-women-and-children-not-only-men-1234761793/",
     "headlines": [
       {
-        "title": "‘Artist-first’ Fair Play launches to strong attendance but slow sales during London Frieze week",
-        "source": "The Art Newspaper",
+        "title": "Chinese Terracotta Army Built by Women and Children, Not Only Men",
+        "source": "Artforum",
         "category": "art",
-        "sourceUrl": "https://www.theartnewspaper.com/2026/10/16/artist-first-fair-play-launches-to-strong-attendance-but-slow-sales-during-frieze-week",
-        "summary": "The gallery-free fair takes a commission rather than charging a stand fee",
-        "image": "https://cdn.sanity.io/images/cxgd3urn/production/a69b3791b6beccbe024838cb3fc712a0561a308d-691x461.jpg?w=140"
+        "sourceUrl": "https://www.artforum.com/news/terracotta-army-built-by-women-and-children-not-only-men-1234761793/",
+        "summary": "The study of seventy-nine fingerprints visible in the clay used to form some of the terracotta warriors in Xi’an, China, has revealed that the makers of the statues included not just adult men but also women and…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/10/GettyImages-2253836426.jpg?w=650"
       },
       {
-        "title": "STAT+: Cambridge scientist David Sabatini speaks out after courtroom victory: ‘The hardest years of my life’",
+        "title": "STAT+: GSK picks up hep B drug approval",
         "source": "STAT News",
         "category": "biotech",
-        "sourceUrl": "https://www.statnews.com/2026/10/18/david-sabatini-speaks-out-after-courtroom-win-metoo-trial/?utm_campaign=rss",
-        "summary": "\"The hardest years of my life,\" is how Cambridge scientist David Sabatini describes the time since his downfall from MIT.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/10/4LK3WINEDMMIR2JEHVX56ICPOY-1024x576.avif"
+        "sourceUrl": "https://www.statnews.com/2026/10/21/biotech-news-gsk-picks-up-hep-b-drug-approval/?utm_campaign=rss",
+        "summary": "GSK has won FDA approval for its hepatitis B drug, which extended functional cures to far more patients than previous methods.",
+        "image": "https://www.statnews.com/wp-content/uploads/2025/09/Hep-b-1024x576.jpg"
       },
       {
-        "title": "Don't fall for this - how to protect yourself from AI scams",
+        "title": "Websites taken down worldwide as critical cyber-security update issued",
         "source": "BBC Technology",
         "category": "general",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss",
-        "summary": "Trading standards officers say AI is \"super-charging\" existing scams through clones and fake websites.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f70/live/9a6f8400-c98c-11f1-adc3-01d8629f0470.jpg"
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
+        "summary": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb5e/live/02351720-cd44-11f1-8177-0f8bd59b54c4.jpg"
       },
       {
-        "title": "Scientists uncover 3 key brain pathways linked to lasting depression relief",
-        "source": "ScienceDaily",
-        "category": "neuroscience",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261017230021.htm",
-        "summary": "Researchers have uncovered three brain pathways linked to lasting improvements in people receiving deep brain stimulation for severe, treatment-resistant depression. They also discovered that patients who failed to…",
-        "image": "https://www.sciencedaily.com/images/1920/deep-brain-stimulation-depression-treatment.webp"
+        "title": "Voxel51 launches new data platform for robotics and physical AI",
+        "source": "Robotics & Automation News",
+        "category": "robotics",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/21/voxel51-launches-new-data-platform-for-robotics-and-physical-ai/106155/",
+        "summary": "Voxel51 has launched version 3.0 of its data platform, adding new tools designed to help robotics and physical AI developers manage the huge quantities of camera, video and sensor data generated by machines operating in…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/voxel-51-1.png"
       },
       {
-        "title": "NASA’s SpaceX launch lights up the sky with a giant glowing jellyfish",
-        "source": "ScienceDaily",
+        "title": "TechnoMile Recognized as a 2026 Inc. Power Partner Award Winner",
+        "source": "SpaceNews",
         "category": "space",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261016070635.htm",
-        "summary": "A SpaceX Falcon 9 rocket created a dazzling, jellyfish-shaped glow across the eastern United States as sunlight illuminated its exhaust during an early morning launch. The mission delivered equipment and scientific…",
-        "image": "https://www.sciencedaily.com/images/1920/nasa-spacex-crs-35-launch-jellyfish.webp"
+        "sourceUrl": "https://spacenews.com/technomile-recognized-as-a-2026-inc-power-partner-award-winner/",
+        "summary": "TechnoMile, the leading AI solution that unifies growth, contracts, compliance, and security workflows, has been named a 2026 Inc. Power Partner Awards winner, recognizing the company among the leading B2B […] The post…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/TechnoMile-Horizontal-Logo-scaled.png?fit=1024%2C153&ssl=1"
       },
       {
-        "title": "Is the energy of the 1990s returning to London’s art market?",
-        "source": "The Art Newspaper",
+        "title": "Álvaro Urbano Honors the Lost Specimens of Mexico City's Iconic Casa Cueva",
+        "source": "Colossal",
         "category": "art",
-        "sourceUrl": "https://www.theartnewspaper.com/2026/10/17/is-the-energy-of-the-1990s-returning-to-londons-art-market",
-        "summary": "A fascination with Cool Britannia is evident at exhibitions, auctions and art fairs—though some question whether a revival of this era is possible or wise",
-        "image": "https://cdn.sanity.io/images/cxgd3urn/production/f303a2ac7c73ea349c6a1b446cf190cbc6c1ad63-1960x1358.jpg?w=140"
+        "sourceUrl": "https://www.thisiscolossal.com/2026/10/alvaro-urbano-metal-sculptures-casa-cueva-helen/",
+        "summary": "Álvaro Urbano presents an homage to the innovations of Casa Cueva, an icon of modernist Mexican architecture. Do stories and artists like this matter to you? Become a Colossal Member today and support independent arts…",
+        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/urbano-4.jpeg"
       },
       {
-        "title": "Scientists who discovered a third form of magnetism win major physics prize",
-        "source": "ScienceDaily",
-        "category": "energy",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261017230035.htm",
-        "summary": "Physicists have uncovered a hidden third form of magnetism that challenges more than 100 years of established physics. Called altermagnetism, the discovery could transform future computing and electronics while opening…",
-        "image": "https://www.sciencedaily.com/images/1920/altermagnetic-crystal.webp"
+        "title": "STAT+: He’s slashing quality at nursing homes. This state is letting it happen",
+        "source": "STAT News",
+        "category": "biotech",
+        "sourceUrl": "https://www.statnews.com/2026/10/20/nursing-home-chains-slash-quality-massachusetts/?utm_campaign=rss",
+        "summary": "The Boston Globe Spotlight Team found Eli Mirlis made grim cuts to resident care while steering millions of dollars from his nursing homes’ revenue into a constellation of real estate…",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/10/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_kreiter07202026regalcaretaunton9-1024x576.jpg"
       },
       {
-        "title": "Mister Organ is one of the most unsettling documentaries I’ve ever seen",
+        "title": "Netflix Is Great at Making Money. Its Problem Is Keeping Viewers Hooked.",
+        "source": "NYT Technology",
+        "category": "general",
+        "sourceUrl": "https://www.nytimes.com/2026/10/20/business/media/netflix-earnings-ted-sarandos-peter-rice.html",
+        "summary": "The streaming service reported a 12 percent increase in quarterly revenue, but acknowledged that stagnant viewership, particularly in the U.S. and Canada, was a major concern.",
+        "image": "https://static01.nyt.com/images/2026/10/20/multimedia/NETFLIX-earnings-1-htvj/NETFLIX-earnings-1-htvj-mediumSquareAt3X.jpg"
+      },
+      {
+        "title": "Why Your Robot’s Power Supply is the Real Bottleneck",
+        "source": "Robotics & Automation News",
+        "category": "robotics",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/20/why-your-robots-power-supply-is-the-real-bottleneck/106146/",
+        "summary": "Last year a warehouse robotics team I worked with spent eleven weeks chasing a bug that turned out to be a voltage sag. Their AMR kept stalling on a specific stretch of concrete near a charging dock. Software logs…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/ieee-robots-image-1.png"
+      },
+      {
+        "title": "NASA to Conduct Low-Altitude Flights Over Texas Farmland",
+        "source": "NASA",
+        "category": "space",
+        "sourceUrl": "https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-over-texas-farmland/",
+        "summary": "Editor’s Note: This article was originally published on Oct. 15, 2026, and has been updated to correct the location of the flights. A NASA Dynamic Aviation A200 aircraft will conduct low-flying research flights over…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/09/a200-king-air-da.jpg"
+      },
+      {
+        "title": "Meet the Contemporary Women Artists Reimagining Pennsylvania Dutch Folk Art",
+        "source": "Artsy",
+        "category": "art",
+        "sourceUrl": "https://www.artsy.net/article/artsy-editorial-meet-contemporary-women-artists-reimagining-pennsylvania-dutch-folk-art",
+        "summary": "A couple appears making love on an appliquéd patchwork quilt that takes up half a painting’s surface. At the center of the quilt is a tulip, a symbol of faith rebirth that’s popular in Pennsylvania Dutch folk art .…",
+        "image": "https://artsy-media-uploads.s3.amazonaws.com/cZVpvhOUNHHB6yJe4O2wNA%2Fdownload.png"
+      },
+      {
+        "title": "Elon Musk’s proposed SpaceX stock giveaway would go into ‘Trump Accounts'",
         "source": "The Verge",
         "category": "general",
-        "sourceUrl": "https://www.theverge.com/entertainment/1013545/mister-organ-horror-documentary-review",
-        "summary": "Mister Organ doesn't reach the level of societal horror of The Act of Killing or the creepypasta-meets-true-crime gruesomeness of Beware the Slenderman, but there's something deeply unsettling about Michael Organ and…",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Mister-Organ-poster.jpg?quality=90&strip=all&crop=2.25%2C0%2C95.5%2C100&w=1200"
-      },
-      {
-        "title": "Scientists discover a natural compound that could protect the brain from too much salt",
-        "source": "ScienceDaily",
-        "category": "neuroscience",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261017230032.htm",
-        "summary": "Eating too much salt may do more than raise blood pressure. It could also harm memory and social behavior. In a new study, Japanese researchers discovered that a soy-derived compound called LPC70 helped protect mice…",
-        "image": "https://www.sciencedaily.com/images/1920/brain-shield-dementia-protection.webp"
-      },
-      {
-        "title": "Two monster black holes could collide in just 100 years",
-        "source": "ScienceDaily",
-        "category": "space",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261016070650.htm",
-        "summary": "Astronomers have uncovered compelling evidence of two supermassive black holes spiraling toward a potentially spectacular collision at the center of galaxy Mrk 501. A previously unseen jet of particles revealed the…",
-        "image": "https://www.sciencedaily.com/images/1920/center-of-galaxy-markarian-501.webp"
-      },
-      {
-        "title": "New Abu Dhabi cultural district announced ahead of the emirate’s inaugural Frieze fair",
-        "source": "The Art Newspaper",
-        "category": "art",
-        "sourceUrl": "https://www.theartnewspaper.com/2026/10/16/new-abu-dhabi-cultural-district-announced-ahead-of-inaugural-frieze-fair",
-        "summary": "The area, called Noma, will be near the site of the first Frieze Abu Dhabi, which launches next month in the Saadiyat Cultural District",
-        "image": "https://cdn.sanity.io/images/cxgd3urn/production/79242ba09c5245d7dd88ad67e95de8c91f05aaa9-3543x1993.jpg?w=140"
-      },
-      {
-        "title": "No further action against government adviser's wife over Palestine Action post, police say",
-        "source": "BBC Technology",
-        "category": "general",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cv8ez40yz950o?at_medium=RSS&at_campaign=rss",
-        "summary": "Sarah Helm, who is married to Jonathan Powell, was responding to a discussion about the author Sally Rooney.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a4d/live/defb13e0-ca5a-11f1-852c-2b93a8fc4799.jpg"
+        "sourceUrl": "https://www.theverge.com/tech/1014115/elon-musk-spacex-trump-account",
+        "summary": "President Donald Trump announced this afternoon that Elon Musk's SpaceX shares for children will be given through Trump Accounts. Musk said earlier today that he would give one of his SpaceX shares to \"every kid in…",
+        "image": ""
       }
     ],
-    "publishedAt": "2026-10-19T04:27:37.695Z"
+    "publishedAt": "2026-10-21T16:31:18.528Z"
   },
   "drafts": {},
   "history": [
+    {
+      "id": "ed_2026-10-21",
+      "publishDate": "2026-10-21",
+      "status": "published",
+      "updatedAt": "2026-10-21T16:31:18.528Z",
+      "title": "Rewriting History and Powering the Future",
+      "dek": "Human ingenuity, past and present, demands constant re-examination.",
+      "authorName": "Dr. Wallace Lynch",
+      "authorTitle": "Editor in Chief",
+      "paragraphs": [
+        "Today’s headlines remind us that progress relies on unseen foundations—both historical and technological. Archaeologists analyzing clay fingerprints have revealed that women and children helped build China’s ancient Terracotta Army, challenging centuries of male-centric narratives. Meanwhile, contemporary women artists are breathing new life into traditional Pennsylvania Dutch folk art, while sculptor Álvaro Urbano honors the forgotten architectural heritage of Mexico City’s iconic Casa Cueva.",
+        "In healthcare and science, innovation offers both breakthrough solutions and urgent warnings. GSK has secured milestone FDA approval for a new hepatitis B treatment that dramatically expands functional cures. Yet institutional oversight remains critical, as reports expose severe quality cuts in Massachusetts nursing home chains driven by corporate greed. Overhead, NASA’s low-altitude research flights over Texas farmland highlight the vital intersection of space technology and agricultural sustainability.",
+        "The digital and physical frontiers are expanding just as fast, though not without friction. A critical global PHP vulnerability—discovered via advanced AI analysis—caused widespread web outages, underscoring our fragile digital infrastructure. In robotics, developers are tackling physical limitations head-on: Voxel51 launched its 3.0 data platform to manage massive multimodal sensor inputs, even as engineers confront practical hardware bottlenecks like subtle voltage sags in warehouse AMRs.",
+        "In business and culture, giant platforms face shifting tides. Netflix posted strong 12 percent quarterly revenue growth, yet stagnant viewership across North America highlights the challenge of maintaining subscriber engagement. Elsewhere, political and corporate influence intersect as a proposed giveaway of Elon Musk’s SpaceX stock is slated for distribution through new \"Trump Accounts.\"",
+        "Across art, science, and technology, today’s stories prove that building the future—and understanding our past—requires looking closely at the details hidden beneath the surface."
+      ],
+      "wordCount": 272,
+      "heroImage": "https://www.artforum.com/wp-content/uploads/2026/10/GettyImages-2253836426.jpg?w=650",
+      "heroCredit": "Chinese Terracotta Army Built by Women and Children, Not Only Men",
+      "heroSource": "Artforum",
+      "heroSourceUrl": "https://www.artforum.com/news/terracotta-army-built-by-women-and-children-not-only-men-1234761793/",
+      "publishedAt": "2026-10-21T16:31:18.528Z"
+    },
     {
       "id": "ed_2026-10-19",
       "publishDate": "2026-10-19",
@@ -1504,30 +1528,6 @@
       "heroSource": "Colossal",
       "heroSourceUrl": "https://www.thisiscolossal.com/2026/07/winning-photos-cwas-astrofest-space-astrophotography/",
       "publishedAt": "2026-08-01T03:00:46.262Z"
-    },
-    {
-      "id": "ed_2026-07-30",
-      "publishDate": "2026-07-30",
-      "status": "published",
-      "updatedAt": "2026-07-31T00:29:50.616Z",
-      "title": "What no model can seal, and what ground is taught to hold next",
-      "dek": "Convergence of provisional trust and second use",
-      "authorName": "Dr. Wallace Lynch",
-      "authorTitle": "Editor in Chief",
-      "paragraphs": [
-        "esearchers argue that large language models carry a structural flaw no patch can close: attack surfaces woven into how they predict the next token. Security is not a finish line. It is a condition of use. On the same day, a study maps another threshold. Organisms shift to memory only when energy clears a critical line; below it, reaction is cheaper than recall.",
-        "Chronicle of Convergence is not a threat digest or a market brief. It is a daily reading of American life where culture, society, technology, and faith already share the same rooms. On Thursday, July 30, 2026, we hold that reading to one pressure: what we still trust when seals stay provisional and ground is asked to serve again.",
-        "Evidence meets the same friction in biotech. An FDA advisory panel found Capricor's Duchenne data short of \"substantial evidence\" of efficacy. Separately, the FTC sued telehealth firm Hims and Hers, alleging practices that misled consumers and violated privacy. Proof, like security, is not a slogan. It is a bar that can be missed in public.",
-        "Elsewhere, infrastructure chooses second lives. In Texas, a $1.7 billion solar and battery project rises on coal mining land toward 1.2 gigawatts of clean generation. Space Force awarded All Points Logistics $250 million to expand satellite processing at Vandenberg. Rocket Lab booked more Electron launches for Japan's iQPS. ESA opened a call to repurpose Lunar Link after a Gateway pause. Tennant reports product use emissions down thirty percent as autonomous cleaning scales.",
-        "Art returns a face to the room. Elaine de Kooning's JFK portrait series opens this fall at Berry Campbell Gallery in New York: four decades of Abstract Expressionist attention held still against provisional systems.",
-        "A model that cannot be fully sealed still shapes rooms. Convergence is not the fantasy of perfect defense. It is whether we keep honest thresholds for proof, memory, and second use when the seal never quite closes."
-      ],
-      "wordCount": 319,
-      "heroImage": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/1784647241166.jpeg?fit=1024%2C683&ssl=1",
-      "heroCredit": "K2 Space raises $500 million for commercial, defense satellite expansion",
-      "heroSource": "SpaceNews",
-      "heroSourceUrl": "https://spacenews.com/k2-space-raises-500-million-for-commercial-defense-satellite-expansion/",
-      "publishedAt": "2026-07-31T00:29:50.616Z"
     }
   ],
   "usedHeroImages": [
@@ -1785,6 +1785,7 @@
     "https://cdn.sanity.io/images/cxgd3urn/production/5c55607462bad528eb7b294ed6c0c2b44344663e-2000x1334.jpg?w=140",
     "https://artsy-media-uploads.s3.amazonaws.com/oRRWB7WPOtSW4XgMBduuLQ%2FPrint_approx_21_x_14_cm_ABP25__Public_Interactions__PR__General_I_HiRes.jpeg",
     "https://www.sciencedaily.com/images/1920/simp-0136.webp",
-    "https://www.sciencedaily.com/images/1920/nasa-spacex-crs-35-launch-jellyfish.webp"
+    "https://www.sciencedaily.com/images/1920/nasa-spacex-crs-35-launch-jellyfish.webp",
+    "https://www.artforum.com/wp-content/uploads/2026/10/GettyImages-2253836426.jpg?w=650"
   ]
 }
