@@ -1,66 +1,104 @@
 {
   "published": {
-    "id": "ed_2026-10-21",
-    "publishDate": "2026-10-21",
+    "id": "ed_2026-10-22",
+    "publishDate": "2026-10-22",
     "status": "published",
-    "updatedAt": "2026-10-21T16:31:18.528Z",
-    "title": "Rewriting History and Powering the Future",
-    "dek": "Human ingenuity, past and present, demands constant re-examination.",
+    "updatedAt": "2026-10-22T17:30:49.134Z",
+    "title": "The Fragility of Progress",
+    "dek": "Technological leaps clash with societal fractures and systemic vulnerabilities.",
     "authorName": "Dr. Wallace Lynch",
     "authorTitle": "Editor in Chief",
-    "body": "Today’s headlines remind us that progress relies on unseen foundations—both historical and technological. Archaeologists analyzing clay fingerprints have revealed that women and children helped build China’s ancient Terracotta Army, challenging centuries of male-centric narratives. Meanwhile, contemporary women artists are breathing new life into traditional Pennsylvania Dutch folk art, while sculptor Álvaro Urbano honors the forgotten architectural heritage of Mexico City’s iconic Casa Cueva.\n\nIn healthcare and science, innovation offers both breakthrough solutions and urgent warnings. GSK has secured milestone FDA approval for a new hepatitis B treatment that dramatically expands functional cures. Yet institutional oversight remains critical, as reports expose severe quality cuts in Massachusetts nursing home chains driven by corporate greed. Overhead, NASA’s low-altitude research flights over Texas farmland highlight the vital intersection of space technology and agricultural sustainability.\n\nThe digital and physical frontiers are expanding just as fast, though not without friction. A critical global PHP vulnerability—discovered via advanced AI analysis—caused widespread web outages, underscoring our fragile digital infrastructure. In robotics, developers are tackling physical limitations head-on: Voxel51 launched its 3.0 data platform to manage massive multimodal sensor inputs, even as engineers confront practical hardware bottlenecks like subtle voltage sags in warehouse AMRs.\n\nIn business and culture, giant platforms face shifting tides. Netflix posted strong 12 percent quarterly revenue growth, yet stagnant viewership across North America highlights the challenge of maintaining subscriber engagement. Elsewhere, political and corporate influence intersect as a proposed giveaway of Elon Musk’s SpaceX stock is slated for distribution through new \"Trump Accounts.\"\n\nAcross art, science, and technology, today’s stories prove that building the future—and understanding our past—requires looking closely at the details hidden beneath the surface.",
+    "body": "This week’s news serves as a stark reminder of the fragile scaffolding beneath our modern ambitions. While the tech industry races forward—with Anthropic launching its new Claude Duet AI agent to compete in the enterprise space and NASA firing up the RS-25 engine for future Artemis lunar missions—the foundations closer to home are cracking. A massive PHP security vulnerability has sent governments and businesses into a global patching frenzy, bringing countless websites offline and exposing the precarious, duct-taped nature of our digital infrastructure.\n\nPhysical spaces and social systems are proving just as volatile. Art Basel Paris was forced to shutter two days early amid looming protests and rioting, a jarring contrast to the flurry of seven- and eight-figure sales that dominated its opening hours. It is a striking picture of elite insulation abruptly colliding with public unrest. The healthcare sector mirrors this systemic decay. Regulators are ramping up crackdowns on rampant fraud within New York’s adult day care programs, while predatory ownership in Massachusetts is quietly siphoning millions from nursing home revenues into real estate portfolios, devastating resident care in the process.\n\nEven our trusted personal health interventions are facing a harsh reality check. A definitive two-year clinical trial has concluded that fish oil supplements do absolutely nothing to improve memory or stave off Alzheimer's-related brain shrinkage. Yet, human ingenuity persists where systems fail. Researchers have just unveiled a revolutionary laser-powered microscope capable of illuminating previously invisible cellular machinery, and artists like Álvaro Urbano continue to preserve cultural memory by honoring the modernist innovations of Mexico City's Casa Cueva. We are building the tools to see our world with unprecedented clarity; whether we have the resolve to fix the structural rot we uncover remains the defining question.",
     "paragraphs": [
-      "Today’s headlines remind us that progress relies on unseen foundations—both historical and technological. Archaeologists analyzing clay fingerprints have revealed that women and children helped build China’s ancient Terracotta Army, challenging centuries of male-centric narratives. Meanwhile, contemporary women artists are breathing new life into traditional Pennsylvania Dutch folk art, while sculptor Álvaro Urbano honors the forgotten architectural heritage of Mexico City’s iconic Casa Cueva.",
-      "In healthcare and science, innovation offers both breakthrough solutions and urgent warnings. GSK has secured milestone FDA approval for a new hepatitis B treatment that dramatically expands functional cures. Yet institutional oversight remains critical, as reports expose severe quality cuts in Massachusetts nursing home chains driven by corporate greed. Overhead, NASA’s low-altitude research flights over Texas farmland highlight the vital intersection of space technology and agricultural sustainability.",
-      "The digital and physical frontiers are expanding just as fast, though not without friction. A critical global PHP vulnerability—discovered via advanced AI analysis—caused widespread web outages, underscoring our fragile digital infrastructure. In robotics, developers are tackling physical limitations head-on: Voxel51 launched its 3.0 data platform to manage massive multimodal sensor inputs, even as engineers confront practical hardware bottlenecks like subtle voltage sags in warehouse AMRs.",
-      "In business and culture, giant platforms face shifting tides. Netflix posted strong 12 percent quarterly revenue growth, yet stagnant viewership across North America highlights the challenge of maintaining subscriber engagement. Elsewhere, political and corporate influence intersect as a proposed giveaway of Elon Musk’s SpaceX stock is slated for distribution through new \"Trump Accounts.\"",
-      "Across art, science, and technology, today’s stories prove that building the future—and understanding our past—requires looking closely at the details hidden beneath the surface."
+      "This week’s news serves as a stark reminder of the fragile scaffolding beneath our modern ambitions. While the tech industry races forward—with Anthropic launching its new Claude Duet AI agent to compete in the enterprise space and NASA firing up the RS-25 engine for future Artemis lunar missions—the foundations closer to home are cracking. A massive PHP security vulnerability has sent governments and businesses into a global patching frenzy, bringing countless websites offline and exposing the precarious, duct-taped nature of our digital infrastructure.",
+      "Physical spaces and social systems are proving just as volatile. Art Basel Paris was forced to shutter two days early amid looming protests and rioting, a jarring contrast to the flurry of seven- and eight-figure sales that dominated its opening hours. It is a striking picture of elite insulation abruptly colliding with public unrest. The healthcare sector mirrors this systemic decay. Regulators are ramping up crackdowns on rampant fraud within New York’s adult day care programs, while predatory ownership in Massachusetts is quietly siphoning millions from nursing home revenues into real estate portfolios, devastating resident care in the process.",
+      "Even our trusted personal health interventions are facing a harsh reality check. A definitive two-year clinical trial has concluded that fish oil supplements do absolutely nothing to improve memory or stave off Alzheimer's-related brain shrinkage. Yet, human ingenuity persists where systems fail. Researchers have just unveiled a revolutionary laser-powered microscope capable of illuminating previously invisible cellular machinery, and artists like Álvaro Urbano continue to preserve cultural memory by honoring the modernist innovations of Mexico City's Casa Cueva. We are building the tools to see our world with unprecedented clarity; whether we have the resolve to fix the structural rot we uncover remains the defining question."
     ],
-    "wordCount": 272,
-    "heroImage": "https://www.artforum.com/wp-content/uploads/2026/10/GettyImages-2253836426.jpg?w=650",
-    "heroCredit": "Chinese Terracotta Army Built by Women and Children, Not Only Men",
-    "heroSource": "Artforum",
-    "heroSourceUrl": "https://www.artforum.com/news/terracotta-army-built-by-women-and-children-not-only-men-1234761793/",
+    "wordCount": 287,
+    "heroImage": "https://www.nasa.gov/wp-content/uploads/2026/10/ssc-20261021-s00947h.jpg",
+    "heroCredit": "NASA Conducts RS-25 Engine Test in Support of Future Artemis Missions",
+    "heroSource": "NASA",
+    "heroSourceUrl": "https://www.nasa.gov/image-article/rs-25-engine-test-in-support-of-future-artemis-missions/",
     "headlines": [
       {
-        "title": "Chinese Terracotta Army Built by Women and Children, Not Only Men",
+        "title": "Art Basel Paris Ends Early, Fondation Louis Vuitton Shutters as Protests Loom",
         "source": "Artforum",
         "category": "art",
-        "sourceUrl": "https://www.artforum.com/news/terracotta-army-built-by-women-and-children-not-only-men-1234761793/",
-        "summary": "The study of seventy-nine fingerprints visible in the clay used to form some of the terracotta warriors in Xi’an, China, has revealed that the makers of the statues included not just adult men but also women and…",
-        "image": "https://www.artforum.com/wp-content/uploads/2026/10/GettyImages-2253836426.jpg?w=650"
+        "sourceUrl": "https://www.artforum.com/news/art-basel-paris-ends-early-fondation-louis-vuitton-shutters-1234761917/",
+        "summary": "Art Basel Paris will come to a close at 7 p.m. Friday evening, two days earlier than planned, and Fondation Louis Vuitton will shut its doors on Saturday amid fears of protest. The extraordinary closures follow…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/10/GettyImages-2300858231.jpg?w=650"
       },
       {
-        "title": "STAT+: GSK picks up hep B drug approval",
+        "title": "STAT+: Crackdowns loom, from China to New York",
         "source": "STAT News",
         "category": "biotech",
-        "sourceUrl": "https://www.statnews.com/2026/10/21/biotech-news-gsk-picks-up-hep-b-drug-approval/?utm_campaign=rss",
-        "summary": "GSK has won FDA approval for its hepatitis B drug, which extended functional cures to far more patients than previous methods.",
-        "image": "https://www.statnews.com/wp-content/uploads/2025/09/Hep-b-1024x576.jpg"
+        "sourceUrl": "https://www.statnews.com/2026/10/22/china-biotech-coins-act-rule-health-insurance-costs-rise/?utm_campaign=rss",
+        "summary": "Speaking on the economy, the vice president told a crowd in Ohio that, “You don’t turn the Titanic around overnight.” Send news tips and bad metaphors to John.Wilkerson@statnews.com or John_Wilkerson.07…",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/06/AP25350842173386-1024x576.jpg"
       },
       {
-        "title": "Websites taken down worldwide as critical cyber-security update issued",
-        "source": "BBC Technology",
+        "title": "A revolutionary new microscope could reveal the hidden machinery of life",
+        "source": "ScienceDaily",
+        "category": "energy",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261021231230.htm",
+        "summary": "Researchers have developed a revolutionary microscope that uses an incredibly powerful laser to make previously invisible cellular structures easier to see. The technology dramatically improves image clarity, allowing…",
+        "image": "https://www.sciencedaily.com/images/1920/cryo-em-with-laser-phase-plate.webp"
+      },
+      {
+        "title": "PHP Security Flaw Sets Off Global Rush to Patch, Leaving Websites Offline",
+        "source": "NYT Technology",
         "category": "general",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
-        "summary": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb5e/live/02351720-cd44-11f1-8177-0f8bd59b54c4.jpg"
+        "sourceUrl": "https://www.nytimes.com/2026/10/22/world/php-vulnerability-websites-cybersecurity-ai.html",
+        "summary": "Governments and businesses around the world scrambled to prevent hackers from exploiting a vulnerability in PHP, a popular programming language.",
+        "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22int-website-flaws-qvzg/22int-website-flaws-qvzg-mediumSquareAt3X.jpg"
       },
       {
-        "title": "Voxel51 launches new data platform for robotics and physical AI",
+        "title": "Millions take fish oil for brain health. A two-year study found no benefit",
+        "source": "ScienceDaily",
+        "category": "neuroscience",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261020085427.htm",
+        "summary": "A surprising two-year clinical trial found that fish oil supplements successfully delivered omega-3s to the brain but failed to improve memory or protect against Alzheimer's-related brain shrinkage. Researchers suspect…",
+        "image": "https://www.sciencedaily.com/images/1920/fish-oil-omega-3-capsules-dha-epa.webp"
+      },
+      {
+        "title": "Rioting does not deter big-ticket sales at Art Basel Paris",
+        "source": "The Art Newspaper",
+        "category": "art",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/10/21/riots-do-not-deter-big-ticket-sales-at-art-basel-paris",
+        "summary": "A flurry of seven- and eight-figure works were snapped up on the opening days of the fair",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/a4a21eb425f87c814090d5bd9d99b25123d0f357-2480x1653.jpg?w=140"
+      },
+      {
+        "title": "STAT+: CMS extends fraud crackdown to New York’s adult day care program",
+        "source": "STAT News",
+        "category": "biotech",
+        "sourceUrl": "https://www.statnews.com/2026/10/21/cms-medicaid-fraud-nyc-adult-daycare-operators/?utm_campaign=rss",
+        "summary": "CMS is cracking down on adult day cares in New York, part of a broader focus on alleged health care fraud.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/10/GettyImages-2301169427-1024x576.jpg"
+      },
+      {
+        "title": "Anthropic Joins the A.I. Agent Race With Claude Duet",
+        "source": "NYT Technology",
+        "category": "general",
+        "sourceUrl": "https://www.nytimes.com/2026/10/21/technology/anthropic-ai-agent-claude-duet.html",
+        "summary": "The tool, which is not yet widely available, will compete with OpenAI’s dots and Meta’s Muse. It is built for work and not personal errands.",
+        "image": "https://static01.nyt.com/images/2026/10/21/business/21biz-anthropic-agent-handout-02/21biz-anthropic-agent-handout-02-mediumSquareAt3X.png"
+      },
+      {
+        "title": "How Small and Medium-Sized Trucking Fleets Can Benefit from AI Dash Cameras",
         "source": "Robotics & Automation News",
         "category": "robotics",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/21/voxel51-launches-new-data-platform-for-robotics-and-physical-ai/106155/",
-        "summary": "Voxel51 has launched version 3.0 of its data platform, adding new tools designed to help robotics and physical AI developers manage the huge quantities of camera, video and sensor data generated by machines operating in…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/voxel-51-1.png"
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/21/how-small-and-medium-sized-trucking-fleets-can-benefit-from-ai-dash-cameras/106179/",
+        "summary": "Running a small or medium-sized trucking fleet means balancing safety, operating costs, driver performance, and customer expectations every day. In-cab safety solutions such as cameras can help carriers gain better…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/gps-tab-dash-cam-2.png"
       },
       {
-        "title": "TechnoMile Recognized as a 2026 Inc. Power Partner Award Winner",
-        "source": "SpaceNews",
+        "title": "NASA Conducts RS-25 Engine Test in Support of Future Artemis Missions",
+        "source": "NASA",
         "category": "space",
-        "sourceUrl": "https://spacenews.com/technomile-recognized-as-a-2026-inc-power-partner-award-winner/",
-        "summary": "TechnoMile, the leading AI solution that unifies growth, contracts, compliance, and security workflows, has been named a 2026 Inc. Power Partner Awards winner, recognizing the company among the leading B2B […] The post…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/TechnoMile-Horizontal-Logo-scaled.png?fit=1024%2C153&ssl=1"
+        "sourceUrl": "https://www.nasa.gov/image-article/rs-25-engine-test-in-support-of-future-artemis-missions/",
+        "summary": "NASA tested RS-25 engine No. 10001 on Oct. 21 on the Fred Haise Test Stand at NASA’s Stennis Space Center near Bay St. Louis, Mississippi. Test teams fired the developmental engine for almost eight-and-a-half minutes…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/10/ssc-20261021-s00947h.jpg"
       },
       {
         "title": "Álvaro Urbano Honors the Lost Specimens of Mexico City's Iconic Casa Cueva",
@@ -77,52 +115,33 @@
         "sourceUrl": "https://www.statnews.com/2026/10/20/nursing-home-chains-slash-quality-massachusetts/?utm_campaign=rss",
         "summary": "The Boston Globe Spotlight Team found Eli Mirlis made grim cuts to resident care while steering millions of dollars from his nursing homes’ revenue into a constellation of real estate…",
         "image": "https://www.statnews.com/wp-content/uploads/2026/10/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_kreiter07202026regalcaretaunton9-1024x576.jpg"
-      },
-      {
-        "title": "Netflix Is Great at Making Money. Its Problem Is Keeping Viewers Hooked.",
-        "source": "NYT Technology",
-        "category": "general",
-        "sourceUrl": "https://www.nytimes.com/2026/10/20/business/media/netflix-earnings-ted-sarandos-peter-rice.html",
-        "summary": "The streaming service reported a 12 percent increase in quarterly revenue, but acknowledged that stagnant viewership, particularly in the U.S. and Canada, was a major concern.",
-        "image": "https://static01.nyt.com/images/2026/10/20/multimedia/NETFLIX-earnings-1-htvj/NETFLIX-earnings-1-htvj-mediumSquareAt3X.jpg"
-      },
-      {
-        "title": "Why Your Robot’s Power Supply is the Real Bottleneck",
-        "source": "Robotics & Automation News",
-        "category": "robotics",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/20/why-your-robots-power-supply-is-the-real-bottleneck/106146/",
-        "summary": "Last year a warehouse robotics team I worked with spent eleven weeks chasing a bug that turned out to be a voltage sag. Their AMR kept stalling on a specific stretch of concrete near a charging dock. Software logs…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/ieee-robots-image-1.png"
-      },
-      {
-        "title": "NASA to Conduct Low-Altitude Flights Over Texas Farmland",
-        "source": "NASA",
-        "category": "space",
-        "sourceUrl": "https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-over-texas-farmland/",
-        "summary": "Editor’s Note: This article was originally published on Oct. 15, 2026, and has been updated to correct the location of the flights. A NASA Dynamic Aviation A200 aircraft will conduct low-flying research flights over…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/09/a200-king-air-da.jpg"
-      },
-      {
-        "title": "Meet the Contemporary Women Artists Reimagining Pennsylvania Dutch Folk Art",
-        "source": "Artsy",
-        "category": "art",
-        "sourceUrl": "https://www.artsy.net/article/artsy-editorial-meet-contemporary-women-artists-reimagining-pennsylvania-dutch-folk-art",
-        "summary": "A couple appears making love on an appliquéd patchwork quilt that takes up half a painting’s surface. At the center of the quilt is a tulip, a symbol of faith rebirth that’s popular in Pennsylvania Dutch folk art .…",
-        "image": "https://artsy-media-uploads.s3.amazonaws.com/cZVpvhOUNHHB6yJe4O2wNA%2Fdownload.png"
-      },
-      {
-        "title": "Elon Musk’s proposed SpaceX stock giveaway would go into ‘Trump Accounts'",
-        "source": "The Verge",
-        "category": "general",
-        "sourceUrl": "https://www.theverge.com/tech/1014115/elon-musk-spacex-trump-account",
-        "summary": "President Donald Trump announced this afternoon that Elon Musk's SpaceX shares for children will be given through Trump Accounts. Musk said earlier today that he would give one of his SpaceX shares to \"every kid in…",
-        "image": ""
       }
     ],
-    "publishedAt": "2026-10-21T16:31:18.528Z"
+    "publishedAt": "2026-10-22T17:30:49.134Z"
   },
   "drafts": {},
   "history": [
+    {
+      "id": "ed_2026-10-22",
+      "publishDate": "2026-10-22",
+      "status": "published",
+      "updatedAt": "2026-10-22T17:30:49.134Z",
+      "title": "The Fragility of Progress",
+      "dek": "Technological leaps clash with societal fractures and systemic vulnerabilities.",
+      "authorName": "Dr. Wallace Lynch",
+      "authorTitle": "Editor in Chief",
+      "paragraphs": [
+        "This week’s news serves as a stark reminder of the fragile scaffolding beneath our modern ambitions. While the tech industry races forward—with Anthropic launching its new Claude Duet AI agent to compete in the enterprise space and NASA firing up the RS-25 engine for future Artemis lunar missions—the foundations closer to home are cracking. A massive PHP security vulnerability has sent governments and businesses into a global patching frenzy, bringing countless websites offline and exposing the precarious, duct-taped nature of our digital infrastructure.",
+        "Physical spaces and social systems are proving just as volatile. Art Basel Paris was forced to shutter two days early amid looming protests and rioting, a jarring contrast to the flurry of seven- and eight-figure sales that dominated its opening hours. It is a striking picture of elite insulation abruptly colliding with public unrest. The healthcare sector mirrors this systemic decay. Regulators are ramping up crackdowns on rampant fraud within New York’s adult day care programs, while predatory ownership in Massachusetts is quietly siphoning millions from nursing home revenues into real estate portfolios, devastating resident care in the process.",
+        "Even our trusted personal health interventions are facing a harsh reality check. A definitive two-year clinical trial has concluded that fish oil supplements do absolutely nothing to improve memory or stave off Alzheimer's-related brain shrinkage. Yet, human ingenuity persists where systems fail. Researchers have just unveiled a revolutionary laser-powered microscope capable of illuminating previously invisible cellular machinery, and artists like Álvaro Urbano continue to preserve cultural memory by honoring the modernist innovations of Mexico City's Casa Cueva. We are building the tools to see our world with unprecedented clarity; whether we have the resolve to fix the structural rot we uncover remains the defining question."
+      ],
+      "wordCount": 287,
+      "heroImage": "https://www.nasa.gov/wp-content/uploads/2026/10/ssc-20261021-s00947h.jpg",
+      "heroCredit": "NASA Conducts RS-25 Engine Test in Support of Future Artemis Missions",
+      "heroSource": "NASA",
+      "heroSourceUrl": "https://www.nasa.gov/image-article/rs-25-engine-test-in-support-of-future-artemis-missions/",
+      "publishedAt": "2026-10-22T17:30:49.134Z"
+    },
     {
       "id": "ed_2026-10-21",
       "publishDate": "2026-10-21",
@@ -1504,30 +1523,6 @@
       "heroSource": "Robotics & Automation News",
       "heroSourceUrl": "https://roboticsandautomationnews.com/2026/08/01/seedance-2-5-advancing-ai-video-creation-for-modern-content-workflows/103829/",
       "publishedAt": "2026-08-01T19:52:07.146Z"
-    },
-    {
-      "id": "ed_2026-07-31",
-      "publishDate": "2026-07-31",
-      "status": "published",
-      "updatedAt": "2026-08-01T03:00:46.262Z",
-      "title": "What we still pay to repair, and what a second life is worth",
-      "dek": "Convergence of regeneration and civic cost",
-      "authorName": "Dr. Wallace Lynch",
-      "authorTitle": "Editor in Chief",
-      "paragraphs": [
-        "Muscle stem cells keep their identity when a telomere protein, TRF2, steadies DNA structures beyond aging tips. A second study finds dietary protein restriction can improve metabolism, raise FGF21, and extend lifespan, challenging high protein fashion for sedentary adults. Elsewhere, psilocybin assisted therapy reports a seventy five percent remission rate in veterans with severe, treatment resistant PTSD. The body is not only breaking. It is negotiating what can still return.",
-        "Chronicle of Convergence is not a clinical digest or a budget brief. It is a daily reading of American life where culture, society, technology, and faith already share the same rooms. On Friday, July 31, 2026, we hold that reading to one pressure: what we still pay to repair while the invoice is revised.",
-        "Care meets policy friction. The administration is revising a rebate pilot for the 340B drug discount program, angering hospitals that depend on the margin between discount and cost. In New York, solar builders push back on the claim that arrays swallow farmland. Land, like a body, is argued over as if only one use can be honest.",
-        "Elsewhere systems accelerate and hardware is priced twice. Gemini 3.6 Flash and 3.5 Flash Lite open through official APIs. NASA opens its first major new wind tunnel in more than forty years at Langley. A plan to send a repurposed Mars rover model to the Moon draws an estimate above one billion dollars, contested by the agency’s administrator. Second use is never free.",
-        "Art answers with craft once invisible. Adelene Koh turns bookbinding seams into sculpture. Amateur work from the David Malin Awards holds sky wonders still for a public to share.",
-        "Repair is not only a protein or a rebate line. Convergence is whether we keep honest thresholds for what the body can reclaim, what the field can host, and what a second life of machines is worth when the day asks for healing and a hard number."
-      ],
-      "wordCount": 320,
-      "heroImage": "https://www.thisiscolossal.com/wp-content/uploads/2026/07/cwas-3.jpg",
-      "heroCredit": "The Top Photos in the CWAS David Malin Awards Highlight Astronomical Wonders",
-      "heroSource": "Colossal",
-      "heroSourceUrl": "https://www.thisiscolossal.com/2026/07/winning-photos-cwas-astrofest-space-astrophotography/",
-      "publishedAt": "2026-08-01T03:00:46.262Z"
     }
   ],
   "usedHeroImages": [
@@ -1786,6 +1781,7 @@
     "https://artsy-media-uploads.s3.amazonaws.com/oRRWB7WPOtSW4XgMBduuLQ%2FPrint_approx_21_x_14_cm_ABP25__Public_Interactions__PR__General_I_HiRes.jpeg",
     "https://www.sciencedaily.com/images/1920/simp-0136.webp",
     "https://www.sciencedaily.com/images/1920/nasa-spacex-crs-35-launch-jellyfish.webp",
-    "https://www.artforum.com/wp-content/uploads/2026/10/GettyImages-2253836426.jpg?w=650"
+    "https://www.artforum.com/wp-content/uploads/2026/10/GettyImages-2253836426.jpg?w=650",
+    "https://www.nasa.gov/wp-content/uploads/2026/10/ssc-20261021-s00947h.jpg"
   ]
 }
