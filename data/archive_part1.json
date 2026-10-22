@@ -1,5 +1,25 @@
 [
   {
+    "batchId": "editorial_2026-09-19",
+    "scannedAt": "2026-09-19T18:58:00.278Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-09-19",
+        "rank": 0,
+        "title": "What the current already knows",
+        "category": "editorial",
+        "summary": "Twelve dispatches, and a question about who decides.",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/09/U112.jpg?w=650",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-09-19.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-09-19",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-09-18T21-58",
     "scannedAt": "2026-09-18T21:58:09.878Z",
     "items": [
@@ -2408,26 +2428,6 @@
         "source": "Robotics & Automation News",
         "sourceUrl": "https://roboticsandautomationnews.com/2026/08/18/fort-robotics-to-go-public-via-business-combination-with-newbury-street-ii-acquisition-corp/104238/",
         "fromX": false
-      }
-    ]
-  },
-  {
-    "batchId": "editorial_2026-08-17",
-    "scannedAt": "2026-08-18T02:01:59.929Z",
-    "kind": "editorial_archive",
-    "items": [
-      {
-        "id": "editorial_2026-08-17",
-        "rank": 0,
-        "title": "The vessel does not keep a plate",
-        "category": "editorial",
-        "summary": "A father's tribute, and a city's search",
-        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/08/mabona-7.jpg",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-17.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-08-17",
-        "authorName": "Dr. Wallace Lynch"
       }
     ]
   }
