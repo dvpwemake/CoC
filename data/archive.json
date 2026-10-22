@@ -1,5 +1,25 @@
 [
   {
+    "batchId": "editorial_2026-10-21",
+    "scannedAt": "2026-10-21T16:31:18.528Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-10-21",
+        "rank": 0,
+        "title": "Rewriting History and Powering the Future",
+        "category": "editorial",
+        "summary": "Human ingenuity, past and present, demands constant re-examination.",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/10/GettyImages-2253836426.jpg?w=650",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-10-21.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-10-21",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-10-22T16-07",
     "scannedAt": "2026-10-22T16:07:21.796Z",
     "items": [
