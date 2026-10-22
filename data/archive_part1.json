@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-09-18T21-58",
+    "scannedAt": "2026-09-18T21:58:09.878Z",
+    "items": [
+      {
+        "id": "auto_2026-09-18T21-58_1",
+        "rank": 1,
+        "title": "600-year-old funerary platform discovered in Peru",
+        "category": "art",
+        "summary": "The massive burial site containing human remains and rich offerings likely belonged to Chimú elites",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/66f912f2915bb0473f73c356a2532eec568bef4b-2000x1332.jpg?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/09/18/funerary-platform-discovered-peru-chan-chan-chimu",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-18T21-58_2",
+        "rank": 2,
+        "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
+        "category": "general",
+        "summary": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom loop\" that would damage the web,…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS534_AI_DOOMSDAY2_B.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+        "source": "The Verge",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-18T21-58_3",
+        "rank": 3,
+        "title": "Vistra’s Moss Landing grid battery is on fire yet again",
+        "category": "energy",
+        "summary": "It happened yet again. Another plume of smoke rose from Vistra’s Moss Landing battery plant Friday morning, a year and a half after a catastrophic fire wrecked the grid storage facility in Northern California. Vistra…",
+        "image": "https://img.canarymedia.com/content/uploads/Moss-Landing-fire-2026.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=45e63f9e1dab707dce18e544dba68676",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/batteries/vistra-moss-landing-on-fire-again",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-18T21-58_4",
+        "rank": 4,
+        "title": "STAT+: Trump touts pharma deals to offer cheaper drugs to state Medicaid programs",
+        "category": "biotech",
+        "summary": "Every state will participate in the GENEROUS program, but many of the details are unknown.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/09/GettyImages-2295966724-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/09/18/trump-touts-state-participation-generous-medicaid-drug-discount-program/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-18T21-58_5",
+        "rank": 5,
+        "title": "NASA Invites Media to Albania Artemis Accords Signing Ceremony",
+        "category": "space",
+        "summary": "The Republic of Albania will sign the Artemis Accords during a ceremony at 12 p.m. EDT on Monday, Sept. 21, at NASA Headquarters in Washington, becoming the 73rd country signatory. NASA Deputy Administrator Matt…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2025/09/cropped-nasa-meatball-1.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/news-release/nasa-invites-media-to-albania-artemis-accords-signing-ceremony/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "editorial_2026-09-18",
     "scannedAt": "2026-09-18T03:10:57.659Z",
     "kind": "editorial_archive",
@@ -2367,67 +2428,6 @@
         "isEditorialArchive": true,
         "publishDate": "2026-08-17",
         "authorName": "Dr. Wallace Lynch"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-08-17T20-11",
-    "scannedAt": "2026-08-17T20:11:24.270Z",
-    "items": [
-      {
-        "id": "auto_2026-08-17T20-11_1",
-        "rank": 1,
-        "title": "Interview with Lattice Semiconductor’s Karl Wachswender: ‘Parallel processing enables more powerful edge AI’",
-        "category": "robotics",
-        "summary": "As robots become more intelligent, autonomous and connected, much of the attention naturally falls on increasingly powerful AI models. But underneath those models is an increasingly complex collection of sensors,…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/Lattice-Image-3.png",
-        "source": "Robotics & Automation News",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/17/interview-with-lattice-semiconductors-karl-wachswender-parallel-processing-enables-more-powerful-edge-ai/104215/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-17T20-11_2",
-        "rank": 2,
-        "title": "Supreme Court rejects Verizon bid for $47 million refund of FCC fine",
-        "category": "general",
-        "summary": "Despite loss, carriers still claim selling device-location data isn't illegal.",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/verizon-stock-ticker-1152x648-1786994944.jpg",
-        "source": "Ars Technica",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/08/supreme-court-rejects-verizon-bid-for-47-million-refund-of-fcc-fine/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-17T20-11_3",
-        "rank": 3,
-        "title": "Brett Littman to Lead Museum of Contemporary Art San Diego",
-        "category": "art",
-        "summary": "The Museum of Contemporary Art San Diego (MCASD) has announced Brett Littman as its new director and CEO. From 2018 to 2023, Littman served as director of the Noguchi Museum in Long Island City, New York. He succeeds…",
-        "image": "https://www.artforum.com/wp-content/uploads/2026/08/featured00_large-56.jpg-copy.jpg?w=554",
-        "source": "Artforum",
-        "sourceUrl": "https://www.artforum.com/news/brett-littman-to-helm-museum-of-contemporary-art-san-diego-1234757138/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-17T20-11_4",
-        "rank": 4,
-        "title": "NASA Mission Studies Air Pollution Over Ethiopia",
-        "category": "space",
-        "summary": "A NASA-funded air pollution monitoring network has provided one of the most detailed long-term views yet of the role of black carbon, or soot produced by fires, diesel vehicles, and other combustion sources, in…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/08/1-addis-ababa-city-view.jpg",
-        "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/missions/maia/nasa-mission-studies-air-pollution-over-ethiopia/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-17T20-11_5",
-        "rank": 5,
-        "title": "STAT+: Sanofi to lay off 229 workers in Mass., a year after $9.1B Blueprint Medicines acquisition",
-        "category": "biotech",
-        "summary": "Sanofi, one of the Massachusetts' largest pharmaceutical employers, will lay off more than 200 workers there a year after acquiring Blueprint Medicines.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/07/GettyImages-2281597952-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/08/17/sanofi-layoffs-mass-blueprint-medicines/?utm_campaign=rss",
-        "fromX": false
       }
     ]
   }
