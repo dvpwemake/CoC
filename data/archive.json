@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-10-23T02-05",
-    "scannedAt": "2026-10-23T02:05:05.509Z",
+    "batchId": "auto_2026-10-23T08-52",
+    "scannedAt": "2026-10-23T08:52:16.990Z",
     "items": [
       {
-        "id": "auto_2026-10-23T02-05_1",
+        "id": "auto_2026-10-23T08-52_1",
         "rank": 1,
-        "title": "Etsy is cracking down on AI slop listings",
-        "category": "general",
-        "summary": "Etsy is announcing stricter rules about how AI can be used in listings to reduce the volume of AI slop on the platform. In a post, the company says that \"many active buyers say they can't tell which items involve…",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-5.03.44-PM.png?quality=90&strip=all&crop=0%2C7.8921063654804%2C100%2C66.941443560245&w=1200",
-        "source": "The Verge",
-        "sourceUrl": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-23T02-05_2",
-        "rank": 2,
-        "title": "STAT+: Gilead to pay $45 million to settle kickback charges filed by Texas attorney general",
+        "title": "STAT+: State officials scrambling to implement Medicaid work requirements meet up to swap notes",
         "category": "biotech",
-        "summary": "Gilead Sciences agreed to pay $45 million to settle allegations of paying kickbacks that improperly influenced prescriptions paid for by the Texas Medicaid program",
-        "image": "https://www.statnews.com/wp-content/uploads/2024/02/GettyImages-1221879708-1024x576.jpg",
+        "summary": "What state officials scrambling to implement Medicaid work requirements shared behind closed doors at the National Association of Medicaid Directors conference.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/10/GettyImages-2299832720-1024x576.jpg",
         "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/pharmalot/2026/10/22/gilead-settles-kickback-lawsuit-texas-attorney-general/?utm_campaign=rss",
+        "sourceUrl": "https://www.statnews.com/2026/10/23/state-medicaid-officials-prepare-for-new-work-requirements/?utm_campaign=rss",
         "fromX": false
       },
       {
-        "id": "auto_2026-10-23T02-05_3",
-        "rank": 3,
-        "title": "Miami Beach’s Bass Museum Unveils Expansion Plans",
-        "category": "art",
-        "summary": "Expansion plans for Miami Beach's Bass Museum of Art have been released by Los Angeles–based architectural firm Johnston Marklee, which was selected in April to lead the project. The designs incorporate three…",
-        "image": "https://www.artforum.com/wp-content/uploads/2026/10/JM_Bass_005_p3.jpg?w=650",
-        "source": "Artforum",
-        "sourceUrl": "https://www.artforum.com/news/miami-beachs-bass-museum-unveils-expansion-plan-1234761912/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-23T02-05_4",
-        "rank": 4,
-        "title": "NASA Invites Media to 2026 von Braun Space Exploration Symposium",
-        "category": "space",
-        "summary": "Members of the media are invited to join NASA at the 2026 von Braun Space Exploration Symposium from Monday, Oct. 26, to Wednesday, Oct. 28, at the University of Alabama in Huntsville. This year’s symposium is focused…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2019/11/nasa_meatball.jpg",
-        "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/news-release/nasa-invites-media-to-2026-von-braun-space-exploration-symposium/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-23T02-05_5",
-        "rank": 5,
-        "title": "Warehouse PPE and Hi Vis in the Age of Automation: Keeping People Safe Around the Machines",
+        "id": "auto_2026-10-23T08-52_2",
+        "rank": 2,
+        "title": "The True Cost of Aerial Equipment Rental in Automated Facilities",
         "category": "robotics",
-        "summary": "Warehouses have changed faster in the past decade than in the previous fifty years. Automated vehicles, robotic pickers and conveyors now share the floor with people. Those people still need protecting, and the right…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/PPE-and-Hi-Vis-1.png",
+        "summary": "Aerial equipment rental has a habit of arriving as a surprise. A camera above the palletizer drifts out of alignment, a chiller on the roof needs swapping, an integrator cannot commission a sensor run from a ladder, and…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/blade-Boom-Truck-1.jpeg",
         "source": "Robotics & Automation News",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/22/warehouse-ppe-and-hi-vis-in-the-age-of-automation-keeping-people-safe-around-the-machines/106230/",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/23/the-true-cost-of-aerial-equipment-rental-in-automated-facilities/106241/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-23T08-52_3",
+        "rank": 3,
+        "title": "The Indian workers filming their work to train AI",
+        "category": "general",
+        "summary": "Indian workers are being paid to film themselves at work and the footage is used to train AI.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6fc/live/3dab9740-bbe0-11f1-bd21-bdf910f2cec6.jpg",
+        "source": "BBC Technology",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-23T08-52_4",
+        "rank": 4,
+        "title": "From Carmelo Anthony to Kevin Love, 5 NBA Stars Who Collect Art",
+        "category": "art",
+        "summary": "Basketball, 1983 Robert Peak RoGallery Basketball at its best is a form of art. A point guard slithers and swoops through the lane. A center skies for a rebound among a sea of outstretched, sinewy arms. Even the free…",
+        "image": "https://artsy-media-uploads.s3.amazonaws.com/dchATm7zK5FqU5KOVvHI9Q%2Fdownload+%288%29_1500x1000.jpg",
+        "source": "Artsy",
+        "sourceUrl": "https://www.artsy.net/article/artsy-editorial-carmelo-anthony-kevin-love-5-nba-stars-collect-art",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-23T08-52_5",
+        "rank": 5,
+        "title": "As US grid batteries surge, risk of fires plummets",
+        "category": "energy",
+        "summary": "See more from Canary Media’s ​“Chart of the Week” column . Battery fires are like shark attacks: frightening events that loom cinematically large in the American psyche and almost never actually happen. As batteries…",
+        "image": "https://img.canarymedia.com/content/uploads/COTW-battery-safety-take-2.png?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=80&w=1200&s=dc1a2e84b79570b0dd08e88888da6fef",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/batteries/us-grid-batteries-fire-risk",
         "fromX": false
       }
     ]
