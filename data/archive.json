@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-10-23T08-52",
-    "scannedAt": "2026-10-23T08:52:16.990Z",
+    "batchId": "auto_2026-10-23T15-57",
+    "scannedAt": "2026-10-23T15:57:29.249Z",
     "items": [
       {
-        "id": "auto_2026-10-23T08-52_1",
+        "id": "auto_2026-10-23T15-57_1",
         "rank": 1,
-        "title": "STAT+: State officials scrambling to implement Medicaid work requirements meet up to swap notes",
+        "title": "Remembering STAT's Helen Branswell",
         "category": "biotech",
-        "summary": "What state officials scrambling to implement Medicaid work requirements shared behind closed doors at the National Association of Medicaid Directors conference.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/10/GettyImages-2299832720-1024x576.jpg",
+        "summary": "This week on the “The Readout LOUD” podcast, we remember our beloved colleague Helen Branswell, who died last week. We speak with colleagues, family, and public health leaders about her…",
+        "image": "https://www.statnews.com/wp-content/uploads/2024/07/ROL_Rectangle-1024x576.jpg",
         "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/10/23/state-medicaid-officials-prepare-for-new-work-requirements/?utm_campaign=rss",
+        "sourceUrl": "https://www.statnews.com/2026/10/23/readout-loud-podcast-remembering-helen-branswell-infectious-disease/?utm_campaign=rss",
         "fromX": false
       },
       {
-        "id": "auto_2026-10-23T08-52_2",
+        "id": "auto_2026-10-23T15-57_2",
         "rank": 2,
-        "title": "The True Cost of Aerial Equipment Rental in Automated Facilities",
-        "category": "robotics",
-        "summary": "Aerial equipment rental has a habit of arriving as a surprise. A camera above the palletizer drifts out of alignment, a chiller on the roof needs swapping, an integrator cannot commission a sensor run from a ladder, and…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/blade-Boom-Truck-1.jpeg",
-        "source": "Robotics & Automation News",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/23/the-true-cost-of-aerial-equipment-rental-in-automated-facilities/106241/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-23T08-52_3",
-        "rank": 3,
-        "title": "The Indian workers filming their work to train AI",
-        "category": "general",
-        "summary": "Indian workers are being paid to film themselves at work and the footage is used to train AI.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6fc/live/3dab9740-bbe0-11f1-bd21-bdf910f2cec6.jpg",
-        "source": "BBC Technology",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-23T08-52_4",
-        "rank": 4,
-        "title": "From Carmelo Anthony to Kevin Love, 5 NBA Stars Who Collect Art",
+        "title": "Dealer Sentenced to Four Years in Prison for Selling Fake Warhols",
         "category": "art",
-        "summary": "Basketball, 1983 Robert Peak RoGallery Basketball at its best is a form of art. A point guard slithers and swoops through the lane. A center skies for a rebound among a sea of outstretched, sinewy arms. Even the free…",
-        "image": "https://artsy-media-uploads.s3.amazonaws.com/dchATm7zK5FqU5KOVvHI9Q%2Fdownload+%288%29_1500x1000.jpg",
-        "source": "Artsy",
-        "sourceUrl": "https://www.artsy.net/article/artsy-editorial-carmelo-anthony-kevin-love-5-nba-stars-collect-art",
+        "summary": "Leslie Roberts, a Miami art dealer, received a sentence of three years and ten months in federal prison on October 2 for selling forged Andy Warhol works. According to the Guardian, Roberts admitted to creating…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/10/leslie_roberts-e1791503029193.webp?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/columns/four-years-in-prison-for-selling-fake-warhold-1234761985/",
         "fromX": false
       },
       {
-        "id": "auto_2026-10-23T08-52_5",
+        "id": "auto_2026-10-23T15-57_3",
+        "rank": 3,
+        "title": "Video Friday: Quadruped Robot Solves Giant Rubik’s Cube By Itself",
+        "category": "robotics",
+        "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us…",
+        "image": "https://spectrum.ieee.org/media-library/red-quadruped-robot-facing-a-large-rubik-s-cube-on-an-outdoor-tiled-surface.png?id=68512950&width=980",
+        "source": "IEEE Spectrum",
+        "sourceUrl": "https://spectrum.ieee.org/video-friday-rubiks-cube-robot",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-23T15-57_4",
+        "rank": 4,
+        "title": "Feds want robotaxis to signal ‘I’m driving’ with cyan-colored lights",
+        "category": "general",
+        "summary": "After years of debating how driverless cars should tell the world no one is at the wheel - flashing text, audio alerts, custom lights - the feds just stepped in with a single answer: cyan. The National Highway Traffic…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24390349/22C0157_053.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+        "source": "The Verge",
+        "sourceUrl": "https://www.theverge.com/transportation/1017435/nhtsa-autonomous-vehicle-cyan-lighting-fmvss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-23T15-57_5",
         "rank": 5,
-        "title": "As US grid batteries surge, risk of fires plummets",
-        "category": "energy",
-        "summary": "See more from Canary Media’s ​“Chart of the Week” column . Battery fires are like shark attacks: frightening events that loom cinematically large in the American psyche and almost never actually happen. As batteries…",
-        "image": "https://img.canarymedia.com/content/uploads/COTW-battery-safety-take-2.png?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=80&w=1200&s=dc1a2e84b79570b0dd08e88888da6fef",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/batteries/us-grid-batteries-fire-risk",
+        "title": "Breakthrough PTSD treatment achieves 68% remission rate in clinical trial",
+        "category": "neuroscience",
+        "summary": "A newly FDA-cleared PTSD treatment uses personalized brain mapping and magnetic stimulation to target abnormal brain activity, with a clinical trial reporting a 52% reduction in symptoms and 68% remission. Researchers…",
+        "image": "https://www.sciencedaily.com/images/1920/head-brain-waves-neural-activity-signals.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261022081309.htm",
         "fromX": false
       }
     ]
