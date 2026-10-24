@@ -1,5 +1,25 @@
 [
   {
+    "batchId": "editorial_2026-10-22",
+    "scannedAt": "2026-10-22T17:30:49.134Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-10-22",
+        "rank": 0,
+        "title": "The Fragility of Progress",
+        "category": "editorial",
+        "summary": "Technological leaps clash with societal fractures and systemic vulnerabilities.",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/10/ssc-20261021-s00947h.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-10-22.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-10-22",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-10-24T02-04",
     "scannedAt": "2026-10-24T02:04:22.910Z",
     "items": [
