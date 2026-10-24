@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-10-24T14-55",
-    "scannedAt": "2026-10-24T14:55:41.809Z",
+    "batchId": "auto_2026-10-24T18-23",
+    "scannedAt": "2026-10-24T18:23:52.108Z",
     "items": [
       {
-        "id": "auto_2026-10-24T14-55_1",
+        "id": "auto_2026-10-24T18-23_1",
         "rank": 1,
-        "title": "What to expect from Apple’s ‘Pro and tell’ event",
-        "category": "general",
-        "summary": "It feels like Apple's Welcome Home event just happened. And the iPhone Duo announcement isn't all that far in our rearview mirror, either. Yet, the company is back with another launch, focused on the MacBook Pro, it…",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/pro-and-tell.jpg?quality=90&strip=all&crop=0%2C10.722587942729%2C100%2C78.554824114543&w=1200",
-        "source": "The Verge",
-        "sourceUrl": "https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-24T14-55_2",
-        "rank": 2,
-        "title": "NASA’s asteroid Bennu samples reveal a 4.5-billion-year-old secret",
-        "category": "space",
-        "summary": "Tiny samples from asteroid Bennu are rewriting scientists' understanding of how our Solar System formed. New evidence suggests that Bennu was born where material from the inner and outer Solar System mixed, with Jupiter…",
-        "image": "https://www.sciencedaily.com/images/1920/bennu-and-other-asteroids.webp",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261023023734.htm",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-24T14-55_3",
-        "rank": 3,
-        "title": "Opinion: Christina Applegate puts a face on one of the most consequential challenges in neurology",
+        "title": "STAT+: The ESMO presentation everyone's been waiting for",
         "category": "biotech",
-        "summary": "“The goal is not simply to diagnose MS faster. It is to get the diagnosis right,” writes Bruce Bebo.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/10/AP24016081587973-1024x576.jpg",
+        "summary": "Moderna and Merck's 'presidential' presentation, and other news from Day 2 of the European Society for Medical Oncology meeting in Madrid.",
+        "image": "https://www.statnews.com/wp-content/uploads/2025/07/AdobeStock_1069389777_Editorial_Use_Only-1024x576.jpeg",
         "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/10/24/christina-applegate-multiple-sclerosis-why-ms-misdiagnosis-happens/?utm_campaign=rss",
+        "sourceUrl": "https://www.statnews.com/2026/10/24/the-esmo-2026-merck-moderna-presentation-amgen-imdelltra-news/?utm_campaign=rss",
         "fromX": false
       },
       {
-        "id": "auto_2026-10-24T14-55_4",
+        "id": "auto_2026-10-24T18-23_2",
+        "rank": 2,
+        "title": "Putting a Dollar Figure on Compressed Air Blow-Off",
+        "category": "robotics",
+        "summary": "Blow-off is the compressed air use nobody has to think about. A valve opens, the part comes clean, the line moves on. The electricity bill lands in a different department, with no note about which nozzle caused it.…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/sonic-air-systems-2.jpg",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/24/putting-a-dollar-figure-on-compressed-air-blow-off/106283/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-24T18-23_3",
+        "rank": 3,
+        "title": "Fielded is obsessed with scammers and unhinged Japanese cyberpunk",
+        "category": "general",
+        "summary": "Lindsay Powell, who releases records under the name Fielded, has spent most of her career subverting expectations and genre conventions. According to their Bandcamp page, Fielded started as an experimental noise project…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/fielded_pressphoto_6-Fielded.jpg?quality=90&strip=all&crop=0,21.521136736783,100,34.954805600083",
+        "source": "The Verge",
+        "sourceUrl": "https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-24T18-23_4",
         "rank": 4,
-        "title": "Glioblastoma breakthrough reveals how brain cancer cells become more aggressive",
-        "category": "neuroscience",
-        "summary": "Scientists discovered that the thick, sticky fluid surrounding glioblastoma tumors can make brain cancer cells smaller, more flexible, and better at invading surrounding tissue. Even more troubling, some of these…",
-        "image": "https://www.sciencedaily.com/images/1920/open-micro-valley-chip-for-viscosity-driven-glioblastoma-invasion-study.webp",
+        "title": "Astronomers uncover a mysterious magnetic web above the Sun",
+        "category": "space",
+        "summary": "The Sun’s seemingly peaceful regions are hiding a surprisingly complex magnetic world. Using a balloon-borne telescope high above Earth, scientists discovered delicate, thread-like magnetic structures woven through the…",
+        "image": "https://www.sciencedaily.com/images/1920/magnetic-fields-in-chromosphere.webp",
         "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261022081300.htm",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261023023723.htm",
         "fromX": false
       },
       {
-        "id": "auto_2026-10-24T14-55_5",
+        "id": "auto_2026-10-24T18-23_5",
         "rank": 5,
-        "title": "Students stage protest performance over closure of Chicago's DePaul Art Museum",
-        "category": "art",
-        "summary": "The museum, located on the DePaul University campus, has been closed to the public since June",
-        "image": "https://cdn.sanity.io/images/cxgd3urn/production/1b9af0c39a15d0ac3e8a6894caf301eb14c2a3c9-2000x1800.jpg?w=140",
-        "source": "The Art Newspaper",
-        "sourceUrl": "https://www.theartnewspaper.com/2026/10/23/depaul-art-museum-closure-performance-protest-students-chicago",
+        "title": "Neural Chip Powers Adaptive DBS for Depression",
+        "category": "neuroscience",
+        "summary": "Treating psychiatric illnesses with deep brain stimulation requires tracking multi-region brain networks. EPFL researchers developed LogSync, an ultra-low-power system-on-chip operating under 200 microwatts that decodes…",
+        "image": "https://neurosciencenews.com/files/2026/10/depression-dbs-neurotech-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/dbs-depression-neurotech-32338/",
         "fromX": false
       }
     ]
