@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-09-19T21-48",
+    "scannedAt": "2026-09-19T21:48:29.718Z",
+    "items": [
+      {
+        "id": "auto_2026-09-19T21-48_1",
+        "rank": 1,
+        "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
+        "category": "general",
+        "summary": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn't…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257890_Chatbot_secrets_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-19T21-48_2",
+        "rank": 2,
+        "title": "Imaging Index Links Blood Flow to Cellular Architecture",
+        "category": "neuroscience",
+        "summary": "Scientists introduce CCSI, a 7T MRI index linking laminar blood flow to cortical cell density, energy metabolism, and cognitive brain function.",
+        "image": "https://neurosciencenews.com/files/2026/09/blood-flow-brain-energy-neuroscience-1155x675.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/neuroimaging-blood-flow-energy-brain-31225/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-19T21-48_3",
+        "rank": 3,
+        "title": "Jehovah’s Witnesses allow blood-derived products but keep ban on whole-blood transfusions",
+        "category": "biotech",
+        "summary": "The Jehovah’s Witnesses have partly eased their longstanding prohibition on the medical use of donated blood.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/09/AP26261779728579-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/09/19/jehovahs-witnesses-blood-derived-products-transfusions/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-19T21-48_4",
+        "rank": 4,
+        "title": "From A to T & Back Again: Openings, Part One",
+        "category": "art",
+        "summary": "Visits to Olney Gleason, Garth Greenan, David Zwirner, and more during New York's first week of fall openings",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/09/Richard-Jennings-Wired-1979-Oil-on-canvas-22x26in-Inna-Svyatsky-Courtesy-Richard-Jennings-Estate.jpg?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/columns/from-a-to-t-andback-again-openings-part-one-1234759385/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-19T21-48_5",
+        "rank": 5,
+        "title": "Trump's EPA decimated climate rules for power plants. What now?",
+        "category": "energy",
+        "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter. Sign up to get it every Friday. The Biden and Obama administrations built a raft of climate regulations that was supposed to carry America…",
+        "image": "https://img.canarymedia.com/content/uploads/zeldin-g-20.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=e1f2c62247ec6f6a017f022727a27226",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/emissions-reduction/trumps-epa-gut-climate-rules-power-plants-what-now",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "editorial_2026-09-19",
     "scannedAt": "2026-09-19T18:58:00.278Z",
     "kind": "editorial_archive",
@@ -2428,26 +2489,6 @@
         "source": "Robotics & Automation News",
         "sourceUrl": "https://roboticsandautomationnews.com/2026/08/18/fort-robotics-to-go-public-via-business-combination-with-newbury-street-ii-acquisition-corp/104238/",
         "fromX": false
-      }
-    ]
-  },
-  {
-    "batchId": "editorial_2026-08-17",
-    "scannedAt": "2026-08-18T02:01:59.929Z",
-    "kind": "editorial_archive",
-    "items": [
-      {
-        "id": "editorial_2026-08-17",
-        "rank": 0,
-        "title": "The vessel does not keep a plate",
-        "category": "editorial",
-        "summary": "A father's tribute, and a city's search",
-        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/08/mabona-7.jpg",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-17.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-08-17",
-        "authorName": "Dr. Wallace Lynch"
       }
     ]
   }

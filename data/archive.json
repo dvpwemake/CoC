@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-10-24T02-04",
+    "scannedAt": "2026-10-24T02:04:22.910Z",
+    "items": [
+      {
+        "id": "auto_2026-10-24T02-04_1",
+        "rank": 1,
+        "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+        "category": "general",
+        "summary": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43e7/live/343404d0-cf00-11f1-accf-3309656ad0bb.jpg",
+        "source": "BBC Technology",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-24T02-04_2",
+        "rank": 2,
+        "title": "NASA, Partners Accelerate Lander Development for 2028 Moon Missions",
+        "category": "space",
+        "summary": "As NASA returns humans to the lunar surface and establishes a long-term presence on our closest celestial neighbor, the agency and commercial human landing system providers Blue Origin and SpaceX have streamlined the…",
+        "image": "https://images-assets.nasa.gov/image/art002e012632/art002e012632~large.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-24T02-04_3",
+        "rank": 3,
+        "title": "Neural Chip Powers Adaptive DBS for Depression",
+        "category": "neuroscience",
+        "summary": "Treating psychiatric illnesses with deep brain stimulation requires tracking multi-region brain networks. EPFL researchers developed LogSync, an ultra-low-power system-on-chip operating under 200 microwatts that decodes…",
+        "image": "https://neurosciencenews.com/files/2026/10/depression-dbs-neurotech-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/dbs-depression-neurotech-32338/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-24T02-04_4",
+        "rank": 4,
+        "title": "STAT+: Highly anticipated Moderna-Merck melanoma cancer vaccine data arrived early",
+        "category": "biotech",
+        "summary": "In data released at ESMO, the Moderna-Merck personalized mRNA cancer vaccine reduced recurrence-free survival and the time until distant metastasis occurred.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/02/GettyImages-1223699960-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/10/23/moderna-merck-melanoma-cancer-vaccine-data-arrived-early-esmo/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-24T02-04_5",
+        "rank": 5,
+        "title": "Students stage protest performance over closure of Chicago's DePaul Art Museum",
+        "category": "art",
+        "summary": "The museum, located on the DePaul University campus, has been closed to the public since June",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/1b9af0c39a15d0ac3e8a6894caf301eb14c2a3c9-2000x1800.jpg?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/10/23/depaul-art-museum-closure-performance-protest-students-chicago",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-10-23T22-41",
     "scannedAt": "2026-10-23T22:41:14.747Z",
     "items": [
