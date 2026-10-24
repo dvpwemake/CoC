@@ -1,126 +1,149 @@
 {
   "published": {
-    "id": "ed_2026-10-22",
-    "publishDate": "2026-10-22",
+    "id": "ed_2026-10-24",
+    "publishDate": "2026-10-24",
     "status": "published",
-    "updatedAt": "2026-10-22T17:30:49.134Z",
-    "title": "The Fragility of Progress",
-    "dek": "Technological leaps clash with societal fractures and systemic vulnerabilities.",
+    "updatedAt": "2026-10-24T05:47:28.888Z",
+    "title": "Human Ambition and the Spaces We Hold",
+    "dek": "Bridging boundary-pushing discoveries with the cultural anchors that preserve our shared story.",
     "authorName": "Dr. Wallace Lynch",
     "authorTitle": "Editor in Chief",
-    "body": "This week’s news serves as a stark reminder of the fragile scaffolding beneath our modern ambitions. While the tech industry races forward—with Anthropic launching its new Claude Duet AI agent to compete in the enterprise space and NASA firing up the RS-25 engine for future Artemis lunar missions—the foundations closer to home are cracking. A massive PHP security vulnerability has sent governments and businesses into a global patching frenzy, bringing countless websites offline and exposing the precarious, duct-taped nature of our digital infrastructure.\n\nPhysical spaces and social systems are proving just as volatile. Art Basel Paris was forced to shutter two days early amid looming protests and rioting, a jarring contrast to the flurry of seven- and eight-figure sales that dominated its opening hours. It is a striking picture of elite insulation abruptly colliding with public unrest. The healthcare sector mirrors this systemic decay. Regulators are ramping up crackdowns on rampant fraud within New York’s adult day care programs, while predatory ownership in Massachusetts is quietly siphoning millions from nursing home revenues into real estate portfolios, devastating resident care in the process.\n\nEven our trusted personal health interventions are facing a harsh reality check. A definitive two-year clinical trial has concluded that fish oil supplements do absolutely nothing to improve memory or stave off Alzheimer's-related brain shrinkage. Yet, human ingenuity persists where systems fail. Researchers have just unveiled a revolutionary laser-powered microscope capable of illuminating previously invisible cellular machinery, and artists like Álvaro Urbano continue to preserve cultural memory by honoring the modernist innovations of Mexico City's Casa Cueva. We are building the tools to see our world with unprecedented clarity; whether we have the resolve to fix the structural rot we uncover remains the defining question.",
+    "body": "Today’s headlines present a striking portrait of human ambition: we are racing toward frontier thresholds while negotiating the value of the spaces we leave behind.\n\nIn medicine and neuroscience, breakthrough technology continues to redraw the boundaries of human care. ESMO data confirmed that Moderna and Merck’s personalized mRNA cancer vaccine significantly reduced disease recurrence in melanoma patients, offering a glimpse into the future of tailored oncology. At the same time, EPFL researchers unveiled LogSync—an ultra-low-power neural chip that enables adaptive deep brain stimulation for complex psychiatric disorders—while the UK announced a £100m investment in a world-first AI Biosecurity Lab. Above us, NASA and its commercial partners are accelerating lander development to secure a permanent human presence on the Moon by 2028. Across every vector, the drive to innovate is reshaping how we heal, compute, and explore.\n\nYet, as we project ourselves into the future, our cultural institutions remind us of what grounding requires. A Roman marble torso setting a record $34.3 million at Sotheby’s and a landmark $20 million gift to the Philadelphia Museum of Art demonstrate our enduring reverence for artistic heritage. Contrast those milestones with DePaul University, where students staged a protest performance over the shuttering of their campus art museum. It serves as a potent reminder that innovation loses its weight when we abandon the places designed for reflection, local engagement, and creative inquiry.\n\nProgress cannot merely be measured by how far we reach, but by how thoughtfully we preserve the physical and cultural spaces that anchor our communities. As technical systems automate, orbit, and decode, our commitment to artistic, civic, and educational spaces ensures that rapid advance remains tethered to deep human values.",
     "paragraphs": [
-      "This week’s news serves as a stark reminder of the fragile scaffolding beneath our modern ambitions. While the tech industry races forward—with Anthropic launching its new Claude Duet AI agent to compete in the enterprise space and NASA firing up the RS-25 engine for future Artemis lunar missions—the foundations closer to home are cracking. A massive PHP security vulnerability has sent governments and businesses into a global patching frenzy, bringing countless websites offline and exposing the precarious, duct-taped nature of our digital infrastructure.",
-      "Physical spaces and social systems are proving just as volatile. Art Basel Paris was forced to shutter two days early amid looming protests and rioting, a jarring contrast to the flurry of seven- and eight-figure sales that dominated its opening hours. It is a striking picture of elite insulation abruptly colliding with public unrest. The healthcare sector mirrors this systemic decay. Regulators are ramping up crackdowns on rampant fraud within New York’s adult day care programs, while predatory ownership in Massachusetts is quietly siphoning millions from nursing home revenues into real estate portfolios, devastating resident care in the process.",
-      "Even our trusted personal health interventions are facing a harsh reality check. A definitive two-year clinical trial has concluded that fish oil supplements do absolutely nothing to improve memory or stave off Alzheimer's-related brain shrinkage. Yet, human ingenuity persists where systems fail. Researchers have just unveiled a revolutionary laser-powered microscope capable of illuminating previously invisible cellular machinery, and artists like Álvaro Urbano continue to preserve cultural memory by honoring the modernist innovations of Mexico City's Casa Cueva. We are building the tools to see our world with unprecedented clarity; whether we have the resolve to fix the structural rot we uncover remains the defining question."
+      "Today’s headlines present a striking portrait of human ambition: we are racing toward frontier thresholds while negotiating the value of the spaces we leave behind.",
+      "In medicine and neuroscience, breakthrough technology continues to redraw the boundaries of human care. ESMO data confirmed that Moderna and Merck’s personalized mRNA cancer vaccine significantly reduced disease recurrence in melanoma patients, offering a glimpse into the future of tailored oncology. At the same time, EPFL researchers unveiled LogSync—an ultra-low-power neural chip that enables adaptive deep brain stimulation for complex psychiatric disorders—while the UK announced a £100m investment in a world-first AI Biosecurity Lab. Above us, NASA and its commercial partners are accelerating lander development to secure a permanent human presence on the Moon by 2028. Across every vector, the drive to innovate is reshaping how we heal, compute, and explore.",
+      "Yet, as we project ourselves into the future, our cultural institutions remind us of what grounding requires. A Roman marble torso setting a record $34.3 million at Sotheby’s and a landmark $20 million gift to the Philadelphia Museum of Art demonstrate our enduring reverence for artistic heritage. Contrast those milestones with DePaul University, where students staged a protest performance over the shuttering of their campus art museum. It serves as a potent reminder that innovation loses its weight when we abandon the places designed for reflection, local engagement, and creative inquiry.",
+      "Progress cannot merely be measured by how far we reach, but by how thoughtfully we preserve the physical and cultural spaces that anchor our communities. As technical systems automate, orbit, and decode, our commitment to artistic, civic, and educational spaces ensures that rapid advance remains tethered to deep human values."
     ],
-    "wordCount": 287,
-    "heroImage": "https://www.nasa.gov/wp-content/uploads/2026/10/ssc-20261021-s00947h.jpg",
-    "heroCredit": "NASA Conducts RS-25 Engine Test in Support of Future Artemis Missions",
+    "wordCount": 277,
+    "heroImage": "https://images-assets.nasa.gov/image/art002e012632/art002e012632~large.jpg",
+    "heroCredit": "NASA, Partners Accelerate Lander Development for 2028 Moon Missions",
     "heroSource": "NASA",
-    "heroSourceUrl": "https://www.nasa.gov/image-article/rs-25-engine-test-in-support-of-future-artemis-missions/",
+    "heroSourceUrl": "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/",
     "headlines": [
       {
-        "title": "Art Basel Paris Ends Early, Fondation Louis Vuitton Shutters as Protests Loom",
-        "source": "Artforum",
-        "category": "art",
-        "sourceUrl": "https://www.artforum.com/news/art-basel-paris-ends-early-fondation-louis-vuitton-shutters-1234761917/",
-        "summary": "Art Basel Paris will come to a close at 7 p.m. Friday evening, two days earlier than planned, and Fondation Louis Vuitton will shut its doors on Saturday amid fears of protest. The extraordinary closures follow…",
-        "image": "https://www.artforum.com/wp-content/uploads/2026/10/GettyImages-2300858231.jpg?w=650"
-      },
-      {
-        "title": "STAT+: Crackdowns loom, from China to New York",
-        "source": "STAT News",
-        "category": "biotech",
-        "sourceUrl": "https://www.statnews.com/2026/10/22/china-biotech-coins-act-rule-health-insurance-costs-rise/?utm_campaign=rss",
-        "summary": "Speaking on the economy, the vice president told a crowd in Ohio that, “You don’t turn the Titanic around overnight.” Send news tips and bad metaphors to John.Wilkerson@statnews.com or John_Wilkerson.07…",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/06/AP25350842173386-1024x576.jpg"
-      },
-      {
-        "title": "A revolutionary new microscope could reveal the hidden machinery of life",
-        "source": "ScienceDaily",
-        "category": "energy",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261021231230.htm",
-        "summary": "Researchers have developed a revolutionary microscope that uses an incredibly powerful laser to make previously invisible cellular structures easier to see. The technology dramatically improves image clarity, allowing…",
-        "image": "https://www.sciencedaily.com/images/1920/cryo-em-with-laser-phase-plate.webp"
-      },
-      {
-        "title": "PHP Security Flaw Sets Off Global Rush to Patch, Leaving Websites Offline",
-        "source": "NYT Technology",
-        "category": "general",
-        "sourceUrl": "https://www.nytimes.com/2026/10/22/world/php-vulnerability-websites-cybersecurity-ai.html",
-        "summary": "Governments and businesses around the world scrambled to prevent hackers from exploiting a vulnerability in PHP, a popular programming language.",
-        "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22int-website-flaws-qvzg/22int-website-flaws-qvzg-mediumSquareAt3X.jpg"
-      },
-      {
-        "title": "Millions take fish oil for brain health. A two-year study found no benefit",
-        "source": "ScienceDaily",
-        "category": "neuroscience",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261020085427.htm",
-        "summary": "A surprising two-year clinical trial found that fish oil supplements successfully delivered omega-3s to the brain but failed to improve memory or protect against Alzheimer's-related brain shrinkage. Researchers suspect…",
-        "image": "https://www.sciencedaily.com/images/1920/fish-oil-omega-3-capsules-dha-epa.webp"
-      },
-      {
-        "title": "Rioting does not deter big-ticket sales at Art Basel Paris",
+        "title": "Students stage protest performance over closure of Chicago's DePaul Art Museum",
         "source": "The Art Newspaper",
         "category": "art",
-        "sourceUrl": "https://www.theartnewspaper.com/2026/10/21/riots-do-not-deter-big-ticket-sales-at-art-basel-paris",
-        "summary": "A flurry of seven- and eight-figure works were snapped up on the opening days of the fair",
-        "image": "https://cdn.sanity.io/images/cxgd3urn/production/a4a21eb425f87c814090d5bd9d99b25123d0f357-2480x1653.jpg?w=140"
+        "sourceUrl": "https://www.theartnewspaper.com/2026/10/23/depaul-art-museum-closure-performance-protest-students-chicago",
+        "summary": "The museum, located on the DePaul University campus, has been closed to the public since June",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/1b9af0c39a15d0ac3e8a6894caf301eb14c2a3c9-2000x1800.jpg?w=140"
       },
       {
-        "title": "STAT+: CMS extends fraud crackdown to New York’s adult day care program",
+        "title": "STAT+: Highly anticipated Moderna-Merck melanoma cancer vaccine data arrived early",
         "source": "STAT News",
         "category": "biotech",
-        "sourceUrl": "https://www.statnews.com/2026/10/21/cms-medicaid-fraud-nyc-adult-daycare-operators/?utm_campaign=rss",
-        "summary": "CMS is cracking down on adult day cares in New York, part of a broader focus on alleged health care fraud.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/10/GettyImages-2301169427-1024x576.jpg"
+        "sourceUrl": "https://www.statnews.com/2026/10/23/moderna-merck-melanoma-cancer-vaccine-data-arrived-early-esmo/?utm_campaign=rss",
+        "summary": "In data released at ESMO, the Moderna-Merck personalized mRNA cancer vaccine reduced recurrence-free survival and the time until distant metastasis occurred.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/02/GettyImages-1223699960-1024x576.jpg"
       },
       {
-        "title": "Anthropic Joins the A.I. Agent Race With Claude Duet",
-        "source": "NYT Technology",
+        "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+        "source": "BBC Technology",
         "category": "general",
-        "sourceUrl": "https://www.nytimes.com/2026/10/21/technology/anthropic-ai-agent-claude-duet.html",
-        "summary": "The tool, which is not yet widely available, will compete with OpenAI’s dots and Meta’s Muse. It is built for work and not personal errands.",
-        "image": "https://static01.nyt.com/images/2026/10/21/business/21biz-anthropic-agent-handout-02/21biz-anthropic-agent-handout-02-mediumSquareAt3X.png"
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+        "summary": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43e7/live/343404d0-cf00-11f1-accf-3309656ad0bb.jpg"
       },
       {
-        "title": "How Small and Medium-Sized Trucking Fleets Can Benefit from AI Dash Cameras",
-        "source": "Robotics & Automation News",
-        "category": "robotics",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/21/how-small-and-medium-sized-trucking-fleets-can-benefit-from-ai-dash-cameras/106179/",
-        "summary": "Running a small or medium-sized trucking fleet means balancing safety, operating costs, driver performance, and customer expectations every day. In-cab safety solutions such as cameras can help carriers gain better…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/gps-tab-dash-cam-2.png"
+        "title": "Neural Chip Powers Adaptive DBS for Depression",
+        "source": "Neuroscience News",
+        "category": "neuroscience",
+        "sourceUrl": "https://neurosciencenews.com/dbs-depression-neurotech-32338/",
+        "summary": "Treating psychiatric illnesses with deep brain stimulation requires tracking multi-region brain networks. EPFL researchers developed LogSync, an ultra-low-power system-on-chip operating under 200 microwatts that decodes…",
+        "image": "https://neurosciencenews.com/files/2026/10/depression-dbs-neurotech-1155x770.jpg"
       },
       {
-        "title": "NASA Conducts RS-25 Engine Test in Support of Future Artemis Missions",
+        "title": "NASA, Partners Accelerate Lander Development for 2028 Moon Missions",
         "source": "NASA",
         "category": "space",
-        "sourceUrl": "https://www.nasa.gov/image-article/rs-25-engine-test-in-support-of-future-artemis-missions/",
-        "summary": "NASA tested RS-25 engine No. 10001 on Oct. 21 on the Fred Haise Test Stand at NASA’s Stennis Space Center near Bay St. Louis, Mississippi. Test teams fired the developmental engine for almost eight-and-a-half minutes…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/10/ssc-20261021-s00947h.jpg"
+        "sourceUrl": "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/",
+        "summary": "As NASA returns humans to the lunar surface and establishes a long-term presence on our closest celestial neighbor, the agency and commercial human landing system providers Blue Origin and SpaceX have streamlined the…",
+        "image": "https://images-assets.nasa.gov/image/art002e012632/art002e012632~large.jpg"
       },
       {
-        "title": "Álvaro Urbano Honors the Lost Specimens of Mexico City's Iconic Casa Cueva",
-        "source": "Colossal",
+        "title": "Philadelphia Museum of Art Receives Landmark $20 Million Gift for Education Center",
+        "source": "Artforum",
         "category": "art",
-        "sourceUrl": "https://www.thisiscolossal.com/2026/10/alvaro-urbano-metal-sculptures-casa-cueva-helen/",
-        "summary": "Álvaro Urbano presents an homage to the innovations of Casa Cueva, an icon of modernist Mexican architecture. Do stories and artists like this matter to you? Become a Colossal Member today and support independent arts…",
-        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/urbano-4.jpeg"
+        "sourceUrl": "https://www.artforum.com/news/philadelphia-museum-of-art-gets-20-million-for-education-1234762045/",
+        "summary": "The Philadelphia Museum of Art (PMA) on October 23 announced that it was the recipient of a $20 million gift earmarked for the development of a new education center. The donation from longtime PMA supporters Julian…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/10/2025_05_23_ms_0301.jpg?w=650"
       },
       {
-        "title": "STAT+: He’s slashing quality at nursing homes. This state is letting it happen",
+        "title": "STAT+: Diabetes association says ‘threat’ preceded members’ ejections, but admits policies were unclear",
         "source": "STAT News",
         "category": "biotech",
-        "sourceUrl": "https://www.statnews.com/2026/10/20/nursing-home-chains-slash-quality-massachusetts/?utm_campaign=rss",
-        "summary": "The Boston Globe Spotlight Team found Eli Mirlis made grim cuts to resident care while steering millions of dollars from his nursing homes’ revenue into a constellation of real estate…",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/10/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_kreiter07202026regalcaretaunton9-1024x576.jpg"
+        "sourceUrl": "https://www.statnews.com/2026/10/23/ada-new-orleans-convention-new-report-on-controversial-june-ejections/?utm_campaign=rss",
+        "summary": "The American Diabetes Association has issued two explanations, two reviews and an apology over its June convention. A Friday report adds new twists.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/06/conference-center-e1789083632150-1024x576.jpeg"
+      },
+      {
+        "title": "Xbox’s first chief operating officer is out after just a few months",
+        "source": "The Verge",
+        "category": "general",
+        "sourceUrl": "https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure",
+        "summary": "Xbox's first chief operating officer (COO) is leaving after the new role was created just a few months ago. Helen Chiang is leaving Microsoft today, according to an internal Xbox memo seen by The Verge. Chiang has been…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25485116/STK048_XBOX2__B.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+      },
+      {
+        "title": "What Should Drivers Do When an Accident Report Contains Errors?",
+        "source": "Robotics & Automation News",
+        "category": "robotics",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/23/what-should-drivers-do-when-an-accident-report-contains-errors/106280/",
+        "summary": "Drivers involved in a car accident in Round Rock, TX, may be left with a lot to sort out, from vehicle repairs to phone calls with insurance adjusters. A single mistake on the police crash report can turn an already…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/police-report-1.jpeg"
+      },
+      {
+        "title": "Nov. 5: Satellite Mission Management at the Edge",
+        "source": "SpaceNews",
+        "category": "space",
+        "sourceUrl": "https://spacenews.com/satellite-mission-management-at-the-edge-event/",
+        "summary": "Join us to explore how emerging technologies and commercial capabilities are transforming satellite operations The post Nov. 5: Satellite Mission Management at the Edge appeared first on SpaceNews .",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/2026-11-05-RTX-SpaceNews-2000-1500-scaled.jpg?fit=1024%2C768&ssl=1"
+      },
+      {
+        "title": "$34.3 Million Marble Torso Sets Roman Antiquity Record at Sotheby’s",
+        "source": "Artforum",
+        "category": "art",
+        "sourceUrl": "https://www.artforum.com/news/34-3-million-marble-torso-sets-record-at-sothebys-1234761959/",
+        "summary": "A marble sculpture fragment depicting the cuirass-clad torso of a Roman emperor hammered for $34.3 million at Sotheby’s on October 21, nearly three times its $12 million estimate and the highest amount ever fetched by a…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/10/A-Marble-Torso-of-an-Emperor-Roman-Imperial-Julio-Claudian-1st-half-of-the-1st-century-A.D.-683x1024.jpg.webp?w=650"
+      },
+      {
+        "title": "STAT+: Detailed data confirm Moderna and Merck cancer vaccine met key endpoints in melanoma trial",
+        "source": "STAT News",
+        "category": "biotech",
+        "sourceUrl": "https://www.statnews.com/2026/10/22/esmo-moderna-merck-cancer-vaccine-intismeran-data-released/?utm_campaign=rss",
+        "summary": "A Moderna and Merck personalized mRNA cancer vaccine reduced the risk of disease recurrence in patients with melanoma by 42% compared to standard treatment.",
+        "image": "https://www.statnews.com/wp-content/uploads/2025/05/AdobeStock_525738206_Editorial_Use_Only-1024x576.jpeg"
       }
     ],
-    "publishedAt": "2026-10-22T17:30:49.134Z"
+    "publishedAt": "2026-10-24T05:47:28.888Z"
   },
   "drafts": {},
   "history": [
+    {
+      "id": "ed_2026-10-24",
+      "publishDate": "2026-10-24",
+      "status": "published",
+      "updatedAt": "2026-10-24T05:47:28.888Z",
+      "title": "Human Ambition and the Spaces We Hold",
+      "dek": "Bridging boundary-pushing discoveries with the cultural anchors that preserve our shared story.",
+      "authorName": "Dr. Wallace Lynch",
+      "authorTitle": "Editor in Chief",
+      "paragraphs": [
+        "Today’s headlines present a striking portrait of human ambition: we are racing toward frontier thresholds while negotiating the value of the spaces we leave behind.",
+        "In medicine and neuroscience, breakthrough technology continues to redraw the boundaries of human care. ESMO data confirmed that Moderna and Merck’s personalized mRNA cancer vaccine significantly reduced disease recurrence in melanoma patients, offering a glimpse into the future of tailored oncology. At the same time, EPFL researchers unveiled LogSync—an ultra-low-power neural chip that enables adaptive deep brain stimulation for complex psychiatric disorders—while the UK announced a £100m investment in a world-first AI Biosecurity Lab. Above us, NASA and its commercial partners are accelerating lander development to secure a permanent human presence on the Moon by 2028. Across every vector, the drive to innovate is reshaping how we heal, compute, and explore.",
+        "Yet, as we project ourselves into the future, our cultural institutions remind us of what grounding requires. A Roman marble torso setting a record $34.3 million at Sotheby’s and a landmark $20 million gift to the Philadelphia Museum of Art demonstrate our enduring reverence for artistic heritage. Contrast those milestones with DePaul University, where students staged a protest performance over the shuttering of their campus art museum. It serves as a potent reminder that innovation loses its weight when we abandon the places designed for reflection, local engagement, and creative inquiry.",
+        "Progress cannot merely be measured by how far we reach, but by how thoughtfully we preserve the physical and cultural spaces that anchor our communities. As technical systems automate, orbit, and decode, our commitment to artistic, civic, and educational spaces ensures that rapid advance remains tethered to deep human values."
+      ],
+      "wordCount": 277,
+      "heroImage": "https://images-assets.nasa.gov/image/art002e012632/art002e012632~large.jpg",
+      "heroCredit": "NASA, Partners Accelerate Lander Development for 2028 Moon Missions",
+      "heroSource": "NASA",
+      "heroSourceUrl": "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/",
+      "publishedAt": "2026-10-24T05:47:28.888Z"
+    },
     {
       "id": "ed_2026-10-22",
       "publishDate": "2026-10-22",
@@ -1498,31 +1521,6 @@
       "heroSource": "SpaceNews",
       "heroSourceUrl": "https://spacenews.com/space-force-awards-k2-space-22-9-million-for-orbital-laser-communications-demonstration/",
       "publishedAt": "2026-08-02T21:53:22.378Z"
-    },
-    {
-      "id": "ed_2026-08-01",
-      "publishDate": "2026-08-01",
-      "status": "published",
-      "updatedAt": "2026-08-01T19:52:07.146Z",
-      "title": "What the margin makes visible, and what ground still claims",
-      "dek": "Convergence of expanded access and reclaimed repair",
-      "authorName": "Dr. Wallace Lynch",
-      "authorTitle": "Editor in Chief",
-      "paragraphs": [
-        "Google places Gemini 3.6 Flash and Gemini 3.5 Flash Lite on the official API, widening what developers and agents can call. Seedance 2.5 advances the same motion in video for creators, marketers, and classrooms. Access multiplies. It does not settle what the room is for.",
-        "Chronicle of Convergence, as a daily reading of American life where culture, society, technology, and faith already share the same rooms, we hold that reading to one pressure: what becomes central when the margin rises into view, and what ground still claims its name under new use.",
-        "The body answers with repair that protects identity. Telomere protein TRF2 preserves muscle stem cell identity, drives regeneration, and slows Duchenne progression. Therapy with psilocybin reaches 75 percent remission in veterans with severe PTSD that had resisted treatment. Dietary protein restriction improves metabolism and extends lifespan, challenging high protein fashion for sedentary adults.",
-        "Policy and land keep the same friction. The administration revises its rebate pilot for the 340B drug discount program, angering hospitals over who holds the savings. In New York, reporting takes on the myth that solar swallows farmland, testing whether rural ground can host arrays without losing its claim.",
-        "Space holds both the strange and the practical. Curiosity finds a Martian valley of honeycomb fractures only inches wide. At Langley, NASA opens its first major new wind tunnel in more than forty years, so flight can still be tested on Earth before it is trusted aloft.",
-        "Art returns the overlooked seam to the center. Adelene Koh turns heritage bookbinding elements into contemporary sculpture. The CWAS David Malin Awards place amateur astrophotography beside wonders of the night sky.",
-        "When tools open wider and the body relearns repair, convergence is not the victory of the new instrument. It is whether the margin can become the work without the ground losing its claim."
-      ],
-      "wordCount": 305,
-      "heroImage": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/seedance-image-3.png",
-      "heroCredit": "Seedance 2.5: Advancing AI Video Creation for Modern Content Workflows",
-      "heroSource": "Robotics & Automation News",
-      "heroSourceUrl": "https://roboticsandautomationnews.com/2026/08/01/seedance-2-5-advancing-ai-video-creation-for-modern-content-workflows/103829/",
-      "publishedAt": "2026-08-01T19:52:07.146Z"
     }
   ],
   "usedHeroImages": [
@@ -1782,6 +1780,7 @@
     "https://www.sciencedaily.com/images/1920/simp-0136.webp",
     "https://www.sciencedaily.com/images/1920/nasa-spacex-crs-35-launch-jellyfish.webp",
     "https://www.artforum.com/wp-content/uploads/2026/10/GettyImages-2253836426.jpg?w=650",
-    "https://www.nasa.gov/wp-content/uploads/2026/10/ssc-20261021-s00947h.jpg"
+    "https://www.nasa.gov/wp-content/uploads/2026/10/ssc-20261021-s00947h.jpg",
+    "https://images-assets.nasa.gov/image/art002e012632/art002e012632~large.jpg"
   ]
 }
