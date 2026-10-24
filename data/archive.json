@@ -1,81 +1,61 @@
 [
   {
-    "batchId": "editorial_2026-10-22",
-    "scannedAt": "2026-10-22T17:30:49.134Z",
-    "kind": "editorial_archive",
+    "batchId": "auto_2026-10-24T08-26",
+    "scannedAt": "2026-10-24T08:26:11.381Z",
     "items": [
       {
-        "id": "editorial_2026-10-22",
-        "rank": 0,
-        "title": "The Fragility of Progress",
-        "category": "editorial",
-        "summary": "Technological leaps clash with societal fractures and systemic vulnerabilities.",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/10/ssc-20261021-s00947h.jpg",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-10-22.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-10-22",
-        "authorName": "Dr. Wallace Lynch"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-10-24T02-04",
-    "scannedAt": "2026-10-24T02:04:22.910Z",
-    "items": [
-      {
-        "id": "auto_2026-10-24T02-04_1",
+        "id": "auto_2026-10-24T08-26_1",
         "rank": 1,
-        "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
-        "category": "general",
-        "summary": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43e7/live/343404d0-cf00-11f1-accf-3309656ad0bb.jpg",
-        "source": "BBC Technology",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-24T02-04_2",
-        "rank": 2,
-        "title": "NASA, Partners Accelerate Lander Development for 2028 Moon Missions",
+        "title": "APOD: 2026 October 24 – Rosetta’s Selfie",
         "category": "space",
-        "summary": "As NASA returns humans to the lunar surface and establishes a long-term presence on our closest celestial neighbor, the agency and commercial human landing system providers Blue Origin and SpaceX have streamlined the…",
-        "image": "https://images-assets.nasa.gov/image/art002e012632/art002e012632~large.jpg",
+        "summary": "APOD Science APOD APOD: 2026 October 24 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or…",
+        "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/october/ESA_Rosetta_Philae_CIVA_141007.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
         "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/",
+        "sourceUrl": "https://science.nasa.gov/image-article/apod-2026-october-24-rosettas-selfie/",
         "fromX": false
       },
       {
-        "id": "auto_2026-10-24T02-04_3",
+        "id": "auto_2026-10-24T08-26_2",
+        "rank": 2,
+        "title": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
+        "category": "general",
+        "summary": "\"We have the mandate, we have the resources, and the support from our stakeholders.\"",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/centaur-1002x648.jpg",
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-24T08-26_3",
         "rank": 3,
-        "title": "Neural Chip Powers Adaptive DBS for Depression",
-        "category": "neuroscience",
-        "summary": "Treating psychiatric illnesses with deep brain stimulation requires tracking multi-region brain networks. EPFL researchers developed LogSync, an ultra-low-power system-on-chip operating under 200 microwatts that decodes…",
-        "image": "https://neurosciencenews.com/files/2026/10/depression-dbs-neurotech-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/dbs-depression-neurotech-32338/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-24T02-04_4",
-        "rank": 4,
-        "title": "STAT+: Highly anticipated Moderna-Merck melanoma cancer vaccine data arrived early",
+        "title": "STAT+: Patient dies in Bristol Myers Squibb autoimmune CAR-T trial",
         "category": "biotech",
-        "summary": "In data released at ESMO, the Moderna-Merck personalized mRNA cancer vaccine reduced recurrence-free survival and the time until distant metastasis occurred.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/02/GettyImages-1223699960-1024x576.jpg",
+        "summary": "Where should the safety bar be for studies investigating CAR-T therapies for autoimmune conditions?",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/10/AdobeStock_1846705681_Editorial_Use_Only-1024x576.jpeg",
         "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/10/23/moderna-merck-melanoma-cancer-vaccine-data-arrived-early-esmo/?utm_campaign=rss",
+        "sourceUrl": "https://www.statnews.com/2026/10/23/bristol-myers-squibb-car-t-therapy-autoimmune-trial-death/?utm_campaign=rss",
         "fromX": false
       },
       {
-        "id": "auto_2026-10-24T02-04_5",
+        "id": "auto_2026-10-24T08-26_4",
+        "rank": 4,
+        "title": "Can a Crash Claim Include the Cost of Replacing a Child’s Car Seat?",
+        "category": "robotics",
+        "summary": "Before the next school pickup in Charlotte, a parent whose car was hit has another decision to make. Can the child ride in the same seat? Even if the shell looks fine, you need to check the seat's instructions.…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/car-seat-1.png",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/23/can-a-crash-claim-include-the-cost-of-replacing-a-childs-car-seat/106276/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-24T08-26_5",
         "rank": 5,
-        "title": "Students stage protest performance over closure of Chicago's DePaul Art Museum",
+        "title": "As riots scar Paris’s luxury storefronts, Maison Guerlain opens art exhibition on Champs Elysées",
         "category": "art",
-        "summary": "The museum, located on the DePaul University campus, has been closed to the public since June",
-        "image": "https://cdn.sanity.io/images/cxgd3urn/production/1b9af0c39a15d0ac3e8a6894caf301eb14c2a3c9-2000x1800.jpg?w=140",
+        "summary": "Exhibition of works by 33 artists, including James Turrell and Annette Messager, respond to the house's fragrance L'Heure Bleue",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/7021fc539c75aad69cf3c6f70f8063d3d3bd8ebb-1791x1343.jpg?w=140",
         "source": "The Art Newspaper",
-        "sourceUrl": "https://www.theartnewspaper.com/2026/10/23/depaul-art-museum-closure-performance-protest-students-chicago",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/10/23/as-riots-scar-pariss-luxury-storefronts-maison-guerlain-opens-art-exhibition",
         "fromX": false
       }
     ]
@@ -199,6 +179,26 @@
         "source": "Neuroscience News",
         "sourceUrl": "https://neurosciencenews.com/brain-math-fractions-31334/",
         "fromX": false
+      }
+    ]
+  },
+  {
+    "batchId": "editorial_2026-10-22",
+    "scannedAt": "2026-10-22T17:30:49.134Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-10-22",
+        "rank": 0,
+        "title": "The Fragility of Progress",
+        "category": "editorial",
+        "summary": "Technological leaps clash with societal fractures and systemic vulnerabilities.",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/10/ssc-20261021-s00947h.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-10-22.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-10-22",
+        "authorName": "Dr. Wallace Lynch"
       }
     ]
   },
