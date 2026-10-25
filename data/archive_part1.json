@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-09-20T21-56",
+    "scannedAt": "2026-09-20T21:56:31.230Z",
+    "items": [
+      {
+        "id": "auto_2026-09-20T21-56_1",
+        "rank": 1,
+        "title": "No Dogs in Space is back to feed your need for obsessive music history",
+        "category": "general",
+        "summary": "In August, I wrote about my love of the music history podcast No Dogs in Space, but mourned the fact that there hadn't been a new episode in over two years. Little did I know that hosts Carolina Hidalgo and Marcus Parks…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/810731213_18454823458185562_8102974567602315903_n.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C52.459901936342&w=1200",
+        "source": "The Verge",
+        "sourceUrl": "https://www.theverge.com/report/997948/no-dogs-in-space-is-back-punk-2-0-music-history-podcast",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-20T21-56_2",
+        "rank": 2,
+        "title": "New nanoparticles make hidden chemical differences light up",
+        "category": "energy",
+        "summary": "Scientists have developed ultra-bright nanoparticles that can detect tiny amounts of chemicals and distinguish between molecules that look almost identical. The technology could one day provide a cheaper way to catch…",
+        "image": "https://www.sciencedaily.com/images/1920/near-infrared-laser-shined-on-nanoparticles.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260919031030.htm",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-20T21-56_3",
+        "rank": 3,
+        "title": "Scientists opened a sealed envelope after 10 years. Gravity still didn’t make sense",
+        "category": "space",
+        "summary": "A decade-long NIST experiment has produced a new measurement of the universal gravitational constant that differs unexpectedly from another leading result, deepening a 225-year-old physics puzzle. The discrepancy is…",
+        "image": "https://www.sciencedaily.com/images/1920/astrophysics-black-hole-rotating-light-gravity.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260920032049.htm",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-20T21-56_4",
+        "rank": 4,
+        "title": "The Placenta May Decide Autism Vulnerability",
+        "category": "neuroscience",
+        "summary": "A new study finds maternal inflammation damages placental spongiotrophoblasts, driving male-specific autism risk before brain sex differentiation.",
+        "image": "https://neurosciencenews.com/files/2026/09/Placental-Health-Drives-Autism-Risk.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/placenta-mia-autism-31225/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-20T21-56_5",
+        "rank": 5,
+        "title": "From A to T & Back Again: Openings, Part Two",
+        "category": "art",
+        "summary": "Six of the fall's new crop of gallery openings at Lomex, Maxwell Graham, Theta, David Peter Francis, Ellie Rines Gallery, and Ulrik",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/09/U112.jpg?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/columns/from-a-to-t-back-again-openings-part-two-theo-belci-1234759417/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "editorial_2026-09-20",
     "scannedAt": "2026-09-20T17:35:44.774Z",
     "kind": "editorial_archive",
@@ -2387,67 +2448,6 @@
         "isEditorialArchive": true,
         "publishDate": "2026-08-19",
         "authorName": "Dr. Wallace Lynch"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-08-19T20-11",
-    "scannedAt": "2026-08-19T20:11:25.130Z",
-    "items": [
-      {
-        "id": "auto_2026-08-19T20-11_1",
-        "rank": 1,
-        "title": "Voters Aren’t Waiting for November to Try Ousting Officials Over Data Centers",
-        "category": "general",
-        "summary": "As a backlash grows over data centers, more local officials are facing recall elections for their support of the computing sites.",
-        "image": "https://static01.nyt.com/images/2026/08/12/multimedia/DATACENTER-RECALLS-1-01-bvfh/DATACENTER-RECALLS-1-01-bvfh-mediumSquareAt3X.jpg",
-        "source": "NYT Technology",
-        "sourceUrl": "https://www.nytimes.com/2026/08/19/technology/data-centers-voter-concerns-independence-missouri.html",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-19T20-11_2",
-        "rank": 2,
-        "title": "STAT+: How Trump loyalist Heidi Overton became the president’s pick to run the FDA",
-        "category": "biotech",
-        "summary": "If she wins confirmation as FDA commissioner, Heidi Overton will face plenty of big challenges.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/08/AP25289733434052-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/08/19/heidi-overton-fda-commissioner-nominee-competing-interests-ahead/?utm_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-19T20-11_3",
-        "rank": 3,
-        "title": "Judge Approves Trump Administration’s Paint Tests On Eisenhower Building",
-        "category": "art",
-        "summary": "On Tuesday, a federal judge granted the Trump administration permission to proceed with paint tests on the Eisenhower Executive Building. Trump’s desire, which is to coat the granite facade with white paint, has been…",
-        "image": "https://www.artforum.com/wp-content/uploads/2026/08/Eisenhower_Executive_Office_Building_20240601.jpg?w=650",
-        "source": "Artforum",
-        "sourceUrl": "https://www.artforum.com/news/judge-approves-trump-paint-tests-on-eisenhower-building-1234757385/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-19T20-11_4",
-        "rank": 4,
-        "title": "Katalyst Space and NASA abandon plans for Swift reboost",
-        "category": "space",
-        "summary": "Katalyst Space and NASA have called off plans to use the company’s Link spacecraft to raise the orbit of the agency’s Swift gamma-ray observatory, citing attitude-control problems with the spacecraft. The post Katalyst…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/swift-link.jpeg?fit=1024%2C576&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/katalyst-space-and-nasa-abandon-plans-for-swift-reboost/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-19T20-11_5",
-        "rank": 5,
-        "title": "The Evidence That Can Start Disappearing After a Truck Accident",
-        "category": "robotics",
-        "summary": "After a serious truck crash, the wreckage gets most of the attention. Damaged vehicles are sitting on the road, emergency crews are working, and traffic may be backed up for miles. It feels like everything that matters…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/truck-on-road-1.jpg",
-        "source": "Robotics & Automation News",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/19/the-evidence-that-can-start-disappearing-after-a-truck-accident/104313/",
-        "fromX": false
       }
     ]
   }

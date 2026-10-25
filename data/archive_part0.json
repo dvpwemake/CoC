@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-10-25T01-51",
+    "scannedAt": "2026-10-25T01:51:08.823Z",
+    "items": [
+      {
+        "id": "auto_2026-10-25T01-51_1",
+        "rank": 1,
+        "title": "Elon Musk Says Ukraine Violated Starlink’s Rules",
+        "category": "general",
+        "summary": "The comments were his first since the disruption in the country’s satellite service. Earlier, Ukraine said drones using Starshield, the Pentagon-funded service, were back to normal speeds.",
+        "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24int-ukraine-starshield-jmgk/24int-ukraine-starshield-jmgk-mediumSquareAt3X.jpg",
+        "source": "NYT Technology",
+        "sourceUrl": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-25T01-51_2",
+        "rank": 2,
+        "title": "STAT+: The ESMO presentation everyone's been waiting for",
+        "category": "biotech",
+        "summary": "Moderna and Merck's 'presidential' presentation, and other news from Day 2 of the European Society for Medical Oncology meeting in Madrid.",
+        "image": "https://www.statnews.com/wp-content/uploads/2025/07/AdobeStock_1069389777_Editorial_Use_Only-1024x576.jpeg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/10/24/the-esmo-2026-merck-moderna-presentation-amgen-imdelltra-news/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-25T01-51_3",
+        "rank": 3,
+        "title": "Putting a Dollar Figure on Compressed Air Blow-Off",
+        "category": "robotics",
+        "summary": "Blow-off is the compressed air use nobody has to think about. A valve opens, the part comes clean, the line moves on. The electricity bill lands in a different department, with no note about which nozzle caused it.…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/sonic-air-systems-2.jpg",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/24/putting-a-dollar-figure-on-compressed-air-blow-off/106283/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-25T01-51_4",
+        "rank": 4,
+        "title": "Astronomers uncover a mysterious magnetic web above the Sun",
+        "category": "space",
+        "summary": "The Sun’s seemingly peaceful regions are hiding a surprisingly complex magnetic world. Using a balloon-borne telescope high above Earth, scientists discovered delicate, thread-like magnetic structures woven through the…",
+        "image": "https://www.sciencedaily.com/images/1920/magnetic-fields-in-chromosphere.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261023023723.htm",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-25T01-51_5",
+        "rank": 5,
+        "title": "Glioblastoma breakthrough reveals how brain cancer cells become more aggressive",
+        "category": "neuroscience",
+        "summary": "Scientists discovered that the thick, sticky fluid surrounding glioblastoma tumors can make brain cancer cells smaller, more flexible, and better at invading surrounding tissue. Even more troubling, some of these…",
+        "image": "https://www.sciencedaily.com/images/1920/open-micro-valley-chip-for-viscosity-driven-glioblastoma-invasion-study.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261022081300.htm",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-10-24T22-00",
     "scannedAt": "2026-10-24T22:00:23.764Z",
     "items": [
@@ -2509,67 +2570,6 @@
         "image": "https://neurosciencenews.com/files/2026/09/Core-Muscles-Help-Regulate-Blood-Flow-in-Your-Brain-1155x673.jpg",
         "source": "Neuroscience News",
         "sourceUrl": "https://neurosciencenews.com/core-contractions-brain-blood-flow-32231/",
-        "fromX": false
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-09-20T21-56",
-    "scannedAt": "2026-09-20T21:56:31.230Z",
-    "items": [
-      {
-        "id": "auto_2026-09-20T21-56_1",
-        "rank": 1,
-        "title": "No Dogs in Space is back to feed your need for obsessive music history",
-        "category": "general",
-        "summary": "In August, I wrote about my love of the music history podcast No Dogs in Space, but mourned the fact that there hadn't been a new episode in over two years. Little did I know that hosts Carolina Hidalgo and Marcus Parks…",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/810731213_18454823458185562_8102974567602315903_n.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C52.459901936342&w=1200",
-        "source": "The Verge",
-        "sourceUrl": "https://www.theverge.com/report/997948/no-dogs-in-space-is-back-punk-2-0-music-history-podcast",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-20T21-56_2",
-        "rank": 2,
-        "title": "New nanoparticles make hidden chemical differences light up",
-        "category": "energy",
-        "summary": "Scientists have developed ultra-bright nanoparticles that can detect tiny amounts of chemicals and distinguish between molecules that look almost identical. The technology could one day provide a cheaper way to catch…",
-        "image": "https://www.sciencedaily.com/images/1920/near-infrared-laser-shined-on-nanoparticles.webp",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260919031030.htm",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-20T21-56_3",
-        "rank": 3,
-        "title": "Scientists opened a sealed envelope after 10 years. Gravity still didn’t make sense",
-        "category": "space",
-        "summary": "A decade-long NIST experiment has produced a new measurement of the universal gravitational constant that differs unexpectedly from another leading result, deepening a 225-year-old physics puzzle. The discrepancy is…",
-        "image": "https://www.sciencedaily.com/images/1920/astrophysics-black-hole-rotating-light-gravity.webp",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260920032049.htm",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-20T21-56_4",
-        "rank": 4,
-        "title": "The Placenta May Decide Autism Vulnerability",
-        "category": "neuroscience",
-        "summary": "A new study finds maternal inflammation damages placental spongiotrophoblasts, driving male-specific autism risk before brain sex differentiation.",
-        "image": "https://neurosciencenews.com/files/2026/09/Placental-Health-Drives-Autism-Risk.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/placenta-mia-autism-31225/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-20T21-56_5",
-        "rank": 5,
-        "title": "From A to T & Back Again: Openings, Part Two",
-        "category": "art",
-        "summary": "Six of the fall's new crop of gallery openings at Lomex, Maxwell Graham, Theta, David Peter Francis, Ellie Rines Gallery, and Ulrik",
-        "image": "https://www.artforum.com/wp-content/uploads/2026/09/U112.jpg?w=650",
-        "source": "Artforum",
-        "sourceUrl": "https://www.artforum.com/columns/from-a-to-t-back-again-openings-part-two-theo-belci-1234759417/",
         "fromX": false
       }
     ]

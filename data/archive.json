@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-10-25T01-51",
+    "scannedAt": "2026-10-25T01:51:08.823Z",
+    "items": [
+      {
+        "id": "auto_2026-10-25T01-51_1",
+        "rank": 1,
+        "title": "Elon Musk Says Ukraine Violated Starlink’s Rules",
+        "category": "general",
+        "summary": "The comments were his first since the disruption in the country’s satellite service. Earlier, Ukraine said drones using Starshield, the Pentagon-funded service, were back to normal speeds.",
+        "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24int-ukraine-starshield-jmgk/24int-ukraine-starshield-jmgk-mediumSquareAt3X.jpg",
+        "source": "NYT Technology",
+        "sourceUrl": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-25T01-51_2",
+        "rank": 2,
+        "title": "STAT+: The ESMO presentation everyone's been waiting for",
+        "category": "biotech",
+        "summary": "Moderna and Merck's 'presidential' presentation, and other news from Day 2 of the European Society for Medical Oncology meeting in Madrid.",
+        "image": "https://www.statnews.com/wp-content/uploads/2025/07/AdobeStock_1069389777_Editorial_Use_Only-1024x576.jpeg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/10/24/the-esmo-2026-merck-moderna-presentation-amgen-imdelltra-news/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-25T01-51_3",
+        "rank": 3,
+        "title": "Putting a Dollar Figure on Compressed Air Blow-Off",
+        "category": "robotics",
+        "summary": "Blow-off is the compressed air use nobody has to think about. A valve opens, the part comes clean, the line moves on. The electricity bill lands in a different department, with no note about which nozzle caused it.…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/sonic-air-systems-2.jpg",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/24/putting-a-dollar-figure-on-compressed-air-blow-off/106283/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-25T01-51_4",
+        "rank": 4,
+        "title": "Astronomers uncover a mysterious magnetic web above the Sun",
+        "category": "space",
+        "summary": "The Sun’s seemingly peaceful regions are hiding a surprisingly complex magnetic world. Using a balloon-borne telescope high above Earth, scientists discovered delicate, thread-like magnetic structures woven through the…",
+        "image": "https://www.sciencedaily.com/images/1920/magnetic-fields-in-chromosphere.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261023023723.htm",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-25T01-51_5",
+        "rank": 5,
+        "title": "Glioblastoma breakthrough reveals how brain cancer cells become more aggressive",
+        "category": "neuroscience",
+        "summary": "Scientists discovered that the thick, sticky fluid surrounding glioblastoma tumors can make brain cancer cells smaller, more flexible, and better at invading surrounding tissue. Even more troubling, some of these…",
+        "image": "https://www.sciencedaily.com/images/1920/open-micro-valley-chip-for-viscosity-driven-glioblastoma-invasion-study.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261022081300.htm",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-10-24T22-00",
     "scannedAt": "2026-10-24T22:00:23.764Z",
     "items": [
