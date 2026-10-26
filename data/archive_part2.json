@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-08-19T20-11",
+    "scannedAt": "2026-08-19T20:11:25.130Z",
+    "items": [
+      {
+        "id": "auto_2026-08-19T20-11_1",
+        "rank": 1,
+        "title": "Voters Aren’t Waiting for November to Try Ousting Officials Over Data Centers",
+        "category": "general",
+        "summary": "As a backlash grows over data centers, more local officials are facing recall elections for their support of the computing sites.",
+        "image": "https://static01.nyt.com/images/2026/08/12/multimedia/DATACENTER-RECALLS-1-01-bvfh/DATACENTER-RECALLS-1-01-bvfh-mediumSquareAt3X.jpg",
+        "source": "NYT Technology",
+        "sourceUrl": "https://www.nytimes.com/2026/08/19/technology/data-centers-voter-concerns-independence-missouri.html",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-19T20-11_2",
+        "rank": 2,
+        "title": "STAT+: How Trump loyalist Heidi Overton became the president’s pick to run the FDA",
+        "category": "biotech",
+        "summary": "If she wins confirmation as FDA commissioner, Heidi Overton will face plenty of big challenges.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/08/AP25289733434052-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/08/19/heidi-overton-fda-commissioner-nominee-competing-interests-ahead/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-19T20-11_3",
+        "rank": 3,
+        "title": "Judge Approves Trump Administration’s Paint Tests On Eisenhower Building",
+        "category": "art",
+        "summary": "On Tuesday, a federal judge granted the Trump administration permission to proceed with paint tests on the Eisenhower Executive Building. Trump’s desire, which is to coat the granite facade with white paint, has been…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/08/Eisenhower_Executive_Office_Building_20240601.jpg?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/news/judge-approves-trump-paint-tests-on-eisenhower-building-1234757385/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-19T20-11_4",
+        "rank": 4,
+        "title": "Katalyst Space and NASA abandon plans for Swift reboost",
+        "category": "space",
+        "summary": "Katalyst Space and NASA have called off plans to use the company’s Link spacecraft to raise the orbit of the agency’s Swift gamma-ray observatory, citing attitude-control problems with the spacecraft. The post Katalyst…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/swift-link.jpeg?fit=1024%2C576&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/katalyst-space-and-nasa-abandon-plans-for-swift-reboost/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-19T20-11_5",
+        "rank": 5,
+        "title": "The Evidence That Can Start Disappearing After a Truck Accident",
+        "category": "robotics",
+        "summary": "After a serious truck crash, the wreckage gets most of the attention. Damaged vehicles are sitting on the road, emergency crews are working, and traffic may be backed up for miles. It feels like everything that matters…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/truck-on-road-1.jpg",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/19/the-evidence-that-can-start-disappearing-after-a-truck-accident/104313/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-08-18T20-08",
     "scannedAt": "2026-08-18T20:08:44.971Z",
     "items": [
@@ -2462,45 +2523,6 @@
         "source": "NASA",
         "sourceUrl": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pushes-new-wing-design-to-find-structural-limits/",
         "imageProxy": "https://images.weserv.nl/?url=images-assets.nasa.gov%2Fimage%2FAFRC2025-0136-1632%2FAFRC2025-0136-1632~large.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-07-17T20-39",
-    "scannedAt": "2026-07-17T20:39:41.942Z",
-    "items": [
-      {
-        "id": "auto_2026-07-17T20-39_1",
-        "rank": 1,
-        "title": "Adolescent Brain Changes Temporarily Obscure Earlier Memories",
-        "category": "neuroscience",
-        "summary": "Late adolescence triggers a temporary destabilization of contextual memory circuits due to the targeted remodeling of perineuronal nets (PNNs) in the retrosplenial cortex (RSP).",
-        "image": "https://neurosciencenews.com/files/2026/07/adolescent-memory-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/adolescent-perineuronal-nets-memory-remodeling-31071/",
-        "imageProxy": "https://images.weserv.nl/?url=neurosciencenews.com%2Ffiles%2F2026%2F07%2Fadolescent-memory-neuroscience-1155x770.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-17T20-39_2",
-        "rank": 2,
-        "title": "NASA's Chandra and IXPE Study Pulsar in Lighthouse Nebula",
-        "category": "space",
-        "summary": "This composite image, released on July 9, 2026, shows the region around a pulsar – a neutron star with a strong magnetic field that spins incredibly fast – within the Lighthouse nebula. The image contains X-ray data…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/07/lighthouse-lg.jpg",
-        "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/image-article/nasas-chandra-and-ixpe-study-pulsar-in-lighthouse-nebula/",
-        "imageProxy": "https://images.weserv.nl/?url=www.nasa.gov%2Fwp-content%2Fuploads%2F2026%2F07%2Flighthouse-lg.jpg&w=640&h=400&fit=cover&we&output=jpg"
-      },
-      {
-        "id": "auto_2026-07-17T20-39_5",
-        "rank": 5,
-        "title": "Quitting smoking is hard. A Medicare change may push doctors to give more help",
-        "category": "biotech",
-        "summary": "Physicians who offer counseling on quitting cigarettes and alcohol during patient visits would get a 19% increase in reimbursement under a proposed Medicare change.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/07/GettyImages-487902504-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/07/17/medicare-smoking-cessation-reimbursement-increase/?utm_campaign=rss",
-        "imageProxy": "https://images.weserv.nl/?url=www.statnews.com%2Fwp-content%2Fuploads%2F2026%2F07%2FGettyImages-487902504-1024x576.jpg&w=640&h=400&fit=cover&we&output=jpg"
       }
     ]
   }

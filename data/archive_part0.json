@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-10-26T01-52",
-    "scannedAt": "2026-10-26T01:52:42.738Z",
+    "batchId": "auto_2026-10-26T09-24",
+    "scannedAt": "2026-10-26T09:24:14.713Z",
     "items": [
       {
-        "id": "auto_2026-10-26T01-52_1",
+        "id": "auto_2026-10-26T09-24_1",
         "rank": 1,
-        "title": "Data centre debate heats up ahead of US midterms - here's what you need to know",
+        "title": "Valve Steam Frame Review: Costly and Inconsistent",
         "category": "general",
-        "summary": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68b2/live/52453c80-cc82-11f1-bc2e-018d645d8d21.png",
-        "source": "BBC Technology",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
+        "summary": "The Steam Frame’s promise of greatness for stand-alone and streaming VR gaming doesn’t quite connect.",
+        "image": "https://media.wired.com/photos/6adbc96a2eadfa02886c7f8c/master/pass/ValveArt.jpg",
+        "source": "WIRED",
+        "sourceUrl": "https://www.wired.com/review/valve-steam-frame/",
         "fromX": false
       },
       {
-        "id": "auto_2026-10-26T01-52_2",
+        "id": "auto_2026-10-26T09-24_2",
         "rank": 2,
-        "title": "STAT+: At ESMO, AstraZeneca’s cancer pursuits get a showcase",
+        "title": "The 4 stages of women’s heart health: Experts present new framework",
         "category": "biotech",
-        "summary": "AstraZeneca has seen major momentum in oncology in recent years. It got a big showcase at Europe's top cancer conference.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/06/GettyImages-2237096018-1024x576.jpg",
+        "summary": "New guidance is intended to help girls and women — and their doctors — recognize four distinct phases in heart health.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/10/Screenshot-2026-10-23-at-2.29.51-PM-1024x576.jpg",
         "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/10/25/esmo-astrazeneca-adcs-lung-gastric-cancer/?utm_campaign=rss",
+        "sourceUrl": "https://www.statnews.com/2026/10/26/heart-health-women-four-life-stages-qa-sadiya-khan/?utm_campaign=rss",
         "fromX": false
       },
       {
-        "id": "auto_2026-10-26T01-52_3",
+        "id": "auto_2026-10-26T09-24_3",
         "rank": 3,
-        "title": "APOD: 2026 October 25 – Dark Matter in a Simulated Universe",
-        "category": "space",
-        "summary": "APOD Science APOD APOD: 2026 October 25 – Dark… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or…",
-        "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2021/october/DarkMatter_KipacAmnh_1200.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-        "source": "NASA",
-        "sourceUrl": "https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe/",
+        "title": "2,500-year-old solar observatory identified in Mexico",
+        "category": "art",
+        "summary": "Offerings and obsidian pieces uncovered at the site suggest ancient cultural connections spanning across the region",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/b4ed10b524bb53de1cde537607ffea3c27a60bb7-1000x623.jpg?rect=1,0,999,569&w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/10/26/2500-year-old-solar-observatory-discovered-mexico",
         "fromX": false
       },
       {
-        "id": "auto_2026-10-26T01-52_4",
+        "id": "auto_2026-10-26T09-24_4",
         "rank": 4,
-        "title": "Putting a Dollar Figure on Compressed Air Blow-Off",
-        "category": "robotics",
-        "summary": "Blow-off is the compressed air use nobody has to think about. A valve opens, the part comes clean, the line moves on. The electricity bill lands in a different department, with no note about which nozzle caused it.…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/sonic-air-systems-2.jpg",
-        "source": "Robotics & Automation News",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/24/putting-a-dollar-figure-on-compressed-air-blow-off/106283/",
+        "title": "This group-buy campaign makes it easier to switch to induction cooking",
+        "category": "energy",
+        "summary": "Word is getting out about electric induction ranges. More and more chefs say the appliances cook just as well as or better than their gas counterparts. The stoves don’t burn climate-warming fossil fuels or release…",
+        "image": "https://img.canarymedia.com/content/uploads/Electra-Showroom-iPhone.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=49b37a7f9a8ac2d23fb8d129853ad749",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/electrification/group-buy-induction-cooking",
         "fromX": false
       },
       {
-        "id": "auto_2026-10-26T01-52_5",
+        "id": "auto_2026-10-26T09-24_5",
         "rank": 5,
-        "title": "Glioblastoma breakthrough reveals how brain cancer cells become more aggressive",
-        "category": "neuroscience",
-        "summary": "Scientists discovered that the thick, sticky fluid surrounding glioblastoma tumors can make brain cancer cells smaller, more flexible, and better at invading surrounding tissue. Even more troubling, some of these…",
-        "image": "https://www.sciencedaily.com/images/1920/open-micro-valley-chip-for-viscosity-driven-glioblastoma-invasion-study.webp",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261022081300.htm",
+        "title": "Schaeffler opens lighthouse factory in Taicang where ‘humanoids will make humanoids’",
+        "category": "robotics",
+        "summary": "Motion technology company Schaeffler has opened a state-of-the-art lighthouse factory for humanoid robotics in Taicang, China. It houses an intelligent assembly line, a training and data acquisition center, a platform…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/schaeffler-taicang-factory-3.jpg",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/26/schaeffler-opens-lighthouse-factory-in-taicang-where-humanoids-will-make-humanoids/106303/",
         "fromX": false
       }
     ]
@@ -179,6 +179,26 @@
         "source": "STAT News",
         "sourceUrl": "https://www.statnews.com/2026/10/24/christina-applegate-multiple-sclerosis-why-ms-misdiagnosis-happens/?utm_campaign=rss",
         "fromX": false
+      }
+    ]
+  },
+  {
+    "batchId": "editorial_2026-10-24",
+    "scannedAt": "2026-10-24T05:47:28.888Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-10-24",
+        "rank": 0,
+        "title": "Human Ambition and the Spaces We Hold",
+        "category": "editorial",
+        "summary": "Bridging boundary-pushing discoveries with the cultural anchors that preserve our shared story.",
+        "image": "https://images-assets.nasa.gov/image/art002e012632/art002e012632~large.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-10-24.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-10-24",
+        "authorName": "Dr. Wallace Lynch"
       }
     ]
   },
@@ -2571,67 +2591,6 @@
         "isEditorialArchive": true,
         "publishDate": "2026-09-21",
         "authorName": "Dr. Wallace Lynch"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-09-21T22-52",
-    "scannedAt": "2026-09-21T22:52:05.132Z",
-    "items": [
-      {
-        "id": "auto_2026-09-21T22-52_1",
-        "rank": 1,
-        "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
-        "category": "general",
-        "summary": "A simple ClickFix attack is only one way to completely hijack the new agent.",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg",
-        "source": "Ars Technica",
-        "sourceUrl": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-21T22-52_2",
-        "rank": 2,
-        "title": "STAT+: Members of Congress push back on plan to create a commission of political appointees to review NIH grants",
-        "category": "biotech",
-        "summary": "Several members of Congress voiced strong opposition about a reported plan to create a panel of political appointees to sign off on NIH grants",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/09/GettyImages-2294340438-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/09/21/trump-plan-for-commission-to-review-nih-grants-push-back/?utm_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-21T22-52_3",
-        "rank": 3,
-        "title": "Embracing the Equinox",
-        "category": "space",
-        "summary": "Depending on your locale, equinoxes can be seen as harbingers of longer nights and gloomy weather, or promising beacons of nicer temperatures and more sunlight. Observing and predicting equinoxes is one of the earliest…",
-        "image": "https://science.nasa.gov/wp-content/uploads/2022/09/equinox4_0-1200x675-1.jpg",
-        "source": "NASA",
-        "sourceUrl": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/embracing-the-equinox/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-21T22-52_4",
-        "rank": 4,
-        "title": "From the Bronx to the Lower East Side, New York’s museum building boom continues",
-        "category": "art",
-        "summary": "Several institutional construction projects have already opened this year, with more in the pipeline",
-        "image": "https://cdn.sanity.io/images/cxgd3urn/production/20e266767edf784f3d352e4680233cb62bb1421f-2953x1969.jpg?w=140",
-        "source": "The Art Newspaper",
-        "sourceUrl": "https://www.theartnewspaper.com/2026/09/21/new-york-city-museum-building-boom-bronx-museum-canyon-metropolitan-museum",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-21T22-52_5",
-        "rank": 5,
-        "title": "Core Contractions Drive Brain Blood Flow",
-        "category": "neuroscience",
-        "summary": "Engaging core muscles rapidly constricts cerebral veins to regulate brain blood flow, revealing a mechanical body-brain link in PNAS study.",
-        "image": "https://neurosciencenews.com/files/2026/09/Core-Muscles-Help-Regulate-Blood-Flow-in-Your-Brain-1155x673.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/core-contractions-brain-blood-flow-32231/",
-        "fromX": false
       }
     ]
   }
