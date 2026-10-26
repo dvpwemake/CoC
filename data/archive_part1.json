@@ -2450,5 +2450,66 @@
         "authorName": "Dr. Wallace Lynch"
       }
     ]
+  },
+  {
+    "batchId": "auto_2026-08-19T20-11",
+    "scannedAt": "2026-08-19T20:11:25.130Z",
+    "items": [
+      {
+        "id": "auto_2026-08-19T20-11_1",
+        "rank": 1,
+        "title": "Voters Aren’t Waiting for November to Try Ousting Officials Over Data Centers",
+        "category": "general",
+        "summary": "As a backlash grows over data centers, more local officials are facing recall elections for their support of the computing sites.",
+        "image": "https://static01.nyt.com/images/2026/08/12/multimedia/DATACENTER-RECALLS-1-01-bvfh/DATACENTER-RECALLS-1-01-bvfh-mediumSquareAt3X.jpg",
+        "source": "NYT Technology",
+        "sourceUrl": "https://www.nytimes.com/2026/08/19/technology/data-centers-voter-concerns-independence-missouri.html",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-19T20-11_2",
+        "rank": 2,
+        "title": "STAT+: How Trump loyalist Heidi Overton became the president’s pick to run the FDA",
+        "category": "biotech",
+        "summary": "If she wins confirmation as FDA commissioner, Heidi Overton will face plenty of big challenges.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/08/AP25289733434052-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/08/19/heidi-overton-fda-commissioner-nominee-competing-interests-ahead/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-19T20-11_3",
+        "rank": 3,
+        "title": "Judge Approves Trump Administration’s Paint Tests On Eisenhower Building",
+        "category": "art",
+        "summary": "On Tuesday, a federal judge granted the Trump administration permission to proceed with paint tests on the Eisenhower Executive Building. Trump’s desire, which is to coat the granite facade with white paint, has been…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/08/Eisenhower_Executive_Office_Building_20240601.jpg?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/news/judge-approves-trump-paint-tests-on-eisenhower-building-1234757385/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-19T20-11_4",
+        "rank": 4,
+        "title": "Katalyst Space and NASA abandon plans for Swift reboost",
+        "category": "space",
+        "summary": "Katalyst Space and NASA have called off plans to use the company’s Link spacecraft to raise the orbit of the agency’s Swift gamma-ray observatory, citing attitude-control problems with the spacecraft. The post Katalyst…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/swift-link.jpeg?fit=1024%2C576&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/katalyst-space-and-nasa-abandon-plans-for-swift-reboost/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-19T20-11_5",
+        "rank": 5,
+        "title": "The Evidence That Can Start Disappearing After a Truck Accident",
+        "category": "robotics",
+        "summary": "After a serious truck crash, the wreckage gets most of the attention. Damaged vehicles are sitting on the road, emergency crews are working, and traffic may be backed up for miles. It feels like everything that matters…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/truck-on-road-1.jpg",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/19/the-evidence-that-can-start-disappearing-after-a-truck-accident/104313/",
+        "fromX": false
+      }
+    ]
   }
 ]

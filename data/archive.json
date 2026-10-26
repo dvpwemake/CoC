@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-10-26T01-52",
+    "scannedAt": "2026-10-26T01:52:42.738Z",
+    "items": [
+      {
+        "id": "auto_2026-10-26T01-52_1",
+        "rank": 1,
+        "title": "Data centre debate heats up ahead of US midterms - here's what you need to know",
+        "category": "general",
+        "summary": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68b2/live/52453c80-cc82-11f1-bc2e-018d645d8d21.png",
+        "source": "BBC Technology",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-26T01-52_2",
+        "rank": 2,
+        "title": "STAT+: At ESMO, AstraZeneca’s cancer pursuits get a showcase",
+        "category": "biotech",
+        "summary": "AstraZeneca has seen major momentum in oncology in recent years. It got a big showcase at Europe's top cancer conference.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/06/GettyImages-2237096018-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/10/25/esmo-astrazeneca-adcs-lung-gastric-cancer/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-26T01-52_3",
+        "rank": 3,
+        "title": "APOD: 2026 October 25 – Dark Matter in a Simulated Universe",
+        "category": "space",
+        "summary": "APOD Science APOD APOD: 2026 October 25 – Dark… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or…",
+        "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2021/october/DarkMatter_KipacAmnh_1200.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "source": "NASA",
+        "sourceUrl": "https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-26T01-52_4",
+        "rank": 4,
+        "title": "Putting a Dollar Figure on Compressed Air Blow-Off",
+        "category": "robotics",
+        "summary": "Blow-off is the compressed air use nobody has to think about. A valve opens, the part comes clean, the line moves on. The electricity bill lands in a different department, with no note about which nozzle caused it.…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/sonic-air-systems-2.jpg",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/24/putting-a-dollar-figure-on-compressed-air-blow-off/106283/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-26T01-52_5",
+        "rank": 5,
+        "title": "Glioblastoma breakthrough reveals how brain cancer cells become more aggressive",
+        "category": "neuroscience",
+        "summary": "Scientists discovered that the thick, sticky fluid surrounding glioblastoma tumors can make brain cancer cells smaller, more flexible, and better at invading surrounding tissue. Even more troubling, some of these…",
+        "image": "https://www.sciencedaily.com/images/1920/open-micro-valley-chip-for-viscosity-driven-glioblastoma-invasion-study.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261022081300.htm",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-10-25T22-07",
     "scannedAt": "2026-10-25T22:07:00.407Z",
     "items": [
