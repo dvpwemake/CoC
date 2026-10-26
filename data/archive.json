@@ -1,5 +1,25 @@
 [
   {
+    "batchId": "editorial_2026-10-24",
+    "scannedAt": "2026-10-24T05:47:28.888Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-10-24",
+        "rank": 0,
+        "title": "Human Ambition and the Spaces We Hold",
+        "category": "editorial",
+        "summary": "Bridging boundary-pushing discoveries with the cultural anchors that preserve our shared story.",
+        "image": "https://images-assets.nasa.gov/image/art002e012632/art002e012632~large.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-10-24.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-10-24",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-10-26T01-52",
     "scannedAt": "2026-10-26T01:52:42.738Z",
     "items": [
