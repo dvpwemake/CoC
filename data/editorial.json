@@ -1,127 +1,149 @@
 {
   "published": {
-    "id": "ed_2026-10-24",
-    "publishDate": "2026-10-24",
+    "id": "ed_2026-10-26",
+    "publishDate": "2026-10-26",
     "status": "published",
-    "updatedAt": "2026-10-24T05:47:28.888Z",
-    "title": "Human Ambition and the Spaces We Hold",
-    "dek": "Bridging boundary-pushing discoveries with the cultural anchors that preserve our shared story.",
+    "updatedAt": "2026-10-26T06:04:57.835Z",
+    "title": "Frontiers of Precision: From Micro-Mechanisms to Cosmic Giants",
+    "dek": "Today’s breakthroughs weave actionable science with profound structural revelations.",
     "authorName": "Dr. Wallace Lynch",
     "authorTitle": "Editor in Chief",
-    "body": "Today’s headlines present a striking portrait of human ambition: we are racing toward frontier thresholds while negotiating the value of the spaces we leave behind.\n\nIn medicine and neuroscience, breakthrough technology continues to redraw the boundaries of human care. ESMO data confirmed that Moderna and Merck’s personalized mRNA cancer vaccine significantly reduced disease recurrence in melanoma patients, offering a glimpse into the future of tailored oncology. At the same time, EPFL researchers unveiled LogSync—an ultra-low-power neural chip that enables adaptive deep brain stimulation for complex psychiatric disorders—while the UK announced a £100m investment in a world-first AI Biosecurity Lab. Above us, NASA and its commercial partners are accelerating lander development to secure a permanent human presence on the Moon by 2028. Across every vector, the drive to innovate is reshaping how we heal, compute, and explore.\n\nYet, as we project ourselves into the future, our cultural institutions remind us of what grounding requires. A Roman marble torso setting a record $34.3 million at Sotheby’s and a landmark $20 million gift to the Philadelphia Museum of Art demonstrate our enduring reverence for artistic heritage. Contrast those milestones with DePaul University, where students staged a protest performance over the shuttering of their campus art museum. It serves as a potent reminder that innovation loses its weight when we abandon the places designed for reflection, local engagement, and creative inquiry.\n\nProgress cannot merely be measured by how far we reach, but by how thoughtfully we preserve the physical and cultural spaces that anchor our communities. As technical systems automate, orbit, and decode, our commitment to artistic, civic, and educational spaces ensures that rapid advance remains tethered to deep human values.",
+    "body": "Today’s discoveries spotlight a fundamental shift across disciplines: progress no longer relies solely on grand theories, but on mastering the physical and structural nuances that govern complex systems. Across medicine, industrial engineering, consumer tech, and astrophysics, understanding mechanics at every scale is unlocking crucial advancements.\n\nIn oncology, precision is transforming therapeutic paradigms. AstraZeneca’s showcase at ESMO highlights the momentum behind targeted antibody-drug conjugates, while researchers push to expand the reach of the first successful cancer vaccines beyond initial tumor types. Yet, as therapeutic tools sharpen, biological complexity continues to present steep hurdles. In glioblastoma, new neuroscience insights reveal how the dense microenvironment surrounding brain tumors forces cancer cells to adapt, turning them smaller, more flexible, and significantly more aggressive. On the diagnostic front, advocate-driven awareness around Multiple Sclerosis emphasizes that speed means little without precision—getting the diagnosis right remains the ultimate priority in neurology.\n\nThis focus on structural detail echoes throughout technology and consumer hardware. As the environmental footprint of data centers takes center stage ahead of US midterms, industrial robotics addresses overlooked efficiencies, like calculating the hidden operational costs of compressed-air blow-off. Consumer tech mirrors this scrutiny, with iFixit’s teardown of the new iPhone Duo exposing the delicate mechanical engineering and hinge trade-offs hidden beneath folding screens.\n\nEven on a cosmic scale, structural mapping alters our view of the universe. From NASA’s visual simulations tracking dark matter’s cosmic web to the discovery of three giant black holes actively feeding inside a single galaxy 12.5 billion light-years away, early-universe dynamics challenge standard models of growth. Meanwhile, quieter human expressions in Los Angeles art galleries remind us that subtlety can speak as powerfully as giant breakthroughs. Across every domain, true mastery lies in navigating the fine details.",
     "paragraphs": [
-      "Today’s headlines present a striking portrait of human ambition: we are racing toward frontier thresholds while negotiating the value of the spaces we leave behind.",
-      "In medicine and neuroscience, breakthrough technology continues to redraw the boundaries of human care. ESMO data confirmed that Moderna and Merck’s personalized mRNA cancer vaccine significantly reduced disease recurrence in melanoma patients, offering a glimpse into the future of tailored oncology. At the same time, EPFL researchers unveiled LogSync—an ultra-low-power neural chip that enables adaptive deep brain stimulation for complex psychiatric disorders—while the UK announced a £100m investment in a world-first AI Biosecurity Lab. Above us, NASA and its commercial partners are accelerating lander development to secure a permanent human presence on the Moon by 2028. Across every vector, the drive to innovate is reshaping how we heal, compute, and explore.",
-      "Yet, as we project ourselves into the future, our cultural institutions remind us of what grounding requires. A Roman marble torso setting a record $34.3 million at Sotheby’s and a landmark $20 million gift to the Philadelphia Museum of Art demonstrate our enduring reverence for artistic heritage. Contrast those milestones with DePaul University, where students staged a protest performance over the shuttering of their campus art museum. It serves as a potent reminder that innovation loses its weight when we abandon the places designed for reflection, local engagement, and creative inquiry.",
-      "Progress cannot merely be measured by how far we reach, but by how thoughtfully we preserve the physical and cultural spaces that anchor our communities. As technical systems automate, orbit, and decode, our commitment to artistic, civic, and educational spaces ensures that rapid advance remains tethered to deep human values."
+      "Today’s discoveries spotlight a fundamental shift across disciplines: progress no longer relies solely on grand theories, but on mastering the physical and structural nuances that govern complex systems. Across medicine, industrial engineering, consumer tech, and astrophysics, understanding mechanics at every scale is unlocking crucial advancements.",
+      "In oncology, precision is transforming therapeutic paradigms. AstraZeneca’s showcase at ESMO highlights the momentum behind targeted antibody-drug conjugates, while researchers push to expand the reach of the first successful cancer vaccines beyond initial tumor types. Yet, as therapeutic tools sharpen, biological complexity continues to present steep hurdles. In glioblastoma, new neuroscience insights reveal how the dense microenvironment surrounding brain tumors forces cancer cells to adapt, turning them smaller, more flexible, and significantly more aggressive. On the diagnostic front, advocate-driven awareness around Multiple Sclerosis emphasizes that speed means little without precision—getting the diagnosis right remains the ultimate priority in neurology.",
+      "This focus on structural detail echoes throughout technology and consumer hardware. As the environmental footprint of data centers takes center stage ahead of US midterms, industrial robotics addresses overlooked efficiencies, like calculating the hidden operational costs of compressed-air blow-off. Consumer tech mirrors this scrutiny, with iFixit’s teardown of the new iPhone Duo exposing the delicate mechanical engineering and hinge trade-offs hidden beneath folding screens.",
+      "Even on a cosmic scale, structural mapping alters our view of the universe. From NASA’s visual simulations tracking dark matter’s cosmic web to the discovery of three giant black holes actively feeding inside a single galaxy 12.5 billion light-years away, early-universe dynamics challenge standard models of growth. Meanwhile, quieter human expressions in Los Angeles art galleries remind us that subtlety can speak as powerfully as giant breakthroughs. Across every domain, true mastery lies in navigating the fine details."
     ],
-    "wordCount": 277,
-    "heroImage": "https://images-assets.nasa.gov/image/art002e012632/art002e012632~large.jpg",
-    "heroCredit": "NASA, Partners Accelerate Lander Development for 2028 Moon Missions",
-    "heroSource": "NASA",
-    "heroSourceUrl": "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/",
+    "wordCount": 286,
+    "heroImage": "https://www.statnews.com/wp-content/uploads/2026/06/GettyImages-2237096018-1024x576.jpg",
+    "heroCredit": "STAT+: At ESMO, AstraZeneca’s cancer pursuits get a showcase",
+    "heroSource": "STAT News",
+    "heroSourceUrl": "https://www.statnews.com/2026/10/25/esmo-astrazeneca-adcs-lung-gastric-cancer/?utm_campaign=rss",
     "headlines": [
       {
-        "title": "Students stage protest performance over closure of Chicago's DePaul Art Museum",
-        "source": "The Art Newspaper",
-        "category": "art",
-        "sourceUrl": "https://www.theartnewspaper.com/2026/10/23/depaul-art-museum-closure-performance-protest-students-chicago",
-        "summary": "The museum, located on the DePaul University campus, has been closed to the public since June",
-        "image": "https://cdn.sanity.io/images/cxgd3urn/production/1b9af0c39a15d0ac3e8a6894caf301eb14c2a3c9-2000x1800.jpg?w=140"
-      },
-      {
-        "title": "STAT+: Highly anticipated Moderna-Merck melanoma cancer vaccine data arrived early",
+        "title": "STAT+: At ESMO, AstraZeneca’s cancer pursuits get a showcase",
         "source": "STAT News",
         "category": "biotech",
-        "sourceUrl": "https://www.statnews.com/2026/10/23/moderna-merck-melanoma-cancer-vaccine-data-arrived-early-esmo/?utm_campaign=rss",
-        "summary": "In data released at ESMO, the Moderna-Merck personalized mRNA cancer vaccine reduced recurrence-free survival and the time until distant metastasis occurred.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/02/GettyImages-1223699960-1024x576.jpg"
+        "sourceUrl": "https://www.statnews.com/2026/10/25/esmo-astrazeneca-adcs-lung-gastric-cancer/?utm_campaign=rss",
+        "summary": "AstraZeneca has seen major momentum in oncology in recent years. It got a big showcase at Europe's top cancer conference.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/06/GettyImages-2237096018-1024x576.jpg"
       },
       {
-        "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+        "title": "Data centre debate heats up ahead of US midterms - here's what you need to know",
         "source": "BBC Technology",
         "category": "general",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
-        "summary": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43e7/live/343404d0-cf00-11f1-accf-3309656ad0bb.jpg"
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
+        "summary": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68b2/live/52453c80-cc82-11f1-bc2e-018d645d8d21.png"
       },
       {
-        "title": "Neural Chip Powers Adaptive DBS for Depression",
-        "source": "Neuroscience News",
+        "title": "Glioblastoma breakthrough reveals how brain cancer cells become more aggressive",
+        "source": "ScienceDaily",
         "category": "neuroscience",
-        "sourceUrl": "https://neurosciencenews.com/dbs-depression-neurotech-32338/",
-        "summary": "Treating psychiatric illnesses with deep brain stimulation requires tracking multi-region brain networks. EPFL researchers developed LogSync, an ultra-low-power system-on-chip operating under 200 microwatts that decodes…",
-        "image": "https://neurosciencenews.com/files/2026/10/depression-dbs-neurotech-1155x770.jpg"
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261022081300.htm",
+        "summary": "Scientists discovered that the thick, sticky fluid surrounding glioblastoma tumors can make brain cancer cells smaller, more flexible, and better at invading surrounding tissue. Even more troubling, some of these…",
+        "image": "https://www.sciencedaily.com/images/1920/open-micro-valley-chip-for-viscosity-driven-glioblastoma-invasion-study.webp"
       },
       {
-        "title": "NASA, Partners Accelerate Lander Development for 2028 Moon Missions",
-        "source": "NASA",
-        "category": "space",
-        "sourceUrl": "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/",
-        "summary": "As NASA returns humans to the lunar surface and establishes a long-term presence on our closest celestial neighbor, the agency and commercial human landing system providers Blue Origin and SpaceX have streamlined the…",
-        "image": "https://images-assets.nasa.gov/image/art002e012632/art002e012632~large.jpg"
-      },
-      {
-        "title": "Philadelphia Museum of Art Receives Landmark $20 Million Gift for Education Center",
-        "source": "Artforum",
-        "category": "art",
-        "sourceUrl": "https://www.artforum.com/news/philadelphia-museum-of-art-gets-20-million-for-education-1234762045/",
-        "summary": "The Philadelphia Museum of Art (PMA) on October 23 announced that it was the recipient of a $20 million gift earmarked for the development of a new education center. The donation from longtime PMA supporters Julian…",
-        "image": "https://www.artforum.com/wp-content/uploads/2026/10/2025_05_23_ms_0301.jpg?w=650"
-      },
-      {
-        "title": "STAT+: Diabetes association says ‘threat’ preceded members’ ejections, but admits policies were unclear",
-        "source": "STAT News",
-        "category": "biotech",
-        "sourceUrl": "https://www.statnews.com/2026/10/23/ada-new-orleans-convention-new-report-on-controversial-june-ejections/?utm_campaign=rss",
-        "summary": "The American Diabetes Association has issued two explanations, two reviews and an apology over its June convention. A Friday report adds new twists.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/06/conference-center-e1789083632150-1024x576.jpeg"
-      },
-      {
-        "title": "Xbox’s first chief operating officer is out after just a few months",
-        "source": "The Verge",
-        "category": "general",
-        "sourceUrl": "https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure",
-        "summary": "Xbox's first chief operating officer (COO) is leaving after the new role was created just a few months ago. Helen Chiang is leaving Microsoft today, according to an internal Xbox memo seen by The Verge. Chiang has been…",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25485116/STK048_XBOX2__B.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-      },
-      {
-        "title": "What Should Drivers Do When an Accident Report Contains Errors?",
+        "title": "Putting a Dollar Figure on Compressed Air Blow-Off",
         "source": "Robotics & Automation News",
         "category": "robotics",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/23/what-should-drivers-do-when-an-accident-report-contains-errors/106280/",
-        "summary": "Drivers involved in a car accident in Round Rock, TX, may be left with a lot to sort out, from vehicle repairs to phone calls with insurance adjusters. A single mistake on the police crash report can turn an already…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/police-report-1.jpeg"
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/24/putting-a-dollar-figure-on-compressed-air-blow-off/106283/",
+        "summary": "Blow-off is the compressed air use nobody has to think about. A valve opens, the part comes clean, the line moves on. The electricity bill lands in a different department, with no note about which nozzle caused it.…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/sonic-air-systems-2.jpg"
       },
       {
-        "title": "Nov. 5: Satellite Mission Management at the Edge",
-        "source": "SpaceNews",
+        "title": "APOD: 2026 October 25 – Dark Matter in a Simulated Universe",
+        "source": "NASA",
         "category": "space",
-        "sourceUrl": "https://spacenews.com/satellite-mission-management-at-the-edge-event/",
-        "summary": "Join us to explore how emerging technologies and commercial capabilities are transforming satellite operations The post Nov. 5: Satellite Mission Management at the Edge appeared first on SpaceNews .",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/2026-11-05-RTX-SpaceNews-2000-1500-scaled.jpg?fit=1024%2C768&ssl=1"
+        "sourceUrl": "https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe/",
+        "summary": "APOD Science APOD APOD: 2026 October 25 – Dark… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or…",
+        "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2021/october/DarkMatter_KipacAmnh_1200.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg"
       },
       {
-        "title": "$34.3 Million Marble Torso Sets Roman Antiquity Record at Sotheby’s",
-        "source": "Artforum",
-        "category": "art",
-        "sourceUrl": "https://www.artforum.com/news/34-3-million-marble-torso-sets-record-at-sothebys-1234761959/",
-        "summary": "A marble sculpture fragment depicting the cuirass-clad torso of a Roman emperor hammered for $34.3 million at Sotheby’s on October 21, nearly three times its $12 million estimate and the highest amount ever fetched by a…",
-        "image": "https://www.artforum.com/wp-content/uploads/2026/10/A-Marble-Torso-of-an-Emperor-Roman-Imperial-Julio-Claudian-1st-half-of-the-1st-century-A.D.-683x1024.jpg.webp?w=650"
-      },
-      {
-        "title": "STAT+: Detailed data confirm Moderna and Merck cancer vaccine met key endpoints in melanoma trial",
+        "title": "STAT+: After a cancer vaccine’s first success, the race is on to expand the impact",
         "source": "STAT News",
         "category": "biotech",
-        "sourceUrl": "https://www.statnews.com/2026/10/22/esmo-moderna-merck-cancer-vaccine-intismeran-data-released/?utm_campaign=rss",
-        "summary": "A Moderna and Merck personalized mRNA cancer vaccine reduced the risk of disease recurrence in patients with melanoma by 42% compared to standard treatment.",
-        "image": "https://www.statnews.com/wp-content/uploads/2025/05/AdobeStock_525738206_Editorial_Use_Only-1024x576.jpeg"
+        "sourceUrl": "https://www.statnews.com/2026/10/25/mrna-cancer-vaccine-merck-moderna-esmo-intismeran-next-applications/?utm_campaign=rss",
+        "summary": "After 100 years, there's finally an effective cancer vaccine. Now comes the push to get them to work in more tumor types.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/10/IMG_5891-1024x576.jpg"
+      },
+      {
+        "title": "iFixit's look inside the iPhone Duo may explain those broken screens and hinges",
+        "source": "The Verge",
+        "category": "general",
+        "sourceUrl": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
+        "summary": "As is tradition, iFixit has torn open the latest iPhone and laid its parts bare on a table. It found some interesting details about how Apple might be hiding the crease on the Duo's folding screen and gave it a 5/10…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/iPhone-Duo-layout01.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200"
+      },
+      {
+        "title": "Mediterranean diet may boost tiny proteins that protect the heart and brain",
+        "source": "ScienceDaily",
+        "category": "neuroscience",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261023003337.htm",
+        "summary": "Scientists have uncovered a surprising new clue to why the Mediterranean diet is so good for the heart, brain, and healthy aging. Researchers at USC found that older adults who closely followed the diet had higher…",
+        "image": "https://www.sciencedaily.com/images/1920/grilled-salmon-vegetable-salad-close.webp"
+      },
+      {
+        "title": "How Advanced Shockwave Therapy Technology is Expanding the Possibilities of Non-Invasive Healthcare",
+        "source": "Robotics & Automation News",
+        "category": "robotics",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/25/how-advanced-shockwave-therapy-technology-expanding-possibilities-non-invasive-healthcare/106287/",
+        "summary": "Traditional musculoskeletal care generates over $300 billion in costs each year, and often forces patients to choose between invasive surgical interventions and endless cycles of symptom-masking medication. Advanced…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/softwave-trt-1.png"
+      },
+      {
+        "title": "Three giant black holes discovered in a galaxy from the dawn of time",
+        "source": "ScienceDaily",
+        "category": "space",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261024222000.htm",
+        "summary": "Astronomers have discovered three actively feeding black holes inside a single galaxy more than 12.5 billion light-years away, revealing a remarkable scene from the universe’s infancy. Two of the black holes are…",
+        "image": "https://www.sciencedaily.com/images/1920/galaxy-with-three-supermassive-black-holes.webp"
+      },
+      {
+        "title": "Precious Moments in the Back Room: Exhibitions of Quiet Pleasure in LA",
+        "source": "Artforum",
+        "category": "art",
+        "sourceUrl": "https://www.artforum.com/columns/precious-moments-in-the-back-room-1234762097/",
+        "summary": "Brazilian landscapes, beige still lifes, dollhouse cutouts, and whispy dreamscapes prove that subtlety can speak volumes.",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/10/Photo-Joshua_White-jwpictures.com-0X9A9429.jpg?w=650"
+      },
+      {
+        "title": "Opinion: Christina Applegate puts a face on one of the most consequential challenges in neurology",
+        "source": "STAT News",
+        "category": "biotech",
+        "sourceUrl": "https://www.statnews.com/2026/10/24/christina-applegate-multiple-sclerosis-why-ms-misdiagnosis-happens/?utm_campaign=rss",
+        "summary": "“The goal is not simply to diagnose MS faster. It is to get the diagnosis right,” writes Bruce Bebo.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/10/AP24016081587973-1024x576.jpg"
       }
     ],
-    "publishedAt": "2026-10-24T05:47:28.888Z"
+    "publishedAt": "2026-10-26T06:04:57.835Z"
   },
   "drafts": {},
   "history": [
+    {
+      "id": "ed_2026-10-26",
+      "publishDate": "2026-10-26",
+      "status": "published",
+      "updatedAt": "2026-10-26T06:04:57.835Z",
+      "title": "Frontiers of Precision: From Micro-Mechanisms to Cosmic Giants",
+      "dek": "Today’s breakthroughs weave actionable science with profound structural revelations.",
+      "authorName": "Dr. Wallace Lynch",
+      "authorTitle": "Editor in Chief",
+      "paragraphs": [
+        "Today’s discoveries spotlight a fundamental shift across disciplines: progress no longer relies solely on grand theories, but on mastering the physical and structural nuances that govern complex systems. Across medicine, industrial engineering, consumer tech, and astrophysics, understanding mechanics at every scale is unlocking crucial advancements.",
+        "In oncology, precision is transforming therapeutic paradigms. AstraZeneca’s showcase at ESMO highlights the momentum behind targeted antibody-drug conjugates, while researchers push to expand the reach of the first successful cancer vaccines beyond initial tumor types. Yet, as therapeutic tools sharpen, biological complexity continues to present steep hurdles. In glioblastoma, new neuroscience insights reveal how the dense microenvironment surrounding brain tumors forces cancer cells to adapt, turning them smaller, more flexible, and significantly more aggressive. On the diagnostic front, advocate-driven awareness around Multiple Sclerosis emphasizes that speed means little without precision—getting the diagnosis right remains the ultimate priority in neurology.",
+        "This focus on structural detail echoes throughout technology and consumer hardware. As the environmental footprint of data centers takes center stage ahead of US midterms, industrial robotics addresses overlooked efficiencies, like calculating the hidden operational costs of compressed-air blow-off. Consumer tech mirrors this scrutiny, with iFixit’s teardown of the new iPhone Duo exposing the delicate mechanical engineering and hinge trade-offs hidden beneath folding screens.",
+        "Even on a cosmic scale, structural mapping alters our view of the universe. From NASA’s visual simulations tracking dark matter’s cosmic web to the discovery of three giant black holes actively feeding inside a single galaxy 12.5 billion light-years away, early-universe dynamics challenge standard models of growth. Meanwhile, quieter human expressions in Los Angeles art galleries remind us that subtlety can speak as powerfully as giant breakthroughs. Across every domain, true mastery lies in navigating the fine details."
+      ],
+      "wordCount": 286,
+      "heroImage": "https://www.statnews.com/wp-content/uploads/2026/06/GettyImages-2237096018-1024x576.jpg",
+      "heroCredit": "STAT+: At ESMO, AstraZeneca’s cancer pursuits get a showcase",
+      "heroSource": "STAT News",
+      "heroSourceUrl": "https://www.statnews.com/2026/10/25/esmo-astrazeneca-adcs-lung-gastric-cancer/?utm_campaign=rss",
+      "publishedAt": "2026-10-26T06:04:57.835Z"
+    },
     {
       "id": "ed_2026-10-24",
       "publishDate": "2026-10-24",
@@ -1497,30 +1519,6 @@
       "heroSource": "STAT News",
       "heroSourceUrl": "https://www.statnews.com/2026/08/03/cyclospora-outbreak-two-fatalities-reported-michigan/?utm_campaign=rss",
       "publishedAt": "2026-08-04T01:02:12.624Z"
-    },
-    {
-      "id": "ed_2026-08-02",
-      "publishDate": "2026-08-02",
-      "status": "published",
-      "updatedAt": "2026-08-02T21:53:22.378Z",
-      "title": "What free time dilates, and what price still rations",
-      "dek": "Convergence of surplus perception and contested care",
-      "authorName": "Dr. Wallace Lynch",
-      "authorTitle": "Editor in Chief",
-      "paragraphs": [
-        "Unexpected free time expands in the mind. A new study finds that a surplus of minutes makes people slow their tasks and arrive late: the gift dilates, and the schedule loses its edge. Gemini 3.6 Flash and Gemini 3.5 Flash Lite arrive through the official API. Seedance 2.5 marks another checkpoint in video shaped by machines. Surplus multiplies. It does not settle who still pays.",
-        "On Saturday, August 2, 2026, we hold that reading to one pressure: what dilates when nothing seems to press, and what care still costs when price decides who holds the dose.",
-        "Insulin returns that pressure to the counter. Michigan's Supreme Court allows a probe into Lilly pricing after accusations that excessive charges forced patients to ration or forego the drug. The administration revises its 340B rebate pilot, angering hospitals over who keeps the savings. Access is a civic bar that can fail in public.",
-        "The body and the land test quieter claims. Dietary protein restriction improves metabolism and extends lifespan, challenging high protein fashion for sedentary adults. In New York, reporting takes on the myth that solar swallows farmland, asking whether rural ground can host arrays without losing its name.",
-        "Space holds the unexpected and the built. Dark matter may exert a hidden force that clusters particles yet makes them lighter. Space Force awards K2 Space $22.9 million for orbital laser communications. At Langley, NASA opens its first major new wind tunnel in more than forty years. Art returns the overlooked seam: Adelene Koh turns bookbinding into sculpture, making construction the subject.",
-        "When time dilates and tools open wider, convergence is not endless surplus. It is whether we keep honest prices for care and honest claims on ground when free minutes still make us late."
-      ],
-      "wordCount": 290,
-      "heroImage": "https://i0.wp.com/spacenews.com/wp-content/uploads/2023/09/Screenshot-2023-09-19-at-8.07.27-AM.png?fit=1024%2C635&ssl=1",
-      "heroCredit": "Space Force awards K2 Space $22.9 million for orbital laser communications demonstration",
-      "heroSource": "SpaceNews",
-      "heroSourceUrl": "https://spacenews.com/space-force-awards-k2-space-22-9-million-for-orbital-laser-communications-demonstration/",
-      "publishedAt": "2026-08-02T21:53:22.378Z"
     }
   ],
   "usedHeroImages": [
@@ -1781,6 +1779,7 @@
     "https://www.sciencedaily.com/images/1920/nasa-spacex-crs-35-launch-jellyfish.webp",
     "https://www.artforum.com/wp-content/uploads/2026/10/GettyImages-2253836426.jpg?w=650",
     "https://www.nasa.gov/wp-content/uploads/2026/10/ssc-20261021-s00947h.jpg",
-    "https://images-assets.nasa.gov/image/art002e012632/art002e012632~large.jpg"
+    "https://images-assets.nasa.gov/image/art002e012632/art002e012632~large.jpg",
+    "https://www.statnews.com/wp-content/uploads/2026/06/GettyImages-2237096018-1024x576.jpg"
   ]
 }
