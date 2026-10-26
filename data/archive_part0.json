@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-10-26T17-41",
-    "scannedAt": "2026-10-26T17:41:29.601Z",
+    "batchId": "auto_2026-10-26T23-24",
+    "scannedAt": "2026-10-26T23:24:21.430Z",
     "items": [
       {
-        "id": "auto_2026-10-26T17-41_1",
+        "id": "auto_2026-10-26T23-24_1",
         "rank": 1,
-        "title": "Bedrock Robotics raises $600 million to scale autonomous excavators across the US",
-        "category": "robotics",
-        "summary": "Bedrock Robotics has announced a $600 million Series C financing at a $4.1 billion post-money valuation, co-led by CapitalG and Emergence Capital. The round included new investors US Innovative Technology Fund (USIT),…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/Bedrock-Robotics-1.jpeg",
-        "source": "Robotics & Automation News",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/26/bedrock-robotics-raises-600-million-to-scale-autonomous-excavators-across-the-us/106337/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-26T17-41_2",
-        "rank": 2,
-        "title": "The RealReal won’t let AI agents hog designer clothing",
-        "category": "general",
-        "summary": "The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for AI agents to shop on its site. The change comes days after The Verge reported…",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "sourceUrl": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-26T17-41_3",
-        "rank": 3,
-        "title": "NASA Invites Media to Moon Landing Simulation Experience in California",
-        "category": "space",
-        "summary": "Members of the media are invited to tour a new lunar landing simulator at NASA’s Ames Research Center in California's Silicon Valley on Thursday, Oct. 29, and Friday, Oct. 30.",
-        "image": "https://www.nasa.gov/wp-content/uploads/2025/09/nasa-meatball-1.jpg",
-        "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/news-release/nasa-invites-media-to-moon-landing-simulation-experience-in-california/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-26T17-41_4",
-        "rank": 4,
-        "title": "STAT+: House lawmaker probes PBMs for ‘punitive' audits of independent pharmacies",
+        "title": "STAT+: Roche gets a lung cancer win with its KRAS drug divarasib",
         "category": "biotech",
-        "summary": "A House lawmaker is investigating whether the three largest PMS targeted independent pharmacies withretaliatory audits.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/01/GettyImages-2214163417-1024x576.jpg",
+        "summary": "One of the more impressive data sets at this year’s ESMO came from a Roche study of its drug divarasib, which treats lung cancer.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/10/AdobeStock_500569539_Editorial_Use_Only-1024x576.jpeg",
         "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/pharmalot/2026/10/26/lawmaker-probes-pbms-for-punitive-audits-independent-pharmacies/?utm_campaign=rss",
+        "sourceUrl": "https://www.statnews.com/2026/10/26/roche-kras-drug-divarasib-lung-cancer-treatment-win/?utm_campaign=rss",
         "fromX": false
       },
       {
-        "id": "auto_2026-10-26T17-41_5",
+        "id": "auto_2026-10-26T23-24_2",
+        "rank": 2,
+        "title": "Comau integrates Nvidia technology to accelerate development of AI-powered robots",
+        "category": "robotics",
+        "summary": "Comau is boosting the development of AI-enabled robotics and automation solutions for industrial applications with Nvidia technologies. By combining Comau’s deep experience in robotics with Nvidia physical AI simulation…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/comau-nvidia-1.jpeg",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/26/comau-integrates-nvidia-technology-to-accelerate-development-of-ai-powered-robots/106373/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-26T23-24_3",
+        "rank": 3,
+        "title": "Grok Says Its AI-Generated Version of ‘The Odyssey’ Is ‘Not Historically Accurate’",
+        "category": "general",
+        "summary": "Months after Elon Musk declared that the xAI model would outclass Christopher Nolan’s mythological epic, the bot itself admitted defeat.",
+        "image": "https://media.wired.com/photos/6adfd0bd71d0e77d5637708d/master/pass/MCDODYS_UV008.jpg",
+        "source": "WIRED",
+        "sourceUrl": "https://www.wired.com/story/grok-says-its-ai-generated-version-of-the-odyssey-is-not-historically-accurate/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-26T23-24_4",
+        "rank": 4,
+        "title": "“Guaranteed to Sell”: $80 Million Klimt Landscape Heads to Auction",
+        "category": "art",
+        "summary": "Gustav Klimt’s 1915–16 Litzlbergkeller is set to hit the auction block in New York next month with an estimate of $60 million to $80 million. Christie’s, which is peddling the lush green landscape for an unnamed client,…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/10/Klimt-Litzlbergkeller-Christies-1024x1020.jpg.webp?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/news/guaranteed-to-sell-80-million-klimt-landscape-to-auction-1234762173/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-26T23-24_5",
         "rank": 5,
-        "title": "Daily Exercise Weakens the Grip of Genetic Risk for Depression",
-        "category": "neuroscience",
-        "summary": "Can daily movement offset your DNA? A nationwide study of NIH All of Us data published in Nature Mental Health reveals that higher daily steps and moderate-to-vigorous exercise significantly reduce depression severity…",
-        "image": "https://neurosciencenews.com/files/2026/10/Exercise-Weakens-the-Genetic-Grip-of-Depression-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/daily-exercise-genetics-depression-32340/",
+        "title": "NASA’s Perseverance Offers Clues to Protect Crews From Mars Dust",
+        "category": "space",
+        "summary": "Over 1,645 Martian days, NASA’s Perseverance Mars rover measured the fine and ultrafine Martian dust particles found clinging to samples of spacesuit materials that are carried aboard the rover, including some that are…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26816-pano-resized-for-web-feature.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust/",
         "fromX": false
       }
     ]
