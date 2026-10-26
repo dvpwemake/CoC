@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-10-26T09-24",
-    "scannedAt": "2026-10-26T09:24:14.713Z",
+    "batchId": "auto_2026-10-26T17-41",
+    "scannedAt": "2026-10-26T17:41:29.601Z",
     "items": [
       {
-        "id": "auto_2026-10-26T09-24_1",
+        "id": "auto_2026-10-26T17-41_1",
         "rank": 1,
-        "title": "Valve Steam Frame Review: Costly and Inconsistent",
-        "category": "general",
-        "summary": "The Steam Frame’s promise of greatness for stand-alone and streaming VR gaming doesn’t quite connect.",
-        "image": "https://media.wired.com/photos/6adbc96a2eadfa02886c7f8c/master/pass/ValveArt.jpg",
-        "source": "WIRED",
-        "sourceUrl": "https://www.wired.com/review/valve-steam-frame/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-26T09-24_2",
-        "rank": 2,
-        "title": "The 4 stages of women’s heart health: Experts present new framework",
-        "category": "biotech",
-        "summary": "New guidance is intended to help girls and women — and their doctors — recognize four distinct phases in heart health.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/10/Screenshot-2026-10-23-at-2.29.51-PM-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/10/26/heart-health-women-four-life-stages-qa-sadiya-khan/?utm_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-26T09-24_3",
-        "rank": 3,
-        "title": "2,500-year-old solar observatory identified in Mexico",
-        "category": "art",
-        "summary": "Offerings and obsidian pieces uncovered at the site suggest ancient cultural connections spanning across the region",
-        "image": "https://cdn.sanity.io/images/cxgd3urn/production/b4ed10b524bb53de1cde537607ffea3c27a60bb7-1000x623.jpg?rect=1,0,999,569&w=140",
-        "source": "The Art Newspaper",
-        "sourceUrl": "https://www.theartnewspaper.com/2026/10/26/2500-year-old-solar-observatory-discovered-mexico",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-26T09-24_4",
-        "rank": 4,
-        "title": "This group-buy campaign makes it easier to switch to induction cooking",
-        "category": "energy",
-        "summary": "Word is getting out about electric induction ranges. More and more chefs say the appliances cook just as well as or better than their gas counterparts. The stoves don’t burn climate-warming fossil fuels or release…",
-        "image": "https://img.canarymedia.com/content/uploads/Electra-Showroom-iPhone.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=49b37a7f9a8ac2d23fb8d129853ad749",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/electrification/group-buy-induction-cooking",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-26T09-24_5",
-        "rank": 5,
-        "title": "Schaeffler opens lighthouse factory in Taicang where ‘humanoids will make humanoids’",
+        "title": "Bedrock Robotics raises $600 million to scale autonomous excavators across the US",
         "category": "robotics",
-        "summary": "Motion technology company Schaeffler has opened a state-of-the-art lighthouse factory for humanoid robotics in Taicang, China. It houses an intelligent assembly line, a training and data acquisition center, a platform…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/schaeffler-taicang-factory-3.jpg",
+        "summary": "Bedrock Robotics has announced a $600 million Series C financing at a $4.1 billion post-money valuation, co-led by CapitalG and Emergence Capital. The round included new investors US Innovative Technology Fund (USIT),…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/Bedrock-Robotics-1.jpeg",
         "source": "Robotics & Automation News",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/26/schaeffler-opens-lighthouse-factory-in-taicang-where-humanoids-will-make-humanoids/106303/",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/26/bedrock-robotics-raises-600-million-to-scale-autonomous-excavators-across-the-us/106337/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-26T17-41_2",
+        "rank": 2,
+        "title": "The RealReal won’t let AI agents hog designer clothing",
+        "category": "general",
+        "summary": "The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for AI agents to shop on its site. The change comes days after The Verge reported…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "sourceUrl": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-26T17-41_3",
+        "rank": 3,
+        "title": "NASA Invites Media to Moon Landing Simulation Experience in California",
+        "category": "space",
+        "summary": "Members of the media are invited to tour a new lunar landing simulator at NASA’s Ames Research Center in California's Silicon Valley on Thursday, Oct. 29, and Friday, Oct. 30.",
+        "image": "https://www.nasa.gov/wp-content/uploads/2025/09/nasa-meatball-1.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/news-release/nasa-invites-media-to-moon-landing-simulation-experience-in-california/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-26T17-41_4",
+        "rank": 4,
+        "title": "STAT+: House lawmaker probes PBMs for ‘punitive' audits of independent pharmacies",
+        "category": "biotech",
+        "summary": "A House lawmaker is investigating whether the three largest PMS targeted independent pharmacies withretaliatory audits.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/01/GettyImages-2214163417-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/pharmalot/2026/10/26/lawmaker-probes-pbms-for-punitive-audits-independent-pharmacies/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-26T17-41_5",
+        "rank": 5,
+        "title": "Daily Exercise Weakens the Grip of Genetic Risk for Depression",
+        "category": "neuroscience",
+        "summary": "Can daily movement offset your DNA? A nationwide study of NIH All of Us data published in Nature Mental Health reveals that higher daily steps and moderate-to-vigorous exercise significantly reduce depression severity…",
+        "image": "https://neurosciencenews.com/files/2026/10/Exercise-Weakens-the-Genetic-Grip-of-Depression-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/daily-exercise-genetics-depression-32340/",
         "fromX": false
       }
     ]
