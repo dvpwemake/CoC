@@ -1,65 +1,106 @@
 {
   "published": {
-    "id": "ed_2026-10-26",
-    "publishDate": "2026-10-26",
+    "id": "ed_2026-10-27",
+    "publishDate": "2026-10-27",
     "status": "published",
-    "updatedAt": "2026-10-26T06:04:57.835Z",
-    "title": "Frontiers of Precision: From Micro-Mechanisms to Cosmic Giants",
-    "dek": "Today’s breakthroughs weave actionable science with profound structural revelations.",
+    "updatedAt": "2026-10-27T17:36:41.394Z",
+    "title": "he Fragile Frontier",
+    "dek": "Rapid innovation meets real-world friction across art, tech, and medicine.",
     "authorName": "Dr. Wallace Lynch",
     "authorTitle": "Editor in Chief",
-    "body": "Today’s discoveries spotlight a fundamental shift across disciplines: progress no longer relies solely on grand theories, but on mastering the physical and structural nuances that govern complex systems. Across medicine, industrial engineering, consumer tech, and astrophysics, understanding mechanics at every scale is unlocking crucial advancements.\n\nIn oncology, precision is transforming therapeutic paradigms. AstraZeneca’s showcase at ESMO highlights the momentum behind targeted antibody-drug conjugates, while researchers push to expand the reach of the first successful cancer vaccines beyond initial tumor types. Yet, as therapeutic tools sharpen, biological complexity continues to present steep hurdles. In glioblastoma, new neuroscience insights reveal how the dense microenvironment surrounding brain tumors forces cancer cells to adapt, turning them smaller, more flexible, and significantly more aggressive. On the diagnostic front, advocate-driven awareness around Multiple Sclerosis emphasizes that speed means little without precision—getting the diagnosis right remains the ultimate priority in neurology.\n\nThis focus on structural detail echoes throughout technology and consumer hardware. As the environmental footprint of data centers takes center stage ahead of US midterms, industrial robotics addresses overlooked efficiencies, like calculating the hidden operational costs of compressed-air blow-off. Consumer tech mirrors this scrutiny, with iFixit’s teardown of the new iPhone Duo exposing the delicate mechanical engineering and hinge trade-offs hidden beneath folding screens.\n\nEven on a cosmic scale, structural mapping alters our view of the universe. From NASA’s visual simulations tracking dark matter’s cosmic web to the discovery of three giant black holes actively feeding inside a single galaxy 12.5 billion light-years away, early-universe dynamics challenge standard models of growth. Meanwhile, quieter human expressions in Los Angeles art galleries remind us that subtlety can speak as powerfully as giant breakthroughs. Across every domain, true mastery lies in navigating the fine details.",
+    "body": "Today’s headlines underscore a persistent truth: pushing boundaries inevitably forces a reckoning with practical realities. Across technology, medicine, and culture, progress is rarely a smooth line—it is a series of bold bets tested against friction, regulation, and human limits.\n\nIn healthcare, that friction is finally giving way to systemic shifts. The FDA’s move to streamline approval pathways for personalized gene therapies marks a crucial turn for rare disease treatments, while Roche’s lung cancer win with divarasib and ongoing breakthroughs in mRNA cancer vaccines demonstrate how targeted medicine is moving from speculative science to clinical reality.\n\nYet technological ambition frequently collides with structural vulnerabilities. High-profile setbacks—from Meta’s staggering legal losses over user safety to iFixit’s teardown revealing the mechanical fragilities of the new foldable iPhone Duo—serve as stark reminders that raw execution matters as much as innovation. Even in space, where Craft Prospect advances laser communications and NASA’s Perseverance analyzes toxic Martian dust to safeguard future crews, long-term success hinges on solving unglamorous, ground-level engineering challenges.\n\nWhere hardware struggles, infrastructure seeks smarter workarounds. Ford’s push to lower the cost of bidirectional EV home-power backup shows how consumer adoption relies on removing economic hurdles. Meanwhile, industrial automation steps forward as Comau partners with Nvidia to accelerate AI-driven robotics through physical simulation, bridging the gap between digital models and factory floors.\n\nCulture reflects these same tensions between prestige, market guarantees, and artificial limits. As Art Basel Qatar expands its footprint for 2027 and an $80 million Klimt landscape heads to auction backed by financial guarantees, Grok’s admission that its AI-generated Odyssey failed to match human epic storytelling highlights the boundaries of machine generation. True transformation demands rigorous execution—whether on the gallery floor, inside a cell, or out in deep space.",
     "paragraphs": [
-      "Today’s discoveries spotlight a fundamental shift across disciplines: progress no longer relies solely on grand theories, but on mastering the physical and structural nuances that govern complex systems. Across medicine, industrial engineering, consumer tech, and astrophysics, understanding mechanics at every scale is unlocking crucial advancements.",
-      "In oncology, precision is transforming therapeutic paradigms. AstraZeneca’s showcase at ESMO highlights the momentum behind targeted antibody-drug conjugates, while researchers push to expand the reach of the first successful cancer vaccines beyond initial tumor types. Yet, as therapeutic tools sharpen, biological complexity continues to present steep hurdles. In glioblastoma, new neuroscience insights reveal how the dense microenvironment surrounding brain tumors forces cancer cells to adapt, turning them smaller, more flexible, and significantly more aggressive. On the diagnostic front, advocate-driven awareness around Multiple Sclerosis emphasizes that speed means little without precision—getting the diagnosis right remains the ultimate priority in neurology.",
-      "This focus on structural detail echoes throughout technology and consumer hardware. As the environmental footprint of data centers takes center stage ahead of US midterms, industrial robotics addresses overlooked efficiencies, like calculating the hidden operational costs of compressed-air blow-off. Consumer tech mirrors this scrutiny, with iFixit’s teardown of the new iPhone Duo exposing the delicate mechanical engineering and hinge trade-offs hidden beneath folding screens.",
-      "Even on a cosmic scale, structural mapping alters our view of the universe. From NASA’s visual simulations tracking dark matter’s cosmic web to the discovery of three giant black holes actively feeding inside a single galaxy 12.5 billion light-years away, early-universe dynamics challenge standard models of growth. Meanwhile, quieter human expressions in Los Angeles art galleries remind us that subtlety can speak as powerfully as giant breakthroughs. Across every domain, true mastery lies in navigating the fine details."
+      "Today’s headlines underscore a persistent truth: pushing boundaries inevitably forces a reckoning with practical realities. Across technology, medicine, and culture, progress is rarely a smooth line—it is a series of bold bets tested against friction, regulation, and human limits.",
+      "In healthcare, that friction is finally giving way to systemic shifts. The FDA’s move to streamline approval pathways for personalized gene therapies marks a crucial turn for rare disease treatments, while Roche’s lung cancer win with divarasib and ongoing breakthroughs in mRNA cancer vaccines demonstrate how targeted medicine is moving from speculative science to clinical reality.",
+      "Yet technological ambition frequently collides with structural vulnerabilities. High-profile setbacks—from Meta’s staggering legal losses over user safety to iFixit’s teardown revealing the mechanical fragilities of the new foldable iPhone Duo—serve as stark reminders that raw execution matters as much as innovation. Even in space, where Craft Prospect advances laser communications and NASA’s Perseverance analyzes toxic Martian dust to safeguard future crews, long-term success hinges on solving unglamorous, ground-level engineering challenges.",
+      "Where hardware struggles, infrastructure seeks smarter workarounds. Ford’s push to lower the cost of bidirectional EV home-power backup shows how consumer adoption relies on removing economic hurdles. Meanwhile, industrial automation steps forward as Comau partners with Nvidia to accelerate AI-driven robotics through physical simulation, bridging the gap between digital models and factory floors.",
+      "Culture reflects these same tensions between prestige, market guarantees, and artificial limits. As Art Basel Qatar expands its footprint for 2027 and an $80 million Klimt landscape heads to auction backed by financial guarantees, Grok’s admission that its AI-generated Odyssey failed to match human epic storytelling highlights the boundaries of machine generation. True transformation demands rigorous execution—whether on the gallery floor, inside a cell, or out in deep space."
     ],
-    "wordCount": 286,
-    "heroImage": "https://www.statnews.com/wp-content/uploads/2026/06/GettyImages-2237096018-1024x576.jpg",
-    "heroCredit": "STAT+: At ESMO, AstraZeneca’s cancer pursuits get a showcase",
-    "heroSource": "STAT News",
-    "heroSourceUrl": "https://www.statnews.com/2026/10/25/esmo-astrazeneca-adcs-lung-gastric-cancer/?utm_campaign=rss",
+    "wordCount": 287,
+    "heroImage": "https://media.wired.com/photos/6adfd0bd71d0e77d5637708d/master/pass/MCDODYS_UV008.jpg",
+    "heroCredit": "Grok Says Its AI-Generated Version of ‘The Odyssey’ Is ‘Not Historically Accurate’",
+    "heroSource": "WIRED",
+    "heroSourceUrl": "https://www.wired.com/story/grok-says-its-ai-generated-version-of-the-odyssey-is-not-historically-accurate/",
     "headlines": [
       {
-        "title": "STAT+: At ESMO, AstraZeneca’s cancer pursuits get a showcase",
+        "title": "Art Basel Qatar Names Participants for 2027 Edition",
+        "source": "Artforum",
+        "category": "art",
+        "sourceUrl": "https://www.artforum.com/news/art-basel-qatar-names-participants-for-2027-1234762203/",
+        "summary": "The organizers of Art Basel Qatar have named the eighty-two galleries exhibiting in its sophomore edition taking place in Msheireb Downtown, Doha, January 28–30, with preview days on January 26–27. The number of…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/10/ABQ26__MC__PR__General_Impressions__023_Large_HiRes-1.jpeg.webp?w=650"
+      },
+      {
+        "title": "STAT+: FDA offers new details on quicker approval pathway for personalized gene therapies",
         "source": "STAT News",
         "category": "biotech",
-        "sourceUrl": "https://www.statnews.com/2026/10/25/esmo-astrazeneca-adcs-lung-gastric-cancer/?utm_campaign=rss",
-        "summary": "AstraZeneca has seen major momentum in oncology in recent years. It got a big showcase at Europe's top cancer conference.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/06/GettyImages-2237096018-1024x576.jpg"
+        "sourceUrl": "https://www.statnews.com/2026/10/27/fda-personalized-gene-therapy-guidance-individualized-feature-space/?utm_campaign=rss",
+        "summary": "Rare disease advocates applauded the FDA's move to speed access to treatments.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/10/AdobeStock_521699096_Editorial_Use_Only-1024x576.jpeg"
       },
       {
-        "title": "Data centre debate heats up ahead of US midterms - here's what you need to know",
-        "source": "BBC Technology",
+        "title": "Ford’s new EV pickup will come with more affordable home-power backup",
+        "source": "Canary Media",
+        "category": "energy",
+        "sourceUrl": "https://www.canarymedia.com/articles/electric-vehicles/ford-fathom-ev-pickup-home-power-backup",
+        "summary": "Electric vehicles can serve as home backup batteries. But so far, most EVs have needed expensive bidirectional chargers to do that — a tough sell for customers. Ford aims to remove this cost obstacle with its…",
+        "image": "https://img.canarymedia.com/content/uploads/Ford-Home-Power-Station-Ford-Home-Backup-Panel-garage-artist-rendering.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=45200ab024e79772f5399a4a704a13a3"
+      },
+      {
+        "title": "Meta’s $25 billion legal loss just put blood in the water",
+        "source": "The Verge",
         "category": "general",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
-        "summary": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68b2/live/52453c80-cc82-11f1-bc2e-018d645d8d21.png"
+        "sourceUrl": "https://www.theverge.com/policy/1019604/new-mexico-meta-cambridge-analytica-kids-safety-settlement",
+        "summary": "When attorneys general from across the US announced a $17 billion settlement with Meta this summer, the sum was unprecedented. But a ruling last week by a New Mexico judge blew that number out of the water. The judge…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_4_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
       },
       {
-        "title": "Glioblastoma breakthrough reveals how brain cancer cells become more aggressive",
-        "source": "ScienceDaily",
-        "category": "neuroscience",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261022081300.htm",
-        "summary": "Scientists discovered that the thick, sticky fluid surrounding glioblastoma tumors can make brain cancer cells smaller, more flexible, and better at invading surrounding tissue. Even more troubling, some of these…",
-        "image": "https://www.sciencedaily.com/images/1920/open-micro-valley-chip-for-viscosity-driven-glioblastoma-invasion-study.webp"
+        "title": "Craft Prospect kicks off PERSEUS project to advance optical communications for space",
+        "source": "SpaceNews",
+        "category": "space",
+        "sourceUrl": "https://spacenews.com/craft-prospect-kicks-off-perseus-project-to-advance-optical-communications-for-space/",
+        "summary": "Craft Prospect is working with Fraunhofer Centre for Applied Photonics (Fraunhofer CAP) and Vector Photonics on a new project exploring the potential of next-generation laser technology for high-performance optical…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/Logos.png?fit=1024%2C1024&ssl=1"
       },
       {
-        "title": "Putting a Dollar Figure on Compressed Air Blow-Off",
+        "title": "“Guaranteed to Sell”: $80 Million Klimt Landscape Heads to Auction",
+        "source": "Artforum",
+        "category": "art",
+        "sourceUrl": "https://www.artforum.com/news/guaranteed-to-sell-80-million-klimt-landscape-to-auction-1234762173/",
+        "summary": "Gustav Klimt’s 1915–16 Litzlbergkeller is set to hit the auction block in New York next month with an estimate of $60 million to $80 million. Christie’s, which is peddling the lush green landscape for an unnamed client,…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/10/Klimt-Litzlbergkeller-Christies-1024x1020.jpg.webp?w=650"
+      },
+      {
+        "title": "STAT+: Roche gets a lung cancer win with its KRAS drug divarasib",
+        "source": "STAT News",
+        "category": "biotech",
+        "sourceUrl": "https://www.statnews.com/2026/10/26/roche-kras-drug-divarasib-lung-cancer-treatment-win/?utm_campaign=rss",
+        "summary": "One of the more impressive data sets at this year’s ESMO came from a Roche study of its drug divarasib, which treats lung cancer.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/10/AdobeStock_500569539_Editorial_Use_Only-1024x576.jpeg"
+      },
+      {
+        "title": "Grok Says Its AI-Generated Version of ‘The Odyssey’ Is ‘Not Historically Accurate’",
+        "source": "WIRED",
+        "category": "general",
+        "sourceUrl": "https://www.wired.com/story/grok-says-its-ai-generated-version-of-the-odyssey-is-not-historically-accurate/",
+        "summary": "Months after Elon Musk declared that the xAI model would outclass Christopher Nolan’s mythological epic, the bot itself admitted defeat.",
+        "image": "https://media.wired.com/photos/6adfd0bd71d0e77d5637708d/master/pass/MCDODYS_UV008.jpg"
+      },
+      {
+        "title": "Comau integrates Nvidia technology to accelerate development of AI-powered robots",
         "source": "Robotics & Automation News",
         "category": "robotics",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/24/putting-a-dollar-figure-on-compressed-air-blow-off/106283/",
-        "summary": "Blow-off is the compressed air use nobody has to think about. A valve opens, the part comes clean, the line moves on. The electricity bill lands in a different department, with no note about which nozzle caused it.…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/sonic-air-systems-2.jpg"
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/26/comau-integrates-nvidia-technology-to-accelerate-development-of-ai-powered-robots/106373/",
+        "summary": "Comau is boosting the development of AI-enabled robotics and automation solutions for industrial applications with Nvidia technologies. By combining Comau’s deep experience in robotics with Nvidia physical AI simulation…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/comau-nvidia-1.jpeg"
       },
       {
-        "title": "APOD: 2026 October 25 – Dark Matter in a Simulated Universe",
+        "title": "NASA’s Perseverance Offers Clues to Protect Crews From Mars Dust",
         "source": "NASA",
         "category": "space",
-        "sourceUrl": "https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe/",
-        "summary": "APOD Science APOD APOD: 2026 October 25 – Dark… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or…",
-        "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2021/october/DarkMatter_KipacAmnh_1200.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg"
+        "sourceUrl": "https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust/",
+        "summary": "Over 1,645 Martian days, NASA’s Perseverance Mars rover measured the fine and ultrafine Martian dust particles found clinging to samples of spacesuit materials that are carried aboard the rover, including some that are…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26816-pano-resized-for-web-feature.jpg"
       },
       {
         "title": "STAT+: After a cancer vaccine’s first success, the race is on to expand the impact",
@@ -76,52 +117,35 @@
         "sourceUrl": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
         "summary": "As is tradition, iFixit has torn open the latest iPhone and laid its parts bare on a table. It found some interesting details about how Apple might be hiding the crease on the Duo's folding screen and gave it a 5/10…",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/iPhone-Duo-layout01.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200"
-      },
-      {
-        "title": "Mediterranean diet may boost tiny proteins that protect the heart and brain",
-        "source": "ScienceDaily",
-        "category": "neuroscience",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261023003337.htm",
-        "summary": "Scientists have uncovered a surprising new clue to why the Mediterranean diet is so good for the heart, brain, and healthy aging. Researchers at USC found that older adults who closely followed the diet had higher…",
-        "image": "https://www.sciencedaily.com/images/1920/grilled-salmon-vegetable-salad-close.webp"
-      },
-      {
-        "title": "How Advanced Shockwave Therapy Technology is Expanding the Possibilities of Non-Invasive Healthcare",
-        "source": "Robotics & Automation News",
-        "category": "robotics",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/25/how-advanced-shockwave-therapy-technology-expanding-possibilities-non-invasive-healthcare/106287/",
-        "summary": "Traditional musculoskeletal care generates over $300 billion in costs each year, and often forces patients to choose between invasive surgical interventions and endless cycles of symptom-masking medication. Advanced…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/softwave-trt-1.png"
-      },
-      {
-        "title": "Three giant black holes discovered in a galaxy from the dawn of time",
-        "source": "ScienceDaily",
-        "category": "space",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261024222000.htm",
-        "summary": "Astronomers have discovered three actively feeding black holes inside a single galaxy more than 12.5 billion light-years away, revealing a remarkable scene from the universe’s infancy. Two of the black holes are…",
-        "image": "https://www.sciencedaily.com/images/1920/galaxy-with-three-supermassive-black-holes.webp"
-      },
-      {
-        "title": "Precious Moments in the Back Room: Exhibitions of Quiet Pleasure in LA",
-        "source": "Artforum",
-        "category": "art",
-        "sourceUrl": "https://www.artforum.com/columns/precious-moments-in-the-back-room-1234762097/",
-        "summary": "Brazilian landscapes, beige still lifes, dollhouse cutouts, and whispy dreamscapes prove that subtlety can speak volumes.",
-        "image": "https://www.artforum.com/wp-content/uploads/2026/10/Photo-Joshua_White-jwpictures.com-0X9A9429.jpg?w=650"
-      },
-      {
-        "title": "Opinion: Christina Applegate puts a face on one of the most consequential challenges in neurology",
-        "source": "STAT News",
-        "category": "biotech",
-        "sourceUrl": "https://www.statnews.com/2026/10/24/christina-applegate-multiple-sclerosis-why-ms-misdiagnosis-happens/?utm_campaign=rss",
-        "summary": "“The goal is not simply to diagnose MS faster. It is to get the diagnosis right,” writes Bruce Bebo.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/10/AP24016081587973-1024x576.jpg"
       }
     ],
-    "publishedAt": "2026-10-26T06:04:57.835Z"
+    "publishedAt": "2026-10-27T17:36:41.394Z"
   },
   "drafts": {},
   "history": [
+    {
+      "id": "ed_2026-10-27",
+      "publishDate": "2026-10-27",
+      "status": "published",
+      "updatedAt": "2026-10-27T17:36:41.394Z",
+      "title": "he Fragile Frontier",
+      "dek": "Rapid innovation meets real-world friction across art, tech, and medicine.",
+      "authorName": "Dr. Wallace Lynch",
+      "authorTitle": "Editor in Chief",
+      "paragraphs": [
+        "Today’s headlines underscore a persistent truth: pushing boundaries inevitably forces a reckoning with practical realities. Across technology, medicine, and culture, progress is rarely a smooth line—it is a series of bold bets tested against friction, regulation, and human limits.",
+        "In healthcare, that friction is finally giving way to systemic shifts. The FDA’s move to streamline approval pathways for personalized gene therapies marks a crucial turn for rare disease treatments, while Roche’s lung cancer win with divarasib and ongoing breakthroughs in mRNA cancer vaccines demonstrate how targeted medicine is moving from speculative science to clinical reality.",
+        "Yet technological ambition frequently collides with structural vulnerabilities. High-profile setbacks—from Meta’s staggering legal losses over user safety to iFixit’s teardown revealing the mechanical fragilities of the new foldable iPhone Duo—serve as stark reminders that raw execution matters as much as innovation. Even in space, where Craft Prospect advances laser communications and NASA’s Perseverance analyzes toxic Martian dust to safeguard future crews, long-term success hinges on solving unglamorous, ground-level engineering challenges.",
+        "Where hardware struggles, infrastructure seeks smarter workarounds. Ford’s push to lower the cost of bidirectional EV home-power backup shows how consumer adoption relies on removing economic hurdles. Meanwhile, industrial automation steps forward as Comau partners with Nvidia to accelerate AI-driven robotics through physical simulation, bridging the gap between digital models and factory floors.",
+        "Culture reflects these same tensions between prestige, market guarantees, and artificial limits. As Art Basel Qatar expands its footprint for 2027 and an $80 million Klimt landscape heads to auction backed by financial guarantees, Grok’s admission that its AI-generated Odyssey failed to match human epic storytelling highlights the boundaries of machine generation. True transformation demands rigorous execution—whether on the gallery floor, inside a cell, or out in deep space."
+      ],
+      "wordCount": 287,
+      "heroImage": "https://media.wired.com/photos/6adfd0bd71d0e77d5637708d/master/pass/MCDODYS_UV008.jpg",
+      "heroCredit": "Grok Says Its AI-Generated Version of ‘The Odyssey’ Is ‘Not Historically Accurate’",
+      "heroSource": "WIRED",
+      "heroSourceUrl": "https://www.wired.com/story/grok-says-its-ai-generated-version-of-the-odyssey-is-not-historically-accurate/",
+      "publishedAt": "2026-10-27T17:36:41.394Z"
+    },
     {
       "id": "ed_2026-10-26",
       "publishDate": "2026-10-26",
@@ -1494,31 +1518,6 @@
       "heroSource": "Canary Media",
       "heroSourceUrl": "https://www.canarymedia.com/articles/climatetech-finance/court-rules-against-trump-epas-freeze-of-20b-in-green-bank-funds",
       "publishedAt": "2026-08-05T03:26:34.131Z"
-    },
-    {
-      "id": "ed_2026-08-03",
-      "publishDate": "2026-08-03",
-      "status": "published",
-      "updatedAt": "2026-08-04T01:02:12.624Z",
-      "title": "What we fence around machines, and what the body still pays",
-      "dek": "Convergence of protected systems and exposed lives",
-      "authorName": "Dr. Wallace Lynch",
-      "authorTitle": "Editor in Chief",
-      "paragraphs": [
-        "Humanoid robots still stumble in public, and policy is arriving before grace does. Reporting from MIT Technology Review tracks how protectionist AI rules are extending into robotics, fencing machines the way earlier fights fenced models and chips. Seedance 2.5 marks another checkpoint in video shaped by machines. Access multiplies inside tools. Borders harden around hardware.",
-        "On Monday, August 3, 2026, we hold that reading to one pressure: what we fence when machines enter civic space, and what the body still pays when markets and microbes do not wait for tidy rules.",
-        "Michigan returns that cost without metaphor. State health officials report the first two confirmed U.S. deaths in a cyclospora outbreak. The state Supreme Court allows a probe into Lilly insulin pricing after accusations that excessive charges forced patients to ration or forego the drug. The administration revises its 340B rebate pilot, angering hospitals over who keeps the savings. Care is a civic bar that can fail in public.",
-        "Motivation and time map quieter thresholds. Orexin neurons scale with effort and prove necessary for sustained goal directed motivation. Unexpected free time expands in the mind, making people slow their tasks and arrive late.",
-        "Space keeps both collapse and surprise. Hughes files for bankruptcy as geostationary broadband loses ground to Starlink. Dark matter may exert a hidden force that clusters particles yet makes them lighter.",
-        "Art returns joy and the overlooked seam. Ella and Pitr fill rooftops and fields with monumental murals. Adelene Koh turns bookbinding into sculpture, making construction the subject.",
-        "When policy fences the machine and markets rewrite the sky, convergence is not sealed borders. It is whether we keep honest prices for care and honest rooms for joy when the body cannot wait for the fence to finish."
-      ],
-      "wordCount": 290,
-      "heroImage": "https://www.statnews.com/wp-content/uploads/2026/07/AP26189642009611-e1784894199578-1024x576.jpg",
-      "heroCredit": "Michigan reports first two U.S. deaths in outbreak of cyclospora",
-      "heroSource": "STAT News",
-      "heroSourceUrl": "https://www.statnews.com/2026/08/03/cyclospora-outbreak-two-fatalities-reported-michigan/?utm_campaign=rss",
-      "publishedAt": "2026-08-04T01:02:12.624Z"
     }
   ],
   "usedHeroImages": [
@@ -1780,6 +1779,7 @@
     "https://www.artforum.com/wp-content/uploads/2026/10/GettyImages-2253836426.jpg?w=650",
     "https://www.nasa.gov/wp-content/uploads/2026/10/ssc-20261021-s00947h.jpg",
     "https://images-assets.nasa.gov/image/art002e012632/art002e012632~large.jpg",
-    "https://www.statnews.com/wp-content/uploads/2026/06/GettyImages-2237096018-1024x576.jpg"
+    "https://www.statnews.com/wp-content/uploads/2026/06/GettyImages-2237096018-1024x576.jpg",
+    "https://media.wired.com/photos/6adfd0bd71d0e77d5637708d/master/pass/MCDODYS_UV008.jpg"
   ]
 }
