@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-10-27T02-31",
+    "scannedAt": "2026-10-27T02:31:17.412Z",
+    "items": [
+      {
+        "id": "auto_2026-10-27T02-31_1",
+        "rank": 1,
+        "title": "Apple says it will replace iPhone Duo handsets with screen problems",
+        "category": "general",
+        "summary": "Photos shared online showed faults appearing on the screens of Apple's first foldable device.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/896f/live/1944e2f0-d1a5-11f1-a611-7ff246f4f9f3.jpg",
+        "source": "BBC Technology",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-27T02-31_2",
+        "rank": 2,
+        "title": "Edeka adds Knapp robots to automate meat picking at German distribution center",
+        "category": "robotics",
+        "summary": "German supermarket group Edeka is expanding the automated logistics solution at its meat-processing facility with two Pick-it-Easy robots from Knapp. The AI-powered robots improve the efficiency, flexibility and…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/KNAPP-Edeka-pick-it-easy-robot.jpg",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/26/edeka-adds-knapp-robots-to-automate-meat-picking-at-german-distribution-center/106368/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-27T02-31_3",
+        "rank": 3,
+        "title": "NASA’s Perseverance Views Dust at Neretva Vallis",
+        "category": "space",
+        "summary": "Description This 360-degree look at Neretva Vallis within Mars’ Jezero Crater was stitched together using 217 images acquired by the rover’s Mastcam-Z on May 20, 2024, the 1,155th Martian day, or sol, of the mission.…",
+        "image": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26816/PIA26816_low_res.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "source": "NASA",
+        "sourceUrl": "https://science.nasa.gov/photojournal/nasas-perseverance-views-dust-at-neretva-vallis/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-27T02-31_4",
+        "rank": 4,
+        "title": "STAT+: Nonprofit Bon Secours Mercy Health strikes $5.7 billion deal for surgery center chain",
+        "category": "biotech",
+        "summary": "The deal would make the Catholic system one of the largest operators of outpatient surgery centers.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/10/AdobeStock_927878701_Editorial_Use_Only-1024x576.jpeg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/10/26/bon-secours-mercy-health-surgery-partners-deal-ambulatory-surgery-centers-bain-capital/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-27T02-31_5",
+        "rank": 5,
+        "title": "Brain Stimulation Stops Sexual Objectification",
+        "category": "neuroscience",
+        "summary": "Sexualized images of women are often processed visually like objects rather than people. A new study shows that 10 minutes of non-invasive brain stimulation restores holistic human recognition, temporarily erasing this…",
+        "image": "https://neurosciencenews.com/files/2026/10/brain-stimulation-objectification-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/brain-stimulation-objectification-32344/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-10-26T23-24",
     "scannedAt": "2026-10-26T23:24:21.430Z",
     "items": [
@@ -2571,26 +2632,6 @@
         "source": "IEEE Spectrum",
         "sourceUrl": "https://spectrum.ieee.org/sustainability-robotics-barbara-mazzolai",
         "fromX": false
-      }
-    ]
-  },
-  {
-    "batchId": "editorial_2026-09-21",
-    "scannedAt": "2026-09-22T02:45:49.309Z",
-    "kind": "editorial_archive",
-    "items": [
-      {
-        "id": "editorial_2026-09-21",
-        "rank": 0,
-        "title": "When the Wire Snaps",
-        "category": "editorial",
-        "summary": "On Fragility and Repair",
-        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/09/bicentennial-5.jpeg",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-09-21.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-09-21",
-        "authorName": "Dr. Wallace Lynch"
       }
     ]
   }
