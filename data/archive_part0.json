@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-10-28T17-27",
-    "scannedAt": "2026-10-28T17:27:44.096Z",
+    "batchId": "auto_2026-10-28T23-40",
+    "scannedAt": "2026-10-28T23:40:19.113Z",
     "items": [
       {
-        "id": "auto_2026-10-28T17-27_1",
+        "id": "auto_2026-10-28T23-40_1",
         "rank": 1,
-        "title": "Apple Unveils Its First Touch-Screen MacBook Pro",
+        "title": "Details of thousands of US immigration agents leaked in major hack",
         "category": "general",
-        "summary": "Steve Jobs and Tim Cook both dismissed the idea, but Apple’s new chief executive is reimagining some of the company’s most important products.",
-        "image": "https://static01.nyt.com/images/2026/10/28/multimedia/APPLE-1-lcgk/APPLE-1-lcgk-mediumSquareAt3X.jpg",
-        "source": "NYT Technology",
-        "sourceUrl": "https://www.nytimes.com/2026/10/28/technology/apple-touch-screen-macbook-pro.html",
+        "summary": "A group called the Department of Peace released information on more than 41,000 DHS staff.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c03/live/2996f1b0-d318-11f1-ba7d-b5eab6da6837.jpg",
+        "source": "BBC Technology",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
         "fromX": false
       },
       {
-        "id": "auto_2026-10-28T17-27_2",
+        "id": "auto_2026-10-28T23-40_2",
         "rank": 2,
-        "title": "Breathing \"Thin Air\" May Protect Against Parkinson's",
-        "category": "neuroscience",
-        "summary": "Can breathing thin mountain air help Parkinson's patients? Researchers demonstrated that 39 minutes of controlled intermittent hypoxia safely lowers stress hormones, raises anti-inflammatory adiponectin, and protects…",
-        "image": "https://neurosciencenews.com/files/2026/10/hypoxia-parkinsons-inflammation-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/hypoxia-parkinsons-neurology-32353/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-28T17-27_3",
-        "rank": 3,
-        "title": "Late Artist Teruko Yokoi’s Blooming Abstractions Are Capturing New Attention",
+        "title": "Challenges mounting to US laws enacted to aid recovery of Nazi-looted art",
         "category": "art",
-        "summary": "Untitled, 2000 Teruko Yokoi Hollis Taggart Luminous fields of color and loose brushstrokes fill the abstract compositions of Teruko Yokoi . In Untitled (2000), green clouds sit against an ethereal purple background,…",
-        "image": "https://artsy-media-uploads.s3.amazonaws.com/uBpoQZcDvBxqLR-aTou65Q%2FMAG_Courtesy+of+the+Estate+of+Teruko+Yokoi.+Image+1+of+Teruko+in+her+studio+at+Hotel+Chelsea+in+1959.+Image+credit+Charles+Gimpel_1500x1000.jpg",
-        "source": "Artsy",
-        "sourceUrl": "https://www.artsy.net/article/artsy-editorial-late-artist-teruko-yokois-blooming-abstractions-capturing-new-attention",
+        "summary": "The Thyssen-Bornemisza Collection Foundation in Madrid and the Norton Simon Museum in California are pushing back against recent statutes related to Holocaust-era expropriation claims",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/ddd3dc947ee309ae4fd673bf471b91e6cf0a11d8-2000x1800.jpg?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/10/28/thyssen-bornemisza-collection-norton-simon-museum-nazi-loot-lawsuits-us-laws",
         "fromX": false
       },
       {
-        "id": "auto_2026-10-28T17-27_4",
-        "rank": 4,
-        "title": "STAT+: HHS moves to allow compounding of some unapproved peptides",
-        "category": "biotech",
-        "summary": "Kennedy and his MAHA movement have embraced peptides, though there's little evidence for many of the wellness compounds.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/10/AdobeStock_305447415-1024x576.jpeg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/10/28/hhs-enforcement-discretion-policy-allows-peptide-compounding/?utm_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-28T17-27_5",
-        "rank": 5,
-        "title": "NASA Selects 19 New Citizen Science Proposals in 2026",
+        "id": "auto_2026-10-28T23-40_3",
+        "rank": 3,
+        "title": "NASA Welcomes Vietnam as Newest Artemis Accords Signatory",
         "category": "space",
-        "summary": "So far, 2026 has seen a flood of successes for volunteers who do NASA science, exemplifying NASA’s commitment to gold-standard science—transparent, reproducible and intrinsically collaborative. The Backyard Worlds:…",
-        "image": "https://assets.science.nasa.gov/content/dam/science/cds/citizen-science/highlights/2026/NASA_citizen_science_projects_2026.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "summary": "The Socialist Republic of Vietnam became the 78th nation to sign the Artemis Accords, joining a growing coalition of like-minded nations committed to the peaceful, transparent, and responsible exploration of space.…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/10/artemis-accords-vietnam-78-102826.jpg",
         "source": "NASA",
-        "sourceUrl": "https://science.nasa.gov/get-involved/citizen-science/nasa-selects-19-new-citizen-science-proposals-in-2026/",
+        "sourceUrl": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-vietnam-as-newest-artemis-accords-signatory/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-28T23-40_4",
+        "rank": 4,
+        "title": "STAT+: Lawmaker wants government watchdog to probe TrumpRx over claims about drug savings",
+        "category": "biotech",
+        "summary": "A House lawmaker asked the Government Accountability Office to review whether the TrumpRx platform has saved Americans any money.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/03/GettyImages-2259515105-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/pharmalot/2026/10/28/lawmaker-wants-gao-probe-trumprx-drug-pricing/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-28T23-40_5",
+        "rank": 5,
+        "title": "Why Some People Love Hugs While Others Hate Them",
+        "category": "neuroscience",
+        "summary": "Why do some hugs stay with us while others fade away? A survey of more than 15,000 UK adults published in PLOS One shows that 70% remember hugs for comfort, with empathy, relationship attachment styles, and body…",
+        "image": "https://neurosciencenews.com/files/2026/10/hug-emotion-empathy-social-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/hugs-emotion-empathy-psychology-32356/",
         "fromX": false
       }
     ]
@@ -118,6 +118,26 @@
         "source": "STAT News",
         "sourceUrl": "https://www.statnews.com/pharmalot/2026/10/27/missouri-ag-warns-lilly-340b-drug-pricing-data/?utm_campaign=rss",
         "fromX": false
+      }
+    ]
+  },
+  {
+    "batchId": "editorial_2026-10-27",
+    "scannedAt": "2026-10-27T17:36:41.394Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-10-27",
+        "rank": 0,
+        "title": "The Fragile Frontier",
+        "category": "editorial",
+        "summary": "Rapid innovation meets real-world friction across art, tech, and medicine.",
+        "image": "https://media.wired.com/photos/6adfd0bd71d0e77d5637708d/master/pass/MCDODYS_UV008.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-10-27.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-10-27",
+        "authorName": "Dr. Wallace Lynch"
       }
     ]
   },
@@ -2632,26 +2652,6 @@
         "source": "Neuroscience News",
         "sourceUrl": "https://neurosciencenews.com/midbrain-social-neuroscience-escape-31245/",
         "fromX": false
-      }
-    ]
-  },
-  {
-    "batchId": "editorial_2026-09-23",
-    "scannedAt": "2026-09-23T17:31:32.214Z",
-    "kind": "editorial_archive",
-    "items": [
-      {
-        "id": "editorial_2026-09-23",
-        "rank": 0,
-        "title": "Anchoring the Machine",
-        "category": "editorial",
-        "summary": "Our systems are getting better at hiding underlying chaos—until the illusion breaks",
-        "image": "https://www.statnews.com/wp-content/uploads/2015/11/ThePentagon_GettyImages-1024x576.jpg",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-09-23.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-09-23",
-        "authorName": "Dr. Wallace Lynch"
       }
     ]
   }
