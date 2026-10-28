@@ -1,5 +1,25 @@
 [
   {
+    "batchId": "editorial_2026-10-27",
+    "scannedAt": "2026-10-27T17:36:41.394Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-10-27",
+        "rank": 0,
+        "title": "The Fragile Frontier",
+        "category": "editorial",
+        "summary": "Rapid innovation meets real-world friction across art, tech, and medicine.",
+        "image": "https://media.wired.com/photos/6adfd0bd71d0e77d5637708d/master/pass/MCDODYS_UV008.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-10-27.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-10-27",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-10-28T17-27",
     "scannedAt": "2026-10-28T17:27:44.096Z",
     "items": [
