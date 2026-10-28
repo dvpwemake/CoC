@@ -1,66 +1,106 @@
 {
   "published": {
-    "id": "ed_2026-10-27",
-    "publishDate": "2026-10-27",
+    "id": "ed_2026-10-28",
+    "publishDate": "2026-10-28",
     "status": "published",
-    "updatedAt": "2026-10-27T17:36:41.394Z",
-    "title": "The Fragile Frontier",
-    "dek": "Rapid innovation meets real-world friction across art, tech, and medicine.",
+    "updatedAt": "2026-10-28T22:36:51.234Z",
+    "title": "Breaking Boundaries and Bridging Frontiers",
+    "dek": "Technology and science pivot toward bold new horizons.",
     "authorName": "Dr. Wallace Lynch",
     "authorTitle": "Editor in Chief",
-    "body": "Today’s headlines underscore a persistent truth: pushing boundaries inevitably forces a reckoning with practical realities. Across technology, medicine, and culture, progress is rarely a smooth line—it is a series of bold bets tested against friction, regulation, and human limits.\n\nIn healthcare, that friction is finally giving way to systemic shifts. The FDA’s move to streamline approval pathways for personalized gene therapies marks a crucial turn for rare disease treatments, while Roche’s lung cancer win with divarasib and ongoing breakthroughs in mRNA cancer vaccines demonstrate how targeted medicine is moving from speculative science to clinical reality.\n\nYet technological ambition frequently collides with structural vulnerabilities. High-profile setbacks—from Meta’s staggering legal losses over user safety to iFixit’s teardown revealing the mechanical fragilities of the new foldable iPhone Duo—serve as stark reminders that raw execution matters as much as innovation. Even in space, where Craft Prospect advances laser communications and NASA’s Perseverance analyzes toxic Martian dust to safeguard future crews, long-term success hinges on solving unglamorous, ground-level engineering challenges.\n\nWhere hardware struggles, infrastructure seeks smarter workarounds. Ford’s push to lower the cost of bidirectional EV home-power backup shows how consumer adoption relies on removing economic hurdles. Meanwhile, industrial automation steps forward as Comau partners with Nvidia to accelerate AI-driven robotics through physical simulation, bridging the gap between digital models and factory floors.\n\nCulture reflects these same tensions between prestige, market guarantees, and artificial limits. As Art Basel Qatar expands its footprint for 2027 and an $80 million Klimt landscape heads to auction backed by financial guarantees, Grok’s admission that its AI-generated Odyssey failed to match human epic storytelling highlights the boundaries of machine generation. True transformation demands rigorous execution—whether on the gallery floor, inside a cell, or out in deep space.",
+    "body": "Apple is making headlines with a seismic shift in design philosophy, finally unveiling a touch-screen MacBook Pro—a concept previously dismissed by the company's iconic founders. But pushing the envelope carries undeniable risks. Early adopters of the newly launched iPhone Duo are already reporting cracked inner screens around the hinge, a stark reminder that cutting-edge hardware still wrestles with physical limitations.\n\nAbove the atmosphere, the sky is no longer a boundary but a collaborative playground. NASA recently selected 19 new citizen science proposals, democratizing discovery and reinforcing its commitment to transparent, reproducible research. Meanwhile, in low-Earth orbit, a Ukrainian startup partnered with GomSpace to launch an experimental satellite, laying the crucial groundwork for a resilient, independent communications network.\n\nCloser to home, medical and biological breakthroughs are opening novel frontiers. Researchers are probing the mind's deepest mechanics, recently securing a $4.5 million grant to study \"retrosplenial switch cells\" to better understand the sudden mood transitions in bipolar disorder. In an unexpected twist, controlled exposure to \"thin mountain air\" is showing promise in protecting Parkinson’s patients by safely modulating stress hormones. The biotech sector remains equally dynamic: Roche secured a notable clinical victory for lung cancer treatment with its KRAS drug divarasib. Simultaneously, industry friction persists, highlighted by the Missouri Attorney General challenging Eli Lilly over 340B drug discount data requirements and the HHS relaxing enforcement on compounding some unapproved wellness peptides.\n\nIn the art world, harmony and high stakes currently share the stage. A looming strike at the V&A was successfully averted following an improved offer, preserving cultural peace. Simultaneously, the market braces for a windfall as a coveted Gustav Klimt landscape heads to auction with an $80 million estimate, while the luminous, long-overlooked abstract works of late artist Teruko Yokoi finally capture the widespread attention they have always deserved.\n\nWould you like me to expand on the geopolitical implications of the new satellite networks, or focus more on the recent medical breakthroughs?",
     "paragraphs": [
-      "Today’s headlines underscore a persistent truth: pushing boundaries inevitably forces a reckoning with practical realities. Across technology, medicine, and culture, progress is rarely a smooth line—it is a series of bold bets tested against friction, regulation, and human limits.",
-      "In healthcare, that friction is finally giving way to systemic shifts. The FDA’s move to streamline approval pathways for personalized gene therapies marks a crucial turn for rare disease treatments, while Roche’s lung cancer win with divarasib and ongoing breakthroughs in mRNA cancer vaccines demonstrate how targeted medicine is moving from speculative science to clinical reality.",
-      "Yet technological ambition frequently collides with structural vulnerabilities. High-profile setbacks—from Meta’s staggering legal losses over user safety to iFixit’s teardown revealing the mechanical fragilities of the new foldable iPhone Duo—serve as stark reminders that raw execution matters as much as innovation. Even in space, where Craft Prospect advances laser communications and NASA’s Perseverance analyzes toxic Martian dust to safeguard future crews, long-term success hinges on solving unglamorous, ground-level engineering challenges.",
-      "Where hardware struggles, infrastructure seeks smarter workarounds. Ford’s push to lower the cost of bidirectional EV home-power backup shows how consumer adoption relies on removing economic hurdles. Meanwhile, industrial automation steps forward as Comau partners with Nvidia to accelerate AI-driven robotics through physical simulation, bridging the gap between digital models and factory floors.",
-      "Culture reflects these same tensions between prestige, market guarantees, and artificial limits. As Art Basel Qatar expands its footprint for 2027 and an $80 million Klimt landscape heads to auction backed by financial guarantees, Grok’s admission that its AI-generated Odyssey failed to match human epic storytelling highlights the boundaries of machine generation. True transformation demands rigorous execution—whether on the gallery floor, inside a cell, or out in deep space."
+      "Apple is making headlines with a seismic shift in design philosophy, finally unveiling a touch-screen MacBook Pro—a concept previously dismissed by the company's iconic founders. But pushing the envelope carries undeniable risks. Early adopters of the newly launched iPhone Duo are already reporting cracked inner screens around the hinge, a stark reminder that cutting-edge hardware still wrestles with physical limitations.",
+      "Above the atmosphere, the sky is no longer a boundary but a collaborative playground. NASA recently selected 19 new citizen science proposals, democratizing discovery and reinforcing its commitment to transparent, reproducible research. Meanwhile, in low-Earth orbit, a Ukrainian startup partnered with GomSpace to launch an experimental satellite, laying the crucial groundwork for a resilient, independent communications network.",
+      "Closer to home, medical and biological breakthroughs are opening novel frontiers. Researchers are probing the mind's deepest mechanics, recently securing a $4.5 million grant to study \"retrosplenial switch cells\" to better understand the sudden mood transitions in bipolar disorder. In an unexpected twist, controlled exposure to \"thin mountain air\" is showing promise in protecting Parkinson’s patients by safely modulating stress hormones. The biotech sector remains equally dynamic: Roche secured a notable clinical victory for lung cancer treatment with its KRAS drug divarasib. Simultaneously, industry friction persists, highlighted by the Missouri Attorney General challenging Eli Lilly over 340B drug discount data requirements and the HHS relaxing enforcement on compounding some unapproved wellness peptides.",
+      "In the art world, harmony and high stakes currently share the stage. A looming strike at the V&A was successfully averted following an improved offer, preserving cultural peace. Simultaneously, the market braces for a windfall as a coveted Gustav Klimt landscape heads to auction with an $80 million estimate, while the luminous, long-overlooked abstract works of late artist Teruko Yokoi finally capture the widespread attention they have always deserved.",
+      "Would you like me to expand on the geopolitical implications of the new satellite networks, or focus more on the recent medical breakthroughs?"
     ],
-    "wordCount": 287,
-    "heroImage": "https://media.wired.com/photos/6adfd0bd71d0e77d5637708d/master/pass/MCDODYS_UV008.jpg",
-    "heroCredit": "Grok Says Its AI-Generated Version of ‘The Odyssey’ Is ‘Not Historically Accurate’",
-    "heroSource": "WIRED",
-    "heroSourceUrl": "https://www.wired.com/story/grok-says-its-ai-generated-version-of-the-odyssey-is-not-historically-accurate/",
+    "wordCount": 321,
+    "heroImage": "https://artsy-media-uploads.s3.amazonaws.com/uBpoQZcDvBxqLR-aTou65Q%2FMAG_Courtesy+of+the+Estate+of+Teruko+Yokoi.+Image+1+of+Teruko+in+her+studio+at+Hotel+Chelsea+in+1959.+Image+credit+Charles+Gimpel_1500x1000.jpg",
+    "heroCredit": "Late Artist Teruko Yokoi’s Blooming Abstractions Are Capturing New Attention",
+    "heroSource": "Artsy",
+    "heroSourceUrl": "https://www.artsy.net/article/artsy-editorial-late-artist-teruko-yokois-blooming-abstractions-capturing-new-attention",
     "headlines": [
       {
-        "title": "Art Basel Qatar Names Participants for 2027 Edition",
-        "source": "Artforum",
+        "title": "Late Artist Teruko Yokoi’s Blooming Abstractions Are Capturing New Attention",
+        "source": "Artsy",
         "category": "art",
-        "sourceUrl": "https://www.artforum.com/news/art-basel-qatar-names-participants-for-2027-1234762203/",
-        "summary": "The organizers of Art Basel Qatar have named the eighty-two galleries exhibiting in its sophomore edition taking place in Msheireb Downtown, Doha, January 28–30, with preview days on January 26–27. The number of…",
-        "image": "https://www.artforum.com/wp-content/uploads/2026/10/ABQ26__MC__PR__General_Impressions__023_Large_HiRes-1.jpeg.webp?w=650"
+        "sourceUrl": "https://www.artsy.net/article/artsy-editorial-late-artist-teruko-yokois-blooming-abstractions-capturing-new-attention",
+        "summary": "Untitled, 2000 Teruko Yokoi Hollis Taggart Luminous fields of color and loose brushstrokes fill the abstract compositions of Teruko Yokoi . In Untitled (2000), green clouds sit against an ethereal purple background,…",
+        "image": "https://artsy-media-uploads.s3.amazonaws.com/uBpoQZcDvBxqLR-aTou65Q%2FMAG_Courtesy+of+the+Estate+of+Teruko+Yokoi.+Image+1+of+Teruko+in+her+studio+at+Hotel+Chelsea+in+1959.+Image+credit+Charles+Gimpel_1500x1000.jpg"
       },
       {
-        "title": "STAT+: FDA offers new details on quicker approval pathway for personalized gene therapies",
+        "title": "STAT+: HHS moves to allow compounding of some unapproved peptides",
         "source": "STAT News",
         "category": "biotech",
-        "sourceUrl": "https://www.statnews.com/2026/10/27/fda-personalized-gene-therapy-guidance-individualized-feature-space/?utm_campaign=rss",
-        "summary": "Rare disease advocates applauded the FDA's move to speed access to treatments.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/10/AdobeStock_521699096_Editorial_Use_Only-1024x576.jpeg"
+        "sourceUrl": "https://www.statnews.com/2026/10/28/hhs-enforcement-discretion-policy-allows-peptide-compounding/?utm_campaign=rss",
+        "summary": "Kennedy and his MAHA movement have embraced peptides, though there's little evidence for many of the wellness compounds.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/10/AdobeStock_305447415-1024x576.jpeg"
       },
       {
-        "title": "Ford’s new EV pickup will come with more affordable home-power backup",
-        "source": "Canary Media",
-        "category": "energy",
-        "sourceUrl": "https://www.canarymedia.com/articles/electric-vehicles/ford-fathom-ev-pickup-home-power-backup",
-        "summary": "Electric vehicles can serve as home backup batteries. But so far, most EVs have needed expensive bidirectional chargers to do that — a tough sell for customers. Ford aims to remove this cost obstacle with its…",
-        "image": "https://img.canarymedia.com/content/uploads/Ford-Home-Power-Station-Ford-Home-Backup-Panel-garage-artist-rendering.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=45200ab024e79772f5399a4a704a13a3"
+        "title": "Apple Unveils Its First Touch-Screen MacBook Pro",
+        "source": "NYT Technology",
+        "category": "general",
+        "sourceUrl": "https://www.nytimes.com/2026/10/28/technology/apple-touch-screen-macbook-pro.html",
+        "summary": "Steve Jobs and Tim Cook both dismissed the idea, but Apple’s new chief executive is reimagining some of the company’s most important products.",
+        "image": "https://static01.nyt.com/images/2026/10/28/multimedia/APPLE-1-lcgk/APPLE-1-lcgk-mediumSquareAt3X.jpg"
       },
       {
-        "title": "Meta’s $25 billion legal loss just put blood in the water",
+        "title": "Breathing \"Thin Air\" May Protect Against Parkinson's",
+        "source": "Neuroscience News",
+        "category": "neuroscience",
+        "sourceUrl": "https://neurosciencenews.com/hypoxia-parkinsons-neurology-32353/",
+        "summary": "Can breathing thin mountain air help Parkinson's patients? Researchers demonstrated that 39 minutes of controlled intermittent hypoxia safely lowers stress hormones, raises anti-inflammatory adiponectin, and protects…",
+        "image": "https://neurosciencenews.com/files/2026/10/hypoxia-parkinsons-inflammation-neuroscience-1155x770.jpg"
+      },
+      {
+        "title": "NASA Selects 19 New Citizen Science Proposals in 2026",
+        "source": "NASA",
+        "category": "space",
+        "sourceUrl": "https://science.nasa.gov/get-involved/citizen-science/nasa-selects-19-new-citizen-science-proposals-in-2026/",
+        "summary": "So far, 2026 has seen a flood of successes for volunteers who do NASA science, exemplifying NASA’s commitment to gold-standard science—transparent, reproducible and intrinsically collaborative. The Backyard Worlds:…",
+        "image": "https://assets.science.nasa.gov/content/dam/science/cds/citizen-science/highlights/2026/NASA_citizen_science_projects_2026.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg"
+      },
+      {
+        "title": "V&A Workers Call Off Strike",
+        "source": "Artforum",
+        "category": "art",
+        "sourceUrl": "https://www.artforum.com/news/v-and-a-workers-call-off-strike-1234762305/",
+        "summary": "A planned strike across all four Victoria and Albert Museum (V&A) sites has been suspended after unionized staff received an improved offer from management. Staffers who are members of the Prospect and Public and…",
+        "image": "https://www.artforum.com/wp-content/uploads/2025/11/DESIGN-2025-1.jpg?w=650"
+      },
+      {
+        "title": "STAT+: Missouri AG warns Lilly to stop requiring data from hospitals seeking 340B drug discounts",
+        "source": "STAT News",
+        "category": "biotech",
+        "sourceUrl": "https://www.statnews.com/pharmalot/2026/10/27/missouri-ag-warns-lilly-340b-drug-pricing-data/?utm_campaign=rss",
+        "summary": "Missouri AG told Lilly to stop forcing hospitals to provide claims data to receive discounted medicines under 340B, a sign more states are pushing back against drugmakers.",
+        "image": "https://www.statnews.com/wp-content/uploads/2025/08/GettyImages-2092473213-1024x576.jpg"
+      },
+      {
+        "title": "Here’s why the iPhone Duo’s hinge could be cracking the screen",
         "source": "The Verge",
         "category": "general",
-        "sourceUrl": "https://www.theverge.com/policy/1019604/new-mexico-meta-cambridge-analytica-kids-safety-settlement",
-        "summary": "When attorneys general from across the US announced a $17 billion settlement with Meta this summer, the sum was unprecedented. But a ruling last week by a New Mexico judge blew that number out of the water. The judge…",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_4_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        "sourceUrl": "https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge",
+        "summary": "Within hours of the iPhone Duo launch last Friday, people reported that the inner screen on some brand new foldable phones was already broken. The issue was similar across many photos shared on social media: some kind…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/iPhone-Duo_208.jpg?quality=90&strip=all&crop=0%2C3.5651957117926%2C100%2C92.869608576415&w=1200"
       },
       {
-        "title": "Craft Prospect kicks off PERSEUS project to advance optical communications for space",
+        "title": "Finding the Brain's Mood Switch in Bipolar Disorder",
+        "source": "Neuroscience News",
+        "category": "neuroscience",
+        "sourceUrl": "https://neurosciencenews.com/mood-switch-bipolar-neuroscience-32349/",
+        "summary": "What causes the sudden transition between depression and mania in bipolar disorder? Researchers at USC, Stanford, and Johns Hopkins received a $4.5M BD² grant to study \"retrosplenial switch cells\"—a unique neuronal…",
+        "image": "https://neurosciencenews.com/files/2026/10/bipolar-mood-switch-neuroscience-1155x770.jpg"
+      },
+      {
+        "title": "Ukrainian startup, GomSpace test satellite for future communications network",
         "source": "SpaceNews",
         "category": "space",
-        "sourceUrl": "https://spacenews.com/craft-prospect-kicks-off-perseus-project-to-advance-optical-communications-for-space/",
-        "summary": "Craft Prospect is working with Fraunhofer Centre for Applied Photonics (Fraunhofer CAP) and Vector Photonics on a new project exploring the potential of next-generation laser technology for high-performance optical…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/Logos.png?fit=1024%2C1024&ssl=1"
+        "sourceUrl": "https://spacenews.com/ukrainian-startup-gomspace-test-satellite-for-future-communications-network/",
+        "summary": "The companies said the experimental spacecraft, launched Oct. 1, could lead to a Ukrainian-controlled satellite network The post Ukrainian startup, GomSpace test satellite for future communications network appeared…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/Screenshot-2026-10-27-at-3.41.11-PM.png?fit=1024%2C588&ssl=1"
       },
       {
         "title": "“Guaranteed to Sell”: $80 Million Klimt Landscape Heads to Auction",
@@ -77,52 +117,35 @@
         "sourceUrl": "https://www.statnews.com/2026/10/26/roche-kras-drug-divarasib-lung-cancer-treatment-win/?utm_campaign=rss",
         "summary": "One of the more impressive data sets at this year’s ESMO came from a Roche study of its drug divarasib, which treats lung cancer.",
         "image": "https://www.statnews.com/wp-content/uploads/2026/10/AdobeStock_500569539_Editorial_Use_Only-1024x576.jpeg"
-      },
-      {
-        "title": "Grok Says Its AI-Generated Version of ‘The Odyssey’ Is ‘Not Historically Accurate’",
-        "source": "WIRED",
-        "category": "general",
-        "sourceUrl": "https://www.wired.com/story/grok-says-its-ai-generated-version-of-the-odyssey-is-not-historically-accurate/",
-        "summary": "Months after Elon Musk declared that the xAI model would outclass Christopher Nolan’s mythological epic, the bot itself admitted defeat.",
-        "image": "https://media.wired.com/photos/6adfd0bd71d0e77d5637708d/master/pass/MCDODYS_UV008.jpg"
-      },
-      {
-        "title": "Comau integrates Nvidia technology to accelerate development of AI-powered robots",
-        "source": "Robotics & Automation News",
-        "category": "robotics",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/26/comau-integrates-nvidia-technology-to-accelerate-development-of-ai-powered-robots/106373/",
-        "summary": "Comau is boosting the development of AI-enabled robotics and automation solutions for industrial applications with Nvidia technologies. By combining Comau’s deep experience in robotics with Nvidia physical AI simulation…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/comau-nvidia-1.jpeg"
-      },
-      {
-        "title": "NASA’s Perseverance Offers Clues to Protect Crews From Mars Dust",
-        "source": "NASA",
-        "category": "space",
-        "sourceUrl": "https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust/",
-        "summary": "Over 1,645 Martian days, NASA’s Perseverance Mars rover measured the fine and ultrafine Martian dust particles found clinging to samples of spacesuit materials that are carried aboard the rover, including some that are…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26816-pano-resized-for-web-feature.jpg"
-      },
-      {
-        "title": "STAT+: After a cancer vaccine’s first success, the race is on to expand the impact",
-        "source": "STAT News",
-        "category": "biotech",
-        "sourceUrl": "https://www.statnews.com/2026/10/25/mrna-cancer-vaccine-merck-moderna-esmo-intismeran-next-applications/?utm_campaign=rss",
-        "summary": "After 100 years, there's finally an effective cancer vaccine. Now comes the push to get them to work in more tumor types.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/10/IMG_5891-1024x576.jpg"
-      },
-      {
-        "title": "iFixit's look inside the iPhone Duo may explain those broken screens and hinges",
-        "source": "The Verge",
-        "category": "general",
-        "sourceUrl": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
-        "summary": "As is tradition, iFixit has torn open the latest iPhone and laid its parts bare on a table. It found some interesting details about how Apple might be hiding the crease on the Duo's folding screen and gave it a 5/10…",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/iPhone-Duo-layout01.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200"
       }
     ],
-    "publishedAt": "2026-10-27T17:36:41.394Z"
+    "publishedAt": "2026-10-28T22:36:51.234Z"
   },
   "drafts": {},
   "history": [
+    {
+      "id": "ed_2026-10-28",
+      "publishDate": "2026-10-28",
+      "status": "published",
+      "updatedAt": "2026-10-28T22:36:51.234Z",
+      "title": "Breaking Boundaries and Bridging Frontiers",
+      "dek": "Technology and science pivot toward bold new horizons.",
+      "authorName": "Dr. Wallace Lynch",
+      "authorTitle": "Editor in Chief",
+      "paragraphs": [
+        "Apple is making headlines with a seismic shift in design philosophy, finally unveiling a touch-screen MacBook Pro—a concept previously dismissed by the company's iconic founders. But pushing the envelope carries undeniable risks. Early adopters of the newly launched iPhone Duo are already reporting cracked inner screens around the hinge, a stark reminder that cutting-edge hardware still wrestles with physical limitations.",
+        "Above the atmosphere, the sky is no longer a boundary but a collaborative playground. NASA recently selected 19 new citizen science proposals, democratizing discovery and reinforcing its commitment to transparent, reproducible research. Meanwhile, in low-Earth orbit, a Ukrainian startup partnered with GomSpace to launch an experimental satellite, laying the crucial groundwork for a resilient, independent communications network.",
+        "Closer to home, medical and biological breakthroughs are opening novel frontiers. Researchers are probing the mind's deepest mechanics, recently securing a $4.5 million grant to study \"retrosplenial switch cells\" to better understand the sudden mood transitions in bipolar disorder. In an unexpected twist, controlled exposure to \"thin mountain air\" is showing promise in protecting Parkinson’s patients by safely modulating stress hormones. The biotech sector remains equally dynamic: Roche secured a notable clinical victory for lung cancer treatment with its KRAS drug divarasib. Simultaneously, industry friction persists, highlighted by the Missouri Attorney General challenging Eli Lilly over 340B drug discount data requirements and the HHS relaxing enforcement on compounding some unapproved wellness peptides.",
+        "In the art world, harmony and high stakes currently share the stage. A looming strike at the V&A was successfully averted following an improved offer, preserving cultural peace. Simultaneously, the market braces for a windfall as a coveted Gustav Klimt landscape heads to auction with an $80 million estimate, while the luminous, long-overlooked abstract works of late artist Teruko Yokoi finally capture the widespread attention they have always deserved.",
+        "Would you like me to expand on the geopolitical implications of the new satellite networks, or focus more on the recent medical breakthroughs?"
+      ],
+      "wordCount": 321,
+      "heroImage": "https://artsy-media-uploads.s3.amazonaws.com/uBpoQZcDvBxqLR-aTou65Q%2FMAG_Courtesy+of+the+Estate+of+Teruko+Yokoi.+Image+1+of+Teruko+in+her+studio+at+Hotel+Chelsea+in+1959.+Image+credit+Charles+Gimpel_1500x1000.jpg",
+      "heroCredit": "Late Artist Teruko Yokoi’s Blooming Abstractions Are Capturing New Attention",
+      "heroSource": "Artsy",
+      "heroSourceUrl": "https://www.artsy.net/article/artsy-editorial-late-artist-teruko-yokois-blooming-abstractions-capturing-new-attention",
+      "publishedAt": "2026-10-28T22:36:51.234Z"
+    },
     {
       "id": "ed_2026-10-27",
       "publishDate": "2026-10-27",
@@ -1494,30 +1517,6 @@
       "heroSource": "NYT Technology",
       "heroSourceUrl": "https://www.nytimes.com/2026/08/06/world/europe/french-streamers-kick-death-convicted.html",
       "publishedAt": "2026-08-07T01:32:35.460Z"
-    },
-    {
-      "id": "ed_2026-08-04",
-      "publishDate": "2026-08-04",
-      "status": "published",
-      "updatedAt": "2026-08-05T03:26:34.131Z",
-      "title": "What authenticity claims, and what the standard still bars",
-      "dek": "Convergence of measured distance and contested scale",
-      "authorName": "Dr. Wallace Lynch",
-      "authorTitle": "Editor in Chief",
-      "paragraphs": [
-        "Authenticity, for a Riga collector, is the only word that counts. Vita Liberte refuses the chase after names. En Iwamura studies the spaces we leave between ourselves and others. Ella and Pitr pour eccentric joy across rooftops and fields. Art measures distance by hand, not by brand.",
-        "On Tuesday, August 4, 2026, we hold that reading to one pressure: what authenticity claims in a room, and what the standard still bars when scale decides who may try.",
-        "Biotech keeps that bar in public view. A startup promising custom CRISPR therapies for cases like Baby KJ scraps its plans. The FDA may speak of flexibility, yet the standards remain hard for a small shop to clear. In eastern Congo, Ebola has killed more than 1,700 people in the fastest growing outbreak of the disease. Care that cannot scale still meets bodies that cannot wait.",
-        "Neuroscience moves with quieter proof. IBC-Ab002, an anti-PD-L1 antibody aimed at systemic immune aging, shows safety and lowers markers of neuronal damage in Alzheimer's patients. Separate PET work links late onset psychosis to tau and amyloid buildup in nearly two thirds of cases, tying midlife hallucinations to neurodegeneration rather than pure psychiatry.",
-        "Elsewhere, capital and machines test the same gates. A federal appeals court rules the EPA improperly froze about $20 billion in green bank financing. SpaceX plans Starship orbital flights that will carry upgraded Starlink satellites as soon as month's end. NOAA extends a $3 million buy of Spire hyperspectral microwave sounder data. Autonomous robots cruise under Antarctic ice and bolt to collapsing Greenland ice while polar science remakes its field craft. In Washington, AI protectionism reaches robotics, treating humanoid bodies as industrial policy, not only engineering.",
-        "When art asks for authenticity and ice sends robots into the gap, convergence is not a parade of firsts. It is whether standards still leave room for the small, the urgent, and the spaces we claim to measure."
-      ],
-      "wordCount": 319,
-      "heroImage": "https://img.canarymedia.com/content/uploads/GettyImages-2212809333-2-copy.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=1a7aa3b2de4b12098fc955c3ceadca64",
-      "heroCredit": "Court rules against Trump EPA’s freeze of $20B in ‘green bank’ funds",
-      "heroSource": "Canary Media",
-      "heroSourceUrl": "https://www.canarymedia.com/articles/climatetech-finance/court-rules-against-trump-epas-freeze-of-20b-in-green-bank-funds",
-      "publishedAt": "2026-08-05T03:26:34.131Z"
     }
   ],
   "usedHeroImages": [
@@ -1780,6 +1779,7 @@
     "https://www.nasa.gov/wp-content/uploads/2026/10/ssc-20261021-s00947h.jpg",
     "https://images-assets.nasa.gov/image/art002e012632/art002e012632~large.jpg",
     "https://www.statnews.com/wp-content/uploads/2026/06/GettyImages-2237096018-1024x576.jpg",
-    "https://media.wired.com/photos/6adfd0bd71d0e77d5637708d/master/pass/MCDODYS_UV008.jpg"
+    "https://media.wired.com/photos/6adfd0bd71d0e77d5637708d/master/pass/MCDODYS_UV008.jpg",
+    "https://artsy-media-uploads.s3.amazonaws.com/uBpoQZcDvBxqLR-aTou65Q%2FMAG_Courtesy+of+the+Estate+of+Teruko+Yokoi.+Image+1+of+Teruko+in+her+studio+at+Hotel+Chelsea+in+1959.+Image+credit+Charles+Gimpel_1500x1000.jpg"
   ]
 }
