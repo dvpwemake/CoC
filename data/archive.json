@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-10-29T02-58",
+    "scannedAt": "2026-10-29T02:58:55.018Z",
+    "items": [
+      {
+        "id": "auto_2026-10-29T02-58_1",
+        "rank": 1,
+        "title": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
+        "category": "general",
+        "summary": "On Tuesday, defense contractor Anduril and chipmaker Qualcomm announced a partnership to build laptops entirely in the United States, starting with a single model in 2027. They also announced a \"long-term goal\" of…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/2026-BlueChip-InField-5-Web.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
+        "source": "The Verge",
+        "sourceUrl": "https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-29T02-58_2",
+        "rank": 2,
+        "title": "Getting ‘woo-woo’ in the desert: Los Angeles artist launches pirate radio station",
+        "category": "art",
+        "summary": "Ian James’s KHLZ, an overnight broadcast out of a caravan near Joshua Tree, celebrates all things New Age",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/c1823162eb7201b50c8448b8042f714739536a5a-2000x1333.jpg?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/10/28/ian-james-pirate-radio-station-khlz-caravan-joshua-tree",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-29T02-58_3",
+        "rank": 3,
+        "title": "Interview with Faraday Future chairman: Moving from Chinese robot sourcing to US manufacturing",
+        "category": "robotics",
+        "summary": "Faraday Future is best known as an electric vehicle company, but it is increasingly positioning robotics as a major part of its future, describing itself more broadly as a “physical AI ecosystem company”. The…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/faraday-future-2.jpg",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/28/interview-with-faraday-future-chairman-moving-from-chinese-robot-sourcing-to-us-manufacturing/106438/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-29T02-58_4",
+        "rank": 4,
+        "title": "The DOE announces $5B loan to Constellation for nuclear uprates",
+        "category": "energy",
+        "summary": "The pro-nuclear Trump administration continues to put its money where its mouth is. On Tuesday, the U.S. Department of Energy announced a conditional loan commitment of up to $5 billion to boost the output of 15…",
+        "image": "https://img.canarymedia.com/content/uploads/Constellations-Clinton-nuclear-plant-Illinois-GettyImages-2227026774.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=210161679089185f3779fa8fc4c7d1d1",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/nuclear/doe-5b-loan-constellation-energy",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-29T02-58_5",
+        "rank": 5,
+        "title": "Nearly Half of Distressed Adults Use AI for Therapy",
+        "category": "neuroscience",
+        "summary": "Are chatbots becoming informal therapists? A new study reveals that nearly half of adults experiencing severe psychological distress turn to generative AI tools for emotional support, raising urgent questions about…",
+        "image": "https://neurosciencenews.com/files/2026/10/ai-therapy-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/ai-llm-psychology-therapy-32355/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-10-28T23-40",
     "scannedAt": "2026-10-28T23:40:19.113Z",
     "items": [
