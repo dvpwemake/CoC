@@ -1,5 +1,25 @@
 [
   {
+    "batchId": "editorial_2026-10-28",
+    "scannedAt": "2026-10-28T22:36:51.234Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-10-28",
+        "rank": 0,
+        "title": "Breaking Boundaries and Bridging Frontiers",
+        "category": "editorial",
+        "summary": "Technology and science pivot toward bold new horizons.",
+        "image": "https://artsy-media-uploads.s3.amazonaws.com/uBpoQZcDvBxqLR-aTou65Q%2FMAG_Courtesy+of+the+Estate+of+Teruko+Yokoi.+Image+1+of+Teruko+in+her+studio+at+Hotel+Chelsea+in+1959.+Image+credit+Charles+Gimpel_1500x1000.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-10-28.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-10-28",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-10-29T17-38",
     "scannedAt": "2026-10-29T17:38:11.091Z",
     "items": [
