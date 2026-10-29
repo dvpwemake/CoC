@@ -1,66 +1,104 @@
 {
   "published": {
-    "id": "ed_2026-10-28",
-    "publishDate": "2026-10-28",
+    "id": "ed_2026-10-29",
+    "publishDate": "2026-10-29",
     "status": "published",
-    "updatedAt": "2026-10-28T22:36:51.234Z",
-    "title": "Breaking Boundaries and Bridging Frontiers",
-    "dek": "Technology and science pivot toward bold new horizons.",
+    "updatedAt": "2026-10-29T19:52:05.570Z",
+    "title": "Crossroads of Innovation and Accountability",
+    "dek": "Today’s shifts across policy, technology, and global culture.",
     "authorName": "Dr. Wallace Lynch",
     "authorTitle": "Editor in Chief",
-    "body": "Apple is making headlines with a seismic shift in design philosophy, finally unveiling a touch-screen MacBook Pro—a concept previously dismissed by the company's iconic founders. But pushing the envelope carries undeniable risks. Early adopters of the newly launched iPhone Duo are already reporting cracked inner screens around the hinge, a stark reminder that cutting-edge hardware still wrestles with physical limitations.\n\nAbove the atmosphere, the sky is no longer a boundary but a collaborative playground. NASA recently selected 19 new citizen science proposals, democratizing discovery and reinforcing its commitment to transparent, reproducible research. Meanwhile, in low-Earth orbit, a Ukrainian startup partnered with GomSpace to launch an experimental satellite, laying the crucial groundwork for a resilient, independent communications network.\n\nCloser to home, medical and biological breakthroughs are opening novel frontiers. Researchers are probing the mind's deepest mechanics, recently securing a $4.5 million grant to study \"retrosplenial switch cells\" to better understand the sudden mood transitions in bipolar disorder. In an unexpected twist, controlled exposure to \"thin mountain air\" is showing promise in protecting Parkinson’s patients by safely modulating stress hormones. The biotech sector remains equally dynamic: Roche secured a notable clinical victory for lung cancer treatment with its KRAS drug divarasib. Simultaneously, industry friction persists, highlighted by the Missouri Attorney General challenging Eli Lilly over 340B drug discount data requirements and the HHS relaxing enforcement on compounding some unapproved wellness peptides.\n\nIn the art world, harmony and high stakes currently share the stage. A looming strike at the V&A was successfully averted following an improved offer, preserving cultural peace. Simultaneously, the market braces for a windfall as a coveted Gustav Klimt landscape heads to auction with an $80 million estimate, while the luminous, long-overlooked abstract works of late artist Teruko Yokoi finally capture the widespread attention they have always deserved.\n\nWould you like me to expand on the geopolitical implications of the new satellite networks, or focus more on the recent medical breakthroughs?",
+    "body": "The push for technological advancement is colliding with environmental and security realities. Driven by data center electricity demands, the US power sector could see planet-heating carbon dioxide pollution skyrocket by 42 percent by 2030 compared to 2025 as fossil fuel infrastructure expands. On the innovation front, AGIBOT introduced \"Worken\" to measure productive robot work alongside its AHA3 hardware platform and WITA-Omni 1.0 model. Yet digital vulnerabilities remain stark, highlighted by a hacking group called the Department of Peace leaking the details of over 41,000 US immigration agents. Beyond Earth, international cooperation continues as Vietnam becomes the 78th nation to sign the Artemis Accords for peaceful space exploration, while NASA invites the public to send their names to Saturn’s moon Titan aboard the Dragonfly mission.\n\nIn the biotech and healthcare sectors, regulatory transparency is a major focus. A new federal rule from the Trump administration will require pharmacy benefit managers to disclose secret compensation and fee data. Meanwhile, a House lawmaker has asked the Government Accountability Office to probe whether the TrumpRx platform has genuinely provided drug savings. Tensions are also rising at the state level, with Missouri’s Attorney General warning Eli Lilly to stop requiring claims data from hospitals seeking 340B discounted medicines. Shifting to human well-being, neuroscience sheds light on physical connection: a survey of 15,000 UK adults found that 70% remember hugs for comfort, influenced by empathy and attachment styles.\n\nCultural spheres are seeing their own resolutions and conflicts. A planned strike by unionized workers across the Victoria and Albert Museum’s four sites has been suspended following an improved management offer. Conversely, legal friction is intensifying as the Thyssen-Bornemisza Collection and the Norton Simon Museum challenge US statutes intended to aid the recovery of Nazi-looted art. On a celebratory note, Maison Martell unveiled its Martell Afrobeats collection in New York, featuring a limited-edition cognac bottle created by artist Prince Gyasi and singer Davido.",
     "paragraphs": [
-      "Apple is making headlines with a seismic shift in design philosophy, finally unveiling a touch-screen MacBook Pro—a concept previously dismissed by the company's iconic founders. But pushing the envelope carries undeniable risks. Early adopters of the newly launched iPhone Duo are already reporting cracked inner screens around the hinge, a stark reminder that cutting-edge hardware still wrestles with physical limitations.",
-      "Above the atmosphere, the sky is no longer a boundary but a collaborative playground. NASA recently selected 19 new citizen science proposals, democratizing discovery and reinforcing its commitment to transparent, reproducible research. Meanwhile, in low-Earth orbit, a Ukrainian startup partnered with GomSpace to launch an experimental satellite, laying the crucial groundwork for a resilient, independent communications network.",
-      "Closer to home, medical and biological breakthroughs are opening novel frontiers. Researchers are probing the mind's deepest mechanics, recently securing a $4.5 million grant to study \"retrosplenial switch cells\" to better understand the sudden mood transitions in bipolar disorder. In an unexpected twist, controlled exposure to \"thin mountain air\" is showing promise in protecting Parkinson’s patients by safely modulating stress hormones. The biotech sector remains equally dynamic: Roche secured a notable clinical victory for lung cancer treatment with its KRAS drug divarasib. Simultaneously, industry friction persists, highlighted by the Missouri Attorney General challenging Eli Lilly over 340B drug discount data requirements and the HHS relaxing enforcement on compounding some unapproved wellness peptides.",
-      "In the art world, harmony and high stakes currently share the stage. A looming strike at the V&A was successfully averted following an improved offer, preserving cultural peace. Simultaneously, the market braces for a windfall as a coveted Gustav Klimt landscape heads to auction with an $80 million estimate, while the luminous, long-overlooked abstract works of late artist Teruko Yokoi finally capture the widespread attention they have always deserved.",
-      "Would you like me to expand on the geopolitical implications of the new satellite networks, or focus more on the recent medical breakthroughs?"
+      "The push for technological advancement is colliding with environmental and security realities. Driven by data center electricity demands, the US power sector could see planet-heating carbon dioxide pollution skyrocket by 42 percent by 2030 compared to 2025 as fossil fuel infrastructure expands. On the innovation front, AGIBOT introduced \"Worken\" to measure productive robot work alongside its AHA3 hardware platform and WITA-Omni 1.0 model. Yet digital vulnerabilities remain stark, highlighted by a hacking group called the Department of Peace leaking the details of over 41,000 US immigration agents. Beyond Earth, international cooperation continues as Vietnam becomes the 78th nation to sign the Artemis Accords for peaceful space exploration, while NASA invites the public to send their names to Saturn’s moon Titan aboard the Dragonfly mission.",
+      "In the biotech and healthcare sectors, regulatory transparency is a major focus. A new federal rule from the Trump administration will require pharmacy benefit managers to disclose secret compensation and fee data. Meanwhile, a House lawmaker has asked the Government Accountability Office to probe whether the TrumpRx platform has genuinely provided drug savings. Tensions are also rising at the state level, with Missouri’s Attorney General warning Eli Lilly to stop requiring claims data from hospitals seeking 340B discounted medicines. Shifting to human well-being, neuroscience sheds light on physical connection: a survey of 15,000 UK adults found that 70% remember hugs for comfort, influenced by empathy and attachment styles.",
+      "Cultural spheres are seeing their own resolutions and conflicts. A planned strike by unionized workers across the Victoria and Albert Museum’s four sites has been suspended following an improved management offer. Conversely, legal friction is intensifying as the Thyssen-Bornemisza Collection and the Norton Simon Museum challenge US statutes intended to aid the recovery of Nazi-looted art. On a celebratory note, Maison Martell unveiled its Martell Afrobeats collection in New York, featuring a limited-edition cognac bottle created by artist Prince Gyasi and singer Davido."
     ],
-    "wordCount": 321,
-    "heroImage": "https://artsy-media-uploads.s3.amazonaws.com/uBpoQZcDvBxqLR-aTou65Q%2FMAG_Courtesy+of+the+Estate+of+Teruko+Yokoi.+Image+1+of+Teruko+in+her+studio+at+Hotel+Chelsea+in+1959.+Image+credit+Charles+Gimpel_1500x1000.jpg",
-    "heroCredit": "Late Artist Teruko Yokoi’s Blooming Abstractions Are Capturing New Attention",
+    "wordCount": 315,
+    "heroImage": "https://artsy-media-uploads.s3.amazonaws.com/TCBXP42Kxc24p9pcnKtmkg%2F992A1169_1500x1000.jpg",
+    "heroCredit": "Artist Prince Gyasi and singer Davido collaborate on limited-edition Martell cognac bottle.",
     "heroSource": "Artsy",
-    "heroSourceUrl": "https://www.artsy.net/article/artsy-editorial-late-artist-teruko-yokois-blooming-abstractions-capturing-new-attention",
+    "heroSourceUrl": "https://www.artsy.net/article/artsy-editorial-artist-prince-gyasi-singer-davido-collaborate-limited-edition-martell-cognac-bottle",
     "headlines": [
       {
-        "title": "Late Artist Teruko Yokoi’s Blooming Abstractions Are Capturing New Attention",
+        "title": "Artist Prince Gyasi and singer Davido collaborate on limited-edition Martell cognac bottle.",
         "source": "Artsy",
         "category": "art",
-        "sourceUrl": "https://www.artsy.net/article/artsy-editorial-late-artist-teruko-yokois-blooming-abstractions-capturing-new-attention",
-        "summary": "Untitled, 2000 Teruko Yokoi Hollis Taggart Luminous fields of color and loose brushstrokes fill the abstract compositions of Teruko Yokoi . In Untitled (2000), green clouds sit against an ethereal purple background,…",
-        "image": "https://artsy-media-uploads.s3.amazonaws.com/uBpoQZcDvBxqLR-aTou65Q%2FMAG_Courtesy+of+the+Estate+of+Teruko+Yokoi.+Image+1+of+Teruko+in+her+studio+at+Hotel+Chelsea+in+1959.+Image+credit+Charles+Gimpel_1500x1000.jpg"
+        "sourceUrl": "https://www.artsy.net/article/artsy-editorial-artist-prince-gyasi-singer-davido-collaborate-limited-edition-martell-cognac-bottle",
+        "summary": "Artist Prince Gyasi and singer Davido have collaborated on a limited-edition Martell cognac bottle. Maison Martell unveiled its Martell Afrobeats collection this week in New York, marking the global launch of the new…",
+        "image": "https://artsy-media-uploads.s3.amazonaws.com/TCBXP42Kxc24p9pcnKtmkg%2F992A1169_1500x1000.jpg"
       },
       {
-        "title": "STAT+: HHS moves to allow compounding of some unapproved peptides",
+        "title": "STAT+: New federal rule will require prescription drug middlemen to share secret payments data",
         "source": "STAT News",
         "category": "biotech",
-        "sourceUrl": "https://www.statnews.com/2026/10/28/hhs-enforcement-discretion-policy-allows-peptide-compounding/?utm_campaign=rss",
-        "summary": "Kennedy and his MAHA movement have embraced peptides, though there's little evidence for many of the wellness compounds.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/10/AdobeStock_305447415-1024x576.jpeg"
+        "sourceUrl": "https://www.statnews.com/2026/10/29/prescription-drug-price-reform-pbm-disclosure-rules-face-challenge/?utm_campaign=rss",
+        "summary": "A Trump administration rule will force pharmacy benefit managers to disclose fees and compensation details currently kept private.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/10/AdobeStock_437944817-1024x576.jpeg"
       },
       {
-        "title": "Apple Unveils Its First Touch-Screen MacBook Pro",
-        "source": "NYT Technology",
+        "title": "Data centers could send US climate pollution skyrocketing",
+        "source": "The Verge",
         "category": "general",
-        "sourceUrl": "https://www.nytimes.com/2026/10/28/technology/apple-touch-screen-macbook-pro.html",
-        "summary": "Steve Jobs and Tim Cook both dismissed the idea, but Apple’s new chief executive is reimagining some of the company’s most important products.",
-        "image": "https://static01.nyt.com/images/2026/10/28/multimedia/APPLE-1-lcgk/APPLE-1-lcgk-mediumSquareAt3X.jpg"
+        "sourceUrl": "https://www.theverge.com/science/1022258/data-centers-climate-change-carbon-dioxide-pollution-gas",
+        "summary": "The US power sector could release 42 percent more planet-heating carbon dioxide pollution by 2030 than it did in 2025 as it builds out more fossil fuel infrastructure to meet data center electricity demand, according to…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
       },
       {
-        "title": "Breathing \"Thin Air\" May Protect Against Parkinson's",
-        "source": "Neuroscience News",
-        "category": "neuroscience",
-        "sourceUrl": "https://neurosciencenews.com/hypoxia-parkinsons-neurology-32353/",
-        "summary": "Can breathing thin mountain air help Parkinson's patients? Researchers demonstrated that 39 minutes of controlled intermittent hypoxia safely lowers stress hormones, raises anti-inflammatory adiponectin, and protects…",
-        "image": "https://neurosciencenews.com/files/2026/10/hypoxia-parkinsons-inflammation-neuroscience-1155x770.jpg"
+        "title": "AGIBOT introduces Worken to measure productive robot work at AGIBOT Innovation Day 2026",
+        "source": "Robotics & Automation News",
+        "category": "robotics",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/29/agibot-introduces-worken-to-measure-productive-robot-work-at-agibot-innovation-day-2026/106452/",
+        "summary": "AGIBOT unveils its AHA3 integrated hardware platform, GO-3 Preview and WITA-Omni 1.0 model, formally launches G2 Max and Link-U OS 1.0, and highlights real-world deployments AGIBOT has introduced Worken, a proposed…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/A.I.DAY-Panoramic-image.jpg"
       },
       {
-        "title": "NASA Selects 19 New Citizen Science Proposals in 2026",
+        "title": "Envía tu nombre a Titán a bordo de la misión Dragonfly de la NASA",
         "source": "NASA",
         "category": "space",
-        "sourceUrl": "https://science.nasa.gov/get-involved/citizen-science/nasa-selects-19-new-citizen-science-proposals-in-2026/",
-        "summary": "So far, 2026 has seen a flood of successes for volunteers who do NASA science, exemplifying NASA’s commitment to gold-standard science—transparent, reproducible and intrinsically collaborative. The Backyard Worlds:…",
-        "image": "https://assets.science.nasa.gov/content/dam/science/cds/citizen-science/highlights/2026/NASA_citizen_science_projects_2026.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg"
+        "sourceUrl": "https://www.nasa.gov/news-release/envia-tu-nombre-a-titan-a-bordo-de-la-mision-dragonfly-de-la-nasa/",
+        "summary": "Read this release in English here. Puede que nunca llegues a surcar los cielos bajo las nubes o sobre las arenas orgánicas de la luna Titán de Saturno, ¡pero tu nombre sí puede hacerlo! La NASA invita al público a…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/10/27-10097-01j-hero-image-16-9-spanish-v01.jpg"
+      },
+      {
+        "title": "Challenges mounting to US laws enacted to aid recovery of Nazi-looted art",
+        "source": "The Art Newspaper",
+        "category": "art",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/10/28/thyssen-bornemisza-collection-norton-simon-museum-nazi-loot-lawsuits-us-laws",
+        "summary": "The Thyssen-Bornemisza Collection Foundation in Madrid and the Norton Simon Museum in California are pushing back against recent statutes related to Holocaust-era expropriation claims",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/ddd3dc947ee309ae4fd673bf471b91e6cf0a11d8-2000x1800.jpg?w=140"
+      },
+      {
+        "title": "STAT+: Lawmaker wants government watchdog to probe TrumpRx over claims about drug savings",
+        "source": "STAT News",
+        "category": "biotech",
+        "sourceUrl": "https://www.statnews.com/pharmalot/2026/10/28/lawmaker-wants-gao-probe-trumprx-drug-pricing/?utm_campaign=rss",
+        "summary": "A House lawmaker asked the Government Accountability Office to review whether the TrumpRx platform has saved Americans any money.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/03/GettyImages-2259515105-1024x576.jpg"
+      },
+      {
+        "title": "Details of thousands of US immigration agents leaked in major hack",
+        "source": "BBC Technology",
+        "category": "general",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
+        "summary": "A group called the Department of Peace released information on more than 41,000 DHS staff.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c03/live/2996f1b0-d318-11f1-ba7d-b5eab6da6837.jpg"
+      },
+      {
+        "title": "Why Some People Love Hugs While Others Hate Them",
+        "source": "Neuroscience News",
+        "category": "neuroscience",
+        "sourceUrl": "https://neurosciencenews.com/hugs-emotion-empathy-psychology-32356/",
+        "summary": "Why do some hugs stay with us while others fade away? A survey of more than 15,000 UK adults published in PLOS One shows that 70% remember hugs for comfort, with empathy, relationship attachment styles, and body…",
+        "image": "https://neurosciencenews.com/files/2026/10/hug-emotion-empathy-social-neuroscience-1155x770.jpg"
+      },
+      {
+        "title": "NASA Welcomes Vietnam as Newest Artemis Accords Signatory",
+        "source": "NASA",
+        "category": "space",
+        "sourceUrl": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-vietnam-as-newest-artemis-accords-signatory/",
+        "summary": "The Socialist Republic of Vietnam became the 78th nation to sign the Artemis Accords, joining a growing coalition of like-minded nations committed to the peaceful, transparent, and responsible exploration of space.…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/10/artemis-accords-vietnam-78-102826.jpg"
       },
       {
         "title": "V&A Workers Call Off Strike",
@@ -77,52 +115,33 @@
         "sourceUrl": "https://www.statnews.com/pharmalot/2026/10/27/missouri-ag-warns-lilly-340b-drug-pricing-data/?utm_campaign=rss",
         "summary": "Missouri AG told Lilly to stop forcing hospitals to provide claims data to receive discounted medicines under 340B, a sign more states are pushing back against drugmakers.",
         "image": "https://www.statnews.com/wp-content/uploads/2025/08/GettyImages-2092473213-1024x576.jpg"
-      },
-      {
-        "title": "Here’s why the iPhone Duo’s hinge could be cracking the screen",
-        "source": "The Verge",
-        "category": "general",
-        "sourceUrl": "https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge",
-        "summary": "Within hours of the iPhone Duo launch last Friday, people reported that the inner screen on some brand new foldable phones was already broken. The issue was similar across many photos shared on social media: some kind…",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/iPhone-Duo_208.jpg?quality=90&strip=all&crop=0%2C3.5651957117926%2C100%2C92.869608576415&w=1200"
-      },
-      {
-        "title": "Finding the Brain's Mood Switch in Bipolar Disorder",
-        "source": "Neuroscience News",
-        "category": "neuroscience",
-        "sourceUrl": "https://neurosciencenews.com/mood-switch-bipolar-neuroscience-32349/",
-        "summary": "What causes the sudden transition between depression and mania in bipolar disorder? Researchers at USC, Stanford, and Johns Hopkins received a $4.5M BD² grant to study \"retrosplenial switch cells\"—a unique neuronal…",
-        "image": "https://neurosciencenews.com/files/2026/10/bipolar-mood-switch-neuroscience-1155x770.jpg"
-      },
-      {
-        "title": "Ukrainian startup, GomSpace test satellite for future communications network",
-        "source": "SpaceNews",
-        "category": "space",
-        "sourceUrl": "https://spacenews.com/ukrainian-startup-gomspace-test-satellite-for-future-communications-network/",
-        "summary": "The companies said the experimental spacecraft, launched Oct. 1, could lead to a Ukrainian-controlled satellite network The post Ukrainian startup, GomSpace test satellite for future communications network appeared…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/Screenshot-2026-10-27-at-3.41.11-PM.png?fit=1024%2C588&ssl=1"
-      },
-      {
-        "title": "“Guaranteed to Sell”: $80 Million Klimt Landscape Heads to Auction",
-        "source": "Artforum",
-        "category": "art",
-        "sourceUrl": "https://www.artforum.com/news/guaranteed-to-sell-80-million-klimt-landscape-to-auction-1234762173/",
-        "summary": "Gustav Klimt’s 1915–16 Litzlbergkeller is set to hit the auction block in New York next month with an estimate of $60 million to $80 million. Christie’s, which is peddling the lush green landscape for an unnamed client,…",
-        "image": "https://www.artforum.com/wp-content/uploads/2026/10/Klimt-Litzlbergkeller-Christies-1024x1020.jpg.webp?w=650"
-      },
-      {
-        "title": "STAT+: Roche gets a lung cancer win with its KRAS drug divarasib",
-        "source": "STAT News",
-        "category": "biotech",
-        "sourceUrl": "https://www.statnews.com/2026/10/26/roche-kras-drug-divarasib-lung-cancer-treatment-win/?utm_campaign=rss",
-        "summary": "One of the more impressive data sets at this year’s ESMO came from a Roche study of its drug divarasib, which treats lung cancer.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/10/AdobeStock_500569539_Editorial_Use_Only-1024x576.jpeg"
       }
     ],
-    "publishedAt": "2026-10-28T22:36:51.234Z"
+    "publishedAt": "2026-10-29T19:52:05.570Z"
   },
   "drafts": {},
   "history": [
+    {
+      "id": "ed_2026-10-29",
+      "publishDate": "2026-10-29",
+      "status": "published",
+      "updatedAt": "2026-10-29T19:52:05.570Z",
+      "title": "Crossroads of Innovation and Accountability",
+      "dek": "Today’s shifts across policy, technology, and global culture.",
+      "authorName": "Dr. Wallace Lynch",
+      "authorTitle": "Editor in Chief",
+      "paragraphs": [
+        "The push for technological advancement is colliding with environmental and security realities. Driven by data center electricity demands, the US power sector could see planet-heating carbon dioxide pollution skyrocket by 42 percent by 2030 compared to 2025 as fossil fuel infrastructure expands. On the innovation front, AGIBOT introduced \"Worken\" to measure productive robot work alongside its AHA3 hardware platform and WITA-Omni 1.0 model. Yet digital vulnerabilities remain stark, highlighted by a hacking group called the Department of Peace leaking the details of over 41,000 US immigration agents. Beyond Earth, international cooperation continues as Vietnam becomes the 78th nation to sign the Artemis Accords for peaceful space exploration, while NASA invites the public to send their names to Saturn’s moon Titan aboard the Dragonfly mission.",
+        "In the biotech and healthcare sectors, regulatory transparency is a major focus. A new federal rule from the Trump administration will require pharmacy benefit managers to disclose secret compensation and fee data. Meanwhile, a House lawmaker has asked the Government Accountability Office to probe whether the TrumpRx platform has genuinely provided drug savings. Tensions are also rising at the state level, with Missouri’s Attorney General warning Eli Lilly to stop requiring claims data from hospitals seeking 340B discounted medicines. Shifting to human well-being, neuroscience sheds light on physical connection: a survey of 15,000 UK adults found that 70% remember hugs for comfort, influenced by empathy and attachment styles.",
+        "Cultural spheres are seeing their own resolutions and conflicts. A planned strike by unionized workers across the Victoria and Albert Museum’s four sites has been suspended following an improved management offer. Conversely, legal friction is intensifying as the Thyssen-Bornemisza Collection and the Norton Simon Museum challenge US statutes intended to aid the recovery of Nazi-looted art. On a celebratory note, Maison Martell unveiled its Martell Afrobeats collection in New York, featuring a limited-edition cognac bottle created by artist Prince Gyasi and singer Davido."
+      ],
+      "wordCount": 315,
+      "heroImage": "https://artsy-media-uploads.s3.amazonaws.com/TCBXP42Kxc24p9pcnKtmkg%2F992A1169_1500x1000.jpg",
+      "heroCredit": "Artist Prince Gyasi and singer Davido collaborate on limited-edition Martell cognac bottle.",
+      "heroSource": "Artsy",
+      "heroSourceUrl": "https://www.artsy.net/article/artsy-editorial-artist-prince-gyasi-singer-davido-collaborate-limited-edition-martell-cognac-bottle",
+      "publishedAt": "2026-10-29T19:52:05.570Z"
+    },
     {
       "id": "ed_2026-10-28",
       "publishDate": "2026-10-28",
@@ -1492,31 +1511,6 @@
       "heroSource": "Canary Media",
       "heroSourceUrl": "https://www.canarymedia.com/articles/solar/trump-new-solar-tariffs",
       "publishedAt": "2026-08-08T01:30:06.544Z"
-    },
-    {
-      "id": "ed_2026-08-06",
-      "publishDate": "2026-08-06",
-      "status": "published",
-      "updatedAt": "2026-08-07T01:32:35.460Z",
-      "title": "What the canopy hid, and what the feed still answers for",
-      "dek": "Convergence of buried form and public labor",
-      "authorName": "Dr. Wallace Lynch",
-      "authorTitle": "Editor in Chief",
-      "paragraphs": [
-        "The canopy kept a map. Aerial lidar over Amazonian rainforest finds more than twenty thousand pre-colonial earthworks, evidence that the Aquiry civilization left a wider, more ordered footprint than the forest let us see. A star dies violently and exposes a dormant supermassive black hole tens of thousands of light-years from its galactic core, the first of its kind found so far from center. The aging human brain receives help from the blood: peripheral immune cells cross in and become working microglia. What was buried, distant, or worn still has a structure. It waits on the right instrument.",
-        "On Thursday, August 6, 2026, we hold that pressure to one question: what labor builds the next layer once the hidden form is named.",
-        "Energy answers with permission and fission. The Pentagon’s months-long refusal to run routine military reviews of onshore wind farms had acted as a quiet blockade. That pause is over for now, as demand for power climbs. Oklo, a small modular reactor company, reports splitting its first atoms in a test reactor. Clean power returns to the ledger. New heat is no longer only a slide deck.",
-        "Space and air ask who will do the work. Icarus Robotics speaks of a robotic labor force for orbital stations, manufacturing, and lunar infrastructure. Sarla Aviation adopts Siemens software to speed electric vertical takeoff craft for dense cities. Machines take the jobs that vacuum, heat, and altitude will not forgive.",
-        "The feed keeps a harder court. French streamers on Kick receive suspended sentences and fines in a case tied to a livestream death. TikTok cuts about two hundred fifty jobs in a Nashville office that includes content moderation. A Senate committee votes along party lines to hold Anthony Fauci in contempt after he declines questions on his Covid role. Platforms and power still name who answers.",
-        "Medicine opens a quieter door. The FDA approves a novel Takeda therapy for narcolepsy, a class researchers hope will reach other conditions. In Seoul, Jiang Miao’s painted wood carvings turn monumental grain into mindfulness.",
-        "Convergence is not only discovery under leaves or stars. It is whether we assign careful labor, clean power, and honest judgment once the hidden map is visible again."
-      ],
-      "wordCount": 366,
-      "heroImage": "https://static01.nyt.com/images/2026/08/06/multimedia/06xp-french-streamers-promo/06xp-french-streamers-promo-mediumSquareAt3X.png",
-      "heroCredit": "French Streamers Convicted in Case Related to Kick Livestream Death",
-      "heroSource": "NYT Technology",
-      "heroSourceUrl": "https://www.nytimes.com/2026/08/06/world/europe/french-streamers-kick-death-convicted.html",
-      "publishedAt": "2026-08-07T01:32:35.460Z"
     }
   ],
   "usedHeroImages": [
@@ -1780,6 +1774,7 @@
     "https://images-assets.nasa.gov/image/art002e012632/art002e012632~large.jpg",
     "https://www.statnews.com/wp-content/uploads/2026/06/GettyImages-2237096018-1024x576.jpg",
     "https://media.wired.com/photos/6adfd0bd71d0e77d5637708d/master/pass/MCDODYS_UV008.jpg",
-    "https://artsy-media-uploads.s3.amazonaws.com/uBpoQZcDvBxqLR-aTou65Q%2FMAG_Courtesy+of+the+Estate+of+Teruko+Yokoi.+Image+1+of+Teruko+in+her+studio+at+Hotel+Chelsea+in+1959.+Image+credit+Charles+Gimpel_1500x1000.jpg"
+    "https://artsy-media-uploads.s3.amazonaws.com/uBpoQZcDvBxqLR-aTou65Q%2FMAG_Courtesy+of+the+Estate+of+Teruko+Yokoi.+Image+1+of+Teruko+in+her+studio+at+Hotel+Chelsea+in+1959.+Image+credit+Charles+Gimpel_1500x1000.jpg",
+    "https://artsy-media-uploads.s3.amazonaws.com/TCBXP42Kxc24p9pcnKtmkg%2F992A1169_1500x1000.jpg"
   ]
 }
