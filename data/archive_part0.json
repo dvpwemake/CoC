@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-10-29T10-28",
-    "scannedAt": "2026-10-29T10:28:08.497Z",
+    "batchId": "auto_2026-10-29T17-38",
+    "scannedAt": "2026-10-29T17:38:11.091Z",
     "items": [
       {
-        "id": "auto_2026-10-29T10-28_1",
+        "id": "auto_2026-10-29T17-38_1",
         "rank": 1,
-        "title": "I Did Push-Ups With Snap’s Chunky AR Glasses",
-        "category": "general",
-        "summary": "They fit better than they look and stay put when you move, but Snap’s $2,195 Specs still feel like a developer prototype in search of a purpose.",
-        "image": "https://media.wired.com/photos/6ae21f8d86313c19910c81e0/master/pass/Snap%20Specs%20SOURCE%20Boone%20Ashworth.jpg",
-        "source": "WIRED",
-        "sourceUrl": "https://www.wired.com/story/i-did-push-ups-with-snaps-chunky-ar-glasses/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-29T10-28_2",
-        "rank": 2,
-        "title": "We urgently need to monitor AI agents’ actions in real time",
-        "category": "ai",
-        "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261028_AIsurveillance.jpg?resize=1200,600",
-        "source": "MIT Technology Review",
-        "sourceUrl": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-29T10-28_3",
-        "rank": 3,
-        "title": "STAT+: New atlas of colorectal tumors sheds light on why cancers in young people are more dangerous",
-        "category": "biotech",
-        "summary": "A new atlas of colorectal tumors sheds light on why cancers in young people are more dangerous.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/10/C0226518-Colorectal_cancer_cell_SEM-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/10/29/early-onset-colorectal-cancer-dana-farber-study-qa-kimmie-ng/?utm_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-29T10-28_4",
-        "rank": 4,
-        "title": "‘There’s so much of Scotland in them’: cuts to Edinburgh College of Art craft degrees spark backlash",
+        "title": "Artist Prince Gyasi and singer Davido collaborate on limited-edition Martell cognac bottle.",
         "category": "art",
-        "summary": "The university’s decision to close its textiles, jewellery and silversmithing, and performance costume undergraduate courses has been framed as a threat to preserving some of the country’s cultural traditions",
-        "image": "https://cdn.sanity.io/images/cxgd3urn/production/5e6c6cc8803fdf37a7b2564f721f0a2f910ebc1f-9308x4677.jpg?w=140",
-        "source": "The Art Newspaper",
-        "sourceUrl": "https://www.theartnewspaper.com/2026/10/29/theres-so-much-of-scotland-in-them-cuts-to-edinburgh-college-of-art-craft-degrees-spark-backlash",
+        "summary": "Artist Prince Gyasi and singer Davido have collaborated on a limited-edition Martell cognac bottle. Maison Martell unveiled its Martell Afrobeats collection this week in New York, marking the global launch of the new…",
+        "image": "https://artsy-media-uploads.s3.amazonaws.com/TCBXP42Kxc24p9pcnKtmkg%2F992A1169_1500x1000.jpg",
+        "source": "Artsy",
+        "sourceUrl": "https://www.artsy.net/article/artsy-editorial-artist-prince-gyasi-singer-davido-collaborate-limited-edition-martell-cognac-bottle",
         "fromX": false
       },
       {
-        "id": "auto_2026-10-29T10-28_5",
+        "id": "auto_2026-10-29T17-38_2",
+        "rank": 2,
+        "title": "Data centers could send US climate pollution skyrocketing",
+        "category": "general",
+        "summary": "The US power sector could release 42 percent more planet-heating carbon dioxide pollution by 2030 than it did in 2025 as it builds out more fossil fuel infrastructure to meet data center electricity demand, according to…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "sourceUrl": "https://www.theverge.com/science/1022258/data-centers-climate-change-carbon-dioxide-pollution-gas",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-29T17-38_3",
+        "rank": 3,
+        "title": "AGIBOT introduces Worken to measure productive robot work at AGIBOT Innovation Day 2026",
+        "category": "robotics",
+        "summary": "AGIBOT unveils its AHA3 integrated hardware platform, GO-3 Preview and WITA-Omni 1.0 model, formally launches G2 Max and Link-U OS 1.0, and highlights real-world deployments AGIBOT has introduced Worken, a proposed…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/A.I.DAY-Panoramic-image.jpg",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/29/agibot-introduces-worken-to-measure-productive-robot-work-at-agibot-innovation-day-2026/106452/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-29T17-38_4",
+        "rank": 4,
+        "title": "STAT+: New federal rule will require prescription drug middlemen to share secret payments data",
+        "category": "biotech",
+        "summary": "A Trump administration rule will force pharmacy benefit managers to disclose fees and compensation details currently kept private.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/10/AdobeStock_437944817-1024x576.jpeg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/10/29/prescription-drug-price-reform-pbm-disclosure-rules-face-challenge/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-29T17-38_5",
         "rank": 5,
-        "title": "From zoos to craft brews, Michigan looks to spur decarbonization",
-        "category": "energy",
-        "summary": "Re-creating polar habitats in Michigan is no small feat. Just ask the Detroit Zoo, where the polar bear and penguin centers require producing industrial levels of cooling from energy-intensive equipment. For the zoo,…",
-        "image": "https://img.canarymedia.com/content/uploads/Polar-bears-at-Detroit-Zoo_GettyImages-53461068.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=5c7347319477a3698cc2538b572a1efd",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/clean-industry/zoos-brews-michigan-decarbonization",
+        "title": "Envía tu nombre a Titán a bordo de la misión Dragonfly de la NASA",
+        "category": "space",
+        "summary": "Read this release in English here. Puede que nunca llegues a surcar los cielos bajo las nubes o sobre las arenas orgánicas de la luna Titán de Saturno, ¡pero tu nombre sí puede hacerlo! La NASA invita al público a…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/10/27-10097-01j-hero-image-16-9-spanish-v01.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/news-release/envia-tu-nombre-a-titan-a-bordo-de-la-mision-dragonfly-de-la-nasa/",
         "fromX": false
       }
     ]
