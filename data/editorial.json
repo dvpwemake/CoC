@@ -1,64 +1,104 @@
 {
   "published": {
-    "id": "ed_2026-10-29",
-    "publishDate": "2026-10-29",
+    "id": "ed_2026-10-30",
+    "publishDate": "2026-10-30",
     "status": "published",
-    "updatedAt": "2026-10-29T19:52:05.570Z",
-    "title": "Crossroads of Innovation and Accountability",
-    "dek": "Today’s shifts across policy, technology, and global culture.",
+    "updatedAt": "2026-10-30T21:17:42.038Z",
+    "title": "Progress and Peril in a Hyperconnected Age",
+    "dek": "Institutions unite as AI disrupts the digital economy.",
     "authorName": "Dr. Wallace Lynch",
     "authorTitle": "Editor in Chief",
-    "body": "The push for technological advancement is colliding with environmental and security realities. Driven by data center electricity demands, the US power sector could see planet-heating carbon dioxide pollution skyrocket by 42 percent by 2030 compared to 2025 as fossil fuel infrastructure expands. On the innovation front, AGIBOT introduced \"Worken\" to measure productive robot work alongside its AHA3 hardware platform and WITA-Omni 1.0 model. Yet digital vulnerabilities remain stark, highlighted by a hacking group called the Department of Peace leaking the details of over 41,000 US immigration agents. Beyond Earth, international cooperation continues as Vietnam becomes the 78th nation to sign the Artemis Accords for peaceful space exploration, while NASA invites the public to send their names to Saturn’s moon Titan aboard the Dragonfly mission.\n\nIn the biotech and healthcare sectors, regulatory transparency is a major focus. A new federal rule from the Trump administration will require pharmacy benefit managers to disclose secret compensation and fee data. Meanwhile, a House lawmaker has asked the Government Accountability Office to probe whether the TrumpRx platform has genuinely provided drug savings. Tensions are also rising at the state level, with Missouri’s Attorney General warning Eli Lilly to stop requiring claims data from hospitals seeking 340B discounted medicines. Shifting to human well-being, neuroscience sheds light on physical connection: a survey of 15,000 UK adults found that 70% remember hugs for comfort, influenced by empathy and attachment styles.\n\nCultural spheres are seeing their own resolutions and conflicts. A planned strike by unionized workers across the Victoria and Albert Museum’s four sites has been suspended following an improved management offer. Conversely, legal friction is intensifying as the Thyssen-Bornemisza Collection and the Norton Simon Museum challenge US statutes intended to aid the recovery of Nazi-looted art. On a celebratory note, Maison Martell unveiled its Martell Afrobeats collection in New York, featuring a limited-edition cognac bottle created by artist Prince Gyasi and singer Davido.",
+    "body": "The digital landscape is fracturing under the weight of artificial intelligence. The historic $6.3 billion Binance hack signals a perilous new era, with attackers leveraging AI and advanced techniques to siphon crypto at unprecedented scales. Simultaneously, the web's fundamental architecture is shifting. Reddit CEO Steve Huffman confirmed that Google’s AI-powered search modes fail to drive traffic to publishers, echoing industry-wide anxieties about the future of online discovery. Even as algorithms disrupt the digital economy, physical automation advances, evidenced by Boston Dynamics’ Spot demonstrating complex whole-body manipulation.\n\nAgainst this backdrop of technological upheaval, cultural and political institutions are forging new alliances while confronting historical ghosts. The Centre Pompidou, MoMA, and M+ have announced a landmark partnership linking Paris, New York, and Hong Kong to co-organize major exhibitions. Yet, institutional history remains contested; museums like the Norton Simon are mounting challenges against US statutes designed to aid the restitution of Nazi-looted art. On the political front, five crucial ballot proposals will determine whether local clean energy initiatives thrive or stall. In healthcare, a federal judge struck down narrow regulatory definitions of Medicaid \"frailty,\" protecting vulnerable populations, while lawmakers push the GAO to investigate the TrumpRx platform's actual savings.\n\nBeyond our immediate terrestrial concerns, scientific observation continues to yield profound discoveries. NASA’s James Webb Space Telescope released a striking mid-infrared image illuminating the intricate structures of the Cat’s Head Nebula. Closer to home, astronauts aboard the International Space Station are maintaining human traditions in orbit, celebrating Halloween 250 miles above Earth. Back on the ground, a landmark neuroscience study has revealed how premature birth fundamentally rewires cerebellar molecular programs—offering vital new insights into developmental delays.",
     "paragraphs": [
-      "The push for technological advancement is colliding with environmental and security realities. Driven by data center electricity demands, the US power sector could see planet-heating carbon dioxide pollution skyrocket by 42 percent by 2030 compared to 2025 as fossil fuel infrastructure expands. On the innovation front, AGIBOT introduced \"Worken\" to measure productive robot work alongside its AHA3 hardware platform and WITA-Omni 1.0 model. Yet digital vulnerabilities remain stark, highlighted by a hacking group called the Department of Peace leaking the details of over 41,000 US immigration agents. Beyond Earth, international cooperation continues as Vietnam becomes the 78th nation to sign the Artemis Accords for peaceful space exploration, while NASA invites the public to send their names to Saturn’s moon Titan aboard the Dragonfly mission.",
-      "In the biotech and healthcare sectors, regulatory transparency is a major focus. A new federal rule from the Trump administration will require pharmacy benefit managers to disclose secret compensation and fee data. Meanwhile, a House lawmaker has asked the Government Accountability Office to probe whether the TrumpRx platform has genuinely provided drug savings. Tensions are also rising at the state level, with Missouri’s Attorney General warning Eli Lilly to stop requiring claims data from hospitals seeking 340B discounted medicines. Shifting to human well-being, neuroscience sheds light on physical connection: a survey of 15,000 UK adults found that 70% remember hugs for comfort, influenced by empathy and attachment styles.",
-      "Cultural spheres are seeing their own resolutions and conflicts. A planned strike by unionized workers across the Victoria and Albert Museum’s four sites has been suspended following an improved management offer. Conversely, legal friction is intensifying as the Thyssen-Bornemisza Collection and the Norton Simon Museum challenge US statutes intended to aid the recovery of Nazi-looted art. On a celebratory note, Maison Martell unveiled its Martell Afrobeats collection in New York, featuring a limited-edition cognac bottle created by artist Prince Gyasi and singer Davido."
+      "The digital landscape is fracturing under the weight of artificial intelligence. The historic $6.3 billion Binance hack signals a perilous new era, with attackers leveraging AI and advanced techniques to siphon crypto at unprecedented scales. Simultaneously, the web's fundamental architecture is shifting. Reddit CEO Steve Huffman confirmed that Google’s AI-powered search modes fail to drive traffic to publishers, echoing industry-wide anxieties about the future of online discovery. Even as algorithms disrupt the digital economy, physical automation advances, evidenced by Boston Dynamics’ Spot demonstrating complex whole-body manipulation.",
+      "Against this backdrop of technological upheaval, cultural and political institutions are forging new alliances while confronting historical ghosts. The Centre Pompidou, MoMA, and M+ have announced a landmark partnership linking Paris, New York, and Hong Kong to co-organize major exhibitions. Yet, institutional history remains contested; museums like the Norton Simon are mounting challenges against US statutes designed to aid the restitution of Nazi-looted art. On the political front, five crucial ballot proposals will determine whether local clean energy initiatives thrive or stall. In healthcare, a federal judge struck down narrow regulatory definitions of Medicaid \"frailty,\" protecting vulnerable populations, while lawmakers push the GAO to investigate the TrumpRx platform's actual savings.",
+      "Beyond our immediate terrestrial concerns, scientific observation continues to yield profound discoveries. NASA’s James Webb Space Telescope released a striking mid-infrared image illuminating the intricate structures of the Cat’s Head Nebula. Closer to home, astronauts aboard the International Space Station are maintaining human traditions in orbit, celebrating Halloween 250 miles above Earth. Back on the ground, a landmark neuroscience study has revealed how premature birth fundamentally rewires cerebellar molecular programs—offering vital new insights into developmental delays."
     ],
-    "wordCount": 315,
-    "heroImage": "https://artsy-media-uploads.s3.amazonaws.com/TCBXP42Kxc24p9pcnKtmkg%2F992A1169_1500x1000.jpg",
-    "heroCredit": "Artist Prince Gyasi and singer Davido collaborate on limited-edition Martell cognac bottle.",
-    "heroSource": "Artsy",
-    "heroSourceUrl": "https://www.artsy.net/article/artsy-editorial-artist-prince-gyasi-singer-davido-collaborate-limited-edition-martell-cognac-bottle",
+    "wordCount": 272,
+    "heroImage": "https://neurosciencenews.com/files/2026/10/preterm-cerebral-development-neuroscience-1155x770.jpg",
+    "heroCredit": "Premature Birth Alters Cerebellar Wiring",
+    "heroSource": "Neuroscience News",
+    "heroSourceUrl": "https://neurosciencenews.com/premature-birth-cerebellar-wiring-32361/",
     "headlines": [
       {
-        "title": "Artist Prince Gyasi and singer Davido collaborate on limited-edition Martell cognac bottle.",
-        "source": "Artsy",
+        "title": "Centre Pompidou, MoMA, And M+ Announce New Cultural Alliance",
+        "source": "Artforum",
         "category": "art",
-        "sourceUrl": "https://www.artsy.net/article/artsy-editorial-artist-prince-gyasi-singer-davido-collaborate-limited-edition-martell-cognac-bottle",
-        "summary": "Artist Prince Gyasi and singer Davido have collaborated on a limited-edition Martell cognac bottle. Maison Martell unveiled its Martell Afrobeats collection this week in New York, marking the global launch of the new…",
-        "image": "https://artsy-media-uploads.s3.amazonaws.com/TCBXP42Kxc24p9pcnKtmkg%2F992A1169_1500x1000.jpg"
+        "sourceUrl": "https://www.artforum.com/news/centre-pompidou-moma-m-announce-new-cultural-alliance-1234762803/",
+        "summary": "Centre Pompidou, M+, and the Museum of Modern Art, have formed a new cultural alliance that links Paris, Hong Kong, and New York with plans to co-organize exhibitions and programs. The alliance will also involve…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/10/1_Joint-Portrait_press.jpeg?w=650"
       },
       {
-        "title": "STAT+: New federal rule will require prescription drug middlemen to share secret payments data",
-        "source": "STAT News",
-        "category": "biotech",
-        "sourceUrl": "https://www.statnews.com/2026/10/29/prescription-drug-price-reform-pbm-disclosure-rules-face-challenge/?utm_campaign=rss",
-        "summary": "A Trump administration rule will force pharmacy benefit managers to disclose fees and compensation details currently kept private.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/10/AdobeStock_437944817-1024x576.jpeg"
+        "title": "5 ballot proposals that could drive or derail clean energy",
+        "source": "Canary Media",
+        "category": "energy",
+        "sourceUrl": "https://www.canarymedia.com/articles/politics/ballot-proposals-clean-energy",
+        "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter. Sign up to get it every Friday. The midterm elections are upon us. While most of the country has its eyes on who will control Congress,…",
+        "image": "https://img.canarymedia.com/content/uploads/GettyImages-2301317478.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=65b96fc0f3d4d79b8cfa7f25f0dc6c01"
       },
       {
-        "title": "Data centers could send US climate pollution skyrocketing",
-        "source": "The Verge",
+        "title": "Binance’s $6.3 Billion Hack Is Just the Start of a Risky New Era",
+        "source": "NYT Technology",
         "category": "general",
-        "sourceUrl": "https://www.theverge.com/science/1022258/data-centers-climate-change-carbon-dioxide-pollution-gas",
-        "summary": "The US power sector could release 42 percent more planet-heating carbon dioxide pollution by 2030 than it did in 2025 as it builds out more fossil fuel infrastructure to meet data center electricity demand, according to…",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        "sourceUrl": "https://www.nytimes.com/2026/10/30/technology/binance-hack-ai-north-korea.html",
+        "summary": "The largest cyber heist in history came as attackers increasingly use artificial intelligence and other advanced techniques to steal crypto and quickly launder the funds.",
+        "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30biz-binance-lzht/30biz-binance-lzht-mediumSquareAt3X.jpg"
       },
       {
-        "title": "AGIBOT introduces Worken to measure productive robot work at AGIBOT Innovation Day 2026",
-        "source": "Robotics & Automation News",
+        "title": "Video Friday: Spot Plays to Show Its Whole Body Manipulation",
+        "source": "IEEE Spectrum",
         "category": "robotics",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/29/agibot-introduces-worken-to-measure-productive-robot-work-at-agibot-innovation-day-2026/106452/",
-        "summary": "AGIBOT unveils its AHA3 integrated hardware platform, GO-3 Preview and WITA-Omni 1.0 model, formally launches G2 Max and Link-U OS 1.0, and highlights real-world deployments AGIBOT has introduced Worken, a proposed…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/A.I.DAY-Panoramic-image.jpg"
+        "sourceUrl": "https://spectrum.ieee.org/video-friday-whole-body-manipulation",
+        "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us…",
+        "image": "https://spectrum.ieee.org/media-library/colorful-boston-dynamics-robot-dog-plays-with-a-tire-on-an-outdoor-basketball-court-while-someone-with-a-hockey-stick-interferes.webp?id=68558917&width=980"
       },
       {
-        "title": "Envía tu nombre a Titán a bordo de la misión Dragonfly de la NASA",
+        "title": "NASA's James Webb Space Telescope Captures Eerie Cat's Head",
         "source": "NASA",
         "category": "space",
-        "sourceUrl": "https://www.nasa.gov/news-release/envia-tu-nombre-a-titan-a-bordo-de-la-mision-dragonfly-de-la-nasa/",
-        "summary": "Read this release in English here. Puede que nunca llegues a surcar los cielos bajo las nubes o sobre las arenas orgánicas de la luna Titán de Saturno, ¡pero tu nombre sí puede hacerlo! La NASA invita al público a…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/10/27-10097-01j-hero-image-16-9-spanish-v01.jpg"
+        "sourceUrl": "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/",
+        "summary": "Intricate structures within the Cat's Head Nebula are illuminated in this mid-infrared view from NASA’s James Webb Space Telescope released on Oct. 29, 2026. The distinctive “cat’s head” shape of the nebula was likely…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/10/full-res-for-display.png"
+      },
+      {
+        "title": "November 2026 Opportunities: Open Calls, Residencies, and Grants for Artists",
+        "source": "Colossal",
+        "category": "art",
+        "sourceUrl": "https://www.thisiscolossal.com/2026/10/november-2026-opportunities-open-calls-residencies-and-grants-for-artists/",
+        "summary": "It's 2027 residency application season! Do stories and artists like this matter to you? Become a Colossal Member today and support independent arts publishing for as little as $7 per month. The article November 2026…",
+        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/monet.jpg"
+      },
+      {
+        "title": "STAT+: Federal judge rejects new Medicaid ‘frailty’ definition for work requirements",
+        "source": "STAT News",
+        "category": "biotech",
+        "sourceUrl": "https://www.statnews.com/2026/10/29/medicaid-work-requirements-judge-blocks-new-limits-medical-frailty/?utm_campaign=rss",
+        "summary": "A judge ruled that federal regulators exceeded their authority in narrowing the exceptions to Medicaid work requirements for people with medical issues.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/10/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_ryancoptrial1met-1024x576.jpg"
+      },
+      {
+        "title": "Reddit’s CEO says Google’s AI Mode ‘does not drive traffic’",
+        "source": "The Verge",
+        "category": "general",
+        "sourceUrl": "https://www.theverge.com/tech/1022848/reddit-ceo-google-ai-mode-traffic",
+        "summary": "Reddit CEO Steve Huffman said in an earnings call today that Google's AI-powered search modes do not help with traffic to the platform, echoing problems facing other websites and publishers. As part of its Q3 2026…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK115_Reddit_01.jpg.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+      },
+      {
+        "title": "Premature Birth Alters Cerebellar Wiring",
+        "source": "Neuroscience News",
+        "category": "neuroscience",
+        "sourceUrl": "https://neurosciencenews.com/premature-birth-cerebellar-wiring-32361/",
+        "summary": "Why do premature infants face motor and language delays even without brain injuries? A landmark Science study led by Children's National reveals that developing outside the womb rewires the molecular programs of…",
+        "image": "https://neurosciencenews.com/files/2026/10/preterm-cerebral-development-neuroscience-1155x770.jpg"
+      },
+      {
+        "title": "Halloween Aboard the International Space Station",
+        "source": "NASA",
+        "category": "space",
+        "sourceUrl": "https://www.nasa.gov/centers-and-facilities/johnson/halloween-aboard-the-international-space-station/",
+        "summary": "Although no ghouls, goblins, or trick-or-treaters come knocking at the International Space Station’s front hatch, crew members aboard the orbiting laboratory still like to get in the Halloween spirit. Whether…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2025/11/iss057e057509.jpg"
       },
       {
         "title": "Challenges mounting to US laws enacted to aid recovery of Nazi-looted art",
@@ -75,52 +115,33 @@
         "sourceUrl": "https://www.statnews.com/pharmalot/2026/10/28/lawmaker-wants-gao-probe-trumprx-drug-pricing/?utm_campaign=rss",
         "summary": "A House lawmaker asked the Government Accountability Office to review whether the TrumpRx platform has saved Americans any money.",
         "image": "https://www.statnews.com/wp-content/uploads/2026/03/GettyImages-2259515105-1024x576.jpg"
-      },
-      {
-        "title": "Details of thousands of US immigration agents leaked in major hack",
-        "source": "BBC Technology",
-        "category": "general",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
-        "summary": "A group called the Department of Peace released information on more than 41,000 DHS staff.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c03/live/2996f1b0-d318-11f1-ba7d-b5eab6da6837.jpg"
-      },
-      {
-        "title": "Why Some People Love Hugs While Others Hate Them",
-        "source": "Neuroscience News",
-        "category": "neuroscience",
-        "sourceUrl": "https://neurosciencenews.com/hugs-emotion-empathy-psychology-32356/",
-        "summary": "Why do some hugs stay with us while others fade away? A survey of more than 15,000 UK adults published in PLOS One shows that 70% remember hugs for comfort, with empathy, relationship attachment styles, and body…",
-        "image": "https://neurosciencenews.com/files/2026/10/hug-emotion-empathy-social-neuroscience-1155x770.jpg"
-      },
-      {
-        "title": "NASA Welcomes Vietnam as Newest Artemis Accords Signatory",
-        "source": "NASA",
-        "category": "space",
-        "sourceUrl": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-vietnam-as-newest-artemis-accords-signatory/",
-        "summary": "The Socialist Republic of Vietnam became the 78th nation to sign the Artemis Accords, joining a growing coalition of like-minded nations committed to the peaceful, transparent, and responsible exploration of space.…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/10/artemis-accords-vietnam-78-102826.jpg"
-      },
-      {
-        "title": "V&A Workers Call Off Strike",
-        "source": "Artforum",
-        "category": "art",
-        "sourceUrl": "https://www.artforum.com/news/v-and-a-workers-call-off-strike-1234762305/",
-        "summary": "A planned strike across all four Victoria and Albert Museum (V&A) sites has been suspended after unionized staff received an improved offer from management. Staffers who are members of the Prospect and Public and…",
-        "image": "https://www.artforum.com/wp-content/uploads/2025/11/DESIGN-2025-1.jpg?w=650"
-      },
-      {
-        "title": "STAT+: Missouri AG warns Lilly to stop requiring data from hospitals seeking 340B drug discounts",
-        "source": "STAT News",
-        "category": "biotech",
-        "sourceUrl": "https://www.statnews.com/pharmalot/2026/10/27/missouri-ag-warns-lilly-340b-drug-pricing-data/?utm_campaign=rss",
-        "summary": "Missouri AG told Lilly to stop forcing hospitals to provide claims data to receive discounted medicines under 340B, a sign more states are pushing back against drugmakers.",
-        "image": "https://www.statnews.com/wp-content/uploads/2025/08/GettyImages-2092473213-1024x576.jpg"
       }
     ],
-    "publishedAt": "2026-10-29T19:52:05.570Z"
+    "publishedAt": "2026-10-30T21:17:42.038Z"
   },
   "drafts": {},
   "history": [
+    {
+      "id": "ed_2026-10-30",
+      "publishDate": "2026-10-30",
+      "status": "published",
+      "updatedAt": "2026-10-30T21:17:42.038Z",
+      "title": "Progress and Peril in a Hyperconnected Age",
+      "dek": "Institutions unite as AI disrupts the digital economy.",
+      "authorName": "Dr. Wallace Lynch",
+      "authorTitle": "Editor in Chief",
+      "paragraphs": [
+        "The digital landscape is fracturing under the weight of artificial intelligence. The historic $6.3 billion Binance hack signals a perilous new era, with attackers leveraging AI and advanced techniques to siphon crypto at unprecedented scales. Simultaneously, the web's fundamental architecture is shifting. Reddit CEO Steve Huffman confirmed that Google’s AI-powered search modes fail to drive traffic to publishers, echoing industry-wide anxieties about the future of online discovery. Even as algorithms disrupt the digital economy, physical automation advances, evidenced by Boston Dynamics’ Spot demonstrating complex whole-body manipulation.",
+        "Against this backdrop of technological upheaval, cultural and political institutions are forging new alliances while confronting historical ghosts. The Centre Pompidou, MoMA, and M+ have announced a landmark partnership linking Paris, New York, and Hong Kong to co-organize major exhibitions. Yet, institutional history remains contested; museums like the Norton Simon are mounting challenges against US statutes designed to aid the restitution of Nazi-looted art. On the political front, five crucial ballot proposals will determine whether local clean energy initiatives thrive or stall. In healthcare, a federal judge struck down narrow regulatory definitions of Medicaid \"frailty,\" protecting vulnerable populations, while lawmakers push the GAO to investigate the TrumpRx platform's actual savings.",
+        "Beyond our immediate terrestrial concerns, scientific observation continues to yield profound discoveries. NASA’s James Webb Space Telescope released a striking mid-infrared image illuminating the intricate structures of the Cat’s Head Nebula. Closer to home, astronauts aboard the International Space Station are maintaining human traditions in orbit, celebrating Halloween 250 miles above Earth. Back on the ground, a landmark neuroscience study has revealed how premature birth fundamentally rewires cerebellar molecular programs—offering vital new insights into developmental delays."
+      ],
+      "wordCount": 272,
+      "heroImage": "https://neurosciencenews.com/files/2026/10/preterm-cerebral-development-neuroscience-1155x770.jpg",
+      "heroCredit": "Premature Birth Alters Cerebellar Wiring",
+      "heroSource": "Neuroscience News",
+      "heroSourceUrl": "https://neurosciencenews.com/premature-birth-cerebellar-wiring-32361/",
+      "publishedAt": "2026-10-30T21:17:42.038Z"
+    },
     {
       "id": "ed_2026-10-29",
       "publishDate": "2026-10-29",
@@ -1486,31 +1507,6 @@
       "heroSource": "WIRED",
       "heroSourceUrl": "https://www.wired.com/story/the-sharpest-image-ever-taken-of-the-sun-reveals-a-beautiful-hidden-phenomenon/",
       "publishedAt": "2026-08-08T20:15:00.706Z"
-    },
-    {
-      "id": "ed_2026-08-07",
-      "publishDate": "2026-08-07",
-      "status": "published",
-      "updatedAt": "2026-08-08T01:30:06.544Z",
-      "title": "What we restore under light, and what still leaves in the dark",
-      "dek": "Convergence of repaired rooms and contested origins",
-      "authorName": "Dr. Wallace Lynch",
-      "authorTitle": "Editor in Chief",
-      "paragraphs": [
-        "The gallery names what it will keep. The Uffizi announces a fifty eight million dollar plan to restore the Uffizi Gallery, Palazzo Pitti, and the Boboli Gardens over two years. Elsewhere in Italy, thieves take four point six million dollars in art from a fuel company headquarters in an overnight raid. One room is rebuilt in public. Another is emptied before morning. Value is not only price. It is whether care arrives before the break.",
-        "On Friday, August 7, 2026, we hold that pressure to one line: what we claim to reconnect, and what still slips the ledger.",
-        "Energy answers with tax and fission. New solar tariffs promise higher install costs and a push to reshore manufacturing. Oklo, a small modular reactor firm, reports splitting its first atoms in a test reactor. The clean future is both tariff and neutron. Europe’s free Copernicus service makes wildfire tracking easier as the season breaks records. A public satellite eye meets a private flame.",
-        "The brain offers two maps of connection. A study of psychedelics describes apical hypercontextualisation: serotonin work on layer V neurons that shifts processing from raw sense toward associative context, so everything feels deeply linked. Another study shows exercise releasing muscle derived exerkines that shield dopamine neurons and counter sarcopenia in Parkinson’s disease. One path floods context. The other protects the cell that must keep firing.",
-        "Space installs new chiefs. The Senate places Erich Hernandez-Baquero over military space acquisition and Roger Mason over the National Reconnaissance Office. NASA prepares Hyperwall storytelling for Earth science at IGARSS 2026. The sky is both sensor and command.",
-        "The feed and the chamber argue origin and authorship. An opinion holds that Fauci does not hold the answers on Covid’s origins, and that China does. A Senate committee has already voted along party lines to hold him in contempt. In music, Fenix Flexin no longer denies using AI on Rubberz after a producer’s claim about a tool called Treblo. Connection can be chemistry, policy, or a model that finishes the bar.",
-        "Convergence is not a softer word for togetherness. It is whether we restore the room, price the power, guard the neuron, and name the true author when the dark still takes what it can."
-      ],
-      "wordCount": 370,
-      "heroImage": "https://img.canarymedia.com/content/uploads/Trump-and-Lutnick-polysilcon-announcement_GettyImages-2288526842.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=692c59fa6178001ae8dfd9660615e7fd",
-      "heroCredit": "Trump launched big new solar tariffs. Here's what it means.",
-      "heroSource": "Canary Media",
-      "heroSourceUrl": "https://www.canarymedia.com/articles/solar/trump-new-solar-tariffs",
-      "publishedAt": "2026-08-08T01:30:06.544Z"
     }
   ],
   "usedHeroImages": [
@@ -1775,6 +1771,7 @@
     "https://www.statnews.com/wp-content/uploads/2026/06/GettyImages-2237096018-1024x576.jpg",
     "https://media.wired.com/photos/6adfd0bd71d0e77d5637708d/master/pass/MCDODYS_UV008.jpg",
     "https://artsy-media-uploads.s3.amazonaws.com/uBpoQZcDvBxqLR-aTou65Q%2FMAG_Courtesy+of+the+Estate+of+Teruko+Yokoi.+Image+1+of+Teruko+in+her+studio+at+Hotel+Chelsea+in+1959.+Image+credit+Charles+Gimpel_1500x1000.jpg",
-    "https://artsy-media-uploads.s3.amazonaws.com/TCBXP42Kxc24p9pcnKtmkg%2F992A1169_1500x1000.jpg"
+    "https://artsy-media-uploads.s3.amazonaws.com/TCBXP42Kxc24p9pcnKtmkg%2F992A1169_1500x1000.jpg",
+    "https://neurosciencenews.com/files/2026/10/preterm-cerebral-development-neuroscience-1155x770.jpg"
   ]
 }
