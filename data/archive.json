@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-10-30T03-03",
+    "scannedAt": "2026-10-30T03:03:27.309Z",
+    "items": [
+      {
+        "id": "auto_2026-10-30T03-03_1",
+        "rank": 1,
+        "title": "Binance says crypto worth $6.3bn impacted in suspected hack",
+        "category": "general",
+        "summary": "The firm said roughly $3bn in assets have been frozen and that it will 'cover all losses'.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a4c/live/ee32b970-d406-11f1-b5d5-035446124886.jpg",
+        "source": "BBC Technology",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-30T03-03_2",
+        "rank": 2,
+        "title": "Ebony L. Haynes Named Senior Director at Marian Goodman in Leadership Shakeup",
+        "category": "art",
+        "summary": "Marian Goodman Gallery in New York has hired curator Ebony L. Haynes as senior director, global head of curatorial affairs. Haynes, who will join the gallery in late November, is the first person to occupy the newly…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/10/haynes-goodman.jpg?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/news/ebony-haynes-named-senior-director-at-marian-goodman-1234762714/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-30T03-03_3",
+        "rank": 3,
+        "title": "New Transporter Bypasses Blood-Brain Barrier to Deliver Creatine",
+        "category": "neuroscience",
+        "summary": "How can drugs bypass the brain's tightest security checkpoint? Researchers at the University of Eastern Finland discovered that hijacking the sodium-dependent multivitamin transporter (SMVT) allows creatine derivatives…",
+        "image": "https://neurosciencenews.com/files/2026/10/creatine-transportation-bbb-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/bbb-transporter-ceatine-neurology-32360/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-30T03-03_4",
+        "rank": 4,
+        "title": "California’s long road to make EV charging more reliable",
+        "category": "energy",
+        "summary": "This is California Wire , a weekly newsletter from Jeff St. John on the state’s clean energy transition. Subscribe to get it every Thursday via Substack. Welcome back to California Wire! Today’s topic is public EV…",
+        "image": "https://img.canarymedia.com/content/uploads/CW-EVchargers-16.9.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=dce0d278a5099f7ced57c9d815b3843f",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/ev-charging/california-ev-charging-reliable",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-30T03-03_5",
+        "rank": 5,
+        "title": "AGIBOT introduces Worken to measure productive robot work at AGIBOT Innovation Day 2026",
+        "category": "robotics",
+        "summary": "AGIBOT unveils its AHA3 integrated hardware platform, GO-3 Preview and WITA-Omni 1.0 model, formally launches G2 Max and Link-U OS 1.0, and highlights real-world deployments AGIBOT has introduced Worken, a proposed…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/A.I.DAY-Panoramic-image.jpg",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/29/agibot-introduces-worken-to-measure-productive-robot-work-at-agibot-innovation-day-2026/106452/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-10-29T23-39",
     "scannedAt": "2026-10-29T23:39:47.943Z",
     "items": [
