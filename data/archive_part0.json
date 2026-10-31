@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-10-31T02-50",
+    "scannedAt": "2026-10-31T02:50:47.275Z",
+    "items": [
+      {
+        "id": "auto_2026-10-31T02-50_1",
+        "rank": 1,
+        "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+        "category": "general",
+        "summary": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b98/live/c9241530-d4aa-11f1-b441-2b33b063138f.jpg",
+        "source": "BBC Technology",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-31T02-50_2",
+        "rank": 2,
+        "title": "Why Automated Cells Are Pulling Inspection Onto the Shop Floor",
+        "category": "robotics",
+        "summary": "Key Points Factories installed 542,000 industrial robots in 2024, more than double the number a decade earlier, according to the International Federation of Robotics. As cells run longer and with fewer people, many…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/worker-checking-part-1.png",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/30/why-automated-cells-are-pulling-inspection-onto-the-shop-floor/106560/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-31T02-50_3",
+        "rank": 3,
+        "title": "Art Toronto reflects Canadian art community’s focus on sustaining domestic ecosystem",
+        "category": "art",
+        "summary": "With around 80% of its exhibitors based in Canada, this edition of the country’s biggest art fair reflects the current “elbows up” attitude of a nation embroiled in a trade war with its neighbour",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/196fd4420de4a7c8036d52cd7dd272ea0e8e48c8-2000x3000.jpg?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/10/30/art-toronto-fair-report-canadian-art-focus",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-31T02-50_4",
+        "rank": 4,
+        "title": "How Your Brain Saves Nostalgia From Scandals",
+        "category": "neuroscience",
+        "summary": "Can you separate the art from the artist? A new study shows our brains do it automatically: when a beloved creator falls from grace, memory performs \"moral surgery,\" downgrading the person while protecting nostalgic…",
+        "image": "https://neurosciencenews.com/files/2026/10/artist-art-nostalgia-cognitive-dissonance-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/cognitive-dissonance-artists-nostalgia-32364/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-31T02-50_5",
+        "rank": 5,
+        "title": "ESI supplying solar array components to missile defense programs",
+        "category": "space",
+        "summary": "Oct. 30, 2026 – ESI Motion Inc. is proud to announce that it is supplying the Solar Array Drive Electronics (SADE) to Lockheed Martin for its work on the Space […] The post ESI supplying solar array components to…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/ESI-Motion-Square-Logo-Blue-PNG.png?fit=969%2C1024&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/esi-supplying-solar-array-components-to-missile-defense-programs/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-10-30T23-18",
     "scannedAt": "2026-10-30T23:18:59.505Z",
     "items": [
@@ -2610,67 +2671,6 @@
         "image": "https://www.artforum.com/wp-content/uploads/2026/09/ICE-portrait.jpeg?w=650",
         "source": "Artforum",
         "sourceUrl": "https://www.artforum.com/news/imelda-cajipe-endaya-national-artist-of-the-philippines-1234759887/",
-        "fromX": false
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-09-25T22-51",
-    "scannedAt": "2026-09-25T22:51:07.537Z",
-    "items": [
-      {
-        "id": "auto_2026-09-25T22-51_1",
-        "rank": 1,
-        "title": "OpenAI investigating 'dozens' of instances of agents acting improperly",
-        "category": "general",
-        "summary": "OpenAI agents tried to get information from \"governments, universities, public agencies, and other institutions\" through extreme means that sometimes curbed security controls, the company said.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15a2/live/55e1dbb0-b930-11f1-902b-af1a6d672907.jpg",
-        "source": "BBC Technology",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-25T22-51_2",
-        "rank": 2,
-        "title": "NASA, Boeing to Provide Update on Starliner Development",
-        "category": "space",
-        "summary": "During a news conference at 3 p.m. EDT on Monday, Sept. 28, NASA and Boeing leadership will discuss Starliner’s development and plans for regular crew flights to and from the International Space Station. Learn where to…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/09/starliner.jpg",
-        "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/news-release/nasa-boeing-to-provide-update-on-starliner-development/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-25T22-51_3",
-        "rank": 3,
-        "title": "Switzerland’s Fondation Beyeler opens £109.7m expansion",
-        "category": "art",
-        "summary": "The Basel institution has added three new structures designed by the Swiss architect Peter Zumthor, while also extending its grounds",
-        "image": "https://cdn.sanity.io/images/cxgd3urn/production/3aa5b25036af8d509e23581c5cb71c79856f9d7c-1024x768.jpg?w=140",
-        "source": "The Art Newspaper",
-        "sourceUrl": "https://www.theartnewspaper.com/2026/09/25/fondation-beyeler-basel-switzerland-peter-zumthor-expansion",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-25T22-51_4",
-        "rank": 4,
-        "title": "Molecular Link Between Menopause and Alzheimer’s Risk",
-        "category": "neuroscience",
-        "summary": "Scientists discover 16 blood molecules that surge during menopause and predict Alzheimer’s risk and cognitive decline decades later.",
-        "image": "https://neurosciencenews.com/files/2026/09/Menopause-Transition-May-Hold-the-Key-to-Dementia-Risk-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/molecular-link-between-menopause-and-alzheimers-risk/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-25T22-51_5",
-        "rank": 5,
-        "title": "The challenges and opportunities of clean energy in rural America",
-        "category": "energy",
-        "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter. Sign up to get it every Friday. The U.S. energy transition runs through rural America: As of last year, 87% of U.S. clean energy generation…",
-        "image": "https://img.canarymedia.com/content/uploads/Idaho-farm-for-Weekly_260702r2-8536.webp?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=80&w=1200&s=4f8c1e4ecdc3e2b466bb8a621fb1be66",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/land-use/challenges-opportunities-clean-energy-rural-america",
         "fromX": false
       }
     ]

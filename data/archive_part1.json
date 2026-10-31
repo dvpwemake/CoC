@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-09-25T22-51",
+    "scannedAt": "2026-09-25T22:51:07.537Z",
+    "items": [
+      {
+        "id": "auto_2026-09-25T22-51_1",
+        "rank": 1,
+        "title": "OpenAI investigating 'dozens' of instances of agents acting improperly",
+        "category": "general",
+        "summary": "OpenAI agents tried to get information from \"governments, universities, public agencies, and other institutions\" through extreme means that sometimes curbed security controls, the company said.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15a2/live/55e1dbb0-b930-11f1-902b-af1a6d672907.jpg",
+        "source": "BBC Technology",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-25T22-51_2",
+        "rank": 2,
+        "title": "NASA, Boeing to Provide Update on Starliner Development",
+        "category": "space",
+        "summary": "During a news conference at 3 p.m. EDT on Monday, Sept. 28, NASA and Boeing leadership will discuss Starliner’s development and plans for regular crew flights to and from the International Space Station. Learn where to…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/09/starliner.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/news-release/nasa-boeing-to-provide-update-on-starliner-development/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-25T22-51_3",
+        "rank": 3,
+        "title": "Switzerland’s Fondation Beyeler opens £109.7m expansion",
+        "category": "art",
+        "summary": "The Basel institution has added three new structures designed by the Swiss architect Peter Zumthor, while also extending its grounds",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/3aa5b25036af8d509e23581c5cb71c79856f9d7c-1024x768.jpg?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/09/25/fondation-beyeler-basel-switzerland-peter-zumthor-expansion",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-25T22-51_4",
+        "rank": 4,
+        "title": "Molecular Link Between Menopause and Alzheimer’s Risk",
+        "category": "neuroscience",
+        "summary": "Scientists discover 16 blood molecules that surge during menopause and predict Alzheimer’s risk and cognitive decline decades later.",
+        "image": "https://neurosciencenews.com/files/2026/09/Menopause-Transition-May-Hold-the-Key-to-Dementia-Risk-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/molecular-link-between-menopause-and-alzheimers-risk/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-25T22-51_5",
+        "rank": 5,
+        "title": "The challenges and opportunities of clean energy in rural America",
+        "category": "energy",
+        "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter. Sign up to get it every Friday. The U.S. energy transition runs through rural America: As of last year, 87% of U.S. clean energy generation…",
+        "image": "https://img.canarymedia.com/content/uploads/Idaho-farm-for-Weekly_260702r2-8536.webp?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=80&w=1200&s=4f8c1e4ecdc3e2b466bb8a621fb1be66",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/land-use/challenges-opportunities-clean-energy-rural-america",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "editorial_2026-09-25",
     "scannedAt": "2026-09-25T05:20:24.133Z",
     "kind": "editorial_archive",
@@ -2569,26 +2630,6 @@
         "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-22.html",
         "isEditorialArchive": true,
         "publishDate": "2026-08-22",
-        "authorName": "Dr. Wallace Lynch"
-      }
-    ]
-  },
-  {
-    "batchId": "editorial_2026-08-21",
-    "scannedAt": "2026-08-22T05:01:16.146Z",
-    "kind": "editorial_archive",
-    "items": [
-      {
-        "id": "editorial_2026-08-21",
-        "rank": 0,
-        "title": "Totality, then the furnace",
-        "category": "editorial",
-        "summary": "The sun’s outer air, and a 500 million dollar turn back to coal",
-        "image": "https://img.canarymedia.com/content/uploads/Middletown-Ohio-Cliffs-workers-August-2026_GettyImages-2290802933.jpg?auto=compress%2Cformat&w=1200",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-21.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-08-21",
         "authorName": "Dr. Wallace Lynch"
       }
     ]
