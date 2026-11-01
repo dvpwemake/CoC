@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-11-01T02-43",
+    "scannedAt": "2026-11-01T02:43:10.407Z",
+    "items": [
+      {
+        "id": "auto_2026-11-01T02-43_1",
+        "rank": 1,
+        "title": "These firms you've never heard of are feeding fears the AI bubble could burst",
+        "category": "general",
+        "summary": "The amount of debt held by data centres is measured in the tens of billions of pounds.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16f5/live/d2c08770-d493-11f1-93e1-3b657b665bcf.jpg",
+        "source": "BBC Technology",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-01T02-43_2",
+        "rank": 2,
+        "title": "STAT+: What are the health stakes of the midterms? Policymakers, lobbyists, and experts weigh in",
+        "category": "biotech",
+        "summary": "No matter what happens on Election Day, the midterms will have sweeping implications for American health care. More than two dozen experts on what could come next.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/10/GettyImages-2278723692-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/10/31/midterm-election-tipping-point-healthcare-policy/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-01T02-43_3",
+        "rank": 3,
+        "title": "Foundry Robotics raises $100 million to build ‘America’s first autonomous factory for assembly’",
+        "category": "robotics",
+        "summary": "Foundry Robotics has announced its oversubscribed $100 million Series A funding round led by Marlinspike Partners. Participating in the round are early backers Khosla Ventures and Red Glass Ventures, and new investors…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/Foundry-Robotics-1.jpg",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/31/foundry-robotics-raises-100-million-to-build-americas-first-autonomous-factory-for-assembly/106564/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-01T02-43_4",
+        "rank": 4,
+        "title": "Scientists smash oxygen nuclei to recreate matter from the Big Bang",
+        "category": "space",
+        "summary": "Scientists have recreated a primordial state of matter from the dawn of the universe by colliding oxygen nuclei at nearly the speed of light. The surprising results show that this exotic substance can form in smaller,…",
+        "image": "https://www.sciencedaily.com/images/1920/back-to-back-jets-produced-in-quark-gluon-plasma.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261030002935.htm",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-01T02-43_5",
+        "rank": 5,
+        "title": "A simple blood test could reveal Alzheimer’s risk 10 years before symptoms",
+        "category": "neuroscience",
+        "summary": "A major international study found that a simple blood test could help predict Alzheimer’s-related cognitive decline years before symptoms appear, with the highest-risk individuals facing a 38% chance of impairment…",
+        "image": "https://www.sciencedaily.com/images/1920/alzheimers-disease-blood-test-tube.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261029072142.htm",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-10-31T22-52",
     "scannedAt": "2026-10-31T22:52:32.853Z",
     "items": [
