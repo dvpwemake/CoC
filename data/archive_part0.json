@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-11-02T02-51",
+    "scannedAt": "2026-11-02T02:51:30.276Z",
+    "items": [
+      {
+        "id": "auto_2026-11-02T02-51_1",
+        "rank": 1,
+        "title": "Binance users withdraw $3.6bn after record crypto hack",
+        "category": "general",
+        "summary": "The exchange froze transactions in the wake of the incident, which impacted $6.3bn worth of digital assets.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a7f/live/ad865b20-d64f-11f1-a701-fddedf244c16.jpg",
+        "source": "BBC Technology",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-02T02-51_2",
+        "rank": 2,
+        "title": "Measles made a stealthy return as another virus took the spotlight",
+        "category": "biotech",
+        "summary": "Nature, Published online: 02 November 2026; doi:10.1038/d41586-026-03387-3 Vaccination rates dropped after the COVID-19 pandemic disrupted public-health programmes and their funding.",
+        "image": "",
+        "source": "Nature",
+        "sourceUrl": "https://www.nature.com/articles/d41586-026-03387-3",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-02T02-51_3",
+        "rank": 3,
+        "title": "Scientists discover a surprising brain benefit of eating peanuts every day",
+        "category": "neuroscience",
+        "summary": "A surprising new study suggests that eating peanuts every day could help support brain health and memory in older adults. Researchers found that consuming about two servings of unsalted, skin-roasted peanuts daily for…",
+        "image": "https://www.sciencedaily.com/images/1920/neuroscience-brain-boost-glow.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261030003001.htm",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-02T02-51_4",
+        "rank": 4,
+        "title": "Scientists shrink Archimedes’ screw to the size of a single molecule",
+        "category": "energy",
+        "summary": "Scientists have built a groundbreaking molecular motor that spins in either direction using electricity, inspired by a machine invented more than 2,000 years ago. Even more remarkably, its rotation can boost electrical…",
+        "image": "https://www.sciencedaily.com/images/1920/archimedes-screw-molecular-motor.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261030002940.htm",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-02T02-51_5",
+        "rank": 5,
+        "title": "Future Nostalgia",
+        "category": "art",
+        "summary": "Benjamin Paul on the emancipatory dimension of nostalgia",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/10/Tate-Britain-Commission-Zineb-Sedira-When-Words-Fall-Silent-Cinema-Speaks.-Photo-Tate-Joe-Humphrys.jpg?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/columns/benjamin-paul-future-nostalgia-1234762572/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-11-01T23-09",
     "scannedAt": "2026-11-01T23:09:42.720Z",
     "items": [
