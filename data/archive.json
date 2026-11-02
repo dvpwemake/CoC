@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-11-02T11-43",
-    "scannedAt": "2026-11-02T11:43:37.699Z",
+    "batchId": "auto_2026-11-02T20-54",
+    "scannedAt": "2026-11-02T20:54:41.966Z",
     "items": [
       {
-        "id": "auto_2026-11-02T11-43_1",
+        "id": "auto_2026-11-02T20-54_1",
         "rank": 1,
-        "title": "BMW and Embotech move ‘1 million vehicles using automated driving technology’",
-        "category": "robotics",
-        "summary": "Embotech and BMW Group say they have moved “1 million vehicles using automated driving technology” across four BMW Group production sites in the UK and Germany, marking a major milestone in the use of Automated Driving…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/bmw-embotech-automated-parking-2.jpg",
-        "source": "Robotics & Automation News",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/11/02/bmw-and-embotech-move-1-million-vehicles-using-automated-driving-technology/106598/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-11-02T11-43_2",
-        "rank": 2,
-        "title": "Want to Sign With a Hollywood Agent? Start Making Fun of AI",
-        "category": "general",
-        "summary": "Even as studios incorporate generative tech into film and TV production, comedy content creators have broken through by roasting chatbots.",
-        "image": "https://media.wired.com/photos/6abd93babaed9055bd40abc5/master/pass/culture_comedian_trolling_ai_interviewers.jpg",
-        "source": "WIRED",
-        "sourceUrl": "https://www.wired.com/story/comedians-making-fun-of-ai/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-11-02T11-43_3",
-        "rank": 3,
-        "title": "‘Mariko Mori anticipated the zeitgeist’: curator Alexandra Monroe on her new show and how Japan's art scene has changed",
-        "category": "art",
-        "summary": "The US curator who helped shape the narrative of Japan’s post-war art has returned to Tokyo to collaborate on a show by the acclaimed artist",
-        "image": "https://cdn.sanity.io/images/cxgd3urn/production/c098a47d0b69d88e0f3b57765c25b15d0cc08ed9-575x886.jpg?w=140",
-        "source": "The Art Newspaper",
-        "sourceUrl": "https://www.theartnewspaper.com/2026/11/02/mariko-mori-anticipated-the-zeitgeist-curator-alexandra-monroe-on-her-new-show-and-how-japans-art-scene-has-changed",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-11-02T11-43_4",
-        "rank": 4,
-        "title": "The agentic web is here",
-        "category": "ai",
-        "summary": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MAIN-top.jpg?resize=1200,600",
-        "source": "MIT Technology Review",
-        "sourceUrl": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-11-02T11-43_5",
-        "rank": 5,
-        "title": "Are you pursuing MRT as a treatment for infertility?",
+        "title": "Washington state resident dies from bird flu following exposure to infected cattle",
         "category": "biotech",
-        "summary": "Are you pursuing MRT as a treatment for infertility? STAT wants to hear from you",
-        "image": "https://www.statnews.com/wp-content/uploads/2023/06/STAT-Meta-Image-1-1024x576.png",
+        "summary": "A person in Washington state has died from complications of the bird flu, the first such U.S. death in a year.",
+        "image": "https://www.statnews.com/wp-content/uploads/2024/05/53611629022_20178ff81e_o-1024x576.jpg",
         "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/11/02/mrt-fertility-treatment-advanced-maternal-age-three-parent-ivf-reader-callout/?utm_campaign=rss",
+        "sourceUrl": "https://www.statnews.com/2026/11/02/bird-flu-washington-state-resident-dies-infected-cattle-exposure/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-02T20-54_2",
+        "rank": 2,
+        "title": "One of Google's Android partners turned 1.3 million set-top boxes into a botnet",
+        "category": "general",
+        "summary": "Google says one of its Android manufacturing partners secretly built a backdoor in 1.3 million devices and turned them into a botnet. The company says it has now dismantled the backdoor and \"cut ties\" with the…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK093_Google_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "sourceUrl": "https://www.theverge.com/tech/1024807/google-botnet-android-tv-shut-down",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-02T20-54_3",
+        "rank": 3,
+        "title": "Dealers At Art Basel Paris Seek Compensation For Early Fair Closure",
+        "category": "art",
+        "summary": "Participating exhibitors at Art Basel Paris are demanding compensation for the fair closing two days early on October 23 due to security concerns over planned protests the next day. The fair was scheduled to take place…",
+        "image": "https://www.artforum.com/wp-content/uploads/2024/10/Basel-2024.jpeg?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/news/dealers-art-basel-paris-seek-compensation-early-closure-1234762893/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-02T20-54_4",
+        "rank": 4,
+        "title": "Brain Circuit Pruned to Make Wild Foxes Friendly",
+        "category": "neuroscience",
+        "summary": "How did wild foxes become cuddly companions in just generations? Researchers examining Belyaev's famous Siberian silver foxes discovered that domesticated foxes have fewer estrogen receptor alpha neurons in the…",
+        "image": "https://neurosciencenews.com/files/2026/11/domesticated-foxes-neural-pruning-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/ventromedial-hypothalamus-pruning-domestication-32373/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-02T20-54_5",
+        "rank": 5,
+        "title": "Opinion: What happens when the robot is wrong?",
+        "category": "robotics",
+        "summary": "By Gleb Tsipursky, PhD, CEO, Disaster Avoidance Experts A new industrial robot can meet its cycle-time target and still fail its most important workplace test: what happens when an experienced operator believes the…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/man-welds-robot-1.jpeg",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/11/02/opinion-what-happens-when-the-robot-is-wrong/106641/",
         "fromX": false
       }
     ]
