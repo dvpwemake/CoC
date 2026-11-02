@@ -1,126 +1,149 @@
 {
   "published": {
-    "id": "ed_2026-10-30",
-    "publishDate": "2026-10-30",
+    "id": "ed_2026-11-02",
+    "publishDate": "2026-11-02",
     "status": "published",
-    "updatedAt": "2026-10-30T21:19:05.637Z",
-    "title": "Progress and Peril in a Hyperconnected Age",
-    "dek": "Institutions unite as AI disrupts the digital economy.",
+    "updatedAt": "2026-11-02T07:00:17.555Z",
+    "title": "The Architecture of Survival",
+    "dek": "From cosmic origins to collapsing crypto, systems crave preservation.",
     "authorName": "Dr. Wallace Lynch",
     "authorTitle": "Editor in Chief",
-    "body": "The digital landscape is fracturing under the weight of artificial intelligence. The historic $6.3 billion Binance hack signals a perilous new era, with attackers leveraging AI and advanced techniques to siphon crypto at unprecedented scales. Simultaneously, the web's fundamental architecture is shifting. Reddit CEO Steve Huffman confirmed that Google’s AI-powered search modes fail to drive traffic to publishers, echoing industry-wide anxieties about the future of online discovery. Even as algorithms disrupt the digital economy, physical automation advances, evidenced by Boston Dynamics’ Spot demonstrating complex whole-body manipulation.\n\nAgainst this backdrop of technological upheaval, cultural and political institutions are forging new alliances while confronting historical ghosts. The Centre Pompidou, MoMA, and M+ have announced a landmark partnership linking Paris, New York, and Hong Kong to co-organize major exhibitions. Yet, institutional history remains contested; museums like the Norton Simon are mounting challenges against US statutes designed to aid the restitution of Nazi-looted art. On the political front, five crucial ballot proposals will determine whether local clean energy initiatives thrive or stall. In healthcare, a federal judge struck down narrow regulatory definitions of Medicaid \"frailty,\" protecting vulnerable populations, while lawmakers push the GAO to investigate the TrumpRx platform's actual savings.\n\nBeyond our immediate terrestrial concerns, scientific observation continues to yield profound discoveries. NASA’s James Webb Space Telescope released a striking mid-infrared image illuminating the intricate structures of the Cat’s Head Nebula. Closer to home, astronauts aboard the International Space Station are maintaining human traditions in orbit, celebrating Halloween 250 miles above Earth. Back on the ground, a landmark neuroscience study has revealed how premature birth fundamentally rewires cerebellar molecular programs—offering vital new insights into developmental delays.",
+    "body": "A mysterious, long-forgotten neutrino might explain why matter survived the Big Bang, laying the groundwork for everything in the universe. Yet, existence remains a fragile enterprise. Down on Earth, the digital systems we’ve built are showing severe cracks. Binance, the world’s largest crypto exchange, just watched $6.3 billion vanish in a historic heist, prompting a frantic $3.6 billion user exodus in a single day.\n\nBiological infrastructures are equally vulnerable. As public health funding fractured in the shadow of the COVID-19 pandemic, measles has staged a stealthy, dangerous return. The regulatory future looks just as turbulent, with policymakers warning that the impending midterm elections will trigger sweeping shifts in American healthcare. On an individual level, neuroscience offers both warnings and modest lifelines: while prolonged exposure to a common pesticide is now linked to a 2.5-fold increase in Parkinson’s risk, researchers suggest a daily serving of peanuts could actually fortify memory and cognitive health.\n\nIn the cultural sphere, survival requires maneuverability. Art Toronto’s latest fair reflects a Canadian ecosystem forced into a defensive, domestic posture amid an ongoing trade war. Artists like Mary Ellen Carroll are turning red tape itself into conceptual art, navigating the bureaucratic absurdities of modern life. Meanwhile, critics are re-evaluating nostalgia, finding an unexpected emancipatory dimension in looking backward rather than forward.\n\nSometimes, looking to the past is the best way to secure the future. Scientists have just engineered a groundbreaking, electricity-generating molecular motor inspired by the 2,000-year-old Archimedes’ screw. Above us, NASA is desperately searching for a lifeline, looking to the commercial space industry to save the aging Hubble telescope from an inevitable atmospheric demise. Whether fighting gravity, viral resurgence, or financial ruin, our dominant instinct remains: keep the machinery spinning.",
     "paragraphs": [
-      "The digital landscape is fracturing under the weight of artificial intelligence. The historic $6.3 billion Binance hack signals a perilous new era, with attackers leveraging AI and advanced techniques to siphon crypto at unprecedented scales. Simultaneously, the web's fundamental architecture is shifting. Reddit CEO Steve Huffman confirmed that Google’s AI-powered search modes fail to drive traffic to publishers, echoing industry-wide anxieties about the future of online discovery. Even as algorithms disrupt the digital economy, physical automation advances, evidenced by Boston Dynamics’ Spot demonstrating complex whole-body manipulation.",
-      "Against this backdrop of technological upheaval, cultural and political institutions are forging new alliances while confronting historical ghosts. The Centre Pompidou, MoMA, and M+ have announced a landmark partnership linking Paris, New York, and Hong Kong to co-organize major exhibitions. Yet, institutional history remains contested; museums like the Norton Simon are mounting challenges against US statutes designed to aid the restitution of Nazi-looted art. On the political front, five crucial ballot proposals will determine whether local clean energy initiatives thrive or stall. In healthcare, a federal judge struck down narrow regulatory definitions of Medicaid \"frailty,\" protecting vulnerable populations, while lawmakers push the GAO to investigate the TrumpRx platform's actual savings.",
-      "Beyond our immediate terrestrial concerns, scientific observation continues to yield profound discoveries. NASA’s James Webb Space Telescope released a striking mid-infrared image illuminating the intricate structures of the Cat’s Head Nebula. Closer to home, astronauts aboard the International Space Station are maintaining human traditions in orbit, celebrating Halloween 250 miles above Earth. Back on the ground, a landmark neuroscience study has revealed how premature birth fundamentally rewires cerebellar molecular programs—offering vital new insights into developmental delays."
+      "A mysterious, long-forgotten neutrino might explain why matter survived the Big Bang, laying the groundwork for everything in the universe. Yet, existence remains a fragile enterprise. Down on Earth, the digital systems we’ve built are showing severe cracks. Binance, the world’s largest crypto exchange, just watched $6.3 billion vanish in a historic heist, prompting a frantic $3.6 billion user exodus in a single day.",
+      "Biological infrastructures are equally vulnerable. As public health funding fractured in the shadow of the COVID-19 pandemic, measles has staged a stealthy, dangerous return. The regulatory future looks just as turbulent, with policymakers warning that the impending midterm elections will trigger sweeping shifts in American healthcare. On an individual level, neuroscience offers both warnings and modest lifelines: while prolonged exposure to a common pesticide is now linked to a 2.5-fold increase in Parkinson’s risk, researchers suggest a daily serving of peanuts could actually fortify memory and cognitive health.",
+      "In the cultural sphere, survival requires maneuverability. Art Toronto’s latest fair reflects a Canadian ecosystem forced into a defensive, domestic posture amid an ongoing trade war. Artists like Mary Ellen Carroll are turning red tape itself into conceptual art, navigating the bureaucratic absurdities of modern life. Meanwhile, critics are re-evaluating nostalgia, finding an unexpected emancipatory dimension in looking backward rather than forward.",
+      "Sometimes, looking to the past is the best way to secure the future. Scientists have just engineered a groundbreaking, electricity-generating molecular motor inspired by the 2,000-year-old Archimedes’ screw. Above us, NASA is desperately searching for a lifeline, looking to the commercial space industry to save the aging Hubble telescope from an inevitable atmospheric demise. Whether fighting gravity, viral resurgence, or financial ruin, our dominant instinct remains: keep the machinery spinning."
     ],
-    "wordCount": 272,
-    "heroImage": "https://neurosciencenews.com/files/2026/10/preterm-cerebral-development-neuroscience-1155x770.jpg",
-    "heroCredit": "Premature Birth Alters Cerebellar Wiring",
-    "heroSource": "Neuroscience News",
-    "heroSourceUrl": "https://neurosciencenews.com/premature-birth-cerebellar-wiring-32361/",
+    "wordCount": 284,
+    "heroImage": "https://www.artforum.com/wp-content/uploads/2026/10/Tate-Britain-Commission-Zineb-Sedira-When-Words-Fall-Silent-Cinema-Speaks.-Photo-Tate-Joe-Humphrys.jpg?w=650",
+    "heroCredit": "Future Nostalgia",
+    "heroSource": "Artforum",
+    "heroSourceUrl": "https://www.artforum.com/columns/benjamin-paul-future-nostalgia-1234762572/",
     "headlines": [
       {
-        "title": "Centre Pompidou, MoMA, And M+ Announce New Cultural Alliance",
+        "title": "Future Nostalgia",
         "source": "Artforum",
         "category": "art",
-        "sourceUrl": "https://www.artforum.com/news/centre-pompidou-moma-m-announce-new-cultural-alliance-1234762803/",
-        "summary": "Centre Pompidou, M+, and the Museum of Modern Art, have formed a new cultural alliance that links Paris, Hong Kong, and New York with plans to co-organize exhibitions and programs. The alliance will also involve…",
-        "image": "https://www.artforum.com/wp-content/uploads/2026/10/1_Joint-Portrait_press.jpeg?w=650"
+        "sourceUrl": "https://www.artforum.com/columns/benjamin-paul-future-nostalgia-1234762572/",
+        "summary": "Benjamin Paul on the emancipatory dimension of nostalgia",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/10/Tate-Britain-Commission-Zineb-Sedira-When-Words-Fall-Silent-Cinema-Speaks.-Photo-Tate-Joe-Humphrys.jpg?w=650"
       },
       {
-        "title": "5 ballot proposals that could drive or derail clean energy",
-        "source": "Canary Media",
+        "title": "Measles made a stealthy return as another virus took the spotlight",
+        "source": "Nature",
+        "category": "biotech",
+        "sourceUrl": "https://www.nature.com/articles/d41586-026-03387-3",
+        "summary": "Nature, Published online: 02 November 2026; doi:10.1038/d41586-026-03387-3 Vaccination rates dropped after the COVID-19 pandemic disrupted public-health programmes and their funding.",
+        "image": ""
+      },
+      {
+        "title": "Scientists shrink Archimedes’ screw to the size of a single molecule",
+        "source": "ScienceDaily",
         "category": "energy",
-        "sourceUrl": "https://www.canarymedia.com/articles/politics/ballot-proposals-clean-energy",
-        "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter. Sign up to get it every Friday. The midterm elections are upon us. While most of the country has its eyes on who will control Congress,…",
-        "image": "https://img.canarymedia.com/content/uploads/GettyImages-2301317478.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=65b96fc0f3d4d79b8cfa7f25f0dc6c01"
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261030002940.htm",
+        "summary": "Scientists have built a groundbreaking molecular motor that spins in either direction using electricity, inspired by a machine invented more than 2,000 years ago. Even more remarkably, its rotation can boost electrical…",
+        "image": "https://www.sciencedaily.com/images/1920/archimedes-screw-molecular-motor.webp"
       },
       {
-        "title": "Binance’s $6.3 Billion Hack Is Just the Start of a Risky New Era",
-        "source": "NYT Technology",
+        "title": "Binance users withdraw $3.6bn after record crypto hack",
+        "source": "BBC Technology",
         "category": "general",
-        "sourceUrl": "https://www.nytimes.com/2026/10/30/technology/binance-hack-ai-north-korea.html",
-        "summary": "The largest cyber heist in history came as attackers increasingly use artificial intelligence and other advanced techniques to steal crypto and quickly launder the funds.",
-        "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30biz-binance-lzht/30biz-binance-lzht-mediumSquareAt3X.jpg"
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+        "summary": "The exchange froze transactions in the wake of the incident, which impacted $6.3bn worth of digital assets.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a7f/live/ad865b20-d64f-11f1-a701-fddedf244c16.jpg"
       },
       {
-        "title": "Video Friday: Spot Plays to Show Its Whole Body Manipulation",
-        "source": "IEEE Spectrum",
-        "category": "robotics",
-        "sourceUrl": "https://spectrum.ieee.org/video-friday-whole-body-manipulation",
-        "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us…",
-        "image": "https://spectrum.ieee.org/media-library/colorful-boston-dynamics-robot-dog-plays-with-a-tire-on-an-outdoor-basketball-court-while-someone-with-a-hockey-stick-interferes.webp?id=68558917&width=980"
+        "title": "Scientists discover a surprising brain benefit of eating peanuts every day",
+        "source": "ScienceDaily",
+        "category": "neuroscience",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261030003001.htm",
+        "summary": "A surprising new study suggests that eating peanuts every day could help support brain health and memory in older adults. Researchers found that consuming about two servings of unsalted, skin-roasted peanuts daily for…",
+        "image": "https://www.sciencedaily.com/images/1920/neuroscience-brain-boost-glow.webp"
       },
       {
-        "title": "NASA's James Webb Space Telescope Captures Eerie Cat's Head",
-        "source": "NASA",
-        "category": "space",
-        "sourceUrl": "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/",
-        "summary": "Intricate structures within the Cat's Head Nebula are illuminated in this mid-infrared view from NASA’s James Webb Space Telescope released on Oct. 29, 2026. The distinctive “cat’s head” shape of the nebula was likely…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/10/full-res-for-display.png"
-      },
-      {
-        "title": "November 2026 Opportunities: Open Calls, Residencies, and Grants for Artists",
-        "source": "Colossal",
+        "title": "The Art of Red Tape: On Mary Ellen Carroll",
+        "source": "Artforum",
         "category": "art",
-        "sourceUrl": "https://www.thisiscolossal.com/2026/10/november-2026-opportunities-open-calls-residencies-and-grants-for-artists/",
-        "summary": "It's 2027 residency application season! Do stories and artists like this matter to you? Become a Colossal Member today and support independent arts publishing for as little as $7 per month. The article November 2026…",
-        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/monet.jpg"
+        "sourceUrl": "https://www.artforum.com/columns/kat-herriman-mary-ellen-carroll-1234762509/",
+        "summary": "On the Conceptual artist's daredevil antics and bureaucratic maneuvers",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/10/ContemporaryArtsMuseumHouston_1___.jpg?w=650"
       },
       {
-        "title": "STAT+: Federal judge rejects new Medicaid ‘frailty’ definition for work requirements",
+        "title": "STAT+: The 4 biggest ways the midterms could change health policy, according to policymakers, lobbyists, and experts",
         "source": "STAT News",
         "category": "biotech",
-        "sourceUrl": "https://www.statnews.com/2026/10/29/medicaid-work-requirements-judge-blocks-new-limits-medical-frailty/?utm_campaign=rss",
-        "summary": "A judge ruled that federal regulators exceeded their authority in narrowing the exceptions to Medicaid work requirements for people with medical issues.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/10/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_ryancoptrial1met-1024x576.jpg"
+        "sourceUrl": "https://www.statnews.com/2026/10/31/midterm-election-tipping-point-healthcare-policy/?utm_campaign=rss",
+        "summary": "No matter what happens on Election Day, the midterms will have sweeping implications for American health care. More than two dozen experts on what could come next.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/10/GettyImages-2278723692-1024x576.jpg"
       },
       {
-        "title": "Reddit’s CEO says Google’s AI Mode ‘does not drive traffic’",
+        "title": "NASA hopes the commercial space industry can help save Hubble",
         "source": "The Verge",
         "category": "general",
-        "sourceUrl": "https://www.theverge.com/tech/1022848/reddit-ceo-google-ai-mode-traffic",
-        "summary": "Reddit CEO Steve Huffman said in an earnings call today that Google's AI-powered search modes do not help with traffic to the platform, echoing problems facing other websites and publishers. As part of its Q3 2026…",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK115_Reddit_01.jpg.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        "sourceUrl": "https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble",
+        "summary": "Gravity is a cruel mistress, slowly dragging the famed telescope ever closer to its ultimate demise with every day. Hubble is in no immediate danger of burning up in the Earth's atmosphere, but its time will run out in…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13237317/PIA18165_large.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
       },
       {
-        "title": "Premature Birth Alters Cerebellar Wiring",
-        "source": "Neuroscience News",
+        "title": "Common pesticide linked to 2.5 times the risk of Parkinson’s disease",
+        "source": "ScienceDaily",
         "category": "neuroscience",
-        "sourceUrl": "https://neurosciencenews.com/premature-birth-cerebellar-wiring-32361/",
-        "summary": "Why do premature infants face motor and language delays even without brain injuries? A landmark Science study led by Children's National reveals that developing outside the womb rewires the molecular programs of…",
-        "image": "https://neurosciencenews.com/files/2026/10/preterm-cerebral-development-neuroscience-1155x770.jpg"
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261031013035.htm",
+        "summary": "A UCLA study found that long-term exposure to a common pesticide was linked to more than 2.5 times the risk of Parkinson's disease. Scientists also uncovered how the chemical damages brain cells and identified a…",
+        "image": "https://www.sciencedaily.com/images/1920/parkinsons-disease-neuroscience-body-movement-disorder.webp"
       },
       {
-        "title": "Halloween Aboard the International Space Station",
-        "source": "NASA",
+        "title": "Scientists say a forgotten particle may explain why the universe exists",
+        "source": "ScienceDaily",
         "category": "space",
-        "sourceUrl": "https://www.nasa.gov/centers-and-facilities/johnson/halloween-aboard-the-international-space-station/",
-        "summary": "Although no ghouls, goblins, or trick-or-treaters come knocking at the International Space Station’s front hatch, crew members aboard the orbiting laboratory still like to get in the Halloween spirit. Whether…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2025/11/iss057e057509.jpg"
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261031221201.htm",
+        "summary": "A mysterious particle overlooked for decades may hold the key to why matter survived the Big Bang, allowing stars, planets, and life to exist. Scientists believe this forgotten neutrino reshaped the early universe and…",
+        "image": "https://www.sciencedaily.com/images/1920/high-energy-atomic-particle-physics.webp"
       },
       {
-        "title": "Challenges mounting to US laws enacted to aid recovery of Nazi-looted art",
+        "title": "Art Toronto reflects Canadian art community’s focus on sustaining domestic ecosystem",
         "source": "The Art Newspaper",
         "category": "art",
-        "sourceUrl": "https://www.theartnewspaper.com/2026/10/28/thyssen-bornemisza-collection-norton-simon-museum-nazi-loot-lawsuits-us-laws",
-        "summary": "The Thyssen-Bornemisza Collection Foundation in Madrid and the Norton Simon Museum in California are pushing back against recent statutes related to Holocaust-era expropriation claims",
-        "image": "https://cdn.sanity.io/images/cxgd3urn/production/ddd3dc947ee309ae4fd673bf471b91e6cf0a11d8-2000x1800.jpg?w=140"
+        "sourceUrl": "https://www.theartnewspaper.com/2026/10/30/art-toronto-fair-report-canadian-art-focus",
+        "summary": "With around 80% of its exhibitors based in Canada, this edition of the country’s biggest art fair reflects the current “elbows up” attitude of a nation embroiled in a trade war with its neighbour",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/196fd4420de4a7c8036d52cd7dd272ea0e8e48c8-2000x3000.jpg?w=140"
       },
       {
-        "title": "STAT+: Lawmaker wants government watchdog to probe TrumpRx over claims about drug savings",
-        "source": "STAT News",
-        "category": "biotech",
-        "sourceUrl": "https://www.statnews.com/pharmalot/2026/10/28/lawmaker-wants-gao-probe-trumprx-drug-pricing/?utm_campaign=rss",
-        "summary": "A House lawmaker asked the Government Accountability Office to review whether the TrumpRx platform has saved Americans any money.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/03/GettyImages-2259515105-1024x576.jpg"
+        "title": "How Binance’s $6.3 Billion Hack Went Down",
+        "source": "NYT Technology",
+        "category": "general",
+        "sourceUrl": "https://www.nytimes.com/2026/10/31/technology/binance-hack-crypto-north-korea.html",
+        "summary": "A war room. A global conference call. A founder who live-posted about the largest crypto heist in history. Inside a frantic 24 hours at the world’s biggest crypto exchange.",
+        "image": "https://static01.nyt.com/images/2026/11/01/business/00biz-binance-ticktock/00biz-binance-ticktock-mediumSquareAt3X.jpg"
       }
     ],
-    "publishedAt": "2026-10-30T21:19:05.637Z"
+    "publishedAt": "2026-11-02T07:00:17.555Z"
   },
   "drafts": {},
   "history": [
+    {
+      "id": "ed_2026-11-02",
+      "publishDate": "2026-11-02",
+      "status": "published",
+      "updatedAt": "2026-11-02T07:00:17.555Z",
+      "title": "The Architecture of Survival",
+      "dek": "From cosmic origins to collapsing crypto, systems crave preservation.",
+      "authorName": "Dr. Wallace Lynch",
+      "authorTitle": "Editor in Chief",
+      "paragraphs": [
+        "A mysterious, long-forgotten neutrino might explain why matter survived the Big Bang, laying the groundwork for everything in the universe. Yet, existence remains a fragile enterprise. Down on Earth, the digital systems we’ve built are showing severe cracks. Binance, the world’s largest crypto exchange, just watched $6.3 billion vanish in a historic heist, prompting a frantic $3.6 billion user exodus in a single day.",
+        "Biological infrastructures are equally vulnerable. As public health funding fractured in the shadow of the COVID-19 pandemic, measles has staged a stealthy, dangerous return. The regulatory future looks just as turbulent, with policymakers warning that the impending midterm elections will trigger sweeping shifts in American healthcare. On an individual level, neuroscience offers both warnings and modest lifelines: while prolonged exposure to a common pesticide is now linked to a 2.5-fold increase in Parkinson’s risk, researchers suggest a daily serving of peanuts could actually fortify memory and cognitive health.",
+        "In the cultural sphere, survival requires maneuverability. Art Toronto’s latest fair reflects a Canadian ecosystem forced into a defensive, domestic posture amid an ongoing trade war. Artists like Mary Ellen Carroll are turning red tape itself into conceptual art, navigating the bureaucratic absurdities of modern life. Meanwhile, critics are re-evaluating nostalgia, finding an unexpected emancipatory dimension in looking backward rather than forward.",
+        "Sometimes, looking to the past is the best way to secure the future. Scientists have just engineered a groundbreaking, electricity-generating molecular motor inspired by the 2,000-year-old Archimedes’ screw. Above us, NASA is desperately searching for a lifeline, looking to the commercial space industry to save the aging Hubble telescope from an inevitable atmospheric demise. Whether fighting gravity, viral resurgence, or financial ruin, our dominant instinct remains: keep the machinery spinning."
+      ],
+      "wordCount": 284,
+      "heroImage": "https://www.artforum.com/wp-content/uploads/2026/10/Tate-Britain-Commission-Zineb-Sedira-When-Words-Fall-Silent-Cinema-Speaks.-Photo-Tate-Joe-Humphrys.jpg?w=650",
+      "heroCredit": "Future Nostalgia",
+      "heroSource": "Artforum",
+      "heroSourceUrl": "https://www.artforum.com/columns/benjamin-paul-future-nostalgia-1234762572/",
+      "publishedAt": "2026-11-02T07:00:17.555Z"
+    },
     {
       "id": "ed_2026-10-30",
       "publishDate": "2026-10-30",
@@ -1482,31 +1505,6 @@
       "heroSource": "BBC Technology",
       "heroSourceUrl": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-11T01:55:43.406Z"
-    },
-    {
-      "id": "ed_2026-08-08",
-      "publishDate": "2026-08-08",
-      "status": "published",
-      "updatedAt": "2026-08-08T20:15:00.706Z",
-      "title": "What the freeze no longer owns, and what growth still costs",
-      "dek": "Convergence of open instruments and living stakes",
-      "authorName": "Dr. Wallace Lynch",
-      "authorTitle": "Editor in Chief",
-      "paragraphs": [
-        "The cold used to be the gate. Quantum light sorting lived behind refrigeration until scientists made a gold crystal material that does the work at room temperature. The sharpest visible light image of the Sun yet taken shows tiny plasma vortices theory predicted for more than a century. A meteorite that smashed through a New Jersey roof still holds salty fluids, organics, and amino acids from a primitive asteroid. The instrument warms. The star is readable. The rock keeps a ledger of origins.",
-        "On Saturday, August 8, 2026, we hold that thaw to one question: once the hidden state is plain in ordinary heat, what debt does the living body still carry.",
-        "Neuroscience answers with two clocks. Teens who start cannabis may see memory, attention, language, and processing speed grow more slowly after a normal early run, while nonusers keep climbing. In Parkinson's research, exercise releases muscle signals called exerkines that protect dopamine neurons and counter muscle loss. The young brain can level off under a choice. The aging brain can still buy protection with motion.",
-        "Art keeps a double Italian ledger. The Uffizi plans a €50 million restoration of the gallery, Palazzo Pitti, and related rooms over two years. Overnight, thieves take about $4.6 million in art from a fuel company headquarters in Abruzzo. Heritage spends to open. Other walls empty before morning.",
-        "Culture drops the denial. LA rapper Fenix Flexin no longer seems to hide AI help on the synth pop track \"Rubberz,\" after producer claims about a tool called Treblo.",
-        "Policy still works a harder room. A Senate committee votes along party lines to hold Anthony Fauci in contempt after he declines Covid questions.",
-        "Convergence is not only warmer quantum light or a sharper star. It is whether we guard growing minds, keep sacred rooms, name who made the song, and assign honest care once the freeze no longer hides the map."
-      ],
-      "wordCount": 315,
-      "heroImage": "https://media.wired.com/photos/6a763d9eaaeaaaadb9031470/master/pass/fotografia%20del%20sol.jpg",
-      "heroCredit": "The Sharpest Image Ever Taken of the Sun Reveals a Hidden Phenomenon",
-      "heroSource": "WIRED",
-      "heroSourceUrl": "https://www.wired.com/story/the-sharpest-image-ever-taken-of-the-sun-reveals-a-beautiful-hidden-phenomenon/",
-      "publishedAt": "2026-08-08T20:15:00.706Z"
     }
   ],
   "usedHeroImages": [
@@ -1772,6 +1770,7 @@
     "https://media.wired.com/photos/6adfd0bd71d0e77d5637708d/master/pass/MCDODYS_UV008.jpg",
     "https://artsy-media-uploads.s3.amazonaws.com/uBpoQZcDvBxqLR-aTou65Q%2FMAG_Courtesy+of+the+Estate+of+Teruko+Yokoi.+Image+1+of+Teruko+in+her+studio+at+Hotel+Chelsea+in+1959.+Image+credit+Charles+Gimpel_1500x1000.jpg",
     "https://artsy-media-uploads.s3.amazonaws.com/TCBXP42Kxc24p9pcnKtmkg%2F992A1169_1500x1000.jpg",
-    "https://neurosciencenews.com/files/2026/10/preterm-cerebral-development-neuroscience-1155x770.jpg"
+    "https://neurosciencenews.com/files/2026/10/preterm-cerebral-development-neuroscience-1155x770.jpg",
+    "https://www.artforum.com/wp-content/uploads/2026/10/Tate-Britain-Commission-Zineb-Sedira-When-Words-Fall-Silent-Cinema-Speaks.-Photo-Tate-Joe-Humphrys.jpg?w=650"
   ]
 }
