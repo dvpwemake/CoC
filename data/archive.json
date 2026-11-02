@@ -1,5 +1,25 @@
 [
   {
+    "batchId": "editorial_2026-10-30",
+    "scannedAt": "2026-10-30T21:19:05.637Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-10-30",
+        "rank": 0,
+        "title": "Progress and Peril in a Hyperconnected Age",
+        "category": "editorial",
+        "summary": "Institutions unite as AI disrupts the digital economy.",
+        "image": "https://neurosciencenews.com/files/2026/10/preterm-cerebral-development-neuroscience-1155x770.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-10-30.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-10-30",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-11-02T02-51",
     "scannedAt": "2026-11-02T02:51:30.276Z",
     "items": [
