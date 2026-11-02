@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-11-02T02-51",
-    "scannedAt": "2026-11-02T02:51:30.276Z",
+    "batchId": "auto_2026-11-02T11-43",
+    "scannedAt": "2026-11-02T11:43:37.699Z",
     "items": [
       {
-        "id": "auto_2026-11-02T02-51_1",
+        "id": "auto_2026-11-02T11-43_1",
         "rank": 1,
-        "title": "Binance users withdraw $3.6bn after record crypto hack",
-        "category": "general",
-        "summary": "The exchange froze transactions in the wake of the incident, which impacted $6.3bn worth of digital assets.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a7f/live/ad865b20-d64f-11f1-a701-fddedf244c16.jpg",
-        "source": "BBC Technology",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+        "title": "BMW and Embotech move ‘1 million vehicles using automated driving technology’",
+        "category": "robotics",
+        "summary": "Embotech and BMW Group say they have moved “1 million vehicles using automated driving technology” across four BMW Group production sites in the UK and Germany, marking a major milestone in the use of Automated Driving…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/bmw-embotech-automated-parking-2.jpg",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/11/02/bmw-and-embotech-move-1-million-vehicles-using-automated-driving-technology/106598/",
         "fromX": false
       },
       {
-        "id": "auto_2026-11-02T02-51_2",
+        "id": "auto_2026-11-02T11-43_2",
         "rank": 2,
-        "title": "Measles made a stealthy return as another virus took the spotlight",
-        "category": "biotech",
-        "summary": "Nature, Published online: 02 November 2026; doi:10.1038/d41586-026-03387-3 Vaccination rates dropped after the COVID-19 pandemic disrupted public-health programmes and their funding.",
-        "image": "",
-        "source": "Nature",
-        "sourceUrl": "https://www.nature.com/articles/d41586-026-03387-3",
+        "title": "Want to Sign With a Hollywood Agent? Start Making Fun of AI",
+        "category": "general",
+        "summary": "Even as studios incorporate generative tech into film and TV production, comedy content creators have broken through by roasting chatbots.",
+        "image": "https://media.wired.com/photos/6abd93babaed9055bd40abc5/master/pass/culture_comedian_trolling_ai_interviewers.jpg",
+        "source": "WIRED",
+        "sourceUrl": "https://www.wired.com/story/comedians-making-fun-of-ai/",
         "fromX": false
       },
       {
-        "id": "auto_2026-11-02T02-51_3",
+        "id": "auto_2026-11-02T11-43_3",
         "rank": 3,
-        "title": "Scientists discover a surprising brain benefit of eating peanuts every day",
-        "category": "neuroscience",
-        "summary": "A surprising new study suggests that eating peanuts every day could help support brain health and memory in older adults. Researchers found that consuming about two servings of unsalted, skin-roasted peanuts daily for…",
-        "image": "https://www.sciencedaily.com/images/1920/neuroscience-brain-boost-glow.webp",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261030003001.htm",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-11-02T02-51_4",
-        "rank": 4,
-        "title": "Scientists shrink Archimedes’ screw to the size of a single molecule",
-        "category": "energy",
-        "summary": "Scientists have built a groundbreaking molecular motor that spins in either direction using electricity, inspired by a machine invented more than 2,000 years ago. Even more remarkably, its rotation can boost electrical…",
-        "image": "https://www.sciencedaily.com/images/1920/archimedes-screw-molecular-motor.webp",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261030002940.htm",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-11-02T02-51_5",
-        "rank": 5,
-        "title": "Future Nostalgia",
+        "title": "‘Mariko Mori anticipated the zeitgeist’: curator Alexandra Monroe on her new show and how Japan's art scene has changed",
         "category": "art",
-        "summary": "Benjamin Paul on the emancipatory dimension of nostalgia",
-        "image": "https://www.artforum.com/wp-content/uploads/2026/10/Tate-Britain-Commission-Zineb-Sedira-When-Words-Fall-Silent-Cinema-Speaks.-Photo-Tate-Joe-Humphrys.jpg?w=650",
-        "source": "Artforum",
-        "sourceUrl": "https://www.artforum.com/columns/benjamin-paul-future-nostalgia-1234762572/",
+        "summary": "The US curator who helped shape the narrative of Japan’s post-war art has returned to Tokyo to collaborate on a show by the acclaimed artist",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/c098a47d0b69d88e0f3b57765c25b15d0cc08ed9-575x886.jpg?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/11/02/mariko-mori-anticipated-the-zeitgeist-curator-alexandra-monroe-on-her-new-show-and-how-japans-art-scene-has-changed",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-02T11-43_4",
+        "rank": 4,
+        "title": "The agentic web is here",
+        "category": "ai",
+        "summary": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MAIN-top.jpg?resize=1200,600",
+        "source": "MIT Technology Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-02T11-43_5",
+        "rank": 5,
+        "title": "Are you pursuing MRT as a treatment for infertility?",
+        "category": "biotech",
+        "summary": "Are you pursuing MRT as a treatment for infertility? STAT wants to hear from you",
+        "image": "https://www.statnews.com/wp-content/uploads/2023/06/STAT-Meta-Image-1-1024x576.png",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/11/02/mrt-fertility-treatment-advanced-maternal-age-three-parent-ivf-reader-callout/?utm_campaign=rss",
         "fromX": false
       }
     ]
@@ -240,6 +240,26 @@
         "source": "NASA",
         "sourceUrl": "https://www.nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants/",
         "fromX": false
+      }
+    ]
+  },
+  {
+    "batchId": "editorial_2026-10-30",
+    "scannedAt": "2026-10-30T21:19:05.637Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-10-30",
+        "rank": 0,
+        "title": "Progress and Peril in a Hyperconnected Age",
+        "category": "editorial",
+        "summary": "Institutions unite as AI disrupts the digital economy.",
+        "image": "https://neurosciencenews.com/files/2026/10/preterm-cerebral-development-neuroscience-1155x770.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-10-30.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-10-30",
+        "authorName": "Dr. Wallace Lynch"
       }
     ]
   },
@@ -2712,26 +2732,6 @@
         "sourceUrl": "https://chronicleofconvergence.com/e/2026-09-27.html",
         "isEditorialArchive": true,
         "publishDate": "2026-09-27",
-        "authorName": "Dr. Wallace Lynch"
-      }
-    ]
-  },
-  {
-    "batchId": "editorial_2026-09-26",
-    "scannedAt": "2026-09-26T22:25:36.844Z",
-    "kind": "editorial_archive",
-    "items": [
-      {
-        "id": "editorial_2026-09-26",
-        "rank": 0,
-        "title": "The Friction of Progress",
-        "category": "editorial",
-        "summary": "Navigating the Chasm Between Autonomy and Accountability",
-        "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/september/MilkyWayMeteorLSTJeffDai.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-09-26.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-09-26",
         "authorName": "Dr. Wallace Lynch"
       }
     ]
