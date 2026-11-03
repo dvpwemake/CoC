@@ -1,5 +1,25 @@
 [
   {
+    "batchId": "editorial_2026-11-02",
+    "scannedAt": "2026-11-02T19:49:54.537Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-11-02",
+        "rank": 0,
+        "title": "The Agentic Web Arrives as Comedians Roast the Chatbots",
+        "category": "editorial",
+        "summary": "Automation expands across industries while creators push back through humor.",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MAIN-top.jpg?resize=1200,600",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-11-02.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-11-02",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-11-03T15-30",
     "scannedAt": "2026-11-03T15:30:25.405Z",
     "items": [
