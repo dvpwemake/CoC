@@ -1,65 +1,105 @@
 {
   "published": {
-    "id": "ed_2026-11-02",
-    "publishDate": "2026-11-02",
+    "id": "ed_2026-11-03",
+    "publishDate": "2026-11-03",
     "status": "published",
-    "updatedAt": "2026-11-02T19:49:54.537Z",
-    "title": "The Agentic Web Arrives as Comedians Roast the Chatbots",
-    "dek": "Automation expands across industries while creators push back through humor.",
+    "updatedAt": "2026-11-03T17:27:35.429Z",
+    "title": "Systems of Control and Chaos",
+    "dek": "Navigating unpredictability in technology, biology, and the art world.",
     "authorName": "Dr. Wallace Lynch",
     "authorTitle": "Editor in Chief",
-    "body": "Tim Berners-Lee’s vision of a more intelligent internet is finally materializing. MIT Technology Review reports that the “agentic web”—a network driven by autonomous AI systems—is now a reality. This shift aligns with broader automation trends across industries, such as BMW and Embotech celebrating the movement of one million vehicles using automated driving technology across their production sites.\n\nYet, this push toward an automated, generative future isn’t without its cultural friction. While Hollywood studios eagerly adopt AI, Wired highlights a counter-trend: comedy content creators are successfully launching their careers by mercilessly roasting chatbots. The juxtaposition captures the current zeitgeist—a blend of rapid technological adoption and deeply human skepticism.\n\nBeyond tech, significant shifts are shaping the scientific and political landscapes. A UCLA study published in ScienceDaily has linked a common pesticide to a 2.5 times higher risk of Parkinson’s disease, revealing how the chemical damages brain cells. In reproductive medicine, STAT News is investigating the use of Mitochondrial Replacement Therapy (MRT) for infertility, calling for patient stories. These developments coincide with a pivotal moment for US health policy, as STAT+ notes the profound implications the midterm elections will have on the American healthcare system.\n\nFinally, in a dramatic narrative of modern finance, The New York Times details the chaotic 24 hours behind Binance’s massive $6.3 billion crypto heist, an event live-posted by its founder. Meanwhile, looking far beyond our terrestrial struggles, NASA is turning to the commercial space industry to help save the aging Hubble telescope before gravity pulls it back to Earth, as reported by The Verge. From the microscopic damage of pesticides to the vastness of space, today’s stories reflect a world grappling with the profound consequences of its own advancements.",
+    "body": "We live in an era obsessed with engineering predictability out of chaos. In the aerospace sector, Airbus is addressing the tumbling crisis of dead satellites that threaten orbit with a new passive spin stabilization solution. Down on Earth, executives and engineers alike are wrestling with system control. Apple is strategically capitalizing on the artificial intelligence boom without busting its budget on the massive infrastructure spending consuming its rivals. Conversely, Google recently had to dismantle a backdoor after an Android manufacturing partner secretly turned 1.3 million set-top boxes into a massive botnet.\n\nThis friction between the wild and the programmed extends to our physical environments. On the factory floor, experts are beginning to question the limits of automation, exploring what happens when an industrial robot is mathematically correct but an experienced human operator believes the machine is wrong. In neuroscience, researchers examining Belyaev's famous Siberian silver foxes discovered that domestication biologically pruned brain circuits, leaving the friendly animals with fewer estrogen receptor alpha neurons. Yet, we cannot entirely control nature; this vulnerability was tragically underscored by the recent death of a Washington state resident from bird flu following exposure to infected cattle.\n\nBiological and systemic uncertainties will soon meet political reality, as lobbyists and experts attempt to predict how the upcoming midterms will reshape American health policy. Similarly, solar and wind developers are maneuvering to hold onto the long-term federal tax incentives established by the 2022 Inflation Reduction Act.\n\nEven the art world is entangled in this web of unpredictability and administrative friction. Conceptual artist Mary Ellen Carroll has built a practice out of bureaucratic maneuvers and red tape, while exhibitors at Art Basel Paris are actively demanding compensation after security concerns over protests forced the fair to close two days early. Ultimately, whether we are analyzing modern policy or the profound impact of Marcel Duchamp’s impossible love for sculptor Maria Martins on his work, human unpredictability remains the one variable we cannot engineer away.",
     "paragraphs": [
-      "Tim Berners-Lee’s vision of a more intelligent internet is finally materializing. MIT Technology Review reports that the “agentic web”—a network driven by autonomous AI systems—is now a reality. This shift aligns with broader automation trends across industries, such as BMW and Embotech celebrating the movement of one million vehicles using automated driving technology across their production sites.",
-      "Yet, this push toward an automated, generative future isn’t without its cultural friction. While Hollywood studios eagerly adopt AI, Wired highlights a counter-trend: comedy content creators are successfully launching their careers by mercilessly roasting chatbots. The juxtaposition captures the current zeitgeist—a blend of rapid technological adoption and deeply human skepticism.",
-      "Beyond tech, significant shifts are shaping the scientific and political landscapes. A UCLA study published in ScienceDaily has linked a common pesticide to a 2.5 times higher risk of Parkinson’s disease, revealing how the chemical damages brain cells. In reproductive medicine, STAT News is investigating the use of Mitochondrial Replacement Therapy (MRT) for infertility, calling for patient stories. These developments coincide with a pivotal moment for US health policy, as STAT+ notes the profound implications the midterm elections will have on the American healthcare system.",
-      "Finally, in a dramatic narrative of modern finance, The New York Times details the chaotic 24 hours behind Binance’s massive $6.3 billion crypto heist, an event live-posted by its founder. Meanwhile, looking far beyond our terrestrial struggles, NASA is turning to the commercial space industry to help save the aging Hubble telescope before gravity pulls it back to Earth, as reported by The Verge. From the microscopic damage of pesticides to the vastness of space, today’s stories reflect a world grappling with the profound consequences of its own advancements."
+      "We live in an era obsessed with engineering predictability out of chaos. In the aerospace sector, Airbus is addressing the tumbling crisis of dead satellites that threaten orbit with a new passive spin stabilization solution. Down on Earth, executives and engineers alike are wrestling with system control. Apple is strategically capitalizing on the artificial intelligence boom without busting its budget on the massive infrastructure spending consuming its rivals. Conversely, Google recently had to dismantle a backdoor after an Android manufacturing partner secretly turned 1.3 million set-top boxes into a massive botnet.",
+      "This friction between the wild and the programmed extends to our physical environments. On the factory floor, experts are beginning to question the limits of automation, exploring what happens when an industrial robot is mathematically correct but an experienced human operator believes the machine is wrong. In neuroscience, researchers examining Belyaev's famous Siberian silver foxes discovered that domestication biologically pruned brain circuits, leaving the friendly animals with fewer estrogen receptor alpha neurons. Yet, we cannot entirely control nature; this vulnerability was tragically underscored by the recent death of a Washington state resident from bird flu following exposure to infected cattle.",
+      "Biological and systemic uncertainties will soon meet political reality, as lobbyists and experts attempt to predict how the upcoming midterms will reshape American health policy. Similarly, solar and wind developers are maneuvering to hold onto the long-term federal tax incentives established by the 2022 Inflation Reduction Act.",
+      "Even the art world is entangled in this web of unpredictability and administrative friction. Conceptual artist Mary Ellen Carroll has built a practice out of bureaucratic maneuvers and red tape, while exhibitors at Art Basel Paris are actively demanding compensation after security concerns over protests forced the fair to close two days early. Ultimately, whether we are analyzing modern policy or the profound impact of Marcel Duchamp’s impossible love for sculptor Maria Martins on his work, human unpredictability remains the one variable we cannot engineer away."
     ],
-    "wordCount": 281,
-    "heroImage": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MAIN-top.jpg?resize=1200,600",
-    "heroCredit": "The agentic web is here",
-    "heroSource": "MIT Technology Review",
-    "heroSourceUrl": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+    "wordCount": 324,
+    "heroImage": "https://www.artforum.com/wp-content/uploads/2024/10/Basel-2024.jpeg?w=650",
+    "heroCredit": "Dealers At Art Basel Paris Seek Compensation For Early Fair Closure",
+    "heroSource": "Artforum",
+    "heroSourceUrl": "https://www.artforum.com/news/dealers-art-basel-paris-seek-compensation-early-closure-1234762893/",
     "headlines": [
       {
-        "title": "The agentic web is here",
-        "source": "MIT Technology Review",
-        "category": "ai",
-        "sourceUrl": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
-        "summary": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MAIN-top.jpg?resize=1200,600"
-      },
-      {
-        "title": "‘Mariko Mori anticipated the zeitgeist’: curator Alexandra Monroe on her new show and how Japan's art scene has changed",
+        "title": "A new book looks at how Marcel Duchamp’s ‘impossible’ love for the sculptor Maria Martins changed his work",
         "source": "The Art Newspaper",
         "category": "art",
-        "sourceUrl": "https://www.theartnewspaper.com/2026/11/02/mariko-mori-anticipated-the-zeitgeist-curator-alexandra-monroe-on-her-new-show-and-how-japans-art-scene-has-changed",
-        "summary": "The US curator who helped shape the narrative of Japan’s post-war art has returned to Tokyo to collaborate on a show by the acclaimed artist",
-        "image": "https://cdn.sanity.io/images/cxgd3urn/production/c098a47d0b69d88e0f3b57765c25b15d0cc08ed9-575x886.jpg?w=140"
+        "sourceUrl": "https://www.theartnewspaper.com/2026/11/03/a-new-book-looks-at-how-marcel-duchamps-impossible-love-for-the-sculptor-maria-martins-changed-his-work",
+        "summary": "Duchamp’s decades-long relationship with the Brazilian artist had a profound impact on both their lives and art",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/c7be3dc8ed3d22fbed1a13686eb19f77720fade5-886x1282.jpg?rect=0,152,864,617&w=140"
       },
       {
-        "title": "Are you pursuing MRT as a treatment for infertility?",
+        "title": "STAT+: What do the midterms mean for health care?",
         "source": "STAT News",
         "category": "biotech",
-        "sourceUrl": "https://www.statnews.com/2026/11/02/mrt-fertility-treatment-advanced-maternal-age-three-parent-ivf-reader-callout/?utm_campaign=rss",
-        "summary": "Are you pursuing MRT as a treatment for infertility? STAT wants to hear from you",
-        "image": "https://www.statnews.com/wp-content/uploads/2023/06/STAT-Meta-Image-1-1024x576.png"
+        "sourceUrl": "https://www.statnews.com/2026/11/03/midterm-election-health-care-issues-dc-diagnosis-newsletter/?utm_campaign=rss",
+        "summary": "STAT unpacks what the midterms mean for health policy, MAHA, and health insurance.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/10/GettyImages-2278723692-1024x576.jpg"
       },
       {
-        "title": "Want to Sign With a Hollywood Agent? Start Making Fun of AI",
-        "source": "WIRED",
+        "title": "Here’s how solar and wind developers can hold on to tax credits",
+        "source": "Canary Media",
+        "category": "energy",
+        "sourceUrl": "https://www.canarymedia.com/articles/sponsored/heres-how-solar-and-wind-developers-can-hold-onto-tax-credits",
+        "summary": "When Congress passed the Inflation Reduction Act (IRA) in August 2022, solar and wind developers celebrated something that had historically been elusive: long-term certainty about federal tax incentives. Companies…",
+        "image": "https://img.canarymedia.com/content/uploads/Intersolar-Forum-thumbnail.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=ff3557af593414ea78518f63b9e640d8"
+      },
+      {
+        "title": "Apple is all in on AI — its own and everyone else's",
+        "source": "The Verge",
         "category": "general",
-        "sourceUrl": "https://www.wired.com/story/comedians-making-fun-of-ai/",
-        "summary": "Even as studios incorporate generative tech into film and TV production, comedy content creators have broken through by roasting chatbots.",
-        "image": "https://media.wired.com/photos/6abd93babaed9055bd40abc5/master/pass/culture_comedian_trolling_ai_interviewers.jpg"
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai",
+        "summary": "Apple's latest earnings show how it's continuing to capitalize on the AI boom without busting its budget on the infrastructure spending consuming its competitors. Overall, Apple posted its best-ever fiscal year for…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951261/VRG_Illo_N_Barclay_5_apple.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
       },
       {
-        "title": "BMW and Embotech move ‘1 million vehicles using automated driving technology’",
+        "title": "DETUMBLER: Airbus' Passive Spin Stabilization Solution",
+        "source": "SpaceNews",
+        "category": "space",
+        "sourceUrl": "https://spacenews.com/detumbler-airbus-passive-spin-stabilization-solution/",
+        "summary": "The tumbling crisis: why dead satellites threaten orbit Every year, hundreds of satellites reach end-of-life, most are deorbited, but some fail abruptly. Yet, even when properly decommissioned, some dead satellites […]…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/AIRBUS_Blue.png?fit=1024%2C1024&ssl=1"
+      },
+      {
+        "title": "Dealers At Art Basel Paris Seek Compensation For Early Fair Closure",
+        "source": "Artforum",
+        "category": "art",
+        "sourceUrl": "https://www.artforum.com/news/dealers-art-basel-paris-seek-compensation-early-closure-1234762893/",
+        "summary": "Participating exhibitors at Art Basel Paris are demanding compensation for the fair closing two days early on October 23 due to security concerns over planned protests the next day. The fair was scheduled to take place…",
+        "image": "https://www.artforum.com/wp-content/uploads/2024/10/Basel-2024.jpeg?w=650"
+      },
+      {
+        "title": "Washington state resident dies from bird flu following exposure to infected cattle",
+        "source": "STAT News",
+        "category": "biotech",
+        "sourceUrl": "https://www.statnews.com/2026/11/02/bird-flu-washington-state-resident-dies-infected-cattle-exposure/?utm_campaign=rss",
+        "summary": "A person in Washington state has died from complications of the bird flu, the first such U.S. death in a year.",
+        "image": "https://www.statnews.com/wp-content/uploads/2024/05/53611629022_20178ff81e_o-1024x576.jpg"
+      },
+      {
+        "title": "One of Google's Android partners turned 1.3 million set-top boxes into a botnet",
+        "source": "The Verge",
+        "category": "general",
+        "sourceUrl": "https://www.theverge.com/tech/1024807/google-botnet-android-tv-shut-down",
+        "summary": "Google says one of its Android manufacturing partners secretly built a backdoor in 1.3 million devices and turned them into a botnet. The company says it has now dismantled the backdoor and \"cut ties\" with the…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK093_Google_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+      },
+      {
+        "title": "Brain Circuit Pruned to Make Wild Foxes Friendly",
+        "source": "Neuroscience News",
+        "category": "neuroscience",
+        "sourceUrl": "https://neurosciencenews.com/ventromedial-hypothalamus-pruning-domestication-32373/",
+        "summary": "How did wild foxes become cuddly companions in just generations? Researchers examining Belyaev's famous Siberian silver foxes discovered that domesticated foxes have fewer estrogen receptor alpha neurons in the…",
+        "image": "https://neurosciencenews.com/files/2026/11/domesticated-foxes-neural-pruning-neuroscience-1155x770.jpg"
+      },
+      {
+        "title": "Opinion: What happens when the robot is wrong?",
         "source": "Robotics & Automation News",
         "category": "robotics",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/11/02/bmw-and-embotech-move-1-million-vehicles-using-automated-driving-technology/106598/",
-        "summary": "Embotech and BMW Group say they have moved “1 million vehicles using automated driving technology” across four BMW Group production sites in the UK and Germany, marking a major milestone in the use of Automated Driving…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/bmw-embotech-automated-parking-2.jpg"
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/11/02/opinion-what-happens-when-the-robot-is-wrong/106641/",
+        "summary": "By Gleb Tsipursky, PhD, CEO, Disaster Avoidance Experts A new industrial robot can meet its cycle-time target and still fail its most important workplace test: what happens when an experienced operator believes the…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/man-welds-robot-1.jpeg"
       },
       {
         "title": "The Art of Red Tape: On Mary Ellen Carroll",
@@ -76,52 +116,34 @@
         "sourceUrl": "https://www.statnews.com/2026/10/31/midterm-election-tipping-point-healthcare-policy/?utm_campaign=rss",
         "summary": "No matter what happens on Election Day, the midterms will have sweeping implications for American health care. More than two dozen experts on what could come next.",
         "image": "https://www.statnews.com/wp-content/uploads/2026/10/GettyImages-2278723692-1024x576.jpg"
-      },
-      {
-        "title": "NASA hopes the commercial space industry can help save Hubble",
-        "source": "The Verge",
-        "category": "general",
-        "sourceUrl": "https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble",
-        "summary": "Gravity is a cruel mistress, slowly dragging the famed telescope ever closer to its ultimate demise with every day. Hubble is in no immediate danger of burning up in the Earth's atmosphere, but its time will run out in…",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13237317/PIA18165_large.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-      },
-      {
-        "title": "Common pesticide linked to 2.5 times the risk of Parkinson’s disease",
-        "source": "ScienceDaily",
-        "category": "neuroscience",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261031013035.htm",
-        "summary": "A UCLA study found that long-term exposure to a common pesticide was linked to more than 2.5 times the risk of Parkinson's disease. Scientists also uncovered how the chemical damages brain cells and identified a…",
-        "image": "https://www.sciencedaily.com/images/1920/parkinsons-disease-neuroscience-body-movement-disorder.webp"
-      },
-      {
-        "title": "Scientists say a forgotten particle may explain why the universe exists",
-        "source": "ScienceDaily",
-        "category": "space",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261031221201.htm",
-        "summary": "A mysterious particle overlooked for decades may hold the key to why matter survived the Big Bang, allowing stars, planets, and life to exist. Scientists believe this forgotten neutrino reshaped the early universe and…",
-        "image": "https://www.sciencedaily.com/images/1920/high-energy-atomic-particle-physics.webp"
-      },
-      {
-        "title": "Art Toronto reflects Canadian art community’s focus on sustaining domestic ecosystem",
-        "source": "The Art Newspaper",
-        "category": "art",
-        "sourceUrl": "https://www.theartnewspaper.com/2026/10/30/art-toronto-fair-report-canadian-art-focus",
-        "summary": "With around 80% of its exhibitors based in Canada, this edition of the country’s biggest art fair reflects the current “elbows up” attitude of a nation embroiled in a trade war with its neighbour",
-        "image": "https://cdn.sanity.io/images/cxgd3urn/production/196fd4420de4a7c8036d52cd7dd272ea0e8e48c8-2000x3000.jpg?w=140"
-      },
-      {
-        "title": "How Binance’s $6.3 Billion Hack Went Down",
-        "source": "NYT Technology",
-        "category": "general",
-        "sourceUrl": "https://www.nytimes.com/2026/10/31/technology/binance-hack-crypto-north-korea.html",
-        "summary": "A war room. A global conference call. A founder who live-posted about the largest crypto heist in history. Inside a frantic 24 hours at the world’s biggest crypto exchange.",
-        "image": "https://static01.nyt.com/images/2026/11/01/business/00biz-binance-ticktock/00biz-binance-ticktock-mediumSquareAt3X.jpg"
       }
     ],
-    "publishedAt": "2026-11-02T19:49:54.537Z"
+    "publishedAt": "2026-11-03T17:27:35.429Z"
   },
   "drafts": {},
   "history": [
+    {
+      "id": "ed_2026-11-03",
+      "publishDate": "2026-11-03",
+      "status": "published",
+      "updatedAt": "2026-11-03T17:27:35.429Z",
+      "title": "Systems of Control and Chaos",
+      "dek": "Navigating unpredictability in technology, biology, and the art world.",
+      "authorName": "Dr. Wallace Lynch",
+      "authorTitle": "Editor in Chief",
+      "paragraphs": [
+        "We live in an era obsessed with engineering predictability out of chaos. In the aerospace sector, Airbus is addressing the tumbling crisis of dead satellites that threaten orbit with a new passive spin stabilization solution. Down on Earth, executives and engineers alike are wrestling with system control. Apple is strategically capitalizing on the artificial intelligence boom without busting its budget on the massive infrastructure spending consuming its rivals. Conversely, Google recently had to dismantle a backdoor after an Android manufacturing partner secretly turned 1.3 million set-top boxes into a massive botnet.",
+        "This friction between the wild and the programmed extends to our physical environments. On the factory floor, experts are beginning to question the limits of automation, exploring what happens when an industrial robot is mathematically correct but an experienced human operator believes the machine is wrong. In neuroscience, researchers examining Belyaev's famous Siberian silver foxes discovered that domestication biologically pruned brain circuits, leaving the friendly animals with fewer estrogen receptor alpha neurons. Yet, we cannot entirely control nature; this vulnerability was tragically underscored by the recent death of a Washington state resident from bird flu following exposure to infected cattle.",
+        "Biological and systemic uncertainties will soon meet political reality, as lobbyists and experts attempt to predict how the upcoming midterms will reshape American health policy. Similarly, solar and wind developers are maneuvering to hold onto the long-term federal tax incentives established by the 2022 Inflation Reduction Act.",
+        "Even the art world is entangled in this web of unpredictability and administrative friction. Conceptual artist Mary Ellen Carroll has built a practice out of bureaucratic maneuvers and red tape, while exhibitors at Art Basel Paris are actively demanding compensation after security concerns over protests forced the fair to close two days early. Ultimately, whether we are analyzing modern policy or the profound impact of Marcel Duchamp’s impossible love for sculptor Maria Martins on his work, human unpredictability remains the one variable we cannot engineer away."
+      ],
+      "wordCount": 324,
+      "heroImage": "https://www.artforum.com/wp-content/uploads/2024/10/Basel-2024.jpeg?w=650",
+      "heroCredit": "Dealers At Art Basel Paris Seek Compensation For Early Fair Closure",
+      "heroSource": "Artforum",
+      "heroSourceUrl": "https://www.artforum.com/news/dealers-art-basel-paris-seek-compensation-early-closure-1234762893/",
+      "publishedAt": "2026-11-03T17:27:35.429Z"
+    },
     {
       "id": "ed_2026-11-02",
       "publishDate": "2026-11-02",
@@ -1482,29 +1504,6 @@
       "heroSource": "STAT News",
       "heroSourceUrl": "https://www.statnews.com/2026/08/12/ebola-who-drc-ebola-vaccine-trial/?utm_campaign=rss",
       "publishedAt": "2026-08-13T03:46:02.377Z"
-    },
-    {
-      "id": "ed_2026-08-10",
-      "publishDate": "2026-08-10",
-      "status": "published",
-      "updatedAt": "2026-08-11T01:55:43.406Z",
-      "title": "Chord Change and Fast Stack",
-      "dek": "Convergence of long time and the systems that refuse to wait",
-      "authorName": "Dr. Wallace Lynch",
-      "authorTitle": "Editor in Chief",
-      "paragraphs": [
-        "A chord can wait almost three years and still count as news. In Halberstadt, the 639 year John Cage performance sounded its first chord change since 2024 on August 5. That is one kind of American attention we still know how to honor: duration that does not apologize for being slow. Elsewhere the money moves in the opposite tempo. Major investors put some five hundred billion dollars behind Nvidia to raise data centers that house, run, and cool miles of stacked chips for AI work. The stack is not a song. It is a climate controlled factory for cognition.",
-        "On Monday, August 10, 2026, Chronicle of Convergence reads that split as one pressure to share the same rooms, and where the question is which clocks we treat as real.",
-        "The body keeps a slow repair story of its own. Specialized astrocytes can send cell nuclei through long cellular extensions to rebuild damaged glial networks. Repair travels. It does not only sit still and hope. At the same time, IEEE voices looking toward 2030 argue that the next chapter after chat is AI that perceives and acts in the physical world. Rocket Lab packages launch support as GHOST, containerized gear for orbital and suborbital work. Kepler books Rocket Lab’s Neutron for 2028 optical relay satellites. The sky is learning to ship infrastructure the way a site ships a kit.",
-        "Campus AI professors renegotiate what counts as research when models sit in the lab like junior colleagues. Public health returns to a contested childhood vaccine schedule by executive order. In Texas, liberals and conservatives meet on one rare point: they do not want networks of cameras quietly reading every plate. Solar tariffs promise higher install costs and a harder push to make panels at home. Under Lima’s historic center, walls, floors, burials, and 18th century tiles surface from a colonial hospital and church of the Holy Spirit. Ground remembers on a schedule no market can accelerate.",
-        "Convergence is not choosing the Cage chord or the chip stack. It is whether a people that can fund a half trillion dollar hall of inference can still protect the slow chord, the open street, and the long extension of repair when the fast stack wants every surface, schedule, and sky as inventory."
-      ],
-      "wordCount": 377,
-      "heroImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13ae/live/d1192590-9504-11f1-bf69-07da70b136c8.jpg",
-      "heroCredit": "Nvidia gets $500bn from major investors to develop AI infrastructure",
-      "heroSource": "BBC Technology",
-      "heroSourceUrl": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-11T01:55:43.406Z"
     }
   ],
   "usedHeroImages": [
@@ -1772,6 +1771,7 @@
     "https://artsy-media-uploads.s3.amazonaws.com/TCBXP42Kxc24p9pcnKtmkg%2F992A1169_1500x1000.jpg",
     "https://neurosciencenews.com/files/2026/10/preterm-cerebral-development-neuroscience-1155x770.jpg",
     "https://www.artforum.com/wp-content/uploads/2026/10/Tate-Britain-Commission-Zineb-Sedira-When-Words-Fall-Silent-Cinema-Speaks.-Photo-Tate-Joe-Humphrys.jpg?w=650",
-    "https://wp.technologyreview.com/wp-content/uploads/2026/10/MAIN-top.jpg?resize=1200,600"
+    "https://wp.technologyreview.com/wp-content/uploads/2026/10/MAIN-top.jpg?resize=1200,600",
+    "https://www.artforum.com/wp-content/uploads/2024/10/Basel-2024.jpeg?w=650"
   ]
 }
