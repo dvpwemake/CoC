@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-11-03T04-08",
+    "scannedAt": "2026-11-03T04:08:18.412Z",
+    "items": [
+      {
+        "id": "auto_2026-11-03T04-08_1",
+        "rank": 1,
+        "title": "North Korea denies being behind record $6.3bn Binance hack",
+        "category": "general",
+        "summary": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a90/live/75145840-d727-11f1-b237-93d5595d4291.jpg",
+        "source": "BBC Technology",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-03T04-08_2",
+        "rank": 2,
+        "title": "Chinese PhD students in clinical medicine can graduate without a thesis — more degrees to follow",
+        "category": "biotech",
+        "summary": "Nature, Published online: 03 November 2026; doi:10.1038/d41586-026-03480-7 This expands the country's ‘practical PhD’ programme beyond engineering students.",
+        "image": "",
+        "source": "Nature",
+        "sourceUrl": "https://www.nature.com/articles/d41586-026-03480-7",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-03T04-08_3",
+        "rank": 3,
+        "title": "Menopause Blood Protein Signature Tied to Dementia Risk",
+        "category": "neuroscience",
+        "summary": "How does menopause shape long-term brain health? A new study of 12,000 women reveals that a panel of 16 blood proteins linked to brain aging surges during the menopause transition, offering a midlife window to screen…",
+        "image": "https://neurosciencenews.com/files/2026/11/menopause-blood-dementia-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/menopause-blood-protein-dementia-32375/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-03T04-08_4",
+        "rank": 4,
+        "title": "Rudi Fuchs, Transformative Leader of Stedelijk Museum, Dead at 84",
+        "category": "art",
+        "summary": "Dutch art historian, critic, and curator Rudolf “Rudi” Fuchs died in Amsterdam on October 25 at the age of eighty-four. A former director of the Stedelijk Museum and one of the Netherlands’ most influential museum…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/11/RudiFuchs_758745.jpg?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/news/rudi-fuchs-leader-of-stedelijk-museum-dead-at-84-1234762875/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-03T04-08_5",
+        "rank": 5,
+        "title": "Happy 65 Years: NASA’s Johnson Space Center Then and Now",
+        "category": "space",
+        "summary": "Sixty-five years ago, a bold vision took root in Houston: a NASA center dedicated to human spaceflight. Since its founding, NASA’s Johnson Space Center has helped lead the nation’s human spaceflight program, supporting…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/10/s63-11625.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-11-02T20-54",
     "scannedAt": "2026-11-02T20:54:41.966Z",
     "items": [
@@ -2713,26 +2774,6 @@
         "source": "Artforum",
         "sourceUrl": "https://www.artforum.com/news/artistic-director-named-for-fifth-thailand-biennale-1234759814/",
         "fromX": false
-      }
-    ]
-  },
-  {
-    "batchId": "editorial_2026-09-27",
-    "scannedAt": "2026-09-27T21:33:05.143Z",
-    "kind": "editorial_archive",
-    "items": [
-      {
-        "id": "editorial_2026-09-27",
-        "rank": 0,
-        "title": "Scaling the Periphery",
-        "category": "editorial",
-        "summary": "The growing friction between aggressive scale and deliberate restraint.",
-        "image": "https://neurosciencenews.com/files/2026/09/nicotine-addiction-mitochondria-neurosceince-1155x770.jpg",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-09-27.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-09-27",
-        "authorName": "Dr. Wallace Lynch"
       }
     ]
   }
