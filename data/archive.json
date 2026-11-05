@@ -1,5 +1,25 @@
 [
   {
+    "batchId": "editorial_2026-11-04",
+    "scannedAt": "2026-11-04T19:22:17.538Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-11-04",
+        "rank": 0,
+        "title": "The Friction of Progress",
+        "category": "editorial",
+        "summary": "Navigating biological leaps, automated skies, and systemic stress.",
+        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/robinson-6-e1793807743309.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-11-04.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-11-04",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-11-05T19-05",
     "scannedAt": "2026-11-05T19:05:56.168Z",
     "items": [
