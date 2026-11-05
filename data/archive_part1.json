@@ -1,5 +1,86 @@
 [
   {
+    "batchId": "editorial_2026-09-28",
+    "scannedAt": "2026-09-29T00:04:56.422Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-09-28",
+        "rank": 0,
+        "title": "The Fault in Our Systems",
+        "category": "editorial",
+        "summary": "When Tech Meets Human Nature",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/starliner_thrusters1-1152x648.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-09-28.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-09-28",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
+    "batchId": "auto_2026-09-28T23-59",
+    "scannedAt": "2026-09-28T23:59:23.280Z",
+    "items": [
+      {
+        "id": "auto_2026-09-28T23-59_1",
+        "rank": 1,
+        "title": "Boeing \"incredibly excited\" to serve as nation's only astronaut transportation",
+        "category": "general",
+        "summary": "\"We couldn't provide detailed pricing to the CLD suppliers.\"",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/starliner_thrusters1-1152x648.jpg",
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/space/2026/09/boeing-incredibly-excited-to-serve-as-nations-only-astronaut-transportation/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-28T23-59_2",
+        "rank": 2,
+        "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+        "category": "ai",
+        "summary": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/MITTR-Roundtables-Zoom-Opening-Overlay.png?resize=1200,600",
+        "source": "MIT Technology Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-28T23-59_3",
+        "rank": 3,
+        "title": "Mystery Buyer of $9 Million Misattributed Rembrandt Unmasked",
+        "category": "art",
+        "summary": "The buyer of a formerly misattributed Rembrandt that hammered for $9 million at a Sotheby’s London sale in December 2025 has been revealed to be the world’s largest collector of the artist, the Art Newspaper reports.…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/09/RR-129_publication-1-1.jpeg?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/news/mystery-buyer-of-9-million-rembrandt-unmasked-1234760090/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-28T23-59_4",
+        "rank": 4,
+        "title": "A Day in the Life of a Roboticist: Charlie Kemp",
+        "category": "robotics",
+        "summary": "Building useful robots starts with understanding the people who use them. For Charlie Kemp, cofounder and chief technology officer of Hello Robot, that means developing assistive robots that can help people with…",
+        "image": "https://spectrum.ieee.org/media-library/man-standing-beside-a-tall-wheeled-robot-smiling-and-waving-at-the-camera.jpg?id=67880303&width=980",
+        "source": "IEEE Spectrum",
+        "sourceUrl": "https://robotsguide.com/learn/a-day-in-the-life-of-a-roboticist-charlie-kemp",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-09-28T23-59_5",
+        "rank": 5,
+        "title": "Risk from toxic metals can persist months after wildfires, Maui study finds",
+        "category": "biotech",
+        "summary": "Post-wildfire air quality needs to be monitored long term, suggests a study finding Maui residents had high levels of toxic metals months later.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/09/AP26271524443890-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/09/28/hawaii-wildfire-air-quality-risk-study/?utm_campaign=rss",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-09-27T22-36",
     "scannedAt": "2026-09-27T22:36:39.247Z",
     "items": [
@@ -2630,87 +2711,6 @@
         "image": "https://www.statnews.com/wp-content/uploads/2026/08/STAT-JustinDouglas-21-1024x576.jpg",
         "source": "STAT News",
         "sourceUrl": "https://www.statnews.com/2026/08/24/public-sector-workers-health-insurance-costs-hospital-union-battle/?utm_campaign=rss",
-        "fromX": false
-      }
-    ]
-  },
-  {
-    "batchId": "editorial_2026-08-24",
-    "scannedAt": "2026-08-24T04:15:29.426Z",
-    "kind": "editorial_archive",
-    "items": [
-      {
-        "id": "editorial_2026-08-24",
-        "rank": 0,
-        "title": "She still holds the string",
-        "category": "editorial",
-        "summary": "A fold that keeps a family, a cell that thins before memory speaks",
-        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/08/ajcip-1.jpg",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-24.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-08-24",
-        "authorName": "Dr. Wallace Lynch"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-08-23T20-07",
-    "scannedAt": "2026-08-23T20:07:19.979Z",
-    "items": [
-      {
-        "id": "auto_2026-08-23T20-07_1",
-        "rank": 1,
-        "title": "GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series",
-        "category": "general",
-        "summary": "It’s been over a decade and two console generations since GTA V came out, and its sequel is still a work in progress. GTA VI has faced multiple delays, with developer Rockstar Games bumping back its predicted release…",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/VINTAGE_VICE_CITY_PACK_02.jpg?quality=90&strip=all&crop=18.6%2C0%2C78.2%2C72.786503781268&w=1200",
-        "source": "The Verge",
-        "sourceUrl": "https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-23T20-07_2",
-        "rank": 2,
-        "title": "Curiosity Blog, Sols 4982–4987: Back to Our Regularly Scheduled Programming",
-        "category": "space",
-        "summary": "By Allison Dries-Padilla, Missions Operations Specialist at Malin Space Science Systems Earth planning date: Friday, Aug. 14, 2026 This week of Curiosity Mars rover operations takes us back to our “regularly scheduled…",
-        "image": "https://assets.science.nasa.gov/content/dam/science/missions/msl/2026/curiosity-rover-updates/august/https___mars.nasa.gov_msl-raw-images_msss_04982_mcam_4982MR1098550121904994C00_DXXX.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-        "source": "NASA",
-        "sourceUrl": "https://science.nasa.gov/blog/curiosity-blog-sols-4982-4987-back-to-our-regularly-scheduled-programming/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-23T20-07_3",
-        "rank": 3,
-        "title": "This common vitamin was linked to 13% better cognitive scores",
-        "category": "neuroscience",
-        "summary": "Older adults with mild cognitive impairment and sleep problems who took at least 5,000 IU of vitamin D daily scored more than 13% higher on a cognitive test than those taking none. The preliminary findings suggest…",
-        "image": "https://www.sciencedaily.com/images/1920/hand-holding-vitamin-d-pill-in-sunlight.webp",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260822015138.htm",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-23T20-07_4",
-        "rank": 4,
-        "title": "Travere Therapeutics Turns a Rare Disease Approval into Two Quarters of Accelerating Sales",
-        "category": "robotics",
-        "summary": "The Food and Drug Administration granted Travere Therapeutics full approval for FILSPARI in focal segmental glomerulosclerosis on April 13, 2026, the drug's second full approval after a 2023 clearance for IgA…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/stocks-and-shares-1.jpg",
-        "source": "Robotics & Automation News",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/22/travere-therapeutics-turns-a-rare-disease-approval-into-two-quarters-of-accelerating-sales/104412/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-23T20-07_5",
-        "rank": 5,
-        "title": "Mariam Elnozahy Appointed As Curator Of The 2027 Ulaanbaatar Biennale",
-        "category": "art",
-        "summary": "Researcher, writer, and curator Mariam Elnozahy has been announced as chief curator of the second edition of the Ulaanbaatar Biennale. The event, which serves as a nexus for the Mongolian arts and culture sector to…",
-        "image": "https://www.artforum.com/wp-content/uploads/2026/08/Mariam-Portrait-_-Louise-Helmfrid-scaled-1.jpg?w=650",
-        "source": "Artforum",
-        "sourceUrl": "https://www.artforum.com/news/mariam-elnozahy-ulaanbaatar-biennale-1234757716/",
         "fromX": false
       }
     ]
