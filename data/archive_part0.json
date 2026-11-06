@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-11-06T00-34",
+    "scannedAt": "2026-11-06T00:34:33.274Z",
+    "items": [
+      {
+        "id": "auto_2026-11-06T00-34_1",
+        "rank": 1,
+        "title": "$3 Million Georgia O’Keeffe Found Under Pile of Coats Heads to Auction",
+        "category": "art",
+        "summary": "An early Georgia O’Keeffe work discovered in a closet in Manhattan’s East Village in 2022 is bound for the auction block. O’Keeffe’s Near Abiquiu, New Mexico I, 1930, is estimated to get $3 million at Christie’s…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/11/new-okeeffe-lobo-peak-1024x418.jpg.webp?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/news/georgia-okeeffe-found-hidden-in-closet-bound-for-auction-1234763146/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-06T00-34_2",
+        "rank": 2,
+        "title": "Airbnb is working on an AI travel agent",
+        "category": "general",
+        "summary": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today. \"Today's AI agents are good at…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/acastro_STK090_06.jpg?quality=90&strip=all&crop=0%2C10.761835884455%2C100%2C78.47632823109&w=1200",
+        "source": "The Verge",
+        "sourceUrl": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-06T00-34_3",
+        "rank": 3,
+        "title": "CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synchronicity Satellite Constellation Foll",
+        "category": "space",
+        "summary": "CesiumAstro Inc., a global leader in space and defense communications systems and satellites, today announced the closing of $730 million in Series D financing, valuing the company at more than […] The post CesiumAstro…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/cesiumastro-logo-square.png?fit=1024%2C976&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/cesiumastro-secures-730-million-in-janus-henderson-led-series-d-at-a-valuation-above-4-5-billion-unveils-synchronicity-satellite-constellation-following-fully-successful-element-1-mission/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-06T00-34_4",
+        "rank": 4,
+        "title": "STAT+: Pharma's trade group spent heavily on search ads to sway public opinion",
+        "category": "biotech",
+        "summary": "PhRMA spent an estimated $59 million on search advertising over a recent seven-year period to influence how Americans view prescription drug costs.",
+        "image": "https://www.statnews.com/wp-content/uploads/2025/12/AP20037762849886-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/pharmalot/2026/11/05/phrma-blamed-pbms-high-drug-prices-search-ads/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-06T00-34_5",
+        "rank": 5,
+        "title": "Estrogen Exposure Shields the Aging Brain",
+        "category": "neuroscience",
+        "summary": "Does lifetime estrogen protect the brain's microcirculation? A 5-year MRI study in Neurology reveals that a longer reproductive lifespan and hormone therapy use cut cerebral small vessel disease burden by up to 59%,…",
+        "image": "https://neurosciencenews.com/files/2026/11/estrogen-cognition-brain-aging-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/estrogen-cognition-brain-aging-32387/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-11-05T19-05",
     "scannedAt": "2026-11-05T19:05:56.168Z",
     "items": [
@@ -57,6 +118,26 @@
         "source": "SpaceNews",
         "sourceUrl": "https://spacenews.com/cork-takes-the-heat-so-dracos-data-can-survive/",
         "fromX": false
+      }
+    ]
+  },
+  {
+    "batchId": "editorial_2026-11-04",
+    "scannedAt": "2026-11-04T19:22:17.538Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-11-04",
+        "rank": 0,
+        "title": "The Friction of Progress",
+        "category": "editorial",
+        "summary": "Navigating biological leaps, automated skies, and systemic stress.",
+        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/robinson-6-e1793807743309.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-11-04.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-11-04",
+        "authorName": "Dr. Wallace Lynch"
       }
     ]
   },
@@ -2732,67 +2813,6 @@
         "image": "https://neurosciencenews.com/files/2026/09/AI-Speech-Clock-Predicts-Biological-Aging-1155x770.jpg",
         "source": "Neuroscience News",
         "sourceUrl": "https://neurosciencenews.com/ai-voice-clock-aging-31278/",
-        "fromX": false
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-09-29T20-16",
-    "scannedAt": "2026-09-29T20:16:49.844Z",
-    "items": [
-      {
-        "id": "auto_2026-09-29T20-16_1",
-        "rank": 1,
-        "title": "Ukrainian Museum in New York marks 50th anniversary by showing collection to its neighbours",
-        "category": "art",
-        "summary": "A new project by the artist Molly Gochman features large-scale reproductions of artefacts from the museum’s collection on its glass façade",
-        "image": "https://cdn.sanity.io/images/cxgd3urn/production/9d65d17b2cf6015b50b9a1c7ec4b385b1bdd3ebd-2000x2667.jpg?rect=0,1108,2000,1559&w=140",
-        "source": "The Art Newspaper",
-        "sourceUrl": "https://www.theartnewspaper.com/2026/09/29/ukrainian-museum-new-york-50th-anniversary-molly-gochman-lobby-installation",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-29T20-16_2",
-        "rank": 2,
-        "title": "Ukrainian Science Academy, Struck by Drone, Played Key Role in Research",
-        "category": "general",
-        "summary": "Over 90 percent of Ukraine’s scientific discoveries have been attributed to Ukraine’s National Academy of Sciences, including advancements in astronomy and military technology.",
-        "image": "https://static01.nyt.com/images/2026/09/29/multimedia/29sci-ukraine-science-wgmp/29sci-ukraine-science-wgmp-mediumSquareAt3X-v2.jpg",
-        "source": "NYT Technology",
-        "sourceUrl": "https://www.nytimes.com/2026/09/29/science/ukraine-science-academy-russia-attack.html",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-29T20-16_3",
-        "rank": 3,
-        "title": "NASA Sets Crew-13 Launch, Docking Coverage",
-        "category": "space",
-        "summary": "NASA will provide live coverage of prelaunch, launch, and docking activities for the agency’s SpaceX Crew‑13 mission to the International Space Station. Live coverage will stream through a variety of platforms. Learn…",
-        "image": "https://images-assets.nasa.gov/image/jsc2026e401203/jsc2026e401203~large.jpg",
-        "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/news-release/nasa-sets-crew-13-launch-docking-coverage/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-29T20-16_4",
-        "rank": 4,
-        "title": "STAT+: PhRMA taps Eric Cantor as new CEO",
-        "category": "biotech",
-        "summary": "Eric Cantor, a former GOP House majority leader, is taking the helm of PhRMA at a challenging time for the industry.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/09/GettyImages-2295477573-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/09/29/eric-cantor-named-phrma-ceo/?utm_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-29T20-16_5",
-        "rank": 5,
-        "title": "Neck Cancer Surgery May Disrupt Brain Drainage and Cognition",
-        "category": "neuroscience",
-        "summary": "Removing neck lymph nodes can block brain fluid drainage, leading to ventricular enlargement and cognitive decline.",
-        "image": "https://neurosciencenews.com/files/2026/09/Could-removing-neck-lymph-nodes-impact-brain-health-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/lymph-node-removal-cognition-31270/",
         "fromX": false
       }
     ]
