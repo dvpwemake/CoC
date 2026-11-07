@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-11-07T03-19",
+    "scannedAt": "2026-11-07T03:19:40.904Z",
+    "items": [
+      {
+        "id": "auto_2026-11-07T03-19_1",
+        "rank": 1,
+        "title": "Researchers Identify Suspicious Activity on Kalshi and Polymarket Before Times/Siena Poll Release",
+        "category": "general",
+        "summary": "A trader placed well-timed bets on Polymarket and Kalshi in two Senate races. It was unclear if the person had access to inside information or simply made good trades.",
+        "image": "https://static01.nyt.com/images/2026/11/04/multimedia/2026-11-04-insider-trading-index/2026-11-04-insider-trading-index-mediumSquareAt3X.png",
+        "source": "NYT Technology",
+        "sourceUrl": "https://www.nytimes.com/2026/11/06/technology/kalshi-polymarket-nyt-siena-poll-bets.html",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-07T03-19_2",
+        "rank": 2,
+        "title": "Pablo Helguera to Lead New School’s Vera List Center",
+        "category": "art",
+        "summary": "The Vera List Center for Art and Politics (VLC) at the New School, New York, has announced artist and educator Pablo Helguera as its new director, effective November 2. He succeeds Carin Kuoni, who has led the center…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/11/pablo-helguera.jpg.webp?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/news/pablo-helguera-to-lead-new-school-vera-list-center-1234763219/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-07T03-19_3",
+        "rank": 3,
+        "title": "STAT+: MAHA leader Calley Means castigates White House officials as bending to industry",
+        "category": "biotech",
+        "summary": "Calley Means, a MAHA leader who just resigned from the Trump administration, says Americans \"are being duped and gaslighted and lied to.\"",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/10/GettyImages-2210915866-1-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/11/06/calley-means-joe-rogan-trump-maha-agenda-derailed-by-corporate-influence/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-07T03-19_4",
+        "rank": 4,
+        "title": "Best Shopify Plus Agencies for B2B Wholesale, Compared by ERP and Order Complexity",
+        "category": "robotics",
+        "summary": "Netalico ranks first in this comparison of Shopify Plus agencies for B2B wholesale, because a single in-house team handles the ERP sync, the company accounts, the price lists and net terms, and the storefront that has…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/shopify-plus-1.jpeg",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/11/06/best-shopify-plus-agencies-for-b2b-wholesale-compared-by-erp-and-order-complexity/106767/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-07T03-19_5",
+        "rank": 5,
+        "title": "Voters gave a big middle finger to data centers",
+        "category": "energy",
+        "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter. Sign up to get it every Friday. Americans aren’t happy about the data center boom, and they made their displeasure pretty clear this Election…",
+        "image": "https://img.canarymedia.com/content/uploads/Untitled-November-06-2026-at-11.11.25.png?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=80&w=1200&s=167c8ca1152925774739fb83cc78dd4e",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/data-centers/data-center-voters-election-day",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-11-06T23-50",
     "scannedAt": "2026-11-06T23:50:31.277Z",
     "items": [
@@ -2752,67 +2813,6 @@
         "image": "https://neurosciencenews.com/files/2026/10/circadian-wakefulness-neuroscience-1155x770.jpg",
         "source": "Neuroscience News",
         "sourceUrl": "https://neurosciencenews.com/circadian-dopamine-wakefulness-31283/",
-        "fromX": false
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-09-30T23-14",
-    "scannedAt": "2026-09-30T23:14:17.048Z",
-    "items": [
-      {
-        "id": "auto_2026-09-30T23-14_1",
-        "rank": 1,
-        "title": "Tiny image sparks big backlash in Nikon photo contest",
-        "category": "general",
-        "summary": "Dr Ning Xu denies he broke the rules of Nikon's annual Small World In Motion contest.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96e1/live/ce7836b0-bcea-11f1-8ce2-417f8f7cb095.jpg",
-        "source": "BBC Technology",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ck4gjn1yzprno?at_medium=RSS&at_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-30T23-14_2",
-        "rank": 2,
-        "title": "STAT+: UnitedHealth investor lawsuit moves forward on allegations it ‘manufactured earnings' to hide declining profits",
-        "category": "biotech",
-        "summary": "An investor lawsuit against UnitedHealth Group will move forward after a federal judge declined the company’s motion to dismiss allegations.",
-        "image": "https://www.statnews.com/wp-content/uploads/2025/03/240720_UnitedHealthGroupDrone_0286-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/09/30/unitedhealth-investor-lawsuit-moves-forward-allegations-of-manufactured-earnings-to-hide-declining-profits/?utm_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-30T23-14_3",
-        "rank": 3,
-        "title": "New York's Split Level art fair returns to Madison Avenue design showroom for second edition",
-        "category": "art",
-        "summary": "The fair is once again taking over Rimadesio’s design showroom, giving pride of place to young galleries with a focus on experimentation and affordability",
-        "image": "https://cdn.sanity.io/images/cxgd3urn/production/669e70dc781c8f2c73ae7cf2fcb60b9e25e04da0-4000x3000.jpg?w=140",
-        "source": "The Art Newspaper",
-        "sourceUrl": "https://www.theartnewspaper.com/2026/09/30/new-york-split-level-art-fair-second-edition-madison-avenue",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-30T23-14_4",
-        "rank": 4,
-        "title": "Senate permitting bill could greatly expand power lines and clean energy",
-        "category": "energy",
-        "summary": "The U.S. Senate energy permitting bill unveiled Wednesday could streamline the buildout of high-voltage power lines across the country, potentially delivering billions of dollars in electricity cost savings and…",
-        "image": "https://img.canarymedia.com/content/uploads/Los-Banos-California-transmissin-line_GettyImages-1322194997.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=72391c72bef386431b5f9aaedf5fa3d0",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/transmission/senate-permitting-bill-power-lines",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-30T23-14_5",
-        "rank": 5,
-        "title": "Could Your Voice Reveal How Fast Your Brain Is Aging?",
-        "category": "neuroscience",
-        "summary": "A machine-learning speech clock reveals biological aging, brain atrophy, and dementia biomarkers from voice patterns.",
-        "image": "https://neurosciencenews.com/files/2026/09/AI-Speech-Clock-Predicts-Biological-Aging-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/ai-voice-clock-aging-31278/",
         "fromX": false
       }
     ]
