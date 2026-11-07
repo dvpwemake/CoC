@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-11-07T17-01",
-    "scannedAt": "2026-11-07T17:01:19.245Z",
+    "batchId": "auto_2026-11-07T23-08",
+    "scannedAt": "2026-11-07T23:08:03.032Z",
     "items": [
       {
-        "id": "auto_2026-11-07T17-01_1",
+        "id": "auto_2026-11-07T23-08_1",
         "rank": 1,
-        "title": "The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance",
-        "category": "general",
-        "summary": "With temperatures rising to the 90s in Los Angeles, avoiding the heat wasn't exactly an option while I was at a relative's outdoor party in August. So I sat beneath a patio umbrella with a powerful fan nearby, figuring…",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268829_The90_Gem_SVasani_0002.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "sourceUrl": "https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-11-07T17-01_2",
-        "rank": 2,
-        "title": "STAT+: BIO joins the legal fight against Medicare pilot that ties drug prices to peer countries",
-        "category": "biotech",
-        "summary": "The model is a test of Trump's most-favored nation approach to drug pricing, though its impact is likely to be limited.",
-        "image": "https://www.statnews.com/wp-content/uploads/2023/04/AdobeStock_576237302-1024x576.jpeg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/11/07/bio-sues-to-block-globe-drug-pricing-model/?utm_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-11-07T17-01_3",
-        "rank": 3,
-        "title": "The Artsy Vanguard 2027: Danielle Fretwell",
-        "category": "art",
-        "summary": "At first glance, Danielle Fretwell ’s paintings look like lavish feasts. Fish, berries, flowers, silverware, and antique linens are rendered in rich detail, recalling the still lifes of the Dutch Golden Age . Some are…",
-        "image": "https://artsy-media-uploads.s3.amazonaws.com/lKv29-i_731CwjqYdDWHEg%2F05_Vanguard_Thumbnail_Danielle+%281%29.png",
-        "source": "Artsy",
-        "sourceUrl": "https://www.artsy.net/article/artsy-editorial-artsy-vanguard-2027-danielle-fretwell",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-11-07T17-01_4",
-        "rank": 4,
-        "title": "Magic mushrooms rewire the brain in a way scientists didn't expect",
-        "category": "neuroscience",
-        "summary": "A surprising discovery reveals how psilocybin, the active compound in magic mushrooms, rapidly reshapes the brain by creating new neural connections and strengthening them. Researchers found that the drug behaves…",
-        "image": "https://www.sciencedaily.com/images/1920/brain-network-connections-mind.webp",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261104012308.htm",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-11-07T17-01_5",
-        "rank": 5,
-        "title": "A dead star's mysterious rings reveal what could happen when our Sun dies",
+        "title": "NASA Awards Moon Base Transportation, Technology, Science Projects",
         "category": "space",
-        "summary": "Astronomers have discovered a strange double ring of planetary wreckage around a dead star, revealing a possible preview of our Solar System's distant future. The two rings are separated by a mysterious gap that…",
-        "image": "https://www.sciencedaily.com/images/1920/debris-disc-around-white-dwarf-j1328-1450.webp",
+        "summary": "NASA announced a suite of awards and mission updates on Saturday to expand the agency's Moon Base exploration, science, and infrastructure capabilities. The investments will advance commercial robotic deliveries, a…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/11/moon-base-artists-concept.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-07T23-08_2",
+        "rank": 2,
+        "title": "Lowering blood pressure after stroke or with diabetes poses challenges, in research and practice",
+        "category": "biotech",
+        "summary": "High blood pressure is known as the silent killer. Researchers are finding new ways to fight back.",
+        "image": "https://www.statnews.com/wp-content/uploads/2019/02/GettyImages-57319981-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/11/07/new-studies-on-blood-pressure-management-aha-conference-news/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-07T23-08_3",
+        "rank": 3,
+        "title": "Sweden Returns Benin Bronzes to Nigeria",
+        "category": "art",
+        "summary": "Sweden will return 40 sacred Benin artifacts to Nigeria. It will be one of the largest repatriations of Benin work to date. The artworks were set to return to Lagos yesterday. Oba Ewuare II, the monarch of Benin, has…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/11/Benin_Bronze.jpg?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/news/sweden-returns-benin-bronzes-nigeria-1234763242/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-07T23-08_4",
+        "rank": 4,
+        "title": "Jeffrey Wigand, Who Blew the Whistle on Big Tobacco, Takes a Lot of Calls",
+        "category": "general",
+        "summary": "Jeffrey Wigand, who took on Big Tobacco, counsels insiders who think they have a story about wrongdoing. There are quite a few of them.",
+        "image": "https://static01.nyt.com/images/2026/11/08/multimedia/WHISTELBLOWER-02-wphl/WHISTELBLOWER-02-wphl-mediumSquareAt3X.jpg",
+        "source": "NYT Technology",
+        "sourceUrl": "https://www.nytimes.com/2026/11/07/technology/whistle-blowers-jeffrey-wigand.html",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-07T23-08_5",
+        "rank": 5,
+        "title": "Drinking 2–3 cups of coffee a day linked to dramatically lower dementia risk",
+        "category": "neuroscience",
+        "summary": "Drinking two to three cups of caffeinated coffee daily was linked to a dramatically lower risk of dementia and better cognitive functioning in a study spanning up to 43 years. The benefits appeared regardless of genetic…",
+        "image": "https://www.sciencedaily.com/images/1920/happy-elderly-man-coffee.webp",
         "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261104012250.htm",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261105224550.htm",
         "fromX": false
       }
     ]
