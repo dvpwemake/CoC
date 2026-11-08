@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-11-08T02-48",
+    "scannedAt": "2026-11-08T02:48:50.670Z",
+    "items": [
+      {
+        "id": "auto_2026-11-08T02-48_1",
+        "rank": 1,
+        "title": "Can the Zelda remake capture the magic of the original?",
+        "category": "general",
+        "summary": "Nintendo has released its remake of what is considered one of the best games ever made - the BBC's Tom Gerken gives his verdict.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e2f/live/adc5ae70-d699-11f1-8052-913cc7942a17.jpg",
+        "source": "BBC Technology",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o?at_medium=RSS&at_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-08T02-48_2",
+        "rank": 2,
+        "title": "NASA Seeks Next Generation of Explorers to Join Astronaut Corps",
+        "category": "space",
+        "summary": "NASA is looking for the explorers who will help write the next chapter of human spaceflight. Applications are now open for the agency’s next class of astronauts, who will join NASA as America returns to the Moon, builds…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2025e076292large.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-08T02-48_3",
+        "rank": 3,
+        "title": "STAT+: BIO joins the legal fight against Medicare pilot that ties drug prices to peer countries",
+        "category": "biotech",
+        "summary": "The model is a test of Trump's most-favored nation approach to drug pricing, though its impact is likely to be limited.",
+        "image": "https://www.statnews.com/wp-content/uploads/2023/04/AdobeStock_576237302-1024x576.jpeg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/11/07/bio-sues-to-block-globe-drug-pricing-model/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-08T02-48_4",
+        "rank": 4,
+        "title": "The Artsy Vanguard 2027: Danielle Fretwell",
+        "category": "art",
+        "summary": "At first glance, Danielle Fretwell ’s paintings look like lavish feasts. Fish, berries, flowers, silverware, and antique linens are rendered in rich detail, recalling the still lifes of the Dutch Golden Age . Some are…",
+        "image": "https://artsy-media-uploads.s3.amazonaws.com/lKv29-i_731CwjqYdDWHEg%2F05_Vanguard_Thumbnail_Danielle+%281%29.png",
+        "source": "Artsy",
+        "sourceUrl": "https://www.artsy.net/article/artsy-editorial-artsy-vanguard-2027-danielle-fretwell",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-08T02-48_5",
+        "rank": 5,
+        "title": "Magic mushrooms rewire the brain in a way scientists didn't expect",
+        "category": "neuroscience",
+        "summary": "A surprising discovery reveals how psilocybin, the active compound in magic mushrooms, rapidly reshapes the brain by creating new neural connections and strengthening them. Researchers found that the drug behaves…",
+        "image": "https://www.sciencedaily.com/images/1920/brain-network-connections-mind.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261104012308.htm",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-11-07T23-08",
     "scannedAt": "2026-11-07T23:08:03.032Z",
     "items": [
@@ -2753,67 +2814,6 @@
         "isEditorialArchive": true,
         "publishDate": "2026-10-02",
         "authorName": "Dr. Wallace Lynch"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-10-01T23-29",
-    "scannedAt": "2026-10-01T23:29:56.750Z",
-    "items": [
-      {
-        "id": "auto_2026-10-01T23-29_1",
-        "rank": 1,
-        "title": "Contemporary Istanbul founder planning new fair on city's Asian side",
-        "category": "art",
-        "summary": "The 21st edition of the fair occupied a new single-floor site at the Ottoman era shipping yard Tersane Istanbul",
-        "image": "https://cdn.sanity.io/images/cxgd3urn/production/605e24bfdbffa47ab9d78abde9521a51f0d09378-9504x6336.jpg?w=140",
-        "source": "The Art Newspaper",
-        "sourceUrl": "https://www.theartnewspaper.com/2026/10/02/contemporary-istanbul-founder-planning-new-fair-on-citys-asian-side",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-01T23-29_2",
-        "rank": 2,
-        "title": "Apple’s reportedly developing a smart home camera that doesn’t record video",
-        "category": "general",
-        "summary": "Apple's rumored push into smart home tech could include a smart home security camera that only gives users text event descriptions instead of video footage. Mark Gurman said in the first episode of the Power On podcast…",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_APPLE_I.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "sourceUrl": "https://www.theverge.com/tech/1003877/apple-security-camera-no-video",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-01T23-29_3",
-        "rank": 3,
-        "title": "The USDA just made it way harder for farmers to get grants for solar",
-        "category": "energy",
-        "summary": "Rules published Thursday essentially end federal grants that thousands of American farmers have long relied on to build revenue-generating solar systems on their land. The Trump administration’s changes to the Rural…",
-        "image": "https://img.canarymedia.com/content/uploads/Barn-with-solar-panels-woman-and-dog_GettyImages-149773498.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=371279a3fc4b3d3b5bca059ac48b38bb",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/food-and-farms/usda-reap-grants-for-solar",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-01T23-29_4",
-        "rank": 4,
-        "title": "STAT+: Medicare Advantage plans shift more costs onto seniors in 2027",
-        "category": "biotech",
-        "summary": "Premiums are stable, but Medicare Advantage plans are making big changes that could make care more expensive for patients.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/10/AdobeStock_378253117-1024x576.jpeg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/10/01/medicare-advantage-plans-have-higher-deductibles-fewer-benefits-in-2027/?utm_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-01T23-29_5",
-        "rank": 5,
-        "title": "How the Biological Clock Tells the Brain It’s Time to Wake Up",
-        "category": "neuroscience",
-        "summary": "Scientists identify a neural circuit linking the biological clock to dopaminergic neurons and the mushroom body to control wakefulness.",
-        "image": "https://neurosciencenews.com/files/2026/10/circadian-wakefulness-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/circadian-dopamine-wakefulness-31283/",
-        "fromX": false
       }
     ]
   }

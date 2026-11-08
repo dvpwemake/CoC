@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-08-25T20-13",
+    "scannedAt": "2026-08-25T20:13:14.046Z",
+    "items": [
+      {
+        "id": "auto_2026-08-25T20-13_1",
+        "rank": 1,
+        "title": "US State Department Looks to Sell “Woke” Kehinde Wiley Painting",
+        "category": "art",
+        "summary": "The US State Department has said it is contemplating selling a painting by Kehinde Wiley that it removed from the U.S. Embassy in the Dominican Republic last week, after the director of the department’s Art in Embassies…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/08/GettyImages-917389214.jpg?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/news/us-state-department-looks-to-sell-kehinde-wiley-painting-1234757807/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-25T20-13_2",
+        "rank": 2,
+        "title": "Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails",
+        "category": "general",
+        "summary": "Irregular, an Israeli start-up, worked with OpenAI, Anthropic and Meta to assess the security of their A.I. models. It made a mistake. Then the tests went off the rails.",
+        "image": "https://static01.nyt.com/images/2026/08/27/business/00biz-irregular-ai/00biz-irregular-ai-mediumSquareAt3X.jpg",
+        "source": "NYT Technology",
+        "sourceUrl": "https://www.nytimes.com/2026/08/25/technology/irregular-ai-test-hacks.html",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-25T20-13_3",
+        "rank": 3,
+        "title": "Propulsion is having a moment",
+        "category": "space",
+        "summary": "In this episode, SpaceNews Mike Gruss interviews Kevin Lausten, CEO of Morpheus Space, at the 2026 Small Satellite Conference in Salt Lake City, Utah. They discuss why propulsion is critical […] The post Propulsion is…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/1500-1000-space-minds-morpheus-space-smallsat262-scaled.jpg?fit=1024%2C768&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/propulsion-is-having-a-moment/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-25T20-13_4",
+        "rank": 4,
+        "title": "STAT+: How Trump's funding cuts are reshaping the health system",
+        "category": "biotech",
+        "summary": "STAT examines Republicans’ health care funding cuts, mRNA science defeats politics, and Medicaid tries out a new way to deny drug coverage.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/08/20260728_STATRuralHostpials_1488-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/08/25/how-trumps-funding-cuts-are-reshaping-the-health-system/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-25T20-13_5",
+        "rank": 5,
+        "title": "NEC invests in US-based robotics startup Dexmate",
+        "category": "robotics",
+        "summary": "Japanese technology giant NEC’s corporate venture capital fund has invested in US-based robotics startup Dexmate, developer of the VEGA humanoid robot and an integrated physical AI development platform. The investment…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/Dexmate-robots-1.jpeg",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/08/25/nec-invests-in-us-based-robotics-startup-dexmate/104453/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-08-24T20-14",
     "scannedAt": "2026-08-24T20:14:39.621Z",
     "items": [
@@ -2630,62 +2691,6 @@
         "source": "X · @web3l0var",
         "sourceUrl": "https://x.com/web3l0var/status/2079909448219271368",
         "fromX": true
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-07-21T20-55",
-    "scannedAt": "2026-07-21T20:55:13.597Z",
-    "items": [
-      {
-        "id": "auto_2026-07-21T20-55_1",
-        "rank": 1,
-        "title": "Digital Media Alters Cognitive Willingness",
-        "category": "neuroscience",
-        "summary": "A new study proposes that digital media usage alters human focus through a mechanism called \"effort recalibration.\"",
-        "image": "https://neurosciencenews.com/files/2026/07/digital-media-cognition-neurosience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/digital-media-cognitive-willingness-31099/"
-      },
-      {
-        "id": "auto_2026-07-21T20-55_2",
-        "rank": 2,
-        "title": "SVA Grads Make Art out of History’s Rubble",
-        "category": "art",
-        "summary": "The Art Practice MFA thesis exhibition rewrites what came before, pushing back against harmful systems and inventing better ways of living together.",
-        "image": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/07/Finding-Here_SVA-MFA-Art-Practice-thesis-show_-01.jpg",
-        "source": "Hyperallergic",
-        "sourceUrl": "https://hyperallergic.com/sva-grads-make-art-out-of-historys-rubble/"
-      },
-      {
-        "id": "auto_2026-07-21T20-55_3",
-        "rank": 3,
-        "title": "Trump administration says it's deferring $1B in Medicaid payments to California and Minnesota",
-        "category": "biotech",
-        "summary": "The Trump administration said it was deferring more than $1 billion in Medicaid payments to Minnesota and California because of “suspected fraud and noncompliance.”",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/07/AP26189616840412-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/07/21/medicaid-payments-1-billion-deferred-california-minnesota/?utm_campaign=rss"
-      },
-      {
-        "id": "auto_2026-07-21T20-55_4",
-        "rank": 4,
-        "title": "Northrop adds to charges on Vulcan solid rocket motor program",
-        "category": "space",
-        "summary": "Northrop Grumman took another charge for the solid rocket boosters it provides for the Vulcan Centaur and suggested updated motors might not be ready until the end of the year. The post Northrop adds to charges on…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/55091188472_c01b4e3cdc_k.jpg?fit=1024%2C732&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/northrop-adds-to-charges-on-vulcan-solid-rocket-motor-program/"
-      },
-      {
-        "id": "auto_2026-07-21T20-55_5",
-        "rank": 5,
-        "title": "Startup offers low-cost home batteries to Massachusetts residents",
-        "category": "energy",
-        "summary": "Haven Energy is the newest company offering home battery service in Massachusetts for a low monthly payment, a model supporters say could accelerate adoption of residential storage. Starting in four counties in the…",
-        "image": "https://img.canarymedia.com/content/uploads/Tesla-batteris-in-Canada-home_GettyImages-967233426.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=d3ef0d003b9eaa23273e8dcbafef9b02",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/batteries/haven-energy-low-cost-batteries-massachusetts"
       }
     ]
   }
