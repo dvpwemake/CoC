@@ -1,5 +1,25 @@
 [
   {
+    "batchId": "editorial_2026-10-02",
+    "scannedAt": "2026-10-02T07:19:46.793Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-10-02",
+        "rank": 0,
+        "title": "The Unseen Tectonic Shifts",
+        "category": "editorial",
+        "summary": "On hidden circuits, shifting social contracts, and the art of redrawing boundaries",
+        "image": "https://neurosciencenews.com/files/2026/10/alzheimers-brain-aging-neuroscience-1155x770.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-10-02.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-10-02",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-10-01T23-29",
     "scannedAt": "2026-10-01T23:29:56.750Z",
     "items": [
@@ -2753,26 +2773,6 @@
         "source": "STAT News",
         "sourceUrl": "https://www.statnews.com/2026/08/26/cac-scans-statin-use-prevent-calculator-heart-disease-risk/?utm_campaign=rss",
         "fromX": false
-      }
-    ]
-  },
-  {
-    "batchId": "editorial_2026-08-25",
-    "scannedAt": "2026-08-25T21:03:58.550Z",
-    "kind": "editorial_archive",
-    "items": [
-      {
-        "id": "editorial_2026-08-25",
-        "rank": 0,
-        "title": "The keys already in the building",
-        "category": "editorial",
-        "summary": "Young Artists comes down from Santo Domingo",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/08/20260728_STATRuralHostpials_1488-1024x576.jpg",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-25.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-08-25",
-        "authorName": "Dr. Wallace Lynch"
       }
     ]
   }
