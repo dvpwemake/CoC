@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-11-10T04-50",
+    "scannedAt": "2026-11-10T04:50:57.428Z",
+    "items": [
+      {
+        "id": "auto_2026-11-10T04-50_1",
+        "rank": 1,
+        "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+        "category": "general",
+        "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f773/live/9c28e680-dc95-11f1-a701-fddedf244c16.jpg",
+        "source": "BBC Technology",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-10T04-50_2",
+        "rank": 2,
+        "title": "Hundreds protest US Senate bill that would gut key section of National Historic Preservation Act",
+        "category": "art",
+        "summary": "Organisers said around 800 people gathered on the grounds of the US Capitol on Monday in opposition of the Bipartisan American Affordability and Jobs Act",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/5b7ce5ed5d9d5746c8ca66d122db4da20151e30f-2000x1400.jpg?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/11/09/protest-us-capitol-bipartisan-american-affordability-jobs-act-national-historic-preservation-act-section-106",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-10T04-50_3",
+        "rank": 3,
+        "title": "Alzheimer’s may have early warning signs outside the brain",
+        "category": "neuroscience",
+        "summary": "A surprising discovery suggests that some early signs of Alzheimer’s disease may begin outside the brain. Using miniature laboratory systems made from human cells, scientists found that genetic mutations associated with…",
+        "image": "https://www.sciencedaily.com/images/1920/dementia-memory-treatment-brain-puzzle.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261108233103.htm",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-10T04-50_4",
+        "rank": 4,
+        "title": "Curiosity Blog, Sols 5056-5062: Charging Back Up!",
+        "category": "space",
+        "summary": "By Remington Free, Operations Systems Engineer, NASA-JPL Earth planning date: Friday, Oct. 30, 2026 Today’s plan covered 3 sols, 5060, 5061, and 5062, as we take a few recharging sols before getting back to our normal…",
+        "image": "https://assets.science.nasa.gov/content/dam/science/missions/msl/2026/curiosity-rover-updates/october/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_05062_opgs_edr_ncam_NRB_846865643EDR_S1251326NCAM00592M_.JPG/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "source": "NASA",
+        "sourceUrl": "https://science.nasa.gov/blog/curiosity-blog-sols-5056-5062-charging-back-up/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-10T04-50_5",
+        "rank": 5,
+        "title": "STAT+: Ionis Pharmaceuticals shares plummet after slow rollout of biotech’s triglyceride-lowering drug",
+        "category": "biotech",
+        "summary": "Ionis Pharmaceuticals lost more than $1 billion in market value on Monday after the company slashed sales projections for a triglyceride-lowering drug.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/09/AP7357695644179726-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/11/09/ionis-pharmaceuticals-shares-plummet-after-tryngolza-slow-rollout/?utm_campaign=rss",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-11-09T23-52",
     "scannedAt": "2026-11-09T23:52:13.410Z",
     "items": [

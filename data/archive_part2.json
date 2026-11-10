@@ -1,25 +1,5 @@
 [
   {
-    "batchId": "editorial_2026-08-25",
-    "scannedAt": "2026-08-25T21:03:58.550Z",
-    "kind": "editorial_archive",
-    "items": [
-      {
-        "id": "editorial_2026-08-25",
-        "rank": 0,
-        "title": "The keys already in the building",
-        "category": "editorial",
-        "summary": "Young Artists comes down from Santo Domingo",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/08/20260728_STATRuralHostpials_1488-1024x576.jpg",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-25.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-08-25",
-        "authorName": "Dr. Wallace Lynch"
-      }
-    ]
-  },
-  {
     "batchId": "auto_2026-08-25T20-13",
     "scannedAt": "2026-08-25T20:13:14.046Z",
     "items": [
@@ -2650,6 +2630,123 @@
         "isEditorialArchive": true,
         "publishDate": "2026-07-22",
         "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
+    "batchId": "auto_2026-07-22T20-50",
+    "scannedAt": "2026-07-22T20:50:38.346Z",
+    "items": [
+      {
+        "id": "auto_2026-07-22T20-50_1",
+        "rank": 1,
+        "title": "New Chip Matches Real-Time Human Brain Speed",
+        "category": "neuroscience",
+        "summary": "A new study presents the world's first neuromorphic chip capable of matching the operational speed of the human brain.",
+        "image": "https://neurosciencenews.com/files/2026/07/brain-speed-chip-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/memristor-chip-brain-speed-neurotech-31110/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-22T20-50_2",
+        "rank": 2,
+        "title": "Tate Names Dia Leader Jessica Morgan as Next Director",
+        "category": "art",
+        "summary": "The British curator will return to London to helm the museum network beginning next year.",
+        "image": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/07/Jessica-Morgan-photo-by-Gabriela-Herman.jpg",
+        "source": "Hyperallergic",
+        "sourceUrl": "https://hyperallergic.com/tate-names-dia-leader-jessica-morgan-as-next-director/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-22T20-50_3",
+        "rank": 3,
+        "title": "Orania Limited’s 5-Layer Approach to Platform Data Governance",
+        "category": "robotics",
+        "summary": "Data governance is one of those disciplines that most platforms know they need and few feel they've actually figured out. The concept is straightforward enough: ensure data is managed properly, protected appropriately,…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/07/oranio-image-1.png",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/07/22/platform-data-governance-orania-limited/103600/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-22T20-50_4",
+        "rank": 4,
+        "title": "NASA to Showcase Agency’s Newest Wind Tunnel in Virginia",
+        "category": "space",
+        "summary": "Media are invited to NASA’s Langley Research Center in Hampton, Virginia, on Friday, July 31, to attend a media tour and ribbon-cutting ceremony for the Flight Dynamics Research Facility, the agency’s first new wind…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/07/langleyfdrfjune2026-ba2289.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/news-release/nasa-to-showcase-agencys-newest-wind-tunnel-in-virginia/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-07-22T20-50_5",
+        "rank": 5,
+        "title": "Gemini 3.6 Flash and 3.5 Flash-Lite now available through official API for developers and AI agents",
+        "category": "ai",
+        "summary": "Model ecosystem expansion: Gemini 3.6 Flash and Gemini 3.5 Flash-Lite via official API access.",
+        "image": "https://pbs.twimg.com/media/HN1SnDCWEAA2hmA.jpg",
+        "source": "X · @web3l0var",
+        "sourceUrl": "https://x.com/web3l0var/status/2079909448219271368",
+        "fromX": true
+      }
+    ]
+  },
+  {
+    "batchId": "auto_2026-07-21T20-55",
+    "scannedAt": "2026-07-21T20:55:13.597Z",
+    "items": [
+      {
+        "id": "auto_2026-07-21T20-55_1",
+        "rank": 1,
+        "title": "Digital Media Alters Cognitive Willingness",
+        "category": "neuroscience",
+        "summary": "A new study proposes that digital media usage alters human focus through a mechanism called \"effort recalibration.\"",
+        "image": "https://neurosciencenews.com/files/2026/07/digital-media-cognition-neurosience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/digital-media-cognitive-willingness-31099/"
+      },
+      {
+        "id": "auto_2026-07-21T20-55_2",
+        "rank": 2,
+        "title": "SVA Grads Make Art out of History’s Rubble",
+        "category": "art",
+        "summary": "The Art Practice MFA thesis exhibition rewrites what came before, pushing back against harmful systems and inventing better ways of living together.",
+        "image": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/07/Finding-Here_SVA-MFA-Art-Practice-thesis-show_-01.jpg",
+        "source": "Hyperallergic",
+        "sourceUrl": "https://hyperallergic.com/sva-grads-make-art-out-of-historys-rubble/"
+      },
+      {
+        "id": "auto_2026-07-21T20-55_3",
+        "rank": 3,
+        "title": "Trump administration says it's deferring $1B in Medicaid payments to California and Minnesota",
+        "category": "biotech",
+        "summary": "The Trump administration said it was deferring more than $1 billion in Medicaid payments to Minnesota and California because of “suspected fraud and noncompliance.”",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/07/AP26189616840412-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/07/21/medicaid-payments-1-billion-deferred-california-minnesota/?utm_campaign=rss"
+      },
+      {
+        "id": "auto_2026-07-21T20-55_4",
+        "rank": 4,
+        "title": "Northrop adds to charges on Vulcan solid rocket motor program",
+        "category": "space",
+        "summary": "Northrop Grumman took another charge for the solid rocket boosters it provides for the Vulcan Centaur and suggested updated motors might not be ready until the end of the year. The post Northrop adds to charges on…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/02/55091188472_c01b4e3cdc_k.jpg?fit=1024%2C732&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/northrop-adds-to-charges-on-vulcan-solid-rocket-motor-program/"
+      },
+      {
+        "id": "auto_2026-07-21T20-55_5",
+        "rank": 5,
+        "title": "Startup offers low-cost home batteries to Massachusetts residents",
+        "category": "energy",
+        "summary": "Haven Energy is the newest company offering home battery service in Massachusetts for a low monthly payment, a model supporters say could accelerate adoption of residential storage. Starting in four counties in the…",
+        "image": "https://img.canarymedia.com/content/uploads/Tesla-batteris-in-Canada-home_GettyImages-967233426.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=d3ef0d003b9eaa23273e8dcbafef9b02",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/batteries/haven-energy-low-cost-batteries-massachusetts"
       }
     ]
   }
