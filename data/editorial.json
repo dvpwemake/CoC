@@ -1,128 +1,149 @@
 {
   "published": {
-    "id": "ed_2026-11-05",
-    "publishDate": "2026-11-05",
+    "id": "ed_2026-11-11",
+    "publishDate": "2026-11-11",
     "status": "published",
-    "updatedAt": "2026-11-05T23:13:22.383Z",
-    "title": "The Resilient Spark: Navigating Progress, Friction, and Grace",
-    "dek": "Bridging scientific ambition, artistic heritage, and daily human trade-offs.",
+    "updatedAt": "2026-11-11T07:58:44.863Z",
+    "title": "Legacies, Light-Days, and Liabilities",
+    "dek": "Navigating scandal, cosmic milestones, and shifting cultural priorities.",
     "authorName": "Dr. Wallace Lynch",
     "authorTitle": "Editor in Chief",
-    "body": "Progress rarely moves in a straight line; it unfolds through a delicate negotiation between bold ambition and stubborn reality. Across science, art, and daily technology, today’s landscape reveals how every leap forward demands constant recalibration.\n\nIn high-stakes medicine and aerospace, innovation faces immediate friction. As engineers turn to natural cork to shield orbital space data from re-entry heat, medical researchers encounter sobering checks—from unexpected clinical trial setbacks in muscular dystrophy to crucial safety audits in gene therapies. Meanwhile, shifting political tides following recent midterm elections bring a new wave of clinician-legislators to Washington, ready to tackle the growing legislative and regulatory complexities of modern healthcare.\n\nYet progress isn't solely forged in laboratories. It resonates in the human spirit. Acoustic neuroscientists are now unlocking the precise vocal formants that allow great singers to captivate our senses, demonstrating how art and biology intimately overlap. Concurrently, gallery retrospectives celebrate the tactile richness of community storytelling through beaded books and handmade dolls, providing a vibrant, grounding antidote to corporate art-world disputes over authenticity and heritage.\n\nEven our everyday conveniences arrive with quiet trade-offs. As mobile tech grows ever smarter and delivery drone ports expand into suburban neighborhoods, we are forced to reckon with the subtle disruptions to our immediate surroundings—from missing songbirds in local trees to the steady hum of automated skies.\n\nTrue innovation requires both daring vision and thoughtful reflection. As we navigate these intersecting frontiers, curiosity remains our finest compass—helping us balance rapid technological advancement with the timeless human need for art, safety, and community.",
+    "body": "The intersection of innovation and controversy is heavily trafficked this week. In the technology sector, industry titans are finding themselves surprisingly vulnerable. Just as Microsoft rolls out its Automatic Super Resolution (Auto SR) to devices like the Xbox Ally X to challenge Nvidia’s graphical supremacy, Nvidia faces a vastly different kind of heat. CEO Jensen Huang is now mired in a staggering national security scandal involving a suspected Chinese spy. It is a stark reminder that even the most powerful engines of industry—much like a vehicle reliant on its radiator and cooling systems to prevent a meltdown—can dangerously overheat when human elements fail.\n\nFar beyond terrestrial drama, humanity’s gaze pushes deeper into the void. NASA’s Voyager 1 is poised to cross a profound threshold this week: traveling a full light-day—over 16 billion miles—away from Earth. Meanwhile, a brilliant new digital twin of the James Webb Space Telescope has allowed astronomers to peel back cosmic glare, revealing hidden alien worlds that have been lurking in plain sight.\n\nBack on Earth, our internal biology remains just as mysterious as deep space. A troubling neuroscience breakthrough indicates that childhood infections may leave a \"cellular long-term memory\" in RNA, quietly priming the brain for Alzheimer’s decades later. Yet, medical progress marches on, highlighted by the FDA’s approval of a novel Bayer drug that prevents blood clots without bleeding risks. Concurrently, political gears are grinding as Democratic chairs move to investigate Trump-era drug pricing deals, and progressive leaders push to expand Medicare eligibility.\n\nIn the cultural sphere, institutional legacies remain fiercely debated. Ohio State University has announced it will retain billionaire Les Wexner’s name on its arts center despite massive outcry over his ties to Jeffrey Epstein. Yet, structural support for creatives shows promise elsewhere: Canada is proposing a sweeping $554 million boost for museums and new artist tax breaks, signaling a renewed commitment to funding the arts unburdened by the shadows of complicated patronage.",
     "paragraphs": [
-      "Progress rarely moves in a straight line; it unfolds through a delicate negotiation between bold ambition and stubborn reality. Across science, art, and daily technology, today’s landscape reveals how every leap forward demands constant recalibration.",
-      "In high-stakes medicine and aerospace, innovation faces immediate friction. As engineers turn to natural cork to shield orbital space data from re-entry heat, medical researchers encounter sobering checks—from unexpected clinical trial setbacks in muscular dystrophy to crucial safety audits in gene therapies. Meanwhile, shifting political tides following recent midterm elections bring a new wave of clinician-legislators to Washington, ready to tackle the growing legislative and regulatory complexities of modern healthcare.",
-      "Yet progress isn't solely forged in laboratories. It resonates in the human spirit. Acoustic neuroscientists are now unlocking the precise vocal formants that allow great singers to captivate our senses, demonstrating how art and biology intimately overlap. Concurrently, gallery retrospectives celebrate the tactile richness of community storytelling through beaded books and handmade dolls, providing a vibrant, grounding antidote to corporate art-world disputes over authenticity and heritage.",
-      "Even our everyday conveniences arrive with quiet trade-offs. As mobile tech grows ever smarter and delivery drone ports expand into suburban neighborhoods, we are forced to reckon with the subtle disruptions to our immediate surroundings—from missing songbirds in local trees to the steady hum of automated skies.",
-      "True innovation requires both daring vision and thoughtful reflection. As we navigate these intersecting frontiers, curiosity remains our finest compass—helping us balance rapid technological advancement with the timeless human need for art, safety, and community."
+      "The intersection of innovation and controversy is heavily trafficked this week. In the technology sector, industry titans are finding themselves surprisingly vulnerable. Just as Microsoft rolls out its Automatic Super Resolution (Auto SR) to devices like the Xbox Ally X to challenge Nvidia’s graphical supremacy, Nvidia faces a vastly different kind of heat. CEO Jensen Huang is now mired in a staggering national security scandal involving a suspected Chinese spy. It is a stark reminder that even the most powerful engines of industry—much like a vehicle reliant on its radiator and cooling systems to prevent a meltdown—can dangerously overheat when human elements fail.",
+      "Far beyond terrestrial drama, humanity’s gaze pushes deeper into the void. NASA’s Voyager 1 is poised to cross a profound threshold this week: traveling a full light-day—over 16 billion miles—away from Earth. Meanwhile, a brilliant new digital twin of the James Webb Space Telescope has allowed astronomers to peel back cosmic glare, revealing hidden alien worlds that have been lurking in plain sight.",
+      "Back on Earth, our internal biology remains just as mysterious as deep space. A troubling neuroscience breakthrough indicates that childhood infections may leave a \"cellular long-term memory\" in RNA, quietly priming the brain for Alzheimer’s decades later. Yet, medical progress marches on, highlighted by the FDA’s approval of a novel Bayer drug that prevents blood clots without bleeding risks. Concurrently, political gears are grinding as Democratic chairs move to investigate Trump-era drug pricing deals, and progressive leaders push to expand Medicare eligibility.",
+      "In the cultural sphere, institutional legacies remain fiercely debated. Ohio State University has announced it will retain billionaire Les Wexner’s name on its arts center despite massive outcry over his ties to Jeffrey Epstein. Yet, structural support for creatives shows promise elsewhere: Canada is proposing a sweeping $554 million boost for museums and new artist tax breaks, signaling a renewed commitment to funding the arts unburdened by the shadows of complicated patronage."
     ],
-    "wordCount": 253,
-    "heroImage": "https://neurosciencenews.com/files/2026/11/vocalist-auditory-neuroscience-1155x770.jpg",
-    "heroCredit": "The Acoustic Science of What Makes a Great Singer",
-    "heroSource": "Neuroscience News",
-    "heroSourceUrl": "https://neurosciencenews.com/tacoustic-science-singers-auditory-neuroscience-32386/",
+    "wordCount": 320,
+    "heroImage": "https://www.artforum.com/wp-content/uploads/2026/11/wex-center.jpg?w=650",
+    "heroCredit": "Despite Epstein Ties, Billionaire’s Name to Stay on Wexner Center for the Arts",
+    "heroSource": "Artforum",
+    "heroSourceUrl": "https://www.artforum.com/news/billionaires-name-to-stay-on-wexner-center-for-the-arts-1234763361/",
     "headlines": [
       {
-        "title": "French authorities investigate claim of fraud over Picasso plates and medallions on sale",
-        "source": "The Art Newspaper",
+        "title": "Despite Epstein Ties, Billionaire’s Name to Stay on Wexner Center for the Arts",
+        "source": "Artforum",
         "category": "art",
-        "sourceUrl": "https://www.theartnewspaper.com/2026/11/05/french-authorities-investigate-claim-of-fraud-over-picasso-plates-and-medallions-on-sale",
-        "summary": "Move comes after artist’s heirs lodged formal complaint over objects related to commissions from the 1950s",
-        "image": "https://cdn.sanity.io/images/cxgd3urn/production/904cfc597c9c2df5f5b9f97f44413d60f7d721b2-3543x2344.jpg?w=140"
+        "sourceUrl": "https://www.artforum.com/news/billionaires-name-to-stay-on-wexner-center-for-the-arts-1234763361/",
+        "summary": "Billionaire Les Wexner’s name will remain on Ohio State University’s Wexner Center for the Arts, even though the school received hundreds of requests to remove it owing to his ties to Jeffrey Epstein, the Columbus…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/11/wex-center.jpg?w=650"
       },
       {
-        "title": "STAT+: Novartis cites cases of previously unknown tumors possibly tied to its SMA gene therapy",
+        "title": "STAT+: Democrats take new step toward investigating Trump’s drug pricing deals",
         "source": "STAT News",
         "category": "biotech",
-        "sourceUrl": "https://www.statnews.com/2026/11/05/novartis-sma-zolgensma-tumor-case-reports/?utm_campaign=rss",
-        "summary": "Novartis has acknowledged seven previously unknown instances in which tumors were found in children who were treated with its spinal muscular atrophy therapy, Zolgensma.",
-        "image": "https://www.statnews.com/wp-content/uploads/2021/05/ks051621_SMA_31-1024x576.jpg"
+        "sourceUrl": "https://www.statnews.com/2026/11/10/democrats-investigate-most-favored-nation-deals-letters-drugmakers/?utm_campaign=rss",
+        "summary": "Incoming Democratic chairs of key committees have taken a step toward investigating MFN drug pricing agreements between drugmakers and the Trump administration.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/11/GettyImages-2303016623-1024x576.jpg"
       },
       {
-        "title": "Is MAHA dying—or will it be reborn? What's next after crushing midterm losses?",
-        "source": "Ars Technica",
+        "title": "Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
+        "source": "The Verge",
         "category": "general",
-        "sourceUrl": "https://arstechnica.com/health/2026/11/is-maha-dying-or-will-it-be-reborn-whats-next-after-crushing-midterm-losses/",
-        "summary": "RFK Jr.'s Make America Healthy Again movement was in trouble before voting began.",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2301676134-1024x648.jpg"
+        "sourceUrl": "https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling",
+        "summary": "Microsoft is now rolling out Automatic Super Resolution (Auto SR), an upscaling technology that competes with Nvidia's DLSS, for the Xbox Ally X, Xbox Ally X20, and select Windows Copilot Plus PCs, the company announced…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257996_ROG_Xbox_Ally_and_Xbox_Ally_X_AKrales_0073.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
       },
       {
-        "title": "The Acoustic Science of What Makes a Great Singer",
+        "title": "Looking for Car Cooling System Parts? Explore Your Options at TeamVehicle",
+        "source": "Robotics & Automation News",
+        "category": "robotics",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/11/10/looking-for-car-cooling-system-parts-explore-your-options-at-teamvehicle/106949/",
+        "summary": "The cooling system in your car helps maintain optimum temperatures for the engine. Radiator, water pump, fan, and hoses are essential components of the cooling system. If any of these fails, then the temperature of the…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/car-parts-1.jpg"
+      },
+      {
+        "title": "Astronomers discover hidden alien planet in James Webb images",
+        "source": "ScienceDaily",
+        "category": "space",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261108233028.htm",
+        "summary": "A breakthrough in telescope imaging could reveal countless alien worlds that have been hiding in plain sight. Scientists developed a new technique that uses a digital twin of the James Webb Space Telescope to remove the…",
+        "image": "https://www.sciencedaily.com/images/1920/erasing-stars-to-find-exoplanets.webp"
+      },
+      {
+        "title": "Warhol Foundation Names New Board Chair, Members",
+        "source": "Artforum",
+        "category": "art",
+        "sourceUrl": "https://www.artforum.com/news/the-andy-warhol-foundation-franklin-sirmans-1234763343/",
+        "summary": "The Andy Warhol Foundation for the Visual Arts has named Franklin Sirmans as chair of the board. Three other board members have also been named: Cheryl Finley, Candice Hopkins, and Suzi Kwon Cohen. Since 2015, Sirmans…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/11/warhol-foundation-board.jpg?w=650"
+      },
+      {
+        "title": "STAT+: Wyden, Sanders hand-in-hand on ‘Medicare for All' initiative",
+        "source": "STAT News",
+        "category": "biotech",
+        "sourceUrl": "https://www.statnews.com/2026/11/10/dc-diagnosis-wyden-sanders-aligned-on-medicare-for-all/?utm_campaign=rss",
+        "summary": "Sen. Bernie Sanders said that he wants to lower the Medicare eligibility age by 10 years, among other initiatives.",
+        "image": "https://www.statnews.com/wp-content/uploads/2023/07/AP23159689215512-1024x576.jpg"
+      },
+      {
+        "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+        "source": "BBC Technology",
+        "category": "general",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+        "summary": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2521/live/6ba67640-dc03-11f1-b441-2b33b063138f.jpg"
+      },
+      {
+        "title": "Early Infections Prime the Brain for Alzheimer’s",
         "source": "Neuroscience News",
         "category": "neuroscience",
-        "sourceUrl": "https://neurosciencenews.com/tacoustic-science-singers-auditory-neuroscience-32386/",
-        "summary": "What separates a good opera singer from a great one in the ears of competition judges? Keio University researchers simulated a live vocal competition, revealing that the 2–4 kHz \"singer’s formant\" and sex-specific…",
-        "image": "https://neurosciencenews.com/files/2026/11/vocalist-auditory-neuroscience-1155x770.jpg"
+        "sourceUrl": "https://neurosciencenews.com/early-infections-prime-the-brain-for-alzheimers/",
+        "summary": "Can an infection in youth seed Alzheimer's in old age? FAU and TUM scientists investigate a \"cellular long-term memory\" in neurons and microglia, where damaged long-lived RNA molecules leave brain cells primed for…",
+        "image": "https://neurosciencenews.com/files/2026/11/early-infection-alzheimers-neuroscience-1155x770.jpg"
       },
       {
-        "title": "Cork Takes the Heat So DRACO’s Data Can Survive",
-        "source": "SpaceNews",
-        "category": "space",
-        "sourceUrl": "https://spacenews.com/cork-takes-the-heat-so-dracos-data-can-survive/",
-        "summary": "Mozelos, Portugal, September 2, 2026 – Amorim Cork Solutions is contributing its P50 cork-based thermal protection material to DRACO, a European Space Agency (ESA) mission designed to capture rare in-flight […] The post…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/2019-99-Amorim-Logos-UN-Vertical-Cork-Solutions-Green-scaled.png?fit=1024%2C500&ssl=1"
-      },
-      {
-        "title": "Aminah Brenda Lynn Robinson's Whimsical Books and Dolls Celebrate Black Community",
-        "source": "Colossal",
-        "category": "art",
-        "sourceUrl": "https://www.thisiscolossal.com/2026/11/aminah-brenda-lynn-robinsons-beaded-books-dolls-textiles/",
-        "summary": "Later this month, Fort Gansevoort presents 25 of the late Ohio artist's works in 'Beaded and Bound.' Do stories and artists like this matter to you? Become a Colossal Member today and support independent arts publishing…",
-        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/robinson-6-e1793807743309.jpg"
-      },
-      {
-        "title": "STAT+: Democratic doctors and scientists ride the blue wave",
-        "source": "STAT News",
-        "category": "biotech",
-        "sourceUrl": "https://www.statnews.com/2026/11/04/midterms-democrat-winners-doctors-scientists-medical-professionals/?utm_campaign=rss",
-        "summary": "The clinicians and researchers who will take office are ready to tackle the U.S. health care system.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/11/AP26308245370396-1024x576.jpg"
-      },
-      {
-        "title": "Google Pixel 11, 11 Pro, and 11 Pro XL Sale: Save Up to $350",
-        "source": "WIRED",
-        "category": "general",
-        "sourceUrl": "https://www.wired.com/story/google-pixel-11-deal-november-2026/",
-        "summary": "Upgrade to the smartest Android smartphones. Google’s latest Pixel 11 phones are all on sale at their lowest prices to date, well ahead of Black Friday.",
-        "image": "https://media.wired.com/photos/6aeb74f2291739b7e29cddcb/master/pass/Get-Google%E2%80%99s-Great-Pixel-11-Phones-for-Less.jpg"
-      },
-      {
-        "title": "Are Drone Ports the Next Annoying Tech Neighbor?",
-        "source": "IEEE Spectrum",
-        "category": "robotics",
-        "sourceUrl": "https://spectrum.ieee.org/drone-delivery-noise",
-        "summary": "Rick and Marcia LeCompte loved to watch the Cooper’s hawks that frequented a sweetgum tree in their yard in Baton Rouge, La. But this October, the hawks were gone. Marcia LeCompte is convinced the birds were scared away…",
-        "image": "https://spectrum.ieee.org/media-library/a-worker-walking-amidst-several-delivery-drones-on-a-launch-pad-in-an-urban-chinese-city.jpg?id=68592213&width=980"
-      },
-      {
-        "title": "NASA Announces Ka-Band Satellite Relay Awards for Space Communications",
+        "title": "NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities",
         "source": "NASA",
         "category": "space",
-        "sourceUrl": "https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/",
-        "summary": "NASA selected three companies on Wednesday to perform work to develop Ka-band space relay capability concepts that are compatible with current missions in space, ensuring service continuity for existing spacecraft…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg"
+        "sourceUrl": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/",
+        "summary": "Launched nearly 50 years ago in 1977, NASA’s Voyager 1 on Wednesday, Nov. 18 will have traveled one light-day from Earth, which is more than 16 billion miles (25.9 billion kilometers). Voyager 1 is the most distant…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/11/voyager-1-advisory-image-2-nov-10.jpg"
       },
       {
-        "title": "5 Standout Shows to See at Small Galleries This November",
-        "source": "Artsy",
+        "title": "Canada’s proposed federal budget includes tax breaks for artists and $554m funding boost for museums",
+        "source": "The Art Newspaper",
         "category": "art",
-        "sourceUrl": "https://www.artsy.net/article/artsy-editorial-5-standout-small-galleries-november-11-03-26",
-        "summary": "Y el agua cae otra vez/And the Water Falls Again〈水再次落下〉, 2026 Ana Teresa Barboza NUNU FINE ART In this monthly roundup, we spotlight five stellar exhibitions at small and rising galleries. “ Afterglow: From the Residue…",
-        "image": "https://artsy-media-uploads.s3.amazonaws.com/J1_B0WC6IJMtrV-jxZPdwA%2Fdownload+%283%29_1500x1000.jpg"
+        "sourceUrl": "https://www.theartnewspaper.com/2026/11/09/canada-budget-proposal-tax-break-artists-museum-funding-boost",
+        "summary": "Like the Liberal government’s 2025 budget proposal, this year’s also calls for adopting an artist’s resale right policy",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/317a87e00b0699b44338def66064bfb2fffe9822-2000x1125.jpg?w=140"
       },
       {
-        "title": "STAT+: Servier’s $1.55 billion muscular dystrophy drug fails first major test",
+        "title": "STAT+: FDA approves novel Bayer drug to reduce recurrence of stroke",
         "source": "STAT News",
         "category": "biotech",
-        "sourceUrl": "https://www.statnews.com/2026/11/03/becker-muscular-dystrophy-servier-edgewise-sevasemten-fail/?utm_campaign=rss",
-        "summary": "Servier reports a surprise setback for a drug being tested for a form of muscular dystrophy that lacks treatment.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/11/AP20187431953446-1024x576.jpg"
+        "sourceUrl": "https://www.statnews.com/2026/11/09/cardiovascular-stroke-recurrence-bayer-drug-fda-approval/?utm_campaign=rss",
+        "summary": "Bayer's drug is the first in a novel class of medications designed to prevent blood clots without increasing risk of bleeding.",
+        "image": "https://www.statnews.com/wp-content/uploads/2019/09/AP_060324030695-1024x576.jpg"
       }
     ],
-    "publishedAt": "2026-11-05T23:13:22.383Z"
+    "publishedAt": "2026-11-11T07:58:44.863Z"
   },
   "drafts": {},
   "history": [
+    {
+      "id": "ed_2026-11-11",
+      "publishDate": "2026-11-11",
+      "status": "published",
+      "updatedAt": "2026-11-11T07:58:44.863Z",
+      "title": "Legacies, Light-Days, and Liabilities",
+      "dek": "Navigating scandal, cosmic milestones, and shifting cultural priorities.",
+      "authorName": "Dr. Wallace Lynch",
+      "authorTitle": "Editor in Chief",
+      "paragraphs": [
+        "The intersection of innovation and controversy is heavily trafficked this week. In the technology sector, industry titans are finding themselves surprisingly vulnerable. Just as Microsoft rolls out its Automatic Super Resolution (Auto SR) to devices like the Xbox Ally X to challenge Nvidia’s graphical supremacy, Nvidia faces a vastly different kind of heat. CEO Jensen Huang is now mired in a staggering national security scandal involving a suspected Chinese spy. It is a stark reminder that even the most powerful engines of industry—much like a vehicle reliant on its radiator and cooling systems to prevent a meltdown—can dangerously overheat when human elements fail.",
+        "Far beyond terrestrial drama, humanity’s gaze pushes deeper into the void. NASA’s Voyager 1 is poised to cross a profound threshold this week: traveling a full light-day—over 16 billion miles—away from Earth. Meanwhile, a brilliant new digital twin of the James Webb Space Telescope has allowed astronomers to peel back cosmic glare, revealing hidden alien worlds that have been lurking in plain sight.",
+        "Back on Earth, our internal biology remains just as mysterious as deep space. A troubling neuroscience breakthrough indicates that childhood infections may leave a \"cellular long-term memory\" in RNA, quietly priming the brain for Alzheimer’s decades later. Yet, medical progress marches on, highlighted by the FDA’s approval of a novel Bayer drug that prevents blood clots without bleeding risks. Concurrently, political gears are grinding as Democratic chairs move to investigate Trump-era drug pricing deals, and progressive leaders push to expand Medicare eligibility.",
+        "In the cultural sphere, institutional legacies remain fiercely debated. Ohio State University has announced it will retain billionaire Les Wexner’s name on its arts center despite massive outcry over his ties to Jeffrey Epstein. Yet, structural support for creatives shows promise elsewhere: Canada is proposing a sweeping $554 million boost for museums and new artist tax breaks, signaling a renewed commitment to funding the arts unburdened by the shadows of complicated patronage."
+      ],
+      "wordCount": 320,
+      "heroImage": "https://www.artforum.com/wp-content/uploads/2026/11/wex-center.jpg?w=650",
+      "heroCredit": "Despite Epstein Ties, Billionaire’s Name to Stay on Wexner Center for the Arts",
+      "heroSource": "Artforum",
+      "heroSourceUrl": "https://www.artforum.com/news/billionaires-name-to-stay-on-wexner-center-for-the-arts-1234763361/",
+      "publishedAt": "2026-11-11T07:58:44.863Z"
+    },
     {
       "id": "ed_2026-11-05",
       "publishDate": "2026-11-05",
@@ -1472,34 +1493,6 @@
       "heroSource": "Robotics & Automation News",
       "heroSourceUrl": "https://roboticsandautomationnews.com/2026/08/15/predictive-maintenance-in-the-real-world-why-service-automation-and-rollout-discipline-matter-more-than-models/104183/",
       "publishedAt": "2026-08-16T04:39:55.506Z"
-    },
-    {
-      "id": "ed_2026-08-15",
-      "publishDate": "2026-08-15",
-      "status": "published",
-      "needsApproval": false,
-      "createdAt": "2026-08-16T04:11:52.208Z",
-      "updatedAt": "2026-08-16T04:19:28.833Z",
-      "title": "What a warning can score, and what a room still has to hold",
-      "dek": "Convergence of the emptied chair and the work that stays",
-      "insight": "Convergence of the emptied chair and the work that stays",
-      "authorName": "Dr. Wallace Lynch",
-      "authorTitle": "Editor in Chief",
-      "paragraphs": [
-        "The chair in No 10: Full Confidence is a prop. A Manchester game rose above Minecraft on the UK App Store paid chart by letting you last as prime minister until a faction turns. The BBC writer lasted a year and nine months. A cabinet letter said the PM was warned. Then the chair emptied. The warning was not a government. It was a score.",
-        "On Saturday, August 15, 2026, we hold that emptied chair to one pressure: what we can flag or play at keeping, and what still has to be occupied.",
-        "Furness Hall, a former University of the Arts dormitory in Philadelphia, will become forty five affordable apartments with a 2.5 million dollar Knight Foundation grant. A Picasso print stolen in Milwaukee in 2018, Torero, returns from a vacant apartment. One room will be lived in again.",
-        "A predictive maintenance system can flag rising vibration or unusual heat. It does not keep the machine running. Service automation and rollout discipline matter more than the model. AI video tools take a brief or a script and return motion in minutes. Elektron Model:Samples and Model:Cycles do not grab headlines. They still ask for hands.",
-        "NASA will award three more commercial lunar missions this year, including an orbiter to replace the Lunar Reconnaissance Orbiter. At Wallops Island, officials say build for workers before the launch surge. Replacement is not occupancy.",
-        "Care is the hardest room. TIMP2 wakes microglia and restores immune work in the aging brain. Pediatricians write against federal fearmongering on vaccines. Epic Systems, keeper of clinic records, sits under federal and state inquiry. Luigi Mangione pleads guilty to federal stalking charges and admits following UnitedHealth executive Brian Thompson, then shooting him.",
-        "Convergence is not a better warning. It is whether the rooms we keep, in a clinic, a dormitory, or a launch pad, still get a body that stays."
-      ],
-      "wordCount": 310,
-      "heroImage": "https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/1a22/live/86235450-9731-11f1-870d-5d08c49babb2.jpg",
-      "heroCredit": "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
-      "heroSource": "BBC Technology",
-      "heroSourceUrl": "https://www.bbc.co.uk/news/articles/cq56pzqy6jvo",
-      "publishedAt": "2026-08-16T04:19:28.833Z"
     }
   ],
   "usedHeroImages": [
@@ -1770,6 +1763,7 @@
     "https://wp.technologyreview.com/wp-content/uploads/2026/10/MAIN-top.jpg?resize=1200,600",
     "https://www.artforum.com/wp-content/uploads/2024/10/Basel-2024.jpeg?w=650",
     "https://www.thisiscolossal.com/wp-content/uploads/2026/11/robinson-6-e1793807743309.jpg",
-    "https://neurosciencenews.com/files/2026/11/vocalist-auditory-neuroscience-1155x770.jpg"
+    "https://neurosciencenews.com/files/2026/11/vocalist-auditory-neuroscience-1155x770.jpg",
+    "https://www.artforum.com/wp-content/uploads/2026/11/wex-center.jpg?w=650"
   ]
 }
