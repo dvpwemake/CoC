@@ -1,5 +1,25 @@
 [
   {
+    "batchId": "editorial_2026-11-05",
+    "scannedAt": "2026-11-05T23:13:22.383Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-11-05",
+        "rank": 0,
+        "title": "The Resilient Spark: Navigating Progress, Friction, and Grace",
+        "category": "editorial",
+        "summary": "Bridging scientific ambition, artistic heritage, and daily human trade-offs.",
+        "image": "https://neurosciencenews.com/files/2026/11/vocalist-auditory-neuroscience-1155x770.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-11-05.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-11-05",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-11-11T03-15",
     "scannedAt": "2026-11-11T03:15:25.069Z",
     "items": [
