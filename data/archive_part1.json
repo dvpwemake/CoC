@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-10-02T23-19",
+    "scannedAt": "2026-10-02T23:19:26.565Z",
+    "items": [
+      {
+        "id": "auto_2026-10-02T23-19_1",
+        "rank": 1,
+        "title": "Luhring Augustine Reportedly Shuttering TriBeCa Outpost",
+        "category": "art",
+        "summary": "New York gallery Luhring Augustine is closing its TriBeCa branch, Artnet News reports. The space, at 17 White Street, last hosted the group exhibition “In a Free State,” curated by painters Salman Toor and Doron…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/10/luhring-2.jpg?w=441",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/news/luhring-augustine-reportedly-closing-tribeca-outpost-1234760803/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-02T23-19_2",
+        "rank": 2,
+        "title": "Someone got Doom in an SQL database",
+        "category": "general",
+        "summary": "1,300 lines of SQL querying renders accurate bitmapped views of Hell at 35 fps.",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/doomsql-1152x648-1790974550.png",
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/gaming/2026/10/can-it-run-doom-sql-database-edition/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-02T23-19_3",
+        "rank": 3,
+        "title": "NIH rolling out streamlined website to help public find information more easily",
+        "category": "biotech",
+        "summary": "The redesign is intended to streamline what was a sprawling and fractured information ecosystem, requiring users to understand NIH's organizational structure",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/10/Screenshot-2026-10-02-at-12.51.06-PM-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/10/02/nih-launching-streamlined-website-to-help-public-find-information/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-02T23-19_4",
+        "rank": 4,
+        "title": "NASA Astronaut Christina Koch to Join NFL Fans in Philadelphia",
+        "category": "space",
+        "summary": "As part of NASA’s ongoing Inspiration Tour, NASA astronaut Christina Koch will highlight America’s strengths in space exploration and aeronautics innovation at the Philadelphia Eagles vs. Los Angeles Rams game in…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/10/nhq20260828-admin-0031large.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/news-release/nasa-astronaut-christina-koch-to-join-nfl-fans-in-philadelphia/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-02T23-19_5",
+        "rank": 5,
+        "title": "Why Cannabis Can Suddenly Trigger Panic",
+        "category": "neuroscience",
+        "summary": "A new study identifies central amygdala neurons that trigger severe anxiety from cannabis under stressful conditions.",
+        "image": "https://neurosciencenews.com/files/2026/10/Why-Cannabis-Makes-Some-People-Instantly-Anxious-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/thc-anxiety-endocannabinoids-31287/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "editorial_2026-10-02",
     "scannedAt": "2026-10-02T07:19:46.793Z",
     "kind": "editorial_archive",
@@ -2773,26 +2834,6 @@
         "source": "STAT News",
         "sourceUrl": "https://www.statnews.com/2026/08/26/cac-scans-statin-use-prevent-calculator-heart-disease-risk/?utm_campaign=rss",
         "fromX": false
-      }
-    ]
-  },
-  {
-    "batchId": "editorial_2026-08-25",
-    "scannedAt": "2026-08-25T21:03:58.550Z",
-    "kind": "editorial_archive",
-    "items": [
-      {
-        "id": "editorial_2026-08-25",
-        "rank": 0,
-        "title": "The keys already in the building",
-        "category": "editorial",
-        "summary": "Young Artists comes down from Santo Domingo",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/08/20260728_STATRuralHostpials_1488-1024x576.jpg",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-25.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-08-25",
-        "authorName": "Dr. Wallace Lynch"
       }
     ]
   }
