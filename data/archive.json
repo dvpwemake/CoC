@@ -1,81 +1,61 @@
 [
   {
-    "batchId": "editorial_2026-11-05",
-    "scannedAt": "2026-11-05T23:13:22.383Z",
-    "kind": "editorial_archive",
+    "batchId": "auto_2026-11-11T11-29",
+    "scannedAt": "2026-11-11T11:29:27.864Z",
     "items": [
       {
-        "id": "editorial_2026-11-05",
-        "rank": 0,
-        "title": "The Resilient Spark: Navigating Progress, Friction, and Grace",
-        "category": "editorial",
-        "summary": "Bridging scientific ambition, artistic heritage, and daily human trade-offs.",
-        "image": "https://neurosciencenews.com/files/2026/11/vocalist-auditory-neuroscience-1155x770.jpg",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-11-05.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-11-05",
-        "authorName": "Dr. Wallace Lynch"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-11-11T03-15",
-    "scannedAt": "2026-11-11T03:15:25.069Z",
-    "items": [
-      {
-        "id": "auto_2026-11-11T03-15_1",
+        "id": "auto_2026-11-11T11-29_1",
         "rank": 1,
-        "title": "Despite Epstein Ties, Billionaire’s Name to Stay on Wexner Center for the Arts",
-        "category": "art",
-        "summary": "Billionaire Les Wexner’s name will remain on Ohio State University’s Wexner Center for the Arts, even though the school received hundreds of requests to remove it owing to his ties to Jeffrey Epstein, the Columbus…",
-        "image": "https://www.artforum.com/wp-content/uploads/2026/11/wex-center.jpg?w=650",
-        "source": "Artforum",
-        "sourceUrl": "https://www.artforum.com/news/billionaires-name-to-stay-on-wexner-center-for-the-arts-1234763361/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-11-11T03-15_2",
-        "rank": 2,
-        "title": "Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
+        "title": "Michigan Residents Voted to Get Corporate Money Out of Politics. Now Utilities Are Suing",
         "category": "general",
-        "summary": "Microsoft is now rolling out Automatic Super Resolution (Auto SR), an upscaling technology that competes with Nvidia's DLSS, for the Xbox Ally X, Xbox Ally X20, and select Windows Copilot Plus PCs, the company announced…",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257996_ROG_Xbox_Ally_and_Xbox_Ally_X_AKrales_0073.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "sourceUrl": "https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling",
+        "summary": "Amid rising electricity costs, Michiganders decisively voted for a ballot proposition to curtail the ability of utilities to spend on elections—a move utilities say limits their freedom of speech.",
+        "image": "https://media.wired.com/photos/6af3bec02dbfcb3b37437f4a/master/pass/science_michigan_utilities_money_politics2.jpg",
+        "source": "WIRED",
+        "sourceUrl": "https://www.wired.com/story/michigan-voters-want-utility-money-out-of-politics-lawsuit/",
         "fromX": false
       },
       {
-        "id": "auto_2026-11-11T03-15_3",
+        "id": "auto_2026-11-11T11-29_2",
+        "rank": 2,
+        "title": "Prize dedicated to African women artists expands to Senegal, announces 2026 winners",
+        "category": "art",
+        "summary": "The jury for this year’s Yaa Asantewaa Art Prize, founded by Gallery 1957, included Touria El Glaoui, the founder of the 1-54 Contemporary African Art Fair, and the Ghanaian artist Serge Attukwei Clottey",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/0e446b3e940485a30025e8d1e7693475166c86b5-3500x2625.jpg?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/11/11/prize-dedicated-to-african-women-artists-expands-to-senegal-announces-2026-winners",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-11T11-29_3",
         "rank": 3,
-        "title": "Astronomers discover hidden alien planet in James Webb images",
-        "category": "space",
-        "summary": "A breakthrough in telescope imaging could reveal countless alien worlds that have been hiding in plain sight. Scientists developed a new technique that uses a digital twin of the James Webb Space Telescope to remove the…",
-        "image": "https://www.sciencedaily.com/images/1920/erasing-stars-to-find-exoplanets.webp",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261108233028.htm",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-11-11T03-15_4",
-        "rank": 4,
-        "title": "STAT+: Democrats take new step toward investigating Trump’s drug pricing deals",
+        "title": "STAT+: MDCalc launches a ‘rumble strip’ for doctors using generative AI tools",
         "category": "biotech",
-        "summary": "Incoming Democratic chairs of key committees have taken a step toward investigating MFN drug pricing agreements between drugmakers and the Trump administration.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/11/GettyImages-2303016623-1024x576.jpg",
+        "summary": "MDCalc, a medical reference tool site, is launching CrossCover, a tool meant to help clinicians trust the answers of medical AI chatbots.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_1577391848-1024x576.jpeg",
         "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/11/10/democrats-investigate-most-favored-nation-deals-letters-drugmakers/?utm_campaign=rss",
+        "sourceUrl": "https://www.statnews.com/2026/11/11/mdcalc-launches-crosscover-rumble-strip-for-clinical-ai-chatbots/?utm_campaign=rss",
         "fromX": false
       },
       {
-        "id": "auto_2026-11-11T03-15_5",
+        "id": "auto_2026-11-11T11-29_4",
+        "rank": 4,
+        "title": "New Dem regulators plan to take on Georgia Power’s data center gas boom",
+        "category": "energy",
+        "summary": "Georgia residents are angry at the state’s unchecked data center boom and rising electric bills — and they voted accordingly in last week’s election. Democrats won every statewide race in Georgia, including two seats on…",
+        "image": "https://img.canarymedia.com/content/uploads/Georgia-miderm-election-races-by-level_GettyImages-2299539594.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=7d5496218e9a1768c3f276e3be4615ef",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/politics/new-dem-regulators-georgia-power",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-11T11-29_5",
         "rank": 5,
-        "title": "Looking for Car Cooling System Parts? Explore Your Options at TeamVehicle",
-        "category": "robotics",
-        "summary": "The cooling system in your car helps maintain optimum temperatures for the engine. Radiator, water pump, fan, and hoses are essential components of the cooling system. If any of these fails, then the temperature of the…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/car-parts-1.jpg",
-        "source": "Robotics & Automation News",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/11/10/looking-for-car-cooling-system-parts-explore-your-options-at-teamvehicle/106949/",
+        "title": "CASS4 Gene Directs Microglia to Contain Alzheimer's Plaques",
+        "category": "neuroscience",
+        "summary": "Meet the brain's trash compactor: UVA Health researchers discovered that the CASS4 risk gene directs microglia to tightly pack and contain toxic amyloid plaques, proving Alzheimer's risk operates directly through immune…",
+        "image": "https://neurosciencenews.com/files/2026/11/microglia-genetics-alzheimers-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/cass4-gene-microglia-alzheimers-32404/",
         "fromX": false
       }
     ]
@@ -382,6 +362,26 @@
         "source": "Robotics & Automation News",
         "sourceUrl": "https://roboticsandautomationnews.com/2026/11/06/how-much-does-it-cost-to-ship-a-car-prices-cost-factors-and-digital-quote-tools/106773/",
         "fromX": false
+      }
+    ]
+  },
+  {
+    "batchId": "editorial_2026-11-05",
+    "scannedAt": "2026-11-05T23:13:22.383Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-11-05",
+        "rank": 0,
+        "title": "The Resilient Spark: Navigating Progress, Friction, and Grace",
+        "category": "editorial",
+        "summary": "Bridging scientific ambition, artistic heritage, and daily human trade-offs.",
+        "image": "https://neurosciencenews.com/files/2026/11/vocalist-auditory-neuroscience-1155x770.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-11-05.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-11-05",
+        "authorName": "Dr. Wallace Lynch"
       }
     ]
   },
