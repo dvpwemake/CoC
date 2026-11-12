@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-11-12T01-41",
+    "scannedAt": "2026-11-12T01:41:38.031Z",
+    "items": [
+      {
+        "id": "auto_2026-11-12T01-41_1",
+        "rank": 1,
+        "title": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
+        "category": "general",
+        "summary": "Mr. Huang, Nvidia’s chief executive, is already facing scrutiny over an affair with a Chinese businesswoman who U.S. intelligence determined was a Chinese spy.",
+        "image": "https://static01.nyt.com/images/2026/11/11/multimedia/00Biz-Huang-Relationship-wlgb/00Biz-Huang-Relationship-wlgb-mediumSquareAt3X.jpg",
+        "source": "NYT Technology",
+        "sourceUrl": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-12T01-41_2",
+        "rank": 2,
+        "title": "ESTUN Robotics integrates RoboDK simulation software to accelerate European expansion",
+        "category": "robotics",
+        "summary": "ESTUN Robotics and RoboDK have formalized a Strategic Partnership to drive the integration of their technologies and facilitate the development, simulation and programming of industrial robotic applications. The…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/robodk-estun-2.jpg",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/11/12/estun-robotics-and-robodk-announce-strategic-partnership-at-dfactory-barcelona-to-simplify-and-accelerate-the-adoption-of-industrial-robots-in-europe/107047/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-12T01-41_3",
+        "rank": 3,
+        "title": "Senate committee takes up nominees for NASA chief financial officer and inspector general",
+        "category": "space",
+        "summary": "A Senate committee is set to advance nominations for NASA’s chief financial officer and inspector general. The post Senate committee takes up nominees for NASA chief financial officer and inspector general appeared…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/steinau.jpeg?fit=1024%2C576&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/senate-committee-takes-up-nominees-for-nasa-chief-financial-officer-and-inspector-general/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-12T01-41_4",
+        "rank": 4,
+        "title": "All of Us study finds thousands of new genetic variants affecting drug responses",
+        "category": "biotech",
+        "summary": "A study of nearly 100,000 diverse Americans identified thousands of new variants in genes that influence our responses to prescription drugs",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_35613037-1024x576.jpeg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/11/11/all-of-us-study-finds-gene-variants-drug-responses/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-12T01-41_5",
+        "rank": 5,
+        "title": "As Route 66 shifts into its centennial year, preservation efforts accelerate",
+        "category": "art",
+        "summary": "Efforts are underway to restore vernacular architecture and historic signage along the route of America’s most famous highway, which opened 100 years ago this month",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/57713391764ec5896f98ca10d4ac4610f8e89562-2293x1653.jpg?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/11/11/us-route-66-centennial-preservation-efforts",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-11-11T18-54",
     "scannedAt": "2026-11-11T18:54:11.110Z",
     "items": [

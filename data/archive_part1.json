@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-10-03T22-28",
+    "scannedAt": "2026-10-03T22:28:33.758Z",
+    "items": [
+      {
+        "id": "auto_2026-10-03T22-28_1",
+        "rank": 1,
+        "title": "Milt Windler, NASA flight director who helped save Apollo 13, dies at 94",
+        "category": "general",
+        "summary": "\"...we were making history.\"",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/news-100326a-lg-1152x648.jpg",
+        "source": "Ars Technica",
+        "sourceUrl": "https://arstechnica.com/space/2026/10/milt-windler-nasa-flight-director-who-helped-save-apollo-13-dies-at-94/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-03T22-28_2",
+        "rank": 2,
+        "title": "How the Body Clock and Cold Team Up to Burn Fat",
+        "category": "neuroscience",
+        "summary": "Scientists discover mitochondrial transporter SLC25A34 connects the body clock, cold, and diet to control brown fat burning.",
+        "image": "https://neurosciencenews.com/files/2026/10/Inside-the-Body-Clocks-Fat-Burning-Switch-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/mitochondria-circadian-fat-burning-31288/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-03T22-28_3",
+        "rank": 3,
+        "title": "ESA’s Juice just used Earth as a slingshot to Jupiter",
+        "category": "space",
+        "summary": "ESA’s Juice spacecraft raced past Earth on September 28, using our planet’s gravity to dramatically reshape its path toward Jupiter without burning much fuel. The flyby changed its direction by 20 degrees and increased…",
+        "image": "https://www.sciencedaily.com/images/1920/juice-images-earth-during-flyby.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261001214102.htm",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-03T22-28_4",
+        "rank": 4,
+        "title": "‘The struggle creates genius’: as it grows and matures, Atlanta Art Fair spotlights the city’s hard-working artists",
+        "category": "art",
+        "summary": "The fair’s third edition, its largest yet, saw a bevy of sales in its opening hours, primarily in the four- and five-figure range",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/8edb3f4b1416109160b23b2770ce0390375e12c1-2000x1333.jpg?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/10/02/atlanta-art-fair-matures-third-edition-local-artists-spotlight",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-03T22-28_5",
+        "rank": 5,
+        "title": "Aseon CEO: ‘The opportunity is to make vehicle servicing as autonomous as driving’",
+        "category": "robotics",
+        "summary": "The robotaxi industry has spent billions of dollars developing vehicles that can drive without a human behind the wheel. But removing the driver creates another problem: the vehicle may be autonomous on the road, but it…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/aseon-labs-2.jpg",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/02/aseon-ceo-the-opportunity-is-to-make-vehicle-servicing-as-autonomous-as-driving/105477/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "editorial_2026-10-03",
     "scannedAt": "2026-10-03T17:42:00.994Z",
     "kind": "editorial_archive",
@@ -2773,26 +2834,6 @@
         "source": "ScienceDaily",
         "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260827010504.htm",
         "fromX": false
-      }
-    ]
-  },
-  {
-    "batchId": "editorial_2026-08-26",
-    "scannedAt": "2026-08-26T22:34:28.505Z",
-    "kind": "editorial_archive",
-    "items": [
-      {
-        "id": "editorial_2026-08-26",
-        "rank": 0,
-        "title": "The claws stay in",
-        "category": "editorial",
-        "summary": "Ordinary cats, a scan that barely votes",
-        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/08/kim-5.jpg",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-26.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-08-26",
-        "authorName": "Dr. Wallace Lynch"
       }
     ]
   }
