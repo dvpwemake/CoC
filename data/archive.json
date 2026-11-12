@@ -1,5 +1,25 @@
 [
   {
+    "batchId": "editorial_2026-11-11",
+    "scannedAt": "2026-11-11T07:58:44.863Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-11-11",
+        "rank": 0,
+        "title": "Legacies, Light-Days, and Liabilities",
+        "category": "editorial",
+        "summary": "Navigating scandal, cosmic milestones, and shifting cultural priorities.",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/11/wex-center.jpg?w=650",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-11-11.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-11-11",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-11-12T19-15",
     "scannedAt": "2026-11-12T19:15:47.116Z",
     "items": [
