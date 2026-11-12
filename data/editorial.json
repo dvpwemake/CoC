@@ -1,65 +1,105 @@
 {
   "published": {
-    "id": "ed_2026-11-11",
-    "publishDate": "2026-11-11",
+    "id": "ed_2026-11-12",
+    "publishDate": "2026-11-12",
     "status": "published",
-    "updatedAt": "2026-11-11T07:58:44.863Z",
-    "title": "Legacies, Light-Days, and Liabilities",
-    "dek": "Navigating scandal, cosmic milestones, and shifting cultural priorities.",
+    "updatedAt": "2026-11-12T21:41:46.155Z",
+    "title": "Guardrails, Grabs, and Gatekeepers",
+    "dek": "Who controls our platforms, policies, and payloads today?",
     "authorName": "Dr. Wallace Lynch",
     "authorTitle": "Editor in Chief",
-    "body": "The intersection of innovation and controversy is heavily trafficked this week. In the technology sector, industry titans are finding themselves surprisingly vulnerable. Just as Microsoft rolls out its Automatic Super Resolution (Auto SR) to devices like the Xbox Ally X to challenge Nvidia’s graphical supremacy, Nvidia faces a vastly different kind of heat. CEO Jensen Huang is now mired in a staggering national security scandal involving a suspected Chinese spy. It is a stark reminder that even the most powerful engines of industry—much like a vehicle reliant on its radiator and cooling systems to prevent a meltdown—can dangerously overheat when human elements fail.\n\nFar beyond terrestrial drama, humanity’s gaze pushes deeper into the void. NASA’s Voyager 1 is poised to cross a profound threshold this week: traveling a full light-day—over 16 billion miles—away from Earth. Meanwhile, a brilliant new digital twin of the James Webb Space Telescope has allowed astronomers to peel back cosmic glare, revealing hidden alien worlds that have been lurking in plain sight.\n\nBack on Earth, our internal biology remains just as mysterious as deep space. A troubling neuroscience breakthrough indicates that childhood infections may leave a \"cellular long-term memory\" in RNA, quietly priming the brain for Alzheimer’s decades later. Yet, medical progress marches on, highlighted by the FDA’s approval of a novel Bayer drug that prevents blood clots without bleeding risks. Concurrently, political gears are grinding as Democratic chairs move to investigate Trump-era drug pricing deals, and progressive leaders push to expand Medicare eligibility.\n\nIn the cultural sphere, institutional legacies remain fiercely debated. Ohio State University has announced it will retain billionaire Les Wexner’s name on its arts center despite massive outcry over his ties to Jeffrey Epstein. Yet, structural support for creatives shows promise elsewhere: Canada is proposing a sweeping $554 million boost for museums and new artist tax breaks, signaling a renewed commitment to funding the arts unburdened by the shadows of complicated patronage.",
+    "body": "The overarching theme of today’s news is a fierce tug-of-war over access, infrastructure, and the rules of the game. In the digital sphere, the European Union is cracking down on addictive algorithms, loot boxes, and influencers with its newly proposed Digital Fairness Act. It is a sharp reminder that maintaining a platform isn’t just about avoiding Monday morning server downtime; it is about defining the legal boundaries of user safety and digital consumption.\n\nGeopolitically, those boundaries are even more contested. Ukraine suspects SpaceX is deliberately throttling its Starshield network to force leverage in peace talks. Whether managing wartime communications, celebrating the NASA Ames scientists of the month, or innovating orbital rideshares—as aerospace firm Moog celebrates 25 years of its ESPA ring—who holds the keys to our critical infrastructure is paramount.\n\nThis friction between private power and public welfare is equally visible in healthcare. Pfizer is leaning on private equity behemoth Blackstone to shoulder its massive $10 billion bet on a new monthly obesity drug. As private capital shapes the pharmaceutical market, lawmakers like Bernie Sanders are pushing the opposite direction, launching a coordinated effort to expand Medicare access. Meanwhile, the broader public health conversation continues to fracture, highlighted by the MAHA movement’s controversial alignment with figures like Russell Brand.\n\nWe are seeing a similar push for control in our physical and cultural environments. The San Francisco Bay Area just finalized strict new emissions limits that will force a residential heat-pump revolution. In the arts, organizations are fighting to maintain strict custody of their work. Following censorship by Vimeo, Rhizome is partnering with Electronic Arts Intermix to launch a self-hosted video platform. Institutional control is shifting too, with the Warhol Foundation appointing Franklin Sirmans as its new board chair. Yet, physical custody remains entirely precarious—just ask Galerie Ludorff, which watched a $160,000 Jean Arp bronze vanish from its Art Cologne booth in broad daylight.",
     "paragraphs": [
-      "The intersection of innovation and controversy is heavily trafficked this week. In the technology sector, industry titans are finding themselves surprisingly vulnerable. Just as Microsoft rolls out its Automatic Super Resolution (Auto SR) to devices like the Xbox Ally X to challenge Nvidia’s graphical supremacy, Nvidia faces a vastly different kind of heat. CEO Jensen Huang is now mired in a staggering national security scandal involving a suspected Chinese spy. It is a stark reminder that even the most powerful engines of industry—much like a vehicle reliant on its radiator and cooling systems to prevent a meltdown—can dangerously overheat when human elements fail.",
-      "Far beyond terrestrial drama, humanity’s gaze pushes deeper into the void. NASA’s Voyager 1 is poised to cross a profound threshold this week: traveling a full light-day—over 16 billion miles—away from Earth. Meanwhile, a brilliant new digital twin of the James Webb Space Telescope has allowed astronomers to peel back cosmic glare, revealing hidden alien worlds that have been lurking in plain sight.",
-      "Back on Earth, our internal biology remains just as mysterious as deep space. A troubling neuroscience breakthrough indicates that childhood infections may leave a \"cellular long-term memory\" in RNA, quietly priming the brain for Alzheimer’s decades later. Yet, medical progress marches on, highlighted by the FDA’s approval of a novel Bayer drug that prevents blood clots without bleeding risks. Concurrently, political gears are grinding as Democratic chairs move to investigate Trump-era drug pricing deals, and progressive leaders push to expand Medicare eligibility.",
-      "In the cultural sphere, institutional legacies remain fiercely debated. Ohio State University has announced it will retain billionaire Les Wexner’s name on its arts center despite massive outcry over his ties to Jeffrey Epstein. Yet, structural support for creatives shows promise elsewhere: Canada is proposing a sweeping $554 million boost for museums and new artist tax breaks, signaling a renewed commitment to funding the arts unburdened by the shadows of complicated patronage."
+      "The overarching theme of today’s news is a fierce tug-of-war over access, infrastructure, and the rules of the game. In the digital sphere, the European Union is cracking down on addictive algorithms, loot boxes, and influencers with its newly proposed Digital Fairness Act. It is a sharp reminder that maintaining a platform isn’t just about avoiding Monday morning server downtime; it is about defining the legal boundaries of user safety and digital consumption.",
+      "Geopolitically, those boundaries are even more contested. Ukraine suspects SpaceX is deliberately throttling its Starshield network to force leverage in peace talks. Whether managing wartime communications, celebrating the NASA Ames scientists of the month, or innovating orbital rideshares—as aerospace firm Moog celebrates 25 years of its ESPA ring—who holds the keys to our critical infrastructure is paramount.",
+      "This friction between private power and public welfare is equally visible in healthcare. Pfizer is leaning on private equity behemoth Blackstone to shoulder its massive $10 billion bet on a new monthly obesity drug. As private capital shapes the pharmaceutical market, lawmakers like Bernie Sanders are pushing the opposite direction, launching a coordinated effort to expand Medicare access. Meanwhile, the broader public health conversation continues to fracture, highlighted by the MAHA movement’s controversial alignment with figures like Russell Brand.",
+      "We are seeing a similar push for control in our physical and cultural environments. The San Francisco Bay Area just finalized strict new emissions limits that will force a residential heat-pump revolution. In the arts, organizations are fighting to maintain strict custody of their work. Following censorship by Vimeo, Rhizome is partnering with Electronic Arts Intermix to launch a self-hosted video platform. Institutional control is shifting too, with the Warhol Foundation appointing Franklin Sirmans as its new board chair. Yet, physical custody remains entirely precarious—just ask Galerie Ludorff, which watched a $160,000 Jean Arp bronze vanish from its Art Cologne booth in broad daylight."
     ],
-    "wordCount": 320,
-    "heroImage": "https://www.artforum.com/wp-content/uploads/2026/11/wex-center.jpg?w=650",
-    "heroCredit": "Despite Epstein Ties, Billionaire’s Name to Stay on Wexner Center for the Arts",
+    "wordCount": 313,
+    "heroImage": "https://www.artforum.com/wp-content/uploads/2026/11/von-der-galerie-als-gestohlen.webp?w=650",
+    "heroCredit": "$160,000 Jean Arp Sculpture Swiped from Art Cologne Booth",
     "heroSource": "Artforum",
-    "heroSourceUrl": "https://www.artforum.com/news/billionaires-name-to-stay-on-wexner-center-for-the-arts-1234763361/",
+    "heroSourceUrl": "https://www.artforum.com/news/160k-jean-arp-sculpture-swiped-from-art-cologne-booth-1234763546/",
     "headlines": [
       {
-        "title": "Despite Epstein Ties, Billionaire’s Name to Stay on Wexner Center for the Arts",
+        "title": "$160,000 Jean Arp Sculpture Swiped from Art Cologne Booth",
         "source": "Artforum",
         "category": "art",
-        "sourceUrl": "https://www.artforum.com/news/billionaires-name-to-stay-on-wexner-center-for-the-arts-1234763361/",
-        "summary": "Billionaire Les Wexner’s name will remain on Ohio State University’s Wexner Center for the Arts, even though the school received hundreds of requests to remove it owing to his ties to Jeffrey Epstein, the Columbus…",
-        "image": "https://www.artforum.com/wp-content/uploads/2026/11/wex-center.jpg?w=650"
+        "sourceUrl": "https://www.artforum.com/news/160k-jean-arp-sculpture-swiped-from-art-cologne-booth-1234763546/",
+        "summary": "A bronze sculpture by renowned French German artist Hans (Jean) Arp valued at €145,000 ($160,000) was stolen from Galerie Ludorff’s booth at Art Cologne on November 8, the last day of the fair’s run. The…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/11/von-der-galerie-als-gestohlen.webp?w=650"
       },
       {
-        "title": "STAT+: Democrats take new step toward investigating Trump’s drug pricing deals",
+        "title": "STAT+: Blackstone backs Pfizer's bet on monthly obesity treatment",
         "source": "STAT News",
         "category": "biotech",
-        "sourceUrl": "https://www.statnews.com/2026/11/10/democrats-investigate-most-favored-nation-deals-letters-drugmakers/?utm_campaign=rss",
-        "summary": "Incoming Democratic chairs of key committees have taken a step toward investigating MFN drug pricing agreements between drugmakers and the Trump administration.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/11/GettyImages-2303016623-1024x576.jpg"
+        "sourceUrl": "https://www.statnews.com/2026/11/12/biotech-news-blackstone-backs-pfizer-bet-on-monthly-obesity-treatment/?utm_campaign=rss",
+        "summary": "Pfizer spent up to $10 billion to buy Metsera last year. Now, it’s bringing in private equity behemoth Blackstone to help pay for the deal.",
+        "image": "https://www.statnews.com/wp-content/uploads/2025/11/AdobeStock_324675306_Editorial_Use_Only-1024x576.jpeg"
       },
       {
-        "title": "Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
+        "title": "Bay Area finalizes rules to boost heat-pump water heater adoption",
+        "source": "Canary Media",
+        "category": "energy",
+        "sourceUrl": "https://www.canarymedia.com/articles/heat-pumps/bay-area-heat-pump-water-heater-rules",
+        "summary": "San Francisco Bay Area regulators have finalized a long-awaited rule that limits pollution from residential water heaters. In 2023, the Bay Area Air District board passed first-in-the-nation regulations setting…",
+        "image": "https://img.canarymedia.com/content/uploads/Vernon-Coleman-heat-pump-installation.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=9ff29eb69a31437b3632cf2f400439d3"
+      },
+      {
+        "title": "Ukraine says SpaceX Starshield is restricted again; SpaceX claims it isn’t",
+        "source": "Ars Technica",
+        "category": "general",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/11/ukraine-says-spacex-starshield-is-restricted-again-spacex-claims-it-isnt/",
+        "summary": "Report: Ukraine suspects speeds limits are intended to help Russia in peace talks.",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/zelenskyy-1152x648-1794506400.jpg"
+      },
+      {
+        "title": "NASA Ames Stars of the Month: November 2026",
+        "source": "NASA",
+        "category": "space",
+        "sourceUrl": "https://www.nasa.gov/general/nasa-ames-stars-of-the-month-november-2026/",
+        "summary": "The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Alyssa Villanueva, Steve Howell, and Samuel LeBlanc. Their commitment to the NASA mission represents the…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/11/som-november-2026-banner.jpg"
+      },
+      {
+        "title": "Rhizome Partners With Electronic Arts Intermix After Vimeo Censoring",
+        "source": "Artforum",
+        "category": "art",
+        "sourceUrl": "https://www.artforum.com/news/rhizome-electronic-arts-intermix-vimeo-censoring-1234763459/",
+        "summary": "Rhizome has announced a pilot program to offer artist and partner channels on video.rhizome.org (VRO), a self-hosted video platform. The program took shape after Electronic Arts Intermix (EAI) was censored by Vimeo in…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/11/ellen-cantor.jpeg?w=650"
+      },
+      {
+        "title": "Opinion: What MAHA’s support for Russell Brand tells us about the movement",
+        "source": "STAT News",
+        "category": "biotech",
+        "sourceUrl": "https://www.statnews.com/2026/11/11/maha-russell-brand-conviction-violence-rfk-jr/?utm_campaign=rss",
+        "summary": "“The alliance between MAHA and Russell Brand is not an aberration,” writes Gavin Yamey.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/11/GettyImages-2303454856-1024x576.jpg"
+      },
+      {
+        "title": "Loot boxes, influencers, and addictive features face an EU crackdown",
         "source": "The Verge",
         "category": "general",
-        "sourceUrl": "https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling",
-        "summary": "Microsoft is now rolling out Automatic Super Resolution (Auto SR), an upscaling technology that competes with Nvidia's DLSS, for the Xbox Ally X, Xbox Ally X20, and select Windows Copilot Plus PCs, the company announced…",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257996_ROG_Xbox_Ally_and_Xbox_Ally_X_AKrales_0073.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        "sourceUrl": "https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection",
+        "summary": "Gaming, social media, and e-commerce platforms are facing a fresh wave of sweeping European Union rules that aim to make \"your online experience fairer.\" The newly proposed Digital Fairness Act (DFA) published by the EU…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319789/STK450_EU_E.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200"
       },
       {
-        "title": "Looking for Car Cooling System Parts? Explore Your Options at TeamVehicle",
+        "title": "7 Platform Maintenance Routines Vlaximux Limited Schedules to Prevent Downtime",
         "source": "Robotics & Automation News",
         "category": "robotics",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/11/10/looking-for-car-cooling-system-parts-explore-your-options-at-teamvehicle/106949/",
-        "summary": "The cooling system in your car helps maintain optimum temperatures for the engine. Radiator, water pump, fan, and hoses are essential components of the cooling system. If any of these fails, then the temperature of the…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/car-parts-1.jpg"
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/11/11/platform-maintenance-routines-prevent-downtime-vlaximux-limited/106963/",
+        "summary": "Nobody thinks about a platform on a calm Tuesday afternoon. Everyone thinks about it on a busy Monday morning, when the login page refuses to load, and the support inbox starts to fill up. Downtime is rarely a dramatic…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/vlaximux-image-1.png"
       },
       {
-        "title": "Astronomers discover hidden alien planet in James Webb images",
-        "source": "ScienceDaily",
+        "title": "Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare",
+        "source": "SpaceNews",
         "category": "space",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261108233028.htm",
-        "summary": "A breakthrough in telescope imaging could reveal countless alien worlds that have been hiding in plain sight. Scientists developed a new technique that uses a digital twin of the James Webb Space Telescope to remove the…",
-        "image": "https://www.sciencedaily.com/images/1920/erasing-stars-to-find-exoplanets.webp"
+        "sourceUrl": "https://spacenews.com/moog-marks-25-years-since-espa-design-milestone-innovating-space-rideshare/",
+        "summary": "East Aurora, N.Y. — Moog Inc. (NYSE: MOG.A and MOG.B) marks 25 years since the Evolved Secondary Payload Adapter (ESPA) ring completed its Critical Design Review in 2001. The pioneering […] The post Moog Marks 25 Years…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/03/moog-square.png?fit=1024%2C1024&ssl=1"
       },
       {
         "title": "Warhol Foundation Names New Board Chair, Members",
@@ -76,52 +116,34 @@
         "sourceUrl": "https://www.statnews.com/2026/11/10/dc-diagnosis-wyden-sanders-aligned-on-medicare-for-all/?utm_campaign=rss",
         "summary": "Sen. Bernie Sanders said that he wants to lower the Medicare eligibility age by 10 years, among other initiatives.",
         "image": "https://www.statnews.com/wp-content/uploads/2023/07/AP23159689215512-1024x576.jpg"
-      },
-      {
-        "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
-        "source": "BBC Technology",
-        "category": "general",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-        "summary": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2521/live/6ba67640-dc03-11f1-b441-2b33b063138f.jpg"
-      },
-      {
-        "title": "Early Infections Prime the Brain for Alzheimer’s",
-        "source": "Neuroscience News",
-        "category": "neuroscience",
-        "sourceUrl": "https://neurosciencenews.com/early-infections-prime-the-brain-for-alzheimers/",
-        "summary": "Can an infection in youth seed Alzheimer's in old age? FAU and TUM scientists investigate a \"cellular long-term memory\" in neurons and microglia, where damaged long-lived RNA molecules leave brain cells primed for…",
-        "image": "https://neurosciencenews.com/files/2026/11/early-infection-alzheimers-neuroscience-1155x770.jpg"
-      },
-      {
-        "title": "NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities",
-        "source": "NASA",
-        "category": "space",
-        "sourceUrl": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/",
-        "summary": "Launched nearly 50 years ago in 1977, NASA’s Voyager 1 on Wednesday, Nov. 18 will have traveled one light-day from Earth, which is more than 16 billion miles (25.9 billion kilometers). Voyager 1 is the most distant…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/11/voyager-1-advisory-image-2-nov-10.jpg"
-      },
-      {
-        "title": "Canada’s proposed federal budget includes tax breaks for artists and $554m funding boost for museums",
-        "source": "The Art Newspaper",
-        "category": "art",
-        "sourceUrl": "https://www.theartnewspaper.com/2026/11/09/canada-budget-proposal-tax-break-artists-museum-funding-boost",
-        "summary": "Like the Liberal government’s 2025 budget proposal, this year’s also calls for adopting an artist’s resale right policy",
-        "image": "https://cdn.sanity.io/images/cxgd3urn/production/317a87e00b0699b44338def66064bfb2fffe9822-2000x1125.jpg?w=140"
-      },
-      {
-        "title": "STAT+: FDA approves novel Bayer drug to reduce recurrence of stroke",
-        "source": "STAT News",
-        "category": "biotech",
-        "sourceUrl": "https://www.statnews.com/2026/11/09/cardiovascular-stroke-recurrence-bayer-drug-fda-approval/?utm_campaign=rss",
-        "summary": "Bayer's drug is the first in a novel class of medications designed to prevent blood clots without increasing risk of bleeding.",
-        "image": "https://www.statnews.com/wp-content/uploads/2019/09/AP_060324030695-1024x576.jpg"
       }
     ],
-    "publishedAt": "2026-11-11T07:58:44.863Z"
+    "publishedAt": "2026-11-12T21:41:46.155Z"
   },
   "drafts": {},
   "history": [
+    {
+      "id": "ed_2026-11-12",
+      "publishDate": "2026-11-12",
+      "status": "published",
+      "updatedAt": "2026-11-12T21:41:46.155Z",
+      "title": "Guardrails, Grabs, and Gatekeepers",
+      "dek": "Who controls our platforms, policies, and payloads today?",
+      "authorName": "Dr. Wallace Lynch",
+      "authorTitle": "Editor in Chief",
+      "paragraphs": [
+        "The overarching theme of today’s news is a fierce tug-of-war over access, infrastructure, and the rules of the game. In the digital sphere, the European Union is cracking down on addictive algorithms, loot boxes, and influencers with its newly proposed Digital Fairness Act. It is a sharp reminder that maintaining a platform isn’t just about avoiding Monday morning server downtime; it is about defining the legal boundaries of user safety and digital consumption.",
+        "Geopolitically, those boundaries are even more contested. Ukraine suspects SpaceX is deliberately throttling its Starshield network to force leverage in peace talks. Whether managing wartime communications, celebrating the NASA Ames scientists of the month, or innovating orbital rideshares—as aerospace firm Moog celebrates 25 years of its ESPA ring—who holds the keys to our critical infrastructure is paramount.",
+        "This friction between private power and public welfare is equally visible in healthcare. Pfizer is leaning on private equity behemoth Blackstone to shoulder its massive $10 billion bet on a new monthly obesity drug. As private capital shapes the pharmaceutical market, lawmakers like Bernie Sanders are pushing the opposite direction, launching a coordinated effort to expand Medicare access. Meanwhile, the broader public health conversation continues to fracture, highlighted by the MAHA movement’s controversial alignment with figures like Russell Brand.",
+        "We are seeing a similar push for control in our physical and cultural environments. The San Francisco Bay Area just finalized strict new emissions limits that will force a residential heat-pump revolution. In the arts, organizations are fighting to maintain strict custody of their work. Following censorship by Vimeo, Rhizome is partnering with Electronic Arts Intermix to launch a self-hosted video platform. Institutional control is shifting too, with the Warhol Foundation appointing Franklin Sirmans as its new board chair. Yet, physical custody remains entirely precarious—just ask Galerie Ludorff, which watched a $160,000 Jean Arp bronze vanish from its Art Cologne booth in broad daylight."
+      ],
+      "wordCount": 313,
+      "heroImage": "https://www.artforum.com/wp-content/uploads/2026/11/von-der-galerie-als-gestohlen.webp?w=650",
+      "heroCredit": "$160,000 Jean Arp Sculpture Swiped from Art Cologne Booth",
+      "heroSource": "Artforum",
+      "heroSourceUrl": "https://www.artforum.com/news/160k-jean-arp-sculpture-swiped-from-art-cologne-booth-1234763546/",
+      "publishedAt": "2026-11-12T21:41:46.155Z"
+    },
     {
       "id": "ed_2026-11-11",
       "publishDate": "2026-11-11",
@@ -1468,31 +1490,6 @@
       "heroSource": "Colossal",
       "heroSourceUrl": "https://www.thisiscolossal.com/2026/08/sipho-mabona-calabasha-sculpture-series/",
       "publishedAt": "2026-08-18T02:01:59.929Z"
-    },
-    {
-      "id": "ed_2026-08-16",
-      "publishDate": "2026-08-16",
-      "status": "published",
-      "updatedAt": "2026-08-16T04:39:55.506Z",
-      "title": "What a warning can score, and what a room still has to hold",
-      "dek": "Convergence of the emptied chair and the work that stays",
-      "authorName": "Dr. Wallace Lynch",
-      "authorTitle": "Editor in Chief",
-      "paragraphs": [
-        "The chair in No 10: Full Confidence is a prop. A Manchester game rose above Minecraft on the UK App Store paid chart by letting you last as prime minister until a faction turns. The BBC writer lasted a year and nine months. A cabinet letter said the PM was warned. Then the chair emptied. The warning was not a government. It was a score.",
-        "On Saturday, August 15, 2026, we hold that emptied chair to one pressure: what we can flag or play at keeping, and what still has to be occupied.",
-        "Furness Hall, a former University of the Arts dormitory in Philadelphia, will become forty five affordable apartments with a 2.5 million dollar Knight Foundation grant. A Picasso print stolen in Milwaukee in 2018, Torero, returns from a vacant apartment. One room will be lived in again.",
-        "A predictive maintenance system can flag rising vibration or unusual heat. It does not keep the machine running. Service automation and rollout discipline matter more than the model. AI video tools take a brief or a script and return motion in minutes. Elektron Model:Samples and Model:Cycles do not grab headlines. They still ask for hands.",
-        "NASA will award three more commercial lunar missions this year, including an orbiter to replace the Lunar Reconnaissance Orbiter. At Wallops Island, officials say build for workers before the launch surge. Replacement is not occupancy.",
-        "Care is the hardest room. TIMP2 wakes microglia and restores immune work in the aging brain. Pediatricians write against federal fearmongering on vaccines. Epic Systems, keeper of clinic records, sits under federal and state inquiry. Luigi Mangione pleads guilty to federal stalking charges and admits following UnitedHealth executive Brian Thompson, then shooting him.",
-        "Convergence is not a better warning. It is whether the rooms we keep, in a clinic, a dormitory, or a launch pad, still get a body that stays."
-      ],
-      "wordCount": 310,
-      "heroImage": "https://roboticsandautomationnews.com/wp-content/uploads/2026/08/2smart-iot-1.jpeg",
-      "heroCredit": "Predictive maintenance in the real world: Why service automation and rollout discipline matter more than models",
-      "heroSource": "Robotics & Automation News",
-      "heroSourceUrl": "https://roboticsandautomationnews.com/2026/08/15/predictive-maintenance-in-the-real-world-why-service-automation-and-rollout-discipline-matter-more-than-models/104183/",
-      "publishedAt": "2026-08-16T04:39:55.506Z"
     }
   ],
   "usedHeroImages": [
@@ -1764,6 +1761,7 @@
     "https://www.artforum.com/wp-content/uploads/2024/10/Basel-2024.jpeg?w=650",
     "https://www.thisiscolossal.com/wp-content/uploads/2026/11/robinson-6-e1793807743309.jpg",
     "https://neurosciencenews.com/files/2026/11/vocalist-auditory-neuroscience-1155x770.jpg",
-    "https://www.artforum.com/wp-content/uploads/2026/11/wex-center.jpg?w=650"
+    "https://www.artforum.com/wp-content/uploads/2026/11/wex-center.jpg?w=650",
+    "https://www.artforum.com/wp-content/uploads/2026/11/von-der-galerie-als-gestohlen.webp?w=650"
   ]
 }
