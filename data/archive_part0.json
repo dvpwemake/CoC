@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-11-13T00-44",
+    "scannedAt": "2026-11-13T00:44:36.927Z",
+    "items": [
+      {
+        "id": "auto_2026-11-13T00-44_1",
+        "rank": 1,
+        "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+        "category": "general",
+        "summary": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8436/live/9852bb70-d6a6-11f1-b441-2b33b063138f.png",
+        "source": "BBC Technology",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-13T00-44_2",
+        "rank": 2,
+        "title": "How Sky Glabush Conjures Atmospheric Landscapes in Sand and Oil Paint",
+        "category": "art",
+        "summary": "Sky Glabush identifies the feelings he associates with a particular place and translates that through color and intuitive interpretations of the terrain. Do stories and artists like this matter to you? Become a Colossal…",
+        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/glabush-8.jpg",
+        "source": "Colossal",
+        "sourceUrl": "https://www.thisiscolossal.com/2026/11/sky-glabush-landscape-paintings/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-13T00-44_3",
+        "rank": 3,
+        "title": "Ohio GOP circulates bill that would stymie coal plant closures",
+        "category": "energy",
+        "summary": "Republican lawmakers in Ohio are circulating a plan to keep coal plants open, even if an owner has a contractual obligation to close a facility. A draft bill obtained by Canary Media would block coal-fired power plants…",
+        "image": "https://img.canarymedia.com/content/uploads/Cardinal-power-plant-Ohio_GettyImages-537977358.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=ef30fb0b9ba04a37b61baa031cf63cfa",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/fossil-fuels/ohio-gop-bill-stymie-coal-plant-closures",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-13T00-44_4",
+        "rank": 4,
+        "title": "3D Genome Atlas Reveals Early Roots of Schizophrenia",
+        "category": "neuroscience",
+        "summary": "How does the human brain wire its reward and motor centers before birth? Using 3D genome sequencing across nearly 287,000 brain cells, UCLA scientists mapped the developing basal ganglia from mid-pregnancy to infancy,…",
+        "image": "https://neurosciencenews.com/files/2026/11/human-brain-cells-neurodevelopment-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/neurodevelopment-brain-mapping-schizophrenia-32411/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-13T00-44_5",
+        "rank": 5,
+        "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+        "category": "ai",
+        "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/foster-huang2a.jpg?resize=1200,600",
+        "source": "MIT Technology Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-11-12T19-15",
     "scannedAt": "2026-11-12T19:15:47.116Z",
     "items": [
@@ -118,6 +179,26 @@
         "source": "SpaceNews",
         "sourceUrl": "https://spacenews.com/moog-marks-25-years-since-espa-design-milestone-innovating-space-rideshare/",
         "fromX": false
+      }
+    ]
+  },
+  {
+    "batchId": "editorial_2026-11-11",
+    "scannedAt": "2026-11-11T07:58:44.863Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-11-11",
+        "rank": 0,
+        "title": "Legacies, Light-Days, and Liabilities",
+        "category": "editorial",
+        "summary": "Navigating scandal, cosmic milestones, and shifting cultural priorities.",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/11/wex-center.jpg?w=650",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-11-11.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-11-11",
+        "authorName": "Dr. Wallace Lynch"
       }
     ]
   },
@@ -2896,26 +2977,6 @@
         "source": "Neuroscience News",
         "sourceUrl": "https://neurosciencenews.com/teen-walking-depression-neuroscience-31289/",
         "fromX": false
-      }
-    ]
-  },
-  {
-    "batchId": "editorial_2026-10-04",
-    "scannedAt": "2026-10-04T22:08:41.522Z",
-    "kind": "editorial_archive",
-    "items": [
-      {
-        "id": "editorial_2026-10-04",
-        "rank": 0,
-        "title": "Navigating New Trajectories",
-        "category": "editorial",
-        "summary": "From Cellular Clocks to Cosmic Slingshots",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/9020427/swarm_screenshot27_large.jpg?quality=90&strip=all&crop=0,8.1151832460733,100,83.769633507853",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-10-04.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-10-04",
-        "authorName": "Dr. Wallace Lynch"
       }
     ]
   }
