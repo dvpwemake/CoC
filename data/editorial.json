@@ -1,26 +1,106 @@
 {
   "published": {
-    "id": "ed_2026-11-12",
-    "publishDate": "2026-11-12",
+    "id": "ed_2026-11-14",
+    "publishDate": "2026-11-14",
     "status": "published",
-    "updatedAt": "2026-11-12T21:41:46.155Z",
-    "title": "Guardrails, Grabs, and Gatekeepers",
-    "dek": "Who controls our platforms, policies, and payloads today?",
+    "updatedAt": "2026-11-14T20:42:52.660Z",
+    "title": "Hidden Maps and High Stakes",
+    "dek": "New discoveries and costly reckonings expose what lies beneath.",
     "authorName": "Dr. Wallace Lynch",
     "authorTitle": "Editor in Chief",
-    "body": "The overarching theme of today’s news is a fierce tug-of-war over access, infrastructure, and the rules of the game. In the digital sphere, the European Union is cracking down on addictive algorithms, loot boxes, and influencers with its newly proposed Digital Fairness Act. It is a sharp reminder that maintaining a platform isn’t just about avoiding Monday morning server downtime; it is about defining the legal boundaries of user safety and digital consumption.\n\nGeopolitically, those boundaries are even more contested. Ukraine suspects SpaceX is deliberately throttling its Starshield network to force leverage in peace talks. Whether managing wartime communications, celebrating the NASA Ames scientists of the month, or innovating orbital rideshares—as aerospace firm Moog celebrates 25 years of its ESPA ring—who holds the keys to our critical infrastructure is paramount.\n\nThis friction between private power and public welfare is equally visible in healthcare. Pfizer is leaning on private equity behemoth Blackstone to shoulder its massive $10 billion bet on a new monthly obesity drug. As private capital shapes the pharmaceutical market, lawmakers like Bernie Sanders are pushing the opposite direction, launching a coordinated effort to expand Medicare access. Meanwhile, the broader public health conversation continues to fracture, highlighted by the MAHA movement’s controversial alignment with figures like Russell Brand.\n\nWe are seeing a similar push for control in our physical and cultural environments. The San Francisco Bay Area just finalized strict new emissions limits that will force a residential heat-pump revolution. In the arts, organizations are fighting to maintain strict custody of their work. Following censorship by Vimeo, Rhizome is partnering with Electronic Arts Intermix to launch a self-hosted video platform. Institutional control is shifting too, with the Warhol Foundation appointing Franklin Sirmans as its new board chair. Yet, physical custody remains entirely precarious—just ask Galerie Ludorff, which watched a $160,000 Jean Arp bronze vanish from its Art Cologne booth in broad daylight.",
+    "body": "Progress often hinges on bringing the invisible into view. In neuroscience, researchers at Stanford and Columbia demonstrated just how much remains hidden inside the human brain—identifying pre-symptomatic signals that predict Alzheimer’s years early, alongside a previously unknown full-body map in the secondary motor cortex governing everyday coordination. Farther afield, astronomers spotted 2026 ED138, a giant icy world lurking beyond Pluto that could become our sixth official dwarf planet, even as CesiumAstro joined the Commercial Space Federation to strengthen orbital connectivity.\n\nYet when ambitious systems scale without guardrails, blind spots turn costly. Meta learned that lesson in Italy, hit with an €805 million fine for failing to disclose its access to 20 million users’ photos. Microsoft’s prolonged global outage across Outlook and Teams offered a different reminder of digital fragility, showing how quickly routine workflows stall when cloud infrastructure falters.\n\nIn health and policy, the tension between rapid deployment and rigorous accountability took center stage. Federal officials delayed strict Medicaid work requirements by six months to July 2027, buying breathing room for states and patients. Meanwhile, scrutiny mounted over whether Boston Scientific’s aggressive marketing of its Watchman cardiac implant has outpaced clinical evidence—a cautionary tale as Blackstone joins Pfizer to bankroll its $10 billion bet on Metsera’s monthly obesity treatment.\n\nPhysical logistics and cultural value rounded out a day defined by movement and risk. Alphabet’s Wing committed $125 million to U.S. drone manufacturing to scale nationwide autonomous delivery. And in the art world, Lorna Simpson earned the 2027 Wolfgang Hahn Prize for decades of work interrogating race, gender, and history—just days after thieves walked off with a $160,000 Jean Arp bronze sculpture at Art Cologne, proving that even in an age of high-tech surveillance, some things still vanish in plain sight.",
     "paragraphs": [
-      "The overarching theme of today’s news is a fierce tug-of-war over access, infrastructure, and the rules of the game. In the digital sphere, the European Union is cracking down on addictive algorithms, loot boxes, and influencers with its newly proposed Digital Fairness Act. It is a sharp reminder that maintaining a platform isn’t just about avoiding Monday morning server downtime; it is about defining the legal boundaries of user safety and digital consumption.",
-      "Geopolitically, those boundaries are even more contested. Ukraine suspects SpaceX is deliberately throttling its Starshield network to force leverage in peace talks. Whether managing wartime communications, celebrating the NASA Ames scientists of the month, or innovating orbital rideshares—as aerospace firm Moog celebrates 25 years of its ESPA ring—who holds the keys to our critical infrastructure is paramount.",
-      "This friction between private power and public welfare is equally visible in healthcare. Pfizer is leaning on private equity behemoth Blackstone to shoulder its massive $10 billion bet on a new monthly obesity drug. As private capital shapes the pharmaceutical market, lawmakers like Bernie Sanders are pushing the opposite direction, launching a coordinated effort to expand Medicare access. Meanwhile, the broader public health conversation continues to fracture, highlighted by the MAHA movement’s controversial alignment with figures like Russell Brand.",
-      "We are seeing a similar push for control in our physical and cultural environments. The San Francisco Bay Area just finalized strict new emissions limits that will force a residential heat-pump revolution. In the arts, organizations are fighting to maintain strict custody of their work. Following censorship by Vimeo, Rhizome is partnering with Electronic Arts Intermix to launch a self-hosted video platform. Institutional control is shifting too, with the Warhol Foundation appointing Franklin Sirmans as its new board chair. Yet, physical custody remains entirely precarious—just ask Galerie Ludorff, which watched a $160,000 Jean Arp bronze vanish from its Art Cologne booth in broad daylight."
+      "Progress often hinges on bringing the invisible into view. In neuroscience, researchers at Stanford and Columbia demonstrated just how much remains hidden inside the human brain—identifying pre-symptomatic signals that predict Alzheimer’s years early, alongside a previously unknown full-body map in the secondary motor cortex governing everyday coordination. Farther afield, astronomers spotted 2026 ED138, a giant icy world lurking beyond Pluto that could become our sixth official dwarf planet, even as CesiumAstro joined the Commercial Space Federation to strengthen orbital connectivity.",
+      "Yet when ambitious systems scale without guardrails, blind spots turn costly. Meta learned that lesson in Italy, hit with an €805 million fine for failing to disclose its access to 20 million users’ photos. Microsoft’s prolonged global outage across Outlook and Teams offered a different reminder of digital fragility, showing how quickly routine workflows stall when cloud infrastructure falters.",
+      "In health and policy, the tension between rapid deployment and rigorous accountability took center stage. Federal officials delayed strict Medicaid work requirements by six months to July 2027, buying breathing room for states and patients. Meanwhile, scrutiny mounted over whether Boston Scientific’s aggressive marketing of its Watchman cardiac implant has outpaced clinical evidence—a cautionary tale as Blackstone joins Pfizer to bankroll its $10 billion bet on Metsera’s monthly obesity treatment.",
+      "Physical logistics and cultural value rounded out a day defined by movement and risk. Alphabet’s Wing committed $125 million to U.S. drone manufacturing to scale nationwide autonomous delivery. And in the art world, Lorna Simpson earned the 2027 Wolfgang Hahn Prize for decades of work interrogating race, gender, and history—just days after thieves walked off with a $160,000 Jean Arp bronze sculpture at Art Cologne, proving that even in an age of high-tech surveillance, some things still vanish in plain sight."
     ],
-    "wordCount": 313,
-    "heroImage": "https://www.artforum.com/wp-content/uploads/2026/11/von-der-galerie-als-gestohlen.webp?w=650",
-    "heroCredit": "$160,000 Jean Arp Sculpture Swiped from Art Cologne Booth",
-    "heroSource": "Artforum",
-    "heroSourceUrl": "https://www.artforum.com/news/160k-jean-arp-sculpture-swiped-from-art-cologne-booth-1234763546/",
+    "wordCount": 290,
+    "heroImage": "https://www.statnews.com/wp-content/uploads/2026/11/GettyImages-2282810874-1024x576.jpg",
+    "heroCredit": "STAT+: Enforcement of stringent Medicaid work requirements delayed for six months",
+    "heroSource": "STAT News",
+    "heroSourceUrl": "https://www.statnews.com/2026/11/13/medicaid-work-requirements-implementation-delayed-six-months/?utm_campaign=rss",
     "headlines": [
+      {
+        "title": "STAT+: Enforcement of stringent Medicaid work requirements delayed for six months",
+        "source": "STAT News",
+        "category": "biotech",
+        "sourceUrl": "https://www.statnews.com/2026/11/13/medicaid-work-requirements-implementation-delayed-six-months/?utm_campaign=rss",
+        "summary": "Enforcement of the Trump administration's stringent new Medicaid work requirements have been delayed for six months, until July 1, 2027.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/11/GettyImages-2282810874-1024x576.jpg"
+      },
+      {
+        "title": "Italy fines Meta €805m over accessing users' photos",
+        "source": "BBC Technology",
+        "category": "general",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
+        "summary": "The social media giant is accused of not informing about 20 million users it had access to their photos.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6be/live/f51842e0-e041-11f1-88e1-eb4e155225b3.jpg"
+      },
+      {
+        "title": "Stanford scientists discover hidden brain signals that predict Alzheimer’s years before symptoms",
+        "source": "ScienceDaily",
+        "category": "neuroscience",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261112230444.htm",
+        "summary": "Stanford researchers have discovered that hidden patterns of brain activity can predict Alzheimer’s risk years before memory problems appear, potentially offering an earlier warning than traditional biomarkers. The same…",
+        "image": "https://www.sciencedaily.com/images/1920/neuroscience-brain-connections-signal-processing.webp"
+      },
+      {
+        "title": "Wing invests $125 million in US drone manufacturing to support nationwide expansion",
+        "source": "Robotics & Automation News",
+        "category": "robotics",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/11/14/wing-invests-125-million-in-us-drone-manufacturing-to-support-nationwide-expansion/107107/",
+        "summary": "Wing, the drone delivery company owned by Alphabet, is investing up to $125 million in US manufacturing over the next two years as it prepares to expand its autonomous delivery network across the country. The investment…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/wing-drone-company-1.png"
+      },
+      {
+        "title": "A giant icy world hiding beyond Pluto could be our sixth dwarf planet",
+        "source": "ScienceDaily",
+        "category": "space",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261112230447.htm",
+        "summary": "Astronomers have uncovered a potentially enormous new dwarf planet beyond Pluto, hidden for years in one of the most crowded regions of the night sky. The discovery of 2026 ED138 could expand the solar system's official…",
+        "image": "https://www.sciencedaily.com/images/1920/giant-icy-dwarf-planet.webp"
+      },
+      {
+        "title": "Lorna Simpson Wins 2027 Wolfgang Hahn Prize",
+        "source": "Artforum",
+        "category": "art",
+        "sourceUrl": "https://www.artforum.com/news/lorna-simpson-awarded-2027-wolfgang-hahn-prize-1234763599/",
+        "summary": "Pathbreaking artist Lorna Simpson, known for her photographic works eschewing racist and sexist stereotypes and interrogating race, class, gender, politics, and history, has been revealed as the winner of the…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/11/GettyImages-2274865600.jpg?w=650"
+      },
+      {
+        "title": "STAT+: Doctors have questions about the Watchman. Boston Scientific has a sales pitch.",
+        "source": "STAT News",
+        "category": "biotech",
+        "sourceUrl": "https://www.statnews.com/2026/11/13/investigation-boston-scientific-watchman-cardiac-implant-marketing-science/?utm_campaign=rss",
+        "summary": "The Boston Globe investigates if Boston Scientific's marketing of its cardiac implant, Watchman, outpaced the science.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/11/bs_screenshot5-1024x576.jpg"
+      },
+      {
+        "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
+        "source": "BBC Technology",
+        "category": "general",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+        "summary": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg"
+      },
+      {
+        "title": "Hidden Body Map in Brain Explains Complex Coordination",
+        "source": "Neuroscience News",
+        "category": "neuroscience",
+        "sourceUrl": "https://neurosciencenews.com/motor-coordination-body-map-32413/",
+        "summary": "How do you effortlessly coordinate your hand, arm, head, and lips to sip soup? Columbia neuroscientists discovered a previously hidden full-body map inside the brain's secondary motor cortex (M2), found within its…",
+        "image": "https://neurosciencenews.com/files/2026/11/coordination-movement-body-map-neurosicence-1155x770.jpg"
+      },
+      {
+        "title": "Commercial Space Federation Welcomes CesiumAstro as a New Associate Member",
+        "source": "SpaceNews",
+        "category": "space",
+        "sourceUrl": "https://spacenews.com/commercial-space-federation-welcomes-cesiumastro-as-a-new-associate-member/",
+        "summary": "November 13, 2026— Washington, D.C.—The Commercial Space Federation (CSF) is pleased to welcome CesiumAstro as its newest Associate Member. A global leader in advanced connectivity solutions for the space and […] The…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/Anniversary-Logo.jpg?fit=1024%2C883&ssl=1"
+      },
       {
         "title": "$160,000 Jean Arp Sculpture Swiped from Art Cologne Booth",
         "source": "Artforum",
@@ -36,92 +116,34 @@
         "sourceUrl": "https://www.statnews.com/2026/11/12/biotech-news-blackstone-backs-pfizer-bet-on-monthly-obesity-treatment/?utm_campaign=rss",
         "summary": "Pfizer spent up to $10 billion to buy Metsera last year. Now, it’s bringing in private equity behemoth Blackstone to help pay for the deal.",
         "image": "https://www.statnews.com/wp-content/uploads/2025/11/AdobeStock_324675306_Editorial_Use_Only-1024x576.jpeg"
-      },
-      {
-        "title": "Bay Area finalizes rules to boost heat-pump water heater adoption",
-        "source": "Canary Media",
-        "category": "energy",
-        "sourceUrl": "https://www.canarymedia.com/articles/heat-pumps/bay-area-heat-pump-water-heater-rules",
-        "summary": "San Francisco Bay Area regulators have finalized a long-awaited rule that limits pollution from residential water heaters. In 2023, the Bay Area Air District board passed first-in-the-nation regulations setting…",
-        "image": "https://img.canarymedia.com/content/uploads/Vernon-Coleman-heat-pump-installation.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=9ff29eb69a31437b3632cf2f400439d3"
-      },
-      {
-        "title": "Ukraine says SpaceX Starshield is restricted again; SpaceX claims it isn’t",
-        "source": "Ars Technica",
-        "category": "general",
-        "sourceUrl": "https://arstechnica.com/tech-policy/2026/11/ukraine-says-spacex-starshield-is-restricted-again-spacex-claims-it-isnt/",
-        "summary": "Report: Ukraine suspects speeds limits are intended to help Russia in peace talks.",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/zelenskyy-1152x648-1794506400.jpg"
-      },
-      {
-        "title": "NASA Ames Stars of the Month: November 2026",
-        "source": "NASA",
-        "category": "space",
-        "sourceUrl": "https://www.nasa.gov/general/nasa-ames-stars-of-the-month-november-2026/",
-        "summary": "The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Alyssa Villanueva, Steve Howell, and Samuel LeBlanc. Their commitment to the NASA mission represents the…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/11/som-november-2026-banner.jpg"
-      },
-      {
-        "title": "Rhizome Partners With Electronic Arts Intermix After Vimeo Censoring",
-        "source": "Artforum",
-        "category": "art",
-        "sourceUrl": "https://www.artforum.com/news/rhizome-electronic-arts-intermix-vimeo-censoring-1234763459/",
-        "summary": "Rhizome has announced a pilot program to offer artist and partner channels on video.rhizome.org (VRO), a self-hosted video platform. The program took shape after Electronic Arts Intermix (EAI) was censored by Vimeo in…",
-        "image": "https://www.artforum.com/wp-content/uploads/2026/11/ellen-cantor.jpeg?w=650"
-      },
-      {
-        "title": "Opinion: What MAHA’s support for Russell Brand tells us about the movement",
-        "source": "STAT News",
-        "category": "biotech",
-        "sourceUrl": "https://www.statnews.com/2026/11/11/maha-russell-brand-conviction-violence-rfk-jr/?utm_campaign=rss",
-        "summary": "“The alliance between MAHA and Russell Brand is not an aberration,” writes Gavin Yamey.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/11/GettyImages-2303454856-1024x576.jpg"
-      },
-      {
-        "title": "Loot boxes, influencers, and addictive features face an EU crackdown",
-        "source": "The Verge",
-        "category": "general",
-        "sourceUrl": "https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection",
-        "summary": "Gaming, social media, and e-commerce platforms are facing a fresh wave of sweeping European Union rules that aim to make \"your online experience fairer.\" The newly proposed Digital Fairness Act (DFA) published by the EU…",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319789/STK450_EU_E.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200"
-      },
-      {
-        "title": "7 Platform Maintenance Routines Vlaximux Limited Schedules to Prevent Downtime",
-        "source": "Robotics & Automation News",
-        "category": "robotics",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/11/11/platform-maintenance-routines-prevent-downtime-vlaximux-limited/106963/",
-        "summary": "Nobody thinks about a platform on a calm Tuesday afternoon. Everyone thinks about it on a busy Monday morning, when the login page refuses to load, and the support inbox starts to fill up. Downtime is rarely a dramatic…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/vlaximux-image-1.png"
-      },
-      {
-        "title": "Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare",
-        "source": "SpaceNews",
-        "category": "space",
-        "sourceUrl": "https://spacenews.com/moog-marks-25-years-since-espa-design-milestone-innovating-space-rideshare/",
-        "summary": "East Aurora, N.Y. — Moog Inc. (NYSE: MOG.A and MOG.B) marks 25 years since the Evolved Secondary Payload Adapter (ESPA) ring completed its Critical Design Review in 2001. The pioneering […] The post Moog Marks 25 Years…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/03/moog-square.png?fit=1024%2C1024&ssl=1"
-      },
-      {
-        "title": "Warhol Foundation Names New Board Chair, Members",
-        "source": "Artforum",
-        "category": "art",
-        "sourceUrl": "https://www.artforum.com/news/the-andy-warhol-foundation-franklin-sirmans-1234763343/",
-        "summary": "The Andy Warhol Foundation for the Visual Arts has named Franklin Sirmans as chair of the board. Three other board members have also been named: Cheryl Finley, Candice Hopkins, and Suzi Kwon Cohen. Since 2015, Sirmans…",
-        "image": "https://www.artforum.com/wp-content/uploads/2026/11/warhol-foundation-board.jpg?w=650"
-      },
-      {
-        "title": "STAT+: Wyden, Sanders hand-in-hand on ‘Medicare for All' initiative",
-        "source": "STAT News",
-        "category": "biotech",
-        "sourceUrl": "https://www.statnews.com/2026/11/10/dc-diagnosis-wyden-sanders-aligned-on-medicare-for-all/?utm_campaign=rss",
-        "summary": "Sen. Bernie Sanders said that he wants to lower the Medicare eligibility age by 10 years, among other initiatives.",
-        "image": "https://www.statnews.com/wp-content/uploads/2023/07/AP23159689215512-1024x576.jpg"
       }
     ],
-    "publishedAt": "2026-11-12T21:41:46.155Z"
+    "publishedAt": "2026-11-14T20:42:52.660Z"
   },
   "drafts": {},
   "history": [
+    {
+      "id": "ed_2026-11-14",
+      "publishDate": "2026-11-14",
+      "status": "published",
+      "updatedAt": "2026-11-14T20:42:52.660Z",
+      "title": "Hidden Maps and High Stakes",
+      "dek": "New discoveries and costly reckonings expose what lies beneath.",
+      "authorName": "Dr. Wallace Lynch",
+      "authorTitle": "Editor in Chief",
+      "paragraphs": [
+        "Progress often hinges on bringing the invisible into view. In neuroscience, researchers at Stanford and Columbia demonstrated just how much remains hidden inside the human brain—identifying pre-symptomatic signals that predict Alzheimer’s years early, alongside a previously unknown full-body map in the secondary motor cortex governing everyday coordination. Farther afield, astronomers spotted 2026 ED138, a giant icy world lurking beyond Pluto that could become our sixth official dwarf planet, even as CesiumAstro joined the Commercial Space Federation to strengthen orbital connectivity.",
+        "Yet when ambitious systems scale without guardrails, blind spots turn costly. Meta learned that lesson in Italy, hit with an €805 million fine for failing to disclose its access to 20 million users’ photos. Microsoft’s prolonged global outage across Outlook and Teams offered a different reminder of digital fragility, showing how quickly routine workflows stall when cloud infrastructure falters.",
+        "In health and policy, the tension between rapid deployment and rigorous accountability took center stage. Federal officials delayed strict Medicaid work requirements by six months to July 2027, buying breathing room for states and patients. Meanwhile, scrutiny mounted over whether Boston Scientific’s aggressive marketing of its Watchman cardiac implant has outpaced clinical evidence—a cautionary tale as Blackstone joins Pfizer to bankroll its $10 billion bet on Metsera’s monthly obesity treatment.",
+        "Physical logistics and cultural value rounded out a day defined by movement and risk. Alphabet’s Wing committed $125 million to U.S. drone manufacturing to scale nationwide autonomous delivery. And in the art world, Lorna Simpson earned the 2027 Wolfgang Hahn Prize for decades of work interrogating race, gender, and history—just days after thieves walked off with a $160,000 Jean Arp bronze sculpture at Art Cologne, proving that even in an age of high-tech surveillance, some things still vanish in plain sight."
+      ],
+      "wordCount": 290,
+      "heroImage": "https://www.statnews.com/wp-content/uploads/2026/11/GettyImages-2282810874-1024x576.jpg",
+      "heroCredit": "STAT+: Enforcement of stringent Medicaid work requirements delayed for six months",
+      "heroSource": "STAT News",
+      "heroSourceUrl": "https://www.statnews.com/2026/11/13/medicaid-work-requirements-implementation-delayed-six-months/?utm_campaign=rss",
+      "publishedAt": "2026-11-14T20:42:52.660Z"
+    },
     {
       "id": "ed_2026-11-12",
       "publishDate": "2026-11-12",
@@ -1466,30 +1488,6 @@
       "heroSource": "NASA",
       "heroSourceUrl": "https://science.nasa.gov/solar-system/moon/nasas-lro-images-falcon-9-crater-on-moon-learns-new-details/",
       "publishedAt": "2026-08-19T22:01:06.428Z"
-    },
-    {
-      "id": "ed_2026-08-17",
-      "publishDate": "2026-08-17",
-      "status": "published",
-      "updatedAt": "2026-08-18T02:01:59.929Z",
-      "title": "The vessel does not keep a plate",
-      "dek": "A father's tribute, and a city's search",
-      "authorName": "Dr. Wallace Lynch",
-      "authorTitle": "Editor in Chief",
-      "paragraphs": [
-        "Sipho Mabona cuts windows in calabashes and sews them with milk carton foil. The series is The Calabashes We Never Drank Amasi From. His late father, Mongameli Mabona, told of drinking fermented milk from gourds in the Eastern Cape. A small mirror sits near the center of each piece. Close in, the father's voice reads. The vessel keeps a tribute. It does not keep a plate.",
-        "On Monday, August 17, 2026, we hold that vessel to one pressure: what we keep as tribute, and what we keep as watch.",
-        "Flock runs some 120,000 automatic license plate readers. After officers used such systems to stalk, the company asks for a case number. It does not verify the number. MIT Technology Review says defenders miss the bargain: what is collected, who may search, how long it is kept, how widely it is shared. Verizon asked the Supreme Court for a 47 million dollar refund of an FCC fine. The Court said no. Carriers still say selling device location is not illegal. The plate is kept. The person is not returned.",
-        "HEO will use Planet satellites to photograph other spacecraft. NASA's network over Addis Ababa gives a long view of black carbon from fires, diesel, and other combustion. Lattice's Karl Wachswender says the intelligence of robots sits less in the model than in the sensors underneath. The sky is a sensor. The street is a sensor.",
-        "Care loses another kind of sight. Eyepoint's experimental treatment for wet AMD failed to keep vision with fewer injections than the standard. Kindergarten vaccination rates fall again as nonmedical exemptions rise. The CDC put the numbers online and skipped a full report.",
-        "Convergence is not a thicker camera. It is whether the keep we make, in a gourd or a clinic, still belongs to the living and not only to the watch."
-      ],
-      "wordCount": 305,
-      "heroImage": "https://www.thisiscolossal.com/wp-content/uploads/2026/08/mabona-7.jpg",
-      "heroCredit": "Milk Cartons and Bottle Gourds Form Sipho Mabona's Tribute to His Late Father",
-      "heroSource": "Colossal",
-      "heroSourceUrl": "https://www.thisiscolossal.com/2026/08/sipho-mabona-calabasha-sculpture-series/",
-      "publishedAt": "2026-08-18T02:01:59.929Z"
     }
   ],
   "usedHeroImages": [
@@ -1762,6 +1760,7 @@
     "https://www.thisiscolossal.com/wp-content/uploads/2026/11/robinson-6-e1793807743309.jpg",
     "https://neurosciencenews.com/files/2026/11/vocalist-auditory-neuroscience-1155x770.jpg",
     "https://www.artforum.com/wp-content/uploads/2026/11/wex-center.jpg?w=650",
-    "https://www.artforum.com/wp-content/uploads/2026/11/von-der-galerie-als-gestohlen.webp?w=650"
+    "https://www.artforum.com/wp-content/uploads/2026/11/von-der-galerie-als-gestohlen.webp?w=650",
+    "https://www.statnews.com/wp-content/uploads/2026/11/GettyImages-2282810874-1024x576.jpg"
   ]
 }
