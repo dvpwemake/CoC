@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-11-14T00-30",
+    "scannedAt": "2026-11-14T00:30:02.079Z",
+    "items": [
+      {
+        "id": "auto_2026-11-14T00-30_1",
+        "rank": 1,
+        "title": "Amazon has a plan to index the world’s online shopping data",
+        "category": "general",
+        "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project,…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "sourceUrl": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-14T00-30_2",
+        "rank": 2,
+        "title": "STAT+: Enforcement of stringent Medicaid work requirements delayed for six months",
+        "category": "biotech",
+        "summary": "Enforcement of the Trump administration's stringent new Medicaid work requirements have been delayed for six months, until July 1, 2027.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/11/GettyImages-2282810874-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/11/13/medicaid-work-requirements-implementation-delayed-six-months/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-14T00-30_3",
+        "rank": 3,
+        "title": "Why Build a Humanoid Robot From the Sensor Up? The Thinking Behind GENTO's CoRL 2026 Debut",
+        "category": "robotics",
+        "summary": "At CoRL 2026 in Austin, GENTO showed humanoid robots and a new dexterous hand that sit on top of a stack Tianji Intelligence has been building since 2015, starting with a single component most people never see. Most…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/gento-robots-1.png",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/11/13/why-build-a-humanoid-robot-from-the-sensor-up-the-thinking-behind-gentos-corl-2026-debut/107075/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-14T00-30_4",
+        "rank": 4,
+        "title": "After a year off, the ADAA's New York fair returns with a new name and revamped layout",
+        "category": "art",
+        "summary": "The ADAA Fair is a rebooted version of the association's Art Show, with a reduced exhibitor list and a partnership with the Whitney Museum",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/6f85e3fce963a814479781da2469b9c0482b7594-3600x2782.jpg?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/11/13/adaa-art-fair-returns-one-year-hiatus-new-york",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-14T00-30_5",
+        "rank": 5,
+        "title": "Why Viruses Make You Sneeze: COVID Proteins Directly Hijack Sensory Nerves",
+        "category": "neuroscience",
+        "summary": "Why do colds, flu, and COVID make us sneeze, cough, and ache? Researchers found the SARS-CoV-2 enzymes directly hijack pain-sensing airway nerves via the \"wasabi receptor\" (TRPA1), triggering symptoms independently of…",
+        "image": "https://neurosciencenews.com/files/2026/11/covid-cough-sensory-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/covid-sensory-nerves-cough-32417/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-11-13T18-49",
     "scannedAt": "2026-11-13T18:49:31.720Z",
     "items": [
@@ -2915,67 +2976,6 @@
         "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/ai-relationship3.jpg?resize=1200,600",
         "source": "MIT Technology Review",
         "sourceUrl": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
-        "fromX": false
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-10-04T22-34",
-    "scannedAt": "2026-10-04T22:34:04.143Z",
-    "items": [
-      {
-        "id": "auto_2026-10-04T22-34_1",
-        "rank": 1,
-        "title": "Curiosity Blog, Sols 5022-5028: Cashing in at Cache Creek",
-        "category": "space",
-        "summary": "Written by Lucy Thompson, Senior Research Scientist, University of New Brunswick, Canada Earth planning date: Friday, Sept. 25, 2026 Before we landed, the area of Gale crater that we planned to explore was divided up…",
-        "image": "https://assets.science.nasa.gov/content/dam/science/missions/msl/2026/curiosity-rover-updates/september/https___mars.nasa.gov_msl-raw-images_msss_05023_mhli_5023MH0009060011804392C00_DXXX.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-        "source": "NASA",
-        "sourceUrl": "https://science.nasa.gov/blog/curiosity-blog-sols-5022-5028-cashing-in-at-cache-creek/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-04T22-34_2",
-        "rank": 2,
-        "title": "Court Tosses ​​Sentence After A.I. Video of Victim ‘Forgiving’ His Killer Is Played",
-        "category": "general",
-        "summary": "An appellate court in Arizona threw out the prison sentence of a man convicted of manslaughter after an A.I.-generated video of his victim was played in court.",
-        "image": "https://static01.nyt.com/images/2026/10/04/multimedia/04xp-ai-video1-ztmh/04xp-ai-video1-ztmh-mediumSquareAt3X.jpg",
-        "source": "NYT Technology",
-        "sourceUrl": "https://www.nytimes.com/2026/10/04/us/manslaughter-conviction-overturned-ai-video-statement.html",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-04T22-34_3",
-        "rank": 3,
-        "title": "Trump announces $90 payments for seniors' Medicare premium costs ahead of midterm elections",
-        "category": "biotech",
-        "summary": "President Trump is promising more payments to voters just ahead of the Nov. 3 midterm elections — this time for seniors' Medicare Part B premiums",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/09/GettyImages-2295309501-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/10/04/trump-announces-90-dollar-payments-for-medicare-premiums/?utm_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-04T22-34_4",
-        "rank": 4,
-        "title": "Hello Robot awarded $3 million to develop Stretch robot for elder care",
-        "category": "robotics",
-        "summary": "Hello Robot has received a Phase IIB Small Business Innovation Research grant from the National Institute on Aging, part of the National Institutes of Health, to advance the use of its Stretch mobile manipulator robot…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/hello-robot-Stretch-tray-delivery.jpg",
-        "source": "Robotics & Automation News",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/04/hello-robot-awarded-3-million-to-develop-stretch-robot-for-elder-care/105500/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-04T22-34_5",
-        "rank": 5,
-        "title": "Daily Steps Tied to Lower Teen Depression",
-        "category": "neuroscience",
-        "summary": "Tracking 5,500 teens reveals higher daily step counts thicken emotion-regulating brain regions and reduce depression and anxiety.",
-        "image": "https://neurosciencenews.com/files/2026/10/teen-walking-mental-health-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/teen-walking-depression-neuroscience-31289/",
         "fromX": false
       }
     ]
