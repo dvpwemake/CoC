@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-10-05T10-53",
+    "scannedAt": "2026-10-05T10:53:39.765Z",
+    "items": [
+      {
+        "id": "auto_2026-10-05T10-53_1",
+        "rank": 1,
+        "title": "Grounding ourselves: new exhibition in London explores our complex relationship to the earth",
+        "category": "art",
+        "summary": "“Listening to the Earth” at Drawing Room brings together ten artists who work with the earth as both subject and material",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/b1551d61d15b81ca5ebdb32413de0170318e6ce0-3024x2016.jpg?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/10/05/grounding-ourselves-new-exhibition-in-london-explores-our-complex-relationship-to-the-earth",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-05T10-53_2",
+        "rank": 2,
+        "title": "Withings BodyScan 2 Review: Worth Its Weight",
+        "category": "general",
+        "summary": "After months of testing, this high-end smart scale has made me rethink how much a bathroom weigh-in can tell me.",
+        "image": "https://media.wired.com/photos/6ac00b2fa18993c6adb83faa/master/pass/Review%20Withings%20BodyScan%202%20102026%20top%20art%20SOURCE%20Writhings.jpg",
+        "source": "WIRED",
+        "sourceUrl": "https://www.wired.com/review/withings-bodyscan-2/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-05T10-53_3",
+        "rank": 3,
+        "title": "Where Automation Fits in Emergency Management",
+        "category": "robotics",
+        "summary": "Emergency management software should automate the repeatable coordination work that slows teams down, while leaving operational judgment with the people responsible for protecting the public. The best uses of automation…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/ignyte-Emergency-Management-Software-1.png",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/05/where-automation-fits-in-emergency-management/105507/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-05T10-53_4",
+        "rank": 4,
+        "title": "2026 Nobel Prize in Medicine awarded for brain research tool called optogenetics",
+        "category": "biotech",
+        "summary": "Karl Deisseroth, Peter Hegemann, and Georg Nagel are the joint recipients of the 2026 Nobel Prize in Physiology or Medicine “for their discoveries concerning light-gated ion channels and optogenetics,\" the…",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/10/AP26278347243526-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/10/05/nobel-prize-medicine-2026-winner-deisseroth-hegemann-nagel/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-05T10-53_5",
+        "rank": 5,
+        "title": "People really hate AI, so why can’t they get enough?",
+        "category": "ai",
+        "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/ai-relationship3.jpg?resize=1200,600",
+        "source": "MIT Technology Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-10-04T22-34",
     "scannedAt": "2026-10-04T22:34:04.143Z",
     "items": [
@@ -2834,26 +2895,6 @@
         "source": "Canary Media",
         "sourceUrl": "https://www.canarymedia.com/articles/clean-energy/taking-stock-of-the-messy-us-energy-transition",
         "fromX": false
-      }
-    ]
-  },
-  {
-    "batchId": "editorial_2026-08-27",
-    "scannedAt": "2026-08-27T23:59:02.353Z",
-    "kind": "editorial_archive",
-    "items": [
-      {
-        "id": "editorial_2026-08-27",
-        "rank": 0,
-        "title": "She would not stay in one medium",
-        "category": "editorial",
-        "summary": "Stones in the water, a search that will not stop",
-        "image": "https://cdn.sanity.io/images/cxgd3urn/production/6b068dbe11300628e5d93a4e5296b7a4e010caef-2000x1125.jpg",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-27.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-08-27",
-        "authorName": "Dr. Wallace Lynch"
       }
     ]
   }

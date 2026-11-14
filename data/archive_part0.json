@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-11-14T17-21",
-    "scannedAt": "2026-11-14T17:21:07.674Z",
+    "batchId": "auto_2026-11-14T23-26",
+    "scannedAt": "2026-11-14T23:26:57.792Z",
     "items": [
       {
-        "id": "auto_2026-11-14T17-21_1",
+        "id": "auto_2026-11-14T23-26_1",
         "rank": 1,
-        "title": "Italy fines Meta €805m over accessing users' photos",
+        "title": "Jensen Huang Carried a Secret for More Than a Year. It Led to His Downfall.",
         "category": "general",
-        "summary": "The social media giant is accused of not informing about 20 million users it had access to their photos.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6be/live/f51842e0-e041-11f1-88e1-eb4e155225b3.jpg",
-        "source": "BBC Technology",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
+        "summary": "Nvidia’s leader said his relationship with a female customer was just about business. But what he was concealing eventually led to his resignation from the company he created.",
+        "image": "https://static01.nyt.com/images/2026/11/13/multimedia/BIZ-JENSEN-CRASH-1-01-ljmc/BIZ-JENSEN-CRASH-1-01-ljmc-mediumSquareAt3X-v2.jpg",
+        "source": "NYT Technology",
+        "sourceUrl": "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-board.html",
         "fromX": false
       },
       {
-        "id": "auto_2026-11-14T17-21_2",
+        "id": "auto_2026-11-14T23-26_2",
         "rank": 2,
-        "title": "Stanford scientists discover hidden brain signals that predict Alzheimer’s years before symptoms",
-        "category": "neuroscience",
-        "summary": "Stanford researchers have discovered that hidden patterns of brain activity can predict Alzheimer’s risk years before memory problems appear, potentially offering an earlier warning than traditional biomarkers. The same…",
-        "image": "https://www.sciencedaily.com/images/1920/neuroscience-brain-connections-signal-processing.webp",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261112230444.htm",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-11-14T17-21_3",
-        "rank": 3,
-        "title": "A giant icy world hiding beyond Pluto could be our sixth dwarf planet",
-        "category": "space",
-        "summary": "Astronomers have uncovered a potentially enormous new dwarf planet beyond Pluto, hidden for years in one of the most crowded regions of the night sky. The discovery of 2026 ED138 could expand the solar system's official…",
-        "image": "https://www.sciencedaily.com/images/1920/giant-icy-dwarf-planet.webp",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261112230447.htm",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-11-14T17-21_4",
-        "rank": 4,
-        "title": "Wing invests $125 million in US drone manufacturing to support nationwide expansion",
+        "title": "How Digital Transformation is Changing Modern Business Management",
         "category": "robotics",
-        "summary": "Wing, the drone delivery company owned by Alphabet, is investing up to $125 million in US manufacturing over the next two years as it prepares to expand its autonomous delivery network across the country. The investment…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/wing-drone-company-1.png",
+        "summary": "Most organizations have moved past the stage of isolated tech upgrades. What’s happening now is deeper: they’re redesigning the whole operating system of the company. Planning, execution, coordination, evaluation – all…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/lionwood-software-1.jpg",
         "source": "Robotics & Automation News",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/11/14/wing-invests-125-million-in-us-drone-manufacturing-to-support-nationwide-expansion/107107/",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/11/14/how-digital-transformation-is-changing-modern-business-management/107119/",
         "fromX": false
       },
       {
-        "id": "auto_2026-11-14T17-21_5",
+        "id": "auto_2026-11-14T23-26_3",
+        "rank": 3,
+        "title": "Scientists capture electrons making seemingly impossible quantum jumps",
+        "category": "energy",
+        "summary": "Scientists have captured electrons making seemingly impossible jumps across forbidden energy gaps in graphene, with some transitions occurring at a remarkable 100% probability. The breakthrough offers an unprecedented…",
+        "image": "https://www.sciencedaily.com/images/1920/electric-field-of-light-accelerates-electrons.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261112025523.htm",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-14T23-26_4",
+        "rank": 4,
+        "title": "After a year off, the ADAA's New York fair returns with a new name and revamped layout",
+        "category": "art",
+        "summary": "The ADAA Fair is a rebooted version of the association's Art Show, with a reduced exhibitor list and a partnership with the Whitney Museum",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/6f85e3fce963a814479781da2469b9c0482b7594-3600x2782.jpg?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/11/13/adaa-art-fair-returns-one-year-hiatus-new-york",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-14T23-26_5",
         "rank": 5,
-        "title": "STAT+: Enforcement of stringent Medicaid work requirements delayed for six months",
+        "title": "STAT+: Democrats coalesce around ‘Medicare for More,' ‘Medikids' proposals",
         "category": "biotech",
-        "summary": "Enforcement of the Trump administration's stringent new Medicaid work requirements have been delayed for six months, until July 1, 2027.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/11/GettyImages-2282810874-1024x576.jpg",
+        "summary": "Democrats are coalescing around a plan to offer Medicare to more Americans, if not all of them.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/11/AP26317628389286-1024x576.jpg",
         "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/11/13/medicaid-work-requirements-implementation-delayed-six-months/?utm_campaign=rss",
+        "sourceUrl": "https://www.statnews.com/2026/11/13/democrats-eye-medicare-for-more-vs-medicare-for-all/?utm_campaign=rss",
         "fromX": false
       }
     ]
@@ -118,6 +118,26 @@
         "source": "Artforum",
         "sourceUrl": "https://www.artforum.com/news/lorna-simpson-awarded-2027-wolfgang-hahn-prize-1234763599/",
         "fromX": false
+      }
+    ]
+  },
+  {
+    "batchId": "editorial_2026-11-12",
+    "scannedAt": "2026-11-12T21:41:46.155Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-11-12",
+        "rank": 0,
+        "title": "Guardrails, Grabs, and Gatekeepers",
+        "category": "editorial",
+        "summary": "Who controls our platforms, policies, and payloads today?",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/11/von-der-galerie-als-gestohlen.webp?w=650",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-11-12.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-11-12",
+        "authorName": "Dr. Wallace Lynch"
       }
     ]
   },
@@ -2916,67 +2936,6 @@
         "isEditorialArchive": true,
         "publishDate": "2026-10-05",
         "authorName": "Dr. Wallace Lynch"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-10-05T10-53",
-    "scannedAt": "2026-10-05T10:53:39.765Z",
-    "items": [
-      {
-        "id": "auto_2026-10-05T10-53_1",
-        "rank": 1,
-        "title": "Grounding ourselves: new exhibition in London explores our complex relationship to the earth",
-        "category": "art",
-        "summary": "“Listening to the Earth” at Drawing Room brings together ten artists who work with the earth as both subject and material",
-        "image": "https://cdn.sanity.io/images/cxgd3urn/production/b1551d61d15b81ca5ebdb32413de0170318e6ce0-3024x2016.jpg?w=140",
-        "source": "The Art Newspaper",
-        "sourceUrl": "https://www.theartnewspaper.com/2026/10/05/grounding-ourselves-new-exhibition-in-london-explores-our-complex-relationship-to-the-earth",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-05T10-53_2",
-        "rank": 2,
-        "title": "Withings BodyScan 2 Review: Worth Its Weight",
-        "category": "general",
-        "summary": "After months of testing, this high-end smart scale has made me rethink how much a bathroom weigh-in can tell me.",
-        "image": "https://media.wired.com/photos/6ac00b2fa18993c6adb83faa/master/pass/Review%20Withings%20BodyScan%202%20102026%20top%20art%20SOURCE%20Writhings.jpg",
-        "source": "WIRED",
-        "sourceUrl": "https://www.wired.com/review/withings-bodyscan-2/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-05T10-53_3",
-        "rank": 3,
-        "title": "Where Automation Fits in Emergency Management",
-        "category": "robotics",
-        "summary": "Emergency management software should automate the repeatable coordination work that slows teams down, while leaving operational judgment with the people responsible for protecting the public. The best uses of automation…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/ignyte-Emergency-Management-Software-1.png",
-        "source": "Robotics & Automation News",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/05/where-automation-fits-in-emergency-management/105507/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-05T10-53_4",
-        "rank": 4,
-        "title": "2026 Nobel Prize in Medicine awarded for brain research tool called optogenetics",
-        "category": "biotech",
-        "summary": "Karl Deisseroth, Peter Hegemann, and Georg Nagel are the joint recipients of the 2026 Nobel Prize in Physiology or Medicine “for their discoveries concerning light-gated ion channels and optogenetics,\" the…",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/10/AP26278347243526-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/10/05/nobel-prize-medicine-2026-winner-deisseroth-hegemann-nagel/?utm_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-05T10-53_5",
-        "rank": 5,
-        "title": "People really hate AI, so why can’t they get enough?",
-        "category": "ai",
-        "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/ai-relationship3.jpg?resize=1200,600",
-        "source": "MIT Technology Review",
-        "sourceUrl": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
-        "fromX": false
       }
     ]
   }
