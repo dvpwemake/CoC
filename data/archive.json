@@ -1,5 +1,25 @@
 [
   {
+    "batchId": "editorial_2026-11-14",
+    "scannedAt": "2026-11-14T20:42:52.660Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-11-14",
+        "rank": 0,
+        "title": "Hidden Maps and High Stakes",
+        "category": "editorial",
+        "summary": "New discoveries and costly reckonings expose what lies beneath.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/11/GettyImages-2282810874-1024x576.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-11-14.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-11-14",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-11-15T18-01",
     "scannedAt": "2026-11-15T18:01:23.945Z",
     "items": [
