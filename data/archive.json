@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-11-16T12-07",
-    "scannedAt": "2026-11-16T12:07:34.585Z",
+    "batchId": "auto_2026-11-16T23-52",
+    "scannedAt": "2026-11-16T23:52:15.663Z",
     "items": [
       {
-        "id": "auto_2026-11-16T12-07_1",
+        "id": "auto_2026-11-16T23-52_1",
         "rank": 1,
-        "title": "Best Digital Photo Frames (2026): Aura, Skylight, Amazon",
-        "category": "general",
-        "summary": "There are more digital photo frames than ever these days. After years of testing, these are the ones I’d buy.",
-        "image": "https://media.wired.com/photos/6af7e6c419af9e663f54144d/master/pass/My-Favorite-Home-Gadget-Is-Still-a-Digital-Photo-Frame.jpg",
-        "source": "WIRED",
-        "sourceUrl": "https://www.wired.com/story/best-digital-photo-frames/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-11-16T12-07_2",
-        "rank": 2,
-        "title": "Show of every Jan van Eyck portrait reveals many new sides to his works",
-        "category": "art",
-        "summary": "The National Gallery’s exhibition of the 15th-century pioneer will include fresh conservation work, remarkable pairings and a possible revelation tied to a famous work",
-        "image": "https://cdn.sanity.io/images/cxgd3urn/production/a3aef10f2f29fd500f3f8f3b88ab5f21f242751c-1200x1538.jpg?w=140",
-        "source": "The Art Newspaper",
-        "sourceUrl": "https://www.theartnewspaper.com/2026/11/16/show-of-every-jan-van-eyck-portrait-reveals-many-new-sides-to-his-works",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-11-16T12-07_3",
-        "rank": 3,
-        "title": "STAT+: Venture capitalist John Doerr says AI company, named for his late brother, could help fix primary care",
+        "title": "STAT+: New Trump regulation promises to crush ‘fraudsters.’ All the savings come from Medicare Advantage",
         "category": "biotech",
-        "summary": "Venture capitalist John Doerr on Tom Health, a new AI tool for primary care: \"I think this is one of the best possible uses of AI.\"",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/11/GettyImages-1421751524-1024x576.jpg",
+        "summary": "New Trump regulation promises to crush ‘fraudsters.’ All the savings come from Medicare Advantage.",
+        "image": "https://www.statnews.com/wp-content/uploads/2025/08/AP24163743721308-1024x576.jpg",
         "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/11/16/ai-company-tom-health-fix-primary-care-new-tool/?utm_campaign=rss",
+        "sourceUrl": "https://www.statnews.com/2026/11/16/cms-proposes-more-agressive-audits-medicare-advantage-crush/?utm_campaign=rss",
         "fromX": false
       },
       {
-        "id": "auto_2026-11-16T12-07_4",
+        "id": "auto_2026-11-16T23-52_2",
+        "rank": 2,
+        "title": "Hacker behind 2022 GTA VI leaks pleads guilty",
+        "category": "general",
+        "summary": "Arion Kurtaj, a member of the Lapsus$ cybercrime group who leaked 90 videos of Grand Theft Auto VI in 2022 and hacked other big companies, pleaded guilty on Monday, according to the UK's Crown Prosecution Service (CPS).…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ULTIMATE_EDITION_01_de9b57.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+        "source": "The Verge",
+        "sourceUrl": "https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-16T23-52_3",
+        "rank": 3,
+        "title": "Powering Automated Sites Without Oversizing: What Battery Storage Brings to Peak-Heavy Operations",
+        "category": "robotics",
+        "summary": "Automated facilities have an unusual power profile. Robots, conveyors, charging stations and handling equipment draw modest power most of the time, then spike when several systems start together. The usual answer is to…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/Battery-Energy-Storage-System-BESSTIE.jpg",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/11/16/powering-automated-sites-without-oversizing-what-battery-storage-brings-to-peak-heavy-operations/107214/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-16T23-52_4",
         "rank": 4,
-        "title": "Could a data center’s waste heat warm a North Carolina town?",
-        "category": "energy",
-        "summary": "In the Carolinas, Ohio, Texas, and many other states, Democrats routed incumbent Republicans in this month’s elections at least in part because voters fear an onslaught of AI data centers — the massive computer…",
-        "image": "https://img.canarymedia.com/content/uploads/Facebook-data-center-in-North-Carolina-interior_GettyImages-143134962.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=47cd9a58bb9fb460a5970f58fd57437f",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/geothermal/data-center-heat-north-carolina-town",
+        "title": "Margot Heller to Step Down as Director of South London Gallery",
+        "category": "art",
+        "summary": "After leading South London Gallery (SLG) since 2001, Margot Heller will step down as its director in May 2027 to work as an independent curator and adviser. Heller offered the following statement in a press release:…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/11/Screenshot-2026-11-16-at-5.38.12-PM.png?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/news/margot-heller-to-step-down-as-director-of-slg-1234763682/",
         "fromX": false
       },
       {
-        "id": "auto_2026-11-16T12-07_5",
+        "id": "auto_2026-11-16T23-52_5",
         "rank": 5,
-        "title": "APOD: 2026 November 16 – NGC 7129: Star Formation with Jets from Webb",
+        "title": "A Collage Showing 49 Drill Holes Made by NASA’s Curiosity Mars Rover",
         "category": "space",
-        "summary": "APOD Science APOD APOD: 2026 November 16 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or…",
-        "image": "https://assets.science.nasa.gov/content/dam/science/missions/webb/science/2026/10/weic2620a.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "summary": "Description This collage shows 49 drill holes captured by NASA’s Curiosity Mars rover as of November 2026. Each hole represents a sample collected from rocks on the Martian surface; Curiosity’s drill, located on the end…",
+        "image": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26804/PIA26804.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
         "source": "NASA",
-        "sourceUrl": "https://science.nasa.gov/image-article/apod-2026-november-16-ngc-7129-star-formation-with-jets-from-webb/",
+        "sourceUrl": "https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover/",
         "fromX": false
       }
     ]
