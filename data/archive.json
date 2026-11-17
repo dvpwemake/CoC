@@ -1,5 +1,25 @@
 [
   {
+    "batchId": "editorial_2026-11-15",
+    "scannedAt": "2026-11-15T20:47:17.906Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-11-15",
+        "rank": 0,
+        "title": "Hidden Forces and Structural Shifts",
+        "category": "editorial",
+        "summary": "Quantum breakthroughs and corporate reckonings redefine modern systems.",
+        "image": "https://www.statnews.com/wp-content/uploads/2024/09/GettyImages-1237273640-1-1024x576.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-11-15.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-11-15",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-11-16T23-52",
     "scannedAt": "2026-11-16T23:52:15.663Z",
     "items": [
