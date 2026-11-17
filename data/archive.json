@@ -1,21 +1,62 @@
 [
   {
-    "batchId": "editorial_2026-11-15",
-    "scannedAt": "2026-11-15T20:47:17.906Z",
-    "kind": "editorial_archive",
+    "batchId": "auto_2026-11-17T05-18",
+    "scannedAt": "2026-11-17T05:18:53.323Z",
     "items": [
       {
-        "id": "editorial_2026-11-15",
-        "rank": 0,
-        "title": "Hidden Forces and Structural Shifts",
-        "category": "editorial",
-        "summary": "Quantum breakthroughs and corporate reckonings redefine modern systems.",
-        "image": "https://www.statnews.com/wp-content/uploads/2024/09/GettyImages-1237273640-1-1024x576.jpg",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-11-15.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-11-15",
-        "authorName": "Dr. Wallace Lynch"
+        "id": "auto_2026-11-17T05-18_1",
+        "rank": 1,
+        "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+        "category": "general",
+        "summary": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg",
+        "source": "BBC Technology",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-17T05-18_2",
+        "rank": 2,
+        "title": "Perseverance Update: The Ghostly Rocks of ‘Idubi’ — Bright Remnants of Aqueous Systems from Long Ago",
+        "category": "space",
+        "summary": "Written by Candice Bedford, Research Scientist at Purdue University Date: Nov. 16, 2026 During the Perseverance rover’s investigation of “Idubi” — an area of ancient Martian crust exposed in the “Lac de Charmes” region,…",
+        "image": "https://assets.science.nasa.gov/content/dam/science/missions/mars2020/2026/perseverance-rover-updates/Mars_Perseverance_ZL0_2023_0846533367_473EBY_N0930000ZCAM10057_1100LMJ.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "source": "NASA",
+        "sourceUrl": "https://science.nasa.gov/blog/perseverance-update-the-ghostly-rocks-of-idubi-bright-remnants-of-aqueous-systems-from-long-ago/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-17T05-18_3",
+        "rank": 3,
+        "title": "Permitting reform is a big, controversial bet for the energy transition",
+        "category": "energy",
+        "summary": "The Senate bipartisan permitting bill is essentially an enormous three-part bet by the Democrats and clean energy advocates who support it. The first part of the bet is that streamlining federal environmental reviews…",
+        "image": "https://img.canarymedia.com/content/uploads/Four-senators-permitting-reform_AP26273693053532.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=7fce4c62f250b2b30de126ec234e31d1",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/politics/permitting-reform-uncertain-bet",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-17T05-18_4",
+        "rank": 4,
+        "title": "Sotheby's Auction of $180 Million Van Gogh Faces Challenge from Former Owner’s Heirs",
+        "category": "art",
+        "summary": "The heirs of a former owner of Vincent Van Gogh's Châtaigniers en fleurs, 1890, have called for its withdrawal from an upcoming auction at Sotheby’s in New York. As per the New York Times, the heirs allege that the…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/11/GettyImages-598792423.jpg?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/news/sothebys-180-million-van-gogh-challenge-from-former-owners-1234763675/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-17T05-18_5",
+        "rank": 5,
+        "title": "STAT+: FDA approves new breast cancer drug, providing new option for some patients, boost for Roche",
+        "category": "biotech",
+        "summary": "The FDA approved a new breast cancer drug from Roche, teeing up the launch of a medicine the company has said could become its top-selling product ever.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/11/GettyImages-2286590067-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/11/16/fda-approves-new-roche-breast-cancer-drug/?utm_campaign=rss",
+        "fromX": false
       }
     ]
   },
@@ -138,6 +179,26 @@
         "source": "ScienceDaily",
         "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261112230456.htm",
         "fromX": false
+      }
+    ]
+  },
+  {
+    "batchId": "editorial_2026-11-15",
+    "scannedAt": "2026-11-15T20:47:17.906Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-11-15",
+        "rank": 0,
+        "title": "Hidden Forces and Structural Shifts",
+        "category": "editorial",
+        "summary": "Quantum breakthroughs and corporate reckonings redefine modern systems.",
+        "image": "https://www.statnews.com/wp-content/uploads/2024/09/GettyImages-1237273640-1-1024x576.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-11-15.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-11-15",
+        "authorName": "Dr. Wallace Lynch"
       }
     ]
   },
