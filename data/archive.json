@@ -1,21 +1,62 @@
 [
   {
-    "batchId": "editorial_2026-11-16",
-    "scannedAt": "2026-11-17T00:44:13.410Z",
-    "kind": "editorial_archive",
+    "batchId": "auto_2026-11-18T01-54",
+    "scannedAt": "2026-11-18T01:54:18.638Z",
     "items": [
       {
-        "id": "editorial_2026-11-16",
-        "rank": 0,
-        "title": "Early Signals and Sudden Shifts",
-        "category": "editorial",
-        "summary": "Quiet warnings and institutional pivots reshape science, industry, and culture.",
-        "image": "https://www.sciencedaily.com/images/1920/binary-white-dwarf-beam.webp",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-11-16.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-11-16",
-        "authorName": "Dr. Wallace Lynch"
+        "id": "auto_2026-11-18T01-54_1",
+        "rank": 1,
+        "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+        "category": "general",
+        "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e48/live/58880030-e2d7-11f1-99a1-253766e7ad8b.jpg",
+        "source": "BBC Technology",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-18T01-54_2",
+        "rank": 2,
+        "title": "STAT+: White House pulls nomination of Heidi Overton to lead FDA",
+        "category": "biotech",
+        "summary": "BREAKING: The White House is pulling its nominee to be commissioner of the FDA, Heidi Overton.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/11/AP26267614794641-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/11/17/heidi-overton-fda-commissioner-nomination-withdrawn/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-18T01-54_3",
+        "rank": 3,
+        "title": "NASA Launches Nuclear Power Systems Student Contest",
+        "category": "space",
+        "summary": "NASA’s Power to Explore Student Challenge kicked off Tuesday, Nov. 17. The science, engineering, technology, and mathematics (STEM) challenge invites kindergarten through 12th grade students in the United States to…",
+        "image": "https://assets.science.nasa.gov/content/dam/science/psd/planetary-science-division/radioisotope-power-systems/power-to-explore-contest/2027-power-to-explore/PTE_2026-2027_X%20-%201200x675-80.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "source": "NASA",
+        "sourceUrl": "https://science.nasa.gov/centers-and-facilities/glenn/nasa-launches-nuclear-power-systems-student-contest/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-18T01-54_4",
+        "rank": 4,
+        "title": "The Colossal Guide for Creative Gifting",
+        "category": "art",
+        "summary": "Master the art of creative gifting. Do stories and artists like this matter to you? Become a Colossal Member today and support independent arts publishing for as little as $7 per month. The article The Colossal Guide…",
+        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/2026-giftguide-header.jpg",
+        "source": "Colossal",
+        "sourceUrl": "https://www.thisiscolossal.com/2026/11/colossal-gift-guide-2026/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-18T01-54_5",
+        "rank": 5,
+        "title": "Power sector emissions set to fall in US amid lower coal use",
+        "category": "energy",
+        "summary": "The U.S. electricity sector is set to emit less planet-warming carbon dioxide this year despite record-high demand and the Trump administration’s efforts to prop up uncompetitive coal-fired power plants. Power plants…",
+        "image": "https://img.canarymedia.com/content/uploads/Coal-stacks-behind-coal-pile-Castle-Dale_GettyImages-1150837934.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=e0b5f05206c8584bb29477d049f350b5",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/fossil-fuels/us-power-sector-emissions-fall-coal",
+        "fromX": false
       }
     ]
   },
@@ -77,6 +118,26 @@
         "source": "MIT Technology Review",
         "sourceUrl": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
         "fromX": false
+      }
+    ]
+  },
+  {
+    "batchId": "editorial_2026-11-16",
+    "scannedAt": "2026-11-17T00:44:13.410Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-11-16",
+        "rank": 0,
+        "title": "Early Signals and Sudden Shifts",
+        "category": "editorial",
+        "summary": "Quiet warnings and institutional pivots reshape science, industry, and culture.",
+        "image": "https://www.sciencedaily.com/images/1920/binary-white-dwarf-beam.webp",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-11-16.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-11-16",
+        "authorName": "Dr. Wallace Lynch"
       }
     ]
   },

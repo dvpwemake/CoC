@@ -1,5 +1,86 @@
 [
   {
+    "batchId": "auto_2026-08-29T22-02",
+    "scannedAt": "2026-08-29T22:02:41.379Z",
+    "items": [
+      {
+        "id": "auto_2026-08-29T22-02_1",
+        "rank": 1,
+        "title": "Influencers Have a Lot to Say About Politics. Many Are Quietly Paid for It.",
+        "category": "general",
+        "summary": "Their videos have proliferated on social media, but the payments are frequently hidden from viewers.",
+        "image": "",
+        "source": "NYT Technology",
+        "sourceUrl": "https://www.nytimes.com/2026/08/29/us/politics/campaigns-paid-influencers.html",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-29T22-02_2",
+        "rank": 2,
+        "title": "The universe is still speeding up, but nobody knows why",
+        "category": "space",
+        "summary": "A major new analysis challenges recent claims that the universe's expansion is slowing, finding that the evidence for cosmic acceleration remains strong. The findings preserve the leading role of dark energy, while…",
+        "image": "https://www.sciencedaily.com/images/1920/universe-expansion-dark-energy.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260828082325.htm",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-29T22-02_3",
+        "rank": 3,
+        "title": "Sliman Mansour, Artist of the Intifada, Dead at 79",
+        "category": "art",
+        "summary": "Palestinian artist Sliman Mansour, known for his radiant, powerful paintings of the faces and landscapes of occupied Palestine, died on August 24 in Jerusalem, following a long illness. He was seventy-nine. His work…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/08/Sliman_Mansour_4b326c.jpg?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/news/sliman-mansour-artist-of-the-intifada-dies-at-79-1234758361/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-29T22-02_4",
+        "rank": 4,
+        "title": "Juul gets OK to sell updated vaping device with age-gating technology",
+        "category": "biotech",
+        "summary": "Juul has received FDA clearance to sell an updated version of its e-cigarette, which includes an optional age-verification system designed to prevent underage use.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/08/AP26240674505739-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/08/28/juul-fda-clearance-updated-ecigarette-age-gating-technology/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-08-29T22-02_5",
+        "rank": 5,
+        "title": "America's big but uncertain gas boom",
+        "category": "energy",
+        "summary": "See more from Canary Media’s ​“Chart of the Week” column . Developers are planning to build an enormous amount of natural gas-fired power plants in the U.S., fueled in large part by the AI boom. The expansion is a…",
+        "image": "https://img.canarymedia.com/content/uploads/COTW-rooftop-solar_2026-08-27-203600_uqpr.png?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=80&w=1200&s=90caf97014ada9826aac37066e53fb0a",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/fossil-fuels/us-gas-plant-construction-uncertain-ai",
+        "fromX": false
+      }
+    ]
+  },
+  {
+    "batchId": "editorial_2026-08-29",
+    "scannedAt": "2026-08-29T08:15:33.425Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-08-29",
+        "rank": 0,
+        "title": "Jerusalem in the sack is live",
+        "category": "editorial",
+        "summary": "Hay and henna, a lock you can leave off",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/08/20260828-120552-jk1-3999-1.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-08-29.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-08-29",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-08-28T15-42",
     "scannedAt": "2026-08-28T15:42:57.521Z",
     "items": [
@@ -2764,87 +2845,6 @@
       },
       {
         "id": "auto_2026-07-24T20-52_5",
-        "rank": 5,
-        "title": "Gemini 3.6 Flash and 3.5 Flash-Lite now available through official API for developers and AI agents",
-        "category": "ai",
-        "summary": "Model ecosystem expansion: Gemini 3.6 Flash and Gemini 3.5 Flash-Lite via official API access.",
-        "image": "https://pbs.twimg.com/media/HN1SnDCWEAA2hmA.jpg",
-        "source": "X · @web3l0var",
-        "sourceUrl": "https://x.com/web3l0var/status/2079909448219271368",
-        "fromX": true
-      }
-    ]
-  },
-  {
-    "batchId": "editorial_2026-07-23",
-    "scannedAt": "2026-07-24T03:04:09.511Z",
-    "kind": "editorial_archive",
-    "items": [
-      {
-        "id": "editorial_2026-07-23",
-        "rank": 0,
-        "title": "Brain speed and slow rooms",
-        "category": "editorial",
-        "summary": "Neuromorphic clocks, agent APIs, and the institutions still measured in people",
-        "image": "https://images-assets.nasa.gov/image/PIA15416/PIA15416~medium.jpg",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-07-23.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-07-23",
-        "authorName": "Dr. Wallace Lynch"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-07-23T20-47",
-    "scannedAt": "2026-07-23T20:47:32.101Z",
-    "items": [
-      {
-        "id": "auto_2026-07-23T20-47_1",
-        "rank": 1,
-        "title": "132 New York Artists Receive $903,000 in Grants",
-        "category": "art",
-        "summary": "The NYSCA/NYFA Artist Fellowship program awards each recipient $8,000 in unrestricted cash.",
-        "image": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/07/Tatiana_Arocha_AFP2026_3.jpg",
-        "source": "Hyperallergic",
-        "sourceUrl": "https://hyperallergic.com/132-new-york-artists-receive-903-000-in-grants/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-07-23T20-47_2",
-        "rank": 2,
-        "title": "Engineers Redefined Light Delivery to Track Neural Firing",
-        "category": "neuroscience",
-        "summary": "A new study introduces FlatMux, a two-photon voltage imaging platform that records electrical signals from nearly 200 neurons at up to 2,000 frames per second.",
-        "image": "https://neurosciencenews.com/files/2026/07/neuroengineering-neuron-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/light-delivery-neural-firing-31117/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-07-23T20-47_3",
-        "rank": 3,
-        "title": "STAT+: In win for RFK Jr., FDA advisory panel narrowly votes to allow compounding of unapproved peptides",
-        "category": "biotech",
-        "summary": "The panel recommended allowing compounding pharmacies to produce popular but unproven BPC-157 and KPV peptides.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/07/AdobeStock_419763193-1024x576.jpeg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/07/23/fda-panel-okays-peptides-compound-pharmacies-bpc-157-kpv/?utm_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-07-23T20-47_4",
-        "rank": 4,
-        "title": "Mark Matossian co-founds Whipsmart Ventures to fund space and deep tech",
-        "category": "space",
-        "summary": "SAN FRANCISCO – Space startup veteran Mark Matossian has joined forces with a software engineer and a best-selling author to establish Whipsmart Ventures, a venture capital fund focused on space […] The post Mark…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2020/02/rsz_matossian.png?fit=879%2C586&ssl=1",
-        "source": "SpaceNews",
-        "sourceUrl": "https://spacenews.com/mark-matossian-co-founds-whipsmart-ventures-for-space-and-deep-tech/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-07-23T20-47_5",
         "rank": 5,
         "title": "Gemini 3.6 Flash and 3.5 Flash-Lite now available through official API for developers and AI agents",
         "category": "ai",
