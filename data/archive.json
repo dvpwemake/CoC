@@ -1,5 +1,25 @@
 [
   {
+    "batchId": "editorial_2026-11-17",
+    "scannedAt": "2026-11-18T00:42:37.695Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-11-17",
+        "rank": 0,
+        "title": "Embedded Intelligence and Shifting Guardrails",
+        "category": "editorial",
+        "summary": "AI reshapes orbit and medicine while legacy institutions recalibrate.",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/11/628842fa9793667274fd3ed1173853cc.png?w=650",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-11-17.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-11-17",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-11-18T12-21",
     "scannedAt": "2026-11-18T12:21:30.725Z",
     "items": [
