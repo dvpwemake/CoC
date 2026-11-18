@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-10-08T23-59",
+    "scannedAt": "2026-10-08T23:59:55.552Z",
+    "items": [
+      {
+        "id": "auto_2026-10-08T23-59_1",
+        "rank": 1,
+        "title": "Why are more roofs not made of solar tiles?",
+        "category": "general",
+        "summary": "Solar tiles were touted as an attractive alternative to solar panels - why have they not taken off?",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53f9/live/5f873b90-b0ea-11f1-8d94-cf0ec84c39cd.jpg",
+        "source": "BBC Technology",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&at_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-08T23-59_2",
+        "rank": 2,
+        "title": "Trump administration investigates 9 universities for alleged visa fraud",
+        "category": "biotech",
+        "summary": "This story has been updated. The Trump administration announced Thursday that it is investigating nine universities for alleged fraud related to visas commonly used by postdoctoral researchers, a core part…",
+        "image": "https://www.statnews.com/wp-content/uploads/2017/01/AP80889059-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/10/08/trump-administration-investigates-universities-j1-visa-fraud/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-08T23-59_3",
+        "rank": 3,
+        "title": "St Louis's Counterpublic triennial explores connections between art and civic infrastructure",
+        "category": "art",
+        "summary": "The third edition of the public-art triennial has expanded to more than 50 projects across Missouri’s largest city",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/607e3a3082566ecba60c17704339dcbaa270527f-1920x1280.jpg?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/10/08/counterpublic-triennial-st-louis-coyote-time-review",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-08T23-59_4",
+        "rank": 4,
+        "title": "Lowe’s launches 20-minute drone delivery with Wing and DoorDash",
+        "category": "robotics",
+        "summary": "Lowe’s has launched drone delivery, the newest fulfillment method for the retailer that delivers select home improvement items directly to DIY and pro customers “in as fast as 20 minutes”. This pilot is now live at…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/lowes-drone_flight.jpg",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/08/lowes-launches-20-minute-drone-delivery-with-wing-and-doordash/105770/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-08T23-59_5",
+        "rank": 5,
+        "title": "NASA Briefing to Highlight Contributions to Martian Moons Mission",
+        "category": "space",
+        "summary": "Media are invited to join NASA for a media teleconference at 4 p.m. EDT, Thursday, Oct. 15, to preview the agency’s contributions to JAXA’s (Japan Aerospace Exploration Agency) Martian Moons eXploration (MMX) mission.…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2023/04/mmx-mars-mission.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/news-release/nasa-briefing-to-highlight-contributions-to-martian-moons-mission/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-10-07T23-53",
     "scannedAt": "2026-10-07T23:53:40.548Z",
     "items": [
@@ -2874,67 +2935,6 @@
         "isEditorialArchive": true,
         "publishDate": "2026-08-31",
         "authorName": "Dr. Wallace Lynch"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-08-30T22-09",
-    "scannedAt": "2026-08-30T22:09:54.550Z",
-    "items": [
-      {
-        "id": "auto_2026-08-30T22-09_1",
-        "rank": 1,
-        "title": "Professor Murder Rides the Subway is a forgotten slice of dance punk perfection",
-        "category": "general",
-        "summary": "I recently dug out my CDs and started reripping them all. I've found a few forgotten gems in there, but few hit harder for me than the beautifully concise Professor Murder Rides the Subway EP. There was a period of time…",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/a0163061049_10.jpg?quality=90&strip=all&crop=0,23.821989528796,100,52.356020942408",
-        "source": "The Verge",
-        "sourceUrl": "https://www.theverge.com/entertainment/986564/professor-murder-rides-the-subway-dance-punk-perfection-review",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-30T22-09_2",
-        "rank": 2,
-        "title": "STAT+: Alnylam defends heart disease drugs after failure of AstraZeneca’s Wainua",
-        "category": "biotech",
-        "summary": "An AstraZeneca heart disease trial failure has put Alnylam under pressure. It's mounting a defense of its medicines.",
-        "image": "https://www.statnews.com/wp-content/uploads/2018/10/STAT_Alnylam03-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/08/30/alnylam-attr-astrazeneca-wainua-attruby-heart-disease/?utm_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-30T22-09_3",
-        "rank": 3,
-        "title": "This strange “spacetime crystal” can suddenly become a black hole",
-        "category": "space",
-        "summary": "Physicists have mathematically captured a bizarre “spacetime crystal” that can either dissolve or collapse into a microscopic black hole after only a tiny change in energy. Their breakthrough came from an unusual trick…",
-        "image": "https://www.sciencedaily.com/images/1920/black-hole-spacetime-crystal.webp",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260829035225.htm",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-30T22-09_4",
-        "rank": 4,
-        "title": "IBM quantum computer solves classically intractable problem in 15 minutes",
-        "category": "ai",
-        "summary": "IBM and University of Chicago researchers have completed a quantum computation that leading classical methods could not practically reproduce. The system used 70 error-corrected logical qubits and finished the task in…",
-        "image": "https://www.sciencedaily.com/images/1920/futuristic-quantum-computer-system-glowing.webp",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260829035219.htm",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-08-30T22-09_5",
-        "rank": 5,
-        "title": "HEPA air purifiers may boost brain function after just one month",
-        "category": "neuroscience",
-        "summary": "Adults aged 40 and older performed about 12% faster on a test of executive function after using a HEPA air purifier at home for one month. The findings suggest that cleaner indoor air could offer a simple way to help…",
-        "image": "https://www.sciencedaily.com/images/1920/neuroscience-brain-boost-glow.webp",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260830000016.htm",
-        "fromX": false
       }
     ]
   }
