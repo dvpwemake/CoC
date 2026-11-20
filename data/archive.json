@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-11-20T01-27",
+    "scannedAt": "2026-11-20T01:27:59.194Z",
+    "items": [
+      {
+        "id": "auto_2026-11-20T01-27_1",
+        "rank": 1,
+        "title": "Anthropic’s I.P.O. Turns Tech Researchers Into Overnight Millionaires",
+        "category": "general",
+        "summary": "Many people who joined the A.I. company a few years ago might have had little reason to think how big Anthropic would become. They are now worth tens of millions of dollars, if not more.",
+        "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-anthropic-employee-wealth-sub-01-cthw/19biz-anthropic-employee-wealth-sub-01-cthw-mediumSquareAt3X.jpg",
+        "source": "NYT Technology",
+        "sourceUrl": "https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-employees-payout.html",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-20T01-27_2",
+        "rank": 2,
+        "title": "STAT+: Big drugmakers tell House committee they will halt clinical trials at some hospitals in China",
+        "category": "biotech",
+        "summary": "Big drugmakers tell U.S. House committee they will halt clinical trials at some hospitals in China.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/06/AdobeStock_375105668-1024x576.jpeg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/pharmalot/2026/11/19/china-pharma-biotech-clinical-trials-security-risk-patents-drug-development/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-20T01-27_3",
+        "rank": 3,
+        "title": "Emily Carr and E.J. Hughes lead the way at Heffel's $10m autumn auctions",
+        "category": "art",
+        "summary": "The Canadian auction house’s marquee autumnal sales in Toronto also saw strong results for works by William Kurelek and Ivan Eyre, landscape painters from the Prairies",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/e4e8a304c1bcffb7b2172749f2ad3013b8060388-2000x1656.jpg?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/11/19/emily-carr-ej-hughes-heffel-auctions-toronto",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-20T01-27_4",
+        "rank": 4,
+        "title": "Challenge: Public Input on Life and the World in 2075",
+        "category": "space",
+        "summary": "NASA’s Transformational Tools and Technologies (TTT) is gathering public perspectives on life today and how the world may change by 2075. This challenge asks for conceptual ideas about life in 2075 across four challenge…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/11/ttt-publicinputonlife-2026.png",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/challenge-public-input-on-life-and-the-world-in-2075/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-20T01-27_5",
+        "rank": 5,
+        "title": "How would Becerra’s solar Power Hour actually work?",
+        "category": "energy",
+        "summary": "This is California Wire , a weekly newsletter from Jeff St. John on the state’s clean energy transition. Subscribe to get it weekly via Substack. Hello, everyone! California Gov.-elect Xavier Becerra’s Power Hour plan…",
+        "image": "https://img.canarymedia.com/content/uploads/CW-freehour-16.9.png?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=80&w=1200&s=520fbd859f30bcf5cd43f7c12e5ea784",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/politics/becerra-solar-power-hour",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-11-19T16-51",
     "scannedAt": "2026-11-19T16:51:27.952Z",
     "items": [
