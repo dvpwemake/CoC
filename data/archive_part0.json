@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-11-21T04-22",
+    "scannedAt": "2026-11-21T04:22:04.297Z",
+    "items": [
+      {
+        "id": "auto_2026-11-21T04-22_1",
+        "rank": 1,
+        "title": "Tech Now",
+        "category": "general",
+        "summary": "Alasdair Keane is in Naples exploring how tech is transforming the America's Cup race.",
+        "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pp14ps.jpg",
+        "source": "BBC Technology",
+        "sourceUrl": "https://www.bbc.co.uk/iplayer/episode/m0034tjc?at_medium=RSS&at_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-21T04-22_2",
+        "rank": 2,
+        "title": "STAT+: FDA rejects Capricor Therapeutics' Duchenne therapy, a decision that was a long time coming",
+        "category": "biotech",
+        "summary": "The FDA said it had rejected a cell therapy intended for patients with Duchenne muscular dystrophy developed by Capricor Therapeutics.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/09/GettyImages-1227710420-1-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/11/20/fda-rejects-capricor-duchenne-therapy/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-21T04-22_3",
+        "rank": 3,
+        "title": "Curiosity Spots Drifting Twilight Clouds",
+        "category": "space",
+        "summary": "Description NASA’s Curiosity Mars rover captured these drifting clouds on Oct. 31, 2026, the 5,061st Martian day, or sol, of the mission. The rover uses its navigation cameras to capture post-sunset clouds, called…",
+        "image": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26805/PIA26805.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "source": "NASA",
+        "sourceUrl": "https://science.nasa.gov/photojournal/curiosity-spots-drifting-twilight-clouds/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-21T04-22_4",
+        "rank": 4,
+        "title": "Russian strikes damage historic buildings in Kyiv and Odesa, including World Heritage sites",
+        "category": "art",
+        "summary": "The St Volodymyr’s Cathedral and the St Michael’s Golden-Domed Cathedral and Monastery in Kyiv are among the heritage buildings targeted in recent Russian attacks",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/e82e316f934dfe92b81f189b91266f18ff67538c-2000x1600.jpg?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/11/20/russian-strikes-damage-heritage-sites-kyiv-odesa",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-21T04-22_5",
+        "rank": 5,
+        "title": "Watco expands Intramotev autonomous railcar operations to Texas",
+        "category": "robotics",
+        "summary": "Intramotev, the technology company building autonomous freight railcars, has announced a new agreement with Watco, one of the largest short line railroad holding companies in North America. Watco will deploy…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/Intramotev-TugVolt.jpg",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/11/20/watco-expands-intramotev-autonomous-railcar-operations-to-texas/107409/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-11-20T22-23",
     "scannedAt": "2026-11-20T22:23:52.142Z",
     "items": [
@@ -3057,67 +3118,6 @@
         "image": "https://www.artforum.com/wp-content/uploads/2026/10/GettyImages-113801775.jpg?w=650",
         "source": "Artforum",
         "sourceUrl": "https://www.artforum.com/news/rick-canny-named-artistic-director-of-the-kennedy-center-1234761192/",
-        "fromX": false
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-10-09T20-22",
-    "scannedAt": "2026-10-09T20:22:16.103Z",
-    "items": [
-      {
-        "id": "auto_2026-10-09T20-22_1",
-        "rank": 1,
-        "title": "Tesla’s ‘Full Self-Driving’ Becomes ‘Assisted Driving’ in Europe",
-        "category": "general",
-        "summary": "The automaker has been criticized for misleading drivers with the feature’s name. Now it’s renaming it for European regulators.",
-        "image": "https://media.wired.com/photos/6ac9386f3122e744c08a4121/master/pass/GettyImages-1228358583.jpg",
-        "source": "WIRED",
-        "sourceUrl": "https://www.wired.com/story/tesla-full-self-driving-becomes-assisted-driving-in-europe/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-09T20-22_2",
-        "rank": 2,
-        "title": "UK’s National Composites Centre to lead business support for new £9.8 million Greater South West robotics hub",
-        "category": "robotics",
-        "summary": "Businesses across the Greater South West region of the UK will receive dedicated support to explore and adopt robotics and automation through a new £9.8 million regional programme. The National Composites Centre (NCC)…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/10/National-Composites-Centre-robotics-hub-1.jpeg",
-        "source": "Robotics & Automation News",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/10/09/uks-national-composites-centre-to-lead-business-support-for-new-9-8-million-greater-south-west-robotics-hub/105803/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-09T20-22_3",
-        "rank": 3,
-        "title": "Austrian presidential hopeful pledges to return Moctezuma’s headdress to Mexico",
-        "category": "art",
-        "summary": "With the 2028 election just over the horizon, the economist Gunther Fehlinger-Jahn has put the long-contested Aztec treasure back in the spotlight",
-        "image": "https://cdn.sanity.io/images/cxgd3urn/production/092b1864a9ee0239f5973638494c9f24b506336d-1800x1428.jpg?w=140",
-        "source": "The Art Newspaper",
-        "sourceUrl": "https://www.theartnewspaper.com/2026/10/09/austrian-politician-gunther-fehlinger-jahn-pledges-moctezuma-headdress-return-mexico",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-09T20-22_4",
-        "rank": 4,
-        "title": "NASA Seeks US Industry Plans for Commercial Space Stations",
-        "category": "space",
-        "summary": "NASA is advancing American leadership in space by taking the next step toward a future where commercial space stations lead the way in low Earth orbit. On Friday, the agency released its final Request for Proposals…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
-        "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/news-release/nasa-seeks-us-industry-plans-for-commercial-space-stations/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-09T20-22_5",
-        "rank": 5,
-        "title": "Cannabis Destroys Sleep Quality",
-        "category": "neuroscience",
-        "summary": "A 35-year study shows cannabis use links to fragmented, poor sleep measured by monitors, even though users believe they slept well.",
-        "image": "https://neurosciencenews.com/files/2026/10/The-Truth-About-Cannabis-and-Sleep-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/cannabis-sleep-quality-31306/",
         "fromX": false
       }
     ]

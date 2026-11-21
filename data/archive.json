@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-11-21T04-22",
+    "scannedAt": "2026-11-21T04:22:04.297Z",
+    "items": [
+      {
+        "id": "auto_2026-11-21T04-22_1",
+        "rank": 1,
+        "title": "Tech Now",
+        "category": "general",
+        "summary": "Alasdair Keane is in Naples exploring how tech is transforming the America's Cup race.",
+        "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pp14ps.jpg",
+        "source": "BBC Technology",
+        "sourceUrl": "https://www.bbc.co.uk/iplayer/episode/m0034tjc?at_medium=RSS&at_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-21T04-22_2",
+        "rank": 2,
+        "title": "STAT+: FDA rejects Capricor Therapeutics' Duchenne therapy, a decision that was a long time coming",
+        "category": "biotech",
+        "summary": "The FDA said it had rejected a cell therapy intended for patients with Duchenne muscular dystrophy developed by Capricor Therapeutics.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/09/GettyImages-1227710420-1-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/11/20/fda-rejects-capricor-duchenne-therapy/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-21T04-22_3",
+        "rank": 3,
+        "title": "Curiosity Spots Drifting Twilight Clouds",
+        "category": "space",
+        "summary": "Description NASA’s Curiosity Mars rover captured these drifting clouds on Oct. 31, 2026, the 5,061st Martian day, or sol, of the mission. The rover uses its navigation cameras to capture post-sunset clouds, called…",
+        "image": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26805/PIA26805.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "source": "NASA",
+        "sourceUrl": "https://science.nasa.gov/photojournal/curiosity-spots-drifting-twilight-clouds/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-21T04-22_4",
+        "rank": 4,
+        "title": "Russian strikes damage historic buildings in Kyiv and Odesa, including World Heritage sites",
+        "category": "art",
+        "summary": "The St Volodymyr’s Cathedral and the St Michael’s Golden-Domed Cathedral and Monastery in Kyiv are among the heritage buildings targeted in recent Russian attacks",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/e82e316f934dfe92b81f189b91266f18ff67538c-2000x1600.jpg?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/11/20/russian-strikes-damage-heritage-sites-kyiv-odesa",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-21T04-22_5",
+        "rank": 5,
+        "title": "Watco expands Intramotev autonomous railcar operations to Texas",
+        "category": "robotics",
+        "summary": "Intramotev, the technology company building autonomous freight railcars, has announced a new agreement with Watco, one of the largest short line railroad holding companies in North America. Watco will deploy…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/Intramotev-TugVolt.jpg",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/11/20/watco-expands-intramotev-autonomous-railcar-operations-to-texas/107409/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-11-20T22-23",
     "scannedAt": "2026-11-20T22:23:52.142Z",
     "items": [
