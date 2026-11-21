@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-11-21T15-41",
-    "scannedAt": "2026-11-21T15:41:07.272Z",
+    "batchId": "auto_2026-11-21T21-14",
+    "scannedAt": "2026-11-21T21:14:28.118Z",
     "items": [
       {
-        "id": "auto_2026-11-21T15-41_1",
+        "id": "auto_2026-11-21T21-14_1",
         "rank": 1,
-        "title": "AI may not work like the human brain after all, scientists discover",
-        "category": "neuroscience",
-        "summary": "AI may not think like the human brain after all, according to a striking new discovery that challenges how scientists understand artificial intelligence. Researchers found that even AI models that closely predict brain…",
-        "image": "https://www.sciencedaily.com/images/1920/human-vs-ai-brain-thinking-understanding.webp",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261120075701.htm",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-11-21T15-41_2",
-        "rank": 2,
-        "title": "Can Anthropic afford to put safety first?",
+        "title": "The UN fails to agree on rules regulating ‘killer robots’",
         "category": "general",
-        "summary": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last…",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_DCD_1121_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "summary": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13611631/503831564.jpg.jpg?quality=90&strip=all&crop=0%2C11.089604074363%2C100%2C77.820791851273&w=1200",
         "source": "The Verge",
-        "sourceUrl": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+        "sourceUrl": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
         "fromX": false
       },
       {
-        "id": "auto_2026-11-21T15-41_3",
-        "rank": 3,
-        "title": "A giant star swallowed another star. James Webb reveals the aftermath",
-        "category": "space",
-        "summary": "Astronomers have witnessed a spectacular cosmic collision in the Andromeda galaxy, where a small star spiraled into a giant star 18,000 times brighter than the Sun, triggering a violent eruption. NASA’s James Webb Space…",
-        "image": "https://www.sciencedaily.com/images/1920/andromeda-star-merger.webp",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261120075556.htm",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-11-21T15-41_4",
-        "rank": 4,
-        "title": "Bot Auto launches ‘Capacity Grid’ with agreements for 200 million miles of driverless trucking",
-        "category": "robotics",
-        "summary": "Bot Auto has launched its Capacity Grid, a freight transportation network designed to match customer demand with autonomous trucking capacity, alongside agreements covering 200 million miles of driverless freight…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/bot-auto-sunset-1.jpg",
-        "source": "Robotics & Automation News",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/11/21/bot-auto-launches-capacity-grid-with-agreements-for-200-million-miles-of-driverless-trucking/107423/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-11-21T15-41_5",
-        "rank": 5,
-        "title": "Opinion: When should medical school start?",
+        "id": "auto_2026-11-21T21-14_2",
+        "rank": 2,
+        "title": "Opinion: How Kennedy and MAHA could help stop measles",
         "category": "biotech",
-        "summary": "STAT readers weigh in on shortening medical school, fixing pediatric emergency care, and more.",
-        "image": "https://www.statnews.com/wp-content/uploads/2023/11/LettersToEditor_v2_Illustration_MollyFerguson_112723-1024x576.jpg",
+        "summary": "Kennedy and MAHA say they aren’t anti-vaccine. They can prove it by promoting the MMR vaccine, writes Brinda Adhikari.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/11/GettyImages-2259641071-1024x576.jpg",
         "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/11/21/stat-letters-to-editor-medical-school-pediatric-emergency-care/?utm_campaign=rss",
+        "sourceUrl": "https://www.statnews.com/2026/11/21/rfk-jr-maha-measles-outbreak-elimination-status-promote-mmr-vaccine/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-21T21-14_3",
+        "rank": 3,
+        "title": "APOD: 2026 November 21 – Voyager’s Neptune",
+        "category": "space",
+        "summary": "APOD Science APOD APOD: 2026 November 21 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or…",
+        "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/Neptune-South-Pole-Voyager-2_2327x1670.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "source": "NASA",
+        "sourceUrl": "https://science.nasa.gov/image-article/apod-2026-november-21-voyagers-neptune/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-21T21-14_4",
+        "rank": 4,
+        "title": "A decades-old mystery about light could hold the key to faster internet",
+        "category": "energy",
+        "summary": "A promising material for ultra-fast optical communications has held a secret for decades, but scientists may have finally cracked it. Researchers at KAIST and Caltech have precisely measured how barium titanate controls…",
+        "image": "https://www.sciencedaily.com/images/1920/barium-titanate-mueller-matrix-ellipsometry.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261119194544.htm",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-21T21-14_5",
+        "rank": 5,
+        "title": "Russian strikes damage historic buildings in Kyiv and Odesa, including World Heritage sites",
+        "category": "art",
+        "summary": "The St Volodymyr’s Cathedral and the St Michael’s Golden-Domed Cathedral and Monastery in Kyiv are among the heritage buildings targeted in recent Russian attacks",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/e82e316f934dfe92b81f189b91266f18ff67538c-2000x1600.jpg?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/11/20/russian-strikes-damage-heritage-sites-kyiv-odesa",
         "fromX": false
       }
     ]
