@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-11-23T04-09",
+    "scannedAt": "2026-11-23T04:09:44.844Z",
+    "items": [
+      {
+        "id": "auto_2026-11-23T04-09_1",
+        "rank": 1,
+        "title": "Kodak’s next collectible is a tiny digital photo frame that doubles as a tracker",
+        "category": "general",
+        "summary": "After expanding its Charmera collection with a Millennium Edition featuring Y2K-inspired designs earlier this year, Reto's follow-up to its tiny Kodak camera is an equally small digital photo frame you can use to…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/kodak1.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
+        "source": "The Verge",
+        "sourceUrl": "https://www.theverge.com/tech/1038650/kodak-slidetag-keychain-photo-display-tracker-find-my-hub-google-apple-e-ink",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-23T04-09_2",
+        "rank": 2,
+        "title": "Flooding in southwestern US underlines risks of Trump administration’s reduction of Bears Ears National Monument",
+        "category": "art",
+        "summary": "Recent floods in the Four Corners region of the southwest posed relatively little immediate risk to archaeological sites, but exposed risks due to scaling back of protected areas",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/0a3320473506c409c4ad2e8bc112e046bc79105f-2000x892.jpg?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/11/22/flooding-us-southwest-bears-ears-national-monument-trump-admin",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-23T04-09_3",
+        "rank": 3,
+        "title": "Multiway Robotics showcases wheeled humanoid and autonomous forklifts at CeMAT Asia 2026",
+        "category": "robotics",
+        "summary": "Multiway Robotics showcased five autonomous material handling solutions at CeMAT Asia 2026 in Shanghai, including a wheeled humanoid robot designed for flexible industrial operations. The exhibition, held from November…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/multiway-robotics-image-2.jpg",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/11/22/multiway-robotics-showcases-wheeled-humanoid-and-autonomous-forklifts-at-cemat-asia-2026/107492/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-23T04-09_4",
+        "rank": 4,
+        "title": "Interstellar solar sails hit a bizarre problem at 75% of light speed",
+        "category": "space",
+        "summary": "Scientists have discovered a surprising obstacle to interstellar travel: at extreme speeds, the light propelling futuristic solar sails could actually begin slowing them down. Once a spacecraft reaches 75% of the speed…",
+        "image": "https://www.sciencedaily.com/images/1920/diffractive-solar-sail.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261120071305.htm",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-23T04-09_5",
+        "rank": 5,
+        "title": "AI uncovers hidden bladder cancer warning signs years before diagnosis",
+        "category": "ai",
+        "summary": "Scientists have developed an AI tool that can uncover hidden warning signs of bladder cancer up to five years before diagnosis, identifying 85% of cases in a major study involving nearly 70,000 patients. By revealing…",
+        "image": "https://www.sciencedaily.com/images/1920/glowing-urinary-bladder-cancer.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261120075604.htm",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-11-22T21-20",
     "scannedAt": "2026-11-22T21:20:28.061Z",
     "items": [
