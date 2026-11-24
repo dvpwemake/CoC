@@ -1,5 +1,25 @@
 [
   {
+    "batchId": "editorial_2026-11-23",
+    "scannedAt": "2026-11-24T00:57:27.936Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-11-23",
+        "rank": 0,
+        "title": "The Weight of the Real",
+        "category": "editorial",
+        "summary": "Simulated minds distract from the fragile physical world.",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-525166886-1152x648.jpg",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-11-23.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-11-23",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-11-24T19-07",
     "scannedAt": "2026-11-24T19:07:48.725Z",
     "items": [
