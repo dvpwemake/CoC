@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-11-24T04-27",
+    "scannedAt": "2026-11-24T04:27:51.125Z",
+    "items": [
+      {
+        "id": "auto_2026-11-24T04-27_1",
+        "rank": 1,
+        "title": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal",
+        "category": "general",
+        "summary": "The administration added Megaspeed to the entity list, a trade blacklist, after weeks of sparring among top officials on the decision.",
+        "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23nvidia-megaspeed-wltb/23nvidia-megaspeed-wltb-mediumSquareAt3X.jpg",
+        "source": "NYT Technology",
+        "sourceUrl": "https://www.nytimes.com/2026/11/23/business/trump-administration-megaspeed-trade-blacklist-nvidia.html",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-24T04-27_2",
+        "rank": 2,
+        "title": "STAT+: Medicare estimates $9.2 billion in savings from third round of negotiated drug prices",
+        "category": "biotech",
+        "summary": "The Trump administration said that the federal government will save $9.2 billion on drugs purchased through Medicare next year as a result of price negotiations.",
+        "image": "https://www.statnews.com/wp-content/uploads/2025/08/GettyImages-2214163374-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/11/23/medicare-drug-price-negotiations-announcement-third-round/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-24T04-27_3",
+        "rank": 3,
+        "title": "RE+ was huge this year. Here are 3 solar innovations that stood out.",
+        "category": "energy",
+        "summary": "LAS VEGAS — It was unusually cool under the desert sun as the U.S. solar industry’s biggest annual convention got underway last week. The live sheep munching hay under a solar display in the convention center parking…",
+        "image": "https://img.canarymedia.com/content/uploads/Dont-mess-with-solar-Vegas_2026-11-23-234505_dvjl.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=dde6b18f741bc6088f2b1b881b77c024",
+        "source": "Canary Media",
+        "sourceUrl": "https://www.canarymedia.com/articles/solar/re-convention-solar-innovations",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-24T04-27_4",
+        "rank": 4,
+        "title": "Figure AI patents wearable system for teaching humanoid robots through human movement",
+        "category": "robotics",
+        "summary": "Figure AI has filed a patent application for a wearable robotic system designed to capture human arm movements and use the resulting data to train humanoid robots or control them remotely in real time. The application,…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/figure-ai-backpack-patentlyze-1.jpeg",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/11/23/figure-ai-patents-wearable-system-for-teaching-humanoid-robots-through-human-movement/107567/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-24T04-27_5",
+        "rank": 5,
+        "title": "Russian Strikes On Kyiv and Odesa Damage Landmarks And Cultural Heritage Sites",
+        "category": "art",
+        "summary": "Ukraine’s Ministry of Culture reported on November 20 that Russian strikes had damaged cultural heritage sites in the cities of Kyiv and Odesa. According to the online newspaper Kyiv Independent, the hours-long series…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/11/1280px-St_Volodymyrs_Cathedral.jpg?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/news/russian-strikes-kyiv-odesa-landmarks-heritage-sites-1234764108/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-11-23T19-31",
     "scannedAt": "2026-11-23T19:31:46.310Z",
     "items": [
@@ -362,6 +423,26 @@
         "source": "Neuroscience News",
         "sourceUrl": "https://neurosciencenews.com/losing-a-single-molecular-brake-gene-triggers-brain-overgrowth/",
         "fromX": false
+      }
+    ]
+  },
+  {
+    "batchId": "editorial_2026-11-18",
+    "scannedAt": "2026-11-18T15:27:55.352Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-11-18",
+        "rank": 0,
+        "title": "The Automated Archive",
+        "category": "editorial",
+        "summary": "Digitizing senses, automating infrastructure, and canonizing culture.",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/osmo-nose2.jpg?resize=1200,600",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-11-18.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-11-18",
+        "authorName": "Dr. Wallace Lynch"
       }
     ]
   },
@@ -3098,87 +3179,6 @@
         "sourceUrl": "https://chronicleofconvergence.com/e/2026-10-11.html",
         "isEditorialArchive": true,
         "publishDate": "2026-10-11",
-        "authorName": "Dr. Wallace Lynch"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-10-11T23-14",
-    "scannedAt": "2026-10-11T23:14:25.952Z",
-    "items": [
-      {
-        "id": "auto_2026-10-11T23-14_1",
-        "rank": 1,
-        "title": "AI is less regulated than milk, says Microsoft president",
-        "category": "general",
-        "summary": "Brad Smith calls for global rules on AI, and says the UK is in the \"best position\" to lead the charge.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc1a/live/a75b5120-c40b-11f1-9a39-31b474234113.jpg",
-        "source": "BBC Technology",
-        "sourceUrl": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&at_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-11T23-14_2",
-        "rank": 2,
-        "title": "APOD: 2026 October 11 – Ice Fishing for Cosmic Neutrinos",
-        "category": "space",
-        "summary": "APOD Science APOD APOD: 2026 October 11 – Ice… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or…",
-        "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/october/deephole_icecube_4000.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-        "source": "NASA",
-        "sourceUrl": "https://science.nasa.gov/image-article/apod-2026-october-11-ice-fishing-for-cosmic-neutrinos/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-11T23-14_3",
-        "rank": 3,
-        "title": "Scientists build a nuclear clock that could make atomic clocks obsolete",
-        "category": "energy",
-        "summary": "Scientists in Vienna have achieved a major breakthrough in timekeeping by creating the world’s first self-stabilizing nuclear clock, a technology that could eventually surpass even the most precise atomic clocks.…",
-        "image": "https://www.sciencedaily.com/images/1920/nuclear-clock-concept.webp",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261008102701.htm",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-11T23-14_4",
-        "rank": 4,
-        "title": "Scientists created a tiny device that can control your nerves to treat chronic pain",
-        "category": "neuroscience",
-        "summary": "Scientists have developed a tiny, injectable device that can control nerve activity without surgery, batteries, or wires, potentially transforming treatment for chronic pain and movement disorders. Powered wirelessly…",
-        "image": "https://www.sciencedaily.com/images/1920/tiny-wireless-device-treats-chronic-pain.webp",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261008005253.htm",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-11T23-14_5",
-        "rank": 5,
-        "title": "STAT+: Biotech leader, leading lab leak theorist no longer in consideration for top infectious disease role",
-        "category": "biotech",
-        "summary": "Steven Quay, a biopharmaceutical executive with no background in infectious diseases, is no longer being considered for director of the National Institute for Allergy and Infectious Diseases.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/08/AP24170523760086-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/10/09/steven-quay-no-longer-in-consideration-for-top-infectious-disease-role/?utm_campaign=rss",
-        "fromX": false
-      }
-    ]
-  },
-  {
-    "batchId": "editorial_2026-10-10",
-    "scannedAt": "2026-10-11T02:30:40.344Z",
-    "kind": "editorial_archive",
-    "items": [
-      {
-        "id": "editorial_2026-10-10",
-        "rank": 0,
-        "title": "The Scale of Our Ambition",
-        "category": "editorial",
-        "summary": "We are predicting quantum phenomena and chasing fusion, but the real bottlenecks remain public trust, manufacturing limits, and regulatory reality.",
-        "image": "https://www.sciencedaily.com/images/1920/kondo-effect-illustration.webp",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-10-10.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-10-10",
         "authorName": "Dr. Wallace Lynch"
       }
     ]
