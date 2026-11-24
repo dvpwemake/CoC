@@ -35,7 +35,7 @@ jobs:
     if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: ${{ steps.deployment2.outputs.page_url || steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
@@ -45,5 +45,14 @@ jobs:
       - uses: actions/upload-pages-artifact@v3
         with:
           path: .
+      # The editorial publish pushes several commits within seconds; on 2026-11-24 the deploy of the last one failed with "Found 0 artifact(s)" right after the artifact was uploaded (GitHub-side
+      # timing), and the new edition's page /e/<date>.html stayed 404 for hours, so LinkedIn could not show a preview. The deploy is tried once more after a short wait.
       - id: deployment
+        continue-on-error: true
+        uses: actions/deploy-pages@v4
+      - name: Wait before the second deploy attempt
+        if: steps.deployment.outcome == 'failure'
+        run: sleep 25
+      - id: deployment2
+        if: steps.deployment.outcome == 'failure'
         uses: actions/deploy-pages@v4
