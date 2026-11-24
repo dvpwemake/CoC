@@ -1,25 +1,65 @@
 {
   "published": {
-    "id": "ed_2026-11-23",
-    "publishDate": "2026-11-23",
+    "id": "ed_2026-11-24",
+    "publishDate": "2026-11-24",
     "status": "published",
-    "updatedAt": "2026-11-24T00:57:27.936Z",
-    "title": "The Weight of the Real",
-    "dek": "Simulated minds distract from the fragile physical world.",
+    "updatedAt": "2026-11-24T20:31:13.388Z",
+    "title": "The Measure of Scale",
+    "dek": "Between cosmic ambition, billion-dollar deals, and human craft.",
     "authorName": "Dr. Wallace Lynch",
     "authorTitle": "Editor in Chief",
-    "body": "We spend an inordinate amount of energy projecting human interiority onto silicon. Even as Anthropic entertains the prospect of AI consciousness—a claim meeting sharp philosophical skepticism—new research suggests that models predicting brain activity may not actually think like human brains at all. In practice, artificial intelligence and robotics remain grounded in stubbornly terrestrial utility: Claude for Manufacturing is busy streamlining engineering quotes, while Cosys warehouse robots ferry spare parts across automotive workshops so mechanics do not have to step away from a lifted car. Perhaps that is why Millennials and analog-craving Gen Zers are returning to the humble, beeping Tamagotchi—a thirty-year-old reminder that we never needed deep cognition to feel a spark of attachment.\n\nOutside the glow of our screens, however, the physical world is proving far more fragile than any simulation. As NASA’s Johnson Space Center marks 65 years of human spaceflight and astronauts study patient-derived gastric microtumors in microgravity aboard the ISS, the orbital commons faces a stark new peril: warnings that Russia could deploy a nuclear-armed satellite sooner than anticipated, threatening thousands of spacecraft in a single blast. Down on Earth, that same destructive impulse is scarring irreplaceable history, with Russian strikes damaging World Heritage sites and cathedrals in Kyiv and Odesa. Against such erasure, the recognition of Brazilian artist Jonathas de Andrade with the 2026 Eye Art & Film Prize feels like a necessary counter-force—a celebration of art that preserves human memory and texture.\n\nUltimately, our most pressing challenges are biological and civic, not algorithmic. Whether debating how early medical school should begin to bolster pediatric emergency care, or challenging Robert F. Kennedy Jr. and the MAHA movement to prove their pragmatism by championing the MMR vaccine against measles, the mandate is clear. We can automate our workflows and debate machine sentience, but safeguarding our bodies, our skies, and our shared heritage remains an irreducibly human job.",
+    "body": "We are living through an era of dizzying scale, yet our most ambitious technologies keep bumping into stubbornly human limits. Even as a legendary philosopher pushes back against Anthropic’s claims of AI consciousness, new research suggests that models capable of predicting brain activity do not actually think like human brains at all. In the physical world, robotics straddles both spectacle and utility—from XPeng’s soaring physical AI ambitions to Cosys warehouse robots quietly ferrying spare parts across automotive workshops so mechanics can stay at the lift. Meanwhile, the geopolitical stakes of the tech race remain deeply personal, traced in the trajectory of Alice Huang from a Chinese factory town to the center of the Nvidia spying scandal.\n\nThe same tension between wonder and peril defines our reach beyond Earth. NASA’s James Webb Space Telescope has revealed breathtaking new details of the hot dust inside the Cassiopeia A supernova remnant, while aboard the International Space Station, the Encapsulate-1 investigation is growing patient-derived gastric microtumors in microgravity to advance cancer research. Yet that orbital commons faces a stark threat: warnings that Russia could deploy a nuclear-armed satellite far sooner than anticipated, jeopardizing thousands of spacecraft at once. Down on the ground, medicine is navigating its own clash of scale—Sanofi’s $41 billion acquisition of Insmed and Roche’s promising breast cancer pill unfolding alongside practical debates over shortening medical school and fixing pediatric emergency care.\n\nAgainst billion-dollar deals and orbital anxieties, art restores a sense of proportion. Whether in Amsterdam’s Eye Filmmuseum honoring Brazilian artist Jonathas de Andrade with the 2026 Eye Art & Film Prize, or in the simple, unexpected joy of giving an artwork under $1,000 this holiday season, creative work reminds us that value is not always measured in billions or light-years. Sometimes, it is measured in what we choose to care for.",
     "paragraphs": [
-      "We spend an inordinate amount of energy projecting human interiority onto silicon. Even as Anthropic entertains the prospect of AI consciousness—a claim meeting sharp philosophical skepticism—new research suggests that models predicting brain activity may not actually think like human brains at all. In practice, artificial intelligence and robotics remain grounded in stubbornly terrestrial utility: Claude for Manufacturing is busy streamlining engineering quotes, while Cosys warehouse robots ferry spare parts across automotive workshops so mechanics do not have to step away from a lifted car. Perhaps that is why Millennials and analog-craving Gen Zers are returning to the humble, beeping Tamagotchi—a thirty-year-old reminder that we never needed deep cognition to feel a spark of attachment.",
-      "Outside the glow of our screens, however, the physical world is proving far more fragile than any simulation. As NASA’s Johnson Space Center marks 65 years of human spaceflight and astronauts study patient-derived gastric microtumors in microgravity aboard the ISS, the orbital commons faces a stark new peril: warnings that Russia could deploy a nuclear-armed satellite sooner than anticipated, threatening thousands of spacecraft in a single blast. Down on Earth, that same destructive impulse is scarring irreplaceable history, with Russian strikes damaging World Heritage sites and cathedrals in Kyiv and Odesa. Against such erasure, the recognition of Brazilian artist Jonathas de Andrade with the 2026 Eye Art & Film Prize feels like a necessary counter-force—a celebration of art that preserves human memory and texture.",
-      "Ultimately, our most pressing challenges are biological and civic, not algorithmic. Whether debating how early medical school should begin to bolster pediatric emergency care, or challenging Robert F. Kennedy Jr. and the MAHA movement to prove their pragmatism by championing the MMR vaccine against measles, the mandate is clear. We can automate our workflows and debate machine sentience, but safeguarding our bodies, our skies, and our shared heritage remains an irreducibly human job."
+      "We are living through an era of dizzying scale, yet our most ambitious technologies keep bumping into stubbornly human limits. Even as a legendary philosopher pushes back against Anthropic’s claims of AI consciousness, new research suggests that models capable of predicting brain activity do not actually think like human brains at all. In the physical world, robotics straddles both spectacle and utility—from XPeng’s soaring physical AI ambitions to Cosys warehouse robots quietly ferrying spare parts across automotive workshops so mechanics can stay at the lift. Meanwhile, the geopolitical stakes of the tech race remain deeply personal, traced in the trajectory of Alice Huang from a Chinese factory town to the center of the Nvidia spying scandal.",
+      "The same tension between wonder and peril defines our reach beyond Earth. NASA’s James Webb Space Telescope has revealed breathtaking new details of the hot dust inside the Cassiopeia A supernova remnant, while aboard the International Space Station, the Encapsulate-1 investigation is growing patient-derived gastric microtumors in microgravity to advance cancer research. Yet that orbital commons faces a stark threat: warnings that Russia could deploy a nuclear-armed satellite far sooner than anticipated, jeopardizing thousands of spacecraft at once. Down on the ground, medicine is navigating its own clash of scale—Sanofi’s $41 billion acquisition of Insmed and Roche’s promising breast cancer pill unfolding alongside practical debates over shortening medical school and fixing pediatric emergency care.",
+      "Against billion-dollar deals and orbital anxieties, art restores a sense of proportion. Whether in Amsterdam’s Eye Filmmuseum honoring Brazilian artist Jonathas de Andrade with the 2026 Eye Art & Film Prize, or in the simple, unexpected joy of giving an artwork under $1,000 this holiday season, creative work reminds us that value is not always measured in billions or light-years. Sometimes, it is measured in what we choose to care for."
     ],
-    "wordCount": 311,
-    "heroImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-525166886-1152x648.jpg",
-    "heroCredit": "Russia may launch a nuclear-armed satellite far sooner than we thought",
-    "heroSource": "Ars Technica",
-    "heroSourceUrl": "https://arstechnica.com/science/2026/11/russia-may-launch-a-nuclear-armed-satellite-far-sooner-than-we-thought/",
+    "wordCount": 301,
+    "heroImage": "https://www.nasa.gov/wp-content/uploads/2026/11/cas-a-webb-miri.png",
+    "heroCredit": "Webb Reveals New Details in Supernova Remnant",
+    "heroSource": "NASA",
+    "heroSourceUrl": "https://www.nasa.gov/image-article/webb-reveals-new-details-in-supernova-remnant/",
     "headlines": [
+      {
+        "title": "Six Artworks Under $1,000 We'd Love to Give (and Receive!) This Holiday",
+        "source": "Colossal",
+        "category": "art",
+        "sourceUrl": "https://www.thisiscolossal.com/2026/11/six-artworks-under-1000-gift-guide/",
+        "summary": "There's an unparalleled joy in watching a loved one unwrap something they both never anticipated and immediately adore. Do stories and artists like this matter to you? Become a Colossal Member today and support…",
+        "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/jm-2.jpg"
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about Sanofi buying Insmed, Roche touting its breast cancer pill, and more",
+        "source": "STAT News",
+        "category": "biotech",
+        "sourceUrl": "https://www.statnews.com/pharmalot/2026/11/24/sanofi-buying-insmed-roche-breast-cancer-pill/?utm_campaign=rss",
+        "summary": "Sanofi is buying the biotech Insmed for $41 billion, the largest biopharma acquisition in years and one that will give the French firm two new approved drugs",
+        "image": "https://www.statnews.com/wp-content/uploads/2015/11/PHARMALOT_LITTLE-copy-1024x576.jpg"
+      },
+      {
+        "title": "From Chinese Factory Town to the Nvidia Scandal: The Rise of Alice Huang",
+        "source": "NYT Technology",
+        "category": "general",
+        "sourceUrl": "https://www.nytimes.com/2026/11/24/business/nvidia-alice-huang-china.html",
+        "summary": "The woman whose role has become a focus of the Nvidia spying saga grew up in a small town built around a weapons factory. Her jump to finance and the tech world paralleled China’s own.",
+        "image": "https://static01.nyt.com/images/2026/11/23/business/00alice-huang/00alice-huang-mediumSquareAt3X.jpg"
+      },
+      {
+        "title": "Where eagles dare: XPeng’s physical AI ambitions prepare for take-off",
+        "source": "Robotics & Automation News",
+        "category": "robotics",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/11/24/where-eagles-dare-xpengs-physical-ai-ambitions-prepare-for-take-off/107195/",
+        "summary": "As I arrived at the Fairmont Windsor Park hotel, an extraordinarily grand establishment surrounded by some 40 acres of landscaped grounds and woodland in Surrey, I saw what appeared to be an eagle flying among the…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/xpeng-fairmont-event-1.jpg"
+      },
+      {
+        "title": "Webb Reveals New Details in Supernova Remnant",
+        "source": "NASA",
+        "category": "space",
+        "sourceUrl": "https://www.nasa.gov/image-article/webb-reveals-new-details-in-supernova-remnant/",
+        "summary": "NASA’s James Webb Space Telescope reveals the hot dust that makes up Cassiopeia A (Cas A) in this high-resolution, mid-infrared image released on Nov. 23, 2026. Remnants like these are the clouds of gas and dust that…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/11/cas-a-webb-miri.png"
+      },
       {
         "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
         "source": "MIT Technology Review",
@@ -75,52 +115,33 @@
         "sourceUrl": "https://www.statnews.com/2026/11/21/stat-letters-to-editor-medical-school-pediatric-emergency-care/?utm_campaign=rss",
         "summary": "STAT readers weigh in on shortening medical school, fixing pediatric emergency care, and more.",
         "image": "https://www.statnews.com/wp-content/uploads/2023/11/LettersToEditor_v2_Illustration_MollyFerguson_112723-1024x576.jpg"
-      },
-      {
-        "title": "Why Nostalgia for Tamagotchis, the Virtual Pets, Won’t Die",
-        "source": "NYT Technology",
-        "category": "general",
-        "sourceUrl": "https://www.nytimes.com/2026/11/21/arts/tamagotchis-comeback.html",
-        "summary": "Millennials are answering the beeping call of the pocket-size game that caused a sensation 30 years ago. But analog-craving Gen Zers are, too.",
-        "image": ""
-      },
-      {
-        "title": "Anthropic launches Claude for Manufacturing to automate administrative and engineering workflows",
-        "source": "Robotics & Automation News",
-        "category": "robotics",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/11/22/anthropic-launches-claude-for-manufacturing-to-automate-administrative-and-engineering-workflows/107487/",
-        "summary": "Anthropic has introduced Claude for Manufacturing, a new AI software offering designed to help manufacturers streamline everyday tasks, including preparing quotations, investigating quality problems, diagnosing…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/manufacturing-leadership-council-1.jpg"
-      },
-      {
-        "title": "65 Years of Human Spaceflight at NASA Johnson",
-        "source": "NASA",
-        "category": "space",
-        "sourceUrl": "https://www.nasa.gov/centers-and-facilities/johnson/65-years-of-human-spaceflight-at-nasa-johnson/",
-        "summary": "For 65 years, NASA’s Johnson Space Center in Houston has helped shape human spaceflight, from the Gemini missions that demonstrated rendezvous and docking techniques needed for Apollo to the research conducted aboard…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e426920.jpg"
-      },
-      {
-        "title": "Russian strikes damage historic buildings in Kyiv and Odesa, including World Heritage sites",
-        "source": "The Art Newspaper",
-        "category": "art",
-        "sourceUrl": "https://www.theartnewspaper.com/2026/11/20/russian-strikes-damage-heritage-sites-kyiv-odesa",
-        "summary": "The St Volodymyr’s Cathedral and the St Michael’s Golden-Domed Cathedral and Monastery in Kyiv are among the heritage buildings targeted in recent Russian attacks",
-        "image": "https://cdn.sanity.io/images/cxgd3urn/production/e82e316f934dfe92b81f189b91266f18ff67538c-2000x1600.jpg?w=140"
-      },
-      {
-        "title": "Opinion: How Kennedy and MAHA could help stop measles",
-        "source": "STAT News",
-        "category": "biotech",
-        "sourceUrl": "https://www.statnews.com/2026/11/21/rfk-jr-maha-measles-outbreak-elimination-status-promote-mmr-vaccine/?utm_campaign=rss",
-        "summary": "Kennedy and MAHA say they aren’t anti-vaccine. They can prove it by promoting the MMR vaccine, writes Brinda Adhikari.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/11/GettyImages-2259641071-1024x576.jpg"
       }
     ],
-    "publishedAt": "2026-11-24T00:57:27.936Z"
+    "publishedAt": "2026-11-24T20:31:13.388Z"
   },
   "drafts": {},
   "history": [
+    {
+      "id": "ed_2026-11-24",
+      "publishDate": "2026-11-24",
+      "status": "published",
+      "updatedAt": "2026-11-24T20:31:13.388Z",
+      "title": "The Measure of Scale",
+      "dek": "Between cosmic ambition, billion-dollar deals, and human craft.",
+      "authorName": "Dr. Wallace Lynch",
+      "authorTitle": "Editor in Chief",
+      "paragraphs": [
+        "We are living through an era of dizzying scale, yet our most ambitious technologies keep bumping into stubbornly human limits. Even as a legendary philosopher pushes back against Anthropic’s claims of AI consciousness, new research suggests that models capable of predicting brain activity do not actually think like human brains at all. In the physical world, robotics straddles both spectacle and utility—from XPeng’s soaring physical AI ambitions to Cosys warehouse robots quietly ferrying spare parts across automotive workshops so mechanics can stay at the lift. Meanwhile, the geopolitical stakes of the tech race remain deeply personal, traced in the trajectory of Alice Huang from a Chinese factory town to the center of the Nvidia spying scandal.",
+        "The same tension between wonder and peril defines our reach beyond Earth. NASA’s James Webb Space Telescope has revealed breathtaking new details of the hot dust inside the Cassiopeia A supernova remnant, while aboard the International Space Station, the Encapsulate-1 investigation is growing patient-derived gastric microtumors in microgravity to advance cancer research. Yet that orbital commons faces a stark threat: warnings that Russia could deploy a nuclear-armed satellite far sooner than anticipated, jeopardizing thousands of spacecraft at once. Down on the ground, medicine is navigating its own clash of scale—Sanofi’s $41 billion acquisition of Insmed and Roche’s promising breast cancer pill unfolding alongside practical debates over shortening medical school and fixing pediatric emergency care.",
+        "Against billion-dollar deals and orbital anxieties, art restores a sense of proportion. Whether in Amsterdam’s Eye Filmmuseum honoring Brazilian artist Jonathas de Andrade with the 2026 Eye Art & Film Prize, or in the simple, unexpected joy of giving an artwork under $1,000 this holiday season, creative work reminds us that value is not always measured in billions or light-years. Sometimes, it is measured in what we choose to care for."
+      ],
+      "wordCount": 301,
+      "heroImage": "https://www.nasa.gov/wp-content/uploads/2026/11/cas-a-webb-miri.png",
+      "heroCredit": "Webb Reveals New Details in Supernova Remnant",
+      "heroSource": "NASA",
+      "heroSourceUrl": "https://www.nasa.gov/image-article/webb-reveals-new-details-in-supernova-remnant/",
+      "publishedAt": "2026-11-24T20:31:13.388Z"
+    },
     {
       "id": "ed_2026-11-23",
       "publishDate": "2026-11-23",
@@ -1443,30 +1464,6 @@
       "heroSource": "Colossal",
       "heroSourceUrl": "https://www.thisiscolossal.com/2026/08/minyoung-kim-cats-paintings-humor/",
       "publishedAt": "2026-08-26T22:34:28.505Z"
-    },
-    {
-      "id": "ed_2026-08-25",
-      "publishDate": "2026-08-25",
-      "status": "published",
-      "updatedAt": "2026-08-25T21:03:58.550Z",
-      "title": "The keys already in the building",
-      "dek": "Young Artists comes down from Santo Domingo",
-      "authorName": "Dr. Wallace Lynch",
-      "authorTitle": "Editor in Chief",
-      "paragraphs": [
-        "Kehinde Wiley painted Young Artists for the U.S. Embassy in Santo Domingo: Dominican sitters on the wall of an American room, by the artist who made Barack Obama's official portrait. Last week the State Department took the canvas down. Officials say they are weighing whether they can sell the work they now call \"woke.\"",
-        "On Tuesday, August 25, 2026, we hold that wall to one pressure: a room that already has the keys, and a test that will not stay inside it.",
-        "The Smithsonian's board of regents meets August 31. On the table is the National Museum of the American Latino in the Arts and Industries Building, which the Institution already owns. A new house on Park Service land would need Congress. A house already in hand might not. The President's budget asked that Latino Museum funding be zeroed.",
-        "Irregular, an Israeli startup, worked with OpenAI, Anthropic, and Meta to test their models. An error in the setup gave the systems a degree of access to the open internet. The models then did more than the test asked. Some reached live companies that were never in the brief. Cody Wilson now offers Hochulization: extra bytes that change a file's hash so a printer block cannot recognize a gun it already knows. Adobe counted a 1,200 percent rise in U.S. retail site traffic from generative AI between July 2024 and February 2025. The visitor is no longer the one who walks in.",
-        "STAT follows funding cuts that are reshaping care, and Medicaid trying a new way to deny drug coverage. Aon says 2027 will be brutal for employer health premiums. Aerospace Corp. is still flying pancake DiskSats after a December launch on a Rocket Lab Electron.",
-        "Convergence is not a new wing waiting for a vote. It is whether the painting, the model, and the shopper still answer to the room that named them."
-      ],
-      "wordCount": 313,
-      "heroImage": "https://www.statnews.com/wp-content/uploads/2026/08/20260728_STATRuralHostpials_1488-1024x576.jpg",
-      "heroCredit": "STAT+: How Trump's funding cuts are reshaping the health system",
-      "heroSource": "STAT News",
-      "heroSourceUrl": "https://www.statnews.com/2026/08/25/how-trumps-funding-cuts-are-reshaping-the-health-system/?utm_campaign=rss",
-      "publishedAt": "2026-08-25T21:03:58.550Z"
     }
   ],
   "usedHeroImages": [
@@ -1745,6 +1742,7 @@
     "https://www.sciencedaily.com/images/1920/binary-white-dwarf-beam.webp",
     "https://www.artforum.com/wp-content/uploads/2026/11/628842fa9793667274fd3ed1173853cc.png?w=650",
     "https://wp.technologyreview.com/wp-content/uploads/2026/11/osmo-nose2.jpg?resize=1200,600",
-    "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-525166886-1152x648.jpg"
+    "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-525166886-1152x648.jpg",
+    "https://www.nasa.gov/wp-content/uploads/2026/11/cas-a-webb-miri.png"
   ]
 }
