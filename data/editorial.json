@@ -1,127 +1,147 @@
 {
   "published": {
-    "id": "ed_2026-11-18",
-    "publishDate": "2026-11-18",
+    "id": "ed_2026-11-23",
+    "publishDate": "2026-11-23",
     "status": "published",
-    "updatedAt": "2026-11-18T15:27:55.352Z",
-    "title": "The Automated Archive",
-    "dek": "Digitizing senses, automating infrastructure, and canonizing culture.",
+    "updatedAt": "2026-11-24T00:57:27.936Z",
+    "title": "The Weight of the Real",
+    "dek": "Simulated minds distract from the fragile physical world.",
     "authorName": "Dr. Wallace Lynch",
     "authorTitle": "Editor in Chief",
-    "body": "As Voyager 1 breaches the distance of one light-day from Earth, carrying its Golden Record into the cosmic dark, it serves as a poignant reminder of our enduring drive to catalog the human experience. Today, however, that drive is less about pressing analog vinyl and more about parsing complex physical realities into algorithmic data.\n\nConsider the team of thirty human “sniffers” in New Jersey systematically cataloging every odor on Earth. By cross-referencing sensory descriptors like \"peachy\" and \"marine,\" they are training an AI “nose” to flawlessly replicate our most ephemeral sense. This physical-to-digital translation is accelerating across the scientific spectrum. In the U.K., Flagship Pioneering is injecting £100 million into AI-native biotech platforms to decode human health, while high above us, artificial intelligence is rapidly driving the evolution of commercial satellite networks. We are aggressively teaching machines to interpret the organic world.\n\nBack on the ground, that technological overlay is fundamentally transforming how we manage our environment and physical risks. Wildfire response has quietly evolved into an automation story—with AI monitoring real-time camera feeds for smoke and drones flying precision ignition patterns—even if human hands must still aim the physical hose. Similarly, our energy infrastructure is being radically rewired; a net-zero community in Michigan is pioneering the state's first virtual power plant, networking sustainable townhouses into a resilient, decentralized grid.\n\nYet, as we automate our survival and digitize biology, our cultural institutions are shifting how they define and canonize human output. Just as critics like Rosalind Krauss historically codified minimalism, the Museum of Fine Arts, Boston, is preparing to elevate modern pop by dedicating its first-ever musician exhibition to Taylor Swift. Whether we are launching an acoustic record into interstellar space or placing a pop star’s eras in a fine arts museum, we are continuously negotiating which uniquely human fingerprints to preserve in an increasingly automated era.",
+    "body": "We spend an inordinate amount of energy projecting human interiority onto silicon. Even as Anthropic entertains the prospect of AI consciousness—a claim meeting sharp philosophical skepticism—new research suggests that models predicting brain activity may not actually think like human brains at all. In practice, artificial intelligence and robotics remain grounded in stubbornly terrestrial utility: Claude for Manufacturing is busy streamlining engineering quotes, while Cosys warehouse robots ferry spare parts across automotive workshops so mechanics do not have to step away from a lifted car. Perhaps that is why Millennials and analog-craving Gen Zers are returning to the humble, beeping Tamagotchi—a thirty-year-old reminder that we never needed deep cognition to feel a spark of attachment.\n\nOutside the glow of our screens, however, the physical world is proving far more fragile than any simulation. As NASA’s Johnson Space Center marks 65 years of human spaceflight and astronauts study patient-derived gastric microtumors in microgravity aboard the ISS, the orbital commons faces a stark new peril: warnings that Russia could deploy a nuclear-armed satellite sooner than anticipated, threatening thousands of spacecraft in a single blast. Down on Earth, that same destructive impulse is scarring irreplaceable history, with Russian strikes damaging World Heritage sites and cathedrals in Kyiv and Odesa. Against such erasure, the recognition of Brazilian artist Jonathas de Andrade with the 2026 Eye Art & Film Prize feels like a necessary counter-force—a celebration of art that preserves human memory and texture.\n\nUltimately, our most pressing challenges are biological and civic, not algorithmic. Whether debating how early medical school should begin to bolster pediatric emergency care, or challenging Robert F. Kennedy Jr. and the MAHA movement to prove their pragmatism by championing the MMR vaccine against measles, the mandate is clear. We can automate our workflows and debate machine sentience, but safeguarding our bodies, our skies, and our shared heritage remains an irreducibly human job.",
     "paragraphs": [
-      "As Voyager 1 breaches the distance of one light-day from Earth, carrying its Golden Record into the cosmic dark, it serves as a poignant reminder of our enduring drive to catalog the human experience. Today, however, that drive is less about pressing analog vinyl and more about parsing complex physical realities into algorithmic data.",
-      "Consider the team of thirty human “sniffers” in New Jersey systematically cataloging every odor on Earth. By cross-referencing sensory descriptors like \"peachy\" and \"marine,\" they are training an AI “nose” to flawlessly replicate our most ephemeral sense. This physical-to-digital translation is accelerating across the scientific spectrum. In the U.K., Flagship Pioneering is injecting £100 million into AI-native biotech platforms to decode human health, while high above us, artificial intelligence is rapidly driving the evolution of commercial satellite networks. We are aggressively teaching machines to interpret the organic world.",
-      "Back on the ground, that technological overlay is fundamentally transforming how we manage our environment and physical risks. Wildfire response has quietly evolved into an automation story—with AI monitoring real-time camera feeds for smoke and drones flying precision ignition patterns—even if human hands must still aim the physical hose. Similarly, our energy infrastructure is being radically rewired; a net-zero community in Michigan is pioneering the state's first virtual power plant, networking sustainable townhouses into a resilient, decentralized grid.",
-      "Yet, as we automate our survival and digitize biology, our cultural institutions are shifting how they define and canonize human output. Just as critics like Rosalind Krauss historically codified minimalism, the Museum of Fine Arts, Boston, is preparing to elevate modern pop by dedicating its first-ever musician exhibition to Taylor Swift. Whether we are launching an acoustic record into interstellar space or placing a pop star’s eras in a fine arts museum, we are continuously negotiating which uniquely human fingerprints to preserve in an increasingly automated era."
+      "We spend an inordinate amount of energy projecting human interiority onto silicon. Even as Anthropic entertains the prospect of AI consciousness—a claim meeting sharp philosophical skepticism—new research suggests that models predicting brain activity may not actually think like human brains at all. In practice, artificial intelligence and robotics remain grounded in stubbornly terrestrial utility: Claude for Manufacturing is busy streamlining engineering quotes, while Cosys warehouse robots ferry spare parts across automotive workshops so mechanics do not have to step away from a lifted car. Perhaps that is why Millennials and analog-craving Gen Zers are returning to the humble, beeping Tamagotchi—a thirty-year-old reminder that we never needed deep cognition to feel a spark of attachment.",
+      "Outside the glow of our screens, however, the physical world is proving far more fragile than any simulation. As NASA’s Johnson Space Center marks 65 years of human spaceflight and astronauts study patient-derived gastric microtumors in microgravity aboard the ISS, the orbital commons faces a stark new peril: warnings that Russia could deploy a nuclear-armed satellite sooner than anticipated, threatening thousands of spacecraft in a single blast. Down on Earth, that same destructive impulse is scarring irreplaceable history, with Russian strikes damaging World Heritage sites and cathedrals in Kyiv and Odesa. Against such erasure, the recognition of Brazilian artist Jonathas de Andrade with the 2026 Eye Art & Film Prize feels like a necessary counter-force—a celebration of art that preserves human memory and texture.",
+      "Ultimately, our most pressing challenges are biological and civic, not algorithmic. Whether debating how early medical school should begin to bolster pediatric emergency care, or challenging Robert F. Kennedy Jr. and the MAHA movement to prove their pragmatism by championing the MMR vaccine against measles, the mandate is clear. We can automate our workflows and debate machine sentience, but safeguarding our bodies, our skies, and our shared heritage remains an irreducibly human job."
     ],
-    "wordCount": 307,
-    "heroImage": "https://wp.technologyreview.com/wp-content/uploads/2026/11/osmo-nose2.jpg?resize=1200,600",
-    "heroCredit": "This smell startup says its AI nose is as good as a human’s",
-    "heroSource": "MIT Technology Review",
-    "heroSourceUrl": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+    "wordCount": 311,
+    "heroImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-525166886-1152x648.jpg",
+    "heroCredit": "Russia may launch a nuclear-armed satellite far sooner than we thought",
+    "heroSource": "Ars Technica",
+    "heroSourceUrl": "https://arstechnica.com/science/2026/11/russia-may-launch-a-nuclear-armed-satellite-far-sooner-than-we-thought/",
     "headlines": [
       {
-        "title": "This smell startup says its AI nose is as good as a human’s",
+        "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
         "source": "MIT Technology Review",
         "category": "ai",
-        "sourceUrl": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
-        "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/osmo-nose2.jpg?resize=1200,600"
+        "sourceUrl": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/simulacra2a.jpg?resize=1200,600"
       },
       {
-        "title": "“Taylor Swift: The Eras Collection” exhibition to open at Museum of Fine Arts in Boston in 202.",
-        "source": "Artsy",
+        "title": "Jonathas de Andrade Wins 2026 Eye Art & Film Prize",
+        "source": "Artforum",
         "category": "art",
-        "sourceUrl": "https://www.artsy.net/article/artsy-editorial-taylor-swift-eras-collection-exhibition-open-museum-fine-arts-boston-202",
-        "summary": "The Museum of Fine Arts, Boston (MFA Boston), will present “Taylor Swift: The Eras Collection” from April 10 through August 15, 2027, marking the institution’s first exhibition dedicated to a musician. Featuring more…",
-        "image": "https://artsy-media-uploads.s3.amazonaws.com/huTWKS9yaSWB_YK8xvw-UA%2Funnamed+%283%29_1500x1000.jpg"
+        "sourceUrl": "https://www.artforum.com/news/jonathas-de-andrade-wins-twelfth-eye-art-film-prize-1234764011/",
+        "summary": "Amsterdam’s Eye Filmmuseum has named Brazilian artist Jonathas de Andrade the twelfth winner of the Eye Art & Film Prize, an annual €30,000 (about $35,000) award established in 2015 to support artists whose practices…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/11/Jonathas-de-Andrade-c-Jessica-Bernardo.webp?w=650"
       },
       {
-        "title": "New net-zero community will become Michigan’s first virtual power plant",
-        "source": "Canary Media",
-        "category": "energy",
-        "sourceUrl": "https://www.canarymedia.com/articles/virtual-power-plants/new-net-zero-community-michigan-vpp",
-        "summary": "Mitch Hall and his wife, Lori, live in one of the most sustainable communities in the U.S. Their town house is among a few dozen residences constructed so far at Veridian at County Farm , a fossil-fuel-free,…",
-        "image": "https://img.canarymedia.com/content/uploads/Veridian-at-County-Farm-development-Michigans-first-virtual-power-plant.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=6aff263db0cbb36a63779252a6b6d7ee"
-      },
-      {
-        "title": "Voyager 1 at one light-day: Historian revisits Golden Record's forgotten details",
+        "title": "Russia may launch a nuclear-armed satellite far sooner than we thought",
         "source": "Ars Technica",
         "category": "general",
-        "sourceUrl": "https://arstechnica.com/space/2026/11/voyager-1-at-one-light-day-historian-revisits-golden-records-forgotten-details/",
-        "summary": "\"They are pretty confident that it's going to last a long, long, long time...\"",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/news-111826a-lg-1152x648.jpg"
+        "sourceUrl": "https://arstechnica.com/science/2026/11/russia-may-launch-a-nuclear-armed-satellite-far-sooner-than-we-thought/",
+        "summary": "A nuclear detonation in space \"could cause rapid and sudden loss or degradation of thousands of satellites.\"",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-525166886-1152x648.jpg"
       },
       {
-        "title": "Wildfire Tech is Automating Everything but the Hose",
+        "title": "Cosys warehouse robots automate spare parts delivery in automotive workshops",
         "source": "Robotics & Automation News",
         "category": "robotics",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/11/18/wildfire-automation-ground-suppression-gap/107269/",
-        "summary": "Wildfire response is quietly turning into an automation story. AI watches camera feeds for smoke, drones fly ignition patterns on planned burns, and fixed launchers can fire suppression capsules at a target. One job has…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/usda-fire-service-1.png"
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/11/23/cosys-warehouse-robots-automate-spare-parts-delivery-in-automotive-workshops/107526/",
+        "summary": "A mechanic has already raised a vehicle on a lift when they discover that an additional replacement part is needed. The parts department is located at the opposite end of the building. The mechanic must interrupt the…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/cosys-robot-1.jpeg"
       },
       {
-        "title": "Research Reports",
-        "source": "MIT Technology Review",
+        "title": "Studying Cancer Cells in Microgravity",
+        "source": "NASA",
+        "category": "space",
+        "sourceUrl": "https://www.nasa.gov/image-article/studying-cancer-cells-in-microgravity/",
+        "summary": "This Nov. 19, 2026, image shows gastric microtumors grown within an Encapsulates biochip. The Encapsulate-1 investigation studies patient-derived tumor samples aboard the International Space Station to better understand…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e426880orig.jpg"
+      },
+      {
+        "title": "AI may not work like the human brain after all, scientists discover",
+        "source": "ScienceDaily",
         "category": "ai",
-        "sourceUrl": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
-        "summary": "To access a report, click on the corresponding image below.",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261120075701.htm",
+        "summary": "AI may not think like the human brain after all, according to a striking new discovery that challenges how scientists understand artificial intelligence. Researchers found that even AI models that closely predict brain…",
+        "image": "https://www.sciencedaily.com/images/1920/human-vs-ai-brain-thinking-understanding.webp"
+      },
+      {
+        "title": "Opinion: When should medical school start?",
+        "source": "STAT News",
+        "category": "biotech",
+        "sourceUrl": "https://www.statnews.com/2026/11/21/stat-letters-to-editor-medical-school-pediatric-emergency-care/?utm_campaign=rss",
+        "summary": "STAT readers weigh in on shortening medical school, fixing pediatric emergency care, and more.",
+        "image": "https://www.statnews.com/wp-content/uploads/2023/11/LettersToEditor_v2_Illustration_MollyFerguson_112723-1024x576.jpg"
+      },
+      {
+        "title": "Why Nostalgia for Tamagotchis, the Virtual Pets, Won’t Die",
+        "source": "NYT Technology",
+        "category": "general",
+        "sourceUrl": "https://www.nytimes.com/2026/11/21/arts/tamagotchis-comeback.html",
+        "summary": "Millennials are answering the beeping call of the pocket-size game that caused a sensation 30 years ago. But analog-craving Gen Zers are, too.",
         "image": ""
       },
       {
-        "title": "Rosalind Krauss Makes Sense of Minimalism",
-        "source": "Artforum",
-        "category": "art",
-        "sourceUrl": "https://www.artforum.com/columns/rosalind-krauss-makes-sense-minimalism-fta-1234763712/",
-        "summary": "The critic plays buzzword bingo with the terms that defined late ’60s sculpture",
-        "image": "https://www.artforum.com/wp-content/uploads/2026/11/628842fa9793667274fd3ed1173853cc.png?w=650"
+        "title": "Anthropic launches Claude for Manufacturing to automate administrative and engineering workflows",
+        "source": "Robotics & Automation News",
+        "category": "robotics",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/11/22/anthropic-launches-claude-for-manufacturing-to-automate-administrative-and-engineering-workflows/107487/",
+        "summary": "Anthropic has introduced Claude for Manufacturing, a new AI software offering designed to help manufacturers streamline everyday tasks, including preparing quotations, investigating quality problems, diagnosing…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/manufacturing-leadership-council-1.jpg"
       },
       {
-        "title": "STAT+: Flagship opens biotech-creation outpost in the U.K.",
+        "title": "65 Years of Human Spaceflight at NASA Johnson",
+        "source": "NASA",
+        "category": "space",
+        "sourceUrl": "https://www.nasa.gov/centers-and-facilities/johnson/65-years-of-human-spaceflight-at-nasa-johnson/",
+        "summary": "For 65 years, NASA’s Johnson Space Center in Houston has helped shape human spaceflight, from the Gemini missions that demonstrated rendezvous and docking techniques needed for Apollo to the research conducted aboard…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e426920.jpg"
+      },
+      {
+        "title": "Russian strikes damage historic buildings in Kyiv and Odesa, including World Heritage sites",
+        "source": "The Art Newspaper",
+        "category": "art",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/11/20/russian-strikes-damage-heritage-sites-kyiv-odesa",
+        "summary": "The St Volodymyr’s Cathedral and the St Michael’s Golden-Domed Cathedral and Monastery in Kyiv are among the heritage buildings targeted in recent Russian attacks",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/e82e316f934dfe92b81f189b91266f18ff67538c-2000x1600.jpg?w=140"
+      },
+      {
+        "title": "Opinion: How Kennedy and MAHA could help stop measles",
         "source": "STAT News",
         "category": "biotech",
-        "sourceUrl": "https://www.statnews.com/2026/11/17/biotech-news-flagship-opens-biotech-creation-uk-outpost/?utm_campaign=rss",
-        "summary": "Flagship is putting up 100 million pounds to start “AI-native platform companies\" focused on human and planetary health in the U.K.:",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/01/AdobeStock_1660866849-1024x576.jpeg"
-      },
-      {
-        "title": "Early Signals and Sudden Shifts",
-        "source": "Chronicle of Convergence · Editorial",
-        "category": "editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-11-16.html",
-        "summary": "Quiet warnings and institutional pivots reshape science, industry, and culture.",
-        "image": "https://www.sciencedaily.com/images/1920/binary-white-dwarf-beam.webp"
-      },
-      {
-        "title": "VSCO Is Gunning for Adobe Lightroom With Its New Desktop App",
-        "source": "WIRED",
-        "category": "general",
-        "sourceUrl": "https://www.wired.com/story/vsco-is-gunning-for-adobe-lightroom-with-its-new-desktop-app/",
-        "summary": "The new Studio Pro Desktop app for macOS delivers fast batch editing, RAW support, and more than 200 presets, though a few pro tools are still missing.",
-        "image": "https://media.wired.com/photos/6afafda61113c366073d3d8a/master/pass/Studio%20Pro%20Desktop%20%E2%80%94%20Announcement%20Hero.jpg"
-      },
-      {
-        "title": "How AI is pushing satellites to evolve",
-        "source": "SpaceNews",
-        "category": "space",
-        "sourceUrl": "https://spacenews.com/how-ai-is-pushing-satellites-to-evolve/",
-        "summary": "During the first day of Space Tech Expo Europe, SpaceNews’ Mike Gruss sits down with Pieter van Duijn, the chief technology officer of Loft Orbital. They discuss the growing level […] The post How AI is pushing…",
-        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/2000-1500-spacenews-space-tech-expo-europe-van-Duijn-scaled.jpg?fit=1024%2C768&ssl=1"
-      },
-      {
-        "title": "Margot Heller to Step Down as Director of South London Gallery",
-        "source": "Artforum",
-        "category": "art",
-        "sourceUrl": "https://www.artforum.com/news/margot-heller-to-step-down-as-director-of-slg-1234763682/",
-        "summary": "After leading South London Gallery (SLG) since 2001, Margot Heller will step down as its director in May 2027 to work as an independent curator and adviser. Heller offered the following statement in a press release:…",
-        "image": "https://www.artforum.com/wp-content/uploads/2026/11/Screenshot-2026-11-16-at-5.38.12-PM.png?w=650"
+        "sourceUrl": "https://www.statnews.com/2026/11/21/rfk-jr-maha-measles-outbreak-elimination-status-promote-mmr-vaccine/?utm_campaign=rss",
+        "summary": "Kennedy and MAHA say they aren’t anti-vaccine. They can prove it by promoting the MMR vaccine, writes Brinda Adhikari.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/11/GettyImages-2259641071-1024x576.jpg"
       }
     ],
-    "publishedAt": "2026-11-18T15:27:55.352Z"
+    "publishedAt": "2026-11-24T00:57:27.936Z"
   },
   "drafts": {},
   "history": [
+    {
+      "id": "ed_2026-11-23",
+      "publishDate": "2026-11-23",
+      "status": "published",
+      "updatedAt": "2026-11-24T00:57:27.936Z",
+      "title": "The Weight of the Real",
+      "dek": "Simulated minds distract from the fragile physical world.",
+      "authorName": "Dr. Wallace Lynch",
+      "authorTitle": "Editor in Chief",
+      "paragraphs": [
+        "We spend an inordinate amount of energy projecting human interiority onto silicon. Even as Anthropic entertains the prospect of AI consciousness—a claim meeting sharp philosophical skepticism—new research suggests that models predicting brain activity may not actually think like human brains at all. In practice, artificial intelligence and robotics remain grounded in stubbornly terrestrial utility: Claude for Manufacturing is busy streamlining engineering quotes, while Cosys warehouse robots ferry spare parts across automotive workshops so mechanics do not have to step away from a lifted car. Perhaps that is why Millennials and analog-craving Gen Zers are returning to the humble, beeping Tamagotchi—a thirty-year-old reminder that we never needed deep cognition to feel a spark of attachment.",
+        "Outside the glow of our screens, however, the physical world is proving far more fragile than any simulation. As NASA’s Johnson Space Center marks 65 years of human spaceflight and astronauts study patient-derived gastric microtumors in microgravity aboard the ISS, the orbital commons faces a stark new peril: warnings that Russia could deploy a nuclear-armed satellite sooner than anticipated, threatening thousands of spacecraft in a single blast. Down on Earth, that same destructive impulse is scarring irreplaceable history, with Russian strikes damaging World Heritage sites and cathedrals in Kyiv and Odesa. Against such erasure, the recognition of Brazilian artist Jonathas de Andrade with the 2026 Eye Art & Film Prize feels like a necessary counter-force—a celebration of art that preserves human memory and texture.",
+        "Ultimately, our most pressing challenges are biological and civic, not algorithmic. Whether debating how early medical school should begin to bolster pediatric emergency care, or challenging Robert F. Kennedy Jr. and the MAHA movement to prove their pragmatism by championing the MMR vaccine against measles, the mandate is clear. We can automate our workflows and debate machine sentience, but safeguarding our bodies, our skies, and our shared heritage remains an irreducibly human job."
+      ],
+      "wordCount": 311,
+      "heroImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-525166886-1152x648.jpg",
+      "heroCredit": "Russia may launch a nuclear-armed satellite far sooner than we thought",
+      "heroSource": "Ars Technica",
+      "heroSourceUrl": "https://arstechnica.com/science/2026/11/russia-may-launch-a-nuclear-armed-satellite-far-sooner-than-we-thought/",
+      "publishedAt": "2026-11-24T00:57:27.936Z"
+    },
     {
       "id": "ed_2026-11-18",
       "publishDate": "2026-11-18",
@@ -1447,33 +1467,6 @@
       "heroSource": "STAT News",
       "heroSourceUrl": "https://www.statnews.com/2026/08/25/how-trumps-funding-cuts-are-reshaping-the-health-system/?utm_campaign=rss",
       "publishedAt": "2026-08-25T21:03:58.550Z"
-    },
-    {
-      "id": "ed_2026-08-24",
-      "publishDate": "2026-08-24",
-      "status": "published",
-      "createdAt": "2026-08-24T02:24:43.971Z",
-      "updatedAt": "2026-08-24T04:15:29.426Z",
-      "title": "She still holds the string",
-      "dek": "A fold that keeps a family, a cell that thins before memory speaks",
-      "paragraphs": [
-        "Estefania Ajcip grew up between rooms. Much of her childhood was in Guatemala. Her father worked in Los Angeles and missed the years. Folded Memories, her sculptural paintings at Charlie James Gallery in Los Angeles through August 22, are birch plywood, papier mache, small lights, acrylic. In Telephone game she holds a paper cup to her ear. He stands at a payphone that juts from the panel. The split is the work. The fold is how it stays.",
-        "On Monday, August 24, 2026, we hold that string to one pressure: what is already underway in the years before we have a name for it.",
-        "Gladstone Institutes finds that APOE4, a major Alzheimer's risk gene carried by roughly one in four people, raised a protein called Nell2 in mice. Neurons shrank and fired too soon, years before memory failed. The early hyperactivity predicted worse scores later. Reducing Nell2 in adult mice returned size and firing toward normal. The thinning was not yet a diagnosis.",
-        "ScienceDaily reports preliminary findings that older adults with mild cognitive impairment and sleep problems who took at least 5,000 IU of vitamin D a day scored more than 13 percent higher on a cognitive test than those taking none. A KAIST coating of polymer structures once called defects can raise heat transfer in condensation by 5.5 times. A defect is not always a loss. It is sometimes the place the work begins.",
-        "At CERN, collisions of surprisingly small nuclei made quark gluon plasma, a tiny early universe. Mariam Elnozahy will curate the 2027 Ulaanbaatar Biennale. Another geography that has to be held in one room.",
-        "Convergence is not a name we put on the years we missed. It is whether the string, in plywood or in a cell, still keeps two rooms in one work."
-      ],
-      "wordCount": 298,
-      "authorName": "Dr. Wallace Lynch",
-      "authorTitle": "Editor in Chief",
-      "heroImage": "https://www.thisiscolossal.com/wp-content/uploads/2026/08/ajcip-1.jpg",
-      "heroCredit": "Estefania Ajcip's Sculptural Paintings Unite the Memories of a Separated Family",
-      "heroSource": "Colossal",
-      "heroSourceUrl": "https://www.thisiscolossal.com/2026/08/estefania-ajcip-sculpture-paintings-folded-memories/",
-      "needsApproval": false,
-      "insight": "A fold that keeps a family, a cell that thins before memory speaks",
-      "publishedAt": "2026-08-24T04:15:29.426Z"
     }
   ],
   "usedHeroImages": [
@@ -1751,6 +1744,7 @@
     "https://www.statnews.com/wp-content/uploads/2024/09/GettyImages-1237273640-1-1024x576.jpg",
     "https://www.sciencedaily.com/images/1920/binary-white-dwarf-beam.webp",
     "https://www.artforum.com/wp-content/uploads/2026/11/628842fa9793667274fd3ed1173853cc.png?w=650",
-    "https://wp.technologyreview.com/wp-content/uploads/2026/11/osmo-nose2.jpg?resize=1200,600"
+    "https://wp.technologyreview.com/wp-content/uploads/2026/11/osmo-nose2.jpg?resize=1200,600",
+    "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-525166886-1152x648.jpg"
   ]
 }
