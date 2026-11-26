@@ -1,61 +1,61 @@
 [
   {
-    "batchId": "auto_2026-11-26T05-34",
-    "scannedAt": "2026-11-26T05:34:39.749Z",
+    "batchId": "auto_2026-11-26T17-55",
+    "scannedAt": "2026-11-26T17:55:11.656Z",
     "items": [
       {
-        "id": "auto_2026-11-26T05-34_1",
+        "id": "auto_2026-11-26T17-55_1",
         "rank": 1,
-        "title": "Astronomers may have discovered a black hole born before the first stars",
+        "title": "The ‘bare-knuckled’ future of life in space with Tim Marshall",
         "category": "space",
-        "summary": "A mysterious object named Phoebe, detected when it briefly magnified a distant star, could be a primordial black hole formed just after the Big Bang. With an estimated mass only three times that of the Moon, it may be a…",
-        "image": "https://www.sciencedaily.com/images/1920/ancient-black-hole-universe.webp",
-        "source": "ScienceDaily",
-        "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261122060346.htm",
+        "summary": "In this episode, Mike Gruss speaks with journalist and best-selling author Tim Marshall. They discuss how the war in Ukraine represented a wakeup call for how Europe and the United […] The post The ‘bare-knuckled’…",
+        "image": "https://i0.wp.com/spacenews.com/wp-content/uploads/2026/11/space-minds-podcast-space-comm-marhsall-2000-1500.jpg?fit=1024%2C768&ssl=1",
+        "source": "SpaceNews",
+        "sourceUrl": "https://spacenews.com/the-bare-knuckled-future-of-life-in-space-with-tim-marshall/",
         "fromX": false
       },
       {
-        "id": "auto_2026-11-26T05-34_2",
+        "id": "auto_2026-11-26T17-55_2",
         "rank": 2,
-        "title": "Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too",
+        "title": "Jensen Huang Is Back, and So Is His Plaque at Denny’s",
         "category": "general",
-        "summary": "A couple of Walmart's budget-friendly smart home cameras will be able to recognize people around your house now using Google's familiar face detection feature. A new Google Home update brings Familiar Faces support to…",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23451196/acastro_220510_STK123_0002.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "sourceUrl": "https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras",
+        "summary": "The chain said it had restored a plaque honoring Mr. Huang above a booth in San Jose, Calif., after he was reinstated at Nvidia, the company he is said to have co-founded while eating there.",
+        "image": "https://static01.nyt.com/images/2026/11/26/multimedia/26xp-dennys-lmgz/26xp-dennys-lmgz-mediumSquareAt3X.jpg",
+        "source": "NYT Technology",
+        "sourceUrl": "https://www.nytimes.com/2026/11/26/business/dennys-jensen-huang-nvidia-plaque.html",
         "fromX": false
       },
       {
-        "id": "auto_2026-11-26T05-34_3",
+        "id": "auto_2026-11-26T17-55_3",
         "rank": 3,
-        "title": "Comment | A missed opportunity for a full accounting of cultural cleansing",
-        "category": "art",
-        "summary": "A Paris exhibition on heritage destruction fails to confront cultural genocide in Gaza and exposes the double standards of international institutions",
-        "image": "https://cdn.sanity.io/images/cxgd3urn/production/4a110cea4cd8bd4948207ff3dd3868f3949f696d-2000x1333.jpg?w=140",
-        "source": "The Art Newspaper",
-        "sourceUrl": "https://www.theartnewspaper.com/2026/11/25/leader-robert-bevan-heritage-in-resistance-exhibition-paris-cultural-cleansing",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-11-26T05-34_4",
-        "rank": 4,
-        "title": "STAT+: FDA approves Cogent's drug for rare stomach cancer",
-        "category": "biotech",
-        "summary": "Cogent Biosciences won FDA clearance for its stomach cancer treatment, in combination with a much older drug from Pfizer called Sutent.",
-        "image": "https://www.statnews.com/wp-content/uploads/2025/11/AdobeStock_917911475-1024x576.jpeg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/11/25/biotech-news-fda-approves-cogents-drug-for-rare-stomach-cancer/?utm_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-11-26T05-34_5",
-        "rank": 5,
-        "title": "Hiring a Moving Company for a California-to-Portland Move: 6 Things to Verify First",
+        "title": "How to Renovate Your Home Without Moving Out During the Project",
         "category": "robotics",
-        "summary": "A move from California to Portland crosses a state line, a mountain pass and several days of transit. That is enough distance for a small problem to turn into an expensive one, and enough time on the road that you will…",
-        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/house-moving-truck-1.png",
+        "summary": "Renovating your home while still living in it sounds like a good way to save money. No temporary rental, no moving your furniture twice, no figuring out where the dog is supposed to sleep. Sounds easy enough, right?…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/cape-cod-roofing-pickup-truck-1.png",
         "source": "Robotics & Automation News",
-        "sourceUrl": "https://roboticsandautomationnews.com/2026/11/25/hiring-a-moving-company-for-a-california-to-portland-move-6-things-to-verify-first/107693/",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/11/26/how-to-renovate-your-home-without-moving-out-during-the-project/107760/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-26T17-55_4",
+        "rank": 4,
+        "title": "Hoor Al Qasimi will curate the 2028 Venice Biennale.",
+        "category": "art",
+        "summary": "Hoor Al Qasimi, president and director of the Sharjah Art Foundation, will curate the 2028 Venice Biennale, La Biennale di Venezia announced on Thursday. The board had appointed her on November 20 as director of the…",
+        "image": "https://artsy-media-uploads.s3.amazonaws.com/GMW5Iju5PSf20v0Bp1EPXA%2Fimg_6148.jpeg",
+        "source": "Artsy",
+        "sourceUrl": "https://www.artsy.net/article/artsy-editorial-hoor-al-qasimi-will-curate-2028-venice-biennale",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-26T17-55_5",
+        "rank": 5,
+        "title": "STAT+: The grueling struggle to find a primary care doctor in the ‘medical capital' of America",
+        "category": "biotech",
+        "summary": "Boston is supposed to be the medical capital of America. Yet many don’t have primary care access, hurting their ability to get treatments, screenings, and medical advice.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_2158931352-1024x576.jpeg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/11/26/primary-care-appointment-times-doctor-shortage/?utm_campaign=rss",
         "fromX": false
       }
     ]
