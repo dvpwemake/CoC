@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-11-27T02-28",
+    "scannedAt": "2026-11-27T02:28:48.139Z",
+    "items": [
+      {
+        "id": "auto_2026-11-27T02-28_1",
+        "rank": 1,
+        "title": "The Best Black Friday Deals Are Now Live: Our Expert Picks for 2026",
+        "category": "general",
+        "summary": "The early bird gets the worm. Here are the best Black Friday deals for 2026 you can get right now.",
+        "image": "https://media.wired.com/photos/6b089bf933af9bd86d9db0c5/master/pass/Black-Friday-Deals.jpg",
+        "source": "WIRED",
+        "sourceUrl": "https://www.wired.com/story/best-black-friday-deals-11-26-2026/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-27T02-28_2",
+        "rank": 2,
+        "title": "In a fertility advance, engineered molecular glue stabilizes chromosomes in aging eggs",
+        "category": "biotech",
+        "summary": "Researchers engineered a protein system capable of restoring normal chromosome connections in aging mouse eggs, raising hopes of one day improving IVF outcomes",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/11/Meta-phase-II-spindle-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/11/26/fertility-advance-engineered-protein-stabilizes-chromosomes-in-aging-eggs/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-27T02-28_3",
+        "rank": 3,
+        "title": "Lute raises $20 million to give robots a sense of touch",
+        "category": "robotics",
+        "summary": "Lute, a physical AI startup developing foundation models that enable robots to use tactile information alongside visual data, has raised $20 million in seed and pre-seed funding to expand its technology across retail,…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/lute-image-1.png",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/11/26/lute-raises-20-million-to-give-robots-a-sense-of-touch/107756/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-27T02-28_4",
+        "rank": 4,
+        "title": "Hoor Al Qasimi to curate Venice Biennale in 2028",
+        "category": "art",
+        "summary": "The director of the Sharjah Art Foundation and the Sharjah Biennial has been appointed the curator of the 62nd International Art Exhibition",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/8f833d294c66f11a9ab526cd297c9b9e1f538f80-1200x1033.avif?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/11/26/emirati-curator-hoor-al-qasimi-to-lead-venice-biennale-in-2028",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-27T02-28_5",
+        "rank": 5,
+        "title": "The surprising reason women seem better at multitasking than men",
+        "category": "neuroscience",
+        "summary": "Men and women appear to be similarly capable of multitasking, but men are more than twice as likely to ignore conversation while juggling multiple activities. Researchers believe this unexpected difference may help…",
+        "image": "https://www.sciencedaily.com/images/1920/woman-business-multitasking-stress.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261125045306.htm",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-11-26T17-55",
     "scannedAt": "2026-11-26T17:55:11.656Z",
     "items": [
@@ -3179,67 +3240,6 @@
         "image": "https://images-assets.nasa.gov/image/iss075e0011109/iss075e0011109~large.jpg",
         "source": "NASA",
         "sourceUrl": "https://www.nasa.gov/news-release/nasa-to-host-news-conference-previewing-us-spacewalks-100-101/",
-        "fromX": false
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-10-13T20-50",
-    "scannedAt": "2026-10-13T20:50:50.014Z",
-    "items": [
-      {
-        "id": "auto_2026-10-13T20-50_1",
-        "rank": 1,
-        "title": "OpenAI employee arrested for allegedly planting recording device",
-        "category": "general",
-        "summary": "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices. The employee, 35-year-old Abdulrahman Alfozan, is charged with using or attempting to…",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-13T20-50_2",
-        "rank": 2,
-        "title": "NASA Names Astronaut Christina Koch Acting Deputy Chief Engineer",
-        "category": "space",
-        "summary": "NASA engineer and astronaut Christina Koch will serve as the agency’s acting deputy chief engineer beginning on Sunday, Nov. 1, following the retirement of Katherine Van Hooser, who will conclude more than 35 years of…",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/10/christina-koch-release-oct-13.jpg",
-        "source": "NASA",
-        "sourceUrl": "https://www.nasa.gov/news-release/nasa-names-astronaut-christina-koch-acting-deputy-chief-engineer/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-13T20-50_3",
-        "rank": 3,
-        "title": "STAT+: BlackRock to buy majority stake in Humana’s CenterWell clinics for $2.8 billion",
-        "category": "biotech",
-        "summary": "Humana is swapping out private equity sponsors for its CenterWell Senior Primary Care clinics. Good bye, Welsh, Carson, Anderson & Stowe. Hello, BlackRock.",
-        "image": "https://www.statnews.com/wp-content/uploads/2026/10/GettyImages-2256485829-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/10/13/blackrock-humana-centerwell-deal-senior-care-medicare-clinics/?utm_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-13T20-50_4",
-        "rank": 4,
-        "title": "PCOS/PMOS Increases Alzheimer’s Risk",
-        "category": "neuroscience",
-        "summary": "Women with PMOS (formerly PCOS) face higher risks for Alzheimer's and dementia, driven largely by insulin resistance and obesity.",
-        "image": "https://neurosciencenews.com/files/2026/10/pcos-alzheimers-neuroscience-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/pcos-pmos-alzheimers-risk-31312/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-10-13T20-50_5",
-        "rank": 5,
-        "title": "Architect Junya Ishigami Wins Inaugural $100,000 Barragán Prize",
-        "category": "art",
-        "summary": "Japanese architect Junya Ishigami, known for airy designs that link the built environment to nature, has been announced as the first winner of the newly launched Barragán Prize, the Architect’s Newspaper reports. Named…",
-        "image": "https://www.artforum.com/wp-content/uploads/2026/10/barragan_prize_crop_10x7.jpg?w=650",
-        "source": "Artforum",
-        "sourceUrl": "https://www.artforum.com/news/architect-junya-ishigami-wins-inaugural-barragan-prize-1234761314/",
         "fromX": false
       }
     ]

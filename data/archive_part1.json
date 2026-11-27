@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-10-13T20-50",
+    "scannedAt": "2026-10-13T20:50:50.014Z",
+    "items": [
+      {
+        "id": "auto_2026-10-13T20-50_1",
+        "rank": 1,
+        "title": "OpenAI employee arrested for allegedly planting recording device",
+        "category": "general",
+        "summary": "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices. The employee, 35-year-old Abdulrahman Alfozan, is charged with using or attempting to…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-13T20-50_2",
+        "rank": 2,
+        "title": "NASA Names Astronaut Christina Koch Acting Deputy Chief Engineer",
+        "category": "space",
+        "summary": "NASA engineer and astronaut Christina Koch will serve as the agency’s acting deputy chief engineer beginning on Sunday, Nov. 1, following the retirement of Katherine Van Hooser, who will conclude more than 35 years of…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/10/christina-koch-release-oct-13.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/news-release/nasa-names-astronaut-christina-koch-acting-deputy-chief-engineer/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-13T20-50_3",
+        "rank": 3,
+        "title": "STAT+: BlackRock to buy majority stake in Humana’s CenterWell clinics for $2.8 billion",
+        "category": "biotech",
+        "summary": "Humana is swapping out private equity sponsors for its CenterWell Senior Primary Care clinics. Good bye, Welsh, Carson, Anderson & Stowe. Hello, BlackRock.",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/10/GettyImages-2256485829-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/10/13/blackrock-humana-centerwell-deal-senior-care-medicare-clinics/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-13T20-50_4",
+        "rank": 4,
+        "title": "PCOS/PMOS Increases Alzheimer’s Risk",
+        "category": "neuroscience",
+        "summary": "Women with PMOS (formerly PCOS) face higher risks for Alzheimer's and dementia, driven largely by insulin resistance and obesity.",
+        "image": "https://neurosciencenews.com/files/2026/10/pcos-alzheimers-neuroscience-1155x770.jpg",
+        "source": "Neuroscience News",
+        "sourceUrl": "https://neurosciencenews.com/pcos-pmos-alzheimers-risk-31312/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-10-13T20-50_5",
+        "rank": 5,
+        "title": "Architect Junya Ishigami Wins Inaugural $100,000 Barragán Prize",
+        "category": "art",
+        "summary": "Japanese architect Junya Ishigami, known for airy designs that link the built environment to nature, has been announced as the first winner of the newly launched Barragán Prize, the Architect’s Newspaper reports. Named…",
+        "image": "https://www.artforum.com/wp-content/uploads/2026/10/barragan_prize_crop_10x7.jpg?w=650",
+        "source": "Artforum",
+        "sourceUrl": "https://www.artforum.com/news/architect-junya-ishigami-wins-inaugural-barragan-prize-1234761314/",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-10-12T20-27",
     "scannedAt": "2026-10-12T20:27:22.529Z",
     "items": [
@@ -3016,67 +3077,6 @@
         "isEditorialArchive": true,
         "publishDate": "2026-09-02",
         "authorName": "Dr. Wallace Lynch"
-      }
-    ]
-  },
-  {
-    "batchId": "auto_2026-09-02T22-02",
-    "scannedAt": "2026-09-02T22:02:46.823Z",
-    "items": [
-      {
-        "id": "auto_2026-09-02T22-02_1",
-        "rank": 1,
-        "title": "How Severe Illness During Pregnancy Alters Fetal Brain Development",
-        "category": "neuroscience",
-        "summary": "Salk scientists discover how severe illness during pregnancy alters fetal epigenomes, increasing the risk for autism and neurodevelopmental disorders.",
-        "image": "https://neurosciencenews.com/files/2026/09/fetal-brain-epigenetics-maternal-illness-1155x770.jpg",
-        "source": "Neuroscience News",
-        "sourceUrl": "https://neurosciencenews.com/illness-during-pregnancy-alters-fetal-brain-development-31209/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-02T22-02_2",
-        "rank": 2,
-        "title": "Democrats Have a Plan to Force Trump’s Associates to Cooperate With Investigations",
-        "category": "general",
-        "summary": "Donald Trump’s West Wing renovations and DC arch could be on the chopping block, should Democrats win the midterms—they could also be leverage.",
-        "image": "https://media.wired.com/photos/6a9753168e71dd67ca5defbc/master/pass/politics_democrats_prosecute_trump_family.jpg",
-        "source": "WIRED",
-        "sourceUrl": "https://www.wired.com/story/democrats-have-a-plan-to-force-trumps-associates-to-cooperate-with-investigations/",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-02T22-02_3",
-        "rank": 3,
-        "title": "STAT+: Ultragenyx drug to treat Angelman syndrome, a rare disease, fails late-stage trial",
-        "category": "biotech",
-        "summary": "Ultragenyx said its experimental therapy for Angelman syndrome, a rare disease, showed no benefit compared to a sham treatment in a Phase 3 trial.",
-        "image": "https://www.statnews.com/wp-content/uploads/2024/05/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_Wiggs-_Bedford_2-1024x576.jpg",
-        "source": "STAT News",
-        "sourceUrl": "https://www.statnews.com/2026/09/02/ultragenyx-drug-angelman-syndrome-clinical-trial/?utm_campaign=rss",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-02T22-02_4",
-        "rank": 4,
-        "title": "Clean energy super PAC looks to take down a Democratic governor",
-        "category": "energy",
-        "summary": "The troubled reelection campaign of Rhode Island Gov. Dan McKee is facing a new obstacle: a super PAC determined to take down foes of clean energy. The Invest in Tomorrow Coalition has declared McKee its first…",
-        "image": "https://img.canarymedia.com/content/uploads/Dan-McKee-Rhode-Island-portrait_GettyImages-2272891218.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=e9dbf5a5ef71616156bfb9aedfc2dd26",
-        "source": "Canary Media",
-        "sourceUrl": "https://www.canarymedia.com/articles/politics/clean-energy-super-pac-looks-to-take-down-a-democratic-governor",
-        "fromX": false
-      },
-      {
-        "id": "auto_2026-09-02T22-02_5",
-        "rank": 5,
-        "title": "The 5 Best Booths at Kiaf SEOUL 2026",
-        "category": "art",
-        "summary": "Kiaf SEOUL returned to the COEX in Gangnam with a typically stylish and enthusiastic crowd on Wednesday, September 2nd. Marking a milestone 25th anniversary, the fair brings together 175 exhibitors from 18 countries…",
-        "image": "https://artsy-media-uploads.s3.amazonaws.com/9gmGmC47aprNdzmvJIXhmw%2F2_Kiaf+SEOUL+2025.+Courtesy+of+Galleries+Association+of+Korea+%E2%93%92+Creative+Resource.jpg",
-        "source": "Artsy",
-        "sourceUrl": "https://www.artsy.net/article/artsy-editorial-5-best-booths-kiaf-seoul-2026",
-        "fromX": false
       }
     ]
   }

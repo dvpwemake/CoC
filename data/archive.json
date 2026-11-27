@@ -1,5 +1,66 @@
 [
   {
+    "batchId": "auto_2026-11-27T02-28",
+    "scannedAt": "2026-11-27T02:28:48.139Z",
+    "items": [
+      {
+        "id": "auto_2026-11-27T02-28_1",
+        "rank": 1,
+        "title": "The Best Black Friday Deals Are Now Live: Our Expert Picks for 2026",
+        "category": "general",
+        "summary": "The early bird gets the worm. Here are the best Black Friday deals for 2026 you can get right now.",
+        "image": "https://media.wired.com/photos/6b089bf933af9bd86d9db0c5/master/pass/Black-Friday-Deals.jpg",
+        "source": "WIRED",
+        "sourceUrl": "https://www.wired.com/story/best-black-friday-deals-11-26-2026/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-27T02-28_2",
+        "rank": 2,
+        "title": "In a fertility advance, engineered molecular glue stabilizes chromosomes in aging eggs",
+        "category": "biotech",
+        "summary": "Researchers engineered a protein system capable of restoring normal chromosome connections in aging mouse eggs, raising hopes of one day improving IVF outcomes",
+        "image": "https://www.statnews.com/wp-content/uploads/2026/11/Meta-phase-II-spindle-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/11/26/fertility-advance-engineered-protein-stabilizes-chromosomes-in-aging-eggs/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-27T02-28_3",
+        "rank": 3,
+        "title": "Lute raises $20 million to give robots a sense of touch",
+        "category": "robotics",
+        "summary": "Lute, a physical AI startup developing foundation models that enable robots to use tactile information alongside visual data, has raised $20 million in seed and pre-seed funding to expand its technology across retail,…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/lute-image-1.png",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/11/26/lute-raises-20-million-to-give-robots-a-sense-of-touch/107756/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-27T02-28_4",
+        "rank": 4,
+        "title": "Hoor Al Qasimi to curate Venice Biennale in 2028",
+        "category": "art",
+        "summary": "The director of the Sharjah Art Foundation and the Sharjah Biennial has been appointed the curator of the 62nd International Art Exhibition",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/8f833d294c66f11a9ab526cd297c9b9e1f538f80-1200x1033.avif?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/11/26/emirati-curator-hoor-al-qasimi-to-lead-venice-biennale-in-2028",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-27T02-28_5",
+        "rank": 5,
+        "title": "The surprising reason women seem better at multitasking than men",
+        "category": "neuroscience",
+        "summary": "Men and women appear to be similarly capable of multitasking, but men are more than twice as likely to ignore conversation while juggling multiple activities. Researchers believe this unexpected difference may help…",
+        "image": "https://www.sciencedaily.com/images/1920/woman-business-multitasking-stress.webp",
+        "source": "ScienceDaily",
+        "sourceUrl": "https://www.sciencedaily.com/releases/2026/11/261125045306.htm",
+        "fromX": false
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-11-26T17-55",
     "scannedAt": "2026-11-26T17:55:11.656Z",
     "items": [
