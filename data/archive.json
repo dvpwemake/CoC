@@ -1,5 +1,25 @@
 [
   {
+    "batchId": "editorial_2026-11-24",
+    "scannedAt": "2026-11-24T20:31:13.388Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-11-24",
+        "rank": 0,
+        "title": "The Measure of Scale",
+        "category": "editorial",
+        "summary": "Between cosmic ambition, billion-dollar deals, and human craft.",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/11/cas-a-webb-miri.png",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-11-24.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-11-24",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-11-27T23-46",
     "scannedAt": "2026-11-27T23:46:32.113Z",
     "items": [
