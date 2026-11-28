@@ -1,21 +1,62 @@
 [
   {
-    "batchId": "editorial_2026-11-24",
-    "scannedAt": "2026-11-24T20:31:13.388Z",
-    "kind": "editorial_archive",
+    "batchId": "auto_2026-11-28T05-04",
+    "scannedAt": "2026-11-28T05:04:27.684Z",
     "items": [
       {
-        "id": "editorial_2026-11-24",
-        "rank": 0,
-        "title": "The Measure of Scale",
-        "category": "editorial",
-        "summary": "Between cosmic ambition, billion-dollar deals, and human craft.",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/11/cas-a-webb-miri.png",
-        "source": "Chronicle of Convergence · Editorial",
-        "sourceUrl": "https://chronicleofconvergence.com/e/2026-11-24.html",
-        "isEditorialArchive": true,
-        "publishDate": "2026-11-24",
-        "authorName": "Dr. Wallace Lynch"
+        "id": "auto_2026-11-28T05-04_1",
+        "rank": 1,
+        "title": "The M5 MacBook Air just got its biggest discount since Apple raised the price",
+        "category": "general",
+        "summary": "If you’ve been holding off on buying a new MacBook Air since Apple raised prices by $200 in June, you’re in luck. The 13-inch M5 MacBook Air is on sale at Amazon and Best Buy with 16GB of RAM and 512GB of storage…",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268408_Apple_MacBook_Air_15_M5_laptop_ADiBenedetto_0010.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "sourceUrl": "https://www.theverge.com/gadgets/1044771/m5-macbook-air-black-friday-2026-deal-sale",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-28T05-04_2",
+        "rank": 2,
+        "title": "Robbyant open-sources AI models to improve robotic navigation and spatial memory",
+        "category": "robotics",
+        "summary": "Robbyant, an embodied AI company within Ant Group, has announced the open-source release of two AI models designed to improve robots’ ability to map physical environments, retain spatial information and navigate…",
+        "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/LingBot-1.png",
+        "source": "Robotics & Automation News",
+        "sourceUrl": "https://roboticsandautomationnews.com/2026/11/27/robbyant-open-sources-ai-models-to-improve-robotic-navigation-and-spatial-memory/107827/",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-28T05-04_3",
+        "rank": 3,
+        "title": "After nearly two decades, the Old Acropolis Museum in Athens re-opens",
+        "category": "art",
+        "summary": "Greece's first modern museum presently hosts an installation by Michael Rakowitz unearthing a lesser-known episode in the Acropolis’s history",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/0ff97b00f2e0e42dc50e058b7ea00adb2e14eb21-8192x5464.jpg?w=140",
+        "source": "The Art Newspaper",
+        "sourceUrl": "https://www.theartnewspaper.com/2026/11/27/after-nearly-two-decades-the-old-acropolis-museum-in-athens-re-opens",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-28T05-04_4",
+        "rank": 4,
+        "title": "The stories we’re grateful for this year",
+        "category": "biotech",
+        "summary": "STAT staffers have put together a list of the stories we’re thankful for this year — check out our favorites.",
+        "image": "https://www.statnews.com/wp-content/uploads/2022/11/GettyImages-625708976-1024x576.jpg",
+        "source": "STAT News",
+        "sourceUrl": "https://www.statnews.com/2026/11/27/favorite-stat-stories-health-news-morning-rounds/?utm_campaign=rss",
+        "fromX": false
+      },
+      {
+        "id": "auto_2026-11-28T05-04_5",
+        "rank": 5,
+        "title": "Artemis III Astronaut Andre Douglas Visits VAB",
+        "category": "space",
+        "summary": "NASA astronaut Andre Douglas, Artemis III mission specialist, stands inside an RS-25 engine test article during a visit to the Vehicle Assembly Building at NASA’s Kennedy Space Center in Florida on Tuesday, Nov. 17,…",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/11/ksc-20261117-ph-kls02-0020orig.jpg",
+        "source": "NASA",
+        "sourceUrl": "https://www.nasa.gov/image-article/artemis-iii-astronaut-andre-douglas-visits-vab/",
+        "fromX": false
       }
     ]
   },
@@ -199,6 +240,26 @@
         "source": "NASA",
         "sourceUrl": "https://www.nasa.gov/organizations/osbp/nasa-enhances-supplier-program-announces-mentor-protege-agreement/",
         "fromX": false
+      }
+    ]
+  },
+  {
+    "batchId": "editorial_2026-11-24",
+    "scannedAt": "2026-11-24T20:31:13.388Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-11-24",
+        "rank": 0,
+        "title": "The Measure of Scale",
+        "category": "editorial",
+        "summary": "Between cosmic ambition, billion-dollar deals, and human craft.",
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/11/cas-a-webb-miri.png",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-11-24.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-11-24",
+        "authorName": "Dr. Wallace Lynch"
       }
     ]
   },
