@@ -1,5 +1,25 @@
 [
   {
+    "batchId": "editorial_2026-11-27",
+    "scannedAt": "2026-11-27T23:53:58.031Z",
+    "kind": "editorial_archive",
+    "items": [
+      {
+        "id": "editorial_2026-11-27",
+        "rank": 0,
+        "title": "From Orbital Defense to the Corner Booth",
+        "category": "editorial",
+        "summary": "Ambition scales up across space, silicon, and cultural institutions.",
+        "image": "https://cdn.sanity.io/images/cxgd3urn/production/4f559b5b633ba45818caef72e453723cef0c5602-2048x1536.jpg?w=140",
+        "source": "Chronicle of Convergence · Editorial",
+        "sourceUrl": "https://chronicleofconvergence.com/e/2026-11-27.html",
+        "isEditorialArchive": true,
+        "publishDate": "2026-11-27",
+        "authorName": "Dr. Wallace Lynch"
+      }
+    ]
+  },
+  {
     "batchId": "auto_2026-11-28T16-26",
     "scannedAt": "2026-11-28T16:26:07.615Z",
     "items": [
